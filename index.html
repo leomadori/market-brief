@@ -84,6 +84,11 @@
   .empty { text-align: center; color: var(--muted); font-style: italic; padding: 30px 0; }
   .error { text-align: center; padding: 40px 0; }
 
+  figure.korova { margin: 34px auto 0; width: min(585px, 100%); text-align: center; }
+  figure.korova img { display: block; width: 100%; height: auto; aspect-ratio: 2000 / 1386;
+                      border: 1px solid #000; box-shadow: 3px 3px 4px rgba(0,0,0,.18); }
+  figure.korova figcaption { margin-top: 10px; font-style: italic; font-size: 17px; line-height: 1.4; }
+
   footer { text-align: center; margin-top: 34px; font-size: 15px; }
   footer .note { margin: 0 0 10px; }
   footer .small { font: 11px/1.6 Verdana, Geneva, sans-serif; color: var(--muted); }
@@ -115,6 +120,10 @@
     <span class="seg" id="newSeg"><button data-v="all" class="on">Everything</button><button data-v="new">New only</button></span>
   </div>
   <main id="main"></main>
+  <figure class="korova">
+    <img src="assets/korova.webp" width="2000" height="1386" loading="lazy" alt="Four men in bowler hats and white outfits holding glasses of milk at the Korova Milk Bar">
+    <figcaption>&ldquo;Welly, welly, welly, welly, welly, welly, well. To what do I owe the extreme pleasure of this surprising visit?&rdquo;</figcaption>
+  </figure>
   <hr class="groove">
   <footer id="footer"></footer>
 </div>
