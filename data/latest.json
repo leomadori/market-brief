@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T15:11:30.013826+00:00",
+ "generated_at": "2026-10-09T15:17:20.542668+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 34
+   "item_count": 35
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 40
+   "item_count": 41
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 44
+   "item_count": 43
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 106
+   "item_count": 108
   },
   {
    "name": "ETFs",
@@ -63,7 +63,7 @@
    "first_seen": "2026-10-09",
    "count": 7,
    "ratio": 7.0,
-   "item_count": 27
+   "item_count": 26
   },
   {
    "name": "Solana",
@@ -96,7 +96,7 @@
    "first_seen": "2026-10-09",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 33
+   "item_count": 32
   },
   {
    "name": "Nvidia",
@@ -107,7 +107,7 @@
    "first_seen": "2026-10-09",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 26
+   "item_count": 25
   },
   {
    "name": "Bunker Mode",
@@ -129,7 +129,7 @@
    "first_seen": "2026-10-09",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 24
+   "item_count": 25
   },
   {
    "name": "CEO",
@@ -156,12 +156,12 @@
    ]
   },
   {
-   "title": "Marwynn Signs MOU with OmniX to Supply AI Computing and Evaluate Real-World Asset Securities Infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMWJCZk1FT0pOZVpfQ0xySHRBMnZqaml6c0o2R3RoMmM5c1JBT0FOTEJVOGZQajRpLXRhb18xMFRFNEJhbzlaVlBqR1hBOFJlWERlY2ZaQjJXeTVXVVhiWk1Xd3lSOUF6ZDdidzkzenlVX0tCZDUzVnR2ZGtzZ213ZkYtWEtNSkdPa3FzZWxWQy1lSVJvRk14cTcwY3NMdE5fdmtKNFJBaFFSa25YYUxDYjdJNjVuX3BCZlZVVjFOZ0N1WnFCcmx3V0diYk9Sa2dCWVBIZ2doTTdHbE54SV9tbWF4RGlsdEhtZGJ2clh5TWpTS1YxdGhLbVI0TE5lcWhlWXl1dk8zSkVRWjJMZFHSAZMCQVVfeXFMT2tacmJ2VHpFajZacndYdDQ3UVl0RzJDWHFzc2g0eFd1bjl0VjhXcGpnVFlMUWZKaVN6Q3JYbTlKNnlkbnNkWkMyN1hVcXpjSGxmaC1lNHF0Ynhid0laVHdKV0NLZWQyeVpud3pfTlpOQll4d2p6R21leENvU29DZm1qSV9iRzhMZFRQYXZzZ1Q5a0ZfVDBycmxpbzQ2QUxhTjlKR3BkU2tXWGdUYjR2eHc5a19URkRCOGpHZklRZEY3bHJMbVE1VkFIUWd3X1hFWUdaU0FYanRaV0xGRG85V3lJQ3RTSGgyOE0yZ1dXTFJ1Ym03cjNUWEQya3lnMVNYc1p0RV9tX3BjMXAzTjhqOUFibmM?oc=5",
-   "source": "The Manila Times",
+   "title": "Marwynn Holdings Signs MOU with OmniX Technologies to Explore AI Compute, Data Analytics and RWA Securities Infrastructure Cooperation",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMkc1SDhnQ1czbWEteGRfcENkZWxDMmlpb19GQmlsdFRVNVB1ZUp5N2JXNzc0YjJJWE5OTzdWMEhXQlphY0hXaHVQQk5yS09ZWV9UbXFOcm12SG9sYmdhYnhUMjFwZ19BNVEzT01iT2ZoWVpZZjZTaUUzUEFIczF5akJUQ1BlSUlOODNCQmZMRG9xRHhjdDNWdEVvTXlXeTBvTF90eXpjSm80a3JhcmNzUnQ4aEpWY0V6WXBfd1NGdEt4bjZYTHBlb2RvMUFPSll1TkU1TmdzM1NaOXlCTXVpWkc2SjNNLUsyejNNU0xjMUFNdDBRdlJQdWRzRnJvUQ?oc=5",
+   "source": "Quiver Quantitative",
    "type": "news",
-   "published": "2026-10-09T15:12:05+00:00",
-   "first_seen": "2026-10-09T15:11:30.013826+00:00",
+   "published": "2026-10-09T15:10:00+00:00",
+   "first_seen": "2026-10-09T15:17:20.542668+00:00",
    "topics": [
     "RWA"
    ]
@@ -209,6 +209,17 @@
    "topics": [
     "Bitcoin",
     "ETFs"
+   ]
+  },
+  {
+   "title": "Google Could 'Eat OpenAI's Lunch,' Warns Cal Newport",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbUo1UVAyR1BlMW1yeDRNM2lwSDZ6RGs3Z3VPQTdfOUlWZGRmVi0tQldISHFhaE1wS1h5TW9maEZoLW5UUmQzYlBoNHFDY0NPNDlDbTNQSUFxLUk5eFJ4TXBtR1RTZXJUQXZzeEVGaWY4RUxUeFBKX0YwMUNSRzhQMDB6SU5ScDYxT0hwTXYzby05ZFBSa21JQzkwREFXM1VSdUNoZXhGb0d3anVBdlo5RmdZZEVJdw?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-10-09T15:04:46+00:00",
+   "first_seen": "2026-10-09T15:17:20.542668+00:00",
+   "topics": [
+    "OpenAI"
    ]
   },
   {
@@ -448,6 +459,18 @@
    ]
   },
   {
+   "title": "US Spot Bitcoin ETFs See $244 Million of Net Outflows for Second Straight Session",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5V1JCMTcwRUhUSTZmOTVkQXlERDBBUHNTdmRKYlYwOHNDUHFQM1N6RFJ3U3JtbDlKUGdSMnY5QXd5ZzU3RHMyUU1qcUlWTGxZOEJaMQ?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-10-09T14:03:03+00:00",
+   "first_seen": "2026-10-09T14:36:43.197980+00:00",
+   "topics": [
+    "Bitcoin",
+    "ETFs"
+   ]
+  },
+  {
    "title": "SpaceX in the S&P 500 would push AI stocks to 51% of the index, strategist says",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX1FjUnVxaDc0bHl3el94RjZJaldwVHNzZGZpWkZmQ3pINXRtd25qMEYxeWFTMnItRFVGS1RMUEduUHBBWll2UVI0VVY5Umxla0RITy1CeWRtamx3eUZTR05pNEN6VEFNZFZCM3h1Q1JKOXJsOVcyeTdhODhwNG5PLWMyX2VGTE9oXy1mNmYtUm5UMGxOV1RzZXhQdFpMRG81U3E5c2tIRU95allhb3FGcEJMcG1mQy12TXdWeXJubHBISGFnOWpaWE9yQ0tnSFZFdzBtNHlwdw?oc=5",
    "source": "Yahoo Finance",
@@ -548,11 +571,11 @@
   },
   {
    "title": "Nasdaq rises after OpenAI revenue report rattles AI stocks",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDlHaWo4R1pjSjdRelRRRVNPa1RXQ01HUzYxWFBpa0VvYjNzS0RIaTYtUFRjSmN5SW9FT0pQLWpnVU9oQU4yYjRuM1UtbUZuVWNPMUwzZnRrZ3hSVDQydlkyYlUtWHVoS25fNHltbFhFcktUTE1rUkx1VWhyOW9MMVBCZlFTMFVDZEJHZk9RQkxObkJFalBZUnQxNEU0R2VR?oc=5",
-   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4bnlqV01Xalh4M0xqb1FucmRITVpCUV9Uc3lnai1zZDF4YjE2Q2xQOWtGSGh0aXgtN05FZmRfazhWODRoMEVqeVYzODVNSjJ0Wk1nTHg4cGZ1dVJERUNnQzJMb2FJU2xJekE4akc0aGE4VjY5Q3JSamNxUUIzQQ?oc=5",
+   "source": "Quartz",
    "type": "news",
-   "published": "2026-10-09T13:48:46+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
+   "published": "2026-10-09T13:49:08+00:00",
+   "first_seen": "2026-10-09T15:17:20.542668+00:00",
    "topics": [
     "OpenAI"
    ]
@@ -566,17 +589,6 @@
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "Ethereum"
-   ]
-  },
-  {
-   "title": "US open: Stocks higher as tech rebounds after OpenAI\u2011driven AI pullback",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREI5SzVfRm0xMzAtek1mQURGWlZELUtTQ2J1aHk0RXJ0SVk2VWJZRXdyLUtQMFU3TTc0d1BUNDRhSXhNY21zQTNVMXh1aFhNT2lBLUxPVWVDeHhBMlRNUFppMUhBa0NPbmQ3M2gxcUJOVnp2YlR4d0VzRmg3ZHhqbGY5VWdrM1hadi1lZm5obkFoRnBneThRQnI1ZTlSUl9rYlVCOXN5WWFvSTFDbEExbG9iOVE1WXJuYUdIeElWVmNkcHBMcFZJdFZKX3hRdHM?oc=5",
-   "source": "Sharecast.com",
-   "type": "news",
-   "published": "2026-10-09T13:45:41+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "OpenAI"
    ]
   },
   {
@@ -612,17 +624,6 @@
     "Ethereum",
     "Bitcoin",
     "ETFs"
-   ]
-  },
-  {
-   "title": "Solana News Today: Block Times Set to Drop to 200ms as Final Upgrade Nears",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzFkN01KdjFydTdvUy16M0QzR1NxQnlMMHNBZy1ZbDk5MjB4UUVPZThhb0lkS2xEajlHejRrODhBR200NXVLcTBDVFBNSjRNS2JDX0VvT1dhM210Q01XaTl1eXNkaGZ1aTlrbUlocWhuOUZlWmFZVkdOclJxcjh1eXZ4UUM?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-09T13:39:29+00:00",
-   "first_seen": "2026-10-09T15:11:30.013826+00:00",
-   "topics": [
-    "Solana"
    ]
   },
   {
@@ -667,17 +668,6 @@
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Nvidia and Micron are about to lord their successes all over Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmlzVm5iREgzRG0tc19lcHZCQkZWcV9fOFc2ekZGZWVZUnR4ZDVsbEV3dXFCNzAzU1FyZnpiU1RWcUtpQ3ZLQnhGZGRXYXNNa1RUX0owSG9yektaQmFoRzA0bWk2NzRqVVQzNHNGMzNzV1QyUUx6bDVIdjJzQ1RfaHlVYjhoQ3BwNFpyVEwycGtBX0xHd3dRMGtwNVRrT0RwazFnYTVHU3phWkNlbmNLV1JibjltQQ?oc=5",
-   "source": "TheStreet",
-   "type": "news",
-   "published": "2026-10-09T13:37:00+00:00",
-   "first_seen": "2026-10-09T15:11:30.013826+00:00",
-   "topics": [
-    "Nvidia"
    ]
   },
   {
@@ -808,23 +798,12 @@
    ]
   },
   {
-   "title": "AT&T, Verizon And T-Mobile Stocks Slump As SpaceX Announces Key \u2018Starlink Mobile\u2019 Deal",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUd3YloxSENyZG1nSENYNHJjeW9YVXlvT3pjaHdEaVdHRUpESDlkYjI2QWF1TUNiZlZwS0xISGk2ekN2S3VfTlVvcjV1YVJ2VEVrbHhPQkRKQTgwdjZTSzNTcWY4U1I1a0MxbDY5MTI1ZmhDR3p4cllUeWdMTWtJV3NLOHNJSU9ndWZLT0dkWkVSLUpSenNCOWxzWVJwcVZuakxKNDlsUGVBcU9Cd1Z2TmM5TjI5ZW1sV1NZcEtwSnpCNWp6a2xEaC1xeGJ2MzB6V0E?oc=5",
-   "source": "Forbes",
-   "type": "news",
-   "published": "2026-10-09T13:21:19+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
    "title": "Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeWdoOXAzaW9LM2VaZVQ1ZEJ6UmJ3OVNkZWRuY3RDcE55R2lTcHdtNVJHdFJZMnVFNEtrUkV1RHdDUlBLVHEzNXc5cFAtYTRkTTZEQjZCdjZ2Ty1veDgyRGdobUEtR21xdTFSS00zS0ZBU253RVFmRlJQLUZQb2JReVo0Q0ExM3Q5MHg5ZGFMZEo0ZDRTMzBuYkhjZmtuUWc5T3RPV2p0TEtadXo5Wm5jV3dGRl9Bekw3ZFN5SlpnbmNMYk00V216dmNGQ2hLc0todGxZdVdzbw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGdDX19XYWJWaVFjMk4zRFo3QWVzbVZYZGpOT0RfUDFQRVBta3RuR3ZObVRqU0oyakUzdmxlNWljZVRrX1pHOTJuZFp1dE44end2UkFQLTFmVTRyRWVSM0t5VE9mYndrUnNEeVg1OHllbTNSeXpwTHdSNUxTbC1kdUppU2lucDVEYlVSU0hqMFdBN0VRd25waWlkZ3VpN1JsUlY2bVhha25EZzdnMGxUUTZQaUdKSWh5VE90alk2MA?oc=5",
    "source": "MarketWatch",
    "type": "news",
    "published": "2026-10-09T13:21:00+00:00",
-   "first_seen": "2026-10-09T15:11:30.013826+00:00",
+   "first_seen": "2026-10-09T15:17:20.542668+00:00",
    "topics": [
     "OpenAI",
     "Nvidia"
@@ -839,17 +818,6 @@
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "ETFs Investing in Shanghai Daimay Automotive Interior Co., Ltd. Class A Stocks",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PY2xWUlJRbWhnT3FseDFkb19SY21XQ1dTbGpRREdvUG1mMHhhR0x6NkFiSlQyS2RQM3o4WUNkdDgxOXdrTUtrM3ZnaEk3UnUxb2h4dmlGdVA4WXN2WGZ1dTJB?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-09T13:19:44+00:00",
-   "first_seen": "2026-10-09T15:11:30.013826+00:00",
-   "topics": [
-    "ETFs"
    ]
   },
   {
@@ -897,6 +865,18 @@
    "topics": [
     "Bitcoin",
     "ETFs"
+   ]
+  },
+  {
+   "title": "Crypto News | Bitcoin Rebounds to $83K After Trump Rules Out Iran Strikes Before Midterms \u2014 $729M in Two-Day ETF Outflows, Citi Sees Dovish Fed Surprise",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyRWR3NVBzeXJWRUt1TWdTem9oWVAzVHc1a0Q3TU9iVGhwVU5jclVFbURVODZtVk45NmEwVGV3OEpYVGR5X2dGRHZuYkxkVzBaZnlpWUdiblJRb2hRb1JLYkZsVng?oc=5",
+   "source": "Binance",
+   "type": "news",
+   "published": "2026-10-09T13:09:11+00:00",
+   "first_seen": "2026-10-09T15:17:20.542668+00:00",
+   "topics": [
+    "Bitcoin",
+    "Trump"
    ]
   },
   {
@@ -1017,6 +997,17 @@
    "source": "r/Bitcoin",
    "type": "reddit",
    "published": "2026-10-09T12:51:25+00:00",
+   "first_seen": "2026-10-09T14:36:43.197980+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Dark Web Founder Loses $100 Million in Bitcoin After 40-Year Sentence: Where Does It Go?",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2NpUVBkYUlRNnlLZUQ1bGVRSWRfa1o5cTJ2SlloSW5FSE9oc2lZSTd2UzRWREZrajQ0cjNwZHN0cURfU1JxNm9Ua3ZsZzBveVNUYUJCaWppX005WlVYdno0Sy1GZlpXZHhPUkZVWkFsdU5GMTd1bjNWS2tBWUlLbElZZTRWWnFjaUJuUmpiVnJ5eTlMRzR4ZHhsbw?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-09T12:50:19+00:00",
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "Bitcoin"
@@ -1144,19 +1135,6 @@
    "first_seen": "2026-10-09T15:11:30.013826+00:00",
    "topics": [
     "Trump"
-   ]
-  },
-  {
-   "title": "Fidelity Adds $438 Million of Bitcoin, Ethereum and Solana to Its Holdings",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRkMtaFdtOWp6MFBKa2xGV09zZnFNSFlNbVhyTUFIREw1X3VyaVdiUHlHVm56NF81amowVl9sdDAxZGRrUW1jeTJ5bXV6VGtzRzZvNU9nenY3U2M5a3VvN2xwN2tOMkV4Y3otMjlDMlNEcWlETjVpbHhpNTZ5Y2RNZXpKWDFOeVdnMnRsdHF5akVQaXY3aWVyY0JnYm4tV21BYVJ5UG5xTnNmeDhnclRvYWl0T2pfWl9XckkwZHVDMDNtcWtNRDYxYVVR?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-09T12:28:20+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "Solana"
    ]
   },
   {
@@ -2011,17 +1989,6 @@
    ]
   },
   {
-   "title": "Dow, S&P 500, Nasdaq Futures Climb After OpenAI\u2019s Tepid Revenue Sparks Tech Selloff: NBIS, SPCX, T, VZ Stocks In Focusc",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxON2FuakxPQVQ2Umg1QXNabVREaU5DZHExa0h3T2t1b3VYYkF4XzFXblRIR1ZHYnVQQkd2V2FwdDFWa3Z5ZlZxQ3MwNlpGbHdhVnpkaWlJZElnbmN3NEhGdFRBTWJBZWZDVE9GSW85U3p3UVhWa2hNblFua0tmdDlfT0szWWt0U0gzNUgtbjdrUTBNOTJUMXp4LUVfWl9renRHUDhsbnF3NGtLckFFQXhNeUllYjVfblg5dTJfOGtURkNZWmw4akZTNWRKN1pXUnp0bS10Z2JrMlQtSEoxU1psblhhX2lZcXhrZVpGVGVUdHF0M2NsakJTaG5BemQzdHowVUVRd04xaDNMMFZGMWc?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-09T08:36:58+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
    "title": "Enso brings tokenised stocks to Arbitrum through xStocks",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2VsN0paaFh5dmdraDNZWmtLZ3ZrMlB2U2hNYnBwR3FUZ1c0UE5sT2sycGtHQXV3YlpjMVI4Zl9hTms4Z3plRFNncUs1dkxKdklSLTBHTG1pM0dUQS1BZzFTeXVmUWQ5RnhUVXgtXzE0SWtiSHdVRk9jX2RNQ0NrQ09ubENaM3luTFhZeWRHMU95VVI4dGh4VjljOA?oc=5",
    "source": "IBS Intelligence",
@@ -2122,17 +2089,6 @@
    "first_seen": "2026-10-09T10:22:59.359994+00:00",
    "topics": [
     "Solana"
-   ]
-  },
-  {
-   "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "type": "news",
-   "published": "2026-10-09T07:50:21+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "Nvidia"
    ]
   },
   {
@@ -2273,6 +2229,17 @@
    "first_seen": "2026-10-09T10:22:59.359994+00:00",
    "topics": [
     "OpenAI"
+   ]
+  },
+  {
+   "title": "AT&T, Verizon And T-Mobile Stocks Slump As SpaceX Announces Key \u2018Starlink Mobile\u2019 Deal",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUd3YloxSENyZG1nSENYNHJjeW9YVXlvT3pjaHdEaVdHRUpESDlkYjI2QWF1TUNiZlZwS0xISGk2ekN2S3VfTlVvcjV1YVJ2VEVrbHhPQkRKQTgwdjZTSzNTcWY4U1I1a0MxbDY5MTI1ZmhDR3p4cllUeWdMTWtJV3NLOHNJSU9ndWZLT0dkWkVSLUpSenNCOWxzWVJwcVZuakxKNDlsUGVBcU9Cd1Z2TmM5TjI5ZW1sV1NZcEtwSnpCNWp6a2xEaC1xeGJ2MzB6V0E?oc=5",
+   "source": "Forbes",
+   "type": "news",
+   "published": "2026-10-09T06:41:07+00:00",
+   "first_seen": "2026-10-09T14:36:43.197980+00:00",
+   "topics": [
+    "SpaceX"
    ]
   },
   {
@@ -2524,17 +2491,6 @@
    ]
   },
   {
-   "title": "ETFs Investing in Anhui Huang Shan Capsule Co., Ltd. Class A Stocks",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CQWlUQmpXYzE4ZmRQTmNYRnRkbWZZNVlRMldzQ2N5MTdDbTd3SjZfb2ljdXY1NHRQVEJzd3NlNVNaM1JaUzE3eU9DWVo0alA0YzI1S2hOOEVKNU14UXFvWFE2MA?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-09T04:12:54+00:00",
-   "first_seen": "2026-10-09T15:11:30.013826+00:00",
-   "topics": [
-    "ETFs"
-   ]
-  },
-  {
    "title": "Ether bets were wiped out at six times bitcoin\u2019s rate in crypto\u2019s $1 billion flush",
    "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
    "source": "CoinDesk",
@@ -2611,6 +2567,19 @@
    "topics": [
     "Bitcoin",
     "Trump"
+   ]
+  },
+  {
+   "title": "Securitize Stock Jumps After Hours As It Launches Tokenized Apple, Nvidia, Tesla Shares On Solana",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEtrMVVyS3M5Y1dIMjNzajVwajA4VEhDQ1hoYm0ybEV2TTVFSDcyUy1qRkxFT0I4c3dmV1c5d2Z2UDdERUxHOGlCaFZ5QTFzZUdIUnVNRzZZYm9CelNBSkx2Yy1kVHN6VVNSR3I2SnZwc2oxTUlfSm1mNE4yckxRa0JHbVR4blhfQkh2dWdpTTN4ZzFpX195dG1UdXg4akd2Qkg2WU5DU09PZw?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-10-09T03:27:36+00:00",
+   "first_seen": "2026-10-09T10:22:59.359994+00:00",
+   "topics": [
+    "RWA",
+    "Solana",
+    "Nvidia"
    ]
   },
   {
@@ -2825,6 +2794,18 @@
    "first_seen": "2026-10-09T10:22:59.359994+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Samsung, Solana Bring Stablecoin Transfers to 82 Million Galaxy Devices",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeG5kcHVMZ2k5enF0WFZZSmVtdjNzM0hGSFRJNmxQdUxzQktmdGg4TjNMRUJxY0w1aHJzaXFnVEVteVpUbjNYN0Q4QWpXYmZhY0d6Qm9Qa0NSVl9CWlhLWTBTQ0diZGhlTTA5S3NsOXZpV0NfNGxMNnVBT0txVlNoWTBFS0NKRVY4eDFpVUFYeEVWTkJ0WWZFLWN4cTNWZFNLYXFZajVuVkg3Q1JYREFGTG9kdVN3QkZ4R1lEQ2g0ekd6MEU?oc=5",
+   "source": "The Fast Mode",
+   "type": "news",
+   "published": "2026-10-09T00:15:34+00:00",
+   "first_seen": "2026-10-09T10:22:59.359994+00:00",
+   "topics": [
+    "Stablecoin",
+    "Solana"
    ]
   },
   {
@@ -3175,11 +3156,11 @@
   },
   {
    "title": "Solana Tops NYSE Trade Count: Can Robinhood, Coinbase, Hyperliquid Keep Up?",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUxZUVNaTE4tcmtGbzE4SkdPX3RVcmd3aG9rX1QweVY5TWVXR0lOMEZ6YTNjM1k4UExsTG9Kak1zLWIzNk1wMHQteVR4dXZpZ1JldHZYcjJMc091cnJac3dRYWotczlsYWxGMk9yeEZZakxUZ21GUzZpeDRtOWJlY2VXYllJYkI4SmhiR3p3Tk5rME9PMUhXZUxnT2hoNUM0ZFk2MWNYc2VmX3BhSVllcldNMkFqSVVEUW9TWGRIamNxM015QTFzMGl3?oc=5",
-   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjlIMmhvalpHTG1MdTNZc0tZZFpLU3hnQ3VQSENVMlF5aDRKcE5qZkxkT1podEp5RDVDdWV2TVN0NXJXRDlwZUdET19fNDR2YjJnNDhOUXF0b196S3YyYjc5LWJ0eVVVek9QMlhCRF81Z2dxaEliRjF6SUZneDRzdXFlNE14dHVLNUUwTjNHYVU5bGZfZVZxMjRnZUNZblJocFY5enZFMDBzREwxTkZoZW45OURQSU5zWTZxOUQ5NzFrOWFDWjVqaDhidF9fdw?oc=5",
+   "source": "Benzinga",
    "type": "news",
    "published": "2026-10-08T19:10:23+00:00",
-   "first_seen": "2026-10-09T10:31:49.077398+00:00",
+   "first_seen": "2026-10-09T10:22:59.359994+00:00",
    "topics": [
     "Solana"
    ]

@@ -28,6 +28,16 @@
           padding: max(18px, env(safe-area-inset-top)) max(16px, env(safe-area-inset-right))
                    max(40px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left)); }
 
+  /* Odometer (top-left) */
+  .wrap { position: relative; }
+  .odometer { position: absolute; top: max(14px, env(safe-area-inset-top)); left: max(16px, env(safe-area-inset-left));
+              text-align: center; font: 9px Verdana, Geneva, sans-serif; letter-spacing: .12em; color: var(--muted); }
+  .odometer .digits { display: inline-flex; gap: 2px; padding: 3px; background: #c0c0c0;
+              border: 2px inset #e8e8e8; margin-bottom: 3px; }
+  .odometer .d { width: 15px; height: 22px; background: #111; color: #39ff14; display: grid; place-items: center;
+              font: bold 17px "Courier New", Courier, monospace; text-shadow: 0 0 4px rgba(57,255,20,.6);
+              border-top: 1px solid #444; border-bottom: 1px solid #000; }
+
   /* Masthead */
   .masthead { text-align: center; padding: 10px 0 6px; }
   .masthead h1 { margin: 0; font-size: clamp(40px, 9vw, 84px); font-weight: 700; letter-spacing: .06em;
@@ -43,6 +53,26 @@
   .quote .who { font: 18px "Gill Sans", "Trebuchet MS", sans-serif; margin-top: 6px; }
   .also { text-align: center; font-size: 15px; margin: 8px 0 0; }
   .also a { margin: 0 4px; }
+
+  /* Top stories */
+  .stories { max-width: 820px; margin: 26px auto 0; border: 1px solid #999; padding: 0 16px 10px;
+             box-shadow: 3px 3px 4px rgba(0,0,0,.12); }
+  .stories h2 { text-align: center; margin: -14px 0 10px; }
+  .stories h2 span { display: inline-block; background: #fff; padding: 4px 12px 3px; color: var(--navy);
+             border-right: 3px solid #aaa; border-bottom: 3px solid #aaa; box-shadow: 3px 3px 4px rgba(0,0,0,.18);
+             font: bold 15px Verdana, Geneva, sans-serif; letter-spacing: .32em; }
+  .stories ol { margin: 0; padding-left: 26px; }
+  .stories li { margin: 0 0 7px; }
+  .stories summary { cursor: pointer; display: flex; align-items: baseline; gap: 6px; list-style: none; }
+  .stories summary::-webkit-details-marker { display: none; }
+  .stories summary .t { color: var(--link); text-decoration: underline; }
+  .stories summary .dots { flex: 1; border-bottom: 2px dotted #bbb; min-width: 12px; transform: translateY(-4px); }
+  .stories summary .n { font: bold 12px Verdana, sans-serif; color: var(--red); white-space: nowrap; }
+  .stories details[open] summary .t { font-weight: bold; }
+  .stories ul { list-style: square; margin: 6px 0 10px; padding-left: 20px; }
+  .stories ul li { margin: 0 0 5px; font-size: 15px; }
+  .stories .meta { display: inline; margin-left: 4px; }
+  .stories .hint { text-align: center; font: 11px Verdana, sans-serif; color: var(--muted); margin: 6px 0 0; }
 
   /* Tabs: letter-spaced caps on a shadowed "tab" */
   nav.tabs { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px 14px; margin: 26px 0 8px; }
@@ -98,6 +128,11 @@
 
   @media (max-width: 560px) {
     body { font-size: 16px; }
+    .odometer { position: static; margin: 0 auto 8px; width: max-content; }
+    .stories { padding: 0 10px 8px; }
+    .stories summary { display: block; }
+    .stories summary .dots { display: none; }
+    .stories summary .n { margin-left: 4px; }
     .tab { letter-spacing: .18em; font-size: 12px; padding: 6px 10px 5px; }
     section.topic h2 span.label { letter-spacing: .24em; }
     li.item { margin-bottom: 13px; }
@@ -106,6 +141,7 @@
 </head>
 <body>
 <div class="wrap">
+  <div class="odometer" id="odometer" hidden></div>
   <div class="masthead">
     <h1>MARKET BRIEF</h1>
     <div class="tagline">Your daily dispatch from the markets &amp; the crypto-sphere</div>
@@ -113,6 +149,7 @@
   <hr class="groove">
   <div class="dateline" id="updated"></div>
   <div id="quote"></div>
+  <div id="stories"></div>
   <nav class="tabs" id="tabs"></nav>
   <div class="controls">
     <input type="search" id="q" placeholder="Search headlines..." aria-label="Filter headlines">
@@ -184,6 +221,38 @@
       });
       $("quote").append(also);
     }
+  }
+
+  // Odometer: unique headlines collected since day one
+  if (D.headlines_served) {
+    const o = $("odometer"), digits = el("div", "digits");
+    for (const ch of String(D.headlines_served).padStart(7, "0")) digits.append(el("span", "d", ch));
+    o.append(digits, el("div", null, "HEADLINES SERVED"));
+    o.title = `${D.headlines_served.toLocaleString()} unique headlines collected since day one`;
+    o.hidden = false;
+  }
+
+  // Top stories: the same event covered by several outlets
+  if (D.stories && D.stories.length) {
+    const box = el("div", "stories");
+    const h = el("h2"); h.append(el("span", null, "TOP STORIES")); box.append(h);
+    const ol = el("ol");
+    for (const st of D.stories) {
+      const li = el("li"), det = el("details"), sum = el("summary");
+      sum.append(el("span", "t", st.title), el("span", "dots"), el("span", "n", `[${st.outlets} outlets]`));
+      det.append(sum);
+      const ul = el("ul");
+      for (const i of st.items) {
+        const it = el("li"), a = el("a", null, i.title);
+        a.href = safeUrl(i.url); a.target = "_blank"; a.rel = "noopener noreferrer";
+        const meta = el("span", "meta");
+        meta.append(el("span", `src ${i.type}`, i.source), " \u00B7 " + ago(i.published));
+        it.append(a, meta); ul.append(it);
+      }
+      det.append(ul); li.append(det); ol.append(li);
+    }
+    box.append(ol, el("p", "hint", "Click a story to see every outlet covering it."));
+    $("stories").append(box);
   }
 
   function setTab(name) {
