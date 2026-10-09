@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T15:17:20.542668+00:00",
+ "generated_at": "2026-10-09T15:24:19.400607+00:00",
  "first_run": false,
  "topics": [
   {
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 108
+   "item_count": 106
   },
   {
    "name": "ETFs",
@@ -63,7 +63,7 @@
    "first_seen": "2026-10-09",
    "count": 7,
    "ratio": 7.0,
-   "item_count": 26
+   "item_count": 27
   },
   {
    "name": "Solana",
@@ -75,17 +75,6 @@
    "count": 6,
    "ratio": 6.0,
    "item_count": 27
-  },
-  {
-   "name": "SpaceX",
-   "kind": "trend",
-   "aliases": [
-    "SpaceX"
-   ],
-   "first_seen": "2026-10-09",
-   "count": 6,
-   "ratio": 6.0,
-   "item_count": 32
   },
   {
    "name": "OpenAI",
@@ -107,7 +96,18 @@
    "first_seen": "2026-10-09",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 25
+   "item_count": 26
+  },
+  {
+   "name": "SpaceX",
+   "kind": "trend",
+   "aliases": [
+    "SpaceX"
+   ],
+   "first_seen": "2026-10-09",
+   "count": 5,
+   "ratio": 5.0,
+   "item_count": 31
   },
   {
    "name": "Bunker Mode",
@@ -129,7 +129,7 @@
    "first_seen": "2026-10-09",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 25
+   "item_count": 24
   },
   {
    "name": "CEO",
@@ -345,6 +345,17 @@
    ]
   },
   {
+   "title": "ETFs Investing in Beijing Navigation Control Technology Co., Ltd. Class A Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52UEd2clhqSXU2OXVrWUJBbFFoclNTeklGQ25TUjhpVkZna0Ewdk5oTE9JS3pQNlFsN0dLckwwZlBHbHp0djhDTjhXQ0RnYk1tTWtac3dZSWdBRVoyWEYzc2J3?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-09T14:25:05+00:00",
+   "first_seen": "2026-10-09T15:24:19.400607+00:00",
+   "topics": [
+    "ETFs"
+   ]
+  },
+  {
    "title": "Dragonfly Partner Criticizes 'Bunker Mode' as a Crypto 'Doomsday' Solution",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVm9kN0IxZnVYYjI1VnJiR1B2VjBveTBjTUdtZDhxZ1RndldoUEgwRmV6VExQVzBuQjJyV1lRLVlRTGpWUWx1SFBZS01QMDFaa0xDMGtxb2NQRmE3TEJfV1RjZXlYQXFKNWZHT1ZIVU1Wbl9FRXI0Wnk5b09rbjd1Q0RGNlE2MjBIMGNHV0hCRUNTSVJCanRzUUhmaHZKYTc0cW8zRA?oc=5",
    "source": "KuCoin",
@@ -482,6 +493,17 @@
    ]
   },
   {
+   "title": "Data Center ETH Zurich / Penzel Valier",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBweHNmMFJpRlVEdjZaVTBYczJ3V05maDhzLXRaaG1vWjJYWkFOdFRCMk1fWUZRY1JyZkRsWjhSZEMtN3lRN1NVVmRfM0hqMkg3bXpRMHpXc09rSzhmcFFPM1JFQ04yM2tqNUpKV3FIQThiYW5yTEdGMzZB?oc=5",
+   "source": "ArchDaily",
+   "type": "news",
+   "published": "2026-10-09T14:00:00+00:00",
+   "first_seen": "2026-10-09T15:24:19.400607+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
    "title": "Large cryptocurrencies mixed as Solana falls",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFBEckRyUTRxVl9Kb3JSNmNnX2kwZm9oMFh0NTB3VlQ1WHYtSzBZdVpsblRtRXhEME9FLTFJbzY4bGNYWGZENTdpNWpFUzBZLTVUX3hkWUFoUnM3dnJVUFJpWHZsSWlmOUxkbzUwYVJGR3hyWG1LM0M5ak5YT0g2aVJ3Q2JTelpJbFBxUGV6MUlDNFdyUlp5NGREV0UzTlRIek9FUEV1UQ?oc=5",
    "source": "MarketWatch",
@@ -501,17 +523,6 @@
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "Trump"
-   ]
-  },
-  {
-   "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-   "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "type": "news",
-   "published": "2026-10-09T13:59:00+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "SpaceX"
    ]
   },
   {
@@ -592,6 +603,17 @@
    ]
   },
   {
+   "title": "US open: Stocks higher as tech rebounds after OpenAI\u2011driven AI pullback",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVlNEa1ctZ0R5N1l0OE5yM0NkSUFWWHJLWlZxOFhMNWlhZlJGVk9iOWtqTGJmUnVaV2dsZjR5Wkh5RzU0eDR1X2ZfTWpob1Q5V1dLRndPSWVxQXR2U0psT0M1Ni1ud0xqSmFNemNyS25NMmwxOFhGRld4OFZMbXVQek5FSzlNOVh6TFlHa0lMSEZyUGZ2VGFvQldQSkxGWEtOMDAzbTVTTUZBV2pXLU1kd0Yxd1ZZUHdYelo2ZTZFbUFZSDJyUk94TE9vSXpkSDF1TzFCTg?oc=5",
+   "source": "Sharecast.com",
+   "type": "news",
+   "published": "2026-10-09T13:45:41+00:00",
+   "first_seen": "2026-10-09T15:24:19.400607+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
+  {
    "title": "UTXO\u2019s Loren Asmus: The $300T Bond Market Is Bitcoin\u2019s Next Frontier",
    "url": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
    "source": "Bitcoin Magazine",
@@ -638,6 +660,17 @@
    ]
   },
   {
+   "title": "Pi Network News: Pi Explores Stablecoins to Expand Ecosystem Utility",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1V3Slc1UXA4eGNQelhQY01HcnhLbnlUdkE1cnJMWl9IM3J5LW94T1VEQUlyaDZ3U25SR2p6TFhvRFdHdTl6LXh6ZWJfYkRkay1RemlGNUZQVzhZNDJZN0FCQnlQeWY5aEhmNFA5SnM3VEsydTJyU0NVcTJjQlhqX0VTMDl2XzE1V0RKTENUT1VRVmtGNkxvdW9weHhlakM2bUhmTFFXRVBaXzVvV192cWlGcVBpME9OdlNFelVIN1JRTUxrMUE?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-09T13:39:00+00:00",
+   "first_seen": "2026-10-09T15:24:19.400607+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
    "title": "Bitcoin Core developer responds to AI & Quantum Risk",
    "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
    "source": "Bitcoin Magazine",
@@ -668,6 +701,17 @@
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "Stablecoin"
+   ]
+  },
+  {
+   "title": "Nvidia and Micron are about to lord their successes all over Wall Street",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmlzVm5iREgzRG0tc19lcHZCQkZWcV9fOFc2ekZGZWVZUnR4ZDVsbEV3dXFCNzAzU1FyZnpiU1RWcUtpQ3ZLQnhGZGRXYXNNa1RUX0owSG9yektaQmFoRzA0bWk2NzRqVVQzNHNGMzNzV1QyUUx6bDVIdjJzQ1RfaHlVYjhoQ3BwNFpyVEwycGtBX0xHd3dRMGtwNVRrT0RwazFnYTVHU3phWkNlbmNLV1JibjltQQ?oc=5",
+   "source": "TheStreet",
+   "type": "news",
+   "published": "2026-10-09T13:37:00+00:00",
+   "first_seen": "2026-10-09T15:11:30.013826+00:00",
+   "topics": [
+    "Nvidia"
    ]
   },
   {
@@ -798,6 +842,17 @@
    ]
   },
   {
+   "title": "Bitcoin Rebounds As Middle East Tensions Ease",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTVpeFRIQTVKdDFpLTJBbGh3WElrbWxWUWxLSnVqQUFwREI3MDRiVWJPQTRzN3pWbWwyUGVZM0J3amZBRVNXUDEtd25PTkFjcllyWGdldWltTnhRVUZ6NEl4OVNTZDBVcUtacGFMVGNKbXl0bzRxejFzakRQSkRRZnQ3S1pLamdpQ0taamtrOA?oc=5",
+   "source": "RTTNews",
+   "type": "news",
+   "published": "2026-10-09T13:22:00+00:00",
+   "first_seen": "2026-10-09T15:24:19.400607+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGdDX19XYWJWaVFjMk4zRFo3QWVzbVZYZGpOT0RfUDFQRVBta3RuR3ZObVRqU0oyakUzdmxlNWljZVRrX1pHOTJuZFp1dE44end2UkFQLTFmVTRyRWVSM0t5VE9mYndrUnNEeVg1OHllbTNSeXpwTHdSNUxTbC1kdUppU2lucDVEYlVSU0hqMFdBN0VRd25waWlkZ3VpN1JsUlY2bVhha25EZzdnMGxUUTZQaUdKSWh5VE90alk2MA?oc=5",
    "source": "MarketWatch",
@@ -818,6 +873,17 @@
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "ETFs Investing in Shanghai Daimay Automotive Interior Co., Ltd. Class A Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PY2xWUlJRbWhnT3FseDFkb19SY21XQ1dTbGpRREdvUG1mMHhhR0x6NkFiSlQyS2RQM3o4WUNkdDgxOXdrTUtrM3ZnaEk3UnUxb2h4dmlGdVA4WXN2WGZ1dTJB?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-09T13:19:44+00:00",
+   "first_seen": "2026-10-09T15:11:30.013826+00:00",
+   "topics": [
+    "ETFs"
    ]
   },
   {
@@ -868,18 +934,6 @@
    ]
   },
   {
-   "title": "Crypto News | Bitcoin Rebounds to $83K After Trump Rules Out Iran Strikes Before Midterms \u2014 $729M in Two-Day ETF Outflows, Citi Sees Dovish Fed Surprise",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyRWR3NVBzeXJWRUt1TWdTem9oWVAzVHc1a0Q3TU9iVGhwVU5jclVFbURVODZtVk45NmEwVGV3OEpYVGR5X2dGRHZuYkxkVzBaZnlpWUdiblJRb2hRb1JLYkZsVng?oc=5",
-   "source": "Binance",
-   "type": "news",
-   "published": "2026-10-09T13:09:11+00:00",
-   "first_seen": "2026-10-09T15:17:20.542668+00:00",
-   "topics": [
-    "Bitcoin",
-    "Trump"
-   ]
-  },
-  {
    "title": "JPMorgan Chase (JPM) Is Building A Reserve Hub For Future US Stablecoins",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTNBbXJORnBXZ2cxWHpZd3JVV2hteXhZMG9rQjdYUkQxcVFOZXByY0ZRc1Mzb1diVTB6eFNSTW4xNUpLclZHbmkycVhENEVtbUZPWWUxQ2k0bUNhRTQ0X3NWTXAzMTFfa0ZqWHg4YWVhbkJkMGM2SmNhS1ZLZWxJOTlNLTNlVFozMlNVS0h1bVVyVHpydEswOHNKWG4?oc=5",
    "source": "Yahoo Finance",
@@ -922,18 +976,6 @@
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "SpaceX"
-   ]
-  },
-  {
-   "title": "Nasdaq CEO: Tokenization in financial markets could free tens of billions in collateral",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5SlUwWlcwZDhiX2VkRGtZd3V0WmpKbllNODZIZDBZUjNyb2tQX3d5MGR6Y0plWEZFNzBOV3VtMUNtaURnb2Fqem1wdE8wdDNMa1dpcUswYTM?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-09T13:01:03+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "RWA",
-    "CEO"
    ]
   },
   {
@@ -1003,17 +1045,6 @@
    ]
   },
   {
-   "title": "Dark Web Founder Loses $100 Million in Bitcoin After 40-Year Sentence: Where Does It Go?",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2NpUVBkYUlRNnlLZUQ1bGVRSWRfa1o5cTJ2SlloSW5FSE9oc2lZSTd2UzRWREZrajQ0cjNwZHN0cURfU1JxNm9Ua3ZsZzBveVNUYUJCaWppX005WlVYdno0Sy1GZlpXZHhPUkZVWkFsdU5GMTd1bjNWS2tBWUlLbElZZTRWWnFjaUJuUmpiVnJ5eTlMRzR4ZHhsbw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-09T12:50:19+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Fidelity adds $438M in Bitcoin, Ethereum, and S...",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVpXOW5ySlY1dFdtSmxiZi1wLXkxQ1RDYjFTcndadkN3ZlZJdmVPNWZPYk8xWnRSd1E4MTFyR0VydnZfQ1RGT1UxUlVzeDNONS02LXdrMHdmWWpVRy1CN0NHamdKQ1V0OWYyRTJGSDc1U2FxNjF1MlRMSlVUOWdqbWFFR24xdzc0ZDBZ?oc=5",
    "source": "Pluang",
@@ -1023,17 +1054,6 @@
    "topics": [
     "Ethereum",
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Leveraged trader liquidated $69.69M in Ether, r...",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGhfcEJqbG9IX1NhbVFWWnJGQ3V5X0NCdk5ZOERGV05PdmJMOVY3a0d3Z1FrRmtzdGNkUVhSQnh5NlU5d0tJNWM4U2hBU0VUMnRSaW0tWnRUeTBDSWtkUjlhRGF0aVJaUFpMZGtCNlJTak5ZU3hmeFhQUXMwWEpvY1BPYVE5NHFYWko4MHB1NWZReGllTWV0Uw?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-09T12:47:02+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -1239,8 +1259,8 @@
    "published": "2026-10-09T12:07:00+00:00",
    "first_seen": "2026-10-09T10:22:59.359994+00:00",
    "topics": [
-    "SpaceX",
-    "OpenAI"
+    "OpenAI",
+    "SpaceX"
    ]
   },
   {
@@ -1332,6 +1352,17 @@
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Grayscale Ethereum Mini Trust (ETH) Review: Fees & Staking",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFX0JDSmxmUHFFYWQxdm5CY2NjYk9UTUN3NWV4UTZ3TXN1anVGRW1CYzBjWmhRa3d3RXBIVDBrd2N4NmtfRDd0YzAxYnJRSXJxRkNnZW16eFJzTmNjbEE?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-10-09T11:51:24+00:00",
+   "first_seen": "2026-10-09T15:24:19.400607+00:00",
+   "topics": [
+    "Ethereum"
    ]
   },
   {
@@ -1442,8 +1473,8 @@
    "published": "2026-10-09T11:15:44+00:00",
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
-    "SpaceX",
-    "Nvidia"
+    "Nvidia",
+    "SpaceX"
    ]
   },
   {
@@ -1584,17 +1615,6 @@
    ]
   },
   {
-   "title": "OpenAI counts $50 billion in revenue, not $70 billion, and chip stocks fall 3.4%",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHJfN2NYaFhkSTdxMXBGR0xIVVFoWmJpR0xLNTlIMlFKaGk3dElQYUlOTjA3UmROUW1EejFWaFRSdkt5VUZ2dk5YVW9KY0FabWZnM1RZRHRNQl85a0RmZXdJNW5qekVqcF80clBpQWxDNllzLVFjS0NvUmlKaEVsOTVIaHE?oc=5",
-   "source": "Martin Cid Magazine",
-   "type": "news",
-   "published": "2026-10-09T10:40:40+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
    "title": "President Trump Discloses New Trades in Strategy (MSTR), Coinbase, NVIDIA, SpaceX, Meta",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTExZVl9nbEtHdXF3ZUF4aXp5SWhzVWN3b0k5RmFqcndmM3VjamZzX2EyZkdoaUtuME05T096Y0ZtRUtBbS1ubm16RGZ2dTRlS0k3Wk5XSXc2TW1qc1NlWmV5VkJud1ZjaV9OcWVRSWpxODJteEdqN3RCcjJoc0NzamdwQzE2NmhKbThxZkR2ZXBhOHNwMDItb1NSWk9ReWpSUFpLaHB4ZzRFUQ?oc=5",
    "source": "Yahoo Finance",
@@ -1602,8 +1622,8 @@
    "published": "2026-10-09T10:39:30+00:00",
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
-    "SpaceX",
     "Nvidia",
+    "SpaceX",
     "Trump"
    ]
   },
@@ -2011,17 +2031,6 @@
    ]
   },
   {
-   "title": "Lloyds and Visa Settle $750,000 in USDC Faster Than a Weekend Wire",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0U1djRYbFhVYkdIU1gtRVdFc0I1VGVkN1g5elhoSnEzZ01pemVLZXVuUDRBcDNuVzUxVmNXOGNmTWtpRGFfb01KWjAzMWZoRktwcy1iWWtTOUdMQkR3Y3hrMGhyWVV4Q1AxRzh6dzU4M3lYX2RDNWJkR2ZpR0FiUVR5dFZBdzBGcFphQjJiZVdBNUZ0cEpR?oc=5",
-   "source": "Startup Fortune",
-   "type": "news",
-   "published": "2026-10-09T08:20:56+00:00",
-   "first_seen": "2026-10-09T10:22:59.359994+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "What Institutions Are Really Asking About Bitcoin (Behind Closed Doors)",
    "url": "https://www.reddit.com/r/Bitcoin/comments/1x1fjic/what_institutions_are_really_asking_about_bitcoin/",
    "source": "r/Bitcoin",
@@ -2039,19 +2048,6 @@
    "type": "news",
    "published": "2026-10-09T08:04:12+00:00",
    "first_seen": "2026-10-09T10:22:59.359994+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "ETFs"
-   ]
-  },
-  {
-   "title": "U.S. Spot Bitcoin and Ethereum ETFs Experience Nearly $1 Billion in Net Outflows in October",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnQ0TWVDTTNEZ0JkVFNoTkk3YlVkcmgxTEpSYTN2SUhqVlFiZHNGNEJ0bVhnTDBxT0kxWmJwUi1HbmpHdmxYSDhFeFRRa3lPSkxNR1lZR254cmdBTk5DX3JFOXg5RHFNMWtGc2tVRmdrdUM0TE5QdVR1MnczZk54THcwWnpFQzgzY2JmZldvVTUta25XdzNLZUx2b1YyUkE0SWxpM1JXR1NPdmhtd0l4SG5B?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-09T08:04:11+00:00",
-   "first_seen": "2026-10-09T10:31:49.077398+00:00",
    "topics": [
     "Ethereum",
     "Bitcoin",
@@ -2089,6 +2085,18 @@
    "first_seen": "2026-10-09T10:22:59.359994+00:00",
    "topics": [
     "Solana"
+   ]
+  },
+  {
+   "title": "Nasdaq CEO: Tokenization in financial markets could free tens of billions in collateral",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdW9NTzZpTUZaalNwRmEwS3h1NnJWNkE3bElYTG5wRGc0N1gzQUFZMDVJRjB1VnhmUmxuVUQ3eWlnTlU1RWw3X0VsQlNDeWhCbm1fMU9YaEx4TVNQZERuUkIxTlJDaTV4MHgyS3hJSHlsbTd2b2QwSm1XRVk5cnBlQ3ZUazBmUW8?oc=5",
+   "source": "The Cryptonomist",
+   "type": "news",
+   "published": "2026-10-09T07:37:52+00:00",
+   "first_seen": "2026-10-09T15:24:19.400607+00:00",
+   "topics": [
+    "RWA",
+    "CEO"
    ]
   },
   {
@@ -2457,6 +2465,17 @@
    ]
   },
   {
+   "title": "ETFs Investing in King Core Electronics Inc. Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9reU1fX2FPTFZBcVlkampNdnBlRUNiTWROM0JnU1RvbGk3UmtadE9ITllLYkhpVmlhSXNxUW5wbkVLZzc3RU04Q1VDQUNrdmdDSHhoZlN0c0tFYXFMd0xoOQ?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-09T04:34:36+00:00",
+   "first_seen": "2026-10-09T14:36:43.197980+00:00",
+   "topics": [
+    "ETFs"
+   ]
+  },
+  {
    "title": "1exchange and Ondo Finance Partner to Expand Access to Tokenized Equities",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZVJjNnpKZ21pNW1ZMllSU2ptN3FOOTlNRW45WFFJenJzdjN2YkJMN0M0QzBpelM4RXNiVW9EV1JEYzFVYlljelNQelVxVG55c0VpSTNaamJhNDcxTTZCT2Fac2xNajU2V3k0TWJGV1IxcG84a2F3dXpjbzRaRy1lajB3ZkRhYjd3QWQ1TFBBR2Y3UkdqU1p6TjhoZ0ZHSFJRQUh1STFLcmU3RnVEVXY1SmdnX1YtYWpiZHVFY3RucVJRYndiSXlwbkJMZ0IyeUFvdmJtcXdpb19hS3VVRUNOLVQ4cmxhVlQ2SGhFSVktZk9IUTNvdGtqdldiSWVHenZBT3J4NTduNHNreUJyS2VZTC1OUQ?oc=5",
    "source": "Voice of Alexandria",
@@ -2476,17 +2495,6 @@
    "first_seen": "2026-10-09T10:22:59.359994+00:00",
    "topics": [
     "Stablecoin",
-    "RWA"
-   ]
-  },
-  {
-   "title": "'Don't particiapte in any activity': Delhi Police reach out to religious places, RWAs ahead of CJP stir",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVEx3Wm1zWHE5RHBZYWQ0T3RqWjJ2OE9GM1JvWkI0TkEzNE1vc3dTMEtOV0FlalFPMG95NHZJU2hCcmV0M3hnTDlXbGIxZ1A0VkxvNFA5aDlpaU14UDc0bDh6Z3FsUEFyREF3U0Jicm9TVWRxTzFJYlMzY2x4ZmZqNjZObFZ0Mi1saVk4aDI1NDR6V285UXduQTBYMGJGVDNIal9pUTZuYmgzejk0Q1NvU19TVmY2YmUzSzdSdU9TWmwzcTFRYnRhcW84YjFuNGVTcXhERjJhcmZkR3lMa1U0UkZtNGt0RnpCZ2tEWUZRNURaazhaaTBfajgtVGMweGl10gGGAkFVX3lxTE9YT2lJLWY4cjRUUmtGb2FuQTA4VmdESFEwWVpiOFNibU9UdG5tYVBZd3dHWlRQWGFMY1VHVm4wYVIxLUhuUWxBcjUxWFZLWHk1V0Z5WGlBY052RUJXelk5dDFyd3JFY0JfbklaZXREX3lscW1jeHo5Q1Z3RU10ZDJtOEkzWlFOXzQ3eVNOWFAtdlpQSGROdERHYWllbldnWjdVcE9XRl9FQjJsVUlxRFRZYXAxM01QSFVwM0FpNVpxaTRwV3BUc3IxM2RlclFVZmVWYWo3elRHUDJiSnVPQ1ZKYm1RSzRTTTVNZk5hdWM5aU1wWmdhYUJNa3RJYlRObDR4VnNaTlE?oc=5",
-   "source": "The Times of India",
-   "type": "news",
-   "published": "2026-10-09T04:17:00+00:00",
-   "first_seen": "2026-10-09T10:22:59.359994+00:00",
-   "topics": [
     "RWA"
    ]
   },
@@ -2547,6 +2555,17 @@
    ]
   },
   {
+   "title": "Cricket match squads | RWA vs UGA, 17th Match, Africa Continental Cup 2026",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1dhTk1qSXhaemJxLTJLZ2FtZFJwa0ZsUmh2V1ljZU82TkphaW5TalFGaHBxa0lJRDNfdjc5Yl9hYWF5cU1PWEpwaFJmZzNhVUNLcWFLX0pYN2c1MnVteExsUHVzcTZZY2g1dEI0U2lnZFZiUHJGQW84WThlX2gzaEhoZURIcTAxQ05QWUhyTHNwM2RQMFdyWDh2aFlKTEh0RkQ3ZQ?oc=5",
+   "source": "Cricbuzz",
+   "type": "news",
+   "published": "2026-10-09T03:34:47+00:00",
+   "first_seen": "2026-10-09T14:36:43.197980+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
    "title": "Is today a good time to buy bitcoin?",
    "url": "https://www.reddit.com/r/Bitcoin/comments/1x1axb2/is_today_a_good_time_to_buy_bitcoin/",
    "source": "r/Bitcoin",
@@ -2580,17 +2599,6 @@
     "RWA",
     "Solana",
     "Nvidia"
-   ]
-  },
-  {
-   "title": "ETFs Investing in Renault SA Unsponsored ADR Stocks",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZT2p0SHc0X3NrcE1WUnBHVS1yU013RmlnaDFvbmRoek8tQmUtZFc2VGxpVzl1SmdVWEswZ0xtQlkzZ2hDTHlRT2NCd1hQXzlHdUt3cGpLbmQ1cXRnWFVuXw?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-09T03:24:59+00:00",
-   "first_seen": "2026-10-09T10:22:59.359994+00:00",
-   "topics": [
-    "ETFs"
    ]
   },
   {
@@ -2676,7 +2684,7 @@
   {
    "title": "Partners Group Explores Infrastructure for Tokenized Real-World Assets",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZVRPR3ZTT3RrWjhPYUxPZEhsMi1YVmdmNVdlVVlvS3dneEpuWUZueUhHUFpNdXVzZWR6cUloei1VX3BxcmtfOVhHMGRpTVpGTG9DRTFLUlA?oc=5",
-   "source": "www.tokenpost.com",
+   "source": "TOKENPOST",
    "type": "news",
    "published": "2026-10-09T01:17:00+00:00",
    "first_seen": "2026-10-09T10:22:59.359994+00:00",
@@ -3852,6 +3860,522 @@
    ]
   }
  ],
+ "stories": [
+  {
+   "title": "Thailand finalizes rules for Bitcoin and Ether ETFs, with October 16 start",
+   "outlets": 9,
+   "topics": [
+    "Bitcoin",
+    "ETFs",
+    "Ethereum"
+   ],
+   "items": [
+    {
+     "title": "JUST IN: \ud83c\uddf9\ud83c\udded Thailand finalizes rules allowing Bitcoin ETFs to list on the Stock Exchange of Thailand, effective next week \ud83d\udc40 Asia is getting prepared \ud83d\ude80",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRU8yTUZqOFVTSXpLSnlpZTdmWERUTmR0Tll3STFESDFYTEpvSHpSN1N2eGV4OFZEdHp6TGJGSGhSaEoyZlFNQ2ZGc3d1eUx1Yml3UERQN2FpOEtabmJQd2UzZ2tGRU9mb1prUU9saU5DX2ZjRjY3eFlWYjFSeE9vQmJKdDdTUkV0QlJMWDY1d2lQd1lXb01DaXVYMnhEWVZTTFBtS1EyT2xTSEtvTFY5WmY2bVlLTG8?oc=5",
+     "source": "Moomoo",
+     "type": "news",
+     "published": "2026-10-09T12:28:07+00:00"
+    },
+    {
+     "title": "Thailand finalizes rules for Bitcoin and Ether ETFs, with October 16 start",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwT1BTLW9BZ2JjajlINHJ4QnNxMnhRaTdPLWE5YmhNMjlJWkxnUHhpZnVxY2I0NS1YT3FqVmFTdkZGSzF4aktvMmw1Mk9TU3plM2tPQ3BMSTV2ckJoelBLZkpSU3ZHSE1NanFWYjZQVXl2ZTY3dnBGaVlB?oc=5",
+     "source": "Altcoin Buzz",
+     "type": "news",
+     "published": "2026-10-09T12:18:35+00:00"
+    },
+    {
+     "title": "Thailand\u2019s SEC Finalizes Rules For Bitcoin And Ether ETFs Starting Oct. 16: 10 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTnVvNEY0Q19oZEw4Y3UwczE2dmd1RUxaTU10cURZYkg3dXZLcTlGa0xLLTdhc0FfdTdiRGxUczRnWGJ3RGNoUEY4RGhmY0FvWnRPVXZ6eUZZUW5nMWEzVFRIbTlOcVhKS1NBNVNyb01oNkpXT1V2czl0UUVUOGJCT0Q4bmRFcDZ5X1kwZkoySUlNV0VhTktHS3luOGJQUUNTWGI5ZVBLZmNvZm4wcHFCUzJCUFMzUHVOSFpSMXYzRFpuNDFzajhsX0dFQW5yem1fWVdZYUI4ZlpoNXpsZzEw?oc=5",
+     "source": "NewsCord",
+     "type": "news",
+     "published": "2026-10-09T12:00:40+00:00"
+    },
+    {
+     "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
+     "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-10-09T10:40:59+00:00"
+    },
+    {
+     "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+     "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-09T10:16:55+00:00"
+    },
+    {
+     "title": "Thailand\u2019s SEC approves spot Bitcoin and Ether ETFs for Stock Exchange of Thailand",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRGJzalRVVTY0Uy1LMjFmZ29BTC05TTdKX2VWdnhRd09VdHFSUTIzemJwRGVkd2xDMW9Ma0x4Yl95UDFMZjE4Z1djcTlUendOVW9oUEZWcEw1MlZseFR2Mm5PWDlNcHFYVzJtQm9PaGZYeGJIb2V1cjZ5Z0plc2ZHNjlfNncwYW84RUlUSkcwNUdydDgwV2ZxZnZQZ0hQaG5zU0dWQ2dB?oc=5",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-09T10:16:55+00:00"
+    },
+    {
+     "title": "Thailand Opens the Door to Bitcoin and Ether ETFs on Stock Exchange",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGFhSmxIYkFucUd0dkdKUm5ILXQtZFBfNWt6N2RmemZVQWdJYmdQSHZYdTdxM1VCVTFLTGNUTVM2dzUzTDJtN3RTbENJSGR4OE9WSnJWZFpTTG9hWjh2WmxWZWwwQ2JHOWY5OEFiT2dmdGRRU1kyOGczbi12MkZuQ1NFbDdMSmNOb19lZVlrYTQwSEhmeUs0QlU1cHlXbHVl0gGgAUFVX3lxTFBUYWFKbEhiQW5xR3R2R0pSbkgtdC1kUF81a3o3ZGZ6ZlVBZ0liZ1BIdlh1N3EzVUJVMUtMY1RNUzZ3NTNMMm03dFNsQ0lIZHg4T1ZKclZkWlNMb2FaOHZabFZlbDBDYkc5Zjk4QWJPZ2Z0ZFFTWTI4ZzNuLXYyRm5DU0VsN0xKY05vX2VlWWthNDBISGZ5SzRCVTVweVdsdWU?oc=5",
+     "source": "Coinpedia Fintech News",
+     "type": "news",
+     "published": "2026-10-09T06:56:12+00:00"
+    },
+    {
+     "title": "Thailand Opens the Door to Crypto ETFs, but Shuts the Back Door on Foreign Ones",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiUlVZbjlQWTg4ZWw2S3duU1Zkc2pVRjJ5d3NKRFI3MEVYU1B1ZDBjN1ByeEFIeHdnVW51MkI2NG95Z0Q0d0F2c01JYzJKT3ZhS3RSOGw2SEpqRzZIanhvNlJFSldVcGNMY2hpR2l3?oc=5",
+     "source": "BeInCrypto",
+     "type": "news",
+     "published": "2026-10-09T06:34:00+00:00"
+    },
+    {
+     "title": "Thailand to allow Bitcoin and Ethereum ETFs from October 16",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZWlRUVBPSm9tSXpLZ2RJWE85ZGt2SXkzaFIxTEpUZGlZNGllNGhZX2Z6Q2l2c0xycWZDTnR3WEZleFRGV2hhaWRDeXE2UEwybGFBOUhGVEhaRE5KQUxQenplUHJieHpJOE1mRQ?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-10-09T05:39:00+00:00"
+    },
+    {
+     "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+     "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-09T03:08:51+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+   "outlets": 7,
+   "topics": [
+    "Solana",
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "Samsung Wallet to Bring Stablecoin Access to Eligible Galaxy Users in the US",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRjA3MThpemllc21tUXBWNnd4aXlkblc4cUJGMHE3bjlSeEVGclk5bmYyVFcxOEhIV1JyckJ0cUhWN2xBRjg0RVB6NUdTZlJGWTFkYWVuYk96Q1R5c2RHYWdKem5FaV9jR1ZpblR1Q0RnX05oWGVrQVJ4amNqMXNFOHlsbHNRX3BPM2EtNENKbDlUdWNpQWc?oc=5",
+     "source": "Samsung Global Newsroom",
+     "type": "news",
+     "published": "2026-10-09T15:07:36+00:00"
+    },
+    {
+     "title": "Coinbase-Samsung Deal Expands USDC Access Through Samsung Wallet",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2NlMkhKTGdGRGR1RW15Z0d2S1BlWldLSDJ6aGdHalJ2dkkxelRTVEd2M1ZXajduMjZETVlBak4xaWM0WkZRX0toelA1bUIwUEg4UmxWU1I2QWZqRXREeTllVXdZaDJhdnoybDR3U3Vvb25YSmhSdUphTk8xZURNbVY1dkVZN0lkNm03MGlKcHRFS1FiY011TlFKUmpWelNmYWwyaEtaSWg?oc=5",
+     "source": "Zacks Investment Research",
+     "type": "news",
+     "published": "2026-10-09T14:34:21+00:00"
+    },
+    {
+     "title": "Samsung Wallet adds USDC stablecoin in US. Is it part of a wallet wave?",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlNzdi1odnBrVDdxd0hVWmRVbjY0OWpHaVV4dWs2alFwSVlwdkNDLW5YcFlWQl9lN1BNTmNlRnY3dmJYZkktc3JlOGstN0VkZU1FemRoVzdhV0VfMENRMVd4RktOQWhRWTRFUVpEOFB2WnhwQUdnbXREVXJIOUhBbmpBLThWSkpGVFhTV1NXaVk4NDdmeGswVzNpbFBOUjBrSDl3?oc=5",
+     "source": "Ledger Insights",
+     "type": "news",
+     "published": "2026-10-09T12:30:08+00:00"
+    },
+    {
+     "title": "How Coinbase and Samsung Are Bringing USDC to Samsung Wallet",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3dZeDY1QTdpZzQyRWVrbGlDeFVDdzR4bHpnSUZNNmt0Wm5yM0EtNzUzcGVTdGhqdXY1UjhRU3RIZEZkTVBGM1F4ZmVQZHBRNk03eWFvdjJfXzFubU5vNzhiLWh1czI1LVFKOFNsajhmT2xEM2paZTl5T19EWTdHelI2ejBUOC1zc1N1bzF5YTZTU0N3Z1NGVw?oc=5",
+     "source": "FinTech Magazine",
+     "type": "news",
+     "published": "2026-10-09T08:01:58+00:00"
+    },
+    {
+     "title": "Samsung, Solana Bring Stablecoin Transfers to 82 Million Galaxy Devices",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeG5kcHVMZ2k5enF0WFZZSmVtdjNzM0hGSFRJNmxQdUxzQktmdGg4TjNMRUJxY0w1aHJzaXFnVEVteVpUbjNYN0Q4QWpXYmZhY0d6Qm9Qa0NSVl9CWlhLWTBTQ0diZGhlTTA5S3NsOXZpV0NfNGxMNnVBT0txVlNoWTBFS0NKRVY4eDFpVUFYeEVWTkJ0WWZFLWN4cTNWZFNLYXFZajVuVkg3Q1JYREFGTG9kdVN3QkZ4R1lEQ2g0ekd6MEU?oc=5",
+     "source": "The Fast Mode",
+     "type": "news",
+     "published": "2026-10-09T00:15:34+00:00"
+    },
+    {
+     "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
+     "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-10-08T09:05:50+00:00"
+    },
+    {
+     "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+     "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-08T08:24:24+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Securitize Launches Tokenized Apple, Nvidia and Tesla Stocks on Solana",
+   "outlets": 7,
+   "topics": [
+    "Nvidia",
+    "RWA",
+    "Solana"
+   ],
+   "items": [
+    {
+     "title": "Securitize Stock Jumps After Hours As It Launches Tokenized Apple, Nvidia, Tesla Shares On Solana",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEtrMVVyS3M5Y1dIMjNzajVwajA4VEhDQ1hoYm0ybEV2TTVFSDcyUy1qRkxFT0I4c3dmV1c5d2Z2UDdERUxHOGlCaFZ5QTFzZUdIUnVNRzZZYm9CelNBSkx2Yy1kVHN6VVNSR3I2SnZwc2oxTUlfSm1mNE4yckxRa0JHbVR4blhfQkh2dWdpTTN4ZzFpX195dG1UdXg4akd2Qkg2WU5DU09PZw?oc=5",
+     "source": "Benzinga",
+     "type": "news",
+     "published": "2026-10-09T03:27:36+00:00"
+    },
+    {
+     "title": "Securitize Launches Tokenized U.S. Stocks on Solana, Stock Jumps More Than 10%: what 11 outlets left out",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOERGSHpHN3NENVdJbkNFN1NtYW1JVUZyQWtxblkzVUltMFAtN05fQ1lpRnZ3QWxjQVFOVEpCRTFyYVE4bmpSV21naVVsUDQ2UW5RT0ZLRTFUU2p3LWdKUjYydU9HcXdqMUcyT2ZVTW5LUElLUFQzdXpjSFRRSVNyZWI4V2Nhc0V3SnR1Tmw1b2JzYkdHeF9maHlraV9WNFFvSmZXajB0dWc2MXZCc3Fpa0doUE1vcGVkMlVKMDJlS0FOYmRzZXdGbHRSV2R5OWlzZEYtQ0xJU0k0OVRCUGM1Q1pB?oc=5",
+     "source": "NewsCord",
+     "type": "news",
+     "published": "2026-10-08T22:51:13+00:00"
+    },
+    {
+     "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+     "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-08T19:31:38+00:00"
+    },
+    {
+     "title": "Securitize Launches Tokenized Apple, Nvidia and Tesla Stocks on Solana",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVZVeUtTS0lSN1poNmdnVUVLbVNrTWxfSzRoWmVYbEdIeGEwVWc4T0p2RkhfRkdqRENDX3JseDBCeFFUUXhQZkNubEJRejBKc2xiX0JCMW5PRDBnR1Ezd0l0M01ycWtJM1hLcm5uWVZPZVZCZ1RVbnlVZVoxNHV6R0dTLTFwWU82c1Q4ejIwRWZaNTNuZ25oNmh5cEFqcmhYV2hmQ3B6UzZSRVFLdWxBYVBmbGRhVkc4Zk9n?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-10-08T19:12:39+00:00"
+    },
+    {
+     "title": "Securitize Launches Tokenized US Stocks on Solana",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkZrZ0hRN0VjWWFMeUJoSklhVDZ6VDdXYWUyZ2N0anFZWDlMRzlCRUtwSHlveUZHQkc1Vy1leFI0d0EzS1hpaGJWNUxPTG43dHh4U0xkUnpZcWdyc0FsVmd2YVpJQi1HUzAwSC1uNnR2emRZN3BNTjh5ak1QSGNKTkY3UmtRRmkzaGtfa3c2OUQwbXJINnFpcVp4Nm5CSDM1NktPenNJMA?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-08T16:26:34+00:00"
+    },
+    {
+     "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+     "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-10-08T15:10:49+00:00"
+    },
+    {
+     "title": "Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more",
+     "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-10-08T14:04:39+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin Rebounds Above $81,000 After Trump Rules Out Iran Strikes Before Midterms",
+   "outlets": 6,
+   "topics": [
+    "Bitcoin",
+    "SpaceX",
+    "Trump"
+   ],
+   "items": [
+    {
+     "title": "Stocks rise as tech shares rebound on SpaceX deal, oil prices slip after Trump vows not to strike Iran before midterms",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTHI0TGpfSU50am9SQ1FISTFfRkFDY3J1cUFBZlZCRXBSOHRxTURGNDlXdlNycVVYYW51cmJGc2hqQ1NRVkZ3ckQxT2ZHMEdtRFNvbUo0TnV4em1WdjEyN293cGlqcGZhc1o5eGlMeHdiUmFQaFVWTDFELXJHY2ZLWHlzNWtTelR3M21RcmdmVWYwY1V5SzNMa1ZDNGRfVnFPal9CcTZFelNtMU40LTRlVklSNmNqdUtGc05TSlYwSnNRekYxWmhhY3VFek9DV0ZLNHV6VWpQUDZIdw?oc=5",
+     "source": "New York Post",
+     "type": "news",
+     "published": "2026-10-09T14:13:00+00:00"
+    },
+    {
+     "title": "Bitcoin rebounds above $83K as Trump eases Iran conflict fears before US midterms",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2dDNVhiMm1fUWthVUQ0X2tSTE5oN3RsYmpqem9CTXVrVDNtWnAxOHd4Z0Vrd28wZzRFVE8yc3VtNmp6OUVmRlBaaGM5dEtPZ0w0SVpDUFBSWk1qNUFybWdUTl8xQlBiZWVhc254c2hRTW5mdWVaYWkxd3kzeDBMbURCSTdOMFZPdjBsS2hkcV91TlRsekhmRko3amhlR3J0bE5RMlM3MFJtMVhLeTlJQ1Bn?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-10-09T13:25:08+00:00"
+    },
+    {
+     "title": "Bitcoin Rebounds From Near $80K After Trump Rules Out Iran Strikes \u2014 Analyst Eyes $205K",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTZjNENMTEhrbmpZRVYtN3RoVjNSck5YdkNCOENvSVdHWlpHTTZnZFE0c0JhWmo5MVpOdmd5Yk9nU2xCcmVPdVZZekRheE1QeHR3RkctLXdGRnpVTHJFQUYzXzdZVS13aGIwaTNrS3I0Tno1OF9JTWNYWl9qRlNlNnh6Wmk1VlZ0WnhBM3ZoYjNscHhqU2xQczkyNDQ?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-09T13:17:15+00:00"
+    },
+    {
+     "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+     "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-09T10:44:22+00:00"
+    },
+    {
+     "title": "Bitcoin Rebounds Above $81,000 After Trump Rules Out Iran Strikes Before Midterms",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd1hra1dpYU9zYzlobmtHaktrQ1FUUVc3a1NMOERtNlFVem5lS1lOOUVkVzJGbnZid01wWFlzN2ZXNlN6a1d4NEVqZE9IWkU3RTVIbjk5b0RoeFA1QTV2VURhcmxCVDFQQjBBNEhRY2xhbFUxb3E0TFQxZWRTS0pScDBrXzgwbE5QTVpORjZDTi0waG15MFRCYk9UaWx0bUZqQk12WWtrZVR4MmZYNWhwQktoamJIQQ?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-10-09T07:07:37+00:00"
+    },
+    {
+     "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+     "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-09T03:27:38+00:00"
+    },
+    {
+     "title": "Trump\u2019s pledge not to strike Iran before midterms fails to soothe oil markets",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTA0TXdyTldZVG9YbjBHRHJZUXJvN3JVZHlmRlRnVVgwOFJSVHZlM3ItWG9QeWUyVUJObVd0WjgtUGhES1NkOE9QSFJ1dFBZV3FtX2ctdkNHSjgyWU9RN184RTh3akIwcXE4SU9qaktLTGNlTE5WLW1OUC0xMzBEV0hneW9ZQQ?oc=5",
+     "source": "NBC News",
+     "type": "news",
+     "published": "2026-10-08T20:19:19+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Nasdaq CEO: Tokenization Could Free Tens of Billions in Capital",
+   "outlets": 5,
+   "topics": [
+    "CEO",
+    "RWA"
+   ],
+   "items": [
+    {
+     "title": "Nasdaq CEO Adena Friedman on tokenization and trapped capital",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56YW42TE9QbFdSN3BxeXdhTjd0STJqckpXZlhMaHhKdkkxYXNyRzk2WkVTaTBJUW1tNWctWUl2TkJQSFhqNEh2YmFhamhibzZvcjM4a0RwWlNrUXpVZHNPWkpucEpPX1hyS1NYTk9CU25KUQ?oc=5",
+     "source": "Quartz",
+     "type": "news",
+     "published": "2026-10-09T13:24:34+00:00"
+    },
+    {
+     "title": "Nasdaq CEO: Tokenization in financial markets could free tens of billions in collateral",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdW9NTzZpTUZaalNwRmEwS3h1NnJWNkE3bElYTG5wRGc0N1gzQUFZMDVJRjB1VnhmUmxuVUQ3eWlnTlU1RWw3X0VsQlNDeWhCbm1fMU9YaEx4TVNQZERuUkIxTlJDaTV4MHgyS3hJSHlsbTd2b2QwSm1XRVk5cnBlQ3ZUazBmUW8?oc=5",
+     "source": "The Cryptonomist",
+     "type": "news",
+     "published": "2026-10-09T07:37:52+00:00"
+    },
+    {
+     "title": "Nasdaq CEO: Tokenization Could Unlock Billions in Capital",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTY0Wkh6TnlkdHFNLVlmczN6S0xLMlFQNVB6M1FScHFJV3Q0SlR6S2luenBEdUdjUVpHYWVfbDJPSU9odjhRSllqcnhIZWNMMVJkMVJDeE16V0hrc3JFS1hFRGlNZUZoU1NaSmh0R3o2bDdNU2dMVWIzUld6OVVVR0hlcklubnFydEtNemNqSzJUekE?oc=5",
+     "source": "The Tech Buzz",
+     "type": "news",
+     "published": "2026-10-09T07:06:00+00:00"
+    },
+    {
+     "title": "Nasdaq CEO: Tokenization Could Free Tens of Billions in Capital",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2ZkRTdDVGE1ckExTDdiU0huSmpyUkxQeEdwSE5aTWlCLWF2WmFSaU9YTndrb1RDbkhPbGxKOFNYazJtdGE1MjdnVEctdlpBZTRqcmRfQjV2YzRIQkQwV3hpWUxNSTdTQ3prYmpnRUpJSnRFNVg2ZkVTQkdkU1V6V1hnWG1RcWlhc0pKWEtYZFJpZWdobVVBYV9UNA?oc=5",
+     "source": "The Tech Buzz",
+     "type": "news",
+     "published": "2026-10-09T06:35:00+00:00"
+    },
+    {
+     "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+     "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+     "source": "CNBC",
+     "type": "news",
+     "published": "2026-10-09T06:30:01+00:00"
+    },
+    {
+     "title": "Nasdaq CEO says tokenization could free tens of billions in trapped collateral",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWk54Q3U2VW1HcXBZYk5ybHVIc0RQMGpkM0hwd0dteGFNcV9CLTBLSGhkOEJ6U29zcmhQc1pPajhtUTlES2dOb3BNVGtTcFJWNHpvYXdVZ0QyMlV3bDBJU1dKaGJOOW9YQkZhaHc5d1BfZldURTZHLUJVVWFIdFpXNy1YVWdUSWRtMk03d2FpQW9lMW5WN0labV9PRW9WVWhuLUFRWnZiZk42WUpTQUJOa3hvYW56NkotWDNaSA?oc=5",
+     "source": "investingLive",
+     "type": "news",
+     "published": "2026-10-09T01:50:15+00:00"
+    },
+    {
+     "title": "Nasdaq CEO: Tokenization Could Unlock Tens of Billions",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXBPb3pmY0d0Umx1cURLUEx0M1ZCazluYy01YWVCVG13aEhRQlV5ZzZodF93RVlIYzBhUlhpUnBDYkpMcFJYZ1VrTWVxcVltQUFLZWptRVRDRTNHT040R0NFdHZVT3o4Tl9iVGo4Ui1IN0RRSmV1anpKdzQxSkwxRXFhSTFpdGpPa25jb3MtVQ?oc=5",
+     "source": "The Tech Buzz",
+     "type": "news",
+     "published": "2026-10-09T00:35:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "OpenAI Annualized Revenue $20 Billion Short, Says Report. AI Stocks Fall.",
+   "outlets": 4,
+   "topics": [
+    "OpenAI"
+   ],
+   "items": [
+    {
+     "title": "OpenAI's $20 Billion Revenue Gap Sends Chip Stocks Tumbling",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWVNNMV9XcXFzUm9hMlhqakpxa2lsTHpTQm5JWTFINjNPeXVTMHR4bFU5UVZkajhEQk9vOHBza2tzY2lhbmFFUm9RV0F2RmhWMS0yYzJFeFlOVnJtUG1sQ09ndENHdElhYmktNzhDbFhEWTkwX2NiMmxrWVYzNHE3UlpKcGZlTzJOTTNfMHNFSU50Zl9XeGRTbHZTdTB3ZWozbzhUVTRDUllCLWlH?oc=5",
+     "source": "ChartMill",
+     "type": "news",
+     "published": "2026-10-09T10:53:57+00:00"
+    },
+    {
+     "title": "AI stocks crumble on report that OpenAI\u2019s annualized revenue is much lower than believed",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbjZWZ0pfZ0xhZGpHNTRabDBuczZ5eVA1d0NwS3FveHBzTUJBWmtVVGI5SFhibzN6a3RvcXNaQnFKaW5vVGk3ZmF6dXlfNURwUVZ2VVM2ZHU2aDlyd3FvRzFTVFhVMFhvTzNCN2lnMmc4Qmp6MGQ5cFdCd005eEtZcGpJcWVPdEd4YWdBZUxBbnpYb21td3VwWkpBdm1fOFFSWFdzQlZaSmF4Nkp5amxMN01BdWY5MlhRTEdzZDVuZzN0UERSSXpuTzlFWS1KZVQ5?oc=5",
+     "source": "SiliconANGLE",
+     "type": "news",
+     "published": "2026-10-09T00:44:00+00:00"
+    },
+    {
+     "title": "OpenAI Annualized Revenue $20 Billion Short, Says Report. AI Stocks Fall.",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNazFzTnN2Zm1URWV1RjdjVmhXaEVoaUdtUXEtNUZjX3UtRzlQMUxMTENTRFd6WTZfWC1OUEJ5cXp5ZmFyTlRpbXI0RXRSZjVrZkdBN3ktSDVKVGxTeVFvXzJ1YlY3YW4xZ1BxT3RBa2JiUzFvdGFoZ3pfUjIzS1V1Q1pHSTVmVkJHV2VpaTVvbms?oc=5",
+     "source": "Investor's Business Daily",
+     "type": "news",
+     "published": "2026-10-08T17:54:00+00:00"
+    },
+    {
+     "title": "OPENAI'S ANNUALIZED REVENUE NEARS $50B, FAR BELOW EARLIER $70B REPORTS",
+     "url": "https://www.reddit.com/r/stocks/comments/1x0x3qh/openais_annualized_revenue_nears_50b_far_below/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-10-08T17:29:25+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Nvidia-Backed Firmus Scraps $5 Billion Australia IPO as Markets Wobble",
+   "outlets": 4,
+   "topics": [
+    "Nvidia"
+   ],
+   "items": [
+    {
+     "title": "Update: Market Chatter: Nvidia-Backed Firmus Reportedly Scraps $5 Billion IPO",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkoyQWJUWXhzMHZxejhvWnk2czlpT0N0bVl3czRvUnIyZ3VseFJqdXFVcm1GemZsU1hRUTJJZnl1MkR6Q21mMWpDb3FubEFkNk9sS0gySWpqVUlYSmhraWppZlRaenRraERrS1BtMUZ3LVoxb20yU3VBVTZmNDNneUZDUWxncmVJSENfR1VoOGREZFhrcUFhLTdmUVpNTFRRWUE?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-09T09:28:05+00:00"
+    },
+    {
+     "title": "Nvidia-backed Firmus scraps $5 billion Australia IPO amid growing AI scrutiny",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVRXVldpbXkxUU1VUVRZYXlET2p4R01qMzBKVGx5bDhKTGpsa3RkMll3YXBpRlpPXzItb251czJ3bVQyODFRbGo5SGk0ZkNyZHpPTWY1YTlySXFCM0NZUkV5RkVleFlNWlZxMXoza3lqYUh5VDZya1JiSVBuNmlaQkctdm9VS1hqdVI5WjAzbTJuVGFTdFFvbV9CcEFJaXFTQVZYN3pmaVdMVmVfUEs1TmduS044NmJYTEpxMQ?oc=5",
+     "source": "Euronext Markets: Real-time Stock Market Data | live",
+     "type": "news",
+     "published": "2026-10-09T08:52:24+00:00"
+    },
+    {
+     "title": "Firmus: Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wdmJBcVhNX2h2UWN5a1k3eElWRFZzYnVRcXd5RmZ6YVhhbUQxa1RrMjBlVkx3bkstTmw2M0FsTHlCNTJwbFpUVFdJQlMtd09SdF9fTHRYM2lOdTA?oc=5",
+     "source": "BBC",
+     "type": "news",
+     "published": "2026-10-09T07:14:30+00:00"
+    },
+    {
+     "title": "Nvidia-Backed Firmus Scraps $5 Billion Australia IPO as Markets Wobble",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXRHN1ZtemRMdlBCRXptM2swX0swV2J5SjFhelhyN0htRzFmaGk2LUdlLWFyUDJQQ3JLZ0RJdElnY1lVX2J5VWprUWlFWFFTaXByX252NjdXVVk2anI1SVpZQUc5YUZLNENndDdKQ3FJT3NIRWNoY1VRcUM5V29hSll5c0JhTmM0ZnJ3OGRSbkhpdmhHWXlpNERGM2RIeFVPNDV4WGg0SVBXZ3c?oc=5",
+     "source": "The Information",
+     "type": "news",
+     "published": "2026-10-09T04:45:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Ethereum Researcher Urges Crypto \u2018Bunker Mode\u2019 Over ECDSA Fears",
+   "outlets": 4,
+   "topics": [
+    "Bitcoin",
+    "Bunker Mode",
+    "Ethereum"
+   ],
+   "items": [
+    {
+     "title": "\u2018Begin planning for bunker mode\u2019 \u2013 Ethereum researcher warns of AI threat to crypto",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFJucFdXdXROX1VSZGFZUl9TVGhMcnpNMUxEa1AzNFl6Z2VCUjlyb3BpdFNGWGVYdTFBdmtMY25MbDBqaS1fbVdNdVA3YmdiLTYzMjhPVUJ2am9zQmZlNDFmRGZVTVVsaF94UkpndnJaaUVCRmxKQ28zVVJ5eElrSkxWQndNbmlyQjZrbnhCM25JT1NEVU1z?oc=5",
+     "source": "AMBCrypto",
+     "type": "news",
+     "published": "2026-10-09T04:47:36+00:00"
+    },
+    {
+     "title": "Ethereum Researcher Urges Crypto Bunker Mode as AI Threatens Wallet Keys",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFozSXhhekhpX1NzYmdQTjZtaDFSV0pmZkU0MGYzRVBCSmZxTENCdXVTRnJqWkhtVFNNZ3hzdGFfU05vdGhCd3ppRGlCQjF1eXh5Mzl2dmcwb2N2bFRJYnhTbTU4ZW8wcDh0eWQwVGNqS192MWYyN28ya0xfYnpCd1p0b3JZd25jYTdIZXlFMnc0YVE0ZlkzZ2w0cDYxeE9WMlE?oc=5",
+     "source": "Startup Fortune",
+     "type": "news",
+     "published": "2026-10-08T21:40:47+00:00"
+    },
+    {
+     "title": "Ethereum Researcher Urges Crypto \u2018Bunker Mode\u2019 Over ECDSA Fears",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3ZPN0FQemNtQW5lQXpzbFFjbnVBQ1ZvLV8weHE0YVhaanFsenVNMUtlSFB0b3BETUpOd1hfSTJtQnFPRWdQZGYzdDFpcDJsbWdqUGNZUVV0b21SbW4wc0l5cGNGYklJWHFVa29Fc29xcGJNeVRuNXE3RkZ3YVVHRWNkdkd2aXJxT2c5RnJzeDRMQ3FRdC1VQkhNWUVTX294MEJ1V2pR?oc=5",
+     "source": "CoinMarketCap",
+     "type": "news",
+     "published": "2026-10-08T19:23:56+00:00"
+    },
+    {
+     "title": "'Bunker Mode'? Crypto Experts Argue Over AI Threat to Bitcoin, Ethereum",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkhhV2FvRTFCX0MtRVN5ZGE2T2E0eXV0bE5uZnRUSlgwd2RheEdXSnhrbmM5TmtZQ2NRbHVtZENmcEdYaHFPQjVpMFBSbVdZaWo3UVl4WkF4N3ZveW9va2o0VUlzYVZIVVlWbWM1UlM5azBqQWhDeF91RTRvaXE3dDNXRDc0NGp4aGxKWTJzSGVHNFI4N01aUVVOT011dw?oc=5",
+     "source": "Bitcoin News",
+     "type": "news",
+     "published": "2026-10-08T17:40:06+00:00"
+    }
+   ]
+  },
+  {
+   "title": "SpaceX's spectrum deal shakes up telecom stocks",
+   "outlets": 3,
+   "topics": [
+    "SpaceX"
+   ],
+   "items": [
+    {
+     "title": "US, European telecom stocks slide as SpaceX spectrum deal rattles sector",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUk2RnFEbjJ3U1VMdUdwTXNrT3VNT0FpcjBDMFVLVHVzSHVlLVJjZE8tRC15Y1I0aWN5ZzJJQlJZaldBVmJ0cy1FLUVZNGVVc0k2bzg5dDlQTFlabzFrSHgtQ0dMNXg2N21BSzhsZEhyTTRTUjlBa2JhSWh5RVU1UWs4bnlhZ3M5Z3RCMTBLSXVieTBwckZNTWR0MUhkYUk1NUp6STFSaGhZb3FFTE5hVlRodXVOdE9faFlDZklPdGRlaERDR2c?oc=5",
+     "source": "Reuters",
+     "type": "news",
+     "published": "2026-10-09T15:01:34+00:00"
+    },
+    {
+     "title": "SpaceX spectrum deal to expand its Starlink network in the US sends telecom stocks tumbling",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbF9UNjV3TlN0YTFhRmpHWmNBOTJEY1hmWDFYNWFxXzN0amVNaTV0eTRQTENCQ29JYk1KNTNvVWNVc0RsaDRLeEJiQ3FLNkFtcUpJZndmN3VqMDR1STV3eS0tanBrWGhtYkZkcXFPd3JXaXZkT3p6dGRQUkM5c2RWYWhJM3B6bEt4ZVdpVTd0cTh3X1FUWTVpQTlOUXpCQUk?oc=5",
+     "source": "Business Insider",
+     "type": "news",
+     "published": "2026-10-09T14:28:00+00:00"
+    },
+    {
+     "title": "SpaceX's spectrum deal shakes up telecom stocks",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQzRiOTdIVkxTME5LWEVZUDZQWWJlRWdqRjc5c0N1cEIzZ2pjQUU0bUJrUmxlcXJkV01LOVFLQ1VkNVU1TEVjQnRVd3pJejdYTlBLRlZLRDJzdGdQY2hkNGRrMld2WWV6N0hxdHNCRVlfanpXRzdJZVpRSWg5VXF2N1pncHpGa3VOVDZ5VG9QcnFLZW1HTDRiYQ?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-09T14:06:43+00:00"
+    },
+    {
+     "title": "SpaceX Just Put Telecom Stocks on Notice",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTJLNS1idW9vdlpmQzBzYW9VV1ZNUHVTeW93am0zTWxvcG1TMXFiT05tTThUZDBaclozU09pak5wb2QtVEY2UXFTcEdtQm1PbkhJb3RQY1pxZ1BDbzNuVzQ3YnFoclluQmUwXzd6aFNrZmNIbldTOWUtN0Q4U3Z0MmVJcjZZYTlRcl9TY2plVldKVjhkWEpPRUFJbw?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-09T11:51:20+00:00"
+    },
+    {
+     "title": "Telecom stocks sink after SpaceX's Starlink picks up spectrum assets",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFl1TlRmZ1ZCZmpHYUdrM0NiU1RqSWNSckVFVUdMejdFS2I0YjFuczJuQ29aajN6aVI1dWNkQnU2SDJKYm9QMm1TeW9hSVV1NVo4YjVvWjdYd0N0dEtkLTRjZU5PSFk1WEdHRTc2UklMV3p0d3F4VEFwdXBKYmJ2allqZVRuY1JrTEw2NzQxMmJxclN3cmhyNkp6QzNkQUYyX0EwMDJyR1pjczNEM19XXzllM2FER2gyVVRiSVlpdDBrRGl1bVI1SzY4Yw?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-09T08:49:22+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Nasdaq rises after OpenAI revenue report rattles AI stocks",
+   "outlets": 3,
+   "topics": [
+    "OpenAI"
+   ],
+   "items": [
+    {
+     "title": "Nasdaq rises after OpenAI revenue report rattles AI stocks",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4bnlqV01Xalh4M0xqb1FucmRITVpCUV9Uc3lnai1zZDF4YjE2Q2xQOWtGSGh0aXgtN05FZmRfazhWODRoMEVqeVYzODVNSjJ0Wk1nTHg4cGZ1dVJERUNnQzJMb2FJU2xJekE4akc0aGE4VjY5Q3JSamNxUUIzQQ?oc=5",
+     "source": "Quartz",
+     "type": "news",
+     "published": "2026-10-09T13:49:08+00:00"
+    },
+    {
+     "title": "What happened to OpenAI\u2019s $20bn? Revenue scare rattles AI trade",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHVLSGh0d0ZENzhXTG5LS0I0Y1otYjA2WTA1dndkaUdzSXljNnFUUEFRY0wtdTZoTnNIdVY1OVZDR092d3RkTHF2cVZ2NUo5bDNhY0l1dDg4TFNpR3pUQXVTNEtYc0d0NFhNSk5XMk5FLWdIcko1cXJDRFZGQWZkZkRoSWxNWDNpT0tuUHY2anRtUTRCWS1fZXc0c2R2MW8?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-09T12:06:26+00:00"
+    },
+    {
+     "title": "Nasdaq Futures Climb as Chip Stocks Rebound on New OpenAI Revenue Report",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDlDak9ENlFQamlMWHd5TnFjXzFmTTV0bWRQTjJmbkJqRTFhSUlMWnhIUW5kLTBjZDhpNUhiT1daMUZfQkw4NkZzQkpadWNxei1jdWNSTEVTbDVjYVoxM2JZbTNQYTRTRHNDams4bnd0LXc1RnQ1Sl9seG1xTkRPU0RnOTZXR2NzZ0dyWkx5YlV1OTZFbVZEb1lMaTQ4Q0NjVlF2Y3lqT0o0NVgyNWs5TGJKRld5LW8?oc=5",
+     "source": "Barchart.com",
+     "type": "news",
+     "published": "2026-10-09T10:32:04+00:00"
+    },
+    {
+     "title": "U.S. stock futures steady after Nasdaq slides on OpenAI revenue concerns",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNElvOTNHVFowTzZ0bEFhd25hXzJBTHBXUjllLXNVckhWNVJuUGRtbDhvemF5cDVkTjFjZExXVUVGSmp5N0s1WG9ORVBoTHRtcUhJV3BHUkNRVFoyeHlrQ0VfWmpGOGdjQzhjVUZrMWt5S3ZoNHFsSHZrRFJLM0NkTkZIWTVHYW5VYk5iQ3R2VF9mLU55TDFUa0xn?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-09T01:06:00+00:00"
+    }
+   ]
+  }
+ ],
+ "headlines_served": 502,
  "trend_candidates": [
   {
    "key": "solana",
@@ -3861,20 +4385,6 @@
     "CoinDesk",
     "Cointelegraph",
     "Decrypt"
-   ],
-   "baseline": 0.0,
-   "ratio": 6.0
-  },
-  {
-   "key": "spacex",
-   "term": "SpaceX",
-   "count": 6,
-   "sources": [
-    "CNBC",
-    "MarketWatch",
-    "r/investing",
-    "r/stocks",
-    "r/wallstreetbets"
    ],
    "baseline": 0.0,
    "ratio": 6.0
@@ -3912,6 +4422,19 @@
     "Bitcoin Magazine",
     "CNBC",
     "The Block"
+   ],
+   "baseline": 0.0,
+   "ratio": 5.0
+  },
+  {
+   "key": "spacex",
+   "term": "SpaceX",
+   "count": 5,
+   "sources": [
+    "CNBC",
+    "r/investing",
+    "r/stocks",
+    "r/wallstreetbets"
    ],
    "baseline": 0.0,
    "ratio": 5.0
