@@ -29,7 +29,7 @@ Updated at 08:00, 14:00 and 20:00. Shows what Reddit is talking about, split int
 ## Where the headlines come from
 
 - **News:** CoinDesk, Cointelegraph, The Block, Decrypt, Bitcoin Magazine, CNBC, MarketWatch, plus Google News search per topic.
-- **Reddit (Boiling Point page):** Altcoins: r/CryptoCurrency, r/altcoin, r/SatoshiStreetBets, r/solana, r/defi. Stocks: r/wallstreetbets, r/stocks, r/investing, r/pennystocks, r/StockMarket, r/options.
+- **Reddit (Boiling Point page):** Altcoins: r/CryptoCurrency, r/CryptoMarkets, r/solana, r/defi. Stocks: r/wallstreetbets, r/stocks, r/investing, r/pennystocks, r/StockMarket, r/options.
 
 Only headlines and links are shown. Every headline links to the original article.
 
@@ -39,7 +39,8 @@ A small Python script (standard library only) runs on a schedule: it fetches the
 
 ## Changelog
 
-- **2026-10-10:** Reddit Boiling Point page (Altcoins / Stocks, ticker heat ranking, newest + hot posts, recurring threads filtered); Market Brief is now news-only; "Go to" menu; news updates twice a day, Reddit three times; term counter counts each headline once.
+- **2026-10-10:** Reddit sources tuned (inactive r/SatoshiStreetBets and r/altcoin replaced by r/CryptoMarkets); safeguards so a slow Reddit run can't hang.
+- **2026-10-10:** Reddit Boiling Point page (Altcoins / Stocks, ticker heat ranking, recurring threads filtered); Market Brief is now news-only; "Go to" menu; news updates twice a day, Reddit three times; term counter counts each headline once.
 - **2026-10-10:** Live price ticker (top 20 coins, no stablecoins) and Fear & Greed gauge; README added; headline-counter layout fix on medium screens.
 - **2026-10-10:** Pixel-orange icon for the browser tab and home screen.
 - **2026-10-09:** First version: topics, trend detection, Reddit + news sources, retro design, top stories, duplicate filtering, headline odometer, mobile home-screen support.

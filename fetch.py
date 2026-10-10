@@ -9,6 +9,7 @@ reddit mode: hot posts from the subreddits in config "reddit_sections"
 Usage:  python3 fetch.py [news|reddit]
 """
 
+import fcntl
 import html
 import json
 import math
@@ -157,18 +158,17 @@ def fetch_reddit(cfg, status):
     items = []
     for section, subs in cfg["reddit_sections"].items():
         for sub in subs:
-            # "hot" alone misses small, slow subreddits (their hot posts are often days old), so read "new" too.
-            for listing in ("hot", "new"):
-                print(f"  r/{sub} ({listing})")
-                url = f"https://www.reddit.com/r/{sub}/{listing}/.rss?limit=50"
-                try:
-                    for i in parse_feed(reddit_get(url)):
-                        if "/comments/" in i["url"]:
-                            items.append({**i, "source": f"r/{sub}", "type": "reddit", "section": section})
-                    status[f"r/{sub}"] = "ok"
-                except Exception as e:
-                    status[f"r/{sub}"] = f"error: {e}"
-                reddit_pause()
+            # "hot" only: the login-free "new" feed is delayed hours and added almost nothing (tested 2026-10-10).
+            print(f"  r/{sub}")
+            url = f"https://www.reddit.com/r/{sub}/hot/.rss?limit=50"
+            try:
+                for i in parse_feed(reddit_get(url)):
+                    if "/comments/" in i["url"]:
+                        items.append({**i, "source": f"r/{sub}", "type": "reddit", "section": section})
+                status[f"r/{sub}"] = "ok"
+            except Exception as e:
+                status[f"r/{sub}"] = f"error: {e}"
+            reddit_pause()
     return items
 
 
@@ -656,6 +656,12 @@ def main(mode):
 
 
 def run_reddit(cfg, state, fresh, status, first_run):
+    # One Reddit fetch at a time: two runs share the same rate limit and stall each other (seen 2026-10-10).
+    lock = open(DATA / "reddit.lock", "w")
+    try:
+        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        sys.exit("Another Reddit fetch is already running; skipping this one.")
     print("Fetching Reddit (paced to respect its rate limit)…")
     recurring = [re.compile(x, re.I) for x in cfg.get("reddit_exclude_titles", [])]
     posts = [i for i in dedupe(fresh(fetch_reddit(cfg, status)))
