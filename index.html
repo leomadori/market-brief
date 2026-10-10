@@ -49,6 +49,25 @@
   .dateline { font: 12px Verdana, Geneva, sans-serif; color: var(--muted); text-align: center; }
   .dateline.stale { color: var(--red); font-weight: bold; }
 
+  /* Market bar: price ticker + Fear & Greed */
+  .marketbar { display: flex; gap: 10px; align-items: center; margin: 0 0 10px; }
+  .ticker { flex: 1; min-width: 0; overflow: hidden; background: #000; border: 2px inset #888;
+            font: bold 14px/1 "Courier New", Courier, monospace; color: #ffb000; display: flex; align-items: center; }
+  .ticker .track { display: inline-flex; white-space: nowrap; animation: scroll 30s linear infinite; padding: 10px 0; }
+  .ticker .track span { padding: 0 22px; }
+  .ticker .up { color: #39ff14; } .ticker .down { color: #ff4040; } .ticker .flat { color: #aaa; }
+  @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  @media (prefers-reduced-motion: reduce) { .ticker .track { animation: none; } }
+  .fng { flex: none; width: 190px; border: 2px inset #ddd; background: #f4f4f4; padding: 4px 8px 5px;
+         font: 10px Verdana, Geneva, sans-serif; color: var(--muted); }
+  .fng .row { display: flex; justify-content: space-between; align-items: baseline; }
+  .fng .num { font: bold 18px Verdana, sans-serif; color: #000; }
+  .fng .lbl { font-weight: bold; letter-spacing: .08em; }
+  .fng .bar { position: relative; height: 8px; margin: 3px 0 1px;
+              background: linear-gradient(90deg, #ea3943, #ea8c00, #f3d42f, #93d900, #16c784); }
+  .fng .dot { position: absolute; top: -4px; width: 6px; height: 14px; margin-left: -3px; background: #fff;
+              border: 2px solid #000; }
+
   /* Pull quote */
   .quote { text-align: center; color: var(--red); margin: 22px auto 6px; max-width: 760px; }
   .quote .q { font: 600 clamp(20px, 3.4vw, 30px)/1.25 "Gill Sans", "Trebuchet MS", sans-serif; }
@@ -128,9 +147,13 @@
   footer details summary { cursor: pointer; text-align: center; }
   footer .bad { color: var(--red); }
 
+  @media (max-width: 1100px) {  /* below this the absolute odometer collides with the masthead */
+    .odometer { position: static; margin: 0 0 8px; width: max-content; }
+  }
   @media (max-width: 560px) {
     body { font-size: 16px; }
-    .odometer { position: static; margin: 0 0 8px; width: max-content; }
+    .marketbar { flex-direction: column; }
+    .fng { width: 100%; }
     .stories { padding: 0 10px 8px; }
     .stories summary { display: block; }
     .stories summary .dots { display: none; }
@@ -149,6 +172,10 @@
     <div class="tagline">Your daily dispatch from the markets &amp; the crypto-sphere</div>
   </div>
   <hr class="groove">
+  <div class="marketbar" id="marketbar" hidden>
+    <div class="ticker" aria-label="Crypto prices"><div class="track" id="track"></div></div>
+    <div class="fng" id="fng" hidden></div>
+  </div>
   <div class="dateline" id="updated"></div>
   <div id="quote"></div>
   <div id="stories"></div>
@@ -167,7 +194,7 @@
   <footer id="footer"></footer>
 </div>
 
-<script src="data/latest.js?v=20261010153005"></script>
+<script src="data/latest.js?v=20261010154018"></script>
 <script>
 (() => {
   const D = window.DASHBOARD_DATA;
@@ -224,6 +251,47 @@
       $("quote").append(also);
     }
   }
+
+  // Live market data, fetched in the browser on each visit (free APIs, no key).
+  async function loadPrices() {
+    try {
+      const api = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc";
+      const [top, stables] = await Promise.all([
+        fetch(api + "&per_page=50").then((r) => r.json()),
+        fetch(api + "&category=stablecoins&per_page=100").then((r) => r.json()),
+      ]);
+      const stableIds = new Set(stables.map((c) => c.id));
+      const coins = top.filter((c) => !stableIds.has(c.id)).slice(0, 20);
+      const once = coins.map((c) => {
+        const ch = c.price_change_percentage_24h || 0, sp = el("span");
+        sp.append(`${c.symbol.toUpperCase()} $${c.current_price.toLocaleString("en-US",
+            { minimumFractionDigits: 2, maximumFractionDigits: c.current_price < 10 ? 4 : 2 })} `,
+          Math.abs(ch) < 0.005 ? el("b", "flat", "\u25C6 0.00%")
+            : el("b", ch > 0 ? "up" : "down", `${ch > 0 ? "\u25B2" : "\u25BC"} ${Math.abs(ch).toFixed(2)}%`));
+        return sp;
+      });
+      if (!once.length) return;
+      // Two copies + scroll by -50% = seamless loop (20 coins are always wider than the bar).
+      const track = $("track"); track.replaceChildren();
+      for (let k = 0; k < 2; k++) once.forEach((sp) => track.append(sp.cloneNode(true)));
+      track.style.animationDuration = `${once.length * 4}s`;  // constant speed regardless of coin count
+      $("marketbar").hidden = false;
+    } catch {}
+  }
+  async function loadFng() {
+    try {
+      const d = (await (await fetch("https://api.alternative.me/fng/?limit=1")).json()).data[0];
+      const f = $("fng"); f.replaceChildren();
+      const top = el("div", "row"); top.append(el("span", "lbl", "FEAR & GREED"), el("span", "num", d.value));
+      const bar = el("div", "bar"), dot = el("div", "dot"); dot.style.left = `${d.value}%`; bar.append(dot);
+      const bottom = el("div", "row"); bottom.append(el("span", null, "Fear"), el("b", null, d.value_classification), el("span", null, "Greed"));
+      f.append(top, bar, bottom);
+      f.title = "Crypto Fear & Greed Index (alternative.me), updated daily";
+      f.hidden = false; $("marketbar").hidden = false;
+    } catch {}
+  }
+  loadPrices(); loadFng();
+  setInterval(loadPrices, 120000);
 
   // Odometer: unique headlines collected since day one
   if (D.headlines_served) {
