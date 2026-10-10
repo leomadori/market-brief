@@ -45,6 +45,8 @@
   .masthead h1 { margin: 0; font-size: clamp(40px, 9vw, 84px); font-weight: 700; letter-spacing: .06em;
                  color: var(--red); text-shadow: 3px 3px 0 #e6c9a8; line-height: 1; }
   .masthead .tagline { font-style: italic; color: var(--muted); margin-top: 6px; font-size: 16px; }
+  .jump { margin-top: 10px; font: 12px Verdana, Geneva, sans-serif; }
+  .jump select { font: 12px Verdana, sans-serif; padding: 1px 2px; border: 2px inset #ddd; background: #fff; }
   hr.groove { border: 0; border-top: 2px groove #ccc; margin: 14px 0; }
   .dateline { font: 12px Verdana, Geneva, sans-serif; color: var(--muted); text-align: center; }
   .dateline.stale { color: var(--red); font-weight: bold; }
@@ -170,6 +172,13 @@
   <div class="masthead">
     <h1>MARKET BRIEF</h1>
     <div class="tagline">Your daily dispatch from the markets &amp; the crypto-sphere</div>
+    <form class="jump" onsubmit="return false">
+      <label for="jump">Go to:</label>
+      <select id="jump" onchange="location.href = this.value">
+        <option value="index.html" selected>Market Brief</option>
+        <option value="reddit.html">Reddit Boiling Point</option>
+      </select>
+    </form>
   </div>
   <hr class="groove">
   <div class="marketbar" id="marketbar" hidden>
@@ -182,7 +191,6 @@
   <nav class="tabs" id="tabs"></nav>
   <div class="controls">
     <input type="search" id="q" placeholder="Search headlines..." aria-label="Filter headlines">
-    <span class="seg" id="typeSeg"><button data-v="all" class="on">All</button><button data-v="news">News</button><button data-v="reddit">Reddit</button></span>
     <span class="seg" id="newSeg"><button data-v="all" class="on">Everything</button><button data-v="new">New only</button></span>
   </div>
   <main id="main"></main>
@@ -194,7 +202,7 @@
   <footer id="footer"></footer>
 </div>
 
-<script src="data/latest.js?v=20261010160459"></script>
+<script src="data/latest.js?v=20261010171212"></script>
 <script>
 (() => {
   const D = window.DASHBOARD_DATA;
@@ -400,7 +408,7 @@
   }
 
   $("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
-  for (const [segId, key, map] of [["typeSeg", "type", (v) => v], ["newSeg", "onlyNew", (v) => v === "new"]]) {
+  for (const [segId, key, map] of [["newSeg", "onlyNew", (v) => v === "new"]]) {
     $(segId).addEventListener("click", (e) => {
       const b = e.target.closest("button"); if (!b) return;
       for (const x of $(segId).children) x.classList.toggle("on", x === b);
@@ -421,7 +429,7 @@
   for (const [k, v] of Object.entries(D.sources)) ul.append(el("li", v === "ok" ? null : "bad", `${k}: ${v}`));
   det.append(ul);
   f.append(det);
-  f.append(el("p", "small", "Headlines aggregated automatically from public news feeds and Reddit. Not financial advice."));
+  f.append(el("p", "small", "Headlines aggregated automatically from public news feeds. Not financial advice."));
 
   render();
 })();

@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Reddit Boiling Point</title>
+<link rel="manifest" href="assets/manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta name="theme-color" content="#ffffff">
+<style>
+  /* Same late-90s look as the Market Brief (index.html). */
+  :root { --link: #0000ee; --visited: #551a8b; --muted: #555; --red: #b22222; --navy: #1a2a6c; --rust: #a0381c; }
+  * { box-sizing: border-box; border-radius: 0 !important; }
+  body { margin: 0; background: #fff; color: #000; font: 17px/1.35 "Times New Roman", Times, Georgia, serif; }
+  a { color: var(--link); } a:visited { color: var(--visited); }
+  .wrap { max-width: 1180px; margin: 0 auto;
+          padding: max(18px, env(safe-area-inset-top)) max(16px, env(safe-area-inset-right))
+                   max(40px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left)); }
+  .masthead { text-align: center; padding: 10px 0 6px; }
+  .masthead h1 { margin: 0; font-size: clamp(34px, 7.5vw, 72px); font-weight: 700; letter-spacing: .05em;
+                 color: var(--rust); text-shadow: 3px 3px 0 #e6c9a8; line-height: 1.05; }
+  .masthead .tagline { font-style: italic; color: var(--muted); margin-top: 6px; font-size: 16px; }
+  .jump { margin-top: 10px; font: 12px Verdana, Geneva, sans-serif; }
+  .jump select { font: 12px Verdana, sans-serif; padding: 1px 2px; border: 2px inset #ddd; background: #fff; }
+  hr.groove { border: 0; border-top: 2px groove #ccc; margin: 14px 0; }
+  .dateline { font: 12px Verdana, Geneva, sans-serif; color: var(--muted); text-align: center; }
+  .dateline.stale { color: var(--red); font-weight: bold; }
+  .heat { border: 1px solid #999; padding: 8px 10px 6px; margin: 0 0 18px; box-shadow: 3px 3px 4px rgba(0,0,0,.12);
+          font: 14px/1.5 "Courier New", Courier, monospace; }
+  .heat .hd { font: bold 11px Verdana, sans-serif; letter-spacing: .2em; color: var(--muted); margin-bottom: 4px; }
+  .heat details summary { cursor: pointer; list-style: none; display: grid; white-space: nowrap;
+          grid-template-columns: 2.2em 5.5em 10ch 1fr; gap: 6px; align-items: baseline; }
+  .heat details summary::-webkit-details-marker { display: none; }
+  .heat .tk { font-weight: bold; color: var(--link); text-decoration: underline; }
+  .heat .bar { letter-spacing: -1px; }
+  .heat .n { color: #333; }
+  .heat details[open] summary .tk { color: var(--red); }
+  .heat ul { list-style: square; margin: 2px 0 8px; padding-left: 22px; font: 14px/1.35 "Times New Roman", Times, serif; }
+  .heat ul li { margin-bottom: 3px; }
+  .heat .nm { font: 11px Verdana, sans-serif; color: var(--muted); margin: 0 0 3px 2.9em; white-space: normal; }
+  .controls { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px 14px;
+              margin: 18px 0 6px; font: 13px Verdana, Geneva, sans-serif; }
+  .controls input[type=search] { font: 14px Verdana, sans-serif; padding: 3px 5px; width: min(320px, 100%);
+              border: 2px inset #ddd; background: #fff; }
+  .seg { display: inline-flex; gap: 4px; }
+  .seg button { font: 12px Verdana, sans-serif; padding: 3px 10px; background: #dcdcdc; color: #000;
+                border: 2px outset #f4f4f4; cursor: pointer; }
+  .seg button.on { border-style: inset; background: #c8c8c8; font-weight: bold; }
+  main { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 26px 40px; margin-top: 22px;
+         align-items: start; }
+  section h2 { margin: 0 0 4px; text-align: center; }
+  section h2 span.label { display: inline-block; padding: 4px 14px 3px; background: #fff;
+         border-right: 3px solid #aaa; border-bottom: 3px solid #aaa; box-shadow: 3px 3px 4px rgba(0,0,0,.18);
+         font: bold 16px Verdana, Geneva, sans-serif; letter-spacing: .32em; }
+  section .subs { text-align: center; font: 11px/1.6 Verdana, sans-serif; color: var(--muted); margin: 8px 0 14px; }
+  ul.items { list-style: none; margin: 0; padding: 0; }
+  li.item { margin: 0 0 11px; }
+  li.item.is-new a.title { font-weight: bold; }
+  .meta { font: 11px/1.5 Verdana, Geneva, sans-serif; color: var(--muted); margin-top: 1px; }
+  .meta .src { color: #c45500; }
+  .more { display: block; margin: 4px auto 0; background: none; border: 0; cursor: pointer;
+          font: 13px Verdana, sans-serif; color: var(--link); text-decoration: underline; }
+  .empty, .error { text-align: center; color: var(--muted); font-style: italic; padding: 30px 0; }
+  footer { text-align: center; margin-top: 34px; font-size: 15px; }
+  footer .small { font: 11px/1.6 Verdana, Geneva, sans-serif; color: var(--muted); }
+  footer details { display: inline-block; text-align: left; }
+  footer details summary { cursor: pointer; text-align: center; }
+  footer .bad { color: var(--red); }
+  @media (max-width: 560px) {
+    body { font-size: 16px; }
+    section h2 span.label { letter-spacing: .24em; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="masthead">
+    <h1>REDDIT BOILING POINT</h1>
+    <div class="tagline">What the crowd is talking about in altcoins &amp; stocks</div>
+    <form class="jump" onsubmit="return false">
+      <label for="jump">Go to:</label>
+      <select id="jump" onchange="location.href = this.value">
+        <option value="index.html">Market Brief</option>
+        <option value="reddit.html" selected>Reddit Boiling Point</option>
+      </select>
+    </form>
+  </div>
+  <hr class="groove">
+  <div class="dateline" id="updated"></div>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search posts..." aria-label="Filter posts">
+    <span class="seg" id="newSeg"><button data-v="all" class="on">Everything</button><button data-v="new">New only</button></span>
+  </div>
+  <main id="main"></main>
+  <hr class="groove">
+  <footer id="footer"></footer>
+</div>
+
+<script src="data/reddit.js?v=20261010171212"></script>
+<script>
+(() => {
+  const D = window.REDDIT_DATA;
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, cls, text) => {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  };
+  if (!D) { $("main").append(el("div", "error", "No Reddit data yet. Run: python3 fetch.py reddit")); return; }
+
+  const PREVIEW = 30;
+  const COLORS = ["var(--navy)", "var(--red)"];
+  const generated = new Date(D.generated_at);
+  const isNew = (i) => !D.first_run && new Date(i.first_seen) >= generated - 24 * 3600e3;
+  const safeUrl = (u) => /^https?:\/\//i.test(u) ? u : "#";
+  const state = { onlyNew: false, q: "", expanded: new Set() };
+  function ago(iso) {
+    if (!iso) return "";
+    const m = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (m < 60) return `${Math.max(m, 1)} min. ago`;
+    const h = Math.round(m / 60);
+    return h < 48 ? `${h} hr. ago` : `${Math.round(h / 24)} days ago`;
+  }
+
+  const ageH = (Date.now() - generated) / 3600e3;
+  $("updated").textContent = "Last updated: " + generated.toLocaleString("en-US",
+    { weekday: "short", month: "short", day: "numeric", year: "numeric", hour: "numeric", minute: "2-digit" })
+    + (ageH > 14 ? "  —  data is over half a day old" : "");
+  if (ageH > 14) $("updated").classList.add("stale");
+
+  // Heat ranking: most-mentioned tickers; bar length relative to the leader. Click to see the posts.
+  function heatBox(sec) {
+    const box = el("div", "heat"), max = sec.heat[0].mentions;
+    box.append(el("div", "hd", "HEAT \u2014 MOST MENTIONED"));
+    sec.heat.forEach((h, k) => {
+      const det = el("details"), sum = el("summary"), filled = Math.max(1, Math.round(10 * h.mentions / max));
+      sum.append(el("span", null, `${k + 1}.`), el("span", "tk", h.ticker),
+        el("span", "bar", "\u2588".repeat(filled) + "\u2591".repeat(10 - filled)),
+        el("span", "n", `${h.mentions}\u00D7 (${h.subs} sub${h.subs === 1 ? "" : "s"})`));
+      det.append(sum);
+      if (h.name) det.append(el("div", "nm", h.name));
+      const ul = el("ul");
+      for (const idx of h.posts) {
+        const i = sec.items[idx], li = el("li"), a = el("a", null, i.title);
+        a.href = safeUrl(i.url); a.target = "_blank"; a.rel = "noopener noreferrer";
+        li.append(a, el("span", "meta", ` ${i.source}`)); ul.append(li);
+      }
+      det.append(ul); box.append(det);
+    });
+    return box;
+  }
+
+  function render() {
+    const q = state.q.toLowerCase();
+    const main = $("main"); main.replaceChildren();
+    D.sections.forEach((sec, k) => {
+      const items = sec.items.filter((i) => (!state.onlyNew || isNew(i))
+        && (!q || i.title.toLowerCase().includes(q) || i.source.toLowerCase().includes(q)));
+      const s = el("section"), h = el("h2"), label = el("span", "label", sec.name.toUpperCase());
+      label.style.color = COLORS[k % COLORS.length];
+      h.append(label); s.append(h);
+      s.append(el("div", "subs", `${items.length} posts from ` + sec.subreddits.map((x) => "r/" + x).join(" · ")));
+      if (sec.heat && sec.heat.length && !q && !state.onlyNew) s.append(heatBox(sec));
+      const ul = el("ul", "items");
+      const showAll = state.expanded.has(sec.name);
+      for (const i of showAll ? items : items.slice(0, PREVIEW)) {
+        const li = el("li", "item" + (isNew(i) ? " is-new" : "")), a = el("a", "title", i.title);
+        a.href = safeUrl(i.url); a.target = "_blank"; a.rel = "noopener noreferrer";
+        const meta = el("div", "meta");
+        meta.append(el("span", "src", i.source), " · " + ago(i.published || i.first_seen));
+        li.append(a, meta); ul.append(li);
+      }
+      if (!items.length) ul.append(el("li", "empty", "Nothing matches."));
+      s.append(ul);
+      if (items.length > PREVIEW) {
+        const b = el("button", "more", showAll ? "[ fewer ]" : `[ all ${items.length} » ]`);
+        b.onclick = () => { showAll ? state.expanded.delete(sec.name) : state.expanded.add(sec.name); render(); };
+        s.append(b);
+      }
+      main.append(s);
+    });
+  }
+
+  $("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
+  $("newSeg").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    for (const x of $("newSeg").children) x.classList.toggle("on", x === b);
+    state.onlyNew = b.dataset.v === "new"; render();
+  });
+  if (D.first_run) $("newSeg").style.display = "none";
+
+  const f = $("footer");
+  f.append(el("p", null, "(Bold posts are new in the last 24 hours. Titles link to the original Reddit thread.)"));
+  const bad = Object.entries(D.sources).filter(([, v]) => v !== "ok");
+  const det = el("details", "small");
+  det.append(el("summary", bad.length ? "bad" : null, `${Object.keys(D.sources).length} subreddits checked`
+    + (bad.length ? ` — ${bad.length} with problems` : " — all OK")));
+  const ul = el("ul");
+  for (const [k, v] of Object.entries(D.sources)) ul.append(el("li", v === "ok" ? null : "bad", `${k}: ${v}`));
+  det.append(ul); f.append(det);
+  f.append(el("p", "small", "Posts aggregated automatically from public subreddits. Not financial advice."));
+
+  render();
+})();
+</script>
+</body>
+</html>

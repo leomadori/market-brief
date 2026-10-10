@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
-"""Daily headline fetcher for the market dashboard.
+"""Headline fetcher for the market dashboard.
 
-Pulls headlines from news RSS feeds, Reddit and Google News, groups them by
-keyword, detects trending terms, and writes data/latest.json (+ latest.js so
-index.html can be opened straight from disk).
+news mode:   news RSS feeds + Google News, grouped by keyword, with trends and
+             top stories -> data/latest.json (+ latest.js for index.html)
+reddit mode: hot posts from the subreddits in config "reddit_sections"
+             -> data/reddit.json (+ reddit.js for reddit.html)
 
-Usage:  python3 fetch.py
+Usage:  python3 fetch.py [news|reddit]
 """
 
 import html
 import json
 import math
 import re
+import sys
 import time
 import urllib.parse
 import urllib.error
@@ -26,6 +28,7 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 HISTORY = DATA / "history"
 STATE_FILE = DATA / "state.json"
+REDDIT_STATE = DATA / "reddit_state.json"
 TERM_STATS = DATA / "term_stats.json"
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) market-dashboard/0.1"
 NOW = datetime.now(timezone.utc)
@@ -152,40 +155,20 @@ def fetch_news(cfg, status):
 
 def fetch_reddit(cfg, status):
     items = []
-    for sub in cfg["subreddits"]:
-        print(f"  r/{sub}")
-        url = f"https://www.reddit.com/r/{sub}/hot/.rss?limit=50"
-        try:
-            for i in parse_feed(reddit_get(url)):
-                if "/comments/" in i["url"]:
-                    items.append({**i, "source": f"r/{sub}", "type": "reddit"})
-            status[f"r/{sub}"] = "ok"
-        except Exception as e:
-            status[f"r/{sub}"] = f"error: {e}"
-        reddit_pause()
-    return items
-
-
-def fetch_reddit_search(cfg, topics, status):
-    """One combined search over all topics (Reddit's limits make per-topic searches too slow)."""
-    subs = "+".join(cfg["subreddits"])
-    terms = []
-    for tp in topics:
-        terms += [f'"{a}"' if " " in a else a for a in tp["aliases"][:3]]
-    url = (f"https://www.reddit.com/r/{subs}/search.rss?"
-           + urllib.parse.urlencode({"q": " OR ".join(terms), "restrict_sr": "on",
-                                     "sort": "new", "t": "day", "limit": 100}))
-    items = []
-    print("  search across topics")
-    try:
-        for i in parse_feed(reddit_get(url)):
-            if "/comments/" not in i["url"]:
-                continue
-            m = re.search(r"/r/([^/]+)/", i["url"])
-            items.append({**i, "source": f"r/{m.group(1)}" if m else "Reddit", "type": "reddit"})
-        status["Reddit search"] = "ok"
-    except Exception as e:
-        status["Reddit search"] = f"error: {e}"
+    for section, subs in cfg["reddit_sections"].items():
+        for sub in subs:
+            # "hot" alone misses small, slow subreddits (their hot posts are often days old), so read "new" too.
+            for listing in ("hot", "new"):
+                print(f"  r/{sub} ({listing})")
+                url = f"https://www.reddit.com/r/{sub}/{listing}/.rss?limit=50"
+                try:
+                    for i in parse_feed(reddit_get(url)):
+                        if "/comments/" in i["url"]:
+                            items.append({**i, "source": f"r/{sub}", "type": "reddit", "section": section})
+                    status[f"r/{sub}"] = "ok"
+                except Exception as e:
+                    status[f"r/{sub}"] = f"error: {e}"
+                reddit_pause()
     return items
 
 
@@ -311,6 +294,74 @@ def cluster_stories(items, threshold=0.25, min_outlets=3, limit=10):
     return stories[:limit]
 
 
+# ---------- reddit heat (ticker mentions) ----------
+
+TICKER_CACHE = DATA / "ticker_lists.json"
+REDDIT_HISTORY = DATA / "reddit_history"
+# Uppercase words that are valid tickers on paper but almost always mean something else in a title.
+NOT_TICKERS = set("""
+A I AI AM AN ARE AT BE BIG BY CAN CEO CFO CPI DD DM EPS ETF ETFS EU FED FOR FOMO FUD GDP GO HAS HE IF IMO IN IPO
+IRS IS IT ITS LOL MOM NEW NFT NO NOW OF OK ON ONE OR OUT PM PT Q1 Q2 Q3 Q4 RE SEC SO TA THE TO UK UP US USA USD VS
+WE YOLO ATH APY TVL DEX CEX USDT USDC AND ALL ANY BEST BUY SELL HOLD LONG PUT CALL OPEN NEXT WHO WHY HOW WHAT WHEN
+TV EV OP REAL TIME TOP GOOD LOW HIGH JUST LIKE LSE NYSE ASH FDA JAN FEB MAR APR MAY JUN JUL AUG SEP SEPT OCT NOV DEC
+MON TUE WED THU FRI SAT SUN
+""".split())
+
+
+def load_ticker_lists():
+    """US stock symbols (Nasdaq Trader directory) + top-250 non-stablecoin coins (CoinGecko), cached for a week."""
+    if TICKER_CACHE.exists() and NOW.timestamp() - TICKER_CACHE.stat().st_mtime < 7 * 86400:
+        return json.loads(TICKER_CACHE.read_text())
+    try:
+        stocks = {}
+        for f in ("nasdaqlisted", "otherlisted"):
+            lines = http_get(f"https://www.nasdaqtrader.com/dynamic/SymDir/{f}.txt").decode().splitlines()
+            hdr = lines[0].split("|")
+            sym, name, test = hdr.index("Symbol" if "Symbol" in hdr else "ACT Symbol"), hdr.index("Security Name"), hdr.index("Test Issue")
+            for ln in lines[1:]:
+                p = ln.split("|")
+                if len(p) > test and p[test] == "N":
+                    stocks[p[sym]] = p[name].split(" - ")[0]
+        api = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc"
+        stable = {c["id"] for c in json.loads(http_get(api + "&category=stablecoins&per_page=100"))}
+        top = [c for c in json.loads(http_get(api + "&per_page=250")) if c["id"] not in stable]
+        lists = {"stocks": stocks,
+                 "coins": {c["symbol"].upper(): c["name"] for c in top},
+                 "coin_names": {c["name"].lower(): c["symbol"].upper() for c in top
+                                if len(c["name"]) >= 5 and " " not in c["name"]}}
+        TICKER_CACHE.write_text(json.dumps(lists))
+        return lists
+    except Exception as e:
+        if TICKER_CACHE.exists():  # stale list beats no list
+            print(f"  ticker lists: refresh failed ({e}), using cached copy")
+            return json.loads(TICKER_CACHE.read_text())
+        raise
+
+
+def find_tickers(title, section, lists):
+    """Cashtags ($NVDA) and uppercase symbols checked against the real lists; coin names for altcoins."""
+    known = lists["coins"] if section == "Altcoins" else lists["stocks"]
+    found = {t.upper() for t in re.findall(r"\$([A-Za-z]{1,6})\b", title) if t.upper() in known}
+    found |= {t for t in re.findall(r"\b([A-Z]{2,6})\b", title) if t in known and t not in NOT_TICKERS}
+    if section == "Altcoins":
+        found |= {lists["coin_names"][w.lower()] for w in re.findall(r"\b([A-Z][a-z]{4,})\b", title)
+                  if w.lower() in lists["coin_names"]}
+        found.discard("BTC")  # altcoins = everything except Bitcoin
+    return found
+
+
+def reddit_heat(items, section, lists, limit=10):
+    hits = defaultdict(list)
+    for k, i in enumerate(items):
+        for t in find_tickers(i["title"], section, lists):
+            hits[t].append(k)
+    known = lists["coins"] if section == "Altcoins" else lists["stocks"]
+    heat = [{"ticker": t, "name": known.get(t, ""), "mentions": len(ks),
+             "subs": len({items[k]["source"] for k in ks}), "posts": ks} for t, ks in hits.items()]
+    heat.sort(key=lambda h: (h["mentions"], h["subs"]), reverse=True)
+    return heat, {h["ticker"]: h["mentions"] for h in heat}
+
+
 # ---------- trend detection ----------
 
 def tokenize(title):
@@ -432,20 +483,33 @@ def detect_trends(pool, cfg, core_regexes):
     return cands, base_days
 
 
-def update_term_stats(pool):
+def update_term_stats(state, items):
     """Running per-term counter (every term, not just keywords), for later signal-vs-noise analysis.
 
-    Stores per-day counts [headlines, news, reddit]; a rerun on the same day replaces
-    that day instead of adding to it. Totals are derived from the daily counts.
+    Each headline is counted once, on the day it is first seen (`state["counted"]`), so
+    overlapping fetch windows and several runs per day don't double-count.
+    Per-day counts are [headlines, news, reddit]; totals are derived from them.
     """
+    # Migration: before `counted` existed, today's run was already counted the old way; record, don't re-add.
+    migrating = "counted" not in state and TERM_STATS.exists()
+    counted = state.setdefault("counted", {})
+    new = [i for i in items if i["url"].split("?")[0] not in counted]
+    if migrating:
+        for i in new:
+            counted[i["url"].split("?")[0]] = NOW.isoformat()
+        new = []
+    for i in new:
+        counted[i["url"].split("?")[0]] = NOW.isoformat()
+    week_ago_iso = (NOW - timedelta(days=7)).isoformat()
+    state["counted"] = {k: v for k, v in counted.items() if v >= week_ago_iso}
+
     stats = json.loads(TERM_STATS.read_text()) if TERM_STATS.exists() else {}
     today = NOW.strftime("%Y-%m-%d")
-    count, _, forms, _, by_type = extract_terms(pool)
-    for entry in stats.values():
-        entry["daily"].pop(today, None)
+    count, _, forms, _, by_type = extract_terms(new)
     for term, c in count.items():
         entry = stats.setdefault(term, {"term": display_form(forms[term]), "daily": {}})
-        entry["daily"][today] = [c, by_type[term]["news"], by_type[term]["reddit"]]
+        t, n, r = entry["daily"].get(today, [0, 0, 0])
+        entry["daily"][today] = [t + c, n + by_type[term]["news"], r + by_type[term]["reddit"]]
     week_ago = (NOW - timedelta(days=7)).strftime("%Y-%m-%d")
     for key in list(stats):
         e = stats[key]
@@ -493,10 +557,11 @@ def to_out(i, topics, first_seen):
     }
 
 
-def main():
+def main(mode):
     cfg = json.loads((ROOT / "config.json").read_text())
     DATA.mkdir(exist_ok=True)
-    state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
+    state_file = REDDIT_STATE if mode == "reddit" else STATE_FILE
+    state = json.loads(state_file.read_text()) if state_file.exists() else {}
     first_run = "seen" not in state
     status = {}
     cutoff = NOW - timedelta(hours=cfg["settings"]["max_age_hours"])
@@ -510,18 +575,19 @@ def main():
                 and i["source"].lower() not in ex_sources
                 and not any(r.search(i["title"]) for r in ex_titles)]
 
+    if mode == "reddit":
+        return run_reddit(cfg, state, fresh, status, first_run)
+
     print("Fetching news feeds…")
     news = fresh(fetch_news(cfg, status))
-    print("Fetching Reddit (paced to respect its rate limit, ~3 min)…")
-    reddit = fresh(fetch_reddit(cfg, status))
 
     # Trend detection runs on the broad pool only (not keyword searches), so a
     # trend can't keep itself alive just because we searched for it.
-    pool = dedupe(news + reddit)
+    pool = dedupe(news)
     core_regexes = {k: alias_regex(v) for k, v in cfg["keywords"].items()}
     print(f"Detecting trends across {len(pool)} headlines…")
     cands, base_days = detect_trends(pool, cfg, core_regexes)
-    n_terms = update_term_stats(pool)
+    n_terms = update_term_stats(state, pool)
     active = update_tracked(state, cands, cfg)
 
     topics = [{"name": k, "kind": "core", "aliases": v} for k, v in cfg["keywords"].items()]
@@ -533,11 +599,10 @@ def main():
             topics.append({"name": t["term"], "kind": "trend", "aliases": [t["term"]],
                            "first_seen": t["first_seen"], "count": t.get("count"), "ratio": t.get("ratio")})
 
-    print("Searching Google News per topic, then Reddit…")
+    print("Searching Google News per topic…")
     searched = []
     for tp in topics:
         searched += fetch_google_news(cfg, tp["name"], tp["aliases"], status, scoped=tp["kind"] != "core")
-    searched += fetch_reddit_search(cfg, topics, status)
     all_items = dedupe(pool + fresh(searched))
 
     # Tag each headline with every topic it mentions; remember when we first saw it.
@@ -590,5 +655,45 @@ def main():
             print(f"  {k}: {v}")
 
 
+def run_reddit(cfg, state, fresh, status, first_run):
+    print("Fetching Reddit (paced to respect its rate limit)…")
+    recurring = [re.compile(x, re.I) for x in cfg.get("reddit_exclude_titles", [])]
+    posts = [i for i in dedupe(fresh(fetch_reddit(cfg, status)))
+             if not any(r.search(i["title"]) for r in recurring)]
+    n_terms = update_term_stats(state, posts)
+    seen = state.setdefault("seen", {})
+    for i in posts:
+        seen.setdefault(i["url"].split("?")[0], NOW.isoformat())
+    week_ago = (NOW - timedelta(days=7)).isoformat()
+    state["seen"] = {k: v for k, v in seen.items() if v >= week_ago}
+
+    lists = load_ticker_lists()
+    sections, history = [], {}
+    for name, subs in cfg["reddit_sections"].items():
+        items = [{**to_out(i, [], seen[i["url"].split("?")[0]]), "section": name}
+                 for i in posts if i["section"] == name]
+        items.sort(key=lambda i: i["published"] or i["first_seen"], reverse=True)
+        heat, history[name] = reddit_heat(items, name, lists)
+        sections.append({"name": name, "subreddits": subs, "items": items, "heat": heat[:10]})
+    # Daily mention counts, kept for a future "vs. normal level" comparison (later runs today replace it).
+    REDDIT_HISTORY.mkdir(parents=True, exist_ok=True)
+    (REDDIT_HISTORY / f"{NOW:%Y-%m-%d}.json").write_text(json.dumps(history))
+
+    result = {"generated_at": NOW.isoformat(), "first_run": first_run,
+              "sections": sections, "sources": status}
+    (DATA / "reddit.json").write_text(json.dumps(result, indent=1))
+    (DATA / "reddit.js").write_text("window.REDDIT_DATA = " + json.dumps(result) + ";\n")
+    REDDIT_STATE.write_text(json.dumps(state, indent=1))
+
+    print(f"\nDone: {len(posts)} posts ({n_terms} terms in the running counter).")
+    for sec in sections:
+        print(f"  {sec['name']:<10} {len(sec['items']):>4}")
+    errors = {k: v for k, v in status.items() if v != "ok"}
+    if errors:
+        print("\nSource problems:")
+        for k, v in errors.items():
+            print(f"  {k}: {v}")
+
+
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1] if len(sys.argv) > 1 else "news")
