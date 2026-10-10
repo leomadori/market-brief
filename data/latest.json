@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T14:11:20.511780+00:00",
+ "generated_at": "2026-10-10T15:12:41.471739+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 31
+   "item_count": 32
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 30
+   "item_count": 29
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 46
+   "item_count": 40
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 79
+   "item_count": 74
   },
   {
    "name": "Ledger",
@@ -63,7 +63,7 @@
    "first_seen": "2026-10-10",
    "count": 14,
    "ratio": 3.5,
-   "item_count": 28
+   "item_count": 27
   },
   {
    "name": "ETFs",
@@ -74,7 +74,7 @@
    "first_seen": "2026-10-09",
    "count": 7,
    "ratio": 7.0,
-   "item_count": 30
+   "item_count": 29
   },
   {
    "name": "Solana",
@@ -85,7 +85,7 @@
    "first_seen": "2026-10-09",
    "count": 6,
    "ratio": 6.0,
-   "item_count": 17
+   "item_count": 19
   },
   {
    "name": "OpenAI",
@@ -107,7 +107,7 @@
    "first_seen": "2026-10-09",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 22
+   "item_count": 21
   },
   {
    "name": "SpaceX",
@@ -129,7 +129,7 @@
    "first_seen": "2026-10-09",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 12
+   "item_count": 10
   },
   {
    "name": "Trump",
@@ -140,10 +140,193 @@
    "first_seen": "2026-10-09",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 25
+   "item_count": 26
   }
  ],
  "items": [
+  {
+   "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+   "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-10-10T15:10:37+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Ethereum",
+    "ETFs",
+    "Solana"
+   ]
+  },
+  {
+   "title": "BitMine Chairman Tom Lee Says Ethereum Could Reach $50,000 in Current Bull Run",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WVVhLY1FOeWdBSTd6S1JJc0ZDU0EzWnpRSDJfMl94VWprOVhfN0JpSGtIVklXODZHOWc0Y1dldl90R3VXczhVS1Bsa2dPUEh1UWp2Mw?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-10-10T15:03:34+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin ETFs see $21.13M inflows after $729M wi...",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDBkUVpPWXZZYndPb0JNcFNuWV9vUWYydUhEejFKTVhMeGpxT1JaVnVDa0pTcGxkUlktMkgwRko3TTB6NDBsT3NGcnN0aTJSdVRNaGpoQjBMRXF1UnJLQ1dwN2RkUjdubkRDMFE0RHJFNExfcFhTX2VRVUlmSzhJZUh1M21XQWdoU2w0X2Z2OVd1Um1Xb0xJ?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-10T15:03:14+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Bitcoin",
+    "ETFs"
+   ]
+  },
+  {
+   "title": "OpenAI CEO Sam Altman has a biblical-level warning about AI god",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUNxbHktNmpWaURETlV2NnoxY09EcFVqWi1fd0pPSXdYSVVSS1J5TmtvS1ZNMXVpbWlWYy1XbVU2dEYweFhwVEVGb3NvZm9qMFNZWloydlp2ZW0ybEFBeHlIMHRzX0VfMVltVV95bU03NE5oRkt6c0N5akx0NjZqeHhQQXJUd2hvVGFCX0xWZWtQVDFWMnZDVnk3MUtOT3h2R1hXVA?oc=5",
+   "source": "TheStreet",
+   "type": "news",
+   "published": "2026-10-10T14:47:00+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Ether (ETH) price crosses $2,500, reaching $2,5...",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3ZsQnhFcUtYOHpCanFfUTNOMVNMOF8yVE1iZGVNV0d5TXlDYlFlT3VQSks5XzVrSnhVT0xHV2Q5bFVUbWlsTHhxVlZ3UHFraVh5SGUtdGRYbGpyb1VUVm9XNy1ySVJlaERvQy1fY2s2Y2NxV3dCR2dYWFdScWM5ZHJtZGw0bW1QWV94cjc3eGg1Ql9XY3RfOElaOTF4b2hX?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-10T14:44:22+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Will AI Break Bitcoin? Vitalik Says Prepare for \"Bunker Mode\", Hoskinson Calls It Numerology",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnA4ZURDdUVPdTEyQjlqTEpTLUUxTWFZS0c3WW1oaDdJNHpMVFNoal9qbkg0YTVCdTJIbmdZYnZXYjBlMzNJNkVQM2R1OWQzLVZCbkpNVklNTExjdlFBdWpMVlB6U0FSUmhxbGw4ZTRNbzVmeWpybEdrdmhBZDFRS2dzWmdqV2RHelZSVTFR?oc=5",
+   "source": "CryptoTicker",
+   "type": "news",
+   "published": "2026-10-10T14:39:43+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "Bunker Mode"
+   ]
+  },
+  {
+   "title": "Alameda Research Moves $16M in SOL, Impacting Solana\u2019s",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rNW82Nkx0NWV5X3R2QWtwMWtqeVB5dTIteEJQZWdqMUFZbTBkdjVWdk5fSktmQWprUEhxX05TY0NReE84Ukk2c2FKR3FPeXBSVDRsSDJ2SQ?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-10T14:27:01+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Solana"
+   ]
+  },
+  {
+   "title": "Samsung Partners with Solana to Enhance USDC Transfers",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBa1RxN3FGamJ4S2JjUmlPZlZ0bG5ZTk92endFOUNNbzlZSk0zdkw3M2E4NTNVZTFNNm1wU0ZIZjdJNWpMVU9NYVBwZ3VlOFZUdFZCdEt4NENWS3FT?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-10T14:26:55+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Stablecoin",
+    "Solana"
+   ]
+  },
+  {
+   "title": "TRON leads with 23% of stablecoin card spending at $998M in Q3 2026",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGlDRzYtdkRqTUhTc2FLMHhnNy1HajFoRktJX2JUN0xJVG5JeDNIbHZ3TlVYOVJJMy1lV2Iyb0hPTHJJRGtrLUVFeldyR0E4N19zbmtfM0NFZmVtNG9zaFBPZTdXdFB3NkR2bTdjZ0drQ2J4bDkzcGtaVzh0WmkyTjhNZ2tsbEdmZ0VYb2U3MUc3dU1IcTc4?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-10T14:23:56+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Official Trump leads crypto search interest; Ae...",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaDU0UTNXenJmbEVpWkJXa2k0akpIYzlTc0JyVmtEc2ZhcmhuYm1IS0I1LXdBb3N3MnQ4X2V5WngzcjdoUWp6YTNHNm1xNjZnakZKS2taMEJBX1NXS2VjRjNWRmttRzl5UGpmMHRQMEQzelBEdmlrVDV1dzFQZ3dOVzdWTXB4QTVnMEl3ZGdnemNpRzBSVEZ3RDRQS0dCUQ?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-10T14:23:56+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Trump"
+   ]
+  },
+  {
+   "title": "China Is Building a National Blockchain Network: Will Bitcoin Benefit?",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95QTMzZ0FwbDJrSFRkYXVQQmpIQmFHVFBVVGIyNVBObmxraFpZN25wRUFOTWpNV0tWOHV4cHhTRFRqdTFESU9vN3VzaDUybnYxYkJjeHNzemllZ0VvekpMb0Vkc0lGZmNTLVN1dXp2UDM5blE?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-10-10T14:19:00+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Clings to $82,800 as the Next Breakout Remains Elusive",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wbFlDTTBTODRhZEdKU2RIT3hvVE1feFRlQTlSRTRYUEdYVFBtQUt6V0puc1lVNHFPRkc5dGlONEwtR0tBNmVpYWZ1Y2lONlNYUE52d3ZxZXU?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-10T14:11:26+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto Price Analysis, ETH, XRP, HYPE, ADA and UNI, October 10: Cardano Gains 6% as Ethereum and XRP Rebounds Face Resistance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwbTFXYTRUclZGZjNnVXhYYW8xa1JQUUF6R3pJS3lRVGgtR1FtTEhWSVFndUdwcVhGakdzTlJiS3lUYW12SkpIYWluVHZPcWFPZ3F3cWRETV9mQW8?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-10T14:11:11+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Arthur Hayes Says French Debt Crisis Could Send Bitcoin To $250,000 As AI Debt Risks Mount",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2dITzY4aG5GSFotSFpTUGtUS3Q1SFM3YWI5R3lER3d2RnhJRmhzaFVndklyanlyS0xlNjJCYmtKUzRoY0tnOWNLbHRDamhlTGI3R3cxVlAxX1dHZDZmS1FCSkdZdWRUSzNXelN3Rk8wWUhxaDh1VC1nZ1dySHFxYUVvQ25PVThuN1RKYnlCcWZLcnBKV2tab3dDRkFvQlRKRFNLWTdsdWRIZENRLXpGSC05Q1RiOGplaGpZLXZXb3JiMEY0YXdxQnMwYWhtOVJaQ3RFci1uc3hwZlpnTmlobkNTZ3o?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-10T14:10:14+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "France Stablecoin Tax Push Stalls as Assembly Committee Rejects Budget Revenue Section",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzMXhGQjZtUktUUFRTYkpUaW5aVWU4aFdIS3R0MXB2LUJIRVZxMXZQT0NUQmY2ck9Va05VX05uX2xucHB0clIyWDBVR0NDNlIxdWlUcQ?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-10-10T14:03:17+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Ledger Theft Funds Shift Into USDD, Beyond Tether\u2019s Freeze Controls",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhSVJ1U3ZWb1MwQTZUVFJhTEpLMlpkS2dTVUEwVTc4b2ZtUE82M1IxakE3clJQZnVoUEFxTFdBcEpZUUFYWExzOEdPSzJ6Z3JWZ0pqUGJtbGVBZw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-10T14:01:44+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ledger"
+   ]
+  },
   {
    "title": "Will Bitcoin Hit $500,000 by 2030? Strive CEO Matt Cole Says Maybe",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaS04bkdEU19CSFpRUFRhanhCNkNKc1Q5WGRsWVh1S3ZVeEowbXZsMUl3NWk5cHRmMWFKM1lnOWt2ZTFwM3QzRWd6VGw2bi1RNXQ3OVRvaHZrX0dKbTVQR2JmdVE0RVhTM1lIcDR4MzhMcmRsYmFPdkZ1UE5uX2N6eWh4amxWalRjQVlleGJxcXNHR2hEZFpzb0NvSjdRMWJfcnNETDg1dUpHRU5PblF3dUsxdmdMVXIxVzVZQWU0OTI2NEk?oc=5",
@@ -153,6 +336,28 @@
    "first_seen": "2026-10-10T14:11:20.511780+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "\"Up October\" Cools Down: Bitcoin's Rebound Lacks Momentum as Analysts Warn of Further Downside Risk",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWMtVlRUZ19zTDE0RjNEZV8tN0s3WHZ1NEo5N0p6MF9iNVA4dF9OSm9JdU9JZGowdTI3dkJsWnhFYzFDdy1BcTlkaFJFYkxwVHlNaTVuNFRWZncwMFppNzgtaEhIVlVCQ0ZlbzExWHNjYkdqZzNzMFpYaFpoM203SmJfelF5cEs4bGptTGJmM3V3R01DbzRkckwxMzYtdzBWQXFJ?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-10-10T13:55:21+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "RBC Capital Remains a Buy on SpaceX (SPCX)",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb1hqdXZ1c3NJTUt3cGljMFZSbkZIc2xxR3NCV1NPNnR3ZWY1RWxyVW9zMlRjOWQyZXdGUkMtSGtveFotTktnZE5uelVyZU9jUWlDb0J1cXh0aWVuVDM3eGRmdTM0cGpnanVPbVZlcVJ5NVpBWC1BUlRNOUFJaDJoSFNfekdWWjZreW9rOVlvakFTZWFla1BoM3lQV3JSRDE5RlFUdUdNMnpPVTdZbllYY1BUZFh0ZnN2N3gwV0RYdkpsd1JMVHc?oc=5",
+   "source": "The Globe and Mail",
+   "type": "news",
+   "published": "2026-10-10T13:50:08+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "SpaceX"
    ]
   },
   {
@@ -179,6 +384,18 @@
    ]
   },
   {
+   "title": "Solana apps earned $38.2M in a week, outpacing Ethereum's $11.7M by over 3 times in application revenue.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3hWLWlyMzBYdk44TjFac293MjQ3YkNmRm05WF9ScC1EVHlaZzY0TnpaazdOTDNqeHEwUXd0b2lydlFzYW5DMk51UG1TLVJuVmtFOW1xaTc0MWNZWEgzLUlEdUlLU25jSWMtcVRWeXZlSGdBaWdyNG94YTN1WWRWeVl1MVJLdExZMVJVelhBcGpKS05uN3Y4QThJNUhNU1NTcHc?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-10T13:05:30+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Ethereum",
+    "Solana"
+   ]
+  },
+  {
    "title": "Nasdaq Closes at Record 27,477.31, Up 1.05%, as Nvidia and SpaceX Lead AI Rally",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTl4LTZyNktyd2tqZHo1VHdaamVpeVZkSS1ESXNNU1pMOW1Pa2JYang1OERYT1doektXc2tGREczekpUdjBCNGQwQzlGdTJHTEh3S2ZJS05UaGgyaUYyOFZVT0ZTZmtjTTlsV29yY2UzamlzOENmWTF0OFVfNjluNHRydjNZeUxkLWJnXzVHbEhGeXZhREh6dHN5ZklwY3BFLWRrYzdiSGdzVGk2Q243ZU5B?oc=5",
    "source": "BBN Times",
@@ -191,6 +408,29 @@
    ]
   },
   {
+   "title": "Jim Cramer makes major SpaceX call tied to Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUpkNEwxaVpwRWlMamRQWFh1QnRlR1U1NmM1VjVkb185LVdaWU5mVGdPUUhNSUdPYnpVVGVnNUhPeDBHUEU4WkVhLWw1OC1GYV9DWEppbVJTcUhXMEdxeThUR0lqc04tZFEwYnZ1aUpQdE9RV2loNm1kUXRKN1RqcV8wVXg0cDBHYUpXVUdhQzZGLWN4S3paRWhB?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-10T13:03:00+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Nvidia",
+    "SpaceX"
+   ]
+  },
+  {
+   "title": "Bitcoin(BTC) Stock Price Today | Quotes & News",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPaDNUTjZldFk3dV9NT2lMdDhhYktlM1lTdll6WlRtYWI4NmFpUEU3VkItYlB6X3lQekpnanhtTWh3NmhxOWhRVDhTaGZuTE12ZTVudGd6c01CblhmVzZ4RHhRb0MyMkVxVVZteHJVbi1YelZRV3Q5dmZlS3doMnNoSjBVaTlxcXRjMGpqT3luREdpLTBWVXNnUjRSdzZReFplR1BzUmdKZXpDVEdLYkFoNjBLcTI0dVNSS2E1UnppX2pzVlhfcU5HdWV3bmdhdW9QLVBMYXRXcGM1cldTaFRCMGgyR09TWkpsSC1Ick5vbE5nOHlwdm1NTjRRSlRTMlJ5VGRUM0V0VVdhLXUzVXRZTmM2dFRHRFhrR0dmaDlGeERJRmJobkJROHgwd200YkNJcnJUWmRHVm5IT3VzYldV?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-10-10T13:02:18+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
    "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
    "source": "Decrypt",
@@ -199,6 +439,18 @@
    "first_seen": "2026-10-10T14:11:20.511780+00:00",
    "topics": [
     "Stablecoin"
+   ]
+  },
+  {
+   "title": "Ethereum ETFs see $542 million in weekly outflows as price drops below $2,500",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRbDRfbmItaEQyM1U4Zi1IRk11dUl3WU91SVNRN3pBTkppYjdRVmJXcGxMUjdjYzVWVF9mLWhPaE5OUzFjVWNJdkNwWEhmWXRfbGQ0eFRSUXNOcWw4Y2hqSTNyONIBY0FVX3lxTFBRbDRfbmItaEQyM1U4Zi1IRk11dUl3WU91SVNRN3pBTkppYjdRVmJXcGxMUjdjYzVWVF9mLWhPaE5OUzFjVWNJdkNwWEhmWXRfbGQ0eFRSUXNOcWw4Y2hqSTNyOA?oc=5",
+   "source": "Bitget",
+   "type": "news",
+   "published": "2026-10-10T12:58:36+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Ethereum",
+    "ETFs"
    ]
   },
   {
@@ -218,28 +470,6 @@
    "source": "TradingView",
    "type": "news",
    "published": "2026-10-10T12:58:18+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Trump's RCP approval average on Oct 10, 2026?",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RbU1VMnZJdlRPVHhTazZrRERwVXhKV1FrbjU0ZjlpSml5TjNjMUhYa2d0UGJMMHY1QTZDSkhvX2JhZzAzQ1Byb0tyRnZCZ2VyTXVMb19xMkZNZk0wVjFzNjJPdG9NNjZRX0lhX0psXzQ0bGc?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-10-10T12:54:02+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Bitcoin(BTC) Stock Price Today | Quotes & News",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUC1kdktOdXFjN2pPLWhEQm9lUmpFYzQ2cTVuX3V4MHctOThnMEkweXBEZExmbWRoNHBCeHpnemZhQTJyY2l2OUZzV1ZNdTNUMWVTN3RPY2lnMFYxNVpacllMd0FWenFLSUZnLTFfZlJZUG4tM3dpcXpBUjA3bnd6eS1RX1JnT2N6ZUZQc3lTM1NZaENMbmdVNkI4bDllenlFeXFmeF9OYWRKWnVrNFd3and2UXpjRTFQOE82Mm9aZ3BvaXdueUxnb2NxRC10VlJCVWNtQXdMWFd1TnRjbUpaRDM2SHVnZnRsam5ZbER0MlJjV0kxMjlUTVo4MHhPSXRDTkpxcGtnTy01V1ZLVlZ6ZnJOX2N1Uml2MVlXOFZrX2M?oc=5",
-   "source": "Moomoo",
-   "type": "news",
-   "published": "2026-10-10T12:51:48+00:00",
    "first_seen": "2026-10-10T14:11:20.511780+00:00",
    "topics": [
     "Bitcoin"
@@ -381,18 +611,6 @@
    ]
   },
   {
-   "title": "One year after 10/10, Bitcoin and Ether liquidity is back while altcoins lag",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRW1kMVZtV0Y2Y0lmdnpQM3VYNnpXdVFVemduTTlNNmtDWmlkRDRKa2hUVFB2dFk5Qk91ZUtjVGJtR3BIU0E4MVR2djE3d2tJX2MyQVRFalE0X3BHamV0QTJhMHpjdC05Ti04dktBVmVuYy1GX2RyTW42bjBNcmdvTlE1QS1YemRoc1VqSjdVenE1eTY5Y3F1ZXZHbDNIaE1QWXd6cFFFeXA5VjdiZTV5bG9SN3NvMWdWT2FCUEUtWk1Oakx1UUI1SjRhV1ZIY3B1WVhGVXQ1VQ?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-10T12:04:40+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Musk: SpaceX Could Be Worth \u201cOrders of Magnitude More\u201d Than $118 Trillion",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemtFQl9yLWppbTdlSWZkNUhlRE5Cd1Z5R3VwRDdKa09LZzBObU1wc1J2UHpobGNjQ0tta3JFMkZsSUpmaF81V2lFUW5TVTh0cVlkcGx5NU13QkJBX2prVHFNRXVCck9teGxNbHdBVlpMN1ZjMWNfcXdHVnJMU2hVN2xFQWxOaEd4WWJoZFVqb0dVdGk1d0xIUjJKUQ?oc=5",
    "source": "Yahoo Finance",
@@ -482,6 +700,17 @@
    ]
   },
   {
+   "title": "ETFs Investing in Endesa S.A. Unsponsored ADR Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VLVctUVM3ZklId3FsMXVwbWhHWkE4bzNfMUo1bUdfYzFlemtrZjY1OE05Rl9BZlFwd2d5ckt6ZlJQR2lfMV8yQlBXZk8xWEtaZm9DRVVnbWE1RUVZQ19j?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-10T10:58:21+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "ETFs"
+   ]
+  },
+  {
    "title": "Hidden Spy Chip Found Inside a Sealed Ledger Wallet",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WY1FtajF2cDBoOEdvOVBMR1NzSWVmeFoyeGhLQko3aEk5VXRmSXdCa1dNcklMRF9MQzkzc1VUblVhS251WjhwTm5WVFZ6bTdjTlpKbTU2UHlvWUUyekFtLXVkam50Zw?oc=5",
    "source": "BeInCrypto",
@@ -501,17 +730,6 @@
    "first_seen": "2026-10-10T14:11:20.511780+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M to Grow Bitcoin Life Cover Overseas",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3AzZUVZT0k4cUxuTGVuWGJEZ3ZZQmhHRkVYTFBEVnRfWVU2TnZhUHJHcE84T2daNzViajFUdGMwZHAwN295amJEcXFlZE5OSWZLc05JU3BEOERzQ0FWQnRZcm1PWFZDVUYxYmJEcm0yTWRiUnNSVU9YU0JFdlV4cHB1ck5jUXIyQmMxVzZreGdmSUo5b0Q1cTlZQXpLcm51MHBVNDlwcnl0dw?oc=5",
-   "source": "Altcoin Buzz",
-   "type": "news",
-   "published": "2026-10-10T10:51:00+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -539,6 +757,28 @@
    ]
   },
   {
+   "title": "Russian Diesel: Reported Trump-Putin Deal and Markets",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDQwdl9TMTNVZl9FNnFZSW4weGduQ19UaTdvaGlHOWxwTnJyRWh6eVZDdlUwQ0pkR0RTRHB3dkhnWmh1eUtrOVNqMlR5RWltQTlFb2l5UnRDYXRZd3k3eEYwa1ljNUdHcnVLazg3YVg5c2hna09OMkU1czc2QmNPTEg2Y2Nrem5t?oc=5",
+   "source": "Admirals",
+   "type": "news",
+   "published": "2026-10-10T10:40:49+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Trump"
+   ]
+  },
+  {
+   "title": "Ondo Pre IPO Trading Launch! Can ONDO Token Lead the RWA Market?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qcHBWZXh4eVY2MkM1UTJuRU1vYVltdS1IOURORmo3SEl6NGFPR2duYnVaNnNZVVFpa1F2cFdKVEJVZ0c1a1FzQlUyTTVwWGlOWkRhSGN6Rmx4dmZZVEN0VnlselBxaTk4MDJhRnFaSEZLTi1nTEc0a2gxTVNzYjg?oc=5",
+   "source": "Coin Gabbar",
+   "type": "news",
+   "published": "2026-10-10T10:36:48+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
    "title": "Is Bitcoin the Best Crypto You Can Buy Right Now?",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNllrUGRRSk9kMG9HUGxidi1JYUJZMlBwQ2RFc0xHRTRhUW53ZzZfOWdpZHM1eEpjZjVGZWNlQTFfbWZmTlR5WEp3S2liamhwRVBZdVlaa2FuNXZrLXdCY3Vzd1c0UkcyZ3Uyc3pMQWs1dk5SUHVOcWpUTkJaaGhFSDRJcjlYYkRLYzRHT1Y5c1NONDdfWUE?oc=5",
    "source": "The Motley Fool",
@@ -547,17 +787,6 @@
    "first_seen": "2026-10-10T14:11:20.511780+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ether Leads Crypto Rebound With 71% Third-Quarter Gain",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xb0REcFJPaElqVFlDVE1pSzlUNUtSWF9nSlduYjZyQnZfUjF5SG5aQnM5OVBNbTBtS0tvZkVCdjdZYnNTN3dpTVNJTVFKS2JHMXJzOFlONDhydw?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-10-10T10:21:29+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -572,30 +801,6 @@
    ]
   },
   {
-   "title": "Whales Buy the Dip in Bitcoin, Ether and XRP as Prices Fall",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pSzFzRy1ySHdYVnNtNzI5cXpHVUNMTFVKWC00U0YySjZacGhubDhhQlB6UVd1TGpSUmRIdDNLaUxvUmFEMk15MzRGNWVsWjd1cThaQQ?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-10-10T10:09:33+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Samsung Electronics Plans Solana-Based USDC Transfers in Wallet",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFdWZYTWZocnBDOEN5dExqR2lxMGNpN2JtVnpQemNvVGRMRlgtaGd5ZmVoUlJzWDBXVzVZa3Q5UHpMek1GSTF0QTE5d2liOVpBTkhoTHVFOWk?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-10-10T10:08:47+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Stablecoin",
-    "Solana"
-   ]
-  },
-  {
    "title": "SpaceX spectrum acquisition ripples through telecom stocks",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tQU1iMWhLWXVJVXE3dXNDUFFHQmhaT0tKelVNRm02VmNBREw5VnZUc0VJb0tPbWdHRG1yOVpiVUtSTi1INXdWWG5PcXZ6dl9JMVJLLWxLSnZZTHg4RFZ1VUlxQ2YxTVNjZGc?oc=5",
    "source": "Axios",
@@ -603,18 +808,6 @@
    "published": "2026-10-10T10:03:40+00:00",
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
-    "SpaceX"
-   ]
-  },
-  {
-   "title": "Jim Cramer makes major SpaceX call tied to Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkxmc0YtY3dyeUpyOFpqTVYyMVF0ZDRWbHFBSS12N29PX3lLQ1dTVXR1OVJOYTZwSWxkWVFzX1JMSUM5amRGcjljVFFwU3dTOGhOaUlYV2JDbnhyV0xTOWpjbldUWS1tR3g5QUtWNmpIUWVVVGtaU3N5ODR1cDVsb1V1c3pNbGhRZmpUcjhLS2V1UGJSMEpTVTN1aGRlVlpNSUxMQktoVQ?oc=5",
-   "source": "TheStreet",
-   "type": "news",
-   "published": "2026-10-10T10:03:00+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Nvidia",
     "SpaceX"
    ]
   },
@@ -653,17 +846,6 @@
    ]
   },
   {
-   "title": "Bitdeer Technologies Group sells all 300.6 BTC in weekly update",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNE9GRV83Wkg3YS1qNVMwaFpQVjI5a05QY0F6YVBvcXc2eDM4NnZiMk9jbGxDOTU2ZHAyTXZZMkpfVEZWZHBZcHppTEhael9ES1hkM0JRVzNYZVdlMnJUT1lxYUZwVkhicm9oRU9rUFdQT19aWHpMS29HS3k4R05fcUhQWnc4TXZyLUdUQVpEQjNoY3Q2SkE?oc=5",
-   "source": "Mugglehead Investment Magazine",
-   "type": "news",
-   "published": "2026-10-10T09:55:26+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Bitcoin News | Bitcoin Holds Near $82,500 Despite Ledger Wallet Theft Reports as Traders Await U.S. CPI",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kanc3c1RsNktiVVR1RTRBSFdYTmR5NjMzSUQwR2xqel9sMTF0cHdmcWFSMmVaa2p4cThHcUFPWno4dnlKUnowWV9pZFJPS2d1ZFR6c2h2QllqZkk0TmtPalBkM1g?oc=5",
    "source": "Binance",
@@ -673,18 +855,6 @@
    "topics": [
     "Bitcoin",
     "Ledger"
-   ]
-  },
-  {
-   "title": "AERO Rallies 48% in Four Weeks, Outpacing Bitcoin and Ether",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb05TZUdoc0NQQndyc2VYZXJOdmUyMTBKTjQ0ajl0QjJaWVdtQTI5OE9qTE1kLVFjUi02WFNuT2lBUGxsRkl4WTZxcnpfRnBqT2RfcTMwYnVSZ0sxVzdqaGJ3VXhnWGpGamwtVElpM3Q4ZElhSl9nY21YZVNNYkpmWUhEeW4wa09xOEhydXduQXdZSlRkSWcw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-10T09:37:41+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
    ]
   },
   {
@@ -729,6 +899,17 @@
    "first_seen": "2026-10-10T14:11:20.511780+00:00",
    "topics": [
     "Trump"
+   ]
+  },
+  {
+   "title": "SpaceX (SPCX) Stock Price Today: $162.57",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11YmdSa0RYN1ozVkdpTjdrRnJIZy1pM2FaSkNfaXdacHdDN1BRby1uem5NSmhfaUoxanBkR2pCaG9QQ0JNcFhHQ0xyQnRNNzlnem1KNlVHQVNmZw?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-10T09:11:31+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "SpaceX"
    ]
   },
   {
@@ -778,18 +959,6 @@
    ]
   },
   {
-   "title": "Ethereum Price Prediction as ETH ETFs Post Highest Weekly Outflows Since January",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV05TZGgwa1NUVHF4NFFRMElQa2JGU2VUUVNwaG1Kd1ZlSHNEd2RVVVRFTkVsSWFqOU9LWDZacllycjJabWdINC1YclFCdHdabVV5aHA5N3Z2VzRkX2JWR19wcGppWEplUnd5RktwWXQ5Z2JyRHlBcV9zdWFHby0zMFhLMVlUbWEtb2tGOGJKVUlnMDlzUVI2alptSTZ6a0tURjljdTZTRFNDREVHQWtV?oc=5",
-   "source": "CoinGape",
-   "type": "news",
-   "published": "2026-10-10T08:53:11+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Ethereum",
-    "ETFs"
-   ]
-  },
-  {
    "title": "U.S. Bitcoin ETFs Record $487 Million Outflow, Largest Since June",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XenhiNUlyQl9jdFhTWnJBUFBWeDh2anNWaTdKbEdWc2t4TUVhbmdXTmhjY2RhZjB3SS1PbjZlUDZRQWQwdFNmNmJtTFV2ZE1xNndJcWxyZFI3UQ?oc=5",
    "source": "www.tokenpost.com",
@@ -826,6 +995,17 @@
    ]
   },
   {
+   "title": "Solana Price Today: SOL to IDR = Rp1.96M",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuRmRBM25EOEJYdlZuZjhTZmZZNG9Ha0hfRUREeUd5N21MeWpscXh6eGRob19yY1VKbjc1ZDRyV18yVDVFTFpDalY2ZDE2OFBFMXMxaVB2QQ?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-10T08:37:32+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Solana"
+   ]
+  },
+  {
    "title": "Crypto ETFs Lost over $1.2B in Week: Bitcoin Funds Saw Biggest Outflows",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYnNpeGxzd0ZUSExBaUV3MnliNVF5ZUFsdGFCN1lhVG5NcHNsZUhobjE1UnFSN3gxZVNwQjRkME1yMlB2dUJYQjdhckp4WjQxSVBVVVJlWFhER0RnWWU3Y3hlR1JKYVVVcDNoVjNWWV93OV9yUVdSM2VvTG43cFZaQkZQMkUzNHYwWVRGcE9pS2lyUGN0M3A4YmtXQnI3YzFjLTlGZw?oc=5",
    "source": "Incrypted",
@@ -838,14 +1018,14 @@
    ]
   },
   {
-   "title": "Bitcoin Settled Within 2% of Deribit Max Pain on 5 of the Last 8 Expiries",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTekRreG5USWhMN25UUFBaOGpIN3pVbVNtSEFjN2Z3V0JWTEZOX2VKdUFHMFNrZUthYVlzV2FpLUpqRHRVdHg2NVBuVDh1QkdUT1M1ZTVlRjRkNlg3WnVlUDVPUC1hc3c2bnZCU1k5dXF5VDdKU2c?oc=5",
-   "source": "CryptoQuant",
+   "title": "BTQ Technologies Will Shield MoonPay Korea\u2019s Stablecoins From Quantum Attacks",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXJELW5QMkR2WWJWYTR6V0FROTM4UlhPek96MnZFVExMRUFrUVhGaVRRYV9ZSTNlcThaRV8tSG1IUExoMFM0RUdDam5lVlg1MExSczhhSkRjaEdncjNTMEJnVHZMTFFnSEczVmNPc0JCNXczc0Y1QUFRTHJqMjBvdFNVQQ?oc=5",
+   "source": "Quantum Zeitgeist",
    "type": "news",
-   "published": "2026-10-10T08:28:32+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
+   "published": "2026-10-10T08:32:17+00:00",
+   "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
-    "Bitcoin"
+    "Stablecoin"
    ]
   },
   {
@@ -939,17 +1119,6 @@
    ]
   },
   {
-   "title": "SpaceX, Verizon, T-Mobile, Apple, Delta, Humana, and More Stocks That Explain Today\u2019s Market",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1R00wTW03Ml8xUElCVkQ4UUVHVE1Cd0hqWW5tXy1DU0VuRWtwS0xDU2NJTWpVMG15RjBTUldwLWtoU19KSDlYSE9xbkVpdTJKYlMtSlVyd1NtOGdkZXduU2l6YTI?oc=5",
-   "source": "Barron's",
-   "type": "news",
-   "published": "2026-10-10T07:38:29+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
    "title": "Bitcoin holds steady near $82.5K despite recent Ledger theft reports",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXVQV0Y4Z0ktSTNCc1RyOTl1TV83UmUwUjdxYUIxR3BNRnR3dXF0WDNfeVF4R05WN0ktaVc2NHk4Q1o1ZjRKUmtwMkJyUU16amdNZlN2S1VKUDNuc294MmNURWw3enl3ZDY2eEg0X0gzUW5zUFRseU5xQVM3NzBHZml4R3g0c3dWVV9zQlpCU1p5SzJ3YVRSeUpsMzQwNFI1RnJYY1VMNjJubTFRZlhV?oc=5",
    "source": "Pluang",
@@ -993,17 +1162,6 @@
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Best Crypto to Buy Now: Solana, Cardano or Remittix After the Latest Market Reset?",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSF9EeV94NHB3bThaRVJ2SDBJdE9BSV9QaFE1YjZFMXlveWtfYVNqbEFlb0NUWXVybmlrdDQ4TjZ6Rmkxd0g1X3NNQ1pLS01JaEc0bUlkQzcxa3lYQkxVUTFNeUZqM3B2R1d3dTJEUkt6UjZIeWlsS3RNLWFZRHJiQ1NQZEF4UW5MdDkyQk11SWx4S3UzV2Myd2ZWSm5BU1lOb3lTSDJOWQ?oc=5",
-   "source": "TechBullion",
-   "type": "news",
-   "published": "2026-10-10T07:03:37+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Solana"
    ]
   },
   {
@@ -1063,17 +1221,6 @@
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Cricket match squads | RWA vs ZMB, 4th Match, Malawi Tri-Series 2026",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFNDcEpnQVVJcjhZUXdrRGFPWDJBUEQwa2Zycm9Cdi1CUEx0czI2SFFqRGFSUDZoWU9zSm1qTC1uQktXR0M3UTRpdm5fQ2J4NkxVbDQzOFdVakVrTDRqMmVxRndKSXlxV1ZaTE5oNTcwcHZ4cENzYWtJU1R0dnljeVpabnd6Sm9hdlpUSkhyQnMyb1dXS0VNTFRaYlM?oc=5",
-   "source": "Cricbuzz",
-   "type": "news",
-   "published": "2026-10-10T06:10:51+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "RWA"
    ]
   },
   {
@@ -1247,6 +1394,17 @@
    ]
   },
   {
+   "title": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkludDU4NDNnMEFYX2swejZ0VTNOb1RYXzBQOXlRYk9hbHFxRURpR0RLRzh4LUpMd3EyU1loLUxsT3Axa2tmWF9GMFZzVVFKU1cwc2R4dURYQzFvU0xsaEl2cWJCR0ZUb0xzUWZyRkYxbjJpS21OVnBMZWE5Y2RJMy1ZaGVZaGJtX0pCX3NUTHA0c1hCN3VR?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-10T04:29:00+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Ledger CryptoBilis Hack Drains $92.9M, 311 Wallets [2026]",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5bDJDYmpPMDNLLUhGVjdxS3lOb21XeVAxaFhXSHhXTjZ0Rkt0bGlYYTNUUFRJLXd3Y1VWbWp0VGNTNENlNGJZeE1GUXNxbEFFNHFLbExZR3VmMVRQV2xmLVAyTG11OFROZkZrSXk0WTY?oc=5",
    "source": "shattered.io",
@@ -1314,17 +1472,6 @@
    ]
   },
   {
-   "title": "ETFs Investing in Clinch Resources Ltd. Stocks",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xNjkyMWFnVU1SNXdnSmFFN3UzeGdYNW13MXYyU3Z4bGhwcjhpdjB1ei1PN2lVYkotdElucUhMZk95dTBtcTBHWm8yQWN4SzNCd2xzUU90V2ppbVNXT0ZJUw?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-10T03:45:10+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "ETFs"
-   ]
-  },
-  {
    "title": "Solana Price Prediction: Will Tokenized Stocks and Faster Blocks Carry SOL Back Above $200?",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLVlvT19iNEp6WnhBaFJKRnltbXFJNWxkZDJHb2tKYTJJdkFVRHhOdTRzT2ZSZmQ5VHR5UjZUYmhZdkFnSFBFVHNTOWVlbE56dmNyNk91ZjFkYUhyeDBZdXllTURsMndqTkJRM3ZKOF90a1BKazN5bXBnVHo0Mm84RDF5bkJtaENfb0xGU09pV1lQaUg5bi1WeEFZaDdHVHVpXy1lWUZmbVVlSWZ6OU92ZVpVVE8tTExQanN6TEltV0ZWOExEZ0tSOUNEWnZnS0JpaGtqNm5YaHEtak13WjBEX3lfQ28tNE83T0E?oc=5",
    "source": "StreetInsider",
@@ -1370,6 +1517,17 @@
    ]
   },
   {
+   "title": "Charles d'Haussy: RWM Emerges as New RWA Narrative",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelFaTEtVN3JCVE1hb0t1V1NjRjdVdHYyTGdtSE1ycng0MHNpbzFMbV9DZXJNV0ZKT1d3aDh2Snc1NWRxd1RZelVyQUNvVFhaX3d4VjBpWXdlZUNlZ0V3N3BNTDZQekoweUt3Nl9NSFBwN2RseDJueGhtZVdfZTZHTF9OLW5hYkU?oc=5",
+   "source": "Blockchain News",
+   "type": "news",
+   "published": "2026-10-10T03:02:00+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
    "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
    "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
    "source": "CoinDesk",
@@ -1400,18 +1558,6 @@
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "Ledger"
-   ]
-  },
-  {
-   "title": "NEAR Gains 83% in Four Weeks, Outpacing Bitcoin and Ether",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQnR3ZXc4LTM2UWVaLS1HdXROLVdpWm1LQ3F2ZTRaQ3p1dHR5bkFaX3kyM2V6dVFlUFUtd3ZYR2NVSEtINkMyeF9XSnNVajJMYmxVcGIyZ1BrTERKckZ4ZG9CanBkRnFXOTluS0l4clJzc1NIa29ld1Z5UEdnWGVDM2hheVlFOXlpZEhaR2swNl9lZzU4?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-10T01:52:46+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
    ]
   },
   {
@@ -1525,17 +1671,6 @@
    ]
   },
   {
-   "title": "Solana leads crypto funding rates at 10.9% annu...",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEluYUVMZV94MkRGS3V2ZnJwVVYwYnpNc3I5cVNCdUtSVHRuQ2txbDdWTDZZejByZTVQR1U5S2p0SmdYYktyZGtwVnRFOUduaGw5c2V5NUNJSGR1aTJWZGRtd0s0X0hsNGszeTIzaGh4NU9oeHRjQlVyWFNHQzJrMkM2OHA5QXdmSWxwb0NKQk8zbnBaZGt5c25R?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-09T23:24:51+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Solana"
-   ]
-  },
-  {
    "title": "Five Forces Shaking New York Stocks: OpenAI Revenue Debate, Apple\u2019s 15% Parts Cut and More [Park Shin-young\u2019s Before the Bell]",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wZUdpdmNVa1RhemVvWUVtajJ5TXBlMkNTcXhpQjBjU0NFRDRQbTFCZTZtNEh0T0hld3dHbXNLdGhlZzJVTW9ONVNHbVpXNW9tNWpfYQ?oc=5",
    "source": "bloomingbit",
@@ -1555,17 +1690,6 @@
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "Nvidia"
-   ]
-  },
-  {
-   "title": "Trump says Russia to supply diesel to U.S. and global markets",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanpGY0x5WDFRa0JXNjZJOHA2MFRYSWJDaWNUdVpwRkt0MnBPUFNhSE4wNkpRdV9yQ2ttY1ZqX2dFaHVFa0h1UGJNbC11WEJVMjhNZ0hzck1FMmFNRTlTRm80bFBrLVVoRTJwMjJQbHBqOG5GVjhWU1NPYk1FOUJnTG9vTWtiaDZJSXJQbjhDV0gydVB0TlQ0WFdqbzBaZEU?oc=5",
-   "source": "The Japan Times",
-   "type": "news",
-   "published": "2026-10-09T22:49:00+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Trump"
    ]
   },
   {
@@ -1599,6 +1723,17 @@
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "ETFs"
+   ]
+  },
+  {
+   "title": "Reddit, Inc. Tokenized Stock (Coinbase) Price History and Historical Data",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmwxV1FDM3o2ZlpORTRHVTU2M25MNE4yeklmTHJrUUlueC05Ul9yRzBHRWlhMHFLWlJmc29DY3dTbEhYVzRnRzBKby14d1NLMFAtUlZYRjIzY0lQVlVRWThmV2tJR0RXNXJYOERhbERxWXdQWF95YkVrSDlhcm84cVlNRkt1UkFrQl93dnpNdWU0aTA?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-09T22:25:49+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -1670,17 +1805,6 @@
    ]
   },
   {
-   "title": "Ethereum Price USD: Consumer Safeguards Could Matter",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVlIOE9Hb2dCbzRrQk5fWkZ3bkl6MmxNQXhBdW12enhqWnhMYWlsYm9UcndqVVNpSEZsbmtlWkdjZGljeF9TTlJkS3ZfVVg4RjVNNnVBWjNlVnFOSWRpSWx6NUU3dHROSkdVNXlIZHN5Y2xBZk84T1g5N0lvT0g3aW8tVWVKcFpQc0VkeXdULVVucUNGNUNkUlFUNV8tNXfSAaQBQVVfeXFMTm9FeHlidUtVdVBhUWZUbUxhMllSTktuUWthMU1WZGRUMjBGN250a0gyYzlyZUtVNGVpV19zRVR5U1drLXJ3WkNBcG80b1V4U3A0YWNmdGdfLTRKZjZORFMzQ2ZTTUtub0F6WGhfRjAzcnJxUHZ1RlhpOWRNbGplTzNKdV9NTkdLRHdNMmEtMnI5R3htRVVuUmRPYTQ2bVFBaGN5SFY?oc=5",
-   "source": "Digital Commerce 360",
-   "type": "news",
-   "published": "2026-10-09T21:57:33+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "Circle Stock And 3 Plays On Regulated Stablecoin Payments",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnJhYTdzcUx4emRlUUJqNGtaQmY5TkN2aWdMdzlrUlNyYXVZQVQ3MHl6cHV6TTQxclFRaGRiM2E5NnU5MEJWVGZsTTlNQkR5VXRVQ1U4ajc0ZWg0Vlp0SEt2WTNEdENaUkpQSlpvalZYcjE2emdxc0c3dnpOWHBpMUdpSHBEbG1rRWs1dmV2bGhEZnI1RFY2Y1ZHcGJXWWpOX0xBVEN0Z2FDX0lRR0VSNzNmeldEcXg0N1JaMTRQYmc2TVhRYmJrUVVWY01XRS05SHVWa9IB2gFBVV95cUxQelBmbnI1R0VWeUE3dmFkdVJxb0E0MllmekdEUzJsdlF1QkZ5NnlqZnIzcm1DM0o1VXpMQW0xNzljSk5RbjZMLU1VU1M0ek1hUXBDZElUUTVuQ2hxcFdZVy1oc2ttVENiQnhYeV9hYUZ0LXF2TjVJb2luanVsdWYzV1N1Tk5vZjdQbDlvSVg5b3RDbkdQNGZpRUc0SnN4cUJCQmNLM05wSHhQcUlDNFVxUFJ5aVMyN1BWR25IaW52QzM5YXZWeEtCWU00U2k1U1NNakloYTJBWWtvUQ?oc=5",
    "source": "Simply Wall Street",
@@ -1741,14 +1865,14 @@
    ]
   },
   {
-   "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWhaS1NCZlJ4VnJsY1d5OFFTNnFPblRlQVBoTFdNeUg0M0JBTUNidVVXWlNMck41Tlc3eXotZjQ1eHBjMWtCbVh2WFFUTC04UHZIOFBpcHU3QUNMY2RxUHJydVQ0WEgwek5rSGU5cjFUcUlVOWE0WUNwOHNQOEVFMk0yZGRzeUsxM3ZRQ25TUENqcmtaVnZpOXV6Nkl2dy11c2JBMFdNamdoNUlyYjQzcnk5YnpWRDd2S1BaQ3JKS0xheGxVejhEUlZ3?oc=5",
-   "source": "MarketWatch",
+   "title": "OpenAI\u2019s revenue math is giving Wall Street a headache",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV0R5NkQwWl8xeGUteGpmY0k4QXpJU2w5amVnZWhmdmxneDltY0ZPeG4tZ0tlZUpLWTd2cnpzaWEwR1RiNmh1TVpldC1vS3REbWxzNUlOYVFZbWZleWtDbTdUOUJyUGRJRno4cFlhMU85ZDhkUjNPd1NaRnozYzFMaQ?oc=5",
+   "source": "Crypto Briefing",
    "type": "news",
-   "published": "2026-10-09T21:07:00+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
+   "published": "2026-10-09T21:08:38+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
    "topics": [
-    "SpaceX"
+    "OpenAI"
    ]
   },
   {
@@ -1782,6 +1906,17 @@
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
     "SpaceX",
+    "Trump"
+   ]
+  },
+  {
+   "title": "Trump says Russia will supply diesel to U.S. and global markets",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSjJCVi1weGtsS0dYX3lZT01BNmxDSHVGVnY5cVluNkxEWEwxZWpySmJHZUN6WlU0b2dma2lVWW9JVmtTdWt4QUY5OVliZXVDczYtMl9IS3dsbTJVNXUzRm5OQ2pMcllDWlZ2emJuQ3RiNE01WUZ6S01qNGR3aHdZSDNsdERZdGRBSVpGV3Z3dVN1QkdxUG5uTWRxYVJvVDJHRVhv?oc=5",
+   "source": "BNO News",
+   "type": "news",
+   "published": "2026-10-09T20:54:09+00:00",
+   "first_seen": "2026-10-10T08:00:05.449801+00:00",
+   "topics": [
     "Trump"
    ]
   },
@@ -1830,14 +1965,14 @@
    ]
   },
   {
-   "title": "Mastercard CEO: Stablecoins Fit Cross-Border Payments",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWRlWGRMa3JRVzgxWjk4TEtxUHQ2cG5ON25oR1VZcTFLSTk0WEdkaXN3SVUyMFZYTGt0cVl5dndFeS1kemNZOHhIZll5UW1Wem9IMXNTRDRPUVFXNmNMeW9pUElpQnMyeWs2Y1NoamdnOWgzcGVNVFc5MDJJNmI0akdSM2lKSHgwSkd1WXI3aEh6dw?oc=5",
-   "source": "Briefs Finance",
+   "title": "SpaceX, Verizon, T-Mobile, Apple, Delta, Humana, and More Stocks That Explain Today\u2019s Market",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1R00wTW03Ml8xUElCVkQ4UUVHVE1Cd0hqWW5tXy1DU0VuRWtwS0xDU2NJTWpVMG15RjBTUldwLWtoU19KSDlYSE9xbkVpdTJKYlMtSlVyd1NtOGdkZXduU2l6YTI?oc=5",
+   "source": "Barron's",
    "type": "news",
-   "published": "2026-10-09T20:30:00+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
+   "published": "2026-10-09T20:33:00+00:00",
+   "first_seen": "2026-10-09T14:36:43.197980+00:00",
    "topics": [
-    "Stablecoin"
+    "SpaceX"
    ]
   },
   {
@@ -1863,19 +1998,6 @@
    ]
   },
   {
-   "title": "Thailand Opens the Door to Local Bitcoin and Ethereum ETFs: BTCPressWire on Crypto Investment Expanding Across Asia",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWHN3U0E5WDliNWdDU19mZFBRTHFfTFltMEd0dzZZV2ZDSFhJdkxiNUVFaTItdmlTRFczUmlaeGJmR21vVG1mV2Rvc3BhVTRaRDBtV2tDTHFEb0hMZjl2bmJjWkNYb0hTVTh6UVduOHJKODdKd215bEVNSU1RNXl0SW1pVUpYWmVNaVNqNXFialhIdEJNcHRRNldBMlZqNnJOeEl4b2hXRXFxZVhsSTUybkxZbmVUTWo1djNnem1IVkJJdVpBS1BSQ1dzNWVNSWpYUFpyOXhuRjA0aXAwQ21SRm1JWnlSN2lwcDdlT0g1Tk9TUFZtR2wtaThreXZkY0x1RjBYaGpIdEs?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-09T20:21:57+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "ETFs"
-   ]
-  },
-  {
    "title": "SpaceX's Mobile Plans Trigger Towering Gains For These Stocks",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBObFZIakNpSzZOR1NJaTYtODlWOHZ0Tzd3MlUzbFBhX0lwQXFwdXFnVlczRHp3VmdaV3JuMWZrUHk2dmRKOHZObE1obE44cGI0cWUySlVQU3o4dmdSUnZVbkJrXzMwM01fYzFIOUJ4c0ZnZw?oc=5",
    "source": "Investor's Business Daily",
@@ -1893,17 +2015,6 @@
    "type": "news",
    "published": "2026-10-09T20:15:24+00:00",
    "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
-   "title": "A SpaceX Stock Split Could Be Closer Than Investors Think",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUF82LWk4N01qQmo5MEF2eEZhN3M4MXMyRU1sRFdHeFRmRk14WWhGajE0U2VKZHRqNzFIa1VlellCMjJwRjFfMmVYTUxDZFdVY18yT2ppdjNIWTNaYm5CTGRUX3dXMUdvV0ZsWFhFR0c2UThlaVN4OTNmb3dqZ2VTTFJ1NU55NlQ5OXlkeWRwZDhnenhBOU94dFpKNWQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-09T20:06:00+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "SpaceX"
    ]
@@ -1950,19 +2061,6 @@
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "Ledger"
-   ]
-  },
-  {
-   "title": "U.S. spot Ether and Bitcoin ETFs see large outf...",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFJObkZ1Nlg3MHZEcndBVDBobVZXQ2hNc1B3SW5Mb3kwOXRVSDNLWVM2S2MzeEJnWWN5UkZKU0hMX1dkdVFNZzFiQ1dvdV9ub1AtZEV4ZzhlUWlLYV9vZVBMLWJULWJQam9CTlJxb3hkOUJ4ZEFHM25pWGEtS2pqUF9EQUlpckJnckthWXp3?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-09T19:55:27+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "ETFs"
    ]
   },
   {
@@ -2013,34 +2111,12 @@
    ]
   },
   {
-   "title": "Bitcoin's Next Act Is Invisible Payment Infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1YcDlJTDVZc2FWZjAtQk41VEVvdG1VMzdFS2YtT29Ubjc2dkU1QU95UGV2WlB4UnViZ1dla3h0NkxnRWZmSUJ0S29mV2t1d2lEZkZNY09OVlpzZ1VkN0UyeWlrN2FULWU1TUsxSG9sTjFtYXA4dk1PNUJydG5FRWZzZTBSWDdjbkp3QXZ3bGNITE5aLXBmWEc0VGJqWGlwaGVSb1VxUnhDOWV0SmFlcUM1R3ljbm1TMEE?oc=5",
-   "source": "ETF Database",
-   "type": "news",
-   "published": "2026-10-09T19:38:05+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Trump says Russia will release diesel to US, global markets",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTdnR2EzelpxMFZXLXhZWjlDeUNDVGtzUGpGLUl4dXJuX284dGptTE9meDlmeUNsQzhBZURZSklOYUpWQUctZzdHbnhrZVhBM1dFMjhEUElIV2hvQkFuZUpSbkxTNkMtX3J0OFQ5MC11ZHlyQjNIbE1QZFNQYXhrZUFPYXhFNE1OWEJJakFyTUJvVEpNbHQ3RExrYzUxbUN5aElz?oc=5",
    "source": "T\u00fcrkiye Today",
    "type": "news",
    "published": "2026-10-09T19:37:11+00:00",
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Trump says he\u2019s reached a deal with Putin to supply Russian diesel to U.S. and global markets. Zelensky calls it \u2018an investment in a war that must be ended, not prolonged.\u2019",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbkJRRHc3S0YtLVJOc3ZoZGx5RWFEVVBKRFB1V3Azb1lQaVh0Y2VyaTd1S1V4c2ZSeGI4NTJkc2o5X2Q3alo2YjJ3cksxOVlEODVjTnhYZU01cGVoaEREZFJ3Y3FTLUZNekxXOUxoWHJXaTNZeEZOajZfN2Vfb3R1RlV4MW5rc1RWN0R5UG5Id0llSnVvZEhGOWhoSTc2NG5hb1prM096aTFzLU9kYU5lVUNpckQ3VlZpb1hfWV9XNEtXbTRyRW9DMkhtNmk2aElfSFFsYjBBZjJZMVpYQ2JuWFFjYzhxWld5Mm1nWVRDeXlfS1lhZ05oTFV0WHVZUjBTeG1maGV2SdIBjAJBVV95cUxOemozZFJ1clBmcWZyTUkyNzgxZ2tvX1dIbmdGWjlwNG1HRmFxQldoanNtRUFobVJib01hZ1hjOXZLSElGd2RudkxvRzMtZFFXTmpPaWdoUzdQd0RvQkxHSWV3UEJHUEF4RXd6anAwdUFfTHdLM09LZXRTSWdhYWtXTXd5XzhMU3RBaWJQZUJhbk53N2czd0FNaW1nVFRYcWEtTkoyV2tsaHdqX0dGVldDUkpNeV82eVZNdml3TEhTV0FBblpkXzROdlZPemx0QUlmUHU4Ni1PMi1NVVM2b2l1amQzWHdyS1hQWi1BUTllRWdYeFIwUXJMNHdkbm80SjBwZ1djcmFjbWtNdkhj?oc=5",
-   "source": "Meduza",
-   "type": "news",
-   "published": "2026-10-09T19:32:00+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
    "topics": [
     "Trump"
    ]
@@ -2107,6 +2183,17 @@
    "type": "news",
    "published": "2026-10-09T19:09:00+00:00",
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
+   "topics": [
+    "Trump"
+   ]
+  },
+  {
+   "title": "Russia will supply up to 5 million tonnes of diesel fuel to U.S. and global markets \u2014 Trump reached an agreement with Putin",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUVBdWR1dk56eThGbDFXNEk3U1p1Qm45Si1XQXhySW53THRPS0g0dTBiTFZEbjJZT2FydzhCeXFzTEJPWWRTWFNXY1U0cUFvNDZEOTliNmczQnVvRDAxQ0dMRVNjWGl1TUxIaVVDVEJidkc1UUluOEN6QjR2VUxQWjctc3hSZ21UNEQ4X1F4Q0FYTjdMV0tEV29lUGRCbnNCVUc4c21qaFB3OWpaRU1BdnRORlZEYnJVTm1oZWVOZC1GYjBPYWJIWkg5V1doRXk5WmpHR3hlNnhVd9IB2AFBVV95cUxQeWp0Rm1rVUw5ZEJ5c2p6MHJNUlNzbVZnQTBvYTN6dW15dlljbU5lNUM2VTlEdlRUdi1sUk9zQUN0WTZwYlNES05Ta1B1NDV4T0sxU0N1NU9QckRoNVd4STNmNllTYzlMWlpCYzRBd0NuWHROUXlGRVRoY0c2TFJ1LUh2aXZqbks5UXdvZk1qM1UwRFpWZ1Q2bmFOT2k3bDF6bGtSQXNjOW8yZ1VhSjY3Wm1qaFdFR3RMbzB0SmRnNDR2VEVYUFRBSV9MLUVoUjFPSUt1Q1hlOHA?oc=5",
+   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+   "type": "news",
+   "published": "2026-10-09T19:05:32+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
    "topics": [
     "Trump"
    ]
@@ -2266,17 +2353,6 @@
    ]
   },
   {
-   "title": "BTQ Technologies Will Shield MoonPay Korea\u2019s Stablecoins From Quantum Attacks",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXJELW5QMkR2WWJWYTR6V0FROTM4UlhPek96MnZFVExMRUFrUVhGaVRRYV9ZSTNlcThaRV8tSG1IUExoMFM0RUdDam5lVlg1MExSczhhSkRjaEdncjNTMEJnVHZMTFFnSEczVmNPc0JCNXczc0Y1QUFRTHJqMjBvdFNVQQ?oc=5",
-   "source": "Quantum Zeitgeist",
-   "type": "news",
-   "published": "2026-10-09T18:19:47+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Ledger asks users to take urgent action amid $86M exploit report",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdU1SaDhzUDVIQjVyM2VFOGFiZ0otUUV1cjNOTjJrbGFRUnVmc2IzZi12cHpiRU1KMHV6emlvUjNGZ0QzYWk3T3hiQ3lVZXR0MlR0OHNzU1dhMWdFRnBHbnhWMzRkRVQxZUhkeEZOYlg2cTdpTlg2a05FcHpfSEcwTEU0QXVxWVk?oc=5",
    "source": "Yahoo Finance Singapore",
@@ -2390,6 +2466,17 @@
    ]
   },
   {
+   "title": "OpenAI disrupts Iranian influence campaign that placed about 100 fake articles in US media",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SdVB3T3F4YWFWckZWOGd6V2RSRDNvWjJ0UFZFVlprQ1NzYmpfbTM2MXdnQllTc0VhLXBNdVJEM08xckl3YXBpLVdQLTdmb2wtS0dCSXZMTndCbHN4UW9DY3N5ajIyXy1GbU5IRlVFYmc0UkJ2aU1yb3N6RkVOdms?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-10-09T17:46:41+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
+  {
    "title": "Global stocks rise, oil prices fall after Trump rules out Iran attack before midterms",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmdOQUhweklHZG56bGphZ0tlTHJWMkF6RTE4ZDdSWC16WkQ3Wm1ab0w0WEgtSW92YTRjbFFrVXVGZFhOanRFSHc2cHdNSjhlM3BMb1JkMnhpM3U3QS0wb1E2NzZmd3gxYkRqTHRLbmFNckFaV19tNU5jYzJaMzlWOEwzUFZpOFgyM09ReGRKaGctajZSalYzUkVoWFNtMDFfb2pXWE5YNGlPM3RLdkRBYTF2ckdEa0FncEVlNQ?oc=5",
    "source": "The American Bazaar",
@@ -2422,6 +2509,17 @@
     "Ethereum",
     "Bitcoin",
     "Bunker Mode"
+   ]
+  },
+  {
+   "title": "Google Is \u201cGoing to Eat Their Lunch\u201d as OpenAI\u2019s Scaling Bet Falls Short According to Computer Scientist",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHo1SEZxQTFtalhPdGNjaHE5cGpYakIyZ3dfOUVmbmI3QmRyQTZ5LVo1YkduMlFPZjRqVWJwMzMzY2NFYWJkLTdXSEs4emFVUktLTWJ3S2hEeWJHbzNieTBoNFB1ZkhYd29udEZGVHR4XzhERjZqZGhjcTJyRUhqcnNFX29tMUlMb0ljalVqRlBnUUpHejg3cQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-09T17:29:50+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "OpenAI"
    ]
   },
   {
@@ -2491,6 +2589,17 @@
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "Ledger"
+   ]
+  },
+  {
+   "title": "OpenAI\u2019s market cap odds drop from 80% to just above 50% amid IPO delay",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96RlY4SXN5UWZ2d1JaSWZJODFuaFZkN1lpR2F3QkdlbW4yNG5nTUdqSk4zSGFqVFZqemxYb0h0UVZpUVBXdnB4NlhVaTdvV21VeWpIVUZGUF8tZHhmSmlPMnQ4Zi1lYkktREEzaVVsWEg3OUk?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-10-09T16:48:05+00:00",
+   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "topics": [
+    "OpenAI"
    ]
   },
   {
@@ -2853,89 +2962,11 @@
    ]
   },
   {
-   "title": "Ethereum News Today: \"Bunker Mode\" Warning Shakes ETH Holders as Remittix Highlights Wallet Security",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjVFQURiN2pvU2thRmtudXBacGRmQVlVMHllemNKNWtiQ2dfMFhMampnWGZrcjhvVW1La3d1SWJmbkdQQ0UyYU8zdXJaUUExQmtEXy1EbHJaZGNQN05OWnhIREk1cXoyM3NrMzRWQVQwdHZpdll4SkZmbXN0RWZabmNUMkZuaDJ1OWNHNnVuRi1WOXBGWXRHUGJKMVI0Zw?oc=5",
-   "source": "openPR.com",
-   "type": "news",
-   "published": "2026-10-09T15:11:47+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Ethereum",
-    "Bunker Mode"
-   ]
-  },
-  {
-   "title": "LiquidAcre & Uphold Collab on Tokenised Real Estate Platform",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3E2QjA1VHZTdExsaDlKR1JqQ2JpVUExYXdiTURIQ1Y5dlNpUmx6a1dRVk9BazdmZkNITTdKZW95WlZCTVFaNFNHd2hTTkpnQU84d0ZHX0ZnMGZfdkZ1aElHLXE1cDZROEFTcHQ2bXhwVmdsM3hZNTZRVEVadEJEcGpyQ1V1eFR0aGVHbzUtSWlkb0lUQVE?oc=5",
-   "source": "FinTech Magazine",
-   "type": "news",
-   "published": "2026-10-09T15:06:40+00:00",
-   "first_seen": "2026-10-09T15:11:30.013826+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Google Could 'Eat OpenAI's Lunch,' Warns Cal Newport",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbUo1UVAyR1BlMW1yeDRNM2lwSDZ6RGs3Z3VPQTdfOUlWZGRmVi0tQldISHFhaE1wS1h5TW9maEZoLW5UUmQzYlBoNHFDY0NPNDlDbTNQSUFxLUk5eFJ4TXBtR1RTZXJUQXZzeEVGaWY4RUxUeFBKX0YwMUNSRzhQMDB6SU5ScDYxT0hwTXYzby05ZFBSa21JQzkwREFXM1VSdUNoZXhGb0d3anVBdlo5RmdZZEVJdw?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-09T15:04:46+00:00",
-   "first_seen": "2026-10-09T15:17:20.542668+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "Nvidia Trader Uses Cheap Options to Bet the Record Run Fades: Options Chatter",
-   "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNVGJKVUpyNHZzUXhaRFFvV0ZwZlgxazZaeTJnMWVLQUY5UVdneUYxYmNERjkyeEZFOGNrbFRYYi1aN3ZLNXV5OTlsc29hLWw0OEo5X2hMTjBmM01VSjNKMl9famJXejJDNHZ4UUp1TC11cXBOaFRuU2FCUjVvbjlDOG5yN3FIY1JTWTRIMFVQQlZSTlJSaXdLenBRV0U3UVNTSllETVd4TWNlSl9ncG5ZUFdlbDBxYnJGV3VpV2lBWjhxX2hMbmJjRVFwMmIzSmlndnhIRlVTMHR5THpkRkpfcjh6M2h1OGg3TWV6OXBiTnItX2pjRERDdGxjQVllVkdFMU9rcW5rSDBpU1RIeTBYb2dKdGVWS3pBNGZUazNTR200SUZSMFotUGlFRy1VS2xIelM5aGp1ZXlUX1Fjb0I0S0N4eWFJMk5qWm1hZE9iVUFmbWx1ZmI2MXItdVdPWUppVEd1cTBUa28zZ3c0ZEtOYkEyanZTYWE3cEFkSQ?oc=5",
-   "source": "Moomoo",
-   "type": "news",
-   "published": "2026-10-09T15:01:51+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "Jim Cramer delivers strong verdict on OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUFYY3cxY244czlpb3JSUGlwSjNCNEdYTFo0YmVMRlBwMmlMaHpGbUFUYy1BSzdPbWt6d0NrNWJDY2VTYkJiZDN5T0FwSWVQajNhREtyMmN5SG5tOHhkSERqYU5pbTJfcXNOdExpci12YzFPZ1VYYzZONGtXa2JsOXY2VmhJY2hSLWVtcEV5VTJJczZOV3E1U1ByVE96ak9UWnBj?oc=5",
-   "source": "TheStreet",
-   "type": "news",
-   "published": "2026-10-09T14:57:17+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "$50B? $70B? How OpenAI\u2019s Accounting Confusion Wrecked the AI Trade",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3Z6N3VvVnBGS0NKR1dtVzlOVEROUm1hSC16S2I2TF9IUVJJT0pob0wyTGFSNFFScm5SN0g5Zk9HQVh6aTFpZXFYWHBYaVpyX1Bab1VwNjB6SE9LamdpcE4zZzJWNnJwaXVMa2ZOZWtaRVBRVENSWGNBbEFVWEJvWFR1NA?oc=5",
-   "source": "Barron's",
-   "type": "news",
-   "published": "2026-10-09T14:57:00+00:00",
-   "first_seen": "2026-10-09T15:11:30.013826+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
    "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
    "url": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
    "source": "The Block",
    "type": "news",
    "published": "2026-10-09T14:52:55+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Ledger"
-   ]
-  },
-  {
-   "title": "Ledger Asks CryptoBilis to Halt Sales Amid Reports of Lost Funds",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS05henBtY2gyblV3blpxQ2RLTU9lVXdhalQ4R3Z3UTdOTGZxSGdVdTYxeUhLZHJ0N3VwOUlPdEs3N2ZqanZ0MFRBWGlSWUFzQ0dsVUpFQl9RenhPejZlZVVhNHVpVTJkQmtDMmFURUs0eGczZ1dRMGF1T1BvNEpLdlJINEc0ZUdYemptX083ZWI3QVhPRHpaMURCZldEZw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-09T14:47:41+00:00",
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "Ledger"
@@ -2950,87 +2981,6 @@
    "first_seen": "2026-10-10T08:00:05.449801+00:00",
    "topics": [
     "Ledger"
-   ]
-  },
-  {
-   "title": "XRP Ledger Flips Ethereum to Become New King of Tokenized Commodities as XRP\u2019s Utility Story Heats Up",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR2JOUHAyN2E2TWJqdkZ4OWRlLVpUTzM1bkc4cmtJSmRXQ1pZOWxMeHE5ZDZicE5VWU5xdkxUWFNGY1lUR0pDZEYwejJoVVVIT3Z3UkZ0YlZGVzdtOVc2bW9MNjhPQVQ3R3V6MjdmM0hpam9nNXp3MWpzSVNHdXBtaTR0VzJXT1NRaWlrQzBTUndlbGhMV216NGc1dkxWVVRvM194QXQ3NzFUMlVBNk9lNjVzZk90ZmtKWGE4SS1kd1JPNm9GYVNOZTVqOEpJWGtwd2NaSA?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-09T14:41:44+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "RWA",
-    "Ethereum",
-    "Ledger"
-   ]
-  },
-  {
-   "title": "Justin Drake warns AI could break Bitcoin and Ethereum wallets, urges bunker mode",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPem41S1gtZjFrWjZ6dTI4a2hPakROMUJ6bUhvcVFrRmRudm51a2N5Rmd1X2hUMUhKaU9ZR2Y4Ri1maWRaT29HNFdqWEFXZXpMQ1RkNEplOWRXSG1vQnBpaG1TTnRBR1J3Ry1YM005bW9ZTGJZMV9QZEJ0NjZwVjFtNHFjWmNrb2JaQkVPWDRR?oc=5",
-   "source": "Pasquale Pillitteri",
-   "type": "news",
-   "published": "2026-10-09T14:40:23+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "Bunker Mode"
-   ]
-  },
-  {
-   "title": "OpenAI revenue figures rattled tech stocks, but analysts see AI demand holding firm",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQekFRWVF0UVBZdEs5UkIydmR4dE1EOTkzX05qbktVUkwwUTNsVG14a0cxUlNBQmJZQzVKUkRFdGdVQkxjUi1VY3dwcEwxbHh5Sld1bnVpSkh1ZjJvQTNRM3U0ZUJTdmdROV9rMUUtYlNHSnRHVTZ0LXRTOGJBVjVmREkzS3ZmV2VuMFlLTQ?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "type": "news",
-   "published": "2026-10-09T14:37:00+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "OpenAI and Anthropic Rehearse an AI Disaster: Will It Hit Your Bank?",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jaGJWLW45MHZ5ZUJFQXJCVk9XVmIxRGJ0WmFjQ3dRTWd5Tl9tam1DeEMyTmxlMlpBek5rdE9XZThNamJHYmNkQW5tNTZ1cHZrVjZ3bU5aZzdJNzJpcWhnZHBSY1czekRDelVzN2dmX1hHc042MGdOT2hn?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-10-09T14:23:00+00:00",
-   "first_seen": "2026-10-10T14:11:20.511780+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "Dragonfly Partner Criticizes 'Bunker Mode' as a Crypto 'Doomsday' Solution",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVm9kN0IxZnVYYjI1VnJiR1B2VjBveTBjTUdtZDhxZ1RndldoUEgwRmV6VExQVzBuQjJyV1lRLVlRTGpWUWx1SFBZS01QMDFaa0xDMGtxb2NQRmE3TEJfV1RjZXlYQXFKNWZHT1ZIVU1Wbl9FRXI0Wnk5b09rbjd1Q0RGNlE2MjBIMGNHV0hCRUNTSVJCanRzUUhmaHZKYTc0cW8zRA?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-09T14:22:59+00:00",
-   "first_seen": "2026-10-09T14:36:43.197980+00:00",
-   "topics": [
-    "Bunker Mode"
-   ]
-  },
-  {
-   "title": "Coinbase-Samsung Deal Expands USDC Access Through Samsung Wallet",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHdaTElYWGJiXzBCMy1BQWFGZjR4bUFab000TW41dUZ1RFkxZUFjMUtiNUxjeWR6VEZEdU45SzM3NVV4UkFGaUZXUnphM2s3d3RnVFVWT3ktWWU5MW9VbUpDMXdva0JzZXhYQ3pzTk00aW1wcVV0NmhBUjVKYXBhSVRqWEl0SmgzMEln?oc=5",
-   "source": "Yahoo Finance Singapore",
-   "type": "news",
-   "published": "2026-10-09T14:19:00+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "RWA GLOBAL INC and PRYPCO Blocks enter strategic partnership and deal-flow alliance to scale institutional-grade tokenized real estate",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQLXAxd0VuUnlCTExkQlREbkVIcXVxODJmVlV4ZU1PZzZfSjZQREd5RWRQZTdleU5JcF9IRVNiNWhUWDE4cXVCNUlGeE84cEc1ZmNWMXVNZ0YyYlpSdHNmczZzbmc1V1VXSElyYkwwNmdpSzBoZk96eWhJWFBURG15TUlMbXVtcHJWOTl3QWRXUkVOeEFYbVVXbnRtZ3ZQY01uamNtdkdpQV9pTHRCdHVnc0VRSTl2Uy0tVmlFWU81ZWxyUk0xUkpJaDlNYVh5eWlObDI1TERYaDdKbkpkNDFVU2xGM1BDZU9RRjZ6T1RWb0lqMVpZMFJRcWk4cC1peXJESE9TLVJ1QXVuU3dQc3o2QVJvbW1FUHZLM0tpQWx2dldwOFBtZGJv?oc=5",
-   "source": "FinancialContent",
-   "type": "news",
-   "published": "2026-10-09T14:15:00+00:00",
-   "first_seen": "2026-10-10T08:00:05.449801+00:00",
-   "topics": [
-    "RWA"
    ]
   },
   {
@@ -3351,29 +3301,23 @@
     "Ethereum",
     "Bitcoin"
    ]
-  },
-  {
-   "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-   "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-09T03:08:51+00:00",
-   "first_seen": "2026-10-09T10:22:59.359994+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "ETFs"
-   ]
   }
  ],
  "stories": [
   {
-   "title": "Trump says Russia to supply diesel to U.S. and global markets",
+   "title": "Trump says Russia will supply diesel to U.S. and global markets",
    "outlets": 16,
    "topics": [
     "Trump"
    ],
    "items": [
+    {
+     "title": "Russian Diesel: Reported Trump-Putin Deal and Markets",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDQwdl9TMTNVZl9FNnFZSW4weGduQ19UaTdvaGlHOWxwTnJyRWh6eVZDdlUwQ0pkR0RTRHB3dkhnWmh1eUtrOVNqMlR5RWltQTlFb2l5UnRDYXRZd3k3eEYwa1ljNUdHcnVLazg3YVg5c2hna09OMkU1czc2QmNPTEg2Y2Nrem5t?oc=5",
+     "source": "Admirals",
+     "type": "news",
+     "published": "2026-10-10T10:40:49+00:00"
+    },
     {
      "title": "Trump, Putin reach deal to release Russian diesel to world",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmRaWXVKcExSNXQ2WnRFVUQta3VXSkxvZFQ3TlktNGpIT2lMX0phaHVUSVBkRy12c1BKYU1BckdScW42U3lYaFdoNHdXRzM3U05rV3N2Skhsa24ybHZpdV9UU3pFeGRrWEhQa2R0eUVCLVpCYWZHUEdxdHJUWC1ySXV6WE9hTHNrU2Q0WlAwc1VoNUJxR1BZT2hhRlNyUHNpVmxMY2huQdIBpwFBVV95cUxQT0lwN082dktuSjdYWVlMUGVFamxsekRqeE5hNWhHaWNHU2dqUUJOYWVtTXF0SnhGNll1NHVIWkFRSzlsTWdZdjB0UVZHZVAta0Z6Y01Pd3BCdmJVTXFUdllQelZSM3VYek9nd1RJX2NXSUpfdmQ2QlkzY0FzWDBoTWczdk5sNUNjRl9pNnBrWkUwTVZob09ObFZIMnJBWTFvSUZSMnpSOA?oc=5",
@@ -3396,13 +3340,6 @@
      "published": "2026-10-10T05:08:45+00:00"
     },
     {
-     "title": "Trump says Russia to supply diesel to U.S. and global markets",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanpGY0x5WDFRa0JXNjZJOHA2MFRYSWJDaWNUdVpwRkt0MnBPUFNhSE4wNkpRdV9yQ2ttY1ZqX2dFaHVFa0h1UGJNbC11WEJVMjhNZ0hzck1FMmFNRTlTRm80bFBrLVVoRTJwMjJQbHBqOG5GVjhWU1NPYk1FOUJnTG9vTWtiaDZJSXJQbjhDV0gydVB0TlQ0WFdqbzBaZEU?oc=5",
-     "source": "The Japan Times",
-     "type": "news",
-     "published": "2026-10-09T22:49:00+00:00"
-    },
-    {
      "title": "Putin tells Trump Russia would 'supply oil' to US, global markets; Zelenskyy slams deal",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTdkdU1kaDAxQlA5U2N5SzRfbFlSQmktZlppa3dGSUZNalRkQVdfN2JBTTgwbTN1bmhON0lCUC1TV2pKNmtDVXpja2lWR3Y0NWlSVUlpbl9uVm02cTJwX1JsZFlENnRRcDJLZ2wyVUZaT0RqeFFuYXUxMjJ1cWhsaHFvZGJfQVRfdzhfT00tMTB5WWExTk5lOXZ3S3FUTWlpQnB3dTh3OEc3clJ1aWVsRTNNNGpzZFN4Vk5OMjdQMkFoVlRmc2k1TVo4aDdCMXJPT2s0YnFDaWdCVC11XzM5bzhNZGhFZw?oc=5",
      "source": "TRT World",
@@ -3410,11 +3347,11 @@
      "published": "2026-10-09T22:21:43+00:00"
     },
     {
-     "title": "Moscow to provide tons of diesel fuel to US, global markets, Donald Trump announces",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mTVRkUEJwSFV0anMzREFjQjdDMlpDaHRlWHlxc2xUR1hlX3gtdU91Tkx4a3BJaHc0SjBWb3FmNFhQTlJ2NE1HeUdMYjBlQ0ttZnlvTHFTSVJ6ZkJxcFY0?oc=5",
-     "source": "The Jerusalem Post",
+     "title": "Trump says Russia will supply diesel to U.S. and global markets",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSjJCVi1weGtsS0dYX3lZT01BNmxDSHVGVnY5cVluNkxEWEwxZWpySmJHZUN6WlU0b2dma2lVWW9JVmtTdWt4QUY5OVliZXVDczYtMl9IS3dsbTJVNXUzRm5OQ2pMcllDWlZ2emJuQ3RiNE01WUZ6S01qNGR3aHdZSDNsdERZdGRBSVpGV3Z3dVN1QkdxUG5uTWRxYVJvVDJHRVhv?oc=5",
+     "source": "BNO News",
      "type": "news",
-     "published": "2026-10-09T22:09:10+00:00"
+     "published": "2026-10-09T20:54:09+00:00"
     },
     {
      "title": "Trump says Russia agreed to give diesel fuel to US, global markets",
@@ -3445,13 +3382,6 @@
      "published": "2026-10-09T19:37:11+00:00"
     },
     {
-     "title": "Trump says he\u2019s reached a deal with Putin to supply Russian diesel to U.S. and global markets. Zelensky calls it \u2018an investment in a war that must be ended, not prolonged.\u2019",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbkJRRHc3S0YtLVJOc3ZoZGx5RWFEVVBKRFB1V3Azb1lQaVh0Y2VyaTd1S1V4c2ZSeGI4NTJkc2o5X2Q3alo2YjJ3cksxOVlEODVjTnhYZU01cGVoaEREZFJ3Y3FTLUZNekxXOUxoWHJXaTNZeEZOajZfN2Vfb3R1RlV4MW5rc1RWN0R5UG5Id0llSnVvZEhGOWhoSTc2NG5hb1prM096aTFzLU9kYU5lVUNpckQ3VlZpb1hfWV9XNEtXbTRyRW9DMkhtNmk2aElfSFFsYjBBZjJZMVpYQ2JuWFFjYzhxWld5Mm1nWVRDeXlfS1lhZ05oTFV0WHVZUjBTeG1maGV2SdIBjAJBVV95cUxOemozZFJ1clBmcWZyTUkyNzgxZ2tvX1dIbmdGWjlwNG1HRmFxQldoanNtRUFobVJib01hZ1hjOXZLSElGd2RudkxvRzMtZFFXTmpPaWdoUzdQd0RvQkxHSWV3UEJHUEF4RXd6anAwdUFfTHdLM09LZXRTSWdhYWtXTXd5XzhMU3RBaWJQZUJhbk53N2czd0FNaW1nVFRYcWEtTkoyV2tsaHdqX0dGVldDUkpNeV82eVZNdml3TEhTV0FBblpkXzROdlZPemx0QUlmUHU4Ni1PMi1NVVM2b2l1amQzWHdyS1hQWi1BUTllRWdYeFIwUXJMNHdkbm80SjBwZ1djcmFjbWtNdkhj?oc=5",
-     "source": "Meduza",
-     "type": "news",
-     "published": "2026-10-09T19:32:00+00:00"
-    },
-    {
      "title": "Trump says Russia to supply diesel fuel to American, global markets",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1BnSFFCWHp5QVYtZWlGWXlnUWtzT1lTWHFjcXlXVkVZWWF2OEIyM0JtYTR3Tjg0VktBYXN3Y0NMVDFGTXBUZFBrZVB4UTJERXAxeFljTC1LQmU0d2IwRGZfVnNfMnRkdmx3dEFOU1o0SmtnazlRQXB1d1ZZbE5lZ0EzOWF2MlRsZEpGTUZfMUxTVmsxLUxrMTg2aTNzTGNSM3RLRTJwS05hN0RN?oc=5",
      "source": "Anadolu Ajans\u0131",
@@ -3464,6 +3394,13 @@
      "source": "The Hill",
      "type": "news",
      "published": "2026-10-09T19:09:00+00:00"
+    },
+    {
+     "title": "Russia will supply up to 5 million tonnes of diesel fuel to U.S. and global markets \u2014 Trump reached an agreement with Putin",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUVBdWR1dk56eThGbDFXNEk3U1p1Qm45Si1XQXhySW53THRPS0g0dTBiTFZEbjJZT2FydzhCeXFzTEJPWWRTWFNXY1U0cUFvNDZEOTliNmczQnVvRDAxQ0dMRVNjWGl1TUxIaVVDVEJidkc1UUluOEN6QjR2VUxQWjctc3hSZ21UNEQ4X1F4Q0FYTjdMV0tEV29lUGRCbnNCVUc4c21qaFB3OWpaRU1BdnRORlZEYnJVTm1oZWVOZC1GYjBPYWJIWkg5V1doRXk5WmpHR3hlNnhVd9IB2AFBVV95cUxQeWp0Rm1rVUw5ZEJ5c2p6MHJNUlNzbVZnQTBvYTN6dW15dlljbU5lNUM2VTlEdlRUdi1sUk9zQUN0WTZwYlNES05Ta1B1NDV4T0sxU0N1NU9QckRoNVd4STNmNllTYzlMWlpCYzRBd0NuWHROUXlGRVRoY0c2TFJ1LUh2aXZqbks5UXdvZk1qM1UwRFpWZ1Q2bmFOT2k3bDF6bGtSQXNjOW8yZ1VhSjY3Wm1qaFdFR3RMbzB0SmRnNDR2VEVYUFRBSV9MLUVoUjFPSUt1Q1hlOHA?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "type": "news",
+     "published": "2026-10-09T19:05:32+00:00"
     },
     {
      "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
@@ -3489,7 +3426,7 @@
    ]
   },
   {
-   "title": "U.S. crypto ETFs see $1.29B outflows in a week, led by Bitcoin and Ethereum funds",
+   "title": "U.S. Spot Bitcoin ETFs Post $21.13 Million of Net Inflows",
    "outlets": 5,
    "topics": [
     "Bitcoin",
@@ -3497,6 +3434,13 @@
     "Ethereum"
    ],
    "items": [
+    {
+     "title": "Bitcoin ETFs see $21.13M inflows after $729M wi...",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDBkUVpPWXZZYndPb0JNcFNuWV9vUWYydUhEejFKTVhMeGpxT1JaVnVDa0pTcGxkUlktMkgwRko3TTB6NDBsT3NGcnN0aTJSdVRNaGpoQjBMRXF1UnJLQ1dwN2RkUjdubkRDMFE0RHJFNExfcFhTX2VRVUlmSzhJZUh1M21XQWdoU2w0X2Z2OVd1Um1Xb0xJ?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-10-10T15:03:14+00:00"
+    },
     {
      "title": "Crypto ETFs see over $1 billion outflows in Oct...",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmxQdG9CNzdNXzlCN0g3aFViOE9UN01peTQ5emVEZElVWnRZOE5DanBvUk9hWXhQQ09kQmxabV9UUmhjemdzOTltbm1PYmYzOVpHRzdJQzJSbGRwWXMtdU5uLW5JaHpmcGJ0QnliRzYyd1dHZXU1bHliSkV2dHVBWTY5ZllxRFBPOVEzaU51Rzc?oc=5",
@@ -3570,51 +3514,7 @@
    ]
   },
   {
-   "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-   "outlets": 5,
-   "topics": [
-    "Bitcoin"
-   ],
-   "items": [
-    {
-     "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M to Grow Bitcoin Life Cover Overseas",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3AzZUVZT0k4cUxuTGVuWGJEZ3ZZQmhHRkVYTFBEVnRfWVU2TnZhUHJHcE84T2daNzViajFUdGMwZHAwN295amJEcXFlZE5OSWZLc05JU3BEOERzQ0FWQnRZcm1PWFZDVUYxYmJEcm0yTWRiUnNSVU9YU0JFdlV4cHB1ck5jUXIyQmMxVzZreGdmSUo5b0Q1cTlZQXpLcm51MHBVNDlwcnl0dw?oc=5",
-     "source": "Altcoin Buzz",
-     "type": "news",
-     "published": "2026-10-10T10:51:00+00:00"
-    },
-    {
-     "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-     "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-10T07:10:43+00:00"
-    },
-    {
-     "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
-     "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-10-10T00:53:09+00:00"
-    },
-    {
-     "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-     "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-10-09T10:33:46+00:00"
-    },
-    {
-     "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-     "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-10-09T09:06:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+   "title": "Global stocks rise, oil prices fall after Trump rules out Iran attack before midterms",
    "outlets": 4,
    "topics": [
     "Bitcoin",
@@ -3653,6 +3553,43 @@
    ]
   },
   {
+   "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
+   "outlets": 4,
+   "topics": [
+    "Bitcoin"
+   ],
+   "items": [
+    {
+     "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+     "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-10T07:10:43+00:00"
+    },
+    {
+     "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
+     "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-10-10T00:53:09+00:00"
+    },
+    {
+     "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
+     "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-10-09T10:33:46+00:00"
+    },
+    {
+     "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
+     "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-09T09:06:00+00:00"
+    }
+   ]
+  },
+  {
    "title": "Ledger probes $86 million crypto theft tied to a Southeast Asian reseller",
    "outlets": 4,
    "topics": [
@@ -3686,82 +3623,6 @@
      "source": "Decrypt",
      "type": "news",
      "published": "2026-10-09T15:30:36+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Dragonfly Partner Rejects\u201cBunker Mode,\u201d Urges Proactive Blockchain Security",
-   "outlets": 3,
-   "topics": [
-    "Bunker Mode"
-   ],
-   "items": [
-    {
-     "title": "Dragonfly Partner Rejects\u201cBunker Mode,\u201d Urges Proactive Blockchain Security",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0g1T2hoQVNLdnVCaFhXM1FzVDl4c3BQeC1LRUxXT1ZJMjd4cUR1NGt5bzBEc3V3enJtTjROWF9nQWZ3Y3VTSUdlc1lZTG5xejg4RndlUmo3dGp5bldKb2M5enRiWldoYmVyODZhUkhtREVLREJNT09yQzUyOFdqREdnR3VFUmFRa09YQUhGSmlmWW8tYzFEcDZ5X1U0bXNqWkZ3Ug?oc=5",
-     "source": "Menafn",
-     "type": "news",
-     "published": "2026-10-10T10:45:08+00:00"
-    },
-    {
-     "title": "Dragonfly Partner Rejects\u201cBunker Mode\u201d Doomism, Urges Proactive Crypto Action",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0kzUzRzeWJOYVlWeG5nSEZHUEJ3dDhTcmtER2Uya2lNa0l0WVFOZExOQWFJRU92S0JDbDlGdkJvMDhBTWFwYkVVNkE0bG5IZ3hUT0R5VGpiNC1BVjc3SWdORTIwYVEtYU9kZGMyeV9jQ3NEdWhYM3JJV2NONVVXU2hYUmFhc2xTOU9IQ2l3UUlPUlBnOHJZV194MXpzZkRaNE5KTzhJMA?oc=5",
-     "source": "Menafn",
-     "type": "news",
-     "published": "2026-10-09T15:30:36+00:00"
-    },
-    {
-     "title": "Dragonfly Partner Criticizes 'Bunker Mode' as a Crypto 'Doomsday' Solution",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVm9kN0IxZnVYYjI1VnJiR1B2VjBveTBjTUdtZDhxZ1RndldoUEgwRmV6VExQVzBuQjJyV1lRLVlRTGpWUWx1SFBZS01QMDFaa0xDMGtxb2NQRmE3TEJfV1RjZXlYQXFKNWZHT1ZIVU1Wbl9FRXI0Wnk5b09rbjd1Q0RGNlE2MjBIMGNHV0hCRUNTSVJCanRzUUhmaHZKYTc0cW8zRA?oc=5",
-     "source": "KuCoin",
-     "type": "news",
-     "published": "2026-10-09T14:22:59+00:00"
-    },
-    {
-     "title": "Dragonfly partner rejects \u2018bunker mode\u2019 doomerism, calls for proactive blockchain measures",
-     "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-09T13:49:22+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Ether leads crypto rebound in Q3 2026 with 71% gain, outpacing Bitcoin and Solana.",
-   "outlets": 3,
-   "topics": [
-    "Bitcoin",
-    "Ethereum",
-    "Solana"
-   ],
-   "items": [
-    {
-     "title": "Ether leads crypto rebound in Q3 2026 with 71% gain, outpacing Bitcoin and Solana.",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjZ6clFXd28zSzBfRzMtWVlMUlEzWDRzdm1XaC1fQUpjTmtZamxGOGlHRGZ6QlF6NDBCSTVVZ0RVTk5HN0hSZE9ha2JDcmNBRkloZEJmRWhKTmFhVWZ1UmdoMHZ6MjFrc2JUUzFYdm4xandfVkdEMVVFYTY4UHJ1aTlCcl9oZDZtUzhzLXY2UWh4bFlCWDlZaFUyZlFmdw?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-10-10T10:44:13+00:00"
-    },
-    {
-     "title": "Ether Leads Crypto Rebound With 71% Third-Quarter Gain",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xb0REcFJPaElqVFlDVE1pSzlUNUtSWF9nSlduYjZyQnZfUjF5SG5aQnM5OVBNbTBtS0tvZkVCdjdZYnNTN3dpTVNJTVFKS2JHMXJzOFlONDhydw?oc=5",
-     "source": "www.tokenpost.com",
-     "type": "news",
-     "published": "2026-10-10T10:21:29+00:00"
-    },
-    {
-     "title": "AERO Rallies 48% in Four Weeks, Outpacing Bitcoin and Ether",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb05TZUdoc0NQQndyc2VYZXJOdmUyMTBKTjQ0ajl0QjJaWVdtQTI5OE9qTE1kLVFjUi02WFNuT2lBUGxsRkl4WTZxcnpfRnBqT2RfcTMwYnVSZ0sxVzdqaGJ3VXhnWGpGamwtVElpM3Q4ZElhSl9nY21YZVNNYkpmWUhEeW4wa09xOEhydXduQXdZSlRkSWcw?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-10-10T09:37:41+00:00"
-    },
-    {
-     "title": "NEAR Gains 83% in Four Weeks, Outpacing Bitcoin and Ether",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQnR3ZXc4LTM2UWVaLS1HdXROLVdpWm1LQ3F2ZTRaQ3p1dHR5bkFaX3kyM2V6dVFlUFUtd3ZYR2NVSEtINkMyeF9XSnNVajJMYmxVcGIyZ1BrTERKckZ4ZG9CanBkRnFXOTluS0l4clJzc1NIa29ld1Z5UEdnWGVDM2hheVlFOXlpZEhaR2swNl9lZzU4?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-10-10T01:52:46+00:00"
     }
    ]
   },
@@ -3804,6 +3665,36 @@
    ]
   },
   {
+   "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+   "outlets": 3,
+   "topics": [
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "France Stablecoin Tax Push Stalls as Assembly Committee Rejects Budget Revenue Section",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzMXhGQjZtUktUUFRTYkpUaW5aVWU4aFdIS3R0MXB2LUJIRVZxMXZQT0NUQmY2ck9Va05VX05uX2xucHB0clIyWDBVR0NDNlIxdWlUcQ?oc=5",
+     "source": "bloomingbit",
+     "type": "news",
+     "published": "2026-10-10T14:03:17+00:00"
+    },
+    {
+     "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+     "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-10-10T13:01:03+00:00"
+    },
+    {
+     "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+     "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-09T10:16:48+00:00"
+    }
+   ]
+  },
+  {
    "title": "SpaceX Starlink Mobile spectrum deal hits telecom stocks",
    "outlets": 3,
    "topics": [
@@ -3834,7 +3725,7 @@
    ]
   }
  ],
- "headlines_served": 822,
+ "headlines_served": 857,
  "trend_candidates": [],
  "baseline_days": 1,
  "sources": {
