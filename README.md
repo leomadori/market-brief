@@ -24,7 +24,7 @@ Only headlines and links are shown. Every headline links to the original article
 
 ## How it works
 
-A small Python script (standard library only) runs every morning: it fetches the feeds, drops duplicates and spam, tags headlines by topic, detects trends, groups stories, and publishes this static page to GitHub Pages. This repository only contains the published page and today's data.
+A small Python script (standard library only) runs every morning: it fetches the feeds, drops duplicates and spam, tags headlines by topic, detects trends, groups stories, and publishes this static page to GitHub Pages. The script is [`fetch.py`](fetch.py) (read-only: it never posts, votes or stores user data). This repository contains the script, the published page and today's data; settings and history stay local.
 
 ## Changelog
 
