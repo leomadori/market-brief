@@ -50,4 +50,4 @@ A small Python script (standard library only) runs on a schedule: it fetches the
 ---
 
 *Headlines are aggregated automatically. Not financial advice.*
-*Image: still from* A Clockwork Orange *(1971), © Warner Bros., used for decoration only. GIF:* The Warriors *(1979), embedded from Tenor.*
+*Image: still from* A Clockwork Orange *(1971), © Warner Bros., used for decoration only. GIF:* The Warriors *(1979), originally from Tenor, stored here.*
