@@ -70,6 +70,10 @@
   .fng .dot { position: absolute; top: -4px; width: 6px; height: 14px; margin-left: -3px; background: #fff;
               border: 2px solid #000; }
 
+  /* "Can you dig it?" GIF, loaded from Tenor; kept small so it doesn't dominate the page */
+  figure.digit { margin: 14px auto 0; width: min(280px, 80%); }
+  figure.digit img { display: block; width: 100%; height: auto; border: 1px solid #000; }
+
   /* Pull quote */
   .quote { text-align: center; color: var(--red); margin: 22px auto 6px; max-width: 760px; }
   .quote .q { font: 600 clamp(20px, 3.4vw, 30px)/1.25 "Gill Sans", "Trebuchet MS", sans-serif; }
@@ -186,6 +190,10 @@
     <div class="fng" id="fng" hidden></div>
   </div>
   <div class="dateline" id="updated"></div>
+  <figure class="digit">
+    <img src="https://media1.tenor.com/m/3Z5Th0Fq7rAAAAAC/the-warriors-can-you-dig-it.gif" width="498" height="196"
+         alt="Cyrus from The Warriors asking: Can you dig it?">
+  </figure>
   <div id="quote"></div>
   <div id="stories"></div>
   <nav class="tabs" id="tabs"></nav>
@@ -202,7 +210,7 @@
   <footer id="footer"></footer>
 </div>
 
-<script src="data/latest.js?v=20261012090727"></script>
+<script src="data/latest.js?v=20261012101624"></script>
 <script>
 (() => {
   const D = window.DASHBOARD_DATA;
