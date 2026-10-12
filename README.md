@@ -6,7 +6,7 @@ A personal, late-90s-style dashboard of market and crypto news and Reddit chatte
 
 ## Market Brief (news)
 
-Updated at 10:00 and 18:00.
+Updated at 08:00 and 18:00.
 
 - **Topics:** Stablecoin, RWA (real-world assets / tokenization), Ethereum and Bitcoin, each in its own column.
 - **🔥 Trends:** terms that suddenly show up much more than usual (e.g. *Solana*, *OpenAI*) are detected automatically, get their own column, and fade after a few quiet days.
@@ -39,6 +39,7 @@ A small Python script (standard library only) runs on a schedule: it fetches the
 
 ## Changelog
 
+- **2026-10-12:** Market Brief morning update moved from 10:00 to 08:00.
 - **2026-10-10:** Reddit sources tuned (inactive r/SatoshiStreetBets and r/altcoin replaced by r/CryptoMarkets); safeguards so a slow Reddit run can't hang.
 - **2026-10-10:** Reddit Boiling Point page (Altcoins / Stocks, ticker heat ranking, recurring threads filtered); Market Brief is now news-only; "Go to" menu; news updates twice a day, Reddit three times; term counter counts each headline once.
 - **2026-10-10:** Live price ticker (top 20 coins, no stablecoins) and Fear & Greed gauge; README added; headline-counter layout fix on medium screens.
