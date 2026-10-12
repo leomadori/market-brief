@@ -564,7 +564,9 @@ def main(mode):
     state = json.loads(state_file.read_text()) if state_file.exists() else {}
     first_run = "seen" not in state
     status = {}
-    cutoff = NOW - timedelta(hours=cfg["settings"]["max_age_hours"])
+    # News: nothing older than a day. Reddit's login-free feed lags hours behind, so it gets a wider window.
+    max_age = cfg["settings"]["reddit_max_age_hours" if mode == "reddit" else "max_age_hours"]
+    cutoff = NOW - timedelta(hours=max_age)
 
     ex_sources = {x.lower() for x in cfg.get("exclude", {}).get("sources", [])}
     ex_titles = [re.compile(x, re.I) for x in cfg.get("exclude", {}).get("title_patterns", [])]
