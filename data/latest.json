@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T08:31:33.034179+00:00",
+ "generated_at": "2026-10-12T08:34:00.943134+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 25
+   "item_count": 26
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 18
+   "item_count": 19
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 32
+   "item_count": 33
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,37 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 42
+   "item_count": 45
+  },
+  {
+   "name": "DEFI",
+   "kind": "core",
+   "aliases": [
+    "DeFi",
+    "decentralized finance",
+    "decentralised finance",
+    "Uniswap",
+    "Aave",
+    "DEX",
+    "Lido",
+    "MakerDAO",
+    "Curve Finance",
+    "liquid staking",
+    "yield farming",
+    "lending protocol"
+   ],
+   "item_count": 7
+  },
+  {
+   "name": "XRP",
+   "kind": "trend",
+   "aliases": [
+    "XRP"
+   ],
+   "first_seen": "2026-10-12",
+   "count": 11,
+   "ratio": 11.0,
+   "item_count": 32
   },
   {
    "name": "Ledger",
@@ -61,9 +91,31 @@
     "Ledger"
    ],
    "first_seen": "2026-10-10",
-   "count": 14,
-   "ratio": 3.5,
+   "count": 6,
+   "ratio": 6.0,
    "item_count": 26
+  },
+  {
+   "name": "Sui",
+   "kind": "trend",
+   "aliases": [
+    "Sui"
+   ],
+   "first_seen": "2026-10-12",
+   "count": 5,
+   "ratio": 5.0,
+   "item_count": 24
+  },
+  {
+   "name": "FSB",
+   "kind": "trend",
+   "aliases": [
+    "FSB"
+   ],
+   "first_seen": "2026-10-12",
+   "count": 5,
+   "ratio": 5.0,
+   "item_count": 7
   },
   {
    "name": "ETFs",
@@ -74,7 +126,7 @@
    "first_seen": "2026-10-09",
    "count": 7,
    "ratio": 7.0,
-   "item_count": 27
+   "item_count": 28
   },
   {
    "name": "Solana",
@@ -85,7 +137,7 @@
    "first_seen": "2026-10-09",
    "count": 6,
    "ratio": 6.0,
-   "item_count": 19
+   "item_count": 20
   },
   {
    "name": "OpenAI",
@@ -108,42 +160,20 @@
    "count": 5,
    "ratio": 5.0,
    "item_count": 22
-  },
-  {
-   "name": "SpaceX",
-   "kind": "trend",
-   "aliases": [
-    "SpaceX"
-   ],
-   "first_seen": "2026-10-09",
-   "count": 5,
-   "ratio": 5.0,
-   "item_count": 24
-  },
-  {
-   "name": "Bunker Mode",
-   "kind": "trend",
-   "aliases": [
-    "Bunker Mode"
-   ],
-   "first_seen": "2026-10-09",
-   "count": 5,
-   "ratio": 5.0,
-   "item_count": 3
-  },
-  {
-   "name": "Trump",
-   "kind": "trend",
-   "aliases": [
-    "Trump"
-   ],
-   "first_seen": "2026-10-09",
-   "count": 5,
-   "ratio": 5.0,
-   "item_count": 22
   }
  ],
  "items": [
+  {
+   "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+   "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-12T08:32:17+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "XRP"
+   ]
+  },
   {
    "title": "Crypto Liquidations Explained: Why Ethereum Was Hit Harder Than Bitcoin in the $1.19B Flush",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEVobFhNbmhSNWJVRllZUmtjb2JwOVBxeWlQTDFVNWFxcjlBTFRackRaZ2pPUXNZQzNfR0Mxd2RaUXdzODdJQktJN3I0NWMxVkk4aE5VWEJUdXQtbTJvQnRaSWdFdUJjc05tSVBub0ZYTy1hOG5XajEzWkVHa2xHYkF0bW5GdHEzOUM4T0dDTXBCLWRlU1RodGpRTnozblRrUmtmNHk1clA5VkU1VlFrVlpn?oc=5",
@@ -175,7 +205,8 @@
    "published": "2026-10-12T08:21:48+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "FSB"
    ]
   },
   {
@@ -212,17 +243,6 @@
    ]
   },
   {
-   "title": "Top Analyst Calls Elon Musk\u2019s Next Starship Flight SpaceX\u2019s \u2018Biggest Test\u2019 Yet \u2014 One Launch Could Replace",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTm9HdDV3cHZYcUNGbVFDLWlVZW1DOHNwVnNEWFlEclplTGZIX2ZNdTNrSXlhY1o0Tlg3QmRBdmpNMW1qdXpIeXcxNWRWcmlnZFdRWWlkQy02VEhDTzlHdGQ4TTJMN0pPNE12eEF6YzIzcW1WSGFJN0ZlRXBSc0t5LWkxa3FyN2J0em9ST0ZUWlBnQkR2T3l6a0V0ajhONWUzYXlyZzlRZm9PZTZNMmp1bHVDbXBGWU9zR2JRSHY1ZWNCTmNGMTRvTER6dDZ0V3JVUm9tV0NYY0pSRm9WZlRJRFhSOUh0cDM0WGQyclIxZFlqRGVjYzluSTY1d3ZWbU5sOFFXLVZtem5HUWM?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-12T08:03:47+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
    "title": "Bitcoin Treasury Companies Face a Test Beyond Holding Coins",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2p3ak5teFpjS25nUGUwQWY4NE9FaFVEejB4WFNEa2FROEVrdmV3VXQ3Qk9rbXR4ZXQ2V2FxM2c5dTIxdGhJWFc5ZzZlSDFYeWJkeEkyMG5oNGlWQlNhZWttLXlYZEttdXVNV285ODN5Q2l1V2ZIYnpEaktLaDFxSVhsOHAzM2JXcTV4WVZZSWxmM2Zadl9ZTFJPWHZqODlNX2c?oc=5",
    "source": "Global Banking & Finance Review",
@@ -256,25 +276,36 @@
    ]
   },
   {
-   "title": "AUS, NZ Telecom Stocks Drop Following SpaceX Spectrum Acquisition",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFIzemg3NHAwVU4yQ1BHRVNEcTVxTm1GU2NSQ1dnYk9rWlZCZHQ2aXBiYk1DZFAzSkQwQzRCWEZreUhBb1pRTnZid1RiWjV0bmkxMG9tSWZSOVozWE5hOHd2Y0FsZXdYMDQ1UUpELTE0RTVWSllHNzRwWDgwSnQ5OHp5Z1llZ0R6UVpPZmFvMm5UOU1pU3pGZVdlVFhIdV9oeHhqSmZuRG9TQl9JRl91eVpnNA?oc=5",
-   "source": "Electronics For You BUSINESS",
+   "title": "XRP rebounded as Binance spot turnover fell nearly 80%",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX1ZXaERwQnJsX3BLaF9JU194RVA0aG5BcF9JV0tKS0lBOTRxY05tNzByV0NJdU81a0RHSWpzTGlqc1pjZ3FTSnBMZEE1STZJc2JrRGdrdzhINGhwU1dpSHduSFo2TzJBWjhNMjZRVDBBTlFvNmcySDltUXFVZWtXQjVVb19DWTNKVF9hemhkWmlORTJTYjQ5VFMyXzlwTzZmbG1FN2V0SmpnRFVTREtWTlFUMGwwbGZwR3RTU2MtY0FmWm8?oc=5",
+   "source": "CryptoRank",
    "type": "news",
-   "published": "2026-10-12T07:45:29+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T07:45:28+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "SpaceX"
+    "XRP"
    ]
   },
   {
-   "title": "European stocks inch higher as Trump\u2019s Russia-Ukraine ceasefire softens crude",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTRrdXVnbElFRmx6TlNRQ2cwX1EzVUlZNjBRMTJOT3lmbFlSdVliMktva09ET2Yzc2ZFQ3JRcHBlNGZTWHNkbTVGb3p5NW94ekJCU0NFaUN4ODNpSC1IN2dMVUYyS09QMGlIQ2p3MmNZcUdzY3JzU2pNaE9QQWFSWllQajZwUm5VR0N5cDI5enJobW40SWxFSUhraEJnZTA?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Sui Makes a $30 Million Move for AI: DATA Network Shuts Down Its Own Network! Here Are the Details",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xcDJObHZPWVVzZnA4ZjBFbHhfclhuTGh2RURXdGx5OWtxVGdJUGhqVlp2M25jeTRtUzFtUVFHdTBfZDFLMk1UT2JhcDAwTUdWQ1piY2h1MDVrUQ?oc=5",
+   "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-10-12T07:44:25+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T07:41:52+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Trump"
+    "Sui"
+   ]
+  },
+  {
+   "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol moves to Sui: The Block",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05SVoxeDRoei1yeHE0cDBpcFNBRzdwdHdObXRTVHhQZXlpZ0pSRjd4d2xrcHBLUzhjVm83ZnM0Nm1zc2RCX083RlUxNndXLUFCMTlTaFpHUUZvWDBMM3BiR1NlbFBhRFc4Wjg2Q0t3X2FLN0dtbGptM2pZWDc?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-12T07:36:40+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
    ]
   },
   {
@@ -285,7 +316,8 @@
    "published": "2026-10-12T07:36:14+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "FSB"
    ]
   },
   {
@@ -311,17 +343,6 @@
    ]
   },
   {
-   "title": "Telecom stocks in Australia, NZ slide after SpaceX spectrum deal",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajFpQm1yQTNQelVjcWZoYzl2Y3I3T3g1RFZxc3RQazNndjh1cV9qeDJJeUVRQ21JVTVnazMzZnM2YUIwT29LZ2FTYXJSeHVQSmFIOUJKTHJhTmJmOVJmVTA5bkR3MnRIT3BuTjFUMDE2WWphaHBUaU5TTkF2X1Ntc3BveWR6ckxNOUFlUlE2a1JmaXVTTmNkVVItd1VtTzNMM3Y4RHU2YVBXNmttdFo2ZVVER0ZXRllLVjRB?oc=5",
-   "source": "Reuters",
-   "type": "news",
-   "published": "2026-10-12T07:31:33+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
    "title": "Uniswap leads stablecoin trading with 47.2% of $161B volume; tokenized stocks hit $2B on Aerodrome.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHd0UkNOYlJzbFpfOGNCbHBaSDRaZ1d1S2ZfYXN5aXp4YkRERzA4UzNxeDNmeFNzOXlTNWJROVNEbXk3MGNGSmJyMjAyeXUxRGVCRFhKNnBHWmZiVkRzbEQ2bXhmY2g0Z3FQc0hMN3lXTkZ6TnY4OFlKdkQ5bDRtQldtRmkwVG5yNXpDOXczNjlFMGZCUTZDTzVYMDc3dmVKejlnNk95WTdvUQ?oc=5",
    "source": "Pluang",
@@ -330,7 +351,8 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Stablecoin",
-    "RWA"
+    "RWA",
+    "DEFI"
    ]
   },
   {
@@ -356,17 +378,6 @@
    ]
   },
   {
-   "title": "Tether News: Stablecoin Payments Face Fresh Scrutiny as Remittix Tests Crypto-to-Bank Transfers",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR0dpRC1JSTBRbzVFVnB4RWNONG54eVUtV1F6blpkTGdBendreEdmVmFhcUZ4WVB5cm1tcE50U2JHYTAzblhYTW01YmZ6N1lHT0FBREktQ19xdk1EbkFyRkZ4YU50ZGliTzhKdUw4MUhsSmVSUG9RY21vS2lFeW9zbVpEYkp4c2hmMGMyQlhQc3Z3MTdRanJjeHhyeFZiZmNTQVdZZzliTW45MGZqRkhyRXctT2ZScVRwdFp0dWpOSnVmaGU0TUswMGJadEU2RW1uOXM2TF9OQV9lajkwR0RhR25qaU9ib2dQbE9hMktn?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-12T07:07:30+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Ethereum Price Prediction: ETH Could Dip to $2,300 as AlphaPepe\u2019s $2.95M Presale Approaches Its Next Exchange Reveal",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSUktWmJrVzNYVmtsa0ZRSnc3QWk5MXJfd3BKX3RDalMwcXZNZzF3SWVFSklXem5JOVEwS0F2M1pGZE4zX3VDX2d4ZjhBN2dudTlGYllkaGFwQXdjNDQ1U3U0VUdMZDVIcHRad0Z2VXYyWkJ4OEljQ25sX2twamZVOW5GaFlYczZaRTBkckhHMldadmhMR0FFczdLVHNUVlpfckFPam5TT0U0bW1CNHpER1VOUTVSbkt2SGZJSTZ3b1VoMThNUUx3eUQ1aWpzek9SemdhMmVRdlhtTEFFaTcycVhCdUg3Rm1ZTGZ2c0k5bFo0UTJYS3p4cEgzeFNhcGNLeEFvUk9oZlJPX3NHZzdkZ3ZlWVFJQ3RHVUdqTw?oc=5",
    "source": "StreetInsider",
@@ -378,6 +389,29 @@
    ]
   },
   {
+   "title": "Best Crypto to Buy Now: Bitcoin and XRP Face Major Resistance as Remittix Targets a November Explosion",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUHAyWTBkR3NST2FmcVhjV0lTZGV3N2FiQVRpUDd3RGFnVk1HaWRvY0hoa0x4VWtIaFlMcTFONzVBX3pCZnQzbkRLd1JlRWJtSXhXZWxZMWlVN2hoNWxGSmplMUdLWkZ5SjNOT3lvbGtlWUtXeVZ3UWZFcmlFaUVDam9VbXh0N0lXYVlzeTMyWi1KcGVWaTlBNFB1RlhFYlRiSEE4Nk14OFlhWUdBTGdiUXV2RFhCZUJ4bWVzMVJiRk9PSk92dVNlNll3b3BtcF93N2ctUEZiLW1kZFk5eU5HRERYVzZ0TEJRX1JEN3NHS05QM21yVjlN?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-10-12T07:07:30+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Bitcoin",
+    "XRP"
+   ]
+  },
+  {
+   "title": "Sui Foundation Investment DATA Accompanies Network Migration",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOclJ1azA3TWptbmx1aWFGaDdITHRrUTQ3N0p3NVdmdy1hQ1lfMXBnOXlPOHBzS1dHOUhhZzRLMG1GcEtNY2NuaUczaWZkcWF6U1B0WEdHTkZhVDlKLWlpTjBKM2dncjRHRC1WdkE0V0V2dlh1dERidA?oc=5",
+   "source": "The Cryptonomist",
+   "type": "news",
+   "published": "2026-10-12T07:07:10+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
+   ]
+  },
+  {
    "title": "FSB Warns G20 of Stablecoin and AI Risks",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40S2lhaDh3WUZKLWctejVKWWV6czJ4aUJQdS1tdFBYQnNVSTd0OHdvVFRUaVZuVlIybHY3R3N1SmJMXzJSNFdqVWtfSkhkUmw4SWF0cmczdjJ5X2VPM0lwUm1MZzIzQWp3eU5EWWNqenR6YllMMWUtN2JHNEpQR2M?oc=5",
    "source": "KuCoin",
@@ -385,7 +419,8 @@
    "published": "2026-10-12T07:04:01+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "FSB"
    ]
   },
   {
@@ -431,7 +466,8 @@
    "published": "2026-10-12T07:00:11+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "DEFI"
    ]
   },
   {
@@ -479,6 +515,18 @@
    ]
   },
   {
+   "title": "FSB Warns G20 Stablecoin Gaps Could Spread Stress to Traditional Markets",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iMkk1ZURMYl8yRlZUbHM2ZlIxTUdEbm9tcnlSWVYzVUNQZDdJM2FGa2k4SGdrc0lMNTJsWVlTZ3R0SGx5U3ROOGxuUDBzYTJCTU90OV8waURMSEk?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-10-12T06:56:33+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Stablecoin",
+    "FSB"
+   ]
+  },
+  {
    "title": "OpenAI revenue shock drags Korea stocks lower as foreigners sell - CHOSUNBIZ",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXF0UDhoQWtDNHAwNi1nOGtGZ0hzWmZoWTUxcXg4LUoyZjViaHhGc0pBT0h4WHFqcFprNTVHWkVTSXV5SkM5WEJMdGJ2NlgzSEVqTHJfcDNFTTNsMFNVdEVNSXY0anc5V05MdTZuR0hyMkVubF9fT3MxWmVKbXphWdIBlAFBVV95cUxNRXU5Q0xLU1R2ZWstMTFYTEJ3YndPMXl4dUNzZFpmTzBOQ2RacXpORndCdUZqcFRyU1NzelFHd2ktOE80dkl2dnM0dzZ0U0laZHdWWEI5TGNMMHlpa0tNZGdsQk55QW5hUW9kV2FqYlFFVkZQY2hyaDNQN1BtS1VpaWJZLXBCN0dQU05hTllhVzNLd2xI?oc=5",
    "source": "Chosunbiz",
@@ -508,8 +556,18 @@
    "published": "2026-10-12T06:54:58+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "Bitcoin",
-    "Trump"
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "DATA Network Moves to Sui With $30M Foundation Investment",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGpBU3dvd3BHdlF6dDZjZ2RnX2JmcDNGbGtVUWUyU1hmc3gwQXU0d2c3MnJoeTRrT2RKLVhzeDdaazJyOElRRjUtUnRWUHZ6SDNvSHpxdy1IdE12b1NGaTRqWW96VjFpZ2tiR1dSYzVJOVlJSWdvUi1abWxRN0loZzJPd0ZHUDVGLTdPNnc2MDNGdjJEeWNnc3ZnVQ?oc=5",
+   "source": "The Crypto Times",
+   "type": "news",
+   "published": "2026-10-12T06:51:31+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
    ]
   },
   {
@@ -524,17 +582,6 @@
    ]
   },
   {
-   "title": "ETFs Investing in Wilh. Wilhelmsen Holding ASA Class B Stocks",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03YWs4djJfallpM0xoeUR6MElLb3d4bmg4M1dQR0VvX1pMV0xzTWQwb2N1cWp3T3VwelFIYnphcjJOUGtqUzFJM1lNdkQxanc4azdGT0hfRVN5YTJ1cjFJ?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-12T06:49:29+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "ETFs"
-   ]
-  },
-  {
    "title": "XRP News: XRP Ledger Foundation Clarifies 100B Supply Remains Safe Amid Security Fix",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGtHQ0V3YmNIRnJJY3ZndVlZTUhESERqNlZCX2I5QVVqUDRxb2hTdmR4c0FrejZkOVliVmhEZVdxMU0xejJjWUlpNjI4b19oMTZGZzV3RklKSTB2VFh1aFZCcW1OeGpsWURMcXRiSnVyUzBrRnVLYTBZbUtPdThicmVXS2hNUmlGTE5YTVozQ0xBbF9fb21icE1VTXczNVJWNmlOSk5SWmQ?oc=5",
    "source": "CoinGape",
@@ -542,29 +589,20 @@
    "published": "2026-10-12T06:48:08+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
+    "XRP",
     "Ledger"
    ]
   },
   {
-   "title": "Jeonbuk Bank becomes first South Korean lender to offer Bitcoin backed loans",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUWtPZmxEVWJsaWNlUm5Ddi10c1dnUEFJSTFZZUZLeV9aV0tWZ00xSXdhYjJFaDExMWtOV3VKaUhoVnloUy0zWURFd2kzQ2s3WWgzak5QR3FXMzJ4NGpHNnIzSEtPMlZHdVp0ODEzMEJ1Y2JMTWVMdjhzTFozVDI2SW9pVmo2WHhsOHZCOFBGZkZtZWpZTUtBdmk3WmRlZw?oc=5",
-   "source": "Crypto News",
+   "title": "FSB warns of stablecoin, AI risks ahead of G20 meeting",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXhIVjFqMHM2dEhva0NNRWtCRjYwdG9lcnlrZlBuWEpnaXVDMnhvbXBheFI3ajFiMHV1Smo5eFlpMUVsbE1YMERQdFpoZkd0Q0tsaDdsZHgyM2NyV1E5UFFSLWJtdFJBdHZ2WHE5cnJuQmF6OVY2M3d6d0t1TEZYdXBIT3NYQzl1Z3Z4Wi05LWF0dms4Y2c?oc=5",
+   "source": "Traders Union",
    "type": "news",
-   "published": "2026-10-12T06:47:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T06:42:19+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "\u2018Ukraine Wants Peace. The Question Is Whether Russia Does\u2019: Zelenskyy Welcomes Trump\u2019s Energy Truce as Cr",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNHdIZm9kaHUtZ0kxTThCTVhhVWU0MzhaY2ZTN0tTTzUzUHRaX2hJRVVRc0ZIdkgwYTdIV3J4QllZOGxQd0tTMEx2ZVRGN2tDeHVhVmlydmJHSXZCWXVzYlZkTWVyVzB2WFpiWlNPbkNPQjdVR2szU0pDQjZHOWNoVmJkcFZrb1VYdmhOTUd4S0dQdXp4dzFsZ0RQanNaUENLd1JXQjk5SFUxak9rdC15UkJmUXBoeVhJWElvckhMQy1Odlk?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-12T06:44:54+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Trump"
+    "Stablecoin",
+    "FSB"
    ]
   },
   {
@@ -576,17 +614,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Trump Says Russia Will Immediately Supply 300 Thousand Tons of Diesel to the US and Global Markets",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9mVWtYQjY1SEZKbkhPalhtT0dBVWphWGs5cnZnN3lBdHJDVWtfZEtITVNxYWJKRTdRS1FMSG00WVJfT03SAUJBVV95cUxQZ1FrUFFUaUNUT0hPQmVseTRoX1FGYkpqQVN4Y1Nla254Szh5UUtYS3YtYUJQZzZwS2laMkdFcWd3LXc?oc=5",
-   "source": "VOI.ID",
-   "type": "news",
-   "published": "2026-10-12T06:41:40+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Trump"
    ]
   },
   {
@@ -641,6 +668,7 @@
    "published": "2026-10-12T06:29:17+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
+    "XRP",
     "ETFs"
    ]
   },
@@ -664,7 +692,19 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Ethereum",
-    "Bitcoin"
+    "Bitcoin",
+    "XRP"
+   ]
+  },
+  {
+   "title": "ETFs Investing in UNACEM Corp. Sociedad Anonima Abierta Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHWldaS1BxSlIxMW1RR3ZBRF9BVVhybG5LUlhEbXVISFVseldIZE8xWGo3MmpqdWJ6bnhWMXVyNnVEU0N4VnU2dlVUMjlKLTdILUYwYjc2SUI1U25RSVp2dm5YMGs?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-12T06:22:34+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "ETFs"
    ]
   },
   {
@@ -734,6 +774,17 @@
    ]
   },
   {
+   "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What\u2019s Next For The Cryptocurrency?",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOUJyQ3lCYktCckk1TmNmdk9LQ1ZuNEQ4OWhyUXNuNHlaUEJjUXNDTXMxdWZ4V21fZw?oc=5",
+   "source": "WSJ",
+   "type": "news",
+   "published": "2026-10-12T05:42:55+00:00",
+   "first_seen": "2026-10-10T08:00:05.449801+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "AI Trade Wobbles In Seoul: OpenAI Doubts To Foreign Selling, 3 Factors Dragging Kospi Down 3%",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmtlbkszM2g4aGUybWNZZGlsbEp0TVRLdFpKM0IzeG51Mjc4RDc0VlJWS1pLZlZ2cTMzay1odmEyMF9qdDZ2cmtNMjlPTHQwOGl3NlFlREQwTUpwb19KYVNGbkZJcm1tTUJMRDEtcTBpTTVjLXpEdHhKRzdhT3VORnVKZVhxclBPNVgtenlRcElaZFdZQVlGaWZiVFp6Tmd2bWh5R3ZjS3d3N1VsZmhPOG42NFJFc1Nyd3dfRGZULTNuSkNhakkyN255QkNnN2_SAdcBQVVfeXFMTkw1d3VvNTc0Nmh3UjhfMkNpYzRkMXNWTmo0RnNHV1JwV051QWMzSnlxTlFFYUNIcWgwWEVCVk0xaGowYVdDS1VLUjRQSzB3c1ZGNWUtMWF6ejVsU2lXUjc4SVR4S0lyVm5CY2pJZm5uSWVRM0QxaERacjMyREwxbTd2dWVMbW1jMW1GU2FUeXYxaUo2b25sb0NNMDNiZUp4SkM1UkhNWHZWRXJZUVpqMWRiWmt2U21ha1oxSzF0Sk9MMGNsTmVtVUR5X2lQMGk1SVh5d2NOQWM?oc=5",
    "source": "NDTV Profit",
@@ -757,6 +808,17 @@
    ]
   },
   {
+   "title": "FTX's old Bitcoin-mining infrastructure gets a second life powering AI",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZUxvY3NhdHY2SDZHVGxLcEhfd0trWWVNTGFpTE9GamNaYUFtUEJLcEJJQ0hncEFqa3RGQ0tfYUpsWmhISXEyMmtsbFlVVFhOUkxXRzNjWHAxTFJvT3UxRC1lS3U1ZDEzSkJvUVdKVWVEVkJZbm94MU9ucDQ5LXdqMWJzemZKTXBHTEh5M0dLdU11LWxwZHNVYmdadnpPa3NHZDRzMWphelpmSzJiSTJKUXVzeHF2aGNoSHVqVXEtZU1YbHI2am05ZDNyRGZtVXRx?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-12T05:38:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Pando Finance launches second Solana spot ETF o...",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajBtcGRQaWZaWmdEdklmM0xKVFVocEtDdzVnSHMzZktrY2lGX1NXbDJvYTNrQWxlMHpBREFLU3RUekp0S0dVbnR2SnFGbVdIYmZCd2hhbXFoaC1LcFF1emFGWFJSV2JHbDBLTlh6TG5JMUw4R3hlNTJ1eHY2ZjluSWdNMmx4cmdw?oc=5",
    "source": "Pluang",
@@ -768,14 +830,14 @@
    ]
   },
   {
-   "title": "Stocks rise as oil falls after Trump declares \u2018energy ceasefire\u2019",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTdCWHU0M0FYN1hhY3MzekFMUmJoMzloREJwV0lEUVNxTlhkN2xvbFJqazdWYk10NjZkMnQ1dnN6cnVDV3M3WUhzWnY4N0NYZldXeXhyam13YWxKV3JsMm1lTExlMWFzblIxczVKRHFwSnRSbVNMTDYzT1A4aENCYmcyLTJ2VlFENzNsLWlNdzNPalNPbS1kcTFzODFfaFZQMjRlbGpjNTBHdFpxV2p30gGzAUFVX3lxTE1sWmJSTllFMFV1ZUNDeGNXUFA1cGlra1VvSTNfSlJLckdqSWs0SDZrWkRMcmJRazk4NTd2UUJCVzNPN2hNc1VNX3k3R0lENFRVMktQbm55SFlMR0U1cWxBLUJDeTIwZDlidFpBeTJ5cXVLOWwtUWxyVWhOaEtVWHF2X0dkVHBEajlPWTJSNmY0V29aRkd4S2N5bEI1Q1NzREhqaWtrNkV0cGh4LWJzR3Z6TVM4?oc=5",
-   "source": "Kuwait Times",
+   "title": "DATA Network to migrate to Sui, retire own chain",
+   "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
    "type": "news",
-   "published": "2026-10-12T05:06:41+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T05:15:43+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Trump"
+    "Sui"
    ]
   },
   {
@@ -798,6 +860,17 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGN0Rjk4akNVdWc4dWZUTWt0b2o5X19GXzk2OWJnQ1B3QkhFcTBLMHBvMm9qRFhrTmU5VTJrRGF5R2FPc0FWM3pvREZFaDNLNzVpMnhNeGtpelA2Q0U2MVNWcE9rV3l3NEhSczJCZVJUSjJEZF8xOXdCbUNJbnFZZnhpaHZFeTAxZVlNZlBEdUdyMUtlT2VaN09pQUVnY0luRUdDVjIzMHg1Zw?oc=5",
+   "source": "CryptoPotato",
+   "type": "news",
+   "published": "2026-10-12T04:47:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
    ]
   },
   {
@@ -846,14 +919,14 @@
    ]
   },
   {
-   "title": "Asian shares are mixed and oil prices fall about $1.50 as Trump says US will buy diesel from Russia",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONGd4RktHcks5YVlJbHhtclFKUzFjNUdSMVo0T1l2RmxXWUpWNUFxY0ZLUU9sV3VLRm1QLWY5NW1MOWFkYW8zbHdzSWIzWHY2MWEyYWRCOUc2ZFlPU1hGdDJQMXlEY1NzX01lclJxQ3hXNENTaXBYSGlyOExjTkhPd1VMVVFzNWlGU0pVbmREekc?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Sui Foundation invests $30M in DATA Network as it migrates to Sui blockchain, retiring its own chain.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZnplN05zaF9FZkVXQzhhckx2WFVIWHZZT2g5TmR3ZTcwVWpQdnJMaE45TnZjT01ub0hKalZmMHhrT2JCZlNOcWJ5WjBseGMzQXpYWUlUTlRUZHlDUkNxemE4ZDhudy1UQTZfV0JvV1Z2Ty1pem5KdWZkUVNwSTFwVTZENTgwUmFLM0E?oc=5",
+   "source": "Pluang",
    "type": "news",
-   "published": "2026-10-12T04:32:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T04:33:48+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Trump"
+    "Sui"
    ]
   },
   {
@@ -864,18 +937,19 @@
    "published": "2026-10-12T04:30:00+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
+    "XRP",
     "Ledger"
    ]
   },
   {
-   "title": "SpaceX Becomes a Mobile Carrier in 2027? Crypto Punters Weigh Odds as Elon Musk Calls Spectrum Deal the",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkZpcXAybnNjSHJoQXZ0XzU5V0ZUWWhuLVk4X2NadG5Zc0FKLUkxV1EtSldQQ0dSanpFMTBPVFZyRUtrLURmRUxBbXI4RUd2T3RMUm0zeENJdzVMZVNIU0xMaWlDTUNUODB6U2VDX3VHekNabGhocU1jc1M2XzZBWEhpM1VYLTVuTG1oVGhLbmxrZ3NMaVVkakJtYXBYTWo2Yjk4YTVKMGtnQXNaVkRoQ0ZVampXYXdEdW5Qd0xoeGowbXRsM2E1cA?oc=5",
-   "source": "Benzinga",
+   "title": "XRP Faces a Major October 12 Catalyst as Evernorth Debuts on Nasdaq",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1VHNmUzRjZqYmYyRTBBcGQ1VUNRRXF1X3h1SkFtSUVjME9FdkpyZTRCOUVoTWRtTl94dV9TQ1piRDVvaDYxS2ZsTU13bEdsdEdla1VFUFF3SXhxTm0xSTFNbzNRM3BFbU5GRUpLZWsyaTBnZXRuMmhpMm84bGl6dWtLZHh1RzkzdWdoZ2lHRG9IZHNhaVNlTXB4VGtubmlGWm5uU2F2aGI?oc=5",
+   "source": "CryptoRank",
    "type": "news",
-   "published": "2026-10-12T04:27:20+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T04:27:53+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "SpaceX"
+    "XRP"
    ]
   },
   {
@@ -887,6 +961,17 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "RWA"
+   ]
+  },
+  {
+   "title": "Sui invests $30M as DATA Network shuts down its blockchain",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHBfcXpSaXg0YV8tbEFaVERUYkoycmU4blpZN0xsNHlKV1NqVFBwNy1EWUtibkFkeDRBMGxtemsxNmh4amxob2NfZWF6ckcyT2lWNHJjQVFOZ2dXOTl6UEJBc196Q2FFaWhnME1laUdubXpUMlNyanUwYkUwMjBIN19pMzc?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-10-12T04:23:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
    ]
   },
   {
@@ -934,17 +1019,6 @@
    ]
   },
   {
-   "title": "Oil prices tumble as stocks rise after Trump touts 'energy ceasefire'",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnhINXRsZVZacWt1VnZWYkkxZlRSeUU1QVZoM3E2d0RVM00tWElyMTVKNzdNWGN3dmViQlZfb201MnowQ3dwSW54ekEyLTRmOUdVSmx4OHBORHlRZEVodmR5RjJrN3FwRVRWY05qeEVSYk1qbnhidjVKeGVmUmUwT1dPcm42NnlHU2FETm5ycU9INDVpaC1QNlZYbXZabnlLODktOXln?oc=5",
-   "source": "Euronews.com",
-   "type": "news",
-   "published": "2026-10-12T04:04:28+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
    "title": "US Spot Bitcoin ETFs See $681 Million Weekly Outflow, Ending Three-Week Inflow Streak",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51NUllTUhJSDRPMEszRWJhaVdOUFI3a256ZHQ0WUhtR0NJWXI5R3VxckFKWGc5eXV1SnZYV1hwSVY4Z2NhQ3h2RFFNQk9USkEtTU9CZg?oc=5",
    "source": "bloomingbit",
@@ -968,17 +1042,6 @@
    ]
   },
   {
-   "title": "Futures Rise Amid Trump Claims, Oil-Related News",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQREhqRW9yMTk2QWxZb0k1a19pUVZhNFF6WkRVRVVndFVCM05zTDlfdFg2dmlVNlY3bm1ydGswcWsxdWJwOHJWa1dFelhCNC1jTUdHdUE0QzJLUkUzMFZJckVMTWhiSVM1R0k2OGdINEJmSkxRMHFZYThJNWJLd0FwakV2LWJrYkV3Tzdta3R0MEZrYjFHaHRidEJwUzB3LXEzNmZJSC04alY1c2w1emdBcHhTc0xObW54bm0yckpTMVNzUUdNOW9hQ0pzRlNqUQ?oc=5",
-   "source": "Investor's Business Daily",
-   "type": "news",
-   "published": "2026-10-12T03:54:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
    "title": "Growing Adoption Puts RWA Total Value Locked Over $1B",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOFhiUXFQWE9PZDYwRUJmQU9HOVpIOWdpWEs2Z2xHNFcyRmo1QjhTZ3NXNE1USGRZUThjN1Y2a3phNnFPVzRjaTdwT0FrN0JnR1VMeGtNQjF0V1FjbGk2NThxMUdiVDNFVHZqS3ZrVlYxOVFKNWFDM1pzaDBFV3hpM0Uxbw?oc=5",
    "source": "Coinfomania",
@@ -990,14 +1053,14 @@
    ]
   },
   {
-   "title": "Dow, S&P 500, Nasdaq Futures Climb After Oil In Focus As Trump Declares \u2018Energy Ceasefire\u2019 Between Russia And Ukraine: IREN, WFF, VSTM, CIFR Stocks In Focus",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeVN5dnJQZk9OYjM4eG5uWmZ0ejFQdUVFUGpxdElyTUJxWmZpcFRKRU9KMTkzdjgwd1Fwb1hncXNSUkp6bVBncDJCMklqYXZOZjNNbFE2XzF2d3BNWkljenNzb19xMTVvQkpnM0FUS1RZdkQ0eVpTalJkZktYbERvY24xSS12bEZqSDdUck9SY1g1T1k?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Tether News: Stablecoin Payments Face Fresh Scrutiny as Remittix Tests Crypto-to-Bank Transfers",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX010STVTdXpiTU85OWRQdmJkTmFFT2Jxb0xmNkZveVYxZTJoWWpEOW41b2trZUhEakhKUDZsTk9nYlRiNmlDZXVkT1g1cDVzQTI4Z3p2bmZiMXkxM0ZsdVUzSmZxTWtwMVlxNFV0akNzSGdhbHdmV1JXNnM0d2VQTGZKdHQ2OV80MlRtdmVrcnBUaFpXNldzUjEyUXhTOW5Xbjd3akphamF5aDZ6YTRXbjV6WVpCU21VVVZrMjFLRGRnMERiVTc4WWYwZWxzbS1ZMTNkc2RDLXRBbDJDZ19ZU2VsMWxJT1lzTHpWRQ?oc=5",
+   "source": "StreetInsider",
    "type": "news",
-   "published": "2026-10-12T03:50:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T03:49:11+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Trump"
+    "Stablecoin"
    ]
   },
   {
@@ -1023,14 +1086,14 @@
    ]
   },
   {
-   "title": "Telecommunications stocks slump as SpaceX pursues mobile carrier deal",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ2hUczBRX2QwMkxKMC02LVhiV1BObmhGbDBhRXVLX0ZoU0JjSEJpSjc3ZFpEUVBJVnZ1dlhSSFFwMldsV3JaM0JUelpqY1IySXBIOWN1UHZZM1VkUXJKT3h3NGpBdU1YUGJjb3JSWlg0RnZJOFJnbDljYlFMeWxiakRyaUYyeHZzdEw5SFhwam9sSzhadE1hLWVtZFFBb2liUnU0TDVCT2lIOXVKVXFianE5WlhKd1ZMRHlzSlFieTVjRzVIQjBXUUFIVXNNb25EYUpBQWtFbXhONnlFS3c?oc=5",
-   "source": "Capital Brief",
+   "title": "Sui Foundation Commits $30 Million to AI Data Protocol, Becoming Its Largest Holder",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yLWV3Yl9WYzd3NWZaMVJfRjFtc1Q0RVVac0thYVdodld2UlhKbHJ5M1JqWmZ0RjZtUUhVMy1CR2ZBeTJZc3FJdjV3aWl6X3pKZmdBS3MzTktXU0lPWGE2eWZwNlFaTGVaMTFvc0VMNE8wUHgtX2c?oc=5",
+   "source": "BigGo Finance",
    "type": "news",
-   "published": "2026-10-12T03:38:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T03:36:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "SpaceX"
+    "Sui"
    ]
   },
   {
@@ -1045,14 +1108,14 @@
    ]
   },
   {
-   "title": "U.S. Treasury yields breaking above 5% have weighed on Bitcoin, with institutional outflows causing it to fall 33% short of its all-time high.",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUNnMUhXNDN4NEdiM2swb1RUWkYycDdCTFpiUHM2ZEcxcG01UElTZFF4RnVWRkZyRWFKSjF2YTQ0WXBYRVF6VzVPWG1RbjJyWm9HRXd6aGtZdUZaaXYtc0lMRXhHdWh5SC1PMTM3VnhHS1ZvSXh3TkNpc2tTOFctcEVWbWc4TWRSYjRieU1Vd2pVYkZsajJWSkxfMnFUN0lmaVdNVlp3?oc=5",
-   "source": "Moomoo",
+   "title": "DATA Network integrates with Sui and Walrus to enhance AI training data supply chain with rights-cleared data.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHBrekJRdzY0a1RWc0tENzI4Tm1lVDBrT3laOVNkNjFOWldMaEszNExpRV94VEE5WmFTc3l4bzg2VXZ6VTNITGVoX3FUQk9Bb0t1eUh0LVdUUU9EVU5Ja3JrZC0yajJwLS1rSF9KSE43MzRGT05TMlpTLUhQbXplYjVVcnFiRVdNcG5obnd1S3J4R3pHaU1LRFl2dDdrLVp5dG1SekZQVUdJLWxfbmQzeQ?oc=5",
+   "source": "Pluang",
    "type": "news",
-   "published": "2026-10-12T03:23:47+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T03:25:35+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Bitcoin"
+    "Sui"
    ]
   },
   {
@@ -1075,7 +1138,19 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Ethereum",
-    "Bitcoin"
+    "Bitcoin",
+    "XRP"
+   ]
+  },
+  {
+   "title": "Sui Invests $30 Million in Data Network, Becomes Largest Holder",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2M05nSTlNbDNvbDJaSkRyLWl6U2g1S1E4UGFkTzVpQjBocWJ3ZFBwR2pxSDZHejZTYjhXaXRRdDB0V1pBWjlDaV9nTUtLZk9lVUZ0Tg?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-10-12T03:07:36+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
    ]
   },
   {
@@ -1112,14 +1187,14 @@
    ]
   },
   {
-   "title": "Oil price retreat drags energy stocks lower as Trump claims Russia-Ukraine \u2018ceasefire\u2019",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaTdWVy0wUGR5eDdSX0swZnJGNlhvOHZtTHdUT1Rya3N5aFFTZWdQbkNhaWp1ODRORUNhRVdvcUlvbUtCMkFBejRmZVdQcDE0anE4TWQ2T045YTBoc3ZDeTFiblEweVdiN3FiNzJxRC1SNWNna0FUVDZQNkw3UnA1RTY1bWdzNmxyMFFHMUdMMmVHZ2Y3TFIyNWVWSmlVaW11S3o2SGJCOU5wZHZXRnNHeXJLdkJrWjlkNV8xcUZBVEw5aUhWa0NLR0Y1NlBGOVBQQUNrLUZ1akliUzBoUU04QmlGdGpTR09JMjNPVmRzNHVlUQ?oc=5",
-   "source": "Capital Brief",
+   "title": "Sui Foundation Invests $30 Million in DATA Network, Protocol to Migrate to Sui Blockchain",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTJRaXZtMGtlVGVZYlhrRnc0X21MUW9ibWlHTGNBNVUyNGpXRzRvWXhQa0h1OENFM19jeHZaVENFRzN2cFNsSHg0azkzNlJybGwxcWFfWkc3b0RNQWw0VHBEQWtDM05PSEdIWHFVUjVUZVBfRTZSeExEZ1dGaENDbEpXbW9fSnFTYkFpLVh3UWpsQWNxLXFzYkY2ZWRETWhwdXVHM0NnVWxYcGZ0SkhKYzR6cXc?oc=5",
+   "source": "KuCoin",
    "type": "news",
-   "published": "2026-10-12T02:42:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T02:39:19+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Trump"
+    "Sui"
    ]
   },
   {
@@ -1130,6 +1205,7 @@
    "published": "2026-10-12T02:19:30+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
+    "XRP",
     "Ledger"
    ]
   },
@@ -1167,14 +1243,26 @@
    ]
   },
   {
-   "title": "Bunker Mode Leads Crypto Search Rankings With 36.31% Gain",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LeWlGNGdJcjhHSnZQY01CbTFuRHpXWEhzakoyYzBNNGtDdFlfdUtYbnBlR0luUUthdFNBMFJSLVdFcmtpSXpOT1l6Y1RvWkhxX2JHazFHX1dHZw?oc=5",
-   "source": "www.tokenpost.com",
+   "title": "Sui Foundation commits $30 million as DATA Network retires its own chain for Sui",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SZkhXbHFqb2R4WTZtek1DWEJJVHVLWmZqTXhQelBsOWV6OTVyaG04aEV3RlhWM2dqQWZiZVFDTEJ6Z045YzVnTlVIWGVDQXZHR0ZCWDRmX090a1JrdG1MT28tWXZlRVgyMm5xWllKTmtaeFoxUHgxcw?oc=5",
+   "source": "Crypto Briefing",
    "type": "news",
-   "published": "2026-10-12T02:06:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-12T02:12:27+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Bunker Mode"
+    "Sui"
+   ]
+  },
+  {
+   "title": "Solana and Sui Price Prediction: SUI Returns to the Spotlight as Remittix Targets Mainstream Payment Users",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU245NVVDYklfUzl0YVdPbTYyM2hTWHk1ZFR6ZVlSR1BNamtZSDUzanEzUlZrSUZkOTNnT0ItZnByUDZ3dm50WHQ5NjdBc0N0dHhNUnlKUmtRTWNxUGlaREZucm5KZ2QzRFRrY3ppMXhvT3ppSl93eXVycWdGNVhhSFRNeElJZmhoLW03LVpXUUdTWDFVNFkzT25ndGR2REYyMU92RTVqeWFxdllscnRuX01QQm1Ubl9ia3pVMG1mNXdFdTc0R0JSbWVR?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-10-12T02:05:57+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui",
+    "Solana"
    ]
   },
   {
@@ -1211,25 +1299,14 @@
    ]
   },
   {
-   "title": "T, TMUS, VZ Stocks Plunge After-Hours As SpaceX Buys 800 MHz Spectrum For Starlink Mobile",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQjNaYmF2ZWFOaU5JY2hWanpBTFEteDF0LXI2UU9PVGs2X29sQURHbHc0cGhfRWhsc0ZzbVUyT0R4RmtlVTNxUVE1VWtOcFY3dVJBcWhCNTB0cWREMy15akIzVlpYTDdwOVZwbVNCQ05GZFVreUppd0tsM3d4a29OS2s3TkxMWWxnYTZsWU9mOWtXdWR2ZzFGZEF4OUhIYkhuODR3VFFBSzlCVWljZndULTZKdkM1QzE2QmZSOV9FMVFyVFFIdXlJcXVGbVhvbGdkMjF5bDBLVjBhQWM2OGZWckpWdi00cG50?oc=5",
-   "source": "Stocktwits",
+   "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+   "source": "The Block",
    "type": "news",
-   "published": "2026-10-12T01:59:49+00:00",
-   "first_seen": "2026-10-11T08:10:00.402691+00:00",
+   "published": "2026-10-12T02:00:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "SpaceX"
-   ]
-  },
-  {
-   "title": "Oil Slips as Trump Touts Energy Ceasefire: Why Cramer Isn't Buying It",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVVAzbHNMOExaN1I4U04tWl9PRFdzcGR6LVJXTU5zRDBrZ3VmYzNxTUVkUVVnVk9NX2VLZktjZDc5dVlQNElBV3hTN1N1dExqX1pxUndKa01YaGFWV1BxX2NPanY1MFNsN3c?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-10-12T01:53:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Trump"
+    "Sui"
    ]
   },
   {
@@ -1241,7 +1318,19 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Ethereum",
-    "Bitcoin"
+    "Bitcoin",
+    "XRP"
+   ]
+  },
+  {
+   "title": "Nasdaq, S&P 500 Futures Edge Higher, Dow Futures Flat Ahead Of Nvidia Results: IBRX, SLS, NVDA, CHWY Stocks In Focus",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPY0JYOHljWHVQRHFsTTdtVm5VRFdyTHJyZW8zblNwei1WdXlxaXl1d1FIZlZaZlpGZTlTN3Y3QU92N1BCOERUTmFoelluNDNxR3BhREZBVFctSU9tOFZNaHcyZ0JTbFltanZCT2FSZjVNQVRUazBIX0hGanFhRldtalF4MjNnbHFaX1FRTnUweC1vbVBXNjFNSWVuV3kwUEtIZ0FYbXA0VERXbjFqVm5hUnRYa0NMZm1nbTNBRmEycGlOcnVhQzV1NU5oSDZ4R3BOVldZaGFCUlA1NFpCWEhyRHFTQ3dDMld0VlpBUU51bUNMZXJiS1BWSnBFdk9Uelh5V2hUMGF2a2NTdw?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-12T01:39:51+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Nvidia"
    ]
   },
   {
@@ -1287,6 +1376,7 @@
    "published": "2026-10-12T01:21:29+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
+    "XRP",
     "Ledger"
    ]
   },
@@ -1325,17 +1415,6 @@
    ]
   },
   {
-   "title": "Bank Earnings Hinge on Anthropic IPO as SpaceX Windfall Fades",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvMF8xVE55Q0IxYkctRU9XYXdSMElmbWVVZ1RSWEpkeFlzMGdYWmp5M1VEOHhGTzlVTXBuQlN2TnN0eFREYzhRTzVmZnRDZ2VNR3VvZG1VSlBhdnNGMmo1OHhKSlFDV1laR1BnWHBlQ1RfTlNHU2c?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-10-12T01:01:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
    "title": "Injective targets institutional tokenization with Meridian upgrade, analyst points to $100 INJ",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGVXhGMm9pc3p2bEl4NVVtRzhwUjhzd0FMTkxlZ2ZuZWp4YXRLOXNsY2ZKbmgyTEVwQ3gwVnhzc3RYWUluVWNDUXJYYnoteFZQS1hmSl9WQnFRNGFmdm91U2cyY9IBY0FVX3lxTFBGVXhGMm9pc3p2bEl4NVVtRzhwUjhzd0FMTkxlZ2ZuZWp4YXRLOXNsY2ZKbmgyTEVwQ3gwVnhzc3RYWUluVWNDUXJYYnoteFZQS1hmSl9WQnFRNGFmdm91U2cyYw?oc=5",
    "source": "Bitget",
@@ -1344,17 +1423,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "DJT Stock Slips After Hours: Trump Media Reports $238M Q2 Loss Driven By Crypto Volatility",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVdQWVJnbUtRQXBIaEdXdlU0Q0dqbm1WS1czTlZmaXExaXJ2TlAtMExzcFFNcXdFM2Y0SEJLVkdaWFZDR3Bac2V5V3VNendvU0dJU055MC1UYkZ1TnhMQkgzN0w5SGJnZEE0d21jUjJtVXJfajZIM3o4SThyZDVoVzhaVlVRZmllb3pITmhKcURzSzUwc2hxN281blc4WDc2ZVFjZ1o1eGdDOGhPUTdUQ0dBVWVueTIzRVNoREhITVRhOFU?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-12T00:53:12+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Trump"
    ]
   },
   {
@@ -1402,28 +1470,6 @@
    ]
   },
   {
-   "title": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-12T00:20:10+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Tether Shelves Gold-Backed aUSDT Stablecoin, Shifts Focus to Core Products",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGhfOU80T09MR0Y5NjctX0VJV2FScW80RjVKbWU2NFh1QndIaEZ2WE8yc01QVms0dkc1MENPNnQxY2RsZUVvVGxuTy1VcmtSMzRtNDhKN1BaamUtVXJ6Z3h1LXNaRE84QnhRY0l3QmR0NEZEdW5DeldVWXNEUGt6VnJEZUpLaE5YazFKcmhheU9Gdw?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-12T00:08:32+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "INTC, AMD, AVGO: Chip Stocks Jump Premarket After Nvidia's Blowout Report",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUU4dTZXYndUX2YwZlZ6VmR6d3JoV2dDbE1XR1FKS0p2YTZScmlIclZkTUxxb0paRW00TEgwVlE1Qk5hT3BnM3J4eVZqVDBpZ3o1blFiYTQ5M2t3OTlJU3pud01kVlJYQzFVaF82a2xfWXRfM2R2MzBVRDczX0pnRkpPZ3dpam03QlhibkliRnQ3NWhJU25VM0d1bVlvSm02bjJaV2pjZlJwTUpVVnZCMHRxYjFFd2Q2RXRNOFl3ZkItc0llS0JKR2dVN1VORDg?oc=5",
    "source": "Stocktwits",
@@ -1435,40 +1481,6 @@
    ]
   },
   {
-   "title": "ETFs Investing in Koito Manufacturing Co., Ltd. Stocks",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SQWhOLUZxVjdTOTA3YWMwZW1JSk4yNWQ0ZTNma0IwTjJGWnNyc2dGcEItbEF0LUZWcmZPQlpkZGVNR2Vwcy1XcmtBSnRGN3h6MDRsTWZ5WkFtTFlhS3c?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-12T00:01:25+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "ETFs"
-   ]
-  },
-  {
-   "title": "ASTS Stock Rises Overnight: AST SpaceMobile And SpaceX Reportedly Chase Prized Satellite Spectrum",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0ZsS0hGUnFwMFZyOGtBTU9kRlE1Q1c5ODVobTUwSTkzSjA0MmhpNUl6YnFPUUVMZ0s5eFBfYk54QlhqSU96X2ZNVmFfWUN0eDJTRGs1NVRSZVctR3pQZ19vNUpzOTJzbVAzdHJ0NFJhRzVDUnBxUEpEQ293N0hkM1lhSnZhUTN2NmlQTTJlSUxVTUUyUzZkLVRfS2ljcWdXU0czX0tnQ0JrYmpLd2EzbE5CcDdQOERTNFE?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T23:59:24+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
-   "title": "Adam Back criticises Ethereum design after AI security warning, says Satoshi would have known",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2l4MExFWlpTZmcxOEZUMlRnai1LWnJMWkVRSzE3QlVXajZVZUxBd3V1d283ZlpnbmRDVUdicUhmLWgwLXE1NU54c3ZaOEtrcTZlSjMxeVpkNnIybUdPNGt5SFZ5UmIxb2hCcmZRbXJ4a01CM1k4OFQ3VjIwaVNweW1xUmt4TXRqYnBYdTdza1c3R09rbGdjSXEzbHBwWU1RcTNXTlVYUHhpUnp4?oc=5",
-   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "type": "news",
-   "published": "2026-10-11T23:59:23+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Nvidia rebound can still mean losses in 'liquidation trap' after U.S. stock close",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWdCVDdKTkJzUlQ1TTFMM2RvRF9JT2hWT1NLOURpOFJEZ2cwZWlIUjU2Q201Sk9SOE5xbTFaZHp0VW9nekdvRG9fWXJTM1FxeHB3ckc3RDQ3cXprREVXZU5ZanA1TkJ4bFNScGgwUnpFNUY2QU1wREdWWjQxd1dRTGhuQW93NG1jdHc4VHVZNFV1Rk1ickxiQ0I1OTBXYS1HM0xZNXJoZ2JFUmtEY0RobjNfN1FMZS0zQkVr?oc=5",
    "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
@@ -1477,28 +1489,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Nvidia"
-   ]
-  },
-  {
-   "title": "SpaceX Is \u2018Much More Of An AI Play\u2019 Than A Space Company, Says Dan Ives \u2014 Here\u2019s The Bull Case",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNi1tOHRnV1dsY3BIRUNTRHlaYzJhTXV4NkkySWlLOWJGaTZDSkd3bEtqeU8tc2Y3UjNFbDB6WEd5MmtFbFlLRV81WVBUOVl3RVdZd3pRRHM5a3dPenZuX0Z3Ujd2ZDdKR0JfSloySlkxY3Atamlib0VneXBxdHlPLWxsQXJvX1FPMVlXWENrXzVxUGE1RXpSQ0dRbDRORUdTcTJISG5wbktjYWpoX2JVY0FHNTVCT0pxYW5LcVVB?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T23:59:09+00:00",
-   "first_seen": "2026-10-11T08:10:00.402691+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
-   "title": "Tom Lee Predicts 2027 Will Be One Of Stock Market's \u2018Best Years\u2019 As SpaceX, Fed Risks Fade",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFRDQ3RGdndieHp4YnNfX3ZuSm0yLWNreEl4emJmdk9yX3cxYVIwRG1fak02aGFMLXloUmtBNEN6anVZZ2tCMFlYaHI4bHBGeGoyR3U4ak5uYS1vLVRkcWpfOVI0WkdoVVNJWUMwSXhhVFdLeWM2T1Utc0drQjI3ZkNlQzJpdHltcjdsNHVhb181MkhxVThlU0RRaFI3QXBZck5YSHphU2M5N211NUtTelQ3Qnk3QUxaVW13T2Rn?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T23:52:34+00:00",
-   "first_seen": "2026-10-11T08:10:00.402691+00:00",
-   "topics": [
-    "SpaceX"
    ]
   },
   {
@@ -1535,17 +1525,6 @@
    ]
   },
   {
-   "title": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T23:49:41+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
    "title": "Bitcoin ETFs Pull in $258M as Institutions Sold 25,000 BTC in Q4",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUERieEFRel9kMkdHT084OW5hbmluc0Z0VmtWb1VNZ1FkTEZ6Wm15d1Z1UHUzTHptTGNCOWhQV1gyci00YTZGMThLY00wNlhiR3lMTVp2Szc5Z0R5eXlLZXpXYWF2bTFPdXZfd3B1OW54NDZiTWdLc2dSWGZBTmliSUxOc2pNWHp5Z1FWeWtqVG5BZXhNRUQ5T2k3WG9pdzlqRGUyNkdIUnBCWWsyMk1F?oc=5",
    "source": "CoinMarketCap",
@@ -1555,17 +1534,6 @@
    "topics": [
     "Bitcoin",
     "ETFs"
-   ]
-  },
-  {
-   "title": "RocketLab Stock Down Overnight, But CEO Says SpaceX IPO Helped As 90th Electron Launch Nears: \u2018Clear Number Two\u2019",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVJqMXpPVk1RU041Vmw2WkJNUjVoSXpDOHp4aHoxWTlDSnRiNklIWDlHTHc0dkJIUnpsOVJ6UFlyTUt0cW8zd1F4MFpwY3BFcktvXzRENzQ0Nkg1ZXdqcVhiWDhDVUx0dTI3WHMyU2V0RDFGV2xEb1Fwc25icHN0RUdrYlU4WlJkTlN5M0NJaEs2NlJwanhSLUFtTXlCaHAtN2dpZWVxNW5lekxxUFZz?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T23:48:50+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
    ]
   },
   {
@@ -1592,14 +1560,14 @@
    ]
   },
   {
-   "title": "RKLB, ASTS Stocks Rise Premarket Ahead Of Mega Space Earnings Day: Retail Traders Optimistic After SpaceX\u2019s Results",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeEo3SzNQZGQxWHU1SlVPa05nWHNSZW1ZZS1Cb0NDRE1VVTFybXBqTklyWmdqOG1HU1pEVl9nQ1dBQ2xqOENRODVzaGt2YjZNV1lrZUw4bDFnS0oxUGRRSERMdVBicjVFOVpjVTNlQTlvZ09jTzRTVDBCYWl6X3RzVjFMTGhOby1jWXZhQkFyb1FvTXM3bWF6QnV3Z2FySXIzYTBpR1hjRG45a0Zkcl9Ua2l0TWJJQU12Q29aVUcwbGk1Y1VxNW92VUpBQmZpSjBHOHQwTmhLdnJ6Vmhlel84T0V0SFVKZTMyOW1BS2N4Y0JFS3VybW5xRXZKUFVLcVJaMV9waHZZZWVZZw?oc=5",
-   "source": "Stocktwits",
+   "title": "What Will XRP Be Worth in 2028? Exploring Three Scenarios Starting at $1.41",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkxuTDlSdEFfaDNBTzBEdXRLZzgtQk80bl94OTFMTHV4X2dJaE4wa2JWTldyZ0d3V3BhYzNrWW8tM1FaNVdzZWZudlY0bUt4Q3ZJZHVjZ2hMZlVIbXRoeENvRXBIVW9DQXVyUkFmbTlPUDVKOHdlWE9LVW9oaXNaN1YxV3RsSklKRHExdUw0MUhEZTcyYjZOM3pjQQ?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-11T23:35:50+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-11T23:19:56+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "SpaceX"
+    "XRP"
    ]
   },
   {
@@ -1654,29 +1622,31 @@
    "published": "2026-10-11T22:57:53+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
+    "XRP",
     "Ledger"
    ]
   },
   {
-   "title": "Voters are about to whack Trump. Markets could tumble",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3M2cm9IOS1vaTZnTG5ycXJic0dSemZIekh6R3pFVmxqMktva0RRNHZob2JpbnV4SHEtbVF3cDkxRFh1Y0xaYUdtOHhXZW9sMUtORUk1aEFpREJjNEt2UTh5dzN3SXBEbWpzeHRDTW5Sa2hINENLSjlBYTM2V2lHWWxjV2UyX1BzUURmcUFZZXRNamhfWk5ERA?oc=5",
-   "source": "AFR",
+   "title": "XRP\u2019s Nasdaq Moment Nears: 5 Things to Know About Evernorth",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEU4ZjBiNmVsc3dWZVFERnBuS3B5RkRoQUZSQmF2SGtXVXpfOGJLV1I3Qm9oMTZYSEJvZU1XZ2E3N1dqY21GeUhOWXU3QWxQNmtMSVExSUo1X2lSSFZxLU1sVk1xdGV3UmdOeS1YNXJDUEd1NHJiRDlDV09xQnFKNEtqQlJhNkJheFVKcmt4R2k5TmRG?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-11T22:57:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-11T22:50:19+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Trump"
+    "XRP"
    ]
   },
   {
-   "title": "Investor Reactions to Trump\u2019s Speech on Iran War",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3NoOVR5VTFobWFORjl5QWRVcWJiOUxDZGd2bVRuWTRUS1VkRHFCdW9vTUdXN3VLVVRVYm9sNzJUSTRGM01tb3FpSElnUTR5UUxHUE9KTklITlVzaEJIb0lGTDlPV3FqRkV4SURJaWlnSUdoc0ozdGQxbjc4bmFTQ2tFaHFlZw?oc=5",
-   "source": "EnergyNow.com",
+   "title": "Sui DeFi Ecosystem Soars with Haedal\u2019s Remarkable Milestone",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Nb0c4YTZkQlpIRHRqUGJPSlRBTjlCcW9Rb3B5Q1c4ZHI4dmdLd096cGJISWxWR3JnSGV0UGZNSjJBSFZnTU55N01KYmJjVU9yRGZ2MXhoZzdvMGxfSlVjeXVrbHRwVmRLTmtkRG9sUm0?oc=5",
+   "source": "OneSafe",
    "type": "news",
-   "published": "2026-10-11T22:47:26+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-11T22:47:35+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Trump"
+    "DEFI",
+    "Sui"
    ]
   },
   {
@@ -1688,6 +1658,17 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "OpenAI"
+   ]
+  },
+  {
+   "title": "XRP Nears Key Rebound Zone Amid TRX Surge",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUdCUkRSRG4tM3hUYzFJTEdLcGVFMVN5NHlIS2hvbHYxT2xiS3gtQV9wS2tCNmxUVXF0M1VNcmxXbUhGOEVPd3dSNjRmMHRRdlhaTGxaeEJkV3RTSXJ6c1JMV3lTV1VZVnRZSHpqNjlBVXZ5LTcxczRubE1nNUN5TTJBb1E0YU9ickwzQ3ZXOXcxTGJpNVU1ZkFfeUxNQ2lVeDBaV2hZR2xYc1VyTG9Ua05ibUNkTjdKakNCaEhZck0tMkE5Z2s3Q0NLTk9uLWkteE44?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-11T22:37:07+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "XRP"
    ]
   },
   {
@@ -1732,29 +1713,8 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "RWA",
+    "XRP",
     "Ledger"
-   ]
-  },
-  {
-   "title": "SpaceX's $8B spectrum deal hits telecom stocks; Micron stays strong buy with record earnings ahead.",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjFzWE9tVlFnT0hHbUlBZzBMRERoUElNMDY4dmh3RDI1UDdyMWN2b3ZIU2VCY3lLTHh1VnBjM3EzRTlvUGdMT3BKV3RqdmZqRmp1U1REbnJXVm52LXVaWmJyeEZMRW1lbV9CSThka0UwVlYwRnYyWnUzYnB2WS1oV1dB?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-11T22:04:50+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
-   "title": "Michael Burry Takes Aim at Another Trump-Era Trade",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00czFHaWM2RkRYbEhaMTd6MDhYNGVUQkFiWE4ydC1EdkVRdWFJRjZGa0NqWUw0bHh4a041aTduZHhlOU9wOE1zMk9SQVBRd1VqTm1ZSEJrRU9oTV9IVmFWa1lhR2RSbEp3NDlnWHo5dkc1S3VTU3JZ?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-10-11T22:00:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Trump"
    ]
   },
   {
@@ -1781,14 +1741,26 @@
    ]
   },
   {
-   "title": "Eric Trump Says Crypto Should 'Embrace The Hell' out of AI Boom",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeUVHNmt5YnZyM3QxZzhDN0NOWEx4ek5Gd3lxWFNDUUFhRWdWVjJlRUZFUG10ZDlpQ0tEeTJHZnhJRF9UVElFdjBQdzZFMVBQcy1HQmE1QTAtdnJRS2Z6ZUQ5N2Utb1ktWUNlTWRDaEZFWWdNdkNjdGdLVnNVVWJJSjNOZk9ZRjVJaHdOMS1kbkswTG1MY3RRRUVacw?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Hashi: $500 Million for Bitcoin Loans on Sui",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zOE85YzkxdF9pd2dTdk1lRkJJa2o3UU0wamtWYnhrTDROTmw1cGl2ZlEwU2pLQkJSN3F0UGxhTlBqcVdNd2lhUjlGWHl3MlpLN21rSVlZOHhSdHlHMmE0aVFlZk9kQ3gzRHJMYUdlMVI?oc=5",
+   "source": "CryptoTicker",
    "type": "news",
-   "published": "2026-10-11T21:30:06+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-11T21:33:25+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Trump"
+    "Bitcoin",
+    "Sui"
+   ]
+  },
+  {
+   "title": "SUI Price Eyes A Breakout Toward $1.41 As Sui TVL Reaches $523.5 Million",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOW9MajRObU9GWTNqd0ppMTZjOTJXQVBLa2o0NmVNS2RrTlpQdXhHWWJ2VjdxcTNmOWdyQ1FLZms3bk5obnVxbHM4OU1IczFSb0dpT3ZER1BwSC15RlR5cTRpOHJRbEE5RXFWZU5hWkRuZ2NfU3NocGE5Q1hyeHF6N0ZybVFCX3B0UFBycTJNY1pzYmFZWHpSZmk0RnhsVDQ?oc=5",
+   "source": "TronWeekly",
+   "type": "news",
+   "published": "2026-10-11T21:30:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
    ]
   },
   {
@@ -1822,8 +1794,7 @@
    "published": "2026-10-11T21:24:44+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "Nvidia",
-    "Trump"
+    "Nvidia"
    ]
   },
   {
@@ -1860,17 +1831,6 @@
    ]
   },
   {
-   "title": "Investors are likely to focus on SpaceX\u2019s Starship tech milestones, not results",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ1VKNk04Wlg5Q0dHaG1IYXhQcEpWMUtIR1A1dXhyS1dfYzB0OVVxV3FZSk9wSm5DanFLdnZiZVB6YnZ1d2ZEVjI4YjNhWTczWnpObkdLNjRnSHYyTmRWMkx2R3ItY2puWjVwNmVhdWs1dW1ZUlRSZFVBRVVvWnVnUWhVaUZpVmkxdVZEZDdpSHNteXdHczFUallyUmNNTVMtRUZQR01B?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-11T20:58:24+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
    "title": "ORCL Stock Gains After Google\u2019s Gemini Joins Meta, OpenAI, xAI In Oracle\u2019s AI Model Lineup",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5",
    "source": "Stocktwits",
@@ -1890,17 +1850,6 @@
    "first_seen": "2026-10-11T08:10:00.402691+00:00",
    "topics": [
     "Solana"
-   ]
-  },
-  {
-   "title": "Bunker Mode Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xTEI2S2JMSU1FMHdxVVJYa01TeWN3VmZRTk41STVpY2R3N3BTRFJ3NUZQNDZOWnNnQU1HQnBlQ2t0X2xWb2RYZHNZTE9GdGxDeFZIMDhiWW9qTzNFbkE?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-11T20:43:02+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Bunker Mode"
    ]
   },
   {
@@ -1938,14 +1887,26 @@
    ]
   },
   {
-   "title": "Samsung Reportedly Hikes Chip Prices Amid TSMC Capacity Crunch: Nvidia, Apple, Tesla Fuel Demand",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXlpYVphMzNFdnZ0b3loTTJncFplVGhfd2xST09WcTRjTEJvU2FSbU5hZjlReFJ5LTd4XzZ1Qks3MUUxNTI5MUI3eDRBR1Z4SGtpaEpEMjVkUW1zOTd5QTJORjhaTE1Ta1FyMU1XYjdNZVZmWjhHV1ktbVFoRDhacGp6TTE0bGJYQk1BdENkLVd5LWdMdHVDYU5hNjEzcjdXYkNnODhSblV4N1d6a2xlOEwxM3E3cExIUzdJRjhhdDhfZk5rX0E5Rk9vWGdfbk0?oc=5",
-   "source": "Stocktwits",
+   "title": "Crypto Update: IRS Sets 14 Staking Rules, and ETH, SUI and Pepeto Holders Stand to Earn",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGxkTi12V09aRzM0LWFNNTNkOWJLaEdsVEV4VkpGdDhGT1M1c2prNThiLXNLMEFZbHE0RHgxMTFBLXJJaVV1U3RERnRRbEthT0F3RmxkekpSOFVpZ1ppX2s1R0Rhb3JGWHEzVzZSWGlHMTNVbEZiRmlqT3UxSWF1OUNUTDVYbWpaSVFFM2RxMEJXT19JZ3F0NzRDZ2swNzQ?oc=5",
+   "source": "openPR.com",
    "type": "news",
-   "published": "2026-10-11T20:03:12+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-11T20:07:08+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Nvidia"
+    "Ethereum",
+    "Sui"
+   ]
+  },
+  {
+   "title": "Injective Expands RWA Tokenization As INJ Price Eyes Macro Breakout",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWlpLakJFNERORUxmejNUalBGallKNTBfQ0VVV1ZWTlRNQWsydTZ2X2VnU1hwU092d291N1dyNmQ5ZVI5TUlMZzBVN0JhVk1wRHNVajZtbHhUVXVDMnB2N3JMTXREM0hDSTJUMGNuSkNJZ1ZoY1lQYWN5Z2dSbFpRSXJ0Z1liOWhCU0paeVZzZnVWMER0VjJ1c3FRZw?oc=5",
+   "source": "TronWeekly",
+   "type": "news",
+   "published": "2026-10-11T20:00:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -1956,7 +1917,19 @@
    "published": "2026-10-11T20:00:00+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
+    "Sui",
     "Solana"
+   ]
+  },
+  {
+   "title": "FSB Chair\u2019s letter to G20 Finance Ministers and Central Bank Governors: October 2026",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDBiMHMtaF8xRHRRLVM2d3hBMU9NQ3hzUUx6eEp0el9JZkhyNUp1M2U3LXpMdUNZc01FUTRsRUgwM1pEbnpnWFltd014b3BUNXhxdlV4UDNFSHd6YnlZd2Z4MmFBdWt1Wk1QTm15UFZNWUpUOFA3aUdBR0l3NlpHM2FSY2FDbGotaWczWWUxRTZLV244VXVDaGstRkdTM0cwYXIzX2dkRmo1RHkyTHE3TA?oc=5",
+   "source": "Financial Stability Board",
+   "type": "news",
+   "published": "2026-10-11T19:56:14+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "FSB"
    ]
   },
   {
@@ -1971,6 +1944,17 @@
    ]
   },
   {
+   "title": "Cryptocurrency News: Nasdaq Sees Billions Unlocked by Tokens as Sui Lands $500M and Pepeto Heats Up",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTGlIcl9fTEhQdXdoZnBPYkZQSmFFMnduZl9wbll1RXdKYkExLTlmNk5BbDloV3YzaXlwNUE2NkU5SS1ra21QeE5QMnNoM3FvYlBFVFZ0SWFlNGI4dWh5eF9PV2VJZEtrTU5HWWhOUVBTZXRocGpOM0ZZX25lMEVFRmpoblRjWEpuTEFmdThUbGlMNmt1WDluMG1DdGNhNHNBdzdNQlpycTE5TFdhSXY4SGlZNG5zUTJRN3lIQnRERQ?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-10-11T19:48:32+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
+   ]
+  },
+  {
    "title": "Ledger Confirms Hardware Implant as Tampered Wallet Reports Allegedly Spread to Europe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVRmTUNKWi14RmtOLTZuY0gzdmtoclFDYkVRbDM0cHpuMXVrYTdVNGQ3WVRnR21vRGJKVHU3VFE5NE1FUnRFVE9oa2lzNFJ0dzNXWHlTNnEyQlRleFpFTnJ4WTh6QVpfY3hmLVEzME1NNWJzYW1EWnh3NWFzUmpnWDU3M3dxb25wbV9Td2FuMkxROTZQemR2bUdxdVJ3eHlIaDJrTW1vZERGV0owM2hIMGYxYjIxUENMLW9WTEtacGJKUQ?oc=5",
    "source": "CryptoRank",
@@ -1982,23 +1966,23 @@
    ]
   },
   {
-   "title": "NVIDIA (NVDA) Weekend Outlook: Why the AI Leader Is Down 17% Despite Record Earnings",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObmpOaHNnQmpZQmxtbVBxUzJ3Z3M4T0czTXdTcXhqQUxUbEdNRFlTbHF3OEtoLVdKdGNGRjB0TWVEQ0M4bm1wSFBIV2ZVYTlnYzhDcm5QOXJFbHM3eGhtOE5DZTlSeU5obTJYNHFNU2FrSlpZak0tTjNrS3gza3E1ekREWmpWRTJTQWVGZlk1T3RrenplZ1VaSnZXb0JHcDlDT0hUcFkyQzV0YlROTmF4ZW51ci1zeS1nbUxWcnphWVFaYTRsT3Y0c0VLXzc2Y0ZFM2xHb0lsMm1uVWc?oc=5",
-   "source": "TradingKey",
+   "title": "We Asked ChatGPT Whether Evernorth's Stock Could Trade Above or Below the Value of Its XRP After Its First Week",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRW5ETk5Kb2w4SkdWMDlYbzNMaVcxdm5pMlRCWlRmQmJyZGhISmVaRnE2el81YWNRVlRXcUg1bjZJak40dnV6RFp0Z0NaTmhCZm80dnhpNWNsd3NBY3ozbDgyMHYxR3hXa3R2NTdVV2I5Nm94N1Uwb29kQXhmT3J5UnZIV3ZTX1dFT2ZSVGRxODg3WDN2VGlaRDFDWmFYVXVDZ1VOR1gtSGdGakdHbzJPNUdPTmthbEFtcndfYklTOThEaGstc2R2VS1uTXpHUnphMVFKRWpjLWxQclMtbzdQRGp4d2Y0NVlGQzlHV1JISkhmOVRhWjQxT0U2YW9lQQ?oc=5",
+   "source": "24/7 Wall St.",
    "type": "news",
-   "published": "2026-10-11T19:24:29+00:00",
-   "first_seen": "2026-10-11T16:00:56.543536+00:00",
+   "published": "2026-10-11T19:40:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "Nvidia"
+    "XRP"
    ]
   },
   {
-   "title": "Broadcom Inc. Tokenized Stock (Coinbase) Price History and Historical Data",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczN0blQ0bl9QZHpqTE9aZ2RBZmtrSlVhTkpMSkNYVExORUlhb3VpMmg5X2ZRa1lmY2w2S0ExWW1VT0VfNGcyX1poYTE5cWxUemZvZm1ic29lTGlvTGJPMkhKWXBjbUFNOFVHMVN4eHAyWV81eVBOWDZZOWM2V1p3bzFvMkZQQzc4M19iVXE1NnpQQkFROFE?oc=5",
+   "title": "AST SpaceMobile, Inc. Tokenized Stock (Coinbase) Price History and Historical Data",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDU0VWVOTkJTWWxOcjB2ZjY2ZnhwTUVtcjJsRHBDblNKSlp0Z3QtUGxFeDE1SVplc3k5UmhoSVVYcldZSERscWdFNjZUMjRGYURKa19MLTJkQjhKSmVVRkFzNHIyN0FYUmdqUjlhdXZYeDdzYW9KNjNiZndNTGxHQXhFUzJUY2oxQkU0OU5jVHBIVEtjWWFRcm9ucFM4akU?oc=5",
    "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-10-11T19:21:11+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-11T19:19:23+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
     "RWA"
    ]
@@ -2026,17 +2010,6 @@
    ]
   },
   {
-   "title": "Premarket Movers: CRWV, AMD And Other AI Stocks Rebound, SpaceX Deal Boosts Tower Shares",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRDVndXltczQ2MFg2OElTMno1UUJEZ0MzeGdmZk54VkE5LUtKRTJGb1doUlJram5FNFNrSWFoUWJpenV2c29XYjZuZDhVTGNwYkw0eUp4UnFYM01aOGFscnVhbVU1NGlDS2ttTzZWVDF1dndlSUdGXzh0azlnYjQ4T3hGVjB0aHR3Z3daQ2RkMmpIcGNsYzJEeThvUlNtaUVCbmh4Q2IzTFRtUWNVU08ycWZwY2RpYWNnLTg5dFYwM1NlOW1rTU1qWjAzQ0lrUWlMZzBnYW5ZdWhDc291SEJFLUZmbGk?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T19:08:55+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
    "title": "Nvidia (NASDAQ:NVDA) in Talks to Buy $25 Billion AI Startup. What Investors Should Know",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xRHlrdWhCTGNaRjVyZWRlamNXYUZtd21tMGM5RWsxMk90ai1OajdZczFPZ2Q3enVvY0hFQnl4SGdoc04wNzg5ZnM3ZkJYQTdiLUhfMHd0OENGclZOWkhVZkRWdjJCcjNLV1pRdDI3QjlsNkxtV2lWN1RFenMtUQ?oc=5",
    "source": "Stocks Down Under",
@@ -2045,6 +2018,17 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Nvidia"
+   ]
+  },
+  {
+   "title": "XRP\u2019s next Wall Street expansion comes with an unexpected complication from Ripple",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFhvYzFrRzNlUTBDVmdqYlBvUmN1aWd6Vzh1ZHc5NEVaazJLNU1PeE0tT21UQUF0SDhQaE9lWUNNUGxYc1hOOU9naGJOV0hENm5CZFIzcWZKcHNsWUcxTzNMVFJaTkJoN2xaODhZN3hQVTE5ZGRmbUVISTVtM09XV0dTMTFIdllwMVZUSkJ6Q2owWGZXZ0syZnd5U1V2YTc1Ml9aQzVZWTg2Zw?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-10-11T19:00:09+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "XRP"
    ]
   },
   {
@@ -2069,17 +2053,6 @@
     "Ethereum",
     "ETFs",
     "Solana"
-   ]
-  },
-  {
-   "title": "Darknet bitcoin for the state reserve: the US collects, Saxony sold",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWowTVNSUDVEQmhuWllJaVR5R2ViR185NmdpTDEwblNna2pMZXlWOEdKWnpmU1FpQ2JoSFFmV3RpeUpLeXROX3JzTFE4N0FTLThpcXdxSDdvMTZLclA0YnhpUEpfdkpUNVg2T2JTOXRGeGEzSjVYNGtFNXpDSm45Sw?oc=5",
-   "source": "CryptoTicker",
-   "type": "news",
-   "published": "2026-10-11T18:40:55+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -2117,6 +2090,28 @@
    ]
   },
   {
+   "title": "Winner of the Coleg Cymraeg \u2018Defi Fet\u2019 Scholarship announced",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXYtUGhNSnhXZ1RGajgwUWVhVlRLaXp5Q241dHNSREpDMjNCaGpXR3RGazFGNHVWWmMtXzZtS0VLX2U5RlhsYVZwMWJ0QjkzeUxmXzNoZjlzdF9OcGtpUk51WFMtVmV5LWRfQTI1b01rOGRvWjhDOFBRdGV0ay1XV3ZTUFBCSWtSdjdTVUdSYlhCbnlqaVdfUWhMMnV2Vkk5Qjhr?oc=5",
+   "source": "Herald.Wales",
+   "type": "news",
+   "published": "2026-10-11T18:29:27+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "ETFs Investing in James Hardie Industries PLC Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83WmN3QnVqNWJZYVNKblRrak9WMndtSkZ3b3ZBX2ZHR3RyalFHakgxNkZUb1FqZDB3SS0xR3c4T1h6RG5tU3RSdHJEbWVBaDVncm4wT29INDZMdWlXazdN?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-11T18:18:23+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "ETFs"
+   ]
+  },
+  {
    "title": "OpenAI revenue miss shakes AI stocks, but innovation continues",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHUyTnhQS1pOWk11dFRZMmlhVVNxNnZnSXo5SGNLWHpKN2RMc1dyWnFSUXM2am4wbnVhN1R3UjliT2NGYzFDU1VROVh6X1EwenYwS0V3VkpYZHVYUFJreWxBYVU5ZFFYSzFVXzZYWVJ2cU8zeDk5Z2QyeEt0VUREdHlzWUNKZTlyellGTkJTTk51ZW52ZFE?oc=5",
    "source": "SC Media",
@@ -2135,6 +2130,7 @@
    "published": "2026-10-11T18:07:41+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
+    "XRP",
     "Ledger"
    ]
   },
@@ -2146,7 +2142,8 @@
    "published": "2026-10-11T18:06:00+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "XRP"
    ]
   },
   {
@@ -2190,8 +2187,7 @@
    "published": "2026-10-11T17:38:00+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "Nvidia",
-    "SpaceX"
+    "Nvidia"
    ]
   },
   {
@@ -2203,17 +2199,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "ETFs"
-   ]
-  },
-  {
-   "title": "SpaceX Stock Pressured Despite Its Wireless Hopes as Credit Risk Jumps",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWptZl9Va0VKXzc0LW05SmxxbHh2TXNmZ2FoSjM2QVQ3ZUdwSTVIVlp1VXBvbjdqMFhzdkxSUTVURjZuN21uXzBtZjFHOUJZSGpzUGhvRG15ajRpamxYLUlqLVJzMHoyNUFOYktaYXJCcy1rWVcwLVdDUnZkbUd6WmpCVktERld4cU9fdWRtTUd3dlljV2ZuTFpUVEdFZDlEaTVyU1NSYWo1bDdHTmgwZVBIS2NqNVgxRDJqU3FwSVhMdzZqS3c?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-11T17:30:01+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
    ]
   },
   {
@@ -2250,29 +2235,6 @@
    ]
   },
   {
-   "title": "Nasdaq, S&P 500, Dow Futures Crack On Tech, SpaceX Selloff: Why SPCX, TSLA, INFQ, MU, HOOD, ADTX Are In Focus",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR09MeVQyb05DcnZrUzRLQzlPSldDUFJrcTRPYWFLckRYOVJpd2x4VW5SUzJERjgxaGJpSUo1RFRsWW1fUVdPeXdWR3hsQXNCOXlKNjczRzZiRkRLZFV3RlFXWHBtMXFnNWtCSXdnY203ZmFZRXVMQjNTeHVZRmpuSkM4WEFSOXhzYmFUZjV6QUNRcXhOWEphM2djeC1zWGRDT0NvU3F2ajA1T1dCcEZlLWl1R1l2bHpIZ1BNOElTOWxMcXpwMGxvVXk4RFNDeE1zc1BIeW1CNXE?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T17:10:29+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
-   "title": "Oil Traders Are About to Test Trump\u2019s Russia-Ukraine Ceasefire Claim, But Bitcoin Reacted First",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQ3F4Ynh6MnJYOVR1dWpIUExheU11Y2lrRDkwODY1WmdYLS01Sm1uV1JRdVNOcVNVcS1leElLdzVUN2stZW1CVERReUkxMGl2VUlJYmtzdE10Uk5tdGhFVG1RVHZBUUw1TU82ZjNpdFQ?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-10-11T17:06:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Bitcoin",
-    "Trump"
-   ]
-  },
-  {
    "title": "Cricket match squads | RWA vs KEN, 4th Match, Africa Continental Cup 2026",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVNhTHFiMVRmVkdxT2Rvb1JfcEJTNTlGZzNrR1llNW92cUJQN1JBZnZsOW44ZnBoS3ZndTYzNC10ZWFVdFRDbnhmSlliTTRjeUQySmI4dW9qdUVTU2dVRlUtbFNhbERsa2tEcGlsMnBteVdXUkFTN2dVd2RjZVBxeUJsUWJGLURXTk5yNTJGUm9SaEtRV3c4SE14dFNpYnN6ZGVJ?oc=5",
    "source": "Cricbuzz",
@@ -2295,17 +2257,6 @@
    ]
   },
   {
-   "title": "T, VZ, TMUS Stocks Drop After-Hours \u2014 SpaceX Targets Wireless Giants As COO Gwynne Shotwell Sees Room To Win \u2018Their Customers\u2019",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejFEMHBkYTJaTFlvMjVrYXMydWFNSjJET0R2QXpZeDFqcVVXYTVBRjFDWjIwZVpXVGd6THgxUFBtNzFtNE83RFdOdlVaNmV5RExnei1EZzZFYWh4TFBObjJmZGVxYTF3ZTFoRVRybXJVQ085Ql9KWHhSNFkwY0NPUHRBcU5BWWRRYUNqMlRmb0UtUkxpZC1MRzFjNA?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T16:51:20+00:00",
-   "first_seen": "2026-10-11T16:00:56.543536+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
    "title": "Why BlackRock Thinks AI Agents Could Run On Stablecoins And Bitcoin",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM2tUOEs2RS1CRm5Xbm5jMzZuazN3ZnhTUV9YOXJHQXpMUkFYRnNrYkU0LWhId29ZOVlQVHJjZTRsVWJTZVFnR3pLbnMyTmFYbnRJZmF3WFlhWk5KTmExTnh2SnRxTEFKNVNKNjcyUmVXU01VbFVIdE5Ec1JCWlYwSHRCaUhzdi0wYl9aYUFGcURHR09pYXJrQ1hkZUczUGI5aHBmR0xiMlk3ZU9YVlVhTzBIYmdFLWtkeG94c3FyT21hamRLeGdQRmtnaWx1MXFXVWVmVF93?oc=5",
    "source": "Stocktwits",
@@ -2318,14 +2269,50 @@
    ]
   },
   {
-   "title": "SpaceX Stock Jumps 19% on Day One \u2014 What Happens Next After the Historic IPO?",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONUc2dEV1V0hHS0hXV3pZc1dyc0Zza1otNXl2QnIwX3F6bTF3M2JLZk5aUFVxUE91YV9lX3B6dHllX19hel9jSEYtMnpaY0NVZ2s5OWJMSUt4U09ZMGE1Z0lIZ0RoQUtKQUZwOUFJb0hBVHIyMkh6NWE1N3I5QzMwcnFvQ244b3FGNHQ1TDVTZ2tQb3ZhQWRDMlZfdUNmU3hQVDBWX0ROb3JnaExnRVRiYl9ycm9wYUFuUHhJTkpwRWlCckswT1R3S0JvNVZlRG1ENks1QTA4UGVKd09lcm5JczR3?oc=5",
-   "source": "TradingKey",
+   "title": "Should You Buy Bitcoin or XRP Right Now? The Case for Each",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUtRRDZmbXAzZmR3NVZPRm1LWEo0S04zRHIwVnI2TkZqck8ycVp4OERhNUc0Y0c4NHE2cHRndW5xUWZUdmtjOW9sSDhMTzdGUTBSWjJoT0phdkhIY09oUENMenFwOGFBSnp6Y0FwR042eXZMU1FHTl9RVTJ6eW5BQ21oU2FvdlduTW1GZlkxTi1yVl9ENFpZd2dKWHpNbWJ1NnJUX1BwVlZUV3JWR1J1TV9ud0h3Q3M?oc=5",
+   "source": "24/7 Wall St.",
    "type": "news",
-   "published": "2026-10-11T16:32:49+00:00",
-   "first_seen": "2026-10-11T16:00:56.543536+00:00",
+   "published": "2026-10-11T16:30:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
-    "SpaceX"
+    "Bitcoin",
+    "XRP"
+   ]
+  },
+  {
+   "title": "Uniswap Rises 3.02% in One Hour to $7.84 as 24-Hour Gain Reaches 3.39%",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zaHdqYWpxRVRGbWk1dkRzS3d6bXJMQUhtQkI5NTZIOU9lTm9pdllaMnl5dGdxWXF4ZmQ4MmRjcnBvUjVDMk1NalNCeFQxbkFLN0RleXprZzJOZw?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-10-11T16:29:15+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "3 Best Altcoins To Buy And Hold \u2014 UNI, AAVE, ARB",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTVEtoV1E2MldtYjY4OWpNMkZ3b1A1eUlJTkcySFRGX0dfdTlaMWlwSXYzR1prY0FaVGxuRUJBeVFqYnRodXJ6N3dXYjFVOEM0ZTdTMlU5TGV6MXotbUdrWWNESdIBY0FVX3lxTFBTVEtoV1E2MldtYjY4OWpNMkZ3b1A1eUlJTkcySFRGX0dfdTlaMWlwSXYzR1prY0FaVGxuRUJBeVFqYnRodXJ6N3dXYjFVOEM0ZTdTMlU5TGV6MXotbUdrWWNESQ?oc=5",
+   "source": "Bitget",
+   "type": "news",
+   "published": "2026-10-11T16:27:44+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "XRP, Bitcoin, Ethereum Prices Fall as ETF Inflows Slow Ahead of US Inflation Data",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWERyOWtHTFZ1akV6N3JNNlk5MHQxazE3SHByRDNwbXBVMXBLZWh1Z2kzMERzNFBEcXRxcnN1WUpMYjN4SFNSaDZWYWhHMlo2VnRLTFBja0cxUnlHU29IdzN4aERneVNQaENXZDhFODdCNmZrZ2NNSHdobVgyTTdfbGF3Z2NuZFVaYzFfYXlmaDlKVnZEUFAxaUxSSXlKRXI1VlM0M3pTU09PcFh0YkdISnJ0ak1lbnFUQWt6S0F1Tjc3azFh?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-10-11T16:11:22+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "XRP"
    ]
   },
   {
@@ -2354,6 +2341,17 @@
    ]
   },
   {
+   "title": "Claude AI\u2019s XRP Price Prediction: Will It Drop to $1.17 or Rise to $1.70 First?",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2s5dlpTUkFUcU9wQTUwamJKX3VNLTdpNE9Yb1dJamtxSzZ1d1IzbWtzRmxYeU0zcHRRWHhNZTlKTnpIYWk0WGg4Rncwa2xGRE5IQzI4dHFwWWNfaURSME85LTlaQmxTbFVCU2Nucks1M1Rnb080clZKNTZERjk4c3Fvdnlqem9pY1FDZEFhX0RUdXA3MTJ6dG8yaw?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-11T16:00:12+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "XRP"
+   ]
+  },
+  {
    "title": "Ethereum Drops Harder Than Bitcoin Ahead Of CPI Report While XRP, Solana Retail Sentiment Climbs",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQk15eDBiSFZwRHRHQW5HOHFTby0tVTRkSXlRdUpzazJvcEs0WkVDOEtKT0tCeC1yUWc4LVlOQlBLdDM1QXFZUW02bUJhY3ZlemNsdmtyUURXbVEwZGF1X2g0bURRLTFGLU1RMUJpcnJQV2hMQmxVcmpUVjladUhkbF9NN2VuRlh4a0dOTUw4R3NWcjNoTV9iX0ZzX2cyUEs3bDJqVkduMGNPNmhQZFNQa1RqN0J3dnJRMHJvUi1RVGVLNl9M?oc=5",
    "source": "Stocktwits",
@@ -2363,6 +2361,7 @@
    "topics": [
     "Ethereum",
     "Bitcoin",
+    "XRP",
     "Solana"
    ]
   },
@@ -2375,28 +2374,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
-   "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-11T15:40:47+00:00",
-   "first_seen": "2026-10-11T16:00:56.543536+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Space Stocks Are Roaring Back In August \u2014 Here\u2019s Why ASTS, RKLB, RDW And Their Peers Are Leaving SpaceX Behind",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRWI2eHZlejFQV3duamlOMW8wWkhCc0k3YXJOVlptVzl0UTJxeV8zSEtheDZJNUx1OVZ2TlNTa2NGQ3dteVVvRFJvWDFZTDRya0lyZ3NhbGtUNVJaTVhJeEpISGR4ZWV1M3dSZHpVd2EzZHQ4WUJERWdsQkY3aF9mX1lwdlBLcVh3cHd0U2liN18wa2YyR1g2dmtPMEF5czVLX1NwZlVOOEE4aGZIWmNZV1FsbzQ3RllWRkZaeUxkV29Wa180U1FkbQ?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T15:34:18+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
    ]
   },
   {
@@ -2431,6 +2408,7 @@
    "topics": [
     "Ethereum",
     "Bitcoin",
+    "XRP",
     "Solana"
    ]
   },
@@ -2480,6 +2458,28 @@
    ]
   },
   {
+   "title": "DeFi Technologies: Operational Wins Don't Shield the Stock From Crypto's Chill",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcnFlRk5EWWZVWW5jUkp6Wmw5THFDbFJnYzl5U2x0eEFNd2ZqUUo4WWoybmEtSTVMdWc5QlFoQmF3Z2JkdkFtR0FubjRBRjV0UXFfdkoxdlJfYmxZaktUT2ltdFl1TVVSdU9mYmhmaGotODNmUjl6eEhIUERiSTRfUG5sYUNIOWRzazlKbXRBdHBydU1aUHdkRkhVaXd1ekRfM21EaG1samhMTWl3bkVyNU9LaWFqVkszLWNzVW9HNlpKMXdia3pZNWFzcTU0eXN6VzhTRWhMQjIyc0F5LUxJQUF2SQ?oc=5",
+   "source": "ad-hoc-news.de",
+   "type": "news",
+   "published": "2026-10-11T14:21:46+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Haedal tops 10 million WAL staked, Sui TVL reaches $523.5 million as SUI retests support",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UVnVreFlLZkNpQjJDRDQ3UjkyZGZZeTZ2c0c0WUY4NWVBTHhkelVaOWcyRWp5WlQxSFRGNnd5YjVyQXVmOXNyeGtnRUtpM0JpS0tFdzNFdUlBOEtrU0HSAWNBVV95cUxPaFhYQWpwTlJkOVlHbnFmdTVieE82cDlHNmpNVXI2VHdJSlE4WVpOZ193YkJZX253VFdzMjhvNm1Xd1FlY3U4WFB3ekx2d0J3aWR2UENZTGhGdENGSlN1RjRHTUU?oc=5",
+   "source": "Bitget",
+   "type": "news",
+   "published": "2026-10-11T14:12:23+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
+   ]
+  },
+  {
    "title": "OpenAI\u2019s $20 billion revenue gap rattles the AI trade",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHlmNnp1N3dSdmVEOWE5aV9ld001MXYxTGN3N0M3bnZMVHdoRWJKZDNNR2YybDhqZVVtZHZHQWJhaGtCakZzdGgya2dUVXoxeUFoNkVneTBoOHZ6Z2hxbUpkcUwzTHowTHBXOHhXWTk2UktZUUJuN3JHZ0hMcXo4QzUtVlV1cGZpQW83VTlaMmotSVdHY1RN?oc=5",
    "source": "TheStreet",
@@ -2502,6 +2502,18 @@
    ]
   },
   {
+   "title": "AI Uncovers XRP Ledger Bug: Is It a Threat or a Defense?",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblJEMEZ5ckNkV3ByaTBXczlvNUQ3dXJGbVQ5RTdtUEpSYUhwU3FlbU10am13djNkX2YyRTRvd1Z0REwxR2M2blZQajRpNzZjdnE1Q0wxZkZBOWlGQkNkVk9rTUxiYnN4M2FYeEMwNFR5UHk1Vnc3WTMtMVpvSEhpREdfcFhweF81cUIxWm1kT3VkRjBWQnc?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-11T14:00:44+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "XRP",
+    "Ledger"
+   ]
+  },
+  {
    "title": "XRP ETFs extend a 13-week inflow streak as Bitcoin, Ethereum and Solana funds shed $1.25 billion",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno2ZUg5QjQ3WlhwMThoYUVjRWlveml4M1lKNnhEeW9JMGpJbUw5Y2xWb1NfNmExN1dzd3hiMEo1QWd2a1U1dHNGMnRmeWU3N1hMZVVkOG00MFI4MlN4b3pHWG9mTlo3a0poMFkwZVRVX0dHZHZZN1d0bjg0NjVyVE5zTzk3WmFPSU5MX2NDWUo4X2JzX09CU3FVeThnSlozRXE1SHJseDZNV3NUZWRObVBR?oc=5",
    "source": "CryptoSlate",
@@ -2511,6 +2523,7 @@
    "topics": [
     "Ethereum",
     "Bitcoin",
+    "XRP",
     "ETFs",
     "Solana"
    ]
@@ -2523,18 +2536,8 @@
    "published": "2026-10-11T14:00:23+00:00",
    "first_seen": "2026-10-11T16:00:56.543536+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "AI Uncovers XRP Ledger Bug: Is It a Threat or a Defense?",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSFhiempodFIzRVFsNmplb2kxTmQ5RTBvZjBIOFlKcGdzZ1plLTNmbWE2SDNiZWtxQ0FrNXAyWUJkX2ZpY1FrcnVBcFVGTDUyc1JqbzhFa1dmbWdEUk9oeERSVE5YWDRYZ2QyMEY5czVKTmtRb0xWbmpvaG1yeXVGMUhoRTdaWnVrSFZia0VhUDFxSXRWWFMtcTFEazVxTXBTWGdhU01wb0ltelF1MXFqcU0zcw?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-11T14:00:00+00:00",
-   "first_seen": "2026-10-11T16:00:56.543536+00:00",
-   "topics": [
-    "Ledger"
+    "Bitcoin",
+    "XRP"
    ]
   },
   {
@@ -2547,17 +2550,6 @@
    "topics": [
     "Stablecoin",
     "Solana"
-   ]
-  },
-  {
-   "title": "Trump's China tariff threat triggered crypto's largest liquidation ever",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQazBPVzBGLU9Fa3RGNktPRGo0MnE2Mk53ZmxDdDBsUktkalk4bU5wY0pnTWgyYzZVQ3pNX0VLX21tejRuOGNZeGRHX3NtRnlwaFJBSk05V1FlN196bExuSUh2MkJxZ1p3ZUVyUUdUaGtBckRoTFlNd2ZRdWJhbF81UzNjZTBITl9OamZvWDBERS12ZDFnR0lReUZYUktrQQ?oc=5",
-   "source": "Startup Fortune",
-   "type": "news",
-   "published": "2026-10-11T13:33:43+00:00",
-   "first_seen": "2026-10-11T16:00:56.543536+00:00",
-   "topics": [
-    "Trump"
    ]
   },
   {
@@ -2617,6 +2609,18 @@
    ]
   },
   {
+   "title": "Which Is More Likely: Bitcoin at $1 Million or XRP at $10?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZE5IeXBnSHJRcVZmZzRJSGgtSEt5dkFZcmNNY2stMm5HczhneGl6X2ZOMFZtMlpPSzZQY3JHUDB6MEJWVnYxNldoSnl0VWVvazQyLTRLNEpUazZJWWVEV2p3ejdqUE1UaU1CQXBrQTRTc3NTUk8xNWZCLUlkak15d3dVMmFCbk5ReTZOWG1iU2VOWWlKMDM1SGhn?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-11T12:40:45+00:00",
+   "first_seen": "2026-10-11T16:00:56.543536+00:00",
+   "topics": [
+    "Bitcoin",
+    "XRP"
+   ]
+  },
+  {
    "title": "Hyperliquid: USDC Earnings Now Fund HYPE Buybacks",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HUmhOTDUxaE1EX3d3OE9aQVRLWEVISnZzYWZiV2p3ZnNvVXI2aDdsUE9BRTVtNzdiRXN4Q1FxbWozd1VqbDdHMkJSajMxOS1ZVWU4VS1TakFtQUZaa3Fyc21kWnFfSEU2RWk2YU1R?oc=5",
    "source": "CryptoTicker",
@@ -2625,39 +2629,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bunker Mode to Canadian Dollar Price Today | Live BUNKER to CAD Converter & Exchange Rate",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nMEZncm9XWHZTTjFKOEEwaEZ3TF9rc05CX2FvZXRJMDhEY09UMVAyRmRENTdjYmtKV2V6b183andoUkpRNERtLUJ5Q0czV2Z1YWt5alJ3?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-11T12:37:19+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Bunker Mode"
-   ]
-  },
-  {
-   "title": "SpaceX Is Public. Here's What $1,000 in Each of These 5 Space Stocks Could Be Worth by 2030.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjcyWHVZTWdZcTVKS1pIQ2xicWFWOW95Q29LQmx1cTIxbkN6dVJ0czNUSGN4OHNFM1V1VkptTUQ1ZHp0MDdsV3lKWDVOajJDV01YcG10amFLVkZrMVFmd21PeU40Y0poTlE4TlJJZWFqWkVtRU9TY2VmWlJ0OWphRjU4ZF9FUW9DZmJyVy0yeGt0eE5Q?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-11T12:28:00+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
-   ]
-  },
-  {
-   "title": "Telecommunications Stocks Plunge Following Massive SpaceX Spectrum Acquisition",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZWXA0SGFNcWZfMVNqNmdQdklVc09TMXRvQ0JuRFJEWVB3WlJBZENzUURvQW1iOGNKVGhhcWlWT3dueW9KbG90M2VGRDJMWUJwMXRBSUVFbHVnRU9ZSUVlMUZPU21DMkRqN0EtYW5OUWY0T2Zu?oc=5",
-   "source": "TIKR.com",
-   "type": "news",
-   "published": "2026-10-11T12:26:53+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "SpaceX"
    ]
   },
   {
@@ -2694,17 +2665,6 @@
    ]
   },
   {
-   "title": "Starknet weighs leaving Ethereum to beat quantum computers to the punch",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2pRTFlIQWYwUk0yRTlJVlVvT2JIdFpoUHI0WTNNV0txNmdUWVRiSG5KZlJlY2RMQl9nYmpMSzJac3BFaWp1Ylo1aXRwZl9NbHpYSlVaNzFwRjVfWThoTjZsa1RtV2N6Ql9oa25zMS14dnRDUVdGdmVDNlNsMHJWd3hid0ZBUGZfWkdESVFXdXNBSkl6SFNhRnplSFNoeUo2?oc=5",
-   "source": "Startup Fortune",
-   "type": "news",
-   "published": "2026-10-11T11:32:07+00:00",
-   "first_seen": "2026-10-11T16:00:56.543536+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "XRP\u2019s ETFs Trail Solana\u2019s by $160 Million: Can XRP Close the Gap?",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFRndkZyYWNQdnhaSnIyRnN6Q2t3N0pIR2tGUlNwZEpyUlozMkNSUWlLOTNseS16QVM4V1Rzd01UTGVMN2ptUnM3S3l1UTBaaGpPZjFycy03RjRZZUd4UjhWUmNWdFNaMXl6clpMUFEyanRmMXc5elZHNkZmengxaDg1d09ZVm5yTUNMTVg4eUtYZXhaTDcxVFV1Q2J6SzlieFBIY2ROOW14RnFOd21MVjl0eFpnQzQ3c2lr?oc=5",
    "source": "24/7 Wall St.",
@@ -2712,8 +2672,31 @@
    "published": "2026-10-11T11:30:00+00:00",
    "first_seen": "2026-10-11T16:00:56.543536+00:00",
    "topics": [
+    "XRP",
     "ETFs",
     "Solana"
+   ]
+  },
+  {
+   "title": "Better Cryptocurrency to Buy Now With $1,000: Chainlink vs. XRP",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmRSX0JRZWlrOHBZMTc3Z25rOU1OWGxCY2VIbjllQjdUOHJrM3pubTRjWEt0bzFVMWRfRUMtbXFZcjd6djAycHlRM1VTWmVKdjY2aXRhR0c5cU5VeFhVNHMteWdPSFk1VjFJVHpKSF80aE1wT3IxVFBEeGNvZnZhUnB2ZGsyV3lhaU4yT285d2hDODVJMVFhcg?oc=5",
+   "source": "The Motley Fool",
+   "type": "news",
+   "published": "2026-10-11T11:30:00+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "XRP"
+   ]
+  },
+  {
+   "title": "Dogecoin's ETFs Went Seven Sessions Without a Dollar Moving. Where Did the Retail Money Go?",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFk2UnBKd3lYdVFsU1hheHRqallSVU5XeWgycnRxb3NDMlBhcEhlVV92SmlTd2RMMUVwWU1MVEFUdkFEajJMVlJPUXU3TFRTczNfTTZQWFF2VWNLQm5QbkJvV3hScTB3ZF9hWklKb0RJbldUbXlYYWJGS3F4NVB2Z2FsSEZrVEd0QkptYnpLUHRhbDVQRVdhZ0lDYzdqSFFVZzFEV0c2eEZzNDJlbFJQVVRPaWZTQjdRd3J1VUYxZUFhYldXc2MxeWFqaHBXSzA2ZkxleS1lRDNNOGdXcEVRaA?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-10-11T11:20:00+00:00",
+   "first_seen": "2026-10-11T16:00:56.543536+00:00",
+   "topics": [
+    "ETFs"
    ]
   },
   {
@@ -2735,8 +2718,29 @@
    "published": "2026-10-11T10:06:41+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "OpenAI",
-    "SpaceX"
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Sui Trades Near $1.10 as Taker Selling Accompanies Weak Momentum",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DQVlmZnB1U1ZSMmJYMXNHbXVzd1FfQXRxS09tSFFGbU9RZmR0d0FXWFJUcFNPRXgydkNHTW9heElhV3NHVER0YmZsOE1iczBIWXI0b2YyUjcyQQ?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-10-11T10:05:52+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Sui"
+   ]
+  },
+  {
+   "title": "SMCI Stock Rises Premarket: Four Taiwan Staff Detained In Illegal Nvidia Chip Export Case",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd1dPSWtNbXgxUFZ2alhITk5ITHRWU2pNN1dzODRWV2xhWDQ1TWFBWmVNaGVuOUhGRkZTM2h1cEpZd1FqaEpfNU5hWmtsN2NJV2YyZVpGV3gyTUVIOGtyOEZ0TjlSaDBOOEMtN1FUTFVoR0dYVTJaTTBOSGNNclRCcUZTcVJsSG9wUlRoY3ItVTRpRWhvTGdLYklNY2w4UmROcGplZVQ2M2d4TUVyV3dqYjhBSV9jdFRUM3hVeG9JeGF5aGdHZURrOXk0eWllU3otdElLQ21xcXp2T1BXQkZJUi1WVHR0NkE?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-11T10:03:57+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "Nvidia"
    ]
   },
   {
@@ -2748,6 +2752,30 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "OpenAI"
+   ]
+  },
+  {
+   "title": "SUI Gains 54% in Four Weeks, Outpacing Bitcoin and Ether",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTU1FaE9pUDlYdEk2LXllSGpwcW9ySUhjbGV3TVZEUzFtVE1QdVdiZFZFT1JURmpSX3JiZzJheEt6YVJiVGxlVUhPUHBISzJqdjE0MEp4ZFM5Qmh4Q0VweHh2Y29zMDRnSk1aaFdVWkZhTHdnNGdPUS03TnhqTlgtUnBLbzVReW9VWnk5M2RKbi1PX0U?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-10-11T09:58:43+00:00",
+   "first_seen": "2026-10-11T08:10:00.402691+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "Sui"
+   ]
+  },
+  {
+   "title": "Amazon.com, Inc. $AMZN Shares Sold by MassMutual Private Wealth & Trust FSB",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDItVnBiajFwSUxwR0FxZnVDUDFIUngzYUJBS2lOUXdibU5EcVU1b1dhVEc5b1cxX2JJUDY1aDk5OHFLdUdqNDFoYl9JYWRRdGtHT1k2R2RrMzFPdUNoU0pGN0pSdHllSklpMWRmdkFWSjFtamQta25KT0dQd2tKYnNMa2tkZkdjLUs1YngxLTJheFFjR0dpZWJLWV9mbGxQeUstM21KTzREcGRFWTRQWFdPd0VaZ2M4VTdtRnh4OXQ2OFpTTlFIRmdn?oc=5",
+   "source": "MarketBeat",
+   "type": "news",
+   "published": "2026-10-11T09:58:02+00:00",
+   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "topics": [
+    "FSB"
    ]
   },
   {
@@ -2798,82 +2826,109 @@
  ],
  "stories": [
   {
-   "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
-   "outlets": 8,
+   "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+   "outlets": 13,
    "topics": [
-    "Bitcoin",
-    "Trump"
+    "Sui"
    ],
    "items": [
     {
-     "title": "European stocks inch higher as Trump\u2019s Russia-Ukraine ceasefire softens crude",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTRrdXVnbElFRmx6TlNRQ2cwX1EzVUlZNjBRMTJOT3lmbFlSdVliMktva09ET2Yzc2ZFQ3JRcHBlNGZTWHNkbTVGb3p5NW94ekJCU0NFaUN4ODNpSC1IN2dMVUYyS09QMGlIQ2p3MmNZcUdzY3JzU2pNaE9QQWFSWllQajZwUm5VR0N5cDI5enJobW40SWxFSUhraEJnZTA?oc=5",
-     "source": "Yahoo Finance",
+     "title": "Sui Makes a $30 Million Move for AI: DATA Network Shuts Down Its Own Network! Here Are the Details",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xcDJObHZPWVVzZnA4ZjBFbHhfclhuTGh2RURXdGx5OWtxVGdJUGhqVlp2M25jeTRtUzFtUVFHdTBfZDFLMk1UT2JhcDAwTUdWQ1piY2h1MDVrUQ?oc=5",
+     "source": "Cryptonews.net",
      "type": "news",
-     "published": "2026-10-12T07:44:25+00:00"
+     "published": "2026-10-12T07:41:52+00:00"
     },
     {
-     "title": "Bitcoin Rises After Trump Announces Ukraine-Russia Energy Ceasefire -- Market Talk",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTU5iUXZoTU5DUHA3SXF5cldGUVBDZXp2Wmc0U1VpOGpld3NyeTlQcVlwX0JQUFY3X05KM3p6aW1mUDZsUDJpNkpXNXBCaVBPQVZMVU1OTHA0VzZMbmwwbVFCQmdzek44clRzR1hzbGFPcVpvTERlSGd5Z1NXUllzQ2l2alowRkhBUTRUSmhTOXhUZElwaHd4eG9GTTZjb19lZ04tWlNvbjY2OXZXNW81QURhVkFnYUhkSUE?oc=5",
-     "source": "Moomoo",
+     "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol moves to Sui: The Block",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05SVoxeDRoei1yeHE0cDBpcFNBRzdwdHdObXRTVHhQZXlpZ0pSRjd4d2xrcHBLUzhjVm83ZnM0Nm1zc2RCX083RlUxNndXLUFCMTlTaFpHUUZvWDBMM3BiR1NlbFBhRFc4Wjg2Q0t3X2FLN0dtbGptM2pZWDc?oc=5",
+     "source": "CryptoRank",
      "type": "news",
-     "published": "2026-10-12T06:54:58+00:00"
+     "published": "2026-10-12T07:36:40+00:00"
     },
     {
-     "title": "\u2018Ukraine Wants Peace. The Question Is Whether Russia Does\u2019: Zelenskyy Welcomes Trump\u2019s Energy Truce as Cr",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNHdIZm9kaHUtZ0kxTThCTVhhVWU0MzhaY2ZTN0tTTzUzUHRaX2hJRVVRc0ZIdkgwYTdIV3J4QllZOGxQd0tTMEx2ZVRGN2tDeHVhVmlydmJHSXZCWXVzYlZkTWVyVzB2WFpiWlNPbkNPQjdVR2szU0pDQjZHOWNoVmJkcFZrb1VYdmhOTUd4S0dQdXp4dzFsZ0RQanNaUENLd1JXQjk5SFUxak9rdC15UkJmUXBoeVhJWElvckhMQy1Odlk?oc=5",
-     "source": "Benzinga",
+     "title": "Sui Foundation Investment DATA Accompanies Network Migration",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOclJ1azA3TWptbmx1aWFGaDdITHRrUTQ3N0p3NVdmdy1hQ1lfMXBnOXlPOHBzS1dHOUhhZzRLMG1GcEtNY2NuaUczaWZkcWF6U1B0WEdHTkZhVDlKLWlpTjBKM2dncjRHRC1WdkE0V0V2dlh1dERidA?oc=5",
+     "source": "The Cryptonomist",
      "type": "news",
-     "published": "2026-10-12T06:44:54+00:00"
+     "published": "2026-10-12T07:07:10+00:00"
     },
     {
-     "title": "Stocks rise as oil falls after Trump declares \u2018energy ceasefire\u2019",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTdCWHU0M0FYN1hhY3MzekFMUmJoMzloREJwV0lEUVNxTlhkN2xvbFJqazdWYk10NjZkMnQ1dnN6cnVDV3M3WUhzWnY4N0NYZldXeXhyam13YWxKV3JsMm1lTExlMWFzblIxczVKRHFwSnRSbVNMTDYzT1A4aENCYmcyLTJ2VlFENzNsLWlNdzNPalNPbS1kcTFzODFfaFZQMjRlbGpjNTBHdFpxV2p30gGzAUFVX3lxTE1sWmJSTllFMFV1ZUNDeGNXUFA1cGlra1VvSTNfSlJLckdqSWs0SDZrWkRMcmJRazk4NTd2UUJCVzNPN2hNc1VNX3k3R0lENFRVMktQbm55SFlMR0U1cWxBLUJDeTIwZDlidFpBeTJ5cXVLOWwtUWxyVWhOaEtVWHF2X0dkVHBEajlPWTJSNmY0V29aRkd4S2N5bEI1Q1NzREhqaWtrNkV0cGh4LWJzR3Z6TVM4?oc=5",
-     "source": "Kuwait Times",
+     "title": "DATA Network Moves to Sui With $30M Foundation Investment",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGpBU3dvd3BHdlF6dDZjZ2RnX2JmcDNGbGtVUWUyU1hmc3gwQXU0d2c3MnJoeTRrT2RKLVhzeDdaazJyOElRRjUtUnRWUHZ6SDNvSHpxdy1IdE12b1NGaTRqWW96VjFpZ2tiR1dSYzVJOVlJSWdvUi1abWxRN0loZzJPd0ZHUDVGLTdPNnc2MDNGdjJEeWNnc3ZnVQ?oc=5",
+     "source": "The Crypto Times",
      "type": "news",
-     "published": "2026-10-12T05:06:41+00:00"
+     "published": "2026-10-12T06:51:31+00:00"
     },
     {
-     "title": "Oil prices tumble as stocks rise after Trump touts 'energy ceasefire'",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnhINXRsZVZacWt1VnZWYkkxZlRSeUU1QVZoM3E2d0RVM00tWElyMTVKNzdNWGN3dmViQlZfb201MnowQ3dwSW54ekEyLTRmOUdVSmx4OHBORHlRZEVodmR5RjJrN3FwRVRWY05qeEVSYk1qbnhidjVKeGVmUmUwT1dPcm42NnlHU2FETm5ycU9INDVpaC1QNlZYbXZabnlLODktOXln?oc=5",
-     "source": "Euronews.com",
+     "title": "DATA Network to migrate to Sui, retire own chain",
+     "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
      "type": "news",
-     "published": "2026-10-12T04:04:28+00:00"
+     "published": "2026-10-12T05:15:43+00:00"
     },
     {
-     "title": "Dow, S&P 500, Nasdaq Futures Climb After Oil In Focus As Trump Declares \u2018Energy Ceasefire\u2019 Between Russia And Ukraine: IREN, WFF, VSTM, CIFR Stocks In Focus",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeVN5dnJQZk9OYjM4eG5uWmZ0ejFQdUVFUGpxdElyTUJxWmZpcFRKRU9KMTkzdjgwd1Fwb1hncXNSUkp6bVBncDJCMklqYXZOZjNNbFE2XzF2d3BNWkljenNzb19xMTVvQkpnM0FUS1RZdkQ0eVpTalJkZktYbERvY24xSS12bEZqSDdUck9SY1g1T1k?oc=5",
-     "source": "Yahoo Finance",
+     "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGN0Rjk4akNVdWc4dWZUTWt0b2o5X19GXzk2OWJnQ1B3QkhFcTBLMHBvMm9qRFhrTmU5VTJrRGF5R2FPc0FWM3pvREZFaDNLNzVpMnhNeGtpelA2Q0U2MVNWcE9rV3l3NEhSczJCZVJUSjJEZF8xOXdCbUNJbnFZZnhpaHZFeTAxZVlNZlBEdUdyMUtlT2VaN09pQUVnY0luRUdDVjIzMHg1Zw?oc=5",
+     "source": "CryptoPotato",
      "type": "news",
-     "published": "2026-10-12T03:50:00+00:00"
+     "published": "2026-10-12T04:47:00+00:00"
     },
     {
-     "title": "Oil price retreat drags energy stocks lower as Trump claims Russia-Ukraine \u2018ceasefire\u2019",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaTdWVy0wUGR5eDdSX0swZnJGNlhvOHZtTHdUT1Rya3N5aFFTZWdQbkNhaWp1ODRORUNhRVdvcUlvbUtCMkFBejRmZVdQcDE0anE4TWQ2T045YTBoc3ZDeTFiblEweVdiN3FiNzJxRC1SNWNna0FUVDZQNkw3UnA1RTY1bWdzNmxyMFFHMUdMMmVHZ2Y3TFIyNWVWSmlVaW11S3o2SGJCOU5wZHZXRnNHeXJLdkJrWjlkNV8xcUZBVEw5aUhWa0NLR0Y1NlBGOVBQQUNrLUZ1akliUzBoUU04QmlGdGpTR09JMjNPVmRzNHVlUQ?oc=5",
-     "source": "Capital Brief",
+     "title": "Sui Foundation invests $30M in DATA Network as it migrates to Sui blockchain, retiring its own chain.",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZnplN05zaF9FZkVXQzhhckx2WFVIWHZZT2g5TmR3ZTcwVWpQdnJMaE45TnZjT01ub0hKalZmMHhrT2JCZlNOcWJ5WjBseGMzQXpYWUlUTlRUZHlDUkNxemE4ZDhudy1UQTZfV0JvV1Z2Ty1pem5KdWZkUVNwSTFwVTZENTgwUmFLM0E?oc=5",
+     "source": "Pluang",
      "type": "news",
-     "published": "2026-10-12T02:42:00+00:00"
+     "published": "2026-10-12T04:33:48+00:00"
     },
     {
-     "title": "Oil Slips as Trump Touts Energy Ceasefire: Why Cramer Isn't Buying It",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVVAzbHNMOExaN1I4U04tWl9PRFdzcGR6LVJXTU5zRDBrZ3VmYzNxTUVkUVVnVk9NX2VLZktjZDc5dVlQNElBV3hTN1N1dExqX1pxUndKa01YaGFWV1BxX2NPanY1MFNsN3c?oc=5",
-     "source": "BeInCrypto",
+     "title": "Sui invests $30M as DATA Network shuts down its blockchain",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHBfcXpSaXg0YV8tbEFaVERUYkoycmU4blpZN0xsNHlKV1NqVFBwNy1EWUtibkFkeDRBMGxtemsxNmh4amxob2NfZWF6ckcyT2lWNHJjQVFOZ2dXOTl6UEJBc196Q2FFaWhnME1laUdubXpUMlNyanUwYkUwMjBIN19pMzc?oc=5",
+     "source": "Crypto News",
      "type": "news",
-     "published": "2026-10-12T01:53:00+00:00"
+     "published": "2026-10-12T04:23:00+00:00"
     },
     {
-     "title": "Oil Traders Are About to Test Trump\u2019s Russia-Ukraine Ceasefire Claim, But Bitcoin Reacted First",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQ3F4Ynh6MnJYOVR1dWpIUExheU11Y2lrRDkwODY1WmdYLS01Sm1uV1JRdVNOcVNVcS1leElLdzVUN2stZW1CVERReUkxMGl2VUlJYmtzdE10Uk5tdGhFVG1RVHZBUUw1TU82ZjNpdFQ?oc=5",
-     "source": "BeInCrypto",
+     "title": "Sui Foundation Commits $30 Million to AI Data Protocol, Becoming Its Largest Holder",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yLWV3Yl9WYzd3NWZaMVJfRjFtc1Q0RVVac0thYVdodld2UlhKbHJ5M1JqWmZ0RjZtUUhVMy1CR2ZBeTJZc3FJdjV3aWl6X3pKZmdBS3MzTktXU0lPWGE2eWZwNlFaTGVaMTFvc0VMNE8wUHgtX2c?oc=5",
+     "source": "BigGo Finance",
      "type": "news",
-     "published": "2026-10-11T17:06:00+00:00"
+     "published": "2026-10-12T03:36:00+00:00"
     },
     {
-     "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
-     "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
-     "source": "CoinDesk",
+     "title": "DATA Network integrates with Sui and Walrus to enhance AI training data supply chain with rights-cleared data.",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHBrekJRdzY0a1RWc0tENzI4Tm1lVDBrT3laOVNkNjFOWldMaEszNExpRV94VEE5WmFTc3l4bzg2VXZ6VTNITGVoX3FUQk9Bb0t1eUh0LVdUUU9EVU5Ja3JrZC0yajJwLS1rSF9KSE43MzRGT05TMlpTLUhQbXplYjVVcnFiRVdNcG5obnd1S3J4R3pHaU1LRFl2dDdrLVp5dG1SekZQVUdJLWxfbmQzeQ?oc=5",
+     "source": "Pluang",
      "type": "news",
-     "published": "2026-10-11T15:40:47+00:00"
+     "published": "2026-10-12T03:25:35+00:00"
+    },
+    {
+     "title": "Sui Invests $30 Million in Data Network, Becomes Largest Holder",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2M05nSTlNbDNvbDJaSkRyLWl6U2g1S1E4UGFkTzVpQjBocWJ3ZFBwR2pxSDZHejZTYjhXaXRRdDB0V1pBWjlDaV9nTUtLZk9lVUZ0Tg?oc=5",
+     "source": "bloomingbit",
+     "type": "news",
+     "published": "2026-10-12T03:07:36+00:00"
+    },
+    {
+     "title": "Sui Foundation Invests $30 Million in DATA Network, Protocol to Migrate to Sui Blockchain",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTJRaXZtMGtlVGVZYlhrRnc0X21MUW9ibWlHTGNBNVUyNGpXRzRvWXhQa0h1OENFM19jeHZaVENFRzN2cFNsSHg0azkzNlJybGwxcWFfWkc3b0RNQWw0VHBEQWtDM05PSEdIWHFVUjVUZVBfRTZSeExEZ1dGaENDbEpXbW9fSnFTYkFpLVh3UWpsQWNxLXFzYkY2ZWRETWhwdXVHM0NnVWxYcGZ0SkhKYzR6cXc?oc=5",
+     "source": "KuCoin",
+     "type": "news",
+     "published": "2026-10-12T02:39:19+00:00"
+    },
+    {
+     "title": "Sui Foundation commits $30 million as DATA Network retires its own chain for Sui",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SZkhXbHFqb2R4WTZtek1DWEJJVHVLWmZqTXhQelBsOWV6OTVyaG04aEV3RlhWM2dqQWZiZVFDTEJ6Z045YzVnTlVIWGVDQXZHR0ZCWDRmX090a1JrdG1MT28tWXZlRVgyMm5xWllKTmtaeFoxUHgxcw?oc=5",
+     "source": "Crypto Briefing",
+     "type": "news",
+     "published": "2026-10-12T02:12:27+00:00"
+    },
+    {
+     "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-10-12T02:00:00+00:00"
     }
    ]
   },
@@ -2884,7 +2939,8 @@
     "Bitcoin",
     "ETFs",
     "Ethereum",
-    "Solana"
+    "Solana",
+    "XRP"
    ],
    "items": [
     {
@@ -2969,39 +3025,40 @@
    ]
   },
   {
-   "title": "AUS, NZ Telecom Stocks Drop Following SpaceX Spectrum Acquisition",
+   "title": "FSB Warns G20 of Stablecoin and AI Risks",
    "outlets": 4,
    "topics": [
-    "SpaceX"
+    "FSB",
+    "Stablecoin"
    ],
    "items": [
     {
-     "title": "AUS, NZ Telecom Stocks Drop Following SpaceX Spectrum Acquisition",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFIzemg3NHAwVU4yQ1BHRVNEcTVxTm1GU2NSQ1dnYk9rWlZCZHQ2aXBiYk1DZFAzSkQwQzRCWEZreUhBb1pRTnZid1RiWjV0bmkxMG9tSWZSOVozWE5hOHd2Y0FsZXdYMDQ1UUpELTE0RTVWSllHNzRwWDgwSnQ5OHp5Z1llZ0R6UVpPZmFvMm5UOU1pU3pGZVdlVFhIdV9oeHhqSmZuRG9TQl9JRl91eVpnNA?oc=5",
-     "source": "Electronics For You BUSINESS",
+     "title": "FSB Warns G20 of Stablecoin and AI Risks",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40S2lhaDh3WUZKLWctejVKWWV6czJ4aUJQdS1tdFBYQnNVSTd0OHdvVFRUaVZuVlIybHY3R3N1SmJMXzJSNFdqVWtfSkhkUmw4SWF0cmczdjJ5X2VPM0lwUm1MZzIzQWp3eU5EWWNqenR6YllMMWUtN2JHNEpQR2M?oc=5",
+     "source": "KuCoin",
      "type": "news",
-     "published": "2026-10-12T07:45:29+00:00"
+     "published": "2026-10-12T07:04:01+00:00"
     },
     {
-     "title": "Telecom stocks in Australia, NZ slide after SpaceX spectrum deal",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajFpQm1yQTNQelVjcWZoYzl2Y3I3T3g1RFZxc3RQazNndjh1cV9qeDJJeUVRQ21JVTVnazMzZnM2YUIwT29LZ2FTYXJSeHVQSmFIOUJKTHJhTmJmOVJmVTA5bkR3MnRIT3BuTjFUMDE2WWphaHBUaU5TTkF2X1Ntc3BveWR6ckxNOUFlUlE2a1JmaXVTTmNkVVItd1VtTzNMM3Y4RHU2YVBXNmttdFo2ZVVER0ZXRllLVjRB?oc=5",
-     "source": "Reuters",
+     "title": "FSB Warns G20 Stablecoin Gaps Could Spread Stress to Traditional Markets",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iMkk1ZURMYl8yRlZUbHM2ZlIxTUdEbm9tcnlSWVYzVUNQZDdJM2FGa2k4SGdrc0lMNTJsWVlTZ3R0SGx5U3ROOGxuUDBzYTJCTU90OV8waURMSEk?oc=5",
+     "source": "www.tokenpost.com",
      "type": "news",
-     "published": "2026-10-12T07:31:33+00:00"
+     "published": "2026-10-12T06:56:33+00:00"
     },
     {
-     "title": "SpaceX's $8B spectrum deal hits telecom stocks; Micron stays strong buy with record earnings ahead.",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjFzWE9tVlFnT0hHbUlBZzBMRERoUElNMDY4dmh3RDI1UDdyMWN2b3ZIU2VCY3lLTHh1VnBjM3EzRTlvUGdMT3BKV3RqdmZqRmp1U1REbnJXVm52LXVaWmJyeEZMRW1lbV9CSThka0UwVlYwRnYyWnUzYnB2WS1oV1dB?oc=5",
-     "source": "Pluang",
+     "title": "FSB warns of stablecoin, AI risks ahead of G20 meeting",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXhIVjFqMHM2dEhva0NNRWtCRjYwdG9lcnlrZlBuWEpnaXVDMnhvbXBheFI3ajFiMHV1Smo5eFlpMUVsbE1YMERQdFpoZkd0Q0tsaDdsZHgyM2NyV1E5UFFSLWJtdFJBdHZ2WHE5cnJuQmF6OVY2M3d6d0t1TEZYdXBIT3NYQzl1Z3Z4Wi05LWF0dms4Y2c?oc=5",
+     "source": "Traders Union",
      "type": "news",
-     "published": "2026-10-11T22:04:50+00:00"
+     "published": "2026-10-12T06:42:19+00:00"
     },
     {
-     "title": "Telecommunications Stocks Plunge Following Massive SpaceX Spectrum Acquisition",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZWXA0SGFNcWZfMVNqNmdQdklVc09TMXRvQ0JuRFJEWVB3WlJBZENzUURvQW1iOGNKVGhhcWlWT3dueW9KbG90M2VGRDJMWUJwMXRBSUVFbHVnRU9ZSUVlMUZPU21DMkRqN0EtYW5OUWY0T2Zu?oc=5",
-     "source": "TIKR.com",
+     "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+     "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
      "type": "news",
-     "published": "2026-10-11T12:26:53+00:00"
+     "published": "2026-10-12T06:30:21+00:00"
     }
    ]
   },
@@ -3012,7 +3069,8 @@
     "Bitcoin",
     "ETFs",
     "Ethereum",
-    "Solana"
+    "Solana",
+    "XRP"
    ],
    "items": [
     {
@@ -3106,36 +3164,6 @@
    ]
   },
   {
-   "title": "Starknet weighs leaving Ethereum to beat quantum computers to the punch",
-   "outlets": 3,
-   "topics": [
-    "Ethereum"
-   ],
-   "items": [
-    {
-     "title": "Starknet considers leaving Ethereum for a quantum-resistant Layer 1",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmFzOEpfUEJyN1FtRWdnSUJDZ2tiUzAtRUhqejU0eTJjSU9jU0ZiaHVxUk5yYTJZYjlvVGljWWFCT2Y1M2dvZXctdlpnMm1XVGhxcThaa0NacHd1cW1GaDkwWlRkZU1XMG1BMExrbC1DeHgwM2VIQjJkajJSRTZaSGdMcmhlWHNnVGxfMlFwV3lseHZKZnNaNi0zLURtdUNEVnFCSFhYVlU?oc=5",
-     "source": "CryptoSlate",
-     "type": "news",
-     "published": "2026-10-11T23:00:46+00:00"
-    },
-    {
-     "title": "Starknet coin surges as developer weighs Ethereum split over quantum security (ETH-USD:Cryptocurrency)",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYjh3N0kwUG8yZjJtemZ0V05aX0ZXak83dXlVNnBYMDY3TGxJakp1MENXcllLU1BNQ3Qzckx4YzJQMUtMV0hQdDYwZVdNOThHYThvX20tSXo0MlJ0TFBDdURmd1NGajc5N0dzTG5PYlZIY2Y4bDJBX2RGUlBvenVscF81bVYzT0ZtY0xpZDRhQkVqTUsweVhqOG1aUm5NcHM4Y1djVjVSVThoTlhVbEdoTXdYRG5ydw?oc=5",
-     "source": "Seeking Alpha",
-     "type": "news",
-     "published": "2026-10-11T17:22:27+00:00"
-    },
-    {
-     "title": "Starknet weighs leaving Ethereum to beat quantum computers to the punch",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2pRTFlIQWYwUk0yRTlJVlVvT2JIdFpoUHI0WTNNV0txNmdUWVRiSG5KZlJlY2RMQl9nYmpMSzJac3BFaWp1Ylo1aXRwZl9NbHpYSlVaNzFwRjVfWThoTjZsa1RtV2N6Ql9oa25zMS14dnRDUVdGdmVDNlNsMHJWd3hid0ZBUGZfWkdESVFXdXNBSkl6SFNhRnplSFNoeUo2?oc=5",
-     "source": "Startup Fortune",
-     "type": "news",
-     "published": "2026-10-11T11:32:07+00:00"
-    }
-   ]
-  },
-  {
    "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
    "outlets": 3,
    "topics": [
@@ -3166,9 +3194,68 @@
    ]
   }
  ],
- "headlines_served": 1400,
- "trend_candidates": [],
- "baseline_days": 3,
+ "headlines_served": 1452,
+ "trend_candidates": [
+  {
+   "key": "xrp",
+   "term": "XRP",
+   "count": 11,
+   "sources": [
+    "24/7 Wall St.",
+    "Benzinga",
+    "BigGo Finance",
+    "CoinDesk",
+    "Cointelegraph",
+    "FXStreet",
+    "The Block",
+    "TradingPedia"
+   ],
+   "baseline": 0.0,
+   "ratio": 11.0
+  },
+  {
+   "key": "ledger",
+   "term": "Ledger",
+   "count": 6,
+   "sources": [
+    "24/7 Wall St.",
+    "CoinDesk",
+    "Cointelegraph",
+    "The Block"
+   ],
+   "baseline": 0.0,
+   "ratio": 6.0
+  },
+  {
+   "key": "sui",
+   "term": "Sui",
+   "count": 5,
+   "sources": [
+    "Bitget",
+    "Cointelegraph",
+    "OneSafe",
+    "The Block",
+    "The Defiant"
+   ],
+   "baseline": 0.0,
+   "ratio": 5.0
+  },
+  {
+   "key": "fsb",
+   "term": "FSB",
+   "count": 5,
+   "sources": [
+    "Financial Stability Board",
+    "KuCoin",
+    "Ledger Insights",
+    "Markets Media",
+    "www.tokenpost.com"
+   ],
+   "baseline": 0.0,
+   "ratio": 5.0
+  }
+ ],
+ "baseline_days": 0,
  "sources": {
   "CoinDesk": "ok",
   "Cointelegraph": "ok",

@@ -428,13 +428,16 @@ def looks_like_name(term, forms, caps):
 
 
 def load_baseline(days):
-    totals, n = Counter(), 0
-    for f in sorted(HISTORY.glob("terms-*.json"))[-days:]:
+    """Average share of headlines mentioning each term over the previous days (pool size varies run to run)."""
+    shares, n = Counter(), 0
+    for f in sorted(HISTORY.glob("terms-*.json"))[-days - 1:]:
         if f.stem == f"terms-{NOW:%Y-%m-%d}":
             continue
-        totals.update(json.loads(f.read_text()))
+        day = json.loads(f.read_text())
+        size = day.pop("_pool")
+        shares.update({t: c / size for t, c in day.items()})
         n += 1
-    return {t: c / n for t, c in totals.items()} if n else {}, n
+    return {t: v / n for t, v in shares.items()} if n else {}, n
 
 
 def display_form(forms):
@@ -458,7 +461,7 @@ def detect_trends(pool, cfg, core_regexes):
         name = display_form(forms[term])
         if any(matches(name, rs) for rs in core_regexes.values()):
             continue  # already a core keyword
-        avg = baseline.get(term, 0.0)
+        avg = baseline.get(term, 0.0) * len(pool)  # expected mentions at today's pool size
         ratio = c / (avg + 1.0)
         # With little history, demand a stronger signal so common words don't sneak in.
         need = tc["min_ratio_vs_baseline"] if base_days >= 3 else tc["min_ratio_vs_baseline"] + 1
@@ -479,7 +482,7 @@ def detect_trends(pool, cfg, core_regexes):
     # Persist today's counts as tomorrow's baseline (only terms seen at least twice, to stay small).
     HISTORY.mkdir(parents=True, exist_ok=True)
     (HISTORY / f"terms-{NOW:%Y-%m-%d}.json").write_text(
-        json.dumps({t: c for t, c in count.items() if c >= 2}))
+        json.dumps({"_pool": len(pool), **{t: c for t, c in count.items() if c >= 2}}))
     return cands, base_days
 
 
@@ -584,9 +587,13 @@ def main(mode):
     news = fresh(fetch_news(cfg, status))
     abort_if_mostly_failed(status)
 
-    # Trend detection runs on the broad pool only (not keyword searches), so a
-    # trend can't keep itself alive just because we searched for it.
-    pool = dedupe(news)
+    # Trend pool = news feeds + Google News for the core keywords (a 24h window of feeds alone is too thin).
+    # Searches for trend terms stay out of it, so a trend can't keep itself alive just because we searched for it.
+    print("Searching Google News for the core keywords…")
+    core_news = []
+    for name, aliases in cfg["keywords"].items():
+        core_news += fresh(fetch_google_news(cfg, name, aliases, status))
+    pool = dedupe(news + core_news)
     core_regexes = {k: alias_regex(v) for k, v in cfg["keywords"].items()}
     print(f"Detecting trends across {len(pool)} headlines…")
     cands, base_days = detect_trends(pool, cfg, core_regexes)
@@ -602,10 +609,11 @@ def main(mode):
             topics.append({"name": t["term"], "kind": "trend", "aliases": [t["term"]],
                            "first_seen": t["first_seen"], "count": t.get("count"), "ratio": t.get("ratio")})
 
-    print("Searching Google News per topic…")
+    print("Searching Google News for trends…")
     searched = []
     for tp in topics:
-        searched += fetch_google_news(cfg, tp["name"], tp["aliases"], status, scoped=tp["kind"] != "core")
+        if tp["kind"] != "core":  # core keywords were already searched above
+            searched += fetch_google_news(cfg, tp["name"], tp["aliases"], status, scoped=True)
     all_items = dedupe(pool + fresh(searched))
 
     # Tag each headline with every topic it mentions; remember when we first saw it.
