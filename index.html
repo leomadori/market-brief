@@ -22,6 +22,20 @@
     --red: #b22222; --navy: #1a2a6c; --rust: #a0381c; --plum: #4b3b5c; --blue: #1f5fa8;
   }
   * { box-sizing: border-box; border-radius: 0 !important; }
+  /* Windows 95-style scrollbar (Chrome, Safari, Edge; Firefox gets plain gray colors; phones keep their own). */
+  @supports (-moz-appearance: none) { html { scrollbar-color: #c0c0c0 #dfdfdf; } }  /* Firefox only: Chrome drops the styles below if this is set */
+  ::-webkit-scrollbar { width: 16px; height: 16px; }
+  ::-webkit-scrollbar-track { background: repeating-conic-gradient(#c0c0c0 0 25%, #fff 0 50%) 0 0 / 2px 2px; }
+  ::-webkit-scrollbar-thumb { background: #c0c0c0; border: 2px outset #f4f4f4; box-shadow: inset -1px -1px #808080; }
+  ::-webkit-scrollbar-thumb:active { background: #b4b4b4; }
+  ::-webkit-scrollbar-button:single-button { display: block; height: 16px; width: 16px; background-color: #c0c0c0;
+    border: 2px outset #f4f4f4; background-repeat: no-repeat; background-position: center; background-size: 8px 8px; }
+  ::-webkit-scrollbar-button:single-button:active { border-style: inset; }
+  ::-webkit-scrollbar-button:single-button:vertical:decrement {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath d='M4 2 7 6H1z'/%3E%3C/svg%3E"); }
+  ::-webkit-scrollbar-button:single-button:vertical:increment {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath d='M1 2h6L4 6z'/%3E%3C/svg%3E"); }
+  ::-webkit-scrollbar-corner { background: #c0c0c0; }
   body { margin: 0; background: #fff; color: var(--text);
          font: 17px/1.35 "Times New Roman", Times, Georgia, serif; }
   a { color: var(--link); }
@@ -49,6 +63,7 @@
   .jump select { font: 12px Verdana, sans-serif; padding: 1px 2px; border: 2px inset #ddd; background: #fff; }
   hr.groove { border: 0; border-top: 2px groove #ccc; margin: 14px 0; }
   .dateline { font: 12px Verdana, Geneva, sans-serif; color: var(--muted); text-align: center; }
+  .schedule-note { font: 10px Verdana, Geneva, sans-serif; color: #888; text-align: center; margin-top: 2px; }
   .dateline.stale { color: var(--red); font-weight: bold; }
 
   /* Market bar: price ticker + Fear & Greed */
@@ -190,6 +205,7 @@
     <div class="fng" id="fng" hidden></div>
   </div>
   <div class="dateline" id="updated"></div>
+  <div class="schedule-note">Updated daily at 08:00, 13:00 and 18:00 (Central European Time)</div>
   <figure class="digit">
     <picture>
       <source srcset="assets/can-you-dig-it.webp" type="image/webp">
@@ -213,7 +229,7 @@
   <footer id="footer"></footer>
 </div>
 
-<script src="data/latest.js?v=20261012103418"></script>
+<script src="data/latest.js?v=20261012103941"></script>
 <script>
 (() => {
   const D = window.DASHBOARD_DATA;
@@ -228,6 +244,12 @@
     $("main").innerHTML = '<div class="error">No data yet. Run <code>python3 fetch.py</code>, then reload.</div>';
     return;
   }
+
+  // Hide headlines once they pass 24 hours, measured when the page is viewed (the data refreshes only twice a day).
+  const MAX_AGE = 24 * 3600e3, fresh = (i) => !i.published || Date.now() - new Date(i.published) <= MAX_AGE;
+  D.items = D.items.filter(fresh);
+  D.stories = (D.stories || []).map((st) => ({ ...st, items: st.items.filter(fresh) }))
+    .map((st) => ({ ...st, outlets: new Set(st.items.map((i) => i.source)).size })).filter((st) => st.outlets >= 2);
 
   const PREVIEW = 6;
   const COLORS = ["--red", "--navy", "--rust", "--plum", "--blue"];

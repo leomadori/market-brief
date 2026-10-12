@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T08:34:00.943134+00:00",
+ "generated_at": "2026-10-12T08:39:32.258283+00:00",
  "first_run": false,
  "topics": [
   {
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 33
+   "item_count": 35
   },
   {
    "name": "Bitcoin",
@@ -82,7 +82,7 @@
    "first_seen": "2026-10-12",
    "count": 11,
    "ratio": 11.0,
-   "item_count": 32
+   "item_count": 31
   },
   {
    "name": "Ledger",
@@ -93,7 +93,7 @@
    "first_seen": "2026-10-10",
    "count": 6,
    "ratio": 6.0,
-   "item_count": 26
+   "item_count": 25
   },
   {
    "name": "Sui",
@@ -104,7 +104,7 @@
    "first_seen": "2026-10-12",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 24
+   "item_count": 26
   },
   {
    "name": "FSB",
@@ -115,7 +115,7 @@
    "first_seen": "2026-10-12",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 7
+   "item_count": 6
   },
   {
    "name": "ETFs",
@@ -198,18 +198,6 @@
    ]
   },
   {
-   "title": "FSB Chair Sets Out Work on AI & Stablecoins",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GaEN6OFdXUDdZVEZ5YUtuclQwUDhZZEJYbmhoMk9sMnltSk1qQ3EwdDZ3U1MwMGFvQlRGM01rYzdsbE5pNVdXTWRqQmo3blNyN19NMENUaFl5cjdGV3paSkJTM2RRNVdOdUd2enZYLUVKaE5RQ3Y1MzlWbw?oc=5",
-   "source": "Markets Media",
-   "type": "news",
-   "published": "2026-10-12T08:21:48+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Stablecoin",
-    "FSB"
-   ]
-  },
-  {
    "title": "Nvidia and Visa Have Little in Common. I'd Split $1,000 Between Them and Hold Until 2035.",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdzRHcXRsSko5SFpRU3Jua2RtRnFMVk94SzlpR3JidFVraFh1bjhlVW51NTlNbXZWZE5aZXVmSWI0MmxONjJJR0x6XzYyOFI1ajJSOHJ1a2w0VVZIWGdwc0Q2d0RJOVZoMHVGUHlrcDRPX2xMNWZHemVYMEtsTnFwMDRnbGpGaEJpR2tFc2lYWkdMaGd3dVdRQkFnNE95MFRqVVhTMDVkMzNjRkJXOHJiMEdLczFGbEZmRkZYRzNSSE0zNGY2N0Z4MTIyTHhfME05NnFoQWYtVktWcm1VdFVmOUZhZmx6TXhjTHhKR2dWdjM1UGUxTjliOA?oc=5",
    "source": "The Globe and Mail",
@@ -240,6 +228,17 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bybit Launches Trading in 1,000+ U.S. Stocks and ETFs",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2UtNXN1RGlFTXRra0NnVE5kajFjUlFnSXpkSDhGQnFLYWMwZWJIaDJvNFFiVU5qWUpZdS1hX2w2LXJ2UU1lX1dUcnVkOFpyS3ZlZjJEZEZ4Y19WQVFiclpBWE5TSEM4NExnaFlzNjNnd0p3TFhhN2tqVGpud3BYRjIwUHk5YzhtU0txSkJmRzhUTHZDaFJsd0RtRHRWbzFuVVV1MkZpMjV1NXVwSVkzZFV6cw?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-12T07:53:16+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
+   "topics": [
+    "ETFs"
    ]
   },
   {
@@ -378,26 +377,14 @@
    ]
   },
   {
-   "title": "Ethereum Price Prediction: ETH Could Dip to $2,300 as AlphaPepe\u2019s $2.95M Presale Approaches Its Next Exchange Reveal",
-   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSUktWmJrVzNYVmtsa0ZRSnc3QWk5MXJfd3BKX3RDalMwcXZNZzF3SWVFSklXem5JOVEwS0F2M1pGZE4zX3VDX2d4ZjhBN2dudTlGYllkaGFwQXdjNDQ1U3U0VUdMZDVIcHRad0Z2VXYyWkJ4OEljQ25sX2twamZVOW5GaFlYczZaRTBkckhHMldadmhMR0FFczdLVHNUVlpfckFPam5TT0U0bW1CNHpER1VOUTVSbkt2SGZJSTZ3b1VoMThNUUx3eUQ1aWpzek9SemdhMmVRdlhtTEFFaTcycVhCdUg3Rm1ZTGZ2c0k5bFo0UTJYS3p4cEgzeFNhcGNLeEFvUk9oZlJPX3NHZzdkZ3ZlWVFJQ3RHVUdqTw?oc=5",
+   "title": "Tether News: Stablecoin Payments Face Fresh Scrutiny as Remittix Tests Crypto-to-Bank Transfers",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR0dpRC1JSTBRbzVFVnB4RWNONG54eVUtV1F6blpkTGdBendreEdmVmFhcUZ4WVB5cm1tcE50U2JHYTAzblhYTW01YmZ6N1lHT0FBREktQ19xdk1EbkFyRkZ4YU50ZGliTzhKdUw4MUhsSmVSUG9RY21vS2lFeW9zbVpEYkp4c2hmMGMyQlhQc3Z3MTdRanJjeHhyeFZiZmNTQVdZZzliTW45MGZqRkhyRXctT2ZScVRwdFp0dWpOSnVmaGU0TUswMGJadEU2RW1uOXM2TF9OQV9lajkwR0RhR25qaU9ib2dQbE9hMktn?oc=5",
    "source": "StreetInsider",
    "type": "news",
    "published": "2026-10-12T07:07:30+00:00",
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Best Crypto to Buy Now: Bitcoin and XRP Face Major Resistance as Remittix Targets a November Explosion",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUHAyWTBkR3NST2FmcVhjV0lTZGV3N2FiQVRpUDd3RGFnVk1HaWRvY0hoa0x4VWtIaFlMcTFONzVBX3pCZnQzbkRLd1JlRWJtSXhXZWxZMWlVN2hoNWxGSmplMUdLWkZ5SjNOT3lvbGtlWUtXeVZ3UWZFcmlFaUVDam9VbXh0N0lXYVlzeTMyWi1KcGVWaTlBNFB1RlhFYlRiSEE4Nk14OFlhWUdBTGdiUXV2RFhCZUJ4bWVzMVJiRk9PSk92dVNlNll3b3BtcF93N2ctUEZiLW1kZFk5eU5HRERYVzZ0TEJRX1JEN3NHS05QM21yVjlN?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-12T07:07:30+00:00",
-   "first_seen": "2026-10-12T08:34:00.943134+00:00",
-   "topics": [
-    "Bitcoin",
-    "XRP"
+    "Stablecoin"
    ]
   },
   {
@@ -582,6 +569,17 @@
    ]
   },
   {
+   "title": "ETFs Investing in Wilh. Wilhelmsen Holding ASA Class B Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03YWs4djJfallpM0xoeUR6MElLb3d4bmg4M1dQR0VvX1pMV0xzTWQwb2N1cWp3T3VwelFIYnphcjJOUGtqUzFJM1lNdkQxanc4azdGT0hfRVN5YTJ1cjFJ?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-12T06:49:29+00:00",
+   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "topics": [
+    "ETFs"
+   ]
+  },
+  {
    "title": "XRP News: XRP Ledger Foundation Clarifies 100B Supply Remains Safe Amid Security Fix",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGtHQ0V3YmNIRnJJY3ZndVlZTUhESERqNlZCX2I5QVVqUDRxb2hTdmR4c0FrejZkOVliVmhEZVdxMU0xejJjWUlpNjI4b19oMTZGZzV3RklKSTB2VFh1aFZCcW1OeGpsWURMcXRiSnVyUzBrRnVLYTBZbUtPdThicmVXS2hNUmlGTE5YTVozQ0xBbF9fb21icE1VTXczNVJWNmlOSk5SWmQ?oc=5",
    "source": "CoinGape",
@@ -650,6 +648,17 @@
    ]
   },
   {
+   "title": "Data Network Up By Double-Digit Percentage As It Reveals Partnership With Sui",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVlrVE5ZV085Mk1ORVBMVW5fcFdIcjEyZE9Yd1ZWTXpUNURHZ1RFTkdLcV8wMnhmVlV1T2VjXzZtYmhxenMtc0t4MzFJRDJYRGNOcS1CdlNwckdhdElMRW9PSmx1X0hETHg0RlVlbWpIaFFJemVoaUk5UEp2elBMcHNNd3VnR1loRnUtemMwbzBVWHNLcXVqMEJzNzJIYkZZWmc?oc=5",
+   "source": "Blockzeit",
+   "type": "news",
+   "published": "2026-10-12T06:31:50+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
+   "topics": [
+    "Sui"
+   ]
+  },
+  {
    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
    "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -697,23 +706,12 @@
    ]
   },
   {
-   "title": "ETFs Investing in UNACEM Corp. Sociedad Anonima Abierta Stocks",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHWldaS1BxSlIxMW1RR3ZBRF9BVVhybG5LUlhEbXVISFVseldIZE8xWGo3MmpqdWJ6bnhWMXVyNnVEU0N4VnU2dlVUMjlKLTdILUYwYjc2SUI1U25RSVp2dm5YMGs?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-12T06:22:34+00:00",
-   "first_seen": "2026-10-12T08:34:00.943134+00:00",
-   "topics": [
-    "ETFs"
-   ]
-  },
-  {
    "title": "Bitcoin RSI Explained: What 70 and 30 Really Mean",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BMVVRd1BlU2k0bERCQXBta1BpSGQ2bGhCUjdiRnk3OUwwTlFtTWpzOTMxalVlVjZIeF9zWVlqQm5YSXVrb3VrNjd1ZjFYVUttWFFuM21fUVdpdVh3WkE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SdkU5RlBLUmVLdzdqR2FWRnhYSXp1eHRxWEFCZlMwMkIzcW5qWmhRVlFQY1owQkhVdHpBeWxscXFGeGhTdlhhbldrWnFiZThVcHA3VzJDNGtjYXlV?oc=5",
    "source": "CryptoTicker",
    "type": "news",
    "published": "2026-10-12T06:18:02+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -738,17 +736,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ledger wallet implant exposes a gap in its authenticity check",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmJZWS1sMWRCeUozNlBINTVzaW5yLXR6SEdVQWV1VlUxeVlodGw2dDdXYXhJUlVVQnZUVTlDTkg3NFk2aVRNbm1Iblowd2ItR1o2Ym9KaWNvWXZneHFJdloyRmhUNEhXdXh5UVlPSkFRc25TYVFzbjZxYjRUU0dHcE5qWnh0VDF3Mzk5ZjBFTmVRUlJkVy03c0o2bmJhQlZLSjAxVkpIeHdDQXFxVkpvMWpyQQ?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-10-12T06:00:34+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Ledger"
    ]
   },
   {
@@ -863,6 +850,17 @@
    ]
   },
   {
+   "title": "Solana Price Prediction: Can the New Speed Upgrade Drive SOL to $200 Before Remittix Takes Off?",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHpFUGdDcXB1MXp6TUx0U2NVUnJVdUpEcFg4MlQ4engwTkxrMGNOWTNIRVF6dmlwb0pxcWdfYkRWVjlxU3RXWWJCSVRCdG02MzBtRGNoNUxScDFxM2ZubVJ1WXd4NFVsbENUMEtydzQ2bndTMWkzam95NWQtTktqVTRWdG5NNkZvM3pRX2JSVGIwX3R3bXdMYzRKZVVDcjZteUI0TFNFNlpWOVlnNEN6cTV6Qkw3cV93?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-10-12T04:48:53+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
+   "topics": [
+    "Solana"
+   ]
+  },
+  {
    "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGN0Rjk4akNVdWc4dWZUTWt0b2o5X19GXzk2OWJnQ1B3QkhFcTBLMHBvMm9qRFhrTmU5VTJrRGF5R2FPc0FWM3pvREZFaDNLNzVpMnhNeGtpelA2Q0U2MVNWcE9rV3l3NEhSczJCZVJUSjJEZF8xOXdCbUNJbnFZZnhpaHZFeTAxZVlNZlBEdUdyMUtlT2VaN09pQUVnY0luRUdDVjIzMHg1Zw?oc=5",
    "source": "CryptoPotato",
@@ -893,17 +891,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Solana (SOLUSD) Volatility Intensified on Oct 12: What You Should Know",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0RUM2N0QUZQcWQzSm50ZXR4ck40T2dFNjMyRV9RRm5BY0lzQXRna2kzc3Q2N1FQRFNIVzRJUi1DZExydG93eFd2YXhCNFcxSGp6WllHQXp3RXJVX0hoY0loMWVHZ0dFOUFZcUpBUFBWajRsRThRY3dtSTFwenUySnl6bXl5R3lBVkNrSktB?oc=5",
-   "source": "TradingKey",
-   "type": "news",
-   "published": "2026-10-12T04:40:13+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Solana"
    ]
   },
   {
@@ -1053,14 +1040,26 @@
    ]
   },
   {
-   "title": "Tether News: Stablecoin Payments Face Fresh Scrutiny as Remittix Tests Crypto-to-Bank Transfers",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX010STVTdXpiTU85OWRQdmJkTmFFT2Jxb0xmNkZveVYxZTJoWWpEOW41b2trZUhEakhKUDZsTk9nYlRiNmlDZXVkT1g1cDVzQTI4Z3p2bmZiMXkxM0ZsdVUzSmZxTWtwMVlxNFV0akNzSGdhbHdmV1JXNnM0d2VQTGZKdHQ2OV80MlRtdmVrcnBUaFpXNldzUjEyUXhTOW5Xbjd3akphamF5aDZ6YTRXbjV6WVpCU21VVVZrMjFLRGRnMERiVTc4WWYwZWxzbS1ZMTNkc2RDLXRBbDJDZ19ZU2VsMWxJT1lzTHpWRQ?oc=5",
+   "title": "Ethereum Price Prediction: ETH Could Dip to $2,300 as AlphaPepe\u2019s $2.95M Presale Approaches Its Next Exchange Reveal",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTGFWQnNzLUVGVG9BLTFYaC1vZ2VCbHAtVVNYeVgxd1B2RjZlVUtidEdzSjZWUVE1ZUNHeHY4UEgwZXUxYVFBak02THRfTDd5OXlvZmlORUtGR2VVS1lQWnBRM0g2Uk1lUFJQNzJ0QWFET09qRXVESTJWQUtjbS1CMkRJd2RlMHMxZ0RUTjZRV0gzSnRNRWNJbEt4OWxQYU1GdHZFeXdlaVNNWjFTQjhjVEQxOHFNOGpHay1CUlItMDRfa0MxNDJWWTJ2T2lUdlNiZmViSlNWbEF4cFB0TDluV0hITTFmX3BOWDlOS2tlaTkxZ2dpLV8wSzY4VXVWR25JSEJZVDQwT25VdGx2aHU2cXR6M3ExOEw1cFZn?oc=5",
    "source": "StreetInsider",
    "type": "news",
    "published": "2026-10-12T03:49:11+00:00",
-   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
    "topics": [
-    "Stablecoin"
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Best Crypto to Buy Now: Bitcoin and XRP Face Major Resistance as Remittix Targets a November Explosion",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDhIMjRlbHpEcC1FTjd1aEdhczZyVkdJVjJLUERMWWxmMklmd1N4TWpVR1Y0M1hSQmJtS0VtUUlncElRLXpHSnRMUmJORWhCRHlwanpkekVrUjBSSlJ2Q0xDSkZybmVMeEZKOU03MmViTllzcVpaS00yV2pmZ1VNakRwMGwzOUJRNjF6WnFiX0lWS2p4djB0MXZ6OFlYQkE3eGdnLVNwY0UzaHRTZkEzZTdhXzVtV0s4Z2lwc0FwcVFDNkl6aEx4UmpYVHozdS1HYXpkbktqS0VHLTJsZWRUTUF3WEZJdFRoWG9uR0M5b1ptWEJhZXc?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-10-12T03:49:11+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
+   "topics": [
+    "Bitcoin",
+    "XRP"
    ]
   },
   {
@@ -1075,14 +1074,14 @@
    ]
   },
   {
-   "title": "Solana Price Today: SOL to IDR = Rp2.02M",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuRmRBM25EOEJYdlZuZjhTZmZZNG9Ha0hfRUREeUd5N21MeWpscXh6eGRob19yY1VKbjc1ZDRyV18yVDVFTFpDalY2ZDE2OFBFMXMxaVB2QQ?oc=5",
-   "source": "Pluang",
+   "title": "Sui Foundation Invests $30 Million in DATA Network\u2019s AI Data Infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UNFNNMmdFdzhHaFdUZV9LeGJPbGxYZU1IeEF1WU9ZajBNVTNjVmpmM01FNDE1bDB2NkJoSGd6SGVObnNQUU9feXhvZTFyUHAta05aTm13TngtakpEeDF3UUhGM1Y?oc=5",
+   "source": "Binance",
    "type": "news",
-   "published": "2026-10-12T03:47:30+00:00",
-   "first_seen": "2026-10-10T15:12:41.471739+00:00",
+   "published": "2026-10-12T03:45:03+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
    "topics": [
-    "Solana"
+    "Sui"
    ]
   },
   {
@@ -1165,6 +1164,18 @@
    ]
   },
   {
+   "title": "MARKET ANALYSIS | Bitcoin Liquidity Recovers 75%, Ether More Than Doubles After the Historic 10/10 Crypto Crash",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fdVFVbjdKU2hFNkNFLUVpTmlfN0loLWlSMUJNT2o2RGF1R0QxMDFHWkg0MnlsZzNIX2owUmtlWnVVX21oTG5fR2ZzaFhsZ052cDZSamRjMi1IODF4X05VWm02ZEczeVNMQW5zNk9ZVEk0RHEyeWMzVmtn?oc=5",
+   "source": "BitKE",
+   "type": "news",
+   "published": "2026-10-12T03:00:35+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "The stablecoin shift is underway: What does it mean for India?",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGpVR1NKWk9pMVlNMVZXNnZFZlVKU25zeG04TWdRajd6eGpyV3pVRW04b1BsbkFZaldRV0U1QjItQjZEbldPLUc4U09PRGlpRFdRd1FkY3UtZ3AwdU5RZVR4U1Z3Z1JWNjMwdUlFMXlFSWNyVnlSRGtQN2ZrdWk1SEZQVHpHTXRUTnpNUkd4d0Z6clA3ZnRrUWVDOXgwSGFoVktqclBBbmVQU2M3Y2c?oc=5",
    "source": "ET Edge Insights",
@@ -1173,17 +1184,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Ledger Confirms Hardware Implant Found on Device in CryptoBilis Probe",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzFlSTlHR2k2TDd1WUdKZnYxYUhNVWpxVTE3dkRMX1duTXVTaVVaRG9vWW50TzBqQUtQVmU2dDUyT1hmaUNHUkh5UU0xTDh1NFhzdy12dVFWcWY1V0N6Mk1NVTczaXNlbnFBRW1JQ21kalVJczk1UGdpLVl1ZjJXbFVVRnpTYzlheDZDMTFLd3FIa0pVbVNoc3R5M1FLS2N1MUw3MWVDdjB4NmRqbjlrLQ?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-12T02:54:34+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Ledger"
    ]
   },
   {
@@ -1470,6 +1470,17 @@
    ]
   },
   {
+   "title": "Tether Shelves Gold-Backed aUSDT Stablecoin, Shifts Focus to Core Products",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGhfOU80T09MR0Y5NjctX0VJV2FScW80RjVKbWU2NFh1QndIaEZ2WE8yc01QVms0dkc1MENPNnQxY2RsZUVvVGxuTy1VcmtSMzRtNDhKN1BaamUtVXJ6Z3h1LXNaRE84QnhRY0l3QmR0NEZEdW5DeldVWXNEUGt6VnJEZUpLaE5YazFKcmhheU9Gdw?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-12T00:08:32+00:00",
+   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
    "title": "INTC, AMD, AVGO: Chip Stocks Jump Premarket After Nvidia's Blowout Report",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUU4dTZXYndUX2YwZlZ6VmR6d3JoV2dDbE1XR1FKS0p2YTZScmlIclZkTUxxb0paRW00TEgwVlE1Qk5hT3BnM3J4eVZqVDBpZ3o1blFiYTQ5M2t3OTlJU3pud01kVlJYQzFVaF82a2xfWXRfM2R2MzBVRDczX0pnRkpPZ3dpam03QlhibkliRnQ3NWhJU25VM0d1bVlvSm02bjJaV2pjZlJwTUpVVnZCMHRxYjFFd2Q2RXRNOFl3ZkItc0llS0JKR2dVN1VORDg?oc=5",
    "source": "Stocktwits",
@@ -1478,6 +1489,17 @@
    "first_seen": "2026-10-11T08:10:00.402691+00:00",
    "topics": [
     "Nvidia"
+   ]
+  },
+  {
+   "title": "ETFs Investing in Koito Manufacturing Co., Ltd. Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SQWhOLUZxVjdTOTA3YWMwZW1JSk4yNWQ0ZTNma0IwTjJGWnNyc2dGcEItbEF0LUZWcmZPQlpkZGVNR2Vwcy1XcmtBSnRGN3h6MDRsTWZ5WkFtTFlhS3c?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-12T00:01:25+00:00",
+   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "topics": [
+    "ETFs"
    ]
   },
   {
@@ -1522,18 +1544,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Ledger"
-   ]
-  },
-  {
-   "title": "Bitcoin ETFs Pull in $258M as Institutions Sold 25,000 BTC in Q4",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUERieEFRel9kMkdHT084OW5hbmluc0Z0VmtWb1VNZ1FkTEZ6Wm15d1Z1UHUzTHptTGNCOWhQV1gyci00YTZGMThLY00wNlhiR3lMTVp2Szc5Z0R5eXlLZXpXYWF2bTFPdXZfd3B1OW54NDZiTWdLc2dSWGZBTmliSUxOc2pNWHp5Z1FWeWtqVG5BZXhNRUQ5T2k3WG9pdzlqRGUyNkdIUnBCWWsyMk1F?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-11T23:49:21+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Bitcoin",
-    "ETFs"
    ]
   },
   {
@@ -1702,6 +1712,18 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Nvidia"
+   ]
+  },
+  {
+   "title": "New Crypto: Remittix Confirms November 24 RTX Launch as Ethereum Price Prediction Eyes $12,000 and Cardano\u2019s Tokenized-Equity Push Revives the $1 ADA Dream",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPbXlVRzB3bHFySnpUZUplUFpHVUtmN2N0X0Roamtka3VJYlQ0VGNYUDl0TTMzNkZYamlxdC14NE96RTVtRVhiZGJDdnd3TEZCcjJtU2s4blNuSG45NnRlZnlkbFJfZ3NZbUZiTVhBQkpBcFN2eUpUT3lmSldnY3RVRTByMWJVREJ4a1BIWjg4Q3J1dkxhTjRCMmcxamw0MlVxRks4R3dLekVEOHVoNWJ3Qjkwb3h1QzlXNGNxSXpfRlVJRl8wQjl6Q28xbG0tS2ZFRFZka0xJQWMtZnlRZGlqc2ZtVWlfUVdtZjRNZjNNc0xHVkk1eDVaMFlhSGplWGtCTkdFSXdWMnpVZXJwcjhoTlRRSVByZkhaNXYxVW5HM2lkY3FWVXgybVJuX1lueWJnVHBfLVJR?oc=5",
+   "source": "markets.businessinsider.com",
+   "type": "news",
+   "published": "2026-10-11T22:15:25+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
+   "topics": [
+    "RWA",
+    "Ethereum"
    ]
   },
   {
@@ -1899,14 +1921,26 @@
    ]
   },
   {
-   "title": "Injective Expands RWA Tokenization As INJ Price Eyes Macro Breakout",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWlpLakJFNERORUxmejNUalBGallKNTBfQ0VVV1ZWTlRNQWsydTZ2X2VnU1hwU092d291N1dyNmQ5ZVI5TUlMZzBVN0JhVk1wRHNVajZtbHhUVXVDMnB2N3JMTXREM0hDSTJUMGNuSkNJZ1ZoY1lQYWN5Z2dSbFpRSXJ0Z1liOWhCU0paeVZzZnVWMER0VjJ1c3FRZw?oc=5",
-   "source": "TronWeekly",
+   "title": "Samsung Reportedly Hikes Chip Prices Amid TSMC Capacity Crunch: Nvidia, Apple, Tesla Fuel Demand",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXlpYVphMzNFdnZ0b3loTTJncFplVGhfd2xST09WcTRjTEJvU2FSbU5hZjlReFJ5LTd4XzZ1Qks3MUUxNTI5MUI3eDRBR1Z4SGtpaEpEMjVkUW1zOTd5QTJORjhaTE1Ta1FyMU1XYjdNZVZmWjhHV1ktbVFoRDhacGp6TTE0bGJYQk1BdENkLVd5LWdMdHVDYU5hNjEzcjdXYkNnODhSblV4N1d6a2xlOEwxM3E3cExIUzdJRjhhdDhfZk5rX0E5Rk9vWGdfbk0?oc=5",
+   "source": "Stocktwits",
    "type": "news",
-   "published": "2026-10-11T20:00:00+00:00",
-   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "published": "2026-10-11T20:03:12+00:00",
+   "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
-    "RWA"
+    "Nvidia"
+   ]
+  },
+  {
+   "title": "FSB Chair sets out FSB work on AI and stablecoins",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUm9pZHByQlgtS0FKOU5BZTQyM1VQSXJBYWs4QlZWY0VhRlhLemVuOHpPQjV2eFNLTkVnekUwc2JoMzdnbElHRjBqcmhJSUxISnZhQ29mb3J4Y2s2SGNFUUsyWDUydG5wU1kzNmxGTk5TOFItRkp2ekRuWm1yaXp3ZEd2S1A?oc=5",
+   "source": "Financial Stability Board",
+   "type": "news",
+   "published": "2026-10-11T20:02:15+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
+   "topics": [
+    "Stablecoin",
+    "FSB"
    ]
   },
   {
@@ -1977,12 +2011,23 @@
    ]
   },
   {
-   "title": "AST SpaceMobile, Inc. Tokenized Stock (Coinbase) Price History and Historical Data",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDU0VWVOTkJTWWxOcjB2ZjY2ZnhwTUVtcjJsRHBDblNKSlp0Z3QtUGxFeDE1SVplc3k5UmhoSVVYcldZSERscWdFNjZUMjRGYURKa19MLTJkQjhKSmVVRkFzNHIyN0FYUmdqUjlhdXZYeDdzYW9KNjNiZndNTGxHQXhFUzJUY2oxQkU0OU5jVHBIVEtjWWFRcm9ucFM4akU?oc=5",
+   "title": "NVIDIA (NVDA) Weekend Outlook: Why the AI Leader Is Down 17% Despite Record Earnings",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObmpOaHNnQmpZQmxtbVBxUzJ3Z3M4T0czTXdTcXhqQUxUbEdNRFlTbHF3OEtoLVdKdGNGRjB0TWVEQ0M4bm1wSFBIV2ZVYTlnYzhDcm5QOXJFbHM3eGhtOE5DZTlSeU5obTJYNHFNU2FrSlpZak0tTjNrS3gza3E1ekREWmpWRTJTQWVGZlk1T3RrenplZ1VaSnZXb0JHcDlDT0hUcFkyQzV0YlROTmF4ZW51ci1zeS1nbUxWcnphWVFaYTRsT3Y0c0VLXzc2Y0ZFM2xHb0lsMm1uVWc?oc=5",
+   "source": "TradingKey",
+   "type": "news",
+   "published": "2026-10-11T19:24:29+00:00",
+   "first_seen": "2026-10-11T16:00:56.543536+00:00",
+   "topics": [
+    "Nvidia"
+   ]
+  },
+  {
+   "title": "Broadcom Inc. Tokenized Stock (Coinbase) Price History and Historical Data",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczN0blQ0bl9QZHpqTE9aZ2RBZmtrSlVhTkpMSkNYVExORUlhb3VpMmg5X2ZRa1lmY2w2S0ExWW1VT0VfNGcyX1poYTE5cWxUemZvZm1ic29lTGlvTGJPMkhKWXBjbUFNOFVHMVN4eHAyWV81eVBOWDZZOWM2V1p3bzFvMkZQQzc4M19iVXE1NnpQQkFROFE?oc=5",
    "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-10-11T19:19:23+00:00",
-   "first_seen": "2026-10-12T08:34:00.943134+00:00",
+   "published": "2026-10-11T19:21:11+00:00",
+   "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "RWA"
    ]
@@ -2018,17 +2063,6 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Nvidia"
-   ]
-  },
-  {
-   "title": "XRP\u2019s next Wall Street expansion comes with an unexpected complication from Ripple",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFhvYzFrRzNlUTBDVmdqYlBvUmN1aWd6Vzh1ZHc5NEVaazJLNU1PeE0tT21UQUF0SDhQaE9lWUNNUGxYc1hOOU9naGJOV0hENm5CZFIzcWZKcHNsWUcxTzNMVFJaTkJoN2xaODhZN3hQVTE5ZGRmbUVISTVtM09XV0dTMTFIdllwMVZUSkJ6Q2owWGZXZ0syZnd5U1V2YTc1Ml9aQzVZWTg2Zw?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-10-11T19:00:09+00:00",
-   "first_seen": "2026-10-12T08:34:00.943134+00:00",
-   "topics": [
-    "XRP"
    ]
   },
   {
@@ -2098,17 +2132,6 @@
    "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "ETFs Investing in James Hardie Industries PLC Stocks",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83WmN3QnVqNWJZYVNKblRrak9WMndtSkZ3b3ZBX2ZHR3RyalFHakgxNkZUb1FqZDB3SS0xR3c4T1h6RG5tU3RSdHJEbWVBaDVncm4wT29INDZMdWlXazdN?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-11T18:18:23+00:00",
-   "first_seen": "2026-10-12T08:34:00.943134+00:00",
-   "topics": [
-    "ETFs"
    ]
   },
   {
@@ -2210,6 +2233,17 @@
    "first_seen": "2026-10-12T08:31:33.034179+00:00",
    "topics": [
     "Ethereum"
+   ]
+  },
+  {
+   "title": "Ledger Wallet Spy Implant Scare Spreads To Europe As Crypto Losses Top $86M: Report",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejJDa2NrWFFLTDVIZWRFM3lDcHRFSkRFTGpTSDBaUk56VWJhcXdRQ3hDMTFOTXVUejVBSTJZbGF3ZldzaUNDQWk0ZU1yV3VISGE5YmoyQklqd0EyTHB5NDR6cjBNdGZ0dmlIR2VsYl9nMG1yQmhPeXBjUHU1S3l4UFhjeHZCWWN0RjY1ZmR3Um1aUTdNck1CcFpPaEdjcFo1eEFsMXRuX3U0ZFNLT1JsNF9VazdFQXlDTi1XaXVHd1BiRGNKS0lZLTA5SzZkSGQyNDFFVlRLeVg?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-11T17:22:02+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
+   "topics": [
+    "Ledger"
    ]
   },
   {
@@ -2621,25 +2655,15 @@
    ]
   },
   {
-   "title": "Hyperliquid: USDC Earnings Now Fund HYPE Buybacks",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HUmhOTDUxaE1EX3d3OE9aQVRLWEVISnZzYWZiV2p3ZnNvVXI2aDdsUE9BRTVtNzdiRXN4Q1FxbWozd1VqbDdHMkJSajMxOS1ZVWU4VS1TakFtQUZaa3Fyc21kWnFfSEU2RWk2YU1R?oc=5",
+   "title": "Solana ETFs: 14 Weeks of Inflows End With $24.8m Out",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yYzU5NV91X3JzRWpiQ2JNOFJqZl9LcVZoQnRyOFdPVjBWSnFJQ2Y4T1QwZU5ZbmVzVVhBbWJLc1FVX0psaENvMi1NZ09SVW90cFZiWDRHQmxUc1N6TVo1TnFSczhQcE5Z?oc=5",
    "source": "CryptoTicker",
    "type": "news",
-   "published": "2026-10-11T12:37:38+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-11T12:29:16+00:00",
+   "first_seen": "2026-10-11T16:00:56.543536+00:00",
    "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "TechFlow Intelligence: NVIDIA in talks to acquire Reflection AI, Meta Personal Agent downloads surpass ChatGPT and Gemi\u2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fTkxHYlBfSG9XM3lJN1cwV2NTUUZWNkliQzB4R0RCYnJTY1ZaQ2dqU0F0TjU4aW5FOHJTdUo0cEZJOHAtSHp3eE0wV1Z5TG84cloyNWp1LVJlT05B?oc=5",
-   "source": "\u6df1\u6f6eTechFlow",
-   "type": "news",
-   "published": "2026-10-11T12:26:10+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
-   "topics": [
-    "Nvidia"
+    "ETFs",
+    "Solana"
    ]
   },
   {
@@ -2689,17 +2713,6 @@
    ]
   },
   {
-   "title": "Dogecoin's ETFs Went Seven Sessions Without a Dollar Moving. Where Did the Retail Money Go?",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFk2UnBKd3lYdVFsU1hheHRqallSVU5XeWgycnRxb3NDMlBhcEhlVV92SmlTd2RMMUVwWU1MVEFUdkFEajJMVlJPUXU3TFRTczNfTTZQWFF2VWNLQm5QbkJvV3hScTB3ZF9hWklKb0RJbldUbXlYYWJGS3F4NVB2Z2FsSEZrVEd0QkptYnpLUHRhbDVQRVdhZ0lDYzdqSFFVZzFEV0c2eEZzNDJlbFJQVVRPaWZTQjdRd3J1VUYxZUFhYldXc2MxeWFqaHBXSzA2ZkxleS1lRDNNOGdXcEVRaA?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-11T11:20:00+00:00",
-   "first_seen": "2026-10-11T16:00:56.543536+00:00",
-   "topics": [
-    "ETFs"
-   ]
-  },
-  {
    "title": "Meet the Only AI Stock I'd Buy Over Nvidia in October",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXktQWhYX2JSSlF3S19OYi0xYUMwSzRPT21tLTVjM3ppeG9uYVpuTjBYOG5fcnl5UE5HNmJIeV8tRllpQlRsOV96Wm40VzRoUEdHdnZkNjc4SnZGdnVYNHljZ1N0U3EyMzVKclZNSXg0d0hDaHZxMURQYnhxM1AwVmhLZjM5V01VRUNTZHRyOUx2ajR1OTktNg?oc=5",
    "source": "The Motley Fool",
@@ -2712,11 +2725,11 @@
   },
   {
    "title": "Crypto Investors Can Now Buy a Cathie Wood Investment Fund That Holds SpaceX and OpenAI. Here's What You Need to Know to Get Started.",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQU1pOWm5GREljamFNN2JLRUJiOF9GVGxKRkp2Z1V2aXE2a2d6YVBVZC12b3lXSW5saUJBUl9pLS16UXhpaWxYYzdoajlqUUlIM3otOXVDS3F1ME5SaVNyRG02SFJyY19wQmdHUUVMRWZsQmhJWi1PQ1BTalhxTExxVWpkd2FDUUlFVzZjbXdyNEQ4UVdJRVVkNGFIYnRQdFJvWEc0UDRhczc0cDI5LXlEZG0wZzBCSDFCREkzSmVaQXdWSmZ3bGp4UXAxRE1qODlBbFpPS0pBUkZQWXBPSTlVLXdadnR4WDkteEplVDc2VXBBZ0NlVm1JVThUTjVYUzhUbGtxWE54MGlGNVlOUjV5MVQzU0ZOaV9CMnJ5LXZUN1hyR0d1SzlIMy1aQm9TQmdLTlJTNy1oTDBGS2ROVlE?oc=5",
-   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQU5yQm1vbWhJLXFMaDlzZ2ZCUEg3SzFndjRVcE1ITDRSTi1LTFAwREtsaGdGaUJHbXBtT28zNUloWThiSTUxXzhqX0w4SlBZWW5lTXRLUWFRTnJVcjhNdFY1U2FCcjRmdi1ScVpubDhFNjk5aF9XV1FMVW9IWDA5cUhTQVl6blZRZkczbzVjZmlJNnJkcVBoaA?oc=5",
+   "source": "The Motley Fool",
    "type": "news",
-   "published": "2026-10-11T10:06:41+00:00",
-   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "published": "2026-10-11T10:45:00+00:00",
+   "first_seen": "2026-10-12T08:39:32.258283+00:00",
    "topics": [
     "OpenAI"
    ]
@@ -2730,17 +2743,6 @@
    "first_seen": "2026-10-12T08:34:00.943134+00:00",
    "topics": [
     "Sui"
-   ]
-  },
-  {
-   "title": "SMCI Stock Rises Premarket: Four Taiwan Staff Detained In Illegal Nvidia Chip Export Case",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd1dPSWtNbXgxUFZ2alhITk5ITHRWU2pNN1dzODRWV2xhWDQ1TWFBWmVNaGVuOUhGRkZTM2h1cEpZd1FqaEpfNU5hWmtsN2NJV2YyZVpGV3gyTUVIOGtyOEZ0TjlSaDBOOEMtN1FUTFVoR0dYVTJaTTBOSGNNclRCcUZTcVJsSG9wUlRoY3ItVTRpRWhvTGdLYklNY2w4UmROcGplZVQ2M2d4TUVyV3dqYjhBSV9jdFRUM3hVeG9JeGF5aGdHZURrOXk0eWllU3otdElLQ21xcXp2T1BXQkZJUi1WVHR0NkE?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-11T10:03:57+00:00",
-   "first_seen": "2026-10-12T08:34:00.943134+00:00",
-   "topics": [
-    "Nvidia"
    ]
   },
   {
@@ -2765,17 +2767,6 @@
     "Ethereum",
     "Bitcoin",
     "Sui"
-   ]
-  },
-  {
-   "title": "Amazon.com, Inc. $AMZN Shares Sold by MassMutual Private Wealth & Trust FSB",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDItVnBiajFwSUxwR0FxZnVDUDFIUngzYUJBS2lOUXdibU5EcVU1b1dhVEc5b1cxX2JJUDY1aDk5OHFLdUdqNDFoYl9JYWRRdGtHT1k2R2RrMzFPdUNoU0pGN0pSdHllSklpMWRmdkFWSjFtamQta25KT0dQd2tKYnNMa2tkZkdjLUs1YngxLTJheFFjR0dpZWJLWV9mbGxQeUstM21KTzREcGRFWTRQWFdPd0VaZ2M4VTdtRnh4OXQ2OFpTTlFIRmdn?oc=5",
-   "source": "MarketBeat",
-   "type": "news",
-   "published": "2026-10-11T09:58:02+00:00",
-   "first_seen": "2026-10-12T08:34:00.943134+00:00",
-   "topics": [
-    "FSB"
    ]
   },
   {
@@ -2827,7 +2818,7 @@
  "stories": [
   {
    "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-   "outlets": 13,
+   "outlets": 14,
    "topics": [
     "Sui"
    ],
@@ -2887,6 +2878,13 @@
      "source": "Crypto News",
      "type": "news",
      "published": "2026-10-12T04:23:00+00:00"
+    },
+    {
+     "title": "Sui Foundation Invests $30 Million in DATA Network\u2019s AI Data Infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UNFNNMmdFdzhHaFdUZV9LeGJPbGxYZU1IeEF1WU9ZajBNVTNjVmpmM01FNDE1bDB2NkJoSGd6SGVObnNQUU9feXhvZTFyUHAta05aTm13TngtakpEeDF3UUhGM1Y?oc=5",
+     "source": "Binance",
+     "type": "news",
+     "published": "2026-10-12T03:45:03+00:00"
     },
     {
      "title": "Sui Foundation Commits $30 Million to AI Data Protocol, Becoming Its Largest Holder",
@@ -2981,50 +2979,6 @@
    ]
   },
   {
-   "title": "Ledger Confirms Hardware Implant Found on Device in CryptoBilis Probe",
-   "outlets": 5,
-   "topics": [
-    "Ledger"
-   ],
-   "items": [
-    {
-     "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-     "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-10-12T07:49:40+00:00"
-    },
-    {
-     "title": "Ledger Confirms Hardware Implant Found on Device in CryptoBilis Probe",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzFlSTlHR2k2TDd1WUdKZnYxYUhNVWpxVTE3dkRMX1duTXVTaVVaRG9vWW50TzBqQUtQVmU2dDUyT1hmaUNHUkh5UU0xTDh1NFhzdy12dVFWcWY1V0N6Mk1NVTczaXNlbnFBRW1JQ21kalVJczk1UGdpLVl1ZjJXbFVVRnpTYzlheDZDMTFLd3FIa0pVbVNoc3R5M1FLS2N1MUw3MWVDdjB4NmRqbjlrLQ?oc=5",
-     "source": "CoinMarketCap",
-     "type": "news",
-     "published": "2026-10-12T02:54:34+00:00"
-    },
-    {
-     "title": "Ledger Confirms Hardware Implant as Tampered Wallet Reports Allegedly Spread to Europe",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVRmTUNKWi14RmtOLTZuY0gzdmtoclFDYkVRbDM0cHpuMXVrYTdVNGQ3WVRnR21vRGJKVHU3VFE5NE1FUnRFVE9oa2lzNFJ0dzNXWHlTNnEyQlRleFpFTnJ4WTh6QVpfY3hmLVEzME1NNWJzYW1EWnh3NWFzUmpnWDU3M3dxb25wbV9Td2FuMkxROTZQemR2bUdxdVJ3eHlIaDJrTW1vZERGV0owM2hIMGYxYjIxUENMLW9WTEtacGJKUQ?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-10-11T19:40:57+00:00"
-    },
-    {
-     "title": "Ledger Confirms Hardware Wallet Implant In CryptoBilis -Sold Device Amid $90 Million Crypto User Funds Drain",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMURHNjNVaFREUW1kV2M5Y1ppelNmMkVzeDgxYk9OcUVXWVVDS1hnVUE5T0lmd1lrSXRPd0Z4QU1jN3NRcTZnVjh4bll0ci1nTUt3RWgtWEx0SW1JTUoyQVhlTlZZaHF0UWM4RWwyT3p3UWk5SmdneVZjeTlvOHBudFBLOGxGN3VJcXNYckwxQ0lsbkdCSzFpdXdJMVF4Rjhnd3N4MFB1T09ZdUp4V2xUMUZmbUhWeFF4ZXh3SHBnODF0Qnd5eUdLM0tTdE8zMy02Y0x1ejF0RzBMdXFpOHRUOFBBbW9JTjk0c1U4?oc=5",
-     "source": "Crowdfund Insider",
-     "type": "news",
-     "published": "2026-10-11T15:33:21+00:00"
-    },
-    {
-     "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
-     "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-11T09:05:00+00:00"
-    }
-   ]
-  },
-  {
    "title": "FSB Warns G20 of Stablecoin and AI Risks",
    "outlets": 4,
    "topics": [
@@ -3100,6 +3054,43 @@
      "source": "CryptoSlate",
      "type": "news",
      "published": "2026-10-11T14:00:41+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Ledger Confirms Hardware Implant as Tampered Wallet Reports Allegedly Spread to Europe",
+   "outlets": 4,
+   "topics": [
+    "Ledger"
+   ],
+   "items": [
+    {
+     "title": "Ledger Confirms Hardware Implant as Tampered Wallet Reports Allegedly Spread to Europe",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVRmTUNKWi14RmtOLTZuY0gzdmtoclFDYkVRbDM0cHpuMXVrYTdVNGQ3WVRnR21vRGJKVHU3VFE5NE1FUnRFVE9oa2lzNFJ0dzNXWHlTNnEyQlRleFpFTnJ4WTh6QVpfY3hmLVEzME1NNWJzYW1EWnh3NWFzUmpnWDU3M3dxb25wbV9Td2FuMkxROTZQemR2bUdxdVJ3eHlIaDJrTW1vZERGV0owM2hIMGYxYjIxUENMLW9WTEtacGJKUQ?oc=5",
+     "source": "CryptoRank",
+     "type": "news",
+     "published": "2026-10-11T19:40:57+00:00"
+    },
+    {
+     "title": "Ledger Wallet Spy Implant Scare Spreads To Europe As Crypto Losses Top $86M: Report",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejJDa2NrWFFLTDVIZWRFM3lDcHRFSkRFTGpTSDBaUk56VWJhcXdRQ3hDMTFOTXVUejVBSTJZbGF3ZldzaUNDQWk0ZU1yV3VISGE5YmoyQklqd0EyTHB5NDR6cjBNdGZ0dmlIR2VsYl9nMG1yQmhPeXBjUHU1S3l4UFhjeHZCWWN0RjY1ZmR3Um1aUTdNck1CcFpPaEdjcFo1eEFsMXRuX3U0ZFNLT1JsNF9VazdFQXlDTi1XaXVHd1BiRGNKS0lZLTA5SzZkSGQyNDFFVlRLeVg?oc=5",
+     "source": "TradingView",
+     "type": "news",
+     "published": "2026-10-11T17:22:02+00:00"
+    },
+    {
+     "title": "Ledger Confirms Hardware Wallet Implant In CryptoBilis -Sold Device Amid $90 Million Crypto User Funds Drain",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMURHNjNVaFREUW1kV2M5Y1ppelNmMkVzeDgxYk9OcUVXWVVDS1hnVUE5T0lmd1lrSXRPd0Z4QU1jN3NRcTZnVjh4bll0ci1nTUt3RWgtWEx0SW1JTUoyQVhlTlZZaHF0UWM4RWwyT3p3UWk5SmdneVZjeTlvOHBudFBLOGxGN3VJcXNYckwxQ0lsbkdCSzFpdXdJMVF4Rjhnd3N4MFB1T09ZdUp4V2xUMUZmbUhWeFF4ZXh3SHBnODF0Qnd5eUdLM0tTdE8zMy02Y0x1ejF0RzBMdXFpOHRUOFBBbW9JTjk0c1U4?oc=5",
+     "source": "Crowdfund Insider",
+     "type": "news",
+     "published": "2026-10-11T15:33:21+00:00"
+    },
+    {
+     "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+     "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-11T09:05:00+00:00"
     }
    ]
   },
@@ -3194,7 +3185,7 @@
    ]
   }
  ],
- "headlines_served": 1452,
+ "headlines_served": 1464,
  "trend_candidates": [
   {
    "key": "xrp",
@@ -3236,20 +3227,6 @@
     "OneSafe",
     "The Block",
     "The Defiant"
-   ],
-   "baseline": 0.0,
-   "ratio": 5.0
-  },
-  {
-   "key": "fsb",
-   "term": "FSB",
-   "count": 5,
-   "sources": [
-    "Financial Stability Board",
-    "KuCoin",
-    "Ledger Insights",
-    "Markets Media",
-    "www.tokenpost.com"
    ],
    "baseline": 0.0,
    "ratio": 5.0

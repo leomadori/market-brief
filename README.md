@@ -6,7 +6,7 @@ A personal, late-90s-style dashboard of market and crypto news and Reddit chatte
 
 ## Market Brief (news)
 
-Updated at 08:00 and 18:00.
+Updated at 08:00, 13:00 and 18:00 (Central European Time). Headlines older than 24 hours are hidden.
 
 - **Topics:** Stablecoin, RWA (real-world assets / tokenization), Ethereum, Bitcoin and DEFI (decentralized finance), each in its own column.
 - **🔥 Trends:** terms that suddenly show up much more than usual (e.g. *Solana*, *OpenAI*) are detected automatically, get their own column, and fade after a few quiet days.
@@ -39,6 +39,7 @@ A small Python script (standard library only) runs on a schedule: it fetches the
 
 ## Changelog
 
+- **2026-10-12:** Windows 95-style scrollbar; news updates three times a day (08:00, 13:00, 18:00) with the times shown on the page; headlines hide automatically once they pass 24 hours.
 - **2026-10-12:** New DEFI topic. Trend detection now also uses Google News results for the core topics (more headlines to spot trends in) and compares each term's share of headlines with previous days.
 - **2026-10-12:** Market Brief shows only news from the last 24 hours.
 - **2026-10-12:** "Can you dig it?" GIF under the update time (stored in the repo, served as a 355 KB animated WebP).
