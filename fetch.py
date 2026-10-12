@@ -580,6 +580,7 @@ def main(mode):
 
     print("Fetching news feeds…")
     news = fresh(fetch_news(cfg, status))
+    abort_if_mostly_failed(status)
 
     # Trend detection runs on the broad pool only (not keyword searches), so a
     # trend can't keep itself alive just because we searched for it.
@@ -655,6 +656,14 @@ def main(mode):
             print(f"  {k}: {v}")
 
 
+def abort_if_mostly_failed(status):
+    """Offline Mac / outage: keep the previous page instead of publishing a near-empty one."""
+    failed = [k for k, v in status.items() if v != "ok"]
+    if len(failed) > len(status) / 2:
+        sys.exit(f"{len(failed)} of {len(status)} sources failed (e.g. {status[failed[0]]}); "
+                 "not updating the page, previous data stays live.")
+
+
 def run_reddit(cfg, state, fresh, status, first_run):
     # One Reddit fetch at a time: two runs share the same rate limit and stall each other (seen 2026-10-10).
     lock = open(DATA / "reddit.lock", "w")
@@ -664,7 +673,9 @@ def run_reddit(cfg, state, fresh, status, first_run):
         sys.exit("Another Reddit fetch is already running; skipping this one.")
     print("Fetching Reddit (paced to respect its rate limit)…")
     recurring = [re.compile(x, re.I) for x in cfg.get("reddit_exclude_titles", [])]
-    posts = [i for i in dedupe(fresh(fetch_reddit(cfg, status)))
+    raw = fetch_reddit(cfg, status)
+    abort_if_mostly_failed(status)
+    posts = [i for i in dedupe(fresh(raw))
              if not any(r.search(i["title"]) for r in recurring)]
     n_terms = update_term_stats(state, posts)
     seen = state.setdefault("seen", {})
