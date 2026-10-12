@@ -8,7 +8,7 @@ A personal, late-90s-style dashboard of market and crypto news and Reddit chatte
 
 Updated at 08:00 and 18:00.
 
-- **Topics:** Stablecoin, RWA (real-world assets / tokenization), Ethereum and Bitcoin, each in its own column.
+- **Topics:** Stablecoin, RWA (real-world assets / tokenization), Ethereum, Bitcoin and DEFI (decentralized finance), each in its own column.
 - **🔥 Trends:** terms that suddenly show up much more than usual (e.g. *Solana*, *OpenAI*) are detected automatically, get their own column, and fade after a few quiet days.
 - **Top stories:** the same event covered by several outlets is grouped into one story, ranked by how many outlets cover it.
 - **Price ticker:** a scrolling retro bar with the top 20 cryptocurrencies by market cap (stablecoins excluded) and their 24h change, loaded live from CoinGecko.
@@ -39,6 +39,7 @@ A small Python script (standard library only) runs on a schedule: it fetches the
 
 ## Changelog
 
+- **2026-10-12:** New DEFI topic. Trend detection now also uses Google News results for the core topics (more headlines to spot trends in) and compares each term's share of headlines with previous days.
 - **2026-10-12:** Market Brief shows only news from the last 24 hours.
 - **2026-10-12:** "Can you dig it?" GIF under the update time (stored in the repo, served as a 355 KB animated WebP).
 - **2026-10-12:** Market Brief morning update moved from 10:00 to 08:00. If most sources fail (e.g. no internet), the update is skipped and the previous page stays live.
