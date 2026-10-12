@@ -294,6 +294,41 @@ def cluster_stories(items, threshold=0.25, min_outlets=3, limit=10):
     return stories[:limit]
 
 
+# ---------- upcoming events ----------
+
+FED_CALENDAR = "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+
+
+def fetch_fomc():
+    """FOMC rate decisions from the Fed's calendar page (decision = last day of the meeting)."""
+    page = http_get(FED_CALENDAR).decode("utf-8", "replace")
+    out, year, month = [], None, None
+    for m in re.finditer(r"(\d{4}) FOMC Meetings|fomc-meeting__month[^>]*><strong>([^<]+)|fomc-meeting__date[^>]*>([^<]+)", page):
+        if m.group(1):
+            year = int(m.group(1))
+        elif m.group(2):
+            month = m.group(2).split("/")[-1].strip()  # "Oct/Nov" -> decision falls in Nov
+        elif year and month:
+            day = re.findall(r"\d+", m.group(3))[-1]
+            try:
+                date = datetime.strptime(f"{year} {month[:3]} {day}", "%Y %b %d").strftime("%Y-%m-%d")
+            except ValueError:
+                continue  # e.g. "(notation vote)" rows without a real day
+            out.append({"date": date, "name": "FOMC rate decision", "url": FED_CALENDAR})
+    return out
+
+
+def upcoming_events(cfg, status):
+    events = list(cfg.get("events", []))
+    try:
+        events += fetch_fomc()
+        status["Fed calendar"] = "ok"
+    except Exception as e:
+        status["Fed calendar"] = f"error: {e}"
+    today = NOW.strftime("%Y-%m-%d")
+    return sorted((e for e in events if e["date"] >= today), key=lambda e: e["date"])
+
+
 # ---------- reddit heat (ticker mentions) ----------
 
 TICKER_CACHE = DATA / "ticker_lists.json"
@@ -644,6 +679,7 @@ def main(mode):
         "topics": topics,
         "items": out_items,
         "stories": cluster_stories(out_items),
+        "events": upcoming_events(cfg, status),
         "headlines_served": served,
         "trend_candidates": cands[:20],
         "baseline_days": base_days,

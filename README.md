@@ -13,6 +13,7 @@ Updated at 08:00, 13:00 and 18:00 (Central European Time). Headlines older than 
 - **Top stories:** the same event covered by several outlets is grouped into one story, ranked by how many outlets cover it.
 - **Price ticker:** a scrolling retro bar with the top 20 cryptocurrencies by market cap (stablecoins excluded) and their 24h change, loaded live from CoinGecko.
 - **Fear & Greed:** the daily Crypto Fear & Greed Index (Alternative.me) as a slider and a number.
+- **Coming up:** countdown to the next market-moving events within 30 days: FOMC rate decisions (read from the Federal Reserve's calendar), US CPI and jobs-report releases (BLS schedule).
 - **Pull-quote:** the day's strongest trend.
 - **Headlines served:** an odometer counting every unique headline collected since day one.
 - Search, and **bold = new today**.
@@ -39,6 +40,7 @@ A small Python script (standard library only) runs on a schedule: it fetches the
 
 ## Changelog
 
+- **2026-10-12:** "Coming up" event countdown (FOMC, CPI, jobs report).
 - **2026-10-12:** Windows 95-style scrollbar; news updates three times a day (08:00, 13:00, 18:00) with the times shown on the page; headlines hide automatically once they pass 24 hours.
 - **2026-10-12:** New DEFI topic. Trend detection now also uses Google News results for the core topics (more headlines to spot trends in) and compares each term's share of headlines with previous days.
 - **2026-10-12:** Market Brief shows only news from the last 24 hours.

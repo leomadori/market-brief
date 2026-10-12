@@ -89,6 +89,16 @@
   figure.digit { margin: 14px auto 0; width: min(280px, 80%); }
   figure.digit img { display: block; width: 100%; height: auto; border: 1px solid #000; }
 
+  /* Coming up: event countdown */
+  .events { max-width: 560px; margin: 4px auto 10px; border: 1px solid #999; padding: 6px 12px 4px;
+            box-shadow: 3px 3px 4px rgba(0,0,0,.12); font: 13px/1.6 Verdana, Geneva, sans-serif; }
+  .events .hd { text-align: center; font: bold 11px Verdana, sans-serif; letter-spacing: .3em; color: var(--navy); }
+  .events table { width: 100%; border-collapse: collapse; }
+  .events td { padding: 1px 4px; vertical-align: baseline; }
+  .events td.when { width: 7.5em; font-weight: bold; white-space: nowrap; }
+  .events td.when.soon { color: var(--red); }
+  .events td.date { text-align: right; color: var(--muted); font-size: 11px; white-space: nowrap; }
+
   /* Pull quote */
   .quote { text-align: center; color: var(--red); margin: 22px auto 6px; max-width: 760px; }
   .quote .q { font: 600 clamp(20px, 3.4vw, 30px)/1.25 "Gill Sans", "Trebuchet MS", sans-serif; }
@@ -204,6 +214,7 @@
     <div class="ticker" aria-label="Crypto prices"><div class="track" id="track"></div></div>
     <div class="fng" id="fng" hidden></div>
   </div>
+  <div class="events" id="events" hidden></div>
   <div class="dateline" id="updated"></div>
   <div class="schedule-note">Updated daily at 08:00, 13:00 and 18:00 (Central European Time)</div>
   <figure class="digit">
@@ -229,7 +240,7 @@
   <footer id="footer"></footer>
 </div>
 
-<script src="data/latest.js?v=20261012202501"></script>
+<script src="data/latest.js?v=20261012214531"></script>
 <script>
 (() => {
   const D = window.DASHBOARD_DATA;
@@ -333,6 +344,25 @@
   }
   loadPrices(); loadFng();
   setInterval(loadPrices, 120000);
+
+  // Coming up: next 5 events in the next 30 days; countdown uses the viewer's own date.
+  const midnight = (d) => new Date(d.getFullYear(), d.getMonth(), d.getDate());
+  const soon = (D.events || []).map((e) => ({ ...e,
+      days: Math.round((midnight(new Date(e.date + "T00:00")) - midnight(new Date())) / 864e5) }))
+    .filter((e) => e.days >= 0 && e.days <= 30).slice(0, 5);
+  if (soon.length) {
+    const box = $("events"), table = el("table");
+    box.append(el("div", "hd", "COMING UP"));
+    for (const e of soon) {
+      const tr = el("tr"), name = el("a", null, e.name);
+      name.href = safeUrl(e.url); name.target = "_blank"; name.rel = "noopener noreferrer";
+      const nameTd = el("td"); nameTd.append(name);
+      tr.append(el("td", "when" + (e.days <= 1 ? " soon" : ""), e.days === 0 ? "TODAY" : e.days === 1 ? "TOMORROW" : `in ${e.days} days`),
+        nameTd, el("td", "date", new Date(e.date + "T00:00").toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" })));
+      table.append(tr);
+    }
+    box.append(table); box.hidden = false;
+  }
 
   // Odometer: unique headlines collected since day one
   if (D.headlines_served) {
