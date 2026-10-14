@@ -549,9 +549,18 @@ def update_term_stats(state, items):
 
 
 def same_word(a, b):
-    """Korea/Korean, ETF/ETFs: one name is the other plus at most two letters."""
-    short, long_ = sorted((a.lower(), b.lower()), key=len)
-    return long_.startswith(short) and len(long_) - len(short) <= 2
+    """Variants of one name: ETF/ETFs, Korea/Korean/South Korea, Japan/Japanese, China/Chinese."""
+    def variant(x, y):
+        short, long_ = sorted((x, y), key=len)
+        if long_ in (short + "s", short + "es"):  # ETF/ETFs
+            return True
+        stem = short[:-1] if short[-1] in "aeiou" else short  # china -> chin, korea -> kore
+        return len(stem) >= 4 and long_.startswith(stem)
+    wa, wb = a.lower().split(), b.lower().split()
+    if len(wa) > 1 and len(wb) > 1:  # two phrases: only if one contains the other
+        return " ".join(wa) in " ".join(wb) or " ".join(wb) in " ".join(wa)
+    single, other = (wa, wb) if len(wa) == 1 else (wb, wa)
+    return any(variant(single[0], w) for w in other)  # "korean" vs each word of "south korea"
 
 
 def merge_overlapping_trends(topics, items, min_overlap=0.6):

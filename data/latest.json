@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T09:15:34.812617+00:00",
+ "generated_at": "2026-10-14T09:21:21.616049+00:00",
  "first_run": false,
  "topics": [
   {
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 73
+   "item_count": 82
   },
   {
    "name": "DEFI",
@@ -71,7 +71,7 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 19
+   "item_count": 20
   },
   {
    "name": "UAE",
@@ -83,17 +83,6 @@
    "count": 5,
    "ratio": 5.0,
    "item_count": 21
-  },
-  {
-   "name": "Inflation Data",
-   "kind": "trend",
-   "aliases": [
-    "Inflation Data"
-   ],
-   "first_seen": "2026-10-14",
-   "count": 5,
-   "ratio": 5.0,
-   "item_count": 20
   },
   {
    "name": "UNI",
@@ -139,9 +128,31 @@
    "count": 15,
    "ratio": 15.0,
    "item_count": 23
+  },
+  {
+   "name": "Strategy",
+   "kind": "trend",
+   "aliases": [
+    "Strategy"
+   ],
+   "first_seen": "2026-10-12",
+   "count": 12,
+   "ratio": 12.0,
+   "item_count": 19
   }
  ],
  "items": [
+  {
+   "title": "Interactive Brokers moves into Ethereum's $110 billion staking market as institutional demand accelerates",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHNVaTlmN3lZT1BfU2JYRVpTUkxsZm52cjk5U2s3dWdxOVFDN3BFV3ZyNjRSVzREVGtLc3VURVh0WHd3cnNSZGxSUk1SU05OMWJ6aDJra0hSekVtUjc4M3hBVGk1cEFwcUNQUDFWbkVSM3dPWm1HU0s4bHpuaFpPXzQ2SmZibUlZQnVMV013M2tpcGhENjREOV9KazdwbEItbEpMVWp0NEVTand4bGk5TVJHNDBON2cxSTNaRVNTOFUtQWlhSU1n?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-10-14T09:10:03+00:00",
+   "first_seen": "2026-10-14T09:21:21.616049+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
   {
    "title": "Ripple and Meritz Securities Explore Custody for Korea's Markets",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVRKMlpYUE9xcXhuS0wwa250VGViSUNkTE9MRDZTeUFyaGRXd3UtS1NhUDJZRDl6cktUN1RMdFJEN1hHbmc0TTB1Q0lhMGdNekNDZ2tGek5qT3pISF9oSk9QZHRFeDJvbzZHZ1ZUV1J0SHB5ZTJ0eFVfa1VBSEpHR3U3SVc0NE0wMk5VTzNDVDZfeTM4RlE?oc=5",
@@ -199,28 +210,6 @@
    ]
   },
   {
-   "title": "Premarket: Stocks steady as chipmakers recover ahead of U.S. inflation data",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU1kwX3VlczduaDJQZVNWV1NJZ3h1cDFZN3NQOFJ3VlMxUHhoc1g1cHFpQ3MtbF9PaURKemhyLWdJX1JxRmJRMHpWYzA5bTVYX2pIdmJXZ1czdHFVRlJHM0huRXkxbVdJMHo0N3ZpZHBIV3NZLXdGdHlqdG5BRTVjNGIxc2o0cFk4R1ZXWG1JSkpqLUg3eXM2algwcW9Oa2w0REJSVnlkbGVVZF9NZzFUS2IxS1dFMjJwMXhJaTlmRi1IS0h1QmFtOHRINWdHRHF1ZFVETW9DOXI0MElCV0xlRXZ2TVl0YUgzVkJrMQ?oc=5",
-   "source": "The Globe and Mail",
-   "type": "news",
-   "published": "2026-10-14T08:54:30+00:00",
-   "first_seen": "2026-10-14T09:15:34.812617+00:00",
-   "topics": [
-    "Inflation Data"
-   ]
-  },
-  {
-   "title": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWklmX2tMSzE0RlNLb3dyMnZVOTFRWDVwVzhlRlBPWmdOM0tBM2lZdlNFU2lJYlhIVXMwN1NlRTVvcDBSUnZMejlTQzZqTzNscTBLR1MxNFRTNm9aWHdIZzEzellvdnNqUjYxelUzNmRiTGNPYVRkX2p1cUliQ1IwSWRnTlc4NVMxeWFNMzZkMG5pdzd0Y29seGdjaVZZUFRzS3RJUFRPdXhmWlBnY2U2SDYyUDJZM1NqUWV1SnMtOUdReDFzOFpMeU1BUWN0azl6aTd4RGJPNmFLTTdJN1c0Qk5CalRsYVpiMHFPb1JhWTI1M1g3RkZ4VTJMV2ZDMms3cDFWaHlVU3lMazdGaGc?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-14T08:54:19+00:00",
-   "first_seen": "2026-10-14T09:15:34.812617+00:00",
-   "topics": [
-    "Inflation Data"
-   ]
-  },
-  {
    "title": "BitGo Stablecoin-as-a-Service: Custody, Reserves and Minting for Issuers",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFhVRzQ4eHpMWE45UHRMRkl4NURXX0l6Sl91S0VMUzc1c0hPcGFRNU4zQjFQNVZqd1UydTUxdG55UzhxZEJ6UHBtUGJkU1FKRVUwMkt6MFdMeERBU0NTT19vcDJQQk9OSlAxN1l4a2ZEblZCT2xvdmJvM0tSQWxtdWlfdzNrTkxtTUx1TWFNZ1h4ZkFN?oc=5",
    "source": "Altcoin Buzz",
@@ -265,17 +254,6 @@
    ]
   },
   {
-   "title": "Stock Futures Tick Higher, Treasurys Strengthen Ahead of Inflation Data",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDg0c0hqOWpocm5NRkdFQUVhdHlsbUFoTDloRFFRdW12ZUhwQzRRRGFYZXhRQUQ5WFoyMm93Q0tJd2JkbWpQR3JDZVM4Q3MzdWhXTzhkWTJDUm0wZlZSSGg2WWhVdWtEaXNVanNPNElNMjFpc2J4dnl2cTMzejFPUWp2c1pvN29sQW4zSk5OSjBYSF80MEhTd2xXa1RaSmpqQlhpS0J6QUFqeVZncXo2azFMQ2Y?oc=5",
-   "source": "WSJ",
-   "type": "news",
-   "published": "2026-10-14T08:42:04+00:00",
-   "first_seen": "2026-10-14T09:15:34.812617+00:00",
-   "topics": [
-    "Inflation Data"
-   ]
-  },
-  {
    "title": "Strategy (MSTR) Stock Could Be Undervalued After A $21b Bitcoin Gain",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGRZZTFWZ1c0X2tyczVkcUFpSVQ0Y1VCVmtKM3FkLWNEc3VSVWU3QWNrT204SnpVcDVJU1VzaEk5WXNKU1FSbEVNbHFmaWV1OEZBMzNlc0RVTXNpUzZ3RG1Xa0szVXA1YUpRYjdsd3FUcUlUeWhKOWl1RXAzTGViOTROYUVrZWpXa2tsWUN0UVRjbm5HU3VEUVRtcy1PbE5BeVNwQnZGejlWTXYteGJkY3hVTWRxTWVRVGY5b0pTd3p6YnR4SmfSAcsBQVVfeXFMT1YtOVZzbEtIeVNSOUFHYVZRaDdGVk0tXzluTk9pakRONWQyS1p2b1JCQmdCSWs5aWxuMjVSNnZDZjAzT01veHFsVUFZNFJxdGZMUEtGTDd0ODQzeS16ZEdIeDhWUkNndkNBODQtM2lic1pnN0tjQUxHUTVsVUY1TjMxdTc1WmhSTVFSNWpQLVUwWFJ1cmlMYS1RWE96SVk1VnJreExnOUdheVZGdGtSbGdBZllRRjU2Q21KMVRQRTNWdWlRMWRJTmU5c0k?oc=5",
    "source": "Simply Wall Street",
@@ -283,7 +261,8 @@
    "published": "2026-10-14T08:39:42+00:00",
    "first_seen": "2026-10-14T08:43:07.106954+00:00",
    "topics": [
-    "Bitcoin"
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -295,18 +274,6 @@
    "first_seen": "2026-10-14T09:15:34.812617+00:00",
    "topics": [
     "XRP"
-   ]
-  },
-  {
-   "title": "Bitcoin Hovers Below $84,000 Ahead of Key Inflation Data",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1B5NmpzU2RQTlFTdUYyZU9EbXQ3b0lzalpDbDBhMlY4ZzhlRm5IaEY0V0hVX25GX24zTVNtQUxKTUpWYWRFY1p6Q1pnZEllSURJNGRNU2xIWHFDUjdkQ253Y3VHN2NiNUpaTGtzQWdFUzI4WHBkWUFyRlRIUlNjUUxkR3lseGpLdnUzTTUwUkpVamtqaFp2NDFLUWtsQy0wOXNRdVY5UmsxdW1v?oc=5",
-   "source": "marketscreener.com",
-   "type": "news",
-   "published": "2026-10-14T08:37:33+00:00",
-   "first_seen": "2026-10-14T09:15:34.812617+00:00",
-   "topics": [
-    "Bitcoin",
-    "Inflation Data"
    ]
   },
   {
@@ -367,17 +334,6 @@
    ]
   },
   {
-   "title": "Japanese Stocks Fall Marginally as Chipmaker Selloff Eases Ahead of US Inflation Data",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT1JSYlVHNFptQ0U4MW5lZ3pDWnhEdVFPNV9IQm9NNERFREpsMGlPSEtlLUYwdHA3c0FVWnJnYS1reU5ub1Q5SWRPc012cGpCbW5LWGlYMnFkS2RfWjczSUdUNjZyeGtDdUR2UE80c2tnT2dPcy1wR3RWWjJVOENSZDNEWWRPS1dTcEgtbzFaRC1mMFBSbVl0RDFyaTN0OGpnbkhlQ2R1ZzdKNXdnaDdkdDA2Q0FWeXFIeG5wZHVJM29YWEduVkZheVFmOUJRLXdad3ljSg?oc=5",
-   "source": "www.marketscreener.com",
-   "type": "news",
-   "published": "2026-10-14T08:17:42+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Inflation Data"
-   ]
-  },
-  {
    "title": "Ripple and Privy Just Gave AI Agents Their Own Wallets on the XRP Ledger",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkFPc2g1Tm96Q3JoWE9hS2x5UEItcXdHemVITmhNMC1TelFyWENzaWZyeGc0b3plbTFPdmZteVI4eG9XVFNqZ3NTVld3N3pyMWZvTEJZUElTVFJBUGgtc216Q1ZDM2ZJbk5VYWYwM2JKTDZBc3V5Q1JWTTZvZWdJY2J3OFlmNVZZWVppZ3N3endmcFE?oc=5",
    "source": "Yahoo Finance",
@@ -402,14 +358,14 @@
    ]
   },
   {
-   "title": "European markets in green, led by tech shares, as U.S. inflation data looms (EUR:USD:)",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1psd0pWNktaUGd4NGpNMlJLTHdIUUFpc2ZoX2tYREpUQ0JsU21NSFBvTXpjeHJycnJjZlI2M1NCZDloLUwyTmNHcGhHR3N6VVV2VVNfVUJ3SmhYeVhjYVVUMGU0clRoUFNfdFNXbURTNk5MS1JTT2VvWEhEZUFJeTVkMVZEZ3RWankyRTRYTUllN24tVzJ5b3ZqYi1ScVBicl8tbzdaN0tNVHJmRWc?oc=5",
-   "source": "Seeking Alpha",
+   "title": "A $29 Billion Manager Tips Nigerian Stocks Over South Korea\u2019s Kospi",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2x0WGNNT05HclViV0FDbjJLOU9hM2JabU1wM0tIV2RzMHZzV0NGNS05WDNob0VIV3dVSEJ5d2FYYldLVGRrWXBRYWJFbS1CNi0zb1ZSdm5kSHd4SXZGQV84TVRWVWVROXlGQUo1bWdUZ25ka2NVNEZvTzk1bUxnYUJRRHJzMkFJT29idkpINXpWVjVnMkxYYkNhcDlTLUNYb2xiVTA1QmRxMXQzTWZlc0N2Y2c?oc=5",
+   "source": "Bloomberg.com",
    "type": "news",
-   "published": "2026-10-14T08:11:58+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
+   "published": "2026-10-14T08:10:38+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
-    "Inflation Data"
+    "Korea"
    ]
   },
   {
@@ -436,6 +392,18 @@
     "Ethereum",
     "Bitcoin",
     "XRP"
+   ]
+  },
+  {
+   "title": "Saylor Spoke About the State of the Bitcoin Market, Competition With AI, and Strategy\u2019s Sales",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUM0aWE2Q1dXZ1h3Z1BWT2lEYnFLdzA3aTJ2bmxYa2dfMFJpd2x2aHIwNEx2cHpSNkZjUmptTm5FZlNENElJVlRXenhiU2lUcXZCZFVieVFvM1hpbHpCYnYxT2VlQXBLdFJnanVuMzlZZ1F6RU1GZk1IUm8wMjRRLW5JaDBJaHhWX1hWcWkzb3JLMFNPc1hiVmJ3bzQzQ3RMMXB4enByT2haa0Z0ZmU2dFRMYmFBVlU?oc=5",
+   "source": "Incrypted",
+   "type": "news",
+   "published": "2026-10-14T07:55:05+00:00",
+   "first_seen": "2026-10-14T09:21:21.616049+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -483,28 +451,6 @@
    ]
   },
   {
-   "title": "Frankfurt Stocks Open: Dax Rises Moderately Ahead of US Inflation Data",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1FqeG5lbkxmczBtX25YaXdGVkFJZ19xeVJMWUE2RTVmWFA3cHJIMzVxbGVBcWxmVkNNUjdjQVA1NVU1S2dLSGNUU0QwVHV6d0ZKQ0JTMVdRcHhnbTVYNTk0UlAzOHRQeF9YY1QwbmYyRDlMNk0tU05HT0d1TXZuamFfVnJXajlWeVpBcGVha04xaUljZGtydV9wSk55OWNtNEw2ejlubE9IZEZVS08wRS1vVWpDRDBac1dSQzg0NA?oc=5",
-   "source": "marketscreener.com",
-   "type": "news",
-   "published": "2026-10-14T07:30:32+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Inflation Data"
-   ]
-  },
-  {
-   "title": "Bitcoin trades near $83,500 ahead of key U.S. i...",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejI4ZXpqUnJfeTNUSGlsMUVxeU40VDdvZmc0b2kyd09vcmg4VloyZlNBMmxDZ2tRcDBoNFVWZWRteEszZ0NFOEp6R1hCMm5ocnVYTHV4WEd5X05sbXJqMjFHR0EtWWVwVURlYW4yZVlSUE1JR244Y0dYbm9ocGt6WTBkU0d1cWJSekVLU1NFYVFodHVpcVZlTU1fZko?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-14T07:25:06+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Bitcoin Recovers After Tuesday's Losses, Helped by Lower Treasury Yields -- Market Talk",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEREQmlXOVZiVHA3WTNMZk43b1lpb1hTVFlzZHpBUW5PNjEtUXpYZFZFOGw3dGx4QmNDcE95dl9UZ2hFd1ZKQ3V0R2sxNEU5cnUtdll6V2FFaXdCQWs4NldTWEo2VDcxTk9wRzFxaGZjQlRrUWEwVkgxM2kwZnFQTVRiWmZOb2RCUUt2M1p1a0hFbHdsLWc1MlZGV3R3X0oyMTFTRmNoRC1kaWNt?oc=5",
    "source": "Moomoo",
@@ -524,17 +470,6 @@
    "first_seen": "2026-10-14T08:43:07.106954+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PWUtGeFBMSy1IallrbUxPQkM2aFloTkhDeTVGTmdGRUVFNE1seWlpcFgtUGFRLVI0cEhPOWtac2Y0dDRhUXZZVWhPNWNTekRLd0lhQ1lQWQ?oc=5",
-   "source": "The Korea Herald",
-   "type": "news",
-   "published": "2026-10-14T07:13:37+00:00",
-   "first_seen": "2026-10-14T09:15:34.812617+00:00",
-   "topics": [
-    "Inflation Data"
    ]
   },
   {
@@ -580,8 +515,7 @@
    "published": "2026-10-14T07:03:35+00:00",
    "first_seen": "2026-10-14T08:43:07.106954+00:00",
    "topics": [
-    "Bitcoin",
-    "Inflation Data"
+    "Bitcoin"
    ]
   },
   {
@@ -686,18 +620,6 @@
    ]
   },
   {
-   "title": "Bitcoin trades near $83,500 as investors await U.S. inflation data and Fed rate hints.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2k1OU1GTEhEdDUtb3U3cV9hdkprRWFmQ3Vwcnh2Y3RWako1WVlNdG14R2xGNDBXdGhSM0hFeHVLQTU0RFMzaExBc2ZSVDlXSE1YcXpmcWd5T1NOYUFOVnJGa1F3dWJBdG9sWWhBTlRxVmVlbElpczEyU2R1UktJOXVoenJWZEhVOFVNY2pHck1zd1NwRUtqNE5DWQ?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-14T06:24:32+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Bitcoin",
-    "Inflation Data"
-   ]
-  },
-  {
    "title": "Standard Chartered gets licence to offer crypto trading in UAE",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRks0RnlpSE56cktDcHI5QkhEMVFSOVUtZEpFR0JrN09xVDRlNV9hVEdYd2k3cEpiemZYS0lSUWZ2MzIwaVdGU1oxMW5SVGt2VUU3UjZVejhENkR4TDNOREtCR3d0blFUaFZWR0xkVWJHUlJ2QnpWYWI4Nk1PdjBCVFFvdjc5dlRYX19HTTV1bzlBcm1JemRkbENOME96c1JsZVQ3TEsxNURVQTZ4cWZfazcyWjQ0dzFSSDh6NFB2SU9mUQ?oc=5",
    "source": "Investing.com",
@@ -709,34 +631,11 @@
    ]
   },
   {
-   "title": "Bitcoin and Altcoins: Market Overview (October 14, 2026)",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGpfZDNVbDJKTEE5REhlS2FQQi14dk9JT3lNRFNsY2FMQVVyLUpheGlxSWd1a1FLUGs5LUh0WlRvRXJmaGEyOTdfQ2ppV2xvc1Vhd2ZvSjRCejBMRG10SmZQTXE0Vkh0b1g0aWN4bllkbTNLNThrdFN5OVJ5Q0RoNGRvbkoteTB4TVZWYVNDQVplWDc2WWc?oc=5",
-   "source": "Koin B\u00fclteni",
-   "type": "news",
-   "published": "2026-10-14T06:15:00+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "On the Chain: Bitcoin holds above US$83,000 as ETF inflows return ahead of US inflation data",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMHE0M2xMWUU3d25za3RYVmdpUW9WRmpRbjd3SVBKUzN6Z3o5LVJSdmd0bkxfMmttOWE1clZsUkRxZXVMaUlOQlNCcFZ3NHZBUmhvMVdfV1ZFa2NfaWpQaGFRWnRUV2JHMlJ2TXY4U2VMa1NRdUpQdFdmaUY4amp4WTEyYXVEcXVUV1kzek5ZcE0wcDczSzIwanpJNE4xZ2l5SUxiYTZsMW9RTDBXY1o0TW1LeWlNTGpTU25SaWNXMFdxLXNpanFzUzJ5YTBBaThfOEJNLTF5eS1uOGpZTTE5Nkg5a2NzdnQtY0cxaHpqQzBNVDg1?oc=5",
    "source": "Proactive financial news",
    "type": "news",
    "published": "2026-10-14T06:11:54+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Bitcoin",
-    "Inflation Data"
-   ]
-  },
-  {
-   "title": "Bitcoin price nears $84K: Will U.S. inflation spark a rally?",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBONEdSWXVMaXFrMTJjeWtxNFJjTVBBZ3pZcXZSM0lJcjFtUk1jWkRfVkdwVlk4c2hyanZObVpkSkdNREdsaldQcnBic2hGQS1iZEw4NG56QXJwOW9VVGdmaDVhQmtxZ0hzM2VhQURGYXdUVXBlU2dqRmtZbnA?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-14T06:11:00+00:00",
    "first_seen": "2026-10-14T08:43:07.106954+00:00",
    "topics": [
     "Bitcoin"
@@ -776,6 +675,17 @@
    ]
   },
   {
+   "title": "Aave Crosses $1T in Lending Volume With Institutional Push",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmFEM0pXYkJ1VXF5VzQzcEtZZ3RYQTZxdENJTDhjdUc1SDNzMTlCM19URjZMMXFQaDBIa3IzNEtZbXRwMExYM2RVaF9KeFNucEMwNkFhRGJVdmJvWWFqcURpQVNUcEVnYnZZQlZocUxxQTRfRDVGZEM4LXpTdTBKRWpoSjR5SktsTTNwT2s5TnF3UG9KLUJ1c191b1ZUMFJSTTVBR1pvZlg?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-14T05:56:52+00:00",
+   "first_seen": "2026-10-14T09:21:21.616049+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
    "title": "Blur to Pull Down NFT Marketplace Frontend on November 12 as Blend Stops Issuing Loans",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2stR2RMalV4dVg2SWl2NjhnZ1VDdFExMHg0b0p0ZGJ3RC1GZ0UtaGZSa3VuLV9jM1JVVHg5QkdJQUlnRkdpMldaelZCWUZFa0N1WEFRM0R2cHJfaUhrQ0ZPZ3VSa1lkUEVaaEljS0FXTEpEWW9VeFV2WEFtdnpCWjVreEdQUGN0akZiUUlxa1RNdWdJNlFrX3plbzF1UjUySlpMSnZDbFpsdw?oc=5",
    "source": "eGamers.io",
@@ -795,17 +705,6 @@
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmlZQ2ZqUDhpS2pheVNOZTBWSUhPMGNNbWJIcEVkdDRJUFpEOHhTUmY3OWN2R095YUR5ZXIyUXN5RWw2MzA2OVgzeXNlTThTRVh1WTJZLVRoREl6T3g4UlVUN3JMLWFKRmpBZzFqMEtWVDdGb2FrdGlfR2QwZ0ItQ3NXRVVBb1RGOWZjVDZpTmpabnpqeTFXbWpnN1ZkSmoxRDQ0dVZMQQ?oc=5",
-   "source": "WSJ",
-   "type": "news",
-   "published": "2026-10-14T05:53:13+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Inflation Data"
    ]
   },
   {
@@ -839,17 +738,6 @@
    "first_seen": "2026-10-14T08:43:07.106954+00:00",
    "topics": [
     "UAE"
-   ]
-  },
-  {
-   "title": "Global Market: China stocks slip as AI selloff deepens, mixed inflation data weighs",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSUtxWElxbzBpM0VBVHA3dGpFT3ZwREt1RlR4bEZFVEpXWGFzMTA3aTllNmRZVHpLTWJ3NnBkbGdqVzRRLVZBT1J5Y1JPcG93SVZtLWphQ0s4WXVpbVMyc0ZDSG9WVy1ZZ2NwZGNkVkRuaXZRTGk4cFhuMHZoY0J6VjZBUEkwdVJ6U3dFeUszc0NmdmNDSDNVNzZoQ0F0RUNaaVVzZDk1TXpGV0xmbGJpdHlPX0pVdHVTVklvTGQzcnc0VzRMSjdScEp2R0paVzhwbHBjeXc3dlY4X3dXb2l6SnFCLWNpM2J3M19nbmxYOA?oc=5",
-   "source": "The Economic Times",
-   "type": "news",
-   "published": "2026-10-14T05:41:06+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Inflation Data"
    ]
   },
   {
@@ -941,6 +829,18 @@
    ]
   },
   {
+   "title": "Strategy Launches Dedicated YouTube Channel as Bitcoin Buying Streak Reaches Four Weeks",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94QjB3OWNDOGRfTXg4VVBzTERsdWR6cFE4UWxWUHhzWFVqd01FLTFmdTd2aERqTlphY1JDREdGOEQ2ZlhDQlJ6LUYxUk15anpFOWxxbzE5MDlEMFdrMkRDVjVzbUdMY0NnaXozdmtreXpaQ3JRMnc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-10-14T05:05:00+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
+   ]
+  },
+  {
    "title": "Coinbase Sets Bitcoin Quantum Priorities: P2MR, Staged Protection",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1ItUmFVOGFwYmI4UlZZclgwaWZOMHhUc2t3eldRUFRsNkxzbjd4RE90bnNyalNfbC11aWVXdGx5QngzY1pONGgtNnNHUVdKaDd0MHFtcUJSMVc2YUswUzhxaXBCV1h4dDBZS3ZSOE5RVXU2bF9TMU1lVGZpaDBqb1pfX3hfakpfRGhRc0tobm1xZw?oc=5",
    "source": "Altcoin Buzz",
@@ -985,14 +885,14 @@
    ]
   },
   {
-   "title": "Central Banks Hold Steady as Markets Await Key Inflation Data",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xby1SZHpkZDdOaTM0TDI2bHRoSG8zbjhDeHN1OFFBUlM1Q1dFMU81c09RejlrNUNhVk5ZelVQaG0xTnhuNW9YQURXNG9BbHRCLWNjRW9PWmxFYnNBMlh2TjFWc3NYaVVQdUhRa0dERm5TNEhVQ3c?oc=5",
-   "source": "Global Banking & Finance Review",
+   "title": "UAE, Gulf investors shift from luxury properties towards income generating assets in UK, says report",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUlzbXY1TDNVWHBDb0xqVmk0SDRLdlpOdUdtLUtsa0hUdk4yak5FbGdzcEFYR0tSRU5vbGE3NXhkVWZfNEtMd2VXUndFVWRfbDFBM2R3VzhVVnI2TVhEOW5ERnZxYjJoSTlzcE9aWUxzOEszbnNwWE1RRGlwMFZxVFVqUm5kdF9SMk5rSTRrNHNuQlBTWURzQnRXZGNJSUZFRHZ1YTF4X3RvV29PSHVkVVk4RklvQUc3RTZvOV9rMEt6MEpSRGlKdVZRUS1hSG0weEQ00gHTAUFVX3lxTE9lSXNtdjVMM1VYcENvTGpWaTRINEt2Wk51R20tS2xrSFR2TjJqTkVsZ3NwQVhHS1JFTm9sYTc1eGRVZl80S0x3ZVdSd0VVZF9sMUEzZHdXOFVWcjZNWEQ5bkRGdnFiMmhJOXNwT1pZTHM4SzNuc3BYTVFEaXAwVnFUVWpSbmR0X1IyTmtJNGs0c25CUFNZRHNCdFdkY0lJRkVEdnVhMXhfdG9Xb09IdWRVWThGSW9BRzdFNm85X2swS3owSlJEaUp1VlFRLWFIbTB4RDQ?oc=5",
+   "source": "Khaleej Times",
    "type": "news",
-   "published": "2026-10-14T04:42:03+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
+   "published": "2026-10-14T04:41:13+00:00",
+   "first_seen": "2026-10-14T09:21:21.616049+00:00",
    "topics": [
-    "Inflation Data"
+    "UAE"
    ]
   },
   {
@@ -1076,17 +976,6 @@
    ]
   },
   {
-   "title": "Gold holds steady ahead of US inflation data",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
-   "source": "Reuters",
-   "type": "news",
-   "published": "2026-10-14T03:12:00+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Inflation Data"
-   ]
-  },
-  {
    "title": "Bitcoin, Ethereum, Dogecoin Gain Ahead of CPI Inflation Data: ETH FOMO Surging Even as BTC, XRP 'Turn Fea",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXFLZUV1eFk3bnNLT29aS2Y5X3ItYk9uYkxHa2k5TWlOWmFVRDJZM2RsUnNqVzdKbk5EMG01cHFyOG0yYzJ1X0xfc0JTblBKR1kwcS1rdTB2RjNzRUxUbXpsdVA0SW1iNk1BVTM2b2xFbWFnaHBvdmxqeWkzdjYyNnJXMWhLRnhuaDI0MUFIV1JpeU1IZmMzRVBKc0p3OW5HbS1vdXRKMVRtcGdtUGpFRUJ2bWE0cXptQS0wUnhDVQ?oc=5",
    "source": "Benzinga",
@@ -1096,7 +985,6 @@
    "topics": [
     "Ethereum",
     "Bitcoin",
-    "Inflation Data",
     "XRP"
    ]
   },
@@ -1235,6 +1123,17 @@
    ]
   },
   {
+   "title": "Strategy\u2019s STRC under fire as dividends hit $725M, K33 says",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRWF2aGVreWpHSEhOVWIzdy0xM1pQY0E2WGhvcVAwTlJRSGdvQnRIVm9KeWlRMlBjTVB2T193WGw2NjRqLUUwenNtS1JmaUNaVVdUU0FSVjIzVGdFQzhsbjhUeERFb0N4SHZfLXNuMlA1Tk5nTmNaSVVVWm55SGVmSXFWZ0V1WDVOLUo1dHpBX1ZlX0piMWJRNl9CdW1ib3RRdlI4elA0bVRFT0g3bXgtdEhDdEhXU3kwejdIaFV4d05FSFFhOE5HQg?oc=5",
+   "source": "FXStreet",
+   "type": "news",
+   "published": "2026-10-14T00:30:24+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Strategy"
+   ]
+  },
+  {
    "title": "BNB: zero fees for USDC and USD1 until October 31",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnpBeGZwQ2JmeWtkSW9sZ01Oa0ZfOG9IbzRDcnk3U21IUUZSMTh5RzQ0Y0Jod1dnM2J3MXRXRzVWcEoxeXl3b1NuejhzM19INFBwTmtScDRyZGVJVm5Dd1o0ZTQ1NjVrWktvbklVQWhYSUc1QlYybzhWN0FyQkR1cg?oc=5",
    "source": "CryptoTicker",
@@ -1257,6 +1156,29 @@
    ]
   },
   {
+   "title": "Saylor sees Bitcoin above $100,000, says investors will seek (scarce) assets that robots can\u2019t make",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3lzOGNsTWFwTW9Sd2JnQ0htc21uX0k5LW1BVldkbnZIZFVtcV9hWjRULWJPaEtoeFZZdmVwLS1kbkkyUnpmb29PUjJGQU5uM1hFb3N2TXBMd0ZtNUo5MDlJaDRhN0pGSXNpbDBfc1ZYZ3FOU2QyMmdyc2FiWFZsUkxwNW12NDl4Q0l1VVozMkRHOFZjN2o2eEwyQnYwMTllZklsSFhYM2cyNzdrWnJOYW1KbnhnWUR2cUFPSUFiUFJwcktxMGcwVlAyLUlMdTdZLUN3?oc=5",
+   "source": "investingLive",
+   "type": "news",
+   "published": "2026-10-14T00:16:24+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Strategy Shifts to Preferred Stock for Bitcoin Purchases",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWdDazBxOWZETG5aN1FUVExsYjJRRlVha0tDRDAtbDNoQlZtVEpRNWtEeTdleXJfRzZCM2UxaVVSV2NlMHhrVnp6d3piUlViZmtPcTVVX2E1dVRncDdvVkMwLUp3Vk95UkVGYldBcDhiaXNQSDJwUERMYnIzZU5CeU0xMmx3c3d6aDd1aTVRSkRxY25XNmxMcnh4Yk9VV3c?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-14T00:13:09+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
+   ]
+  },
+  {
    "title": "UNI Surges 8.1% on CME Futures Listing and Strong Fundamentals",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16UVdjdkh2ZEczcjFUR0JjVnR5Zm1vdVEyeWVwMjFrSW9Wdi1ENDBZcHU1LVFvNnRrbzZYTURSOURvMDMzWUl5RDlHcDd2R1VDX2c5MEI1MFYyelNFNlhTWE02NmkxVWRZSVltbnFzX0c?oc=5",
    "source": "CoinMarketCap",
@@ -1265,17 +1187,6 @@
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
     "UNI"
-   ]
-  },
-  {
-   "title": "A $29 Billion Manager Tips Nigerian Stocks Over South Korea\u2019s Kospi",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2x0WGNNT05HclViV0FDbjJLOU9hM2JabU1wM0tIV2RzMHZzV0NGNS05WDNob0VIV3dVSEJ5d2FYYldLVGRrWXBRYWJFbS1CNi0zb1ZSdm5kSHd4SXZGQV84TVRWVWVROXlGQUo1bWdUZ25ka2NVNEZvTzk1bUxnYUJRRHJzMkFJT29idkpINXpWVjVnMkxYYkNhcDlTLUNYb2xiVTA1QmRxMXQzTWZlc0N2Y2c?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-10-14T00:00:00+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Korea"
    ]
   },
   {
@@ -1381,6 +1292,17 @@
    ]
   },
   {
+   "title": "Strategy (MSTR) Stock Still Looks Like A Bargain Despite Its 354% Run",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdExIZ1dVMnZhRjdSS2oyNmZoeURBZVlZRlNqcUZ6OEM1VTRTOXBmdnZEcTJOU2lFWnNaM0h2MzZLWHNQT0drdHVoeWl5N3JpLVhfVFlFem92R2R5T04zRnhkVXJ6TFJSdWhUZGU4TkdxT2hUakNWUEx3YkpsQTVMZ25oZklNNFZWb09DdDc5aE9za3hvcUVNY293VE0?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-13T22:14:12+00:00",
+   "first_seen": "2026-10-14T09:21:21.616049+00:00",
+   "topics": [
+    "Strategy"
+   ]
+  },
+  {
    "title": "SAP and Samsung Shift Stablecoin Battle From Issuance to Distribution",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzRGb09KU0tKbDBrckVSWEptbUZKX2JfMU5faGxRRWxxUjJONlZmcldMVXhFOWo0TkFzdFFVQlJwS3NYckRQT1k5b2FkanhGMFRQcEcxazFRUVozamJDSDc1UDlLYTNMazM5Y3YyZjM0SkhSNWRZZHNJR3htdzg0dlRCbVozYm9pdWphVXVSLUdFakZU?oc=5",
    "source": "Payments Industry Intelligence",
@@ -1480,6 +1402,28 @@
    ]
   },
   {
+   "title": "Applied Materials Stocks Fall 5.7% Although Evercore Backs Its EPIC Strategy",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNE5SamVFUzg0aGdSUkp4dUtCM2J5bklDQXpGV1gxZWVybUlncG5KRlJzdXZaUFFaaTdVc3RrdmNTeEhIUTZpWkJROFNmWGt2clpKNTlnR3JTaHVZMU5meEp2N0lsdHFUSENIWG1CZ0N2VExpaExoVWFhRFNiMmF3SGJWRGQ1U0xXcGhUTkFSQ0tCSjVTV0JOUVZ5RFI?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-13T21:15:50+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Strategy"
+   ]
+  },
+  {
+   "title": "Michael Saylor drops bold Bitcoin call ahead of major index review",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbzdYZ3RxeS16Y05lUFI5NUFGMjI2eEdkdXF2UDg5TFFMdnNkMXBwdnNqUVhwczhzd2ljaVpzb3hZQkRBZ1ZhTmVWcTBSMmtnVXdlR2dLemZCRVA5UUhGZkpvOUVTeU9YLTJCM2xRUnAxam5UakVKWXNnLUVJZWJwOURuQ3VYLTZCdDd4dWhXNXdlRWZqWklCODRhdnNmMFVKaDhwNXJPcGpnQU0?oc=5",
+   "source": "TheStreet",
+   "type": "news",
+   "published": "2026-10-13T20:47:51+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Blur to Retire NFT Marketplace Website Nov. 12 as BLUR Hits Record Low",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY252RmxKYVRsbHlQZ0RTV1ZIRXF2TS0tdVVvZ3ZjTXA5Ry1TNG05TjJsbUhnMjl5M1J4S3QxN2JnM2lZZEpTc2VmZVFZUF8xUUpOR3ZsNGNrbGZXR1BQbGNLamNhR2FKQUp4WldVSXpYOEIyZVlKWlZLYWh5Q2x5VjRERTNIWHVzUkpYalIxSy1nZklYSHc?oc=5",
    "source": "CoinMarketCap",
@@ -1491,6 +1435,17 @@
    ]
   },
   {
+   "title": "MSTR Isn\u2019t Bitcoin\u2019s Biggest Risk, JPMorgan Says \u2014 Even CLARITY Act May Not Fix The Real Problem",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHZCcThoM0gwODZWY3ZoZjFJMThPWmdRWnB2NEtEMVZxcVJJMDh6Vkp4QzUyUjA1VFFiZ294cDBjZHJhNzA5ajJ5QmFJSGRkdEdjUnpjWXRRU3BTdTVTQkRYWmZ6VjFlc2c3ZTU5RnNsUmRMbV96Rl9XUHBWXzVpR3lqcEdocThlc0N2akQ3MDlGU2pJRWVFaXJZekwzWHpvaGw1QXN0a01EZWZoaXU3VW9rcVNHLW9aVGNaOERxSmp1NFdHYzYtbUE2MERzN1pLQjNVU0VUa2pfdFVn?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-13T20:35:58+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Strategy's Michael Saylor predicts bitcoin will climb back above $100,000",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UQUlkU2VKdWFfVmlSVDloc1I1UnU2RmhuZUFzNnltcWVVZGNsbFduNVF0Z0NNM3JrSUstbE1qYnJBV05JeU13aTJSd2trdkVHYzBVbzdIdHdoczFaODVhVUgtajN2OXFhOThESXVuV3l6Y3JLTUhNUm5OSQ?oc=5",
    "source": "Quartz",
@@ -1498,18 +1453,8 @@
    "published": "2026-10-13T20:28:43+00:00",
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "US stocks dip ahead of inflation data as tech sell-off hits Asia",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZlg2cVNQUkpyVFU1QThtcFQwVlJERnhaZV9HZ0d5Rnd4ZWdPcU45X2Y0cGFBTS1BYW9jSWxGbFhPYzczVjhvbk9BMmNJZi05ZVBLZVk2dHlNOGlQSmw2Ui1Gd0NGWWhNVkFlNGZsT3Y5WGVWdkNZUEh1b3IzblpVamV2OHFMR1puMkxPdnRSTFlyQzUyTkJlTTFhTFB3VlE4X0lOLQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-13T20:25:06+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Inflation Data"
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -1524,6 +1469,18 @@
    ]
   },
   {
+   "title": "Bitcoin will break above $100K again, Strategy's Saylor reportedly says (MSTR:NASDAQ)",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNjBsX3JocG9rM1JibjdXRDlENURSM2xRcDZMVHlua0NiU1Vpb2tWMC13MnhoSk85eVhVX09GZjBrNDdPUThveUtNWGlnNnJnLWVHbzJNNXBKQXhlQUtldTRubHF6UklydVR2QkVpN3YxS0N1dFNHdEVjQzdVQi1XVUFfWEJBdUgyTTdxQW43T2phcmZOem5ka3g5OTRsRHlrMzFMd3k1dl9hdw?oc=5",
+   "source": "Seeking Alpha",
+   "type": "news",
+   "published": "2026-10-13T20:10:08+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
+   ]
+  },
+  {
    "title": "TRON Is the Only Top-25 Coin Down This Month, Yet It Sits Closer to Its All-Time High Than Any Major. XRP Is 62% Below Its Own. Which Payments Chain Is Winning?",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQXpMZEZ0RzlrclBJMlAzaWFvODdKV0QzUzFTbWRaYi1NX1dRV1hEOWY4SVZtcmFlOUZpSUtPNWJkTlhlS2FNVFU1YjhheWRRR2VuTXFUYWdTc1hjVVpKN0lwUHl2ODdtYU43QmlZekFVOHJpak1NWklvMHYzNHp1V1VUQkNQZ0VaWkJMaWZ6dw?oc=5",
    "source": "Yahoo Finance",
@@ -1532,6 +1489,29 @@
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
     "XRP"
+   ]
+  },
+  {
+   "title": "Michael Saylor says Bitcoin's slump is over and predicts a return above $100,000",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR0o5T0R3REt2bE5nSExmVFpTdHU4V283SHJWRE4tX2ZxeEJKQjRTNGZMcTNsMGFwRnpSMzFtX1UwcHE1R1JMMDNvOTRmZk4wNkVSajZBbE8yRnRJd3MxRU5PUUJoN2s2LWd0NGVDaWRfTWVrU0FrT0JGemwyNU9mX0o5QU00OVRIcjBnYW9Jc1lMSHFkMFJMLVRhRTFySjZYbG9WazByeFdna2poQl9uSURzZC1PdVFvWFJtLWcwb2VVb2ltVkl2Z09EQ2wzbXpHUVBKZ2xpRkZwSHd4?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-13T20:00:16+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Strategy Bitcoin Sale, Investor AI Pivot Send BTC and Altcoin Prices Tumbling",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVNKcVdWUzdJUW56ZGpPWFdBNkZTRFlmeXNIZmFLQTBFdDZUOWhJU1NqWDdiT01td1hBRDY2d1Z0akZhTUo3MmNzNXBoU2pXUW9jbGs3SXZOeXgya3lVbHMtTjhsWVFNUFZaM3RvMllFUHR4cF93VHlyWDA3QjJ3anJIaGNrZjlVaFRvM0FMMWdodVF0VGE2Tnd6cw?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-13T19:55:28+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -1625,17 +1605,6 @@
    ]
   },
   {
-   "title": "Dollar retreats from 18-month high as oil prices fall, inflation data in focus",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWZQbUlvd25mMmRJbk5JbGpaRm8wcmlrSEhGWnA4TEdxV0t4WnNvdDJrbXdWeWwwQWRZWDVqYjF3cFA3RW1UZExGZERfU3BvUDNOVjlMeGxrY3RtMUU2VTVyNVZrLVZrc2h1N3k2TXN2QUFCN3hscGtpUExwRWVyc3ZjQTh4ejNtOFRCY0F5dHBkQkxnaTV1Y19EeTlKOFdDc2VjSTRJankwUWk5VXZN?oc=5",
-   "source": "Euronext Markets: Real-time Stock Market Data | live",
-   "type": "news",
-   "published": "2026-10-13T19:14:22+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Inflation Data"
-   ]
-  },
-  {
    "title": "Standard Chartered Starts Custodying RLUSD, and Ripple\u2019s Wall Street Gains Are Leaving XRP Behind",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnd3dDZHaHRyY05VT0dOUU8xVjNXdzRQdWRvUDdsaFg4ZGJ1Tm5sbF9KLXM2YXZpcmdXR1BIdWlRdUoyemxzUWVPaHFibUluQms0VzI2RXEtT1VCcC03aXRGLW1IZk14RHVQNmIyQm94WXNuNVBmRWQyTkZDV1FrSUpKVTlnNGdVYlVZN3h2M0hrbklrMnQtZnF5YjM4Q3Nfbjd5WE5NMldETjcxbk1mT3pESWFrQQ?oc=5",
    "source": "eGamers.io",
@@ -1687,18 +1656,8 @@
    "published": "2026-10-13T18:55:09+00:00",
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Treasury, Eurozone Yields Decline as Markets Look to U.S. Inflation Data",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVJGTVRQcWlpaDNiZVFTYW1od1ZiMVNKRU14QWVocUs2SnlZLW1KNzFwTVliUHczVUZhMURPSEtiay01cXJ0cnZOMkllU3phWk8xWVlIT2lzQlZFOE5rRTBFNlJjRTJYb1JPT2h5aFhrX2M2MjllVGc2NHhuNGJoMFVnOFFoY05SRnRsUEkxX25ZM1JndThkVGZjMW9XZDBrVFYtWEVDdmxmVFNseFotZW5pOExsSTZHRVVVNg?oc=5",
-   "source": "WSJ",
-   "type": "news",
-   "published": "2026-10-13T18:47:00+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Inflation Data"
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -1798,18 +1757,20 @@
    "published": "2026-10-13T18:09:29+00:00",
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
-    "Bitcoin"
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
-   "title": "Ethereum FOMO Returns as ETF Investors Sell for 10 Straight Days",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFA0dmFMbFdkdHZJZlo2SUhfeEJ3OFJuZ1dEaXlvYzQwd280QW1xUXp3ZHFNSUtRVXNiNnBuRm1mUS15NGt5ajVXUlpib0tFeGQzYWFmVVJMdnlIQkhWRkQySEo1RVVybVVKdnVBTWZOMW5jeFJJR1FDMTdYeU8yMzBBTkZDRXQxQ1ExLWJ1c25leWI0ZklURjdBb2x2cmExMmc?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Bitcoin is raw financial energy. Strategy transforms it into Digital Credit.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2FEWVd1RExOd3pBU2tVSXJvd2FWQXQyTGlPd1QyOEg2dWpGQ3hmRU5EdDl4UzJzLUNjdEVaUDY1ZjROa0VfU0RVT2g1VlRIYmx2Y2dTT3FwNnJiUWcyM2FqS09ocEF5X2xnUkdiV3VlYzJoTmV3T0dLYlhISFZHenBFQ2tOeF9PYWdjZHZBNU0tRGZHSEVwNW1VVlBSNXVRLVJLWEtnanVKdEJXNzBWbFg2aFRTams5LUF1US1B?oc=5",
+   "source": "Moomoo",
    "type": "news",
-   "published": "2026-10-13T18:00:00+00:00",
+   "published": "2026-10-13T18:02:54+00:00",
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
-    "Ethereum"
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -1820,7 +1781,8 @@
    "published": "2026-10-13T18:00:00+00:00",
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
-    "Bitcoin"
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -1833,6 +1795,18 @@
    "topics": [
     "Bitcoin",
     "Korea"
+   ]
+  },
+  {
+   "title": "Bitcoin Is at Beginning a Bull Market, Says Strategy's Saylor",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1ctYTB3OXYwNjhDck5kams4cmV6UUxVTHlmYURfN0FXNExlTkRTb2JlczdFdmNaWVJybEZERmU4YmtBeEI2eXFHX2ZLTjlwWkZXcTJKNy13Y0hPUS1rZ2dHSERkNWNOVlpnV1RPdjBRN3Fpci1zODhIQkcyTklzR0RIVmNqRnkweXpxcVVyd2U4OWVUa2p1X3lHLXdBUTZvY3RWYUtyS3phQQ?oc=5",
+   "source": "Bloomberg.com",
+   "type": "news",
+   "published": "2026-10-13T17:39:08+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -1978,6 +1952,18 @@
    "topics": [
     "Bitcoin",
     "XRP"
+   ]
+  },
+  {
+   "title": "Saylor Cheers Strive\u2019s $280 Million Bitcoin Buy While Strategy Bought 85% Less",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORjFVUlJFYWJ0NUZlOWNyTldfTmlpQ1RGTmlxakxBWGVRZjluTlFjU2VYbkt3cHZiMkZ4Ymg0ZHBfN0EtVXdUbGJWaWFHcWRhMlNSUG1VTDlBUTd6VnExenljd0s1Qlg2ZUxpQl9CUEdvX2s4SUJkZ0pHN2tiWVc0VkZ3cXY2ZlpnSkthdHhGYzlpWGJTQkloNEViN09NZEwwaG1hUi1rb2Z3NVJ0aUdTTk90THNXTDVVb0d5MFNHWGNZOWhBcDVVQmwtbGhoUVJuYzNJ?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-10-13T16:25:10+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -2246,7 +2232,8 @@
    "published": "2026-10-13T14:59:03+00:00",
    "first_seen": "2026-10-13T16:09:31.369273+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "Strategy"
    ]
   },
   {
@@ -2259,6 +2246,17 @@
    "topics": [
     "Ethereum",
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Peter Schiff Calls Strategy\u2019s 2026 a \u2018Failure\u2019 as MSTR Bulls Push Back",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUFaY29WR3otd0ExQXI3M1RxU1lWTDhzV2ozSHJHUlNfa2VvZS1rU0VhTE9TWHh5YlZFakcxdXZKdVg0UnRYb1J0Nk56WWJBMGNrdkk1aFYxajlTZUdFdmdPdUlfdWVOeHM1QkdES0pxOUxiOTBVcF9jX1Z5UnJmLWpoUTdLS1M0ZlpoQTdRMlJ3eDVsU0ZBY3VxcGFzQQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-13T14:47:15+00:00",
+   "first_seen": "2026-10-13T16:09:31.369273+00:00",
+   "topics": [
+    "Strategy"
    ]
   },
   {
@@ -2416,6 +2414,17 @@
    ]
   },
   {
+   "title": "Bitcoin\u2019s Twice-Tested Support: What\u2019s Below If It Breaks?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzhQQWxBRDZmUW5rM2p0c0RrTDRKcTg5X1l2czBCejlKa1J0UzdaX0ozZnBicU5LMHlZUkllOUxwZG1vYUVicjg4em1Kc0R3YURVMVd2N3Y5U0k2cTNnRzdKYmd3NDhBckVjSUdNc1Q2Sk1ianJBM1g0U3lJdjA0cE5WY0tLbWtBblpZWXAtY1pKSC1vS25zWA?oc=5",
+   "source": "Koin B\u00fclteni",
+   "type": "news",
+   "published": "2026-10-13T12:55:12+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "The Engine of DeFi: Inside the Aave Crypto Lending Protocol",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkRjaTczS2ZIN1hCR0QwVXc4UkxMeVBraXRUVldGWnJzQ2ZfWVhFZUhMOU9fV2ZBU081LXNmOU9PN3hyTjJJa1VDaWpPaWVneF9XTzlXSXp0enpTeWVvNVlZblNtd3FJLWdWWlJDYk4xRGtyUGd3aTlIQk9iNXZpeEdHRHE2QXBOZ1N6MXE2NnBEeUE2Q2VsV2JCZng4dw?oc=5",
    "source": "S&P Global",
@@ -2447,6 +2456,18 @@
    "topics": [
     "Ethereum",
     "Korea"
+   ]
+  },
+  {
+   "title": "Strategy Bought 250 Bitcoin Last Week and Spent Nearly Nine Times That Buying Back Its Own Preferred Shares. Has the Biggest Buyer Stopped Moving the BTC Price?",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPOE1IbHJxTEdCbVY3ZzlIY2llY3oxcE9wQjgzMGprUXhTYmQwUGNCaS16SW9QeENFMkZyUU1zWmdCX09HbzVRTVlBRE5jUTBsaTJ3QmQxUmdzTUVkTkctWmpMTEJlMlZuZEItaHdMVTMwdWQ1aHJDdVRVMGxWYTlHZ3BKWFQ4Ykh3cUhMaWg0TklaS0JHVm00b0Y0cVVsTS1Lc2RjWThfVm1aU21IWVNqSnhlQXpBeERsY0dhQm5Cd2xXSGg3NWplSlhzTzktM2JMMFU5ZnBFdk8xeTY5Tzl1WDVmeFJLUWpYbDBUcUlVcU1qcWlmOFpqNXhISkI3N2xvbnBCOWczbFJwWG5BVTZ3RFE4RUpyaWgxT2htTFVGdUw2N19nT3czb0UxQnFDTEF5bjRJTm9DUHVlTWt4WUE?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-10-13T12:34:00+00:00",
+   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
    ]
   },
   {
@@ -2671,8 +2692,7 @@
    "published": "2026-10-13T10:46:57+00:00",
    "first_seen": "2026-10-13T11:12:59.716933+00:00",
    "topics": [
-    "Bitcoin",
-    "Inflation Data"
+    "Bitcoin"
    ]
   },
   {
@@ -2742,17 +2762,6 @@
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Etisalat UAE upgrade: What faster uploads mean for your phone",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3g3SGhqS0dxWC1UNjduYkFoZm5WdjVYSm03OHRZb19Ub3RacnkzM3VoMVRLblJGRFlqMXo1cWlZNjVIUTVRRmhmUG5kY29hbDR2MzJRMG1tU0xVbFFyMkJnaHBiaTZzYS1XajhUMXBRMDdOV1RMV3VxVjhNOGlCSm5BV0x4cm9XN1I2QVVybnI3RFdlZXNidVVxRW9zdUlJdGZ0ZWptNnNxMWxWZl840gHCAUFVX3lxTE5XRnhRZWNZb0Jhbjc5TUpQeGltb29EaDNJR2tMNHF6dXg5WWE3ZnJaMVZIR201QmNSNmFSSkVHNmZNWGtzVHM4WjNDczlLX2g5a2ZjSmFaanpaY0tKVWVYeGZOTGlzUEFfMnZ2WGlSb0FjeTl5SERtcXZmZWZvU2duV3UyYjlvb00zZFFxWGlfZmkzMVpQb1B2REh6WHREMTlZbnBHRW1nV2kzUG1SRjQ5RVRid2xYVXNzaFhOMGY5WG13?oc=5",
-   "source": "Gulf News",
-   "type": "news",
-   "published": "2026-10-13T09:49:14+00:00",
-   "first_seen": "2026-10-14T09:15:34.812617+00:00",
-   "topics": [
-    "UAE"
    ]
   },
   {
@@ -3037,11 +3046,18 @@
   },
   {
    "title": "Interactive Brokers Adds Ethereum Staking Through Zerohash",
-   "outlets": 4,
+   "outlets": 5,
    "topics": [
     "Ethereum"
    ],
    "items": [
+    {
+     "title": "Interactive Brokers moves into Ethereum's $110 billion staking market as institutional demand accelerates",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHNVaTlmN3lZT1BfU2JYRVpTUkxsZm52cjk5U2s3dWdxOVFDN3BFV3ZyNjRSVzREVGtLc3VURVh0WHd3cnNSZGxSUk1SU05OMWJ6aDJra0hSekVtUjc4M3hBVGk1cEFwcUNQUDFWbkVSM3dPWm1HU0s4bHpuaFpPXzQ2SmZibUlZQnVMV013M2tpcGhENjREOV9KazdwbEItbEpMVWp0NEVTand4bGk5TVJHNDBON2cxSTNaRVNTOFUtQWlhSU1n?oc=5",
+     "source": "CryptoSlate",
+     "type": "news",
+     "published": "2026-10-14T09:10:03+00:00"
+    },
     {
      "title": "Interactive Brokers Adds Ethereum Staking Through Zerohash",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBsVUlQN2FlaE1qektnaWZIckY0d3NaSzFzZFJNbEtJUHo4UGVKblZHeFliVTlKQkl3c0FSN2hETzUzUnhWRlZGNDJfVnpHSWZCOXJib2JxWFpxLW1zUk5zc3FZb1ZnSE1lb3N5TWF1bEM2em1UWmJHVU5pYmE5N0RLWnJ6NFRUYjhRZGQ0MVBpUTVKVE1PMXA4dw?oc=5",
@@ -3069,6 +3085,51 @@
      "source": "The Block",
      "type": "news",
      "published": "2026-10-13T15:24:14+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Strategy's Michael Saylor predicts bitcoin will climb back above $100,000",
+   "outlets": 5,
+   "topics": [
+    "Bitcoin",
+    "Strategy"
+   ],
+   "items": [
+    {
+     "title": "Michael Saylor Says Bitcoin Has Bottomed And Should Get Back Above $100,000: \u2018Long-Term Forecast Is\u2026\u2019",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPck15SzM5clJxcmdNVngtT0cteC1oZkdXTWZuWGVPV3RwRjJ1QmsxeVRqdHFrSXRPc3d2YVlEZ29UemxDNnVrOENNbTUyYjlRNnF5Nm5weGlkNG5vd19hR01XNlpRUDJkV0xGTEF6ZDJOSTNYbzdNOXhtZWFxMnJlNWJpaExmTEZHeWpSQ3ZpQjVQRWk5eGJKYUtua0NaR1RSUDBJ?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-14T04:21:00+00:00"
+    },
+    {
+     "title": "Saylor sees Bitcoin above $100,000, says investors will seek (scarce) assets that robots can\u2019t make",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3lzOGNsTWFwTW9Sd2JnQ0htc21uX0k5LW1BVldkbnZIZFVtcV9hWjRULWJPaEtoeFZZdmVwLS1kbkkyUnpmb29PUjJGQU5uM1hFb3N2TXBMd0ZtNUo5MDlJaDRhN0pGSXNpbDBfc1ZYZ3FOU2QyMmdyc2FiWFZsUkxwNW12NDl4Q0l1VVozMkRHOFZjN2o2eEwyQnYwMTllZklsSFhYM2cyNzdrWnJOYW1KbnhnWUR2cUFPSUFiUFJwcktxMGcwVlAyLUlMdTdZLUN3?oc=5",
+     "source": "investingLive",
+     "type": "news",
+     "published": "2026-10-14T00:16:24+00:00"
+    },
+    {
+     "title": "Strategy's Michael Saylor predicts bitcoin will climb back above $100,000",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UQUlkU2VKdWFfVmlSVDloc1I1UnU2RmhuZUFzNnltcWVVZGNsbFduNVF0Z0NNM3JrSUstbE1qYnJBV05JeU13aTJSd2trdkVHYzBVbzdIdHdoczFaODVhVUgtajN2OXFhOThESXVuV3l6Y3JLTUhNUm5OSQ?oc=5",
+     "source": "Quartz",
+     "type": "news",
+     "published": "2026-10-13T20:28:43+00:00"
+    },
+    {
+     "title": "Michael Saylor says Bitcoin's slump is over and predicts a return above $100,000",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR0o5T0R3REt2bE5nSExmVFpTdHU4V283SHJWRE4tX2ZxeEJKQjRTNGZMcTNsMGFwRnpSMzFtX1UwcHE1R1JMMDNvOTRmZk4wNkVSajZBbE8yRnRJd3MxRU5PUUJoN2s2LWd0NGVDaWRfTWVrU0FrT0JGemwyNU9mX0o5QU00OVRIcjBnYW9Jc1lMSHFkMFJMLVRhRTFySjZYbG9WazByeFdna2poQl9uSURzZC1PdVFvWFJtLWcwb2VVb2ltVkl2Z09EQ2wzbXpHUVBKZ2xpRkZwSHd4?oc=5",
+     "source": "TradingView",
+     "type": "news",
+     "published": "2026-10-13T20:00:16+00:00"
+    },
+    {
+     "title": "Strategy\u2019s Saylor Sees Bitcoin Moving Back Up Beyond $100,000",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDdIV2tIbU01RDFlM2V1WnVJRXRZbV9VdnFIdklTWXZZQko5cHZEWUpHSWZ2d05qYnNPblVaaXdfWlBQZE4xTFBoOE9RTWpOUU5tcTczeXIzci1KVmJ1THUtbmhTNVFHMlROcFRYVXpOZlktUmh3Mllac3g1eTRvQ28wb2RJUWpHV2t2TkI0Nkx2YkZ3YmdNMTFOU2lnT1BOZHhVYkVzRXRpN1I4S010MQ?oc=5",
+     "source": "Bloomberg.com",
+     "type": "news",
+     "published": "2026-10-13T18:55:09+00:00"
     }
    ]
   },
@@ -3101,40 +3162,10 @@
      "published": "2026-10-13T18:55:20+00:00"
     }
    ]
-  },
-  {
-   "title": "Strategy's Michael Saylor predicts bitcoin will climb back above $100,000",
-   "outlets": 3,
-   "topics": [
-    "Bitcoin"
-   ],
-   "items": [
-    {
-     "title": "Michael Saylor Says Bitcoin Has Bottomed And Should Get Back Above $100,000: \u2018Long-Term Forecast Is\u2026\u2019",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPck15SzM5clJxcmdNVngtT0cteC1oZkdXTWZuWGVPV3RwRjJ1QmsxeVRqdHFrSXRPc3d2YVlEZ29UemxDNnVrOENNbTUyYjlRNnF5Nm5weGlkNG5vd19hR01XNlpRUDJkV0xGTEF6ZDJOSTNYbzdNOXhtZWFxMnJlNWJpaExmTEZHeWpSQ3ZpQjVQRWk5eGJKYUtua0NaR1RSUDBJ?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-10-14T04:21:00+00:00"
-    },
-    {
-     "title": "Strategy's Michael Saylor predicts bitcoin will climb back above $100,000",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UQUlkU2VKdWFfVmlSVDloc1I1UnU2RmhuZUFzNnltcWVVZGNsbFduNVF0Z0NNM3JrSUstbE1qYnJBV05JeU13aTJSd2trdkVHYzBVbzdIdHdoczFaODVhVUgtajN2OXFhOThESXVuV3l6Y3JLTUhNUm5OSQ?oc=5",
-     "source": "Quartz",
-     "type": "news",
-     "published": "2026-10-13T20:28:43+00:00"
-    },
-    {
-     "title": "Strategy\u2019s Saylor Sees Bitcoin Moving Back Up Beyond $100,000",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDdIV2tIbU01RDFlM2V1WnVJRXRZbV9VdnFIdklTWXZZQko5cHZEWUpHSWZ2d05qYnNPblVaaXdfWlBQZE4xTFBoOE9RTWpOUU5tcTczeXIzci1KVmJ1THUtbmhTNVFHMlROcFRYVXpOZlktUmh3Mllac3g1eTRvQ28wb2RJUWpHV2t2TkI0Nkx2YkZ3YmdNMTFOU2lnT1BOZHhVYkVzRXRpN1I4S010MQ?oc=5",
-     "source": "Bloomberg.com",
-     "type": "news",
-     "published": "2026-10-13T18:55:09+00:00"
-    }
-   ]
   }
  ],
  "events": [],
- "headlines_served": 2507,
+ "headlines_served": 2512,
  "trend_candidates": [
   {
    "key": "uae",
