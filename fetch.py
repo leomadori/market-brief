@@ -31,6 +31,7 @@ HISTORY = DATA / "history"
 STATE_FILE = DATA / "state.json"
 REDDIT_STATE = DATA / "reddit_state.json"
 TERM_STATS = DATA / "term_stats.json"
+TERM_META = DATA / "term_stats_meta.json"  # headlines counted per day (share denominator) + method-change log
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) market-dashboard/0.1"
 NOW = datetime.now(timezone.utc)
 
@@ -521,6 +522,11 @@ def update_term_stats(state, items):
 
     stats = json.loads(TERM_STATS.read_text()) if TERM_STATS.exists() else {}
     today = NOW.strftime("%Y-%m-%d")
+    meta = json.loads(TERM_META.read_text()) if TERM_META.exists() else {"method_changes": [], "counted_headlines": {}}
+    day = meta["counted_headlines"].setdefault(today, {"news": 0, "reddit": 0})
+    for i in new:
+        day[i["type"]] += 1
+    TERM_META.write_text(json.dumps(meta, indent=1))
     count, _, forms, _, by_type = extract_terms(new)
     for term, c in count.items():
         entry = stats.setdefault(term, {"term": display_form(forms[term]), "daily": {}})
