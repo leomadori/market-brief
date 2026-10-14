@@ -39,7 +39,7 @@ A small Python script (standard library only) runs on a schedule: it fetches the
 
 ## Changelog
 
-- **2026-10-14:** Duplicate trends merged: trends sharing most of their headlines become one tab (Blur + NFT), and word variants are combined (Korea + Korean).
+- **2026-10-14:** Duplicate trends merged: trends sharing most of their headlines become one tab (Blur + NFT), and word variants are combined (Korea / Korean / South Korea, China / Chinese). "Inflation data" no longer shows as a trend.
 - **2026-10-14:** The background term counter now records how many headlines it counted each day and a log of method changes, so long-term comparisons use shares instead of raw counts.
 - **2026-10-14:** Off-topic headlines filtered: Google News searches for the core topics now require crypto context ("RWA" was also matching Rwanda cricket, Indian resident associations and a stock ticker). "Price data" quote pages blocked.
 - **2026-10-12:** Windows 95-style scrollbar; news updates three times a day (08:00, 13:00, 18:00) with the times shown on the page; headlines hide automatically once they pass 24 hours.
