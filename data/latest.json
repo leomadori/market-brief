@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T09:21:21.616049+00:00",
+ "generated_at": "2026-10-14T11:00:05.548493+00:00",
  "first_run": false,
  "topics": [
   {
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 20
+   "item_count": 23
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 29
+   "item_count": 32
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 82
+   "item_count": 81
   },
   {
    "name": "DEFI",
@@ -80,9 +80,9 @@
     "UAE"
    ],
    "first_seen": "2026-10-14",
-   "count": 5,
-   "ratio": 5.0,
-   "item_count": 21
+   "count": 7,
+   "ratio": 7.0,
+   "item_count": 23
   },
   {
    "name": "UNI",
@@ -93,7 +93,7 @@
    "first_seen": "2026-10-13",
    "count": 7,
    "ratio": 7.0,
-   "item_count": 8
+   "item_count": 9
   },
   {
    "name": "Korea",
@@ -105,7 +105,7 @@
    "first_seen": "2026-10-13",
    "count": 6,
    "ratio": 6.0,
-   "item_count": 27
+   "item_count": 26
   },
   {
    "name": "Blur",
@@ -116,7 +116,7 @@
    "first_seen": "2026-10-13",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 22
+   "item_count": 24
   },
   {
    "name": "XRP",
@@ -127,7 +127,7 @@
    "first_seen": "2026-10-12",
    "count": 15,
    "ratio": 15.0,
-   "item_count": 23
+   "item_count": 25
   },
   {
    "name": "Strategy",
@@ -138,10 +138,274 @@
    "first_seen": "2026-10-12",
    "count": 12,
    "ratio": 12.0,
-   "item_count": 19
+   "item_count": 20
   }
  ],
  "items": [
+  {
+   "title": "Michael Saylor Expects Strategy to Crank Up Bitcoin Purchases as \u2018Bull Market\u2019 Takes Shape \u2014 Sees BTC Top",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOa2dENER0NnBseVZaZmlleF9IMmpRbzFmYjRGWFUtNUwxZVZmd1ZPa2VFNHFmZWdobzlWM2dobjQ2S0lYVnNZM3cteExPTEtEc04yWGVUeWU4QzBpOXZXa2VLSnVlR084SXVGMHl4WjJyMm83WXNOSlltcGhyNG1CbU5Dc0hQRUt1ZTlIc0pfR05wa2MxbUJzcHhfN3hYUjd4bWpBZk1BN2ZObmhSWld1RVlRWWw2SzVSRS1KWTQ4YllPZlFRSFdydFduQWdmV2NWT0xPQXdVX0NnZ0VvNVRXMzZ6TlkwbW14SmNz?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-10-14T10:53:54+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
+   ]
+  },
+  {
+   "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+   "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-14T10:51:39+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Altcoins slip as bitcoin (BTC) price steadies before U.S. CPI report: Crypto Markets Today",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkhIVjRGMU5mZmRCNWNGRXBTTE50OXU5UG9SSGxtYTBFQ2tBYlVoQm5TMTc2ekdzQmlEWEdJaEJhWjJMVXduYlFQbjhmTXBabHNLZnVjZHdzenlIWWtWMDNWR1c3SWRZZmRrbEwweXRmYWlXY0l0MS10REZ2QThDT3lleWN3TmMwSWx3SzFVSVFJTm9mcUtRXzhrakduR0FOSlh5c1lPWGpFM21lV0syOWU3VXhkZ2pB?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-14T10:51:39+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "RWA Sector Rebounds: Demand for Assets Like Liquidchain Grows",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzBUeVZCR2RXYW9BLVFKaGozSk5pakg2NmgteHVaMklJcnBuaG5Tb1dZX2ZZWUM5MThtUUVPbGJHeDc4dmNNRlJ0QkYxWFZ5SVJKSURtbU1zY2VRZHYzazMzN3d2bHotb3pyamREbkIwTkVNTjB6NmNpd2I4cHpTS2ktcU96WEVrWGpJ?oc=5",
+   "source": "icobench.com",
+   "type": "news",
+   "published": "2026-10-14T10:39:49+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "CryptoQuant\u2019s 3 charts keeping Bitcoin\u2019s \u2018Uptober\u2019 thesis valid",
+   "url": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-14T10:38:22+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "XRP and Solana Projected to Reach $100 Billion Market Cap by 2027",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHRqLW43bndWUEhMS3YyZXlrS015b2JMRmszMUpHMXAwdmRZOXpIbkhUMkhDdXgwaF8yWXRORUVCODlpU3VNV3ZHWlhuR0ltMU1Rdi1ONVZYcnNhcDlzNWEyQTZQbzc1dnFTMFNacGxIR284OE8wU2pfLUY1X3RvcUE3aWhvOGZWQlZNRGtTTVNxclJ0dXNxaTVsdnQ3YXc?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-10-14T10:34:42+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "XRP"
+   ]
+  },
+  {
+   "title": "Standard Chartered Broadens UAE Crypto Services With Direct Bitcoin and Ethereum Trading",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdnVIZGJLM2x4TzNYeVVlWTAyd2xSeGw5NkJHaGoyMUlETVY2Zk1DZ3ZoRmxDV1lvbEQ4eGdYWVNvbmtCY0F0WEpFenJ6R2FHTmhGWGRoRHR0NHdJQS1WY2NhQ211VGhRWlgtMUp2VmpaeDNWbE5kUWhpVF9IMXlkbC1hdUVOUGd3aWhNMlFyaDBaOE1uRk92VjJHOXZDR0xiamNLdktyNV9MTUFUeFRtM0hhcmZfckFNRE9zYVNhQ0JjZXg2cDY5LWZtZTNOeUMyT2VKamFoTWZlLUVJMmEyY3RWRUNkZmh2X0xGdEFZbnppaXRCNGFZLThPdnd1cWNl0gGGAkFVX3lxTE1oUURWYjZpM0N1UVdmSzc1MC1iRTM1OFdqQV95SVZ3U0d6TFFPdXczeEtFdUVUXzMycGVWTV9yTk9fNGNCcWlHbDh2Y1pQTWdUTndlV0ZHck1nT3J4aWhNNTk5WGhoa3FiMzRoTndNeGd5c2pzTzFfSjlSblpGTWJzSTByMzVmQ2lKTkpoVmVhbXd0WHlfRDkwWHFCUm9ScU5VYUgweUlWWE9maTh6TXBQWWNBUDhUdVkxT19jRmpTTldPc3c2dXFQamFUOExPODE5QlB0QkxLSjJfUTViWTJsVERSd1ZLNmxrdENVOHZ6ZFVVRVgxLWYyam9oVXVFUVY2NTJfYlE?oc=5",
+   "source": "Gadgets 360",
+   "type": "news",
+   "published": "2026-10-14T10:31:40+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "UAE"
+   ]
+  },
+  {
+   "title": "Bitcoin will become \u2018less volatile\u2019 and larger than gold: \u2018The Bitcoin Standard\u2019 author",
+   "url": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-14T10:25:53+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "What World Blockchain Corp. (CN:WBG.X) Faces as It Searches for a New Business After Exiting NFT Authentication",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2FBc2FlSjE4S29nX3VDdTZaeVFvUEZHVG4xNVNZNUxxMmZSMzYyTVR6M2JnZkprVmhnZjVmbVc3NlI2V0p6RnZsM3RHd29EM0dSLWVNQlhEdnBvQ3U3b01PN1kzS3pDNl9uVHBjVDBTcXMxSmtGb2JNZ19Ed0dwSUl6Z0FHb1V5NE03cURVNG9Ybmk5UUNzems4aEpIRjZ0MWxFcTdGRGdtXzd4VUpBd2NkaWgteU15TE5EMGZPdHNZRk9kS1lMNlZSa1RfRUozNlQtU3RkbHc?oc=5",
+   "source": "kalkine.ca",
+   "type": "news",
+   "published": "2026-10-14T10:23:00+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Blur"
+   ]
+  },
+  {
+   "title": "Dan Ives\u2019 AI Bull Case Extends To South Korea \u2013 With A 9,000 KOSPI Target And 2027 Stock Picks",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSFBqSzEzWloxN09iaDdMUVpGZ0FyLVZ3YlpyUTBOMmNVVmlzejNielFFX0QtUUpiUGlhUDBXODFsc0dGZ3JDSEZVQTRYZzBObGhGSGVwQzVaaDVnaVlTMnRJM1NjQVFFTFY4Q1F3eFN0ZURpdjNMd3NHZVNrQmw0NjdjYVlQbmdXRl9SQnJDZEh5Q0t2NFFPaVRXdDRWeWZIWDJRWkRLNzVaWEs4TExGMG9GX29OSWRJZHdpT0Y4d0JOLXRFQzJxcXVybXNUWjBZMldDQlVUM2ROWmYwZG44RTBieDRUeEk?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-14T10:17:46+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Bitcoin Avoids Volatility While BAT Rallies",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1cyYVJyOHljSWdiOHU3d2ZrbjJFZlZUS1VGbUVPQlV1NFYwWnpHZjFWNG1pd1BOZjN6LUZOSmZPTmlYbjhCWnBEYlU1OGpyeGVRc3k3bXVwZ2kzWmpwcVhVY1NtMk5FYTZkcHBmT2lMMWE5LVZIZVVBMkoxeWEyWkJwbTZ1dWRla0RKWk9PWWM3QQ?oc=5",
+   "source": "Investing.com",
+   "type": "news",
+   "published": "2026-10-14T10:07:32+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+   "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-14T10:07:03+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "UAE"
+   ]
+  },
+  {
+   "title": "S&P Global Report Takes A Deep Dive Into The Workings Of Crypto Lending Protocol Aave",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbjU1SXBWbUxXdkctNmtCMUZ3X3hGeUFlSklydTlITGlSNUs0NVI3bk9KZXFtaTZZRmJxa3p3Tkd2MmdVUDFJbTVCdUdvd05ZT2k4S1hMX1NsOVdNMTE1REpCU3poVjRjU3R6ZWowazcxLTZIUDNoUmp3ejdYZXphQWxSNHF2RUdZbHFMWVpxS2xjUUpMYzRkNlNhOERJT19TZnFhY0VlWmI3WkFWZmhzc29UZC1xbWI5NmwxQUdpdDZNSXlNRG9SaHFR?oc=5",
+   "source": "Disruption Banking",
+   "type": "news",
+   "published": "2026-10-14T10:02:37+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
+   "url": "https://decrypt.co/380904/bitmex-sued-in-uk-for-return-of-27m-in-bitcoin-over-unlicensed-derivatives",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-10-14T09:54:52+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Over the Past 3 Years, Bitcoin Is Up 225% and the Nasdaq Is Up 109%. Here's the 1 Takeaway Lesson for Crypto Investors.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3M1a2s3bk1LODdDMlNtSXYxczU0eXFnRnJxLXJBaHYtWElicl9HdEtNQ3hWZHoxMmFNQ0VnQWhYRG5XeGgyRldBWkxqVlFubDUyU0dDeWp4NXA4Z3VKUFRIM29JYmtUR0tVRURueXYtaDRIa2N5SWh3V0dVVE56QnotZmEzRlktaXNpX0x3VzV5SW11?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-14T09:54:00+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "XRP News: Ripple and Meritz Securities Bring Custody and Tokenization to Korea\u2019s Capital Markets",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tTHV4NmZ4aFI1T01yd2FOY1o4eUE3QXNHNHlfMm5mbHZDR3dlUEd6aDdnczBncG1qN0FqMEZ2Z2dKOEhYUi0yZjV4STRaaVFianMtU19hN2Y?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-14T09:47:46+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "RWA",
+    "Korea",
+    "XRP"
+   ]
+  },
+  {
+   "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+   "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-14T09:45:53+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Will US CPI fuel BTC, ETH and XRP gains?",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODM4OWhZU3h3Vmw3OHhsLUdpTDBnS1JhM1BRcmNYZHQyQlJpRTAyX2o4N1VCZVkxVHdDbjh4LVBnVFdyclNWX3l2RGNtaEdYclpaRkkxVnI2Y2I1aXE1bWNYNlE0dFFpWmdXUm5ITGR2OGw2VHNLWjB0b3Z6V0FIR1MwaWx6TDcyamFXLVB6VVJpeGw4NTZNZThsbldYLWlHR3VaRDM5VXJSVW5OS1p3RWhiQTBuWDNFSGc2clZ3?oc=5",
+   "source": "FXStreet",
+   "type": "news",
+   "published": "2026-10-14T09:39:27+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "XRP"
+   ]
+  },
+  {
+   "title": "Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXpFWktZbkc4MzNZNXpYVFBwM1I0akU2SVlPVER0OW91VnZKOHBBS29GQ2lNZzJzcGt4MzBXdWtOS0ZQU1hBV3F3MTgwbU92YkZxUzFzS3huU1lFYmh1R3dxTXlqV1ppVDRUaHR0S0xYdE1ZZE5nWjVfWjFfeGV0SXlfM0ZYUjZKSk9yZGVnVWxmS0owcHlpaXItZnZXSUNuSmc?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-14T09:32:15+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "XRP"
+   ]
+  },
+  {
+   "title": "Bitcoin's Price Resilience Not a Sign of Sustained Recovery -- Market Talk",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYk5CRGpUWkZPaE5sYzFJX2I3OTBBTFB4Ylhfc1VVSHNnUzJIaHFmTWRUY29McXE2bnZ1Z25PVUZQSDdlMHJGOXNDNVVWazdPU3dhckdsempXT0hKNkNpd3l3ZjVFa1ZmZjQxdWx3cDdITGFvMDhnT2pvd1N2NXJndXRWczItUXN2STA0ck5fOW4ydV95aktZMjRUTW9DY0syd3NJSHpB?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-10-14T09:30:58+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "ADNOC Distribution and Jetour partner to enhance customer experiences in the UAE",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbEgzTTE1S3pSWXVpVG1TS3VlRXgxVEpEN0ZISEJwWFhpOERKZTNtMlJ3OG5qTFhGZXEtZF9pUmNYYmFINHhxdFd0cEJVYUZhdmpwZldFdDdoUGIxd1UyU242azQ1LWxveFRscGN3d3oxbWNob0JHSmpZUWlJYWJJblZYdi1rd2FDQ3RpeWJ4aUphVGFNWWl5RUpHQjhfTjdRUkR2dDJCSUFEdWJQUml1VFRtWlBodVdKam5zS1g2aENFTXVEQWtNUlljLXJpNUpZYlJtb1BITUdvUQ?oc=5",
+   "source": "Zawya",
+   "type": "news",
+   "published": "2026-10-14T09:25:00+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "UAE"
+   ]
+  },
+  {
+   "title": "South Korea\u2019s 22% Crypto Tax Is Coming, and Tax Officials Are Racing the Clock",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlJMVkxnZjQ2YlhPVGRMR2x3eWp0cTVrczViNkxZNUgteVhuN1VFbFhWMEluQ3dYcmx1MmczUzVrVWJCOUxiVXJBNXM3QUg2dTc3MkpLR05uLVBZUHJQZzFBU2t0c0lyZFVuSWFlUzM5dDVNeVQ1bk5fNnlTcGd4RUlGYy1TSTF1X0lBcWZkbEpHdU9S?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-14T09:21:32+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Standard Chartered Launched UAE Crypto Trading",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jOUE0SG1VOTFZc1hEU1BGMHdTMy1McFFqNWRzcGxIWGJjbDhFb1BKWS1qc3V3c0EyOC1UVzFDOURPM2F1ZFVUT2NpbW05QXlpX0lmZTVJcFh2Znd1X3FCd2xQdVZBZnVFQXc?oc=5",
+   "source": "Cryptonews",
+   "type": "news",
+   "published": "2026-10-14T09:17:39+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "UAE"
+   ]
+  },
   {
    "title": "Interactive Brokers moves into Ethereum's $110 billion staking market as institutional demand accelerates",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHNVaTlmN3lZT1BfU2JYRVpTUkxsZm52cjk5U2s3dWdxOVFDN3BFV3ZyNjRSVzREVGtLc3VURVh0WHd3cnNSZGxSUk1SU05OMWJ6aDJra0hSekVtUjc4M3hBVGk1cEFwcUNQUDFWbkVSM3dPWm1HU0s4bHpuaFpPXzQ2SmZibUlZQnVMV013M2tpcGhENjREOV9KazdwbEItbEpMVWp0NEVTand4bGk5TVJHNDBON2cxSTNaRVNTOFUtQWlhSU1n?oc=5",
@@ -188,17 +452,6 @@
    ]
   },
   {
-   "title": "Ripple Partners With Stripe-Owned Privy for AI Payments \u2014 Will XRP\u2019s Price Be Impacted?",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCTF9wdXpKUjVOMVM1OHpYcWY0c0R1Mmt4ZlkzZXpWWnJhbkJJdkJLemo0MU53bEhzN2paZXZDNTFfQ2xjVmN3YnV4Q1V0VjVuc3E5R2N0QkUzWFpzOThuSFV3dXl6NldWSWxzQVF2R2N4cDNvQVo4OUJpU2lMdw?oc=5",
-   "source": "CCN.com",
-   "type": "news",
-   "published": "2026-10-14T08:57:16+00:00",
-   "first_seen": "2026-10-14T09:15:34.812617+00:00",
-   "topics": [
-    "XRP"
-   ]
-  },
-  {
    "title": "Standard Chartered Becomes First Global Bank to Offer Direct Crypto Trading in UAE",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81aFlMU2kzRU5vOFVHMXN5WEQ0OFQ0aDVZVmhZaDNkLTJSVUVycHlvUExTUVJhLXcydklFYVBtRlh5OWY4eGhDa29nVzlXRmpGS0V1NFpnT1JubXJxWEFaTkpGSmRNM3BpYzJTSkZaaUsxeDBuTVE?oc=5",
    "source": "BigGo Finance",
@@ -207,6 +460,17 @@
    "first_seen": "2026-10-14T09:15:34.812617+00:00",
    "topics": [
     "UAE"
+   ]
+  },
+  {
+   "title": "Ripple Partners With Stripe-Owned Privy for AI Payments \u2014 Will XRP's Price Be Impacted?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzFWNEdpNmMxUGY3V1VBM1RhYzBnQ0FoSFh6VERIdVNUNWlhRWtvdFBJbm90bXlUV1RiTUdqbTdoQ2VHMUJZUHU4TDRQRjhfeW9jalFOd2RNR3FwLUoyX0lHTHlXRDV5UnYzQkFybkowVW51akpaWUpBZzlKakRZMVNBbDhPczJiWGxXVHdyQkQ5eXJKdUtCN1VCNXNpOTdV?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-14T08:54:02+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "XRP"
    ]
   },
   {
@@ -221,7 +485,7 @@
    ]
   },
   {
-   "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+   "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
    "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
    "source": "CoinDesk",
    "type": "news",
@@ -274,6 +538,30 @@
    "first_seen": "2026-10-14T09:15:34.812617+00:00",
    "topics": [
     "XRP"
+   ]
+  },
+  {
+   "title": "Standard Chartered Launches Bitcoin, Ether Trading for Wealthy UAE Clients",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zMEJvUHZYcWl2dEdsRkZKU1ZnRU8wcDVUZlgtVGdGemE0UEZGUTU3V2NfdFhHQ0hfa3V1emNTYWZBRWoyZldROTBjQVg3Y3NlcHM4Rg?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-10-14T08:36:31+00:00",
+   "first_seen": "2026-10-14T08:43:07.106954+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "UAE"
+   ]
+  },
+  {
+   "title": "UNI Price Prediction: Support Crumbling at $7.38 as Open Interest Sheds 10% in a Day",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTV92a1RRb0JaS1JkTk9aanVkOUhiTkdzQnVaaTZHRU5ULXFtZmIwaHotdGNmbEpwLWVkdExHdXVzOS00bGRMR2oxcVZYdEx5R1A4ZVBsZHhWWUhINUpzVUNHTUszSnFJM2lNVjIxcWNDb0RMdjVJcUxnY2FXQUFFbG9LN2FIUUQ0Mmtwb2h1WThLRnBZZ1E?oc=5",
+   "source": "Blockchain News",
+   "type": "news",
+   "published": "2026-10-14T08:30:00+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "UNI"
    ]
   },
   {
@@ -345,6 +633,19 @@
    ]
   },
   {
+   "title": "Standard Chartered opens direct Bitcoin and ether trading to affluent UAE clients",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaVQxb1ZZVGRFZVJmZnNUMUlKbkJVd3B2ZUVXX3FoOHhDeU1fbkVxMEFsdUpCbjE2NzhfNWFPYXpxamFLZ1NvUm5OQllCTnZjbkx1b3hPYVJMcTh4VDlTOWFaYl9jZ1haS2NjRFJER1pvWWdpMzF6cDZfcWhhWlZlZzZwN0ktcndqTGNwUHJHS2k5Y0M3US1oZlpvc3E4X3VxVExhQ1p4R2U0ZWlxd2d1Qm5DV2pUTl8yUmtBSVdqbWdPNFNacWthckppQWNGc2lIY2lNeTktVlpaZEJONU9j?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-14T08:14:04+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "UAE"
+   ]
+  },
+  {
    "title": "ETH Becomes the Crowd Favorite as BTC Slides and XRP Struggles",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSERpaE13dmpXQzR2LVlKNmFnTW55cV9WTndYSnBJNUhuOVZmZ0oyOU5Wd2hsZ1MtRWtfX2t4cjdFanFYVFpqdjZXR1JKdjl6dnF2aVhSZG1ObU1NU3NQTWlwR2tHOWhSclB5em1LVWpFN3JMMUliaVViSDViOVN1VzA3TG1YNEhfZmhVXzNORkVyUQ?oc=5",
    "source": "CryptoPotato",
@@ -355,6 +656,17 @@
     "Ethereum",
     "Bitcoin",
     "XRP"
+   ]
+  },
+  {
+   "title": "WasabiCard and Lotus Tech discuss stablecoin pa...",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTJjekdpTEtEc2xtNkJqa09WNTNzNnV3bHFLSGFNcmYyaUNIai1Pd3hyRHJDbXpKTmtfVEtuM0p2MVphaEFkd1lIeVEtUnFqbzZTcEpxenNhLWtzVTVaeFZRRTF2TVVLM1Z6VjN0WDhkQU9VRTZnbnlTY05sNXo4OE5veXZQbDN6QVl5dG9reUJac01rNk5KV1g0NXBYNjN4ajIwbDZn?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-14T08:13:01+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Stablecoin"
    ]
   },
   {
@@ -395,6 +707,17 @@
    ]
   },
   {
+   "title": "Is Bitcoin Ready for Quantum Computers? What Coinbase\u2019s New Plan Shows",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUFkWjdTd2VlLW1VUjU4a0xnZ1BNRnRZdHV0UHN5OEIyeTFlYkt2dGU2UmVFVm4wcGpjbUxEQl9EdXJSeXFROWhCSzJZTm1mUG80VnotY0pvdjlxOUp0bHZMWi1VX3BCaXB3Nmo3SG01SWNaVkx5SzJnQWpwa1BwOGhVZ1pJTmlSQU45UlhJVmRfWmRuSFdWYnpSRzdVLUVWY2tLSXdNUG4?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-14T07:57:33+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Saylor Spoke About the State of the Bitcoin Market, Competition With AI, and Strategy\u2019s Sales",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUM0aWE2Q1dXZ1h3Z1BWT2lEYnFLdzA3aTJ2bmxYa2dfMFJpd2x2aHIwNEx2cHpSNkZjUmptTm5FZlNENElJVlRXenhiU2lUcXZCZFVieVFvM1hpbHpCYnYxT2VlQXBLdFJnanVuMzlZZ1F6RU1GZk1IUm8wMjRRLW5JaDBJaHhWX1hWcWkzb3JLMFNPc1hiVmJ3bzQzQ3RMMXB4enByT2haa0Z0ZmU2dFRMYmFBVlU?oc=5",
    "source": "Incrypted",
@@ -415,6 +738,17 @@
    "first_seen": "2026-10-14T08:43:07.106954+00:00",
    "topics": [
     "Korea"
+   ]
+  },
+  {
+   "title": "XRP Correction Puts $1.14 Channel Breakout Level at Risk",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWo5WXNQZzFyUFdUeWFfSFlkd05kLVNESGRoNW5pYWlLSnczcE1NZC1NR25XdVp0ejRWS1RJbjNpQW51NGI5SDl0OFVicVBlY3ZfaWU2R1lscVN2NFJwanp4aXotRGpDSG1rbVNfZld4Tjl5YTRfOW9OcHVOZDhwbEI4cjMtT3ZZQU94eXl0ZGVjT2h3RHoxcQ?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-14T07:47:20+00:00",
+   "first_seen": "2026-10-14T08:43:07.106954+00:00",
+   "topics": [
+    "XRP"
    ]
   },
   {
@@ -451,17 +785,6 @@
    ]
   },
   {
-   "title": "Bitcoin Recovers After Tuesday's Losses, Helped by Lower Treasury Yields -- Market Talk",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEREQmlXOVZiVHA3WTNMZk43b1lpb1hTVFlzZHpBUW5PNjEtUXpYZFZFOGw3dGx4QmNDcE95dl9UZ2hFd1ZKQ3V0R2sxNEU5cnUtdll6V2FFaXdCQWs4NldTWEo2VDcxTk9wRzFxaGZjQlRrUWEwVkgxM2kwZnFQTVRiWmZOb2RCUUt2M1p1a0hFbHdsLWc1MlZGV3R3X0oyMTFTRmNoRC1kaWNt?oc=5",
-   "source": "Moomoo",
-   "type": "news",
-   "published": "2026-10-14T07:20:23+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Bitcoin's V-shaped rebound: from $80,953 back above $83,000 \u2014 spot buyers step in as the Fed softens, but ETF outflows linger",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMElCY0VJMklqRnQ2MjRfNlRLSFdpNkRETEN1dlV5X2VYcWVQN0s0eVVWSnVvMWp0dzZJaXk1dFBuclNmMVA1RnFZMFhFU0g5clNKSThGbGoxcXFKRWQ2T3ZnUy16M0ZFWWxzNERYVmVydWdaOWJOSkg4ZldnRnVFc0JORTBpS1ZzVEs1dnloMFJFX3BKdmNXdl9jLUJucVI2Z203V042a21vMG8?oc=5",
    "source": "Mitrade",
@@ -492,6 +815,17 @@
    "first_seen": "2026-10-14T08:43:07.106954+00:00",
    "topics": [
     "Ethereum"
+   ]
+  },
+  {
+   "title": "Ripple's $10M stablecoin donation to Accion cou...",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVdFQVAxVEFXOGZZNEw4Ty1QUTBhcjJmSk9uSlhMRFZzMWIwemM0b3RxT2VxU3ZCb0RVV09EeEpiWG0zX3VCMmdwN1c4cl9RdnNMcG1DLTN1QVkyRjNBcGRNa0NRU3JxTzBJekl6cVQwWkswR08xYmZ4ZmMteGJaa3Z5UXU?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-14T07:04:54+00:00",
+   "first_seen": "2026-10-14T08:43:07.106954+00:00",
+   "topics": [
+    "Stablecoin"
    ]
   },
   {
@@ -552,17 +886,6 @@
    ]
   },
   {
-   "title": "South Korean stocks rebound after five-day rout, but caution lingers",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SX04tR3gwWk41b0FaTFo1SFg1WGhSbjRLRGdESVBvY0trZU5xU240TC1LUTlHbDlTX2U0TXlWYjVYQVNrU1F3VFV6T0Z6bmRDZmlTR2pUM0pSN09rNS1qc3pDRGxHQnlhNVRVTTFhZHROX3lKZkdGTjdR?oc=5",
-   "source": "KED Global",
-   "type": "news",
-   "published": "2026-10-14T06:56:11+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Korea"
-   ]
-  },
-  {
    "title": "Foreign Investors Shed \u20a9200 Trillion in South Korean Stocks, Yet Still Hold 38% of KOSPI; Pension Fund Maxed Out, Leaving No Defense",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43OEVxdTBmWm9HLUFpNTViYWE0aVUtdW5nSkk3SFpCNUJvSUpqbERHMlVGV05CLWw1b0tRUlB1N0V6bzVYWk0wa1pXUkdJSW85LU5FajNldGNWM19PQU1jUjFFYUhvM0l2MmI5cU14MXJNQmNNUGc?oc=5",
    "source": "BigGo Finance",
@@ -571,19 +894,6 @@
    "first_seen": "2026-10-14T08:43:07.106954+00:00",
    "topics": [
     "Korea"
-   ]
-  },
-  {
-   "title": "Standard Chartered launches Bitcoin and Ether trading for wealthy UAE clients",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHBWY3l1ZjJ1ZklDeHVrRW5hTkZDdk9JQmRlWEs2dDF2UnB2eXdaQjgxLWVrZGszN3hvdG44WklET1JVUEp5WTd2TkM2Q194Y0ZpbW1xUkFDNXpabjNsRjNweDd3ajVfQjFfOFJCcXZhY2FtME53NHRTNkpDb3BRbDhkdVFIOWpUa1ZLMmdnOWZZX1E0YlJGN1lfSVliUWs?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-14T06:50:00+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "UAE"
    ]
   },
   {
@@ -631,14 +941,27 @@
    ]
   },
   {
-   "title": "On the Chain: Bitcoin holds above US$83,000 as ETF inflows return ahead of US inflation data",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMHE0M2xMWUU3d25za3RYVmdpUW9WRmpRbjd3SVBKUzN6Z3o5LVJSdmd0bkxfMmttOWE1clZsUkRxZXVMaUlOQlNCcFZ3NHZBUmhvMVdfV1ZFa2NfaWpQaGFRWnRUV2JHMlJ2TXY4U2VMa1NRdUpQdFdmaUY4amp4WTEyYXVEcXVUV1kzek5ZcE0wcDczSzIwanpJNE4xZ2l5SUxiYTZsMW9RTDBXY1o0TW1LeWlNTGpTU25SaWNXMFdxLXNpanFzUzJ5YTBBaThfOEJNLTF5eS1uOGpZTTE5Nkg5a2NzdnQtY0cxaHpqQzBNVDg1?oc=5",
-   "source": "Proactive financial news",
+   "title": "Standard Chartered Launches Bitcoin and Ether Trading for Affluent UAE Clients",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMlBVaUt4c3FwcUVSd2dKUXYzbWM3ck5fNTFhajdxajYtMXVaVU9oYmFIenR4NDVTTGp2dDhwcWpuRFAzSjQzaXdYWFExV0E4UVNTcWdGZDhpMGZKUE41ZHhwREpKdmhuTWRvcXEzaGVnYV8wb0s1UU4wOGo2ZmlLbS1IeV9VMVJhSlFuN0lVcFNDSWR1TEViM2ctZlFMNUViaVRwckE5ZDJDM3VWMTkwallCTk5JM0hyUGVfbWNDYzJRMjRtZF9V?oc=5",
+   "source": "The Defiant",
    "type": "news",
-   "published": "2026-10-14T06:11:54+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
+   "published": "2026-10-14T06:15:15+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
    "topics": [
-    "Bitcoin"
+    "Ethereum",
+    "Bitcoin",
+    "UAE"
+   ]
+  },
+  {
+   "title": "Franklin Templeton, HashKey Bring Tokenized Money Market Fund to Asian Investors",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHQ3NXFDS3YwNzgzSGx4dmJwODZkUElzY3dXd1VBWF9GRy1QVk9nS1Jnb2lLOGpyX2JDSl9abkRjMVpuTk5EY20xUG9sSzFZM2ZiWHBMMnY2dDhYeDRiSjQ3NFRmeG9TZm4zdTVRNlllaUlWVXVQN0dpalF5UE5YX0xQbFZCZkRvZ04xQmI5dnZsLXJYSS1FVmc0MEYweE11RUc4?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-14T06:13:58+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -650,17 +973,6 @@
    "first_seen": "2026-10-12T16:05:35.574263+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "BitGo Launches Stablecoin-as-a-Service, Aiming to Transform",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zRnlSRGkxbDRhd0Qxdk1KN1c0Vk1MaE1fWGg1a1djVXFQaGtsVlFRMEo5SFhDSDdHTXNTNi1iTm9JNUdraVFZOUo0dm1LazVMaTlSdlhEOA?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-14T06:03:17+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -694,17 +1006,6 @@
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
     "Blur"
-   ]
-  },
-  {
-   "title": "DeFi Growth Accelerates as DEX Volume Rises, Says Influencer",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12NG5zemlkYk9VeFBmRi16bFRkTWFiTUZNckpBYmJvZThNc1d5U0lPUjliWUJOcUNITEp0T2Q5T2tLRW1UWWxZeU0xYlJBWTlNUWgzUQ?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-14T05:53:13+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "DEFI"
    ]
   },
   {
@@ -771,17 +1072,6 @@
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Citrini Names Pendle a Key Player in RWA Market with $1.3B TVL",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pa2dWUVZFbkRTQktMRUFvbWFCeE9ycGxZQktZZlFKLVlLV3p4VDZGZXgzZVozUnhXcmtfYkhwcGlWdzYzeUVCMHRFb2hGYTQwSVNmVQ?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-14T05:27:21+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "RWA"
    ]
   },
   {
@@ -863,39 +1153,6 @@
    ]
   },
   {
-   "title": "New Crypto: AlphaPepe Presale Crosses 12,500 Holders as Bitcoin Price Prediction Eyes $100,000",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM0dYLWVlU3E1NFQ3RTZ2bnBWQmNwTHd5THB6SF8yNWp4a0x0SVpNS2N2NEVtMjNZNGRQZFNINGd6S21ZS3haTXZ6T0NkUGl1dzFBNmhySURwMGVEeDNzV3dCV0VXU3RZZFJTaFYzdWVlT2EzYUR5NFB1TzQ0aVZPOGZ3Y3VhUVdkRDg5WFkzd1ByV19mSkU2NjFZNXhWX2I2dTh4VXZ6a3c3Ml9SZF9nTVJFTHJBSDh5SFZ1bDNwQUxKWFd5MHpuTG5hWm1oV2NpaFBkeW9iRVNCN0pHc2JxanZoai1YZw?oc=5",
-   "source": "markets.businessinsider.com",
-   "type": "news",
-   "published": "2026-10-14T04:50:50+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Interactive Brokers Adds Ethereum Staking Through Zerohash",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBsVUlQN2FlaE1qektnaWZIckY0d3NaSzFzZFJNbEtJUHo4UGVKblZHeFliVTlKQkl3c0FSN2hETzUzUnhWRlZGNDJfVnpHSWZCOXJib2JxWFpxLW1zUk5zc3FZb1ZnSE1lb3N5TWF1bEM2em1UWmJHVU5pYmE5N0RLWnJ6NFRUYjhRZGQ0MVBpUTVKVE1PMXA4dw?oc=5",
-   "source": "Blockhead",
-   "type": "news",
-   "published": "2026-10-14T04:47:23+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "UAE, Gulf investors shift from luxury properties towards income generating assets in UK, says report",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUlzbXY1TDNVWHBDb0xqVmk0SDRLdlpOdUdtLUtsa0hUdk4yak5FbGdzcEFYR0tSRU5vbGE3NXhkVWZfNEtMd2VXUndFVWRfbDFBM2R3VzhVVnI2TVhEOW5ERnZxYjJoSTlzcE9aWUxzOEszbnNwWE1RRGlwMFZxVFVqUm5kdF9SMk5rSTRrNHNuQlBTWURzQnRXZGNJSUZFRHZ1YTF4X3RvV29PSHVkVVk4RklvQUc3RTZvOV9rMEt6MEpSRGlKdVZRUS1hSG0weEQ00gHTAUFVX3lxTE9lSXNtdjVMM1VYcENvTGpWaTRINEt2Wk51R20tS2xrSFR2TjJqTkVsZ3NwQVhHS1JFTm9sYTc1eGRVZl80S0x3ZVdSd0VVZF9sMUEzZHdXOFVWcjZNWEQ5bkRGdnFiMmhJOXNwT1pZTHM4SzNuc3BYTVFEaXAwVnFUVWpSbmR0X1IyTmtJNGs0c25CUFNZRHNCdFdkY0lJRkVEdnVhMXhfdG9Xb09IdWRVWThGSW9BRzdFNm85X2swS3owSlJEaUp1VlFRLWFIbTB4RDQ?oc=5",
-   "source": "Khaleej Times",
-   "type": "news",
-   "published": "2026-10-14T04:41:13+00:00",
-   "first_seen": "2026-10-14T09:21:21.616049+00:00",
-   "topics": [
-    "UAE"
-   ]
-  },
-  {
    "title": "South Korea locks out crypto users as 27 exchange sites go dark",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWl3VE5zY1J1aWsxbDZGY0NLQThwbFpyUDRSSWctcVhkV2VyUFhldWcxbU1waENYSGxrZ25CMnNpeWZidHFyNmw3TFFaYkp2djJhWGxiWVY4MjdCazFiTnZqT0owY3dMb1F1ZU9vdUhKU1hnNDI1SXNuV09aX0Z3OTFMaDc3c3V3cDRTcTRJSFpyZw?oc=5",
    "source": "CryptoSlate",
@@ -953,6 +1210,18 @@
    ]
   },
   {
+   "title": "Ethereum Leads $65B RWA Market as Blockchains Compete for Institutional Share",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QdklmMTdwS19TdVZVZ2ZIWTE3aGFkWjY0cUVIcDE3Ykc3R0JtZV9ZNFFodlI2ZGU4NTkwZ0VqTWt2WnpZV3MtVW0yWGVDVnFNRm1aQmpRcHBmcXo0SW5JR1ZaTndYNk5rZ0Q2ZUE4UUloRzdSZmVB?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-14T03:42:13+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "RWA",
+    "Ethereum"
+   ]
+  },
+  {
    "title": "APT Gains 51% in Four Weeks, Outpacing Bitcoin and Ether",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3czakV0bnpFUk9jTDUxQWNzQWF3Mm1xSHgzUUotTFdHLXd5WURweVU4VHJkMC1mU0wwY3A4b084dTZEWkZFRm1LRThncDJ6OWx3WVJTZktqSThSZGU0RFpjZktTSVFpZGt1UUxIVmtmMm5WYy1tQ1V3VnN0cGxEdWw5M19UZ3J6dlQxLThkcmd4WjA?oc=5",
    "source": "The Defiant",
@@ -966,13 +1235,24 @@
   },
   {
    "title": "UAE space economy spending rises 27.1 per cent to Dhs5.52bn",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0xfS3VvOE8zX0Y2Zmg2RHVvMGRaMUtmQ3BYMG9rYWNqZ0hlQnJPZnhONEpHYUJkZzdETENMOWFKS0hhSXZoOXJvZ25fSUpCVEF5Z1UtQWFKLU1peFNNdkN3UnpQYUFVcEFvYTVrVURieHd3LTFIOFQ3bXd2ZzBmTk1DMWhLOVlLcWdvMXdaV1BnaE15OWxON0Y0akhMRzdi?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWNCWEZ4alhDaXo5bkZEYVFCMHZoVGdKeVo3WU9oZzdocHh0XzN2ZWMwUW5zeUlwdURtODdFNzZBMkRJaW8tOEJ4cEFVSWl6NmQ4c2xlM3dERmhzdWtyTDZ4Q19nTlB1b253UUZONUdNRk1QeDhkY0Q3RDl3S3BJSC12YWRFZTh5MEtGZndiVnFhYjhXWE8xcF9ROGdvNnc?oc=5",
    "source": "Gulf Business",
    "type": "news",
    "published": "2026-10-14T03:20:14+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
    "topics": [
     "UAE"
+   ]
+  },
+  {
+   "title": "1inch\u2019s Sergej Kunz: DeFi Liquidity Race Is \u2018All About Efficiency\u2019",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEdFN2VWQkotd1FyMk5vYlpLellCME55eE1SOEVLVFVMRFhZZTBEWmZlZ2dhdDJsVXZfMS1SaFBRUXVPSjhyWEFydzV0MUNFcHBQRm9YRXdWRzBLeHdqY19GUXdJMm5KYWRUbkd0MWFObVg5NHBRMGptNVlxV1dTSlFvcGphTUdDYkxrd3EwV2ZVbDdM?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-14T03:18:41+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "DEFI"
    ]
   },
   {
@@ -986,6 +1266,17 @@
     "Ethereum",
     "Bitcoin",
     "XRP"
+   ]
+  },
+  {
+   "title": "Everything You Own Will Live On-Chain Thanks to RWA Tokenization",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWdnUlJRUEFmeVh1Zmk5REMxNHRjb0tYUFVQdE1WZHh3RlJMME4tTHEwblNpSjNGX2d5QTBJb3VYV0dXYlNyTE43WTV1OW1tdTZLQ1g1dnhmcW9GTWhBQk5nQlY3cTdnLWl4amdxSWFuYVUtX2JlVkZHb1gwQl9NY084cmNBV2wwZWQxYTFMYw?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-14T02:50:30+00:00",
+   "first_seen": "2026-10-13T06:01:15.860134+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -1072,17 +1363,6 @@
    "source": "Yahoo Finance",
    "type": "news",
    "published": "2026-10-14T01:14:00+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "ASST Stock Rises Overnight: Strive Launches IPO Of 15% SATS Preferred Stock To Fund Bitcoin Purchases",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLURMb2JyNTd4YUhqbGNMaER1bm1XYUNENTN2Z0F5YnZNaWxoLXhRTmlGdW1Kcl9UNUhGOXZkcEJ5QUUxVHpKcmtiWHR5TVBpak01ejlCbHN2emJ6Q3NOZTc2UXFyV0VNTUFXbGlQTXNlTjR5OGtMTTlUaExtZ214SWkxclhnMkNTQ2hkTVhTcF9teWFzVml4YVlGWHgxUXM?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-14T01:10:00+00:00",
    "first_seen": "2026-10-14T06:00:04.539612+00:00",
    "topics": [
     "Bitcoin"
@@ -1314,17 +1594,6 @@
    ]
   },
   {
-   "title": "Current price of Bitcoin for October 13, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSVd1TndYZjB5VVpWN0pNdzA1aGlmQUdRdHlDUnd0NHR4U1Z0R0toVl9uUTdJcDgwUHE2V2lDZmxMY1IyeWs5X1lsejBHWjBCWkoxOUtSLW9nb21qRFBMNFdoYzl6YWM?oc=5",
-   "source": "Fortune",
-   "type": "news",
-   "published": "2026-10-13T22:02:58+00:00",
-   "first_seen": "2026-10-13T16:09:31.369273+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Stablecoins Have A Weakness, And New Research Finds Banks & CUs Can Exploit It",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVhXa0IwLWdsWEV3T29tbXVmWEFGZnFXaTQ0OWM4a3Rpc1FrWS1TSlhrUnV2TXJWNEpEVEZraExBWkltWUU1anZkRHBKNFRvYzRJQ0hFSGFNVDhMcVRpN2g4Qk5MV2VjV2wxaTdhN2FqYUVKTEdRTGNpY2w5MW9reDVWVm5LVnM4U2FWN2lPbGIxOVR5U0t0bkNXWXhzVS12M2JYdGdIeXFod0g2UUEyM2d3?oc=5",
    "source": "CU Today",
@@ -1336,23 +1605,12 @@
    ]
   },
   {
-   "title": "BitFuFu September Bitcoin Output Slips to 167 BTC, Holdings Edge Up to 1,388",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjBRRjA0ekNGRG1YVW42RGVMd051T2pKNUtsMXB6R21hcUtJWTQ4YnZUZmxfVlA4czVkSHBuM19sS3lndXNJVUp3OWdNd0sxbHcybXRYNnd4RURMY3BPUmVfblJtSjBPa0VqYUxlN0UyWUk0dGF0QVFQTmdYQ295VklBamZwSGdDWE1DaG1QUDAwRGwwcGRlUEdXS2phUWMweGl4b2RR?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-13T22:01:00+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "UNI Price Outlook In Focus As Whale Activity Signals Market Interest",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8ydkV1UHJmNlpBTEMxQ0ExNE5fUlZrMFdwWDlBVVYxdjJQNkF0ZTZhRF9oYXlUY0dzWTJZeWdsTkdFLTFpcm1Cdk9HUWVrTmJhWjE4eUVaeXhGWHQ4VEtCQjhLZERkVVdGdFRLOUR3N28taG84WENIdVpoQlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHNacUhlTHBwbEJNT3VvNTRVRW9hYWZqUEg1NzVBV29WOFBGQ2RfaE1sb3lFcENFYVFnMk1UeV9fTVBCVTJRdVlFYkZNWjJieG9GTFhKaXlmVHpSd1gyQXI5WVJxWkRkYnE0TkRkQ2pXTlBzNERzLVJ6Vng1X2RXbTZIdDRKNUNMS3l3ZW5weGh1UXpWejFocjZ0UHI?oc=5",
    "source": "TronWeekly",
    "type": "news",
    "published": "2026-10-13T22:00:00+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
    "topics": [
     "UNI"
    ]
@@ -1503,18 +1761,6 @@
    ]
   },
   {
-   "title": "Strategy Bitcoin Sale, Investor AI Pivot Send BTC and Altcoin Prices Tumbling",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVNKcVdWUzdJUW56ZGpPWFdBNkZTRFlmeXNIZmFLQTBFdDZUOWhJU1NqWDdiT01td1hBRDY2d1Z0akZhTUo3MmNzNXBoU2pXUW9jbGs3SXZOeXgya3lVbHMtTjhsWVFNUFZaM3RvMllFUHR4cF93VHlyWDA3QjJ3anJIaGNrZjlVaFRvM0FMMWdodVF0VGE2Tnd6cw?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-13T19:55:28+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy"
-   ]
-  },
-  {
    "title": "Hedera Is Up 17% This Month and XRP Is Up 1%. Both Sell Themselves to Banks. Why Is Only One of Them Moving?",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeWl4TVN2YkVIN0JxYmU4VVJCZ2ROMFVscFl0QzkzN2RraGR0U1ZzSHFlTHhkVEo4ZUlMeHh4TnJ0OTZUSk1HS2JEVTRfdi1yM2gxdkRVYVZlcHVDcnVaRE9MSU5ZM2xhQ3JlY2R2dWliSE9LX250WXh4S3JuZGdQVW5nbGNvV3JxR1V3eWJvWk42aGJyYnU5cVo5UncydXRPYW9lMlFYUlQtUTBUZ2pzVWZMOTdVV0llV1dmd2hNOC15VW1VaUJxNjA1eVEyd1FpVjdscllPazNGX09COXVZdnVBOVhrcUhUbDdzRExBcHVPdE9U?oc=5",
    "source": "24/7 Wall St.",
@@ -1571,23 +1817,12 @@
    ]
   },
   {
-   "title": "DeFi leaders name banks, Circle, and no one as their biggest rivals at TOKEN2049",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXdvcS10ckhOck9OLWVTNkZSbHB2Z3pGTEVjdzkyMjV5dzM1QkwzYjlIRWw5TnE2d2hFVGFuMmlFZEc3N3ZvMXY2azd2U1lkanRENGM3U282WnB5RGlZUXNkekFReVN4dW45QmE3VmNQODZYdDdwTktIcVZsRWQxTlNPNVREM1RfM1RmbVJ5SHdOckhUVjF1Wm10RXpGNTRDc1JXTG5R?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-13T19:25:59+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
    "title": "Ethereum Needs to Double to Reach $4,946 Again. XRP Needs 2.6x to Hit $3.65. Which All-Time High Gets Broken First?",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ0FOY2ZJUkVTZG5VWGRqQ1pKajI0WmU0Zl9Cam5ic3JHd1k0TFBkQkgwUHAxR1NUa2JHVGlHSmtKOVVDWDAxWlZoVDhNLWxZa1lCTUtnRHBoQm9LTUVQM0tKa2lwR1lodjJOTkZERzljWldhX0tsV3NCbW4tcjJVeldEamlPMzlmVjhOaGJnUHVad1JaLTlkMXpzcDhVbVRhZVNnYkdrRjNSaE40bVhjRzdXbVNTTUR3bEVWNDF1MV9MMzdjcFBGYTNTX2pTaXlHdmQ2eWs4U2ZtMWxBV0NaN2FHVkQwckJJcVRvNHlZdGFrUExZbGd2ZWRsd3c?oc=5",
-   "source": "24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVlI0Y211Mng5QXptVGhabnJmb3hHZjJGeDJLd21kRmQ2NXZWWnU2TmJoMGc2V2FBV0pBN1VyZ3pEZWs2eWdaWHNudmlXaTBKUk1JWDlFV0dDN2pXc0tJVjRyWGdTNVg4SzNfbXI5OHlsWmtlT002aG8talNzdlhyaGo1QnhtaXJEc0RhT3hwNW1oUTM5b2xYSG93?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-13T19:21:00+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
+   "published": "2026-10-13T19:21:54+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
    "topics": [
     "Ethereum",
     "XRP"
@@ -1627,17 +1862,6 @@
    ]
   },
   {
-   "title": "A Stripe Company Is Bringing Its Wallets to the XRP Ledger, and Ripple Says AI Agents Already Make One in Four Payments on the Network.",
-   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQVnR2N1RWNTh3QzM1SkJ4b3JNaUVhRWhGQi1qTGtVbE5SX0lvS0I2d2JlVkxaUGZRbDRLRjY2aFhBdTFpbjg1b3c2UEFlcGw4bUxZczdReDZVVEFYaXNuN2l2dnNxcFA5eGhTZU5naUxSV2lhUTBwWW9VRkh0c0tQNWJ4UE1TdHU2aTdjVVVkVGtSY28tUXFIdFdrTzlpc29yWjlUQW9zYTFpc1JOUmpBU25wMmJrRjU4ekt0d1JvSV94RXRMYW1lU29FOEEzcHdISnFUYWV5bW1MVGc5NTNLMzRtdkhGWDhxZWxKZzVUY3pqUFZoTEdLOWR0Y2tYYUJSTU5EcjhpLWxZLWpBeV9OOGt6Mkt2NzMyVFJnWA?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-13T19:02:00+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "XRP"
-   ]
-  },
-  {
    "title": "Starknet Introduces 'Shadow Accounts' for DeFi Trading, First Integration on Oct. 15",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wNXlwa2o2cmIyNkdUMFdEbUhST1VkYjVJMXlrbHhrXzlfX2xldk5fcTI2MjZCVmFGd1JVRkpMdmZPaVRNa3FhSlNCMk5tbVlsZ29zZw?oc=5",
    "source": "bloomingbit",
@@ -1658,17 +1882,6 @@
    "topics": [
     "Bitcoin",
     "Strategy"
-   ]
-  },
-  {
-   "title": "Ripple Integrates With Stripe-Owned Privy To Expand XRP, RLUSD Payments on XRPL",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTGhHUVF1emVGb2YtV3RCZzA0ZVhtamdweFhSVFFYVTNBQmgycDN1eVRmU2RnNWhRcnIwQXdkbTctSElLVDdFT1JUaHdCSzBxVmZtZUw4d09aV3c4dE5sVzZjOEZ5WGxmNHhqWHFKS2lFUndtMUVsV2E1LWdpb2p5YnF6OFVuWENCWlZZMndkNmpzZG96VlJ2ZDZQWm1CTnluajZqS0taVU1LZE5VLU0xVzR6VHdjU3U0cnlIRnNRak51RUJQczlVTlU3bl9LSWh4OURhYnRGRQ?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-13T18:45:06+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "XRP"
    ]
   },
   {
@@ -1854,17 +2067,6 @@
    ]
   },
   {
-   "title": "Interactive Brokers Launches Ethereum Staking for Crypto Investors",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU9jc2JqREFQbGFDdUhPVGVGRnB3aWxyenFMcFdpQVo4OHVyZnp6ZERqdzd6NlRHaUNaWUZuWVNyVGdPdjVycEIzS3hLSU41SlMxaVlKQVlCZE5JSk82bmp5Q3RpcmROV08wdzhORlJmbEg1Tm1UZ190OXh1aEhwQlU0MEQwOUtuM1pMbVBqUmRwQXpaanFITnZQZ21Rd3JKSmZGWHB4SDZTVHhXdGRpUFZRV0tFUTNtandsVFFKQU52ZzNVTGNR?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-13T17:14:22+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
    "url": "https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking",
    "source": "Bitcoin Magazine",
@@ -1910,17 +2112,6 @@
    ]
   },
   {
-   "title": "USDU stablecoin expands to Solana, enabling ins...",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2RIbWtuSTdTN0F3LWotYW9HVFZZWGhVdGpsbG9rQXgyX1BudkVZSGx6T2ZPN1poMF9RS29oNC1fMTczN1BaRmZpd1U5UV9GdklQNnQyeEEyVm1oUWdmZlh1ZmppMkdyaFN4cDBxWTNhN0YtU3RqMjZTbGo3cS02ZVd3TGFzWmpwZEtpczROZERIRWtLenVOZXBOTEl1eFQ3LWNVaU0tQQ?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-13T16:47:24+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
    "url": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
    "source": "Decrypt",
@@ -1943,18 +2134,6 @@
    ]
   },
   {
-   "title": "Bitcoin ETF Investors Put In $57 Billion and Now Hold $106 Billion. XRP ETF Investors Put In $1.8 Billion and Hold $1.55 Billion. Why Is the Gap So Wide?",
-   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPaDVaV0paUzB2cV9qX3BCbTdNekNfbUFfWjVtdlc4VUtQUFZ0MmJ4UlhrdGh1Y3ZlMzJFU3g2MUlMWnRkM2tqbHVkTTNhbHNxYlhKTlNEaWMwNUhYTUlxZnRHVEw2MFNvbm1hejVuTXZ1RE9fa3A5cHlqOFBYVE9uNEhncmhaeFVFOGlNWEFZcDJtVU5NMHBvUTc0SkdMdUhmb0NuTjZKRDh1TFlJUzdta3JaSXY0VFVQRlE3eE05Q1F0N0NMQ1pHYVRwVGVwUUxDVmdBS3B4NnlGMHVaRDdXelBkNjU4Y0E0VG1lNGFYSmRoci1XQVdkN1FIQUd1TWpuaVZWV1dBdFluTXdQemlCM2VxWTB0QnBid2p0WVNLTTJBZElkYzhEaGlmT3kzUQ?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-13T16:30:00+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Bitcoin",
-    "XRP"
-   ]
-  },
-  {
    "title": "Saylor Cheers Strive\u2019s $280 Million Bitcoin Buy While Strategy Bought 85% Less",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORjFVUlJFYWJ0NUZlOWNyTldfTmlpQ1RGTmlxakxBWGVRZjluTlFjU2VYbkt3cHZiMkZ4Ymg0ZHBfN0EtVXdUbGJWaWFHcWRhMlNSUG1VTDlBUTd6VnExenljd0s1Qlg2ZUxpQl9CUEdvX2s4SUJkZ0pHN2tiWVc0VkZ3cXY2ZlpnSkthdHhGYzlpWGJTQkloNEViN09NZEwwaG1hUi1rb2Z3NVJ0aUdTTk90THNXTDVVb0d5MFNHWGNZOWhBcDVVQmwtbGhoUVJuYzNJ?oc=5",
    "source": "Benzinga",
@@ -1964,6 +2143,17 @@
    "topics": [
     "Bitcoin",
     "Strategy"
+   ]
+  },
+  {
+   "title": "Blur to Shut Down NFT Marketplace After Blast",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWk1tZm5pVDF4alpCSXh6ZElqclJtdkZJZG02UGpPa3BmYlNDTy1RQkc1Z2tLd1BFTEF2TDBIbWhPUjhzM3BPeElNWGlVckV3ZzNNRnhxQU1OQlpKa2pkVTJtdGxHZXJzUkxnN2lWV2VvZWs2UlVVbnB4V3U0QXBLaHRCTjVaazJNSWhPaUdnNXJ3bXVMVHZTVHdqOA?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-13T16:22:10+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Blur"
    ]
   },
   {
@@ -2070,7 +2260,7 @@
    ]
   },
   {
-   "title": "SpaceX stock slammed as AI memory trade crumbles in South Korea",
+   "title": "SpaceX stock slammed as AI-memory trade crumbles in South Korea",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXI5WHlmS3pxM0x4UjNHUUhsUjBPZkd3cS14RUg1N3M4RUxZYjM2TjRJWU9PdWk5cW1faS0yVE13MGZjd0xRMWJIOW1kQWRfNmJMeGpjM0d5NDZEZlZHLWlkeS1SU0d4R1BOY19EYV8tWTRLNFpGdjhEcDFZemE2dlRZa1ZRQ3BxVUlub1ZCQWFNX29ZT0ZNTXlSX2pSVWk2UjRSSm5KQzg5cmtLSjFVRlNFeUo4c1VIN25qTjN3Q1BjVU9aTUE?oc=5",
    "source": "Yahoo Finance",
    "type": "news",
@@ -2103,6 +2293,17 @@
    ]
   },
   {
+   "title": "BLUR Token Crashes 36% Amid NFT Marketplace Shutdown",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwaXpySnBxUDFBbUxQWWI0MnE2aGhrRm1TYkczVlU5cmJNRFZzYzV2OGM4QlFLMkpOd0NTQUtxWHVLV1N2eXU4c3JSZGQyOGFLRGt6c1dmTGFCajVIYzRPSmVIVGtCbWZvYzJIZ3hlVmpkVlMybzIyeE5PTDRrUQ?oc=5",
+   "source": "NameCoinNews",
+   "type": "news",
+   "published": "2026-10-13T15:42:56+00:00",
+   "first_seen": "2026-10-14T08:43:07.106954+00:00",
+   "topics": [
+    "Blur"
+   ]
+  },
+  {
    "title": "Blur Closes on November 12: What Holders Must Settle",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMkNHWHB2eUNCeEkxa0NHWkxhTzFFSno5Uk5NQ3ZhZ0JGTFkyWjJ3NGN2eEMwc09ydW5WUVRlWDlMLTZzWTZRMUdndUJUMG1uWEUwR0o0RUV3aFQ3OGloMGZhcw?oc=5",
    "source": "CryptoTicker",
@@ -2111,17 +2312,6 @@
    "first_seen": "2026-10-13T16:09:31.369273+00:00",
    "topics": [
     "Blur"
-   ]
-  },
-  {
-   "title": "Interactive Brokers Adds Ethereum Staking for Eligible Clients",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcURnTEc5bVQtUE13Y3VMSTFNQ1o5cUpjd3NTTGMtc0RxUmtWMms0WG5IcVNDSzBiOHRDa3BCMTJFaGpaSng5c3FpaFZGMkIxei1yN1R2ZU5Fdy1jdElJaUhxeU5leDVlZXlxYlZieG1LYk52eHFRLXU4NDFxbXVsWHBkek92Y0JmNWJLVzlfT3g4eWN6VHhTX3hFa2gxci1iNU1rUUZHTC1FZw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-13T15:33:00+00:00",
-   "first_seen": "2026-10-13T16:09:31.369273+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -2260,6 +2450,17 @@
    ]
   },
   {
+   "title": "Logan Paul Says His $623,000 NFT Is Now Worth Just $10\u2026 Is He Right?",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZThUYmRyRWtlSWNGY2RLMFJPa1BTdFZzUUxaUXZ2MU9Ma1BmaU9SQTVGaWt3XzJWRWxrcUg5VktRaGlzU0luMEd4eDl4Y0ZFUjBrc3FhcnpnUnpXNGI5Rm05cGJxYmx6cU9uX0R1bXJjOXFaNC1kUTVOUmhqeGJmMkdET2xVcjhvcnN5dGw1T2ptb2Y5eHFnaXBTR1hxdG92emFBODcyR3BJdw?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-13T14:35:40+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Blur"
+   ]
+  },
+  {
    "title": "Bitmine\u2019s Tom Lee Warns Of Ethereum Selloff",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDV5VmpweE1JREdYeHY2NW9xcS1waXlsRU9DYjNUMnNqcm5uTGtJNzRua3AtdHkyWTloMFlhS3hxNUpvQldtTEhZd1liamQ4UzF3cEptRGZiRWswZTlxV2dZTzQ2cTIyM1oxTmRBdkVvaHRlck1vR3FaNWlrMEpzYlhLSDNfSm15ZHZPWUJCdUdoNWhYLUdCLXZ0WQ?oc=5",
    "source": "Yahoo Finance",
@@ -2293,17 +2494,6 @@
    ]
   },
   {
-   "title": "Apple TV 4K costs AED 1,199 and Siri AI skips UAE at launch",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtV3YwcUFFR0JfWFFDWGthUTJlSXZVTllYemdXS3VrMkNWaG91bEFuUjJvWWtOeFNZWXNLVnRPQ20yNGswbjh1UjM2VFhERUlaeS1rNFRoMEgwajI4ZWpwUWZTRQ?oc=5",
-   "source": "Tbreak UAE",
-   "type": "news",
-   "published": "2026-10-13T14:17:09+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "UAE"
-   ]
-  },
-  {
    "title": "Chaos in Korea's market is sending shockwaves through US chip stocks",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUJINXdlODRwVkRPbmRMa3VCSGkwQkkzaUNLbmltZEFXSl9LYXptRFhWbWpick1IbXNuRHpMQzJUSmphbF9UTVZIUlB6cnRDc05peTI0R0JnV0EwRHg0dndfZGNWSDhyU1IzY0ZfX3k5S1FZZWUzQ1Y1aDFwNVEyVXYzSWJTLXhoMHpPT3ZvMFVCNmlJZzA5T2hZbUdSUHpT?oc=5",
    "source": "Business Insider",
@@ -2315,14 +2505,15 @@
    ]
   },
   {
-   "title": "Kraken Wins Dubai VARA Approval, Plans UAE Launch in Weeks",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UUWxmRVZ2ZU9HU3lOckZkMVlubkVmT09wRUpGeUROOTNreXEyVmFuYVBkT3pIY01VRzduOWtLMG5JVWlNQkZnRWdkaGRabHhsWWNyZ1F6SE5lU2ZSTHhhWlpSa0M?oc=5",
-   "source": "Bitbo",
+   "title": "Can Snowflake\u2019s (SNOW) UiPath Integration Deepen Its Data Moat Or Blur Its AI Strategy?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUNmdHpvLVFoSkxRS2dpWUx4MU5ZQlltRHBGQWZwVHZUOHZUbXFRWTJEOWRnUzBmaGZGMkdxTC1RQUdMbkRZbXFFSllKb1dBVHRpS1F3dDhoUEFwcHVRcTViQ3plTVlEYzdXYkJCc0pDdzZSbnpkS1FzUFFNT3RCQU8tS2w0VHZPX2ZFNEhWUU02bjdad2xoY2F2a0hWWGRQdXlNU2dCVQ?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-13T14:10:00+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
+   "published": "2026-10-13T14:09:25+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
    "topics": [
-    "UAE"
+    "Blur",
+    "Strategy"
    ]
   },
   {
@@ -2411,17 +2602,6 @@
    "first_seen": "2026-10-13T16:09:31.369273+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin\u2019s Twice-Tested Support: What\u2019s Below If It Breaks?",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzhQQWxBRDZmUW5rM2p0c0RrTDRKcTg5X1l2czBCejlKa1J0UzdaX0ozZnBicU5LMHlZUkllOUxwZG1vYUVicjg4em1Kc0R3YURVMVd2N3Y5U0k2cTNnRzdKYmd3NDhBckVjSUdNc1Q2Sk1ianJBM1g0U3lJdjA0cE5WY0tLbWtBblpZWXAtY1pKSC1vS25zWA?oc=5",
-   "source": "Koin B\u00fclteni",
-   "type": "news",
-   "published": "2026-10-13T12:55:12+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -2583,6 +2763,18 @@
    ]
   },
   {
+   "title": "Ethereum News: NFT Sector Takes Fresh Hit as Blur Set to Close",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TUW5RYVoyVkxsWFozUk9Kenc0bmVwNEwtVFpsNnQzdF9iX2Q5MzJCZXMwZDFLQ3c2N3FoYjNXTGhoOHhNRkJ4NEZCSHdOTmhIWEM1N3NiY3lvUXd4TmdDNXJJSVh2bHBlb0Etc3E3TWFlZV9ULUHSAXtBVV95cUxNbGt2bVJGbENKRGZNTUd6cmlDanRnZDJpR2VZMnlrYXFYcUl4d0Y4RDR5YUtFWDF3WFhMdUNTYzQ3OWNxZlFBc1V3QkVGVGFTUmt6dDJsSFVkYnN4UnJ2dDFwZUN2VVJjcWtyc1JRODktekV1NDdxMGZLcEk?oc=5",
+   "source": "Coinspeaker",
+   "type": "news",
+   "published": "2026-10-13T11:26:53+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Ethereum",
+    "Blur"
+   ]
+  },
+  {
    "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
    "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
    "source": "CoinDesk",
@@ -2594,6 +2786,17 @@
    ]
   },
   {
+   "title": "Blur\u2019s website closure \u2013 Blend borrowers have until November 12 to \u2018repay their loans\u2019",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSUzJfeDZ4Q3oyaDRmVGFDVkFSQUxuOFNJTmxJSC1pMGQyaGJLMEI5Ml8tc3oybU13TGpKUlFBNEMwZ1EwV1pTdVVjdmc1bjNxSGg5UFo2YmtndkZyY2NfRnVtY9IBY0FVX3lxTFBSUzJfeDZ4Q3oyaDRmVGFDVkFSQUxuOFNJTmxJSC1pMGQyaGJLMEI5Ml8tc3oybU13TGpKUlFBNEMwZ1EwV1pTdVVjdmc1bjNxSGg5UFo2YmtndkZyY2NfRnVtYw?oc=5",
+   "source": "Bitget",
+   "type": "news",
+   "published": "2026-10-13T11:22:41+00:00",
+   "first_seen": "2026-10-14T11:00:05.548493+00:00",
+   "topics": [
+    "Blur"
+   ]
+  },
+  {
    "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
    "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -2602,18 +2805,6 @@
    "first_seen": "2026-10-13T16:09:31.369273+00:00",
    "topics": [
     "Ethereum"
-   ]
-  },
-  {
-   "title": "BTC, ETH prices slip and rebound as Kospi index slides on AI-related concerns: Crypto Markets Today",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNldrNEplSTdmQUdXS3FaOXdyeGVMZFlMQm1ZRFAtX0Z5b0dNX2daWlZmSVE4cndSMHRWUWh0N2ZIaUZKb3dNLXdfYUNyQUtrZUp2YnlmaVZfcjZnMGdDSW9sZjNrWGVmRUU0WExnbkI2aHR4dnVBdlpaMi1QSUtNZUVScW9XZnM3Qzk4cHZkS3FzVDB3VXNPVkF4dWNTSWxjUEZEZ0t0cGJodkkzalhOOUJIOUZvcEtORXRqeHFWQmRFUWRL?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-13T11:11:16+00:00",
-   "first_seen": "2026-10-13T16:09:31.369273+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
    ]
   },
   {
@@ -2639,181 +2830,12 @@
     "Bitcoin",
     "Korea"
    ]
-  },
-  {
-   "title": "Blur\u2019s website closure \u2013 Blend borrowers have until November 12 to \u2018repay their loans\u2019",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXpMenBsUmZjRTNyZzIxZjF5cTBnNTBKS3hPYjZabzhxOFQ3X0prTXh6V0xTWm5CQ2ZBV1Jyel8yS3B2WXFXU0VZYXAxQ3dIdUNiMkFSS0FDT0dWelJ3anB4UnBvRVB2cjF1LW9iT1VKSm1zYXZwejI2LWc4MWdZa05aVkFxbElrRTJaRmNWUFVqeUNmb0RvTHY4WjVzUVZWaHBOa0tmbw?oc=5",
-   "source": "AMBCrypto",
-   "type": "news",
-   "published": "2026-10-13T11:00:07+00:00",
-   "first_seen": "2026-10-13T16:09:31.369273+00:00",
-   "topics": [
-    "Blur"
-   ]
-  },
-  {
-   "title": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants",
-   "url": "https://bitcoinmagazine.com/culture/moonflower-colorado-bitcoin-merchants",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-13T11:00:00+00:00",
-   "first_seen": "2026-10-13T11:12:59.716933+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Oman to open duty-free markets at three land border crossings with UAE and Saudi Arabia to boost trade",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNU1BCZU5ybDFPT2Z0QmdJd0U2T05nTlNXNjhwbUdiLUlGMHNocW1IMXJwLUx0VlNiMmdGdnpwUDFkQmhqTXRjVVJLZWVDSTBvUk1KdVFRaXVxanlHVDNNUmJXOFhLSHhpTkRTU3ZFa3dQZGt6SDgxX1psb3VxeGFGZ1ZuRktwcUFWWENld3B5S3dmZFRsRk01SVo5Q1hjWGkySm13MmtZZmhRSWNTQkZxOVBydG1UdlppaEdaWHlUN2NOLWtKSEFiczRQbzdLdjlFUVExSlVVX3pMdmNpY1ZyV29haEtjQdIB-wFBVV95cUxPUkt4US1IeTV2eEFwTGtQU051d0NmS2NhTHhXcUstZkdoaWNyU0tTRG1kVjNUNC1LazYtdmdvczJIUjZNNDZPeExhc1hQN3dSUE0tT1dkZzQzdmR3RC05S0h6bXpadWZtZDRRdkRUY0tHaFI5NmZhRFc2bnJsSTdMa1lXSlUyQnA5TmM1YmpLX0VvX2dCSVUwekg0M0lKLWxINmRCRWxKQU1Cc05qd0VpRHlqWkc0dnhGUGlpWTMySVlXM2ZFZm9HV2dXZzdDczdwTXo0MV9KS0FTWEt4ZjRVTTBsc3dhdG5xYlRBWXhLZHo0T0FYZFhVdWVZdw?oc=5",
-   "source": "Gulf News",
-   "type": "news",
-   "published": "2026-10-13T10:56:13+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "UAE"
-   ]
-  },
-  {
-   "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
-   "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-10-13T10:51:33+00:00",
-   "first_seen": "2026-10-13T11:12:59.716933+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-   "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-13T10:46:57+00:00",
-   "first_seen": "2026-10-13T11:12:59.716933+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
-   "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-13T10:38:51+00:00",
-   "first_seen": "2026-10-13T11:12:59.716933+00:00",
-   "topics": [
-    "Bitcoin",
-    "Korea"
-   ]
-  },
-  {
-   "title": "Bitcoin recovery contrasts with Korean stock market slump",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmpQekVUNHJjaFZhblhNdHktN3lNanBDa3pGQkEyRTV0cmFrU2VDYnZzVjNsM2NNQlVkY09hZmMzRHpNa0JhcjU1UFZyV01oTGQwbWFCRVVKbGhibjFBekZlN3dRaDdSbGVrWVJTUkRhYkhwQTZtNlR2RXZQQ3VoZzd6V1BxZUdVUmlGRFpROEZHZmYxMjl3clhxR0tVN0RaQmdxb0ZONXRCYk9vdHlwbEloNlE2NWhDYkdqeVNPVWJtTFE?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-13T10:38:51+00:00",
-   "first_seen": "2026-10-13T11:12:59.716933+00:00",
-   "topics": [
-    "Bitcoin",
-    "Korea"
-   ]
-  },
-  {
-   "title": "NFT Marketplace Blur Is Retiring Blur.io on Nov. 12, Keeping Its Contracts Live Onchain",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUhhUWZENjd3dWZCSllRWEZ6ZW1fS1NySGVrZUZreVJGdnBGRDlQVDVXZUN0ZTQwWEFHb0hrbGZGWGpKRkpzMjJ5djNtOXZHeGtYbXRhWG16d1AzYkhtdzhNdVhxalJpNGpFVjU4WHJVOGxOOXpYMmNTWDBja1B0V0d6MkV6cDVNSkswVUZpZjQtLVA3cmh0MU5BN01FOVdYenRmQXFTajBmQ2ptRjZ2SFc2N28?oc=5",
-   "source": "unchainedcrypto.com",
-   "type": "news",
-   "published": "2026-10-13T10:19:00+00:00",
-   "first_seen": "2026-10-13T16:09:31.369273+00:00",
-   "topics": [
-    "Blur"
-   ]
-  },
-  {
-   "title": "Blur Token Hits Record Low After NFT Marketplace Announces Website Shutdown",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWS14WGFsNEZlUmp2bUVtWTZhRHFIUnNxSHBwTnl1Q2xSNVZRU0xVcm5Tb0Y5SVJfRXItNWdJdDRBRzJGWC0yQkJhczVHTVV1aTlKdDg3T3pvdWpCMjd4N3N0dXNwUTNLYURCZjR6bkpfX2hhLVJFTE9Eb3B0WXo1R2Vn?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-13T10:15:27+00:00",
-   "first_seen": "2026-10-14T08:43:07.106954+00:00",
-   "topics": [
-    "Blur"
-   ]
-  },
-  {
-   "title": "Ethereum News: NFT Sector Takes Fresh Hit as Blur Set to Close",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0J2REJOT1phbmx1M3ZaX19yNHhzWi0zLWNRUDh1VWF2NTFsNGZyb1hKRHZSR1BkX2ViOXZuai1RSUZTZFR3N1lMT2wycnFSMUc4T1dBS2h6aFFjSHA1TEZFUmNTV3NWU2pOYnl4UGxOTlJCT29oOVNFRGczTjk3QTBITUlXc3gyWTl4WFBXR2VsOGYxYW40ZGx2MA?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-13T10:14:33+00:00",
-   "first_seen": "2026-10-13T16:09:31.369273+00:00",
-   "topics": [
-    "Ethereum",
-    "Blur"
-   ]
-  },
-  {
-   "title": "Who Will Get the $5 Billion in Bitcoin? UK Ruling Makes It Harder for Victims",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXUxOHBNY0RiV2c5NFVHLU1vNDZFX2FhN1NsV0FuMXl4TFV5U0xPX2FieUZtNHhadEM2UlRDY0pub3I1Nk5SUGw4bnFNTl9ITFBmaW4wLVhOYUVucFZsWlNpc3AyMjRnM1lNTnAzVHdaUzZMWWpfQXZMdWU0RGU0c0tXaVQ0VzFHQndoMmI5Nm95S3I2RnhBcW9NeFg3MGNKcmJmQ0NsSDhkcEZldmNUN2FzY0M?oc=5",
-   "source": "Koin B\u00fclteni",
-   "type": "news",
-   "published": "2026-10-13T09:53:15+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
-   "url": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-13T09:42:00+00:00",
-   "first_seen": "2026-10-13T11:12:59.716933+00:00",
-   "topics": [
-    "Bitcoin",
-    "Korea"
-   ]
-  },
-  {
-   "title": "Blur NFT Marketplace to Shut Down Next Month as Trading Slows",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1JnRmhGbmVQZkhUMWZhYXAxVERzcUtNWDJ0MGJyZEw3ZXRnbkc0cHpHWDNjc0RraUpXQ3F6aWNmVXU4RE1IckVCUXZFUjE1TzBfWDZ3M3VSeXo3SkFJRk5MYWNDVktBelZ1ZkZoM090SFZaX2xGblpsc1JVbjdSUjlDZzc2dFp4LXBVVDlIRVQ4YWpMSUVUazNuYw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-13T09:31:00+00:00",
-   "first_seen": "2026-10-14T06:00:04.539612+00:00",
-   "topics": [
-    "Blur"
-   ]
-  },
-  {
-   "title": "UK court ruling boosts government\u2019s chances of keeping $5 billion in seized bitcoin",
-   "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-13T09:25:03+00:00",
-   "first_seen": "2026-10-13T11:12:59.716933+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Spot Volumes Climb 27.3% to $1.13T as RWA Perps Post First Decline Since April",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzLWtWS0JVMnpqYkZ1dFRsTjhYN1JJMi0zX09hU0RDdGJQUm14WHp1N3NocmpwT3UwRktfcl9VRndvY0owWkluLWhUTmVjMUl6Z2V4cHp1Nk5QSnBjZGxJdmtWVDRsUFRwS3FYWUhGWWlUUQ?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-13T09:24:42+00:00",
-   "first_seen": "2026-10-13T11:12:59.716933+00:00",
-   "topics": [
-    "RWA"
-   ]
   }
  ],
  "stories": [
   {
    "title": "Standard Chartered Launches Bitcoin and Ethereum Trading for UAE Clients",
-   "outlets": 11,
+   "outlets": 16,
    "topics": [
     "Bitcoin",
     "Ethereum",
@@ -2821,11 +2843,39 @@
    ],
    "items": [
     {
+     "title": "Standard Chartered Broadens UAE Crypto Services With Direct Bitcoin and Ethereum Trading",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdnVIZGJLM2x4TzNYeVVlWTAyd2xSeGw5NkJHaGoyMUlETVY2Zk1DZ3ZoRmxDV1lvbEQ4eGdYWVNvbmtCY0F0WEpFenJ6R2FHTmhGWGRoRHR0NHdJQS1WY2NhQ211VGhRWlgtMUp2VmpaeDNWbE5kUWhpVF9IMXlkbC1hdUVOUGd3aWhNMlFyaDBaOE1uRk92VjJHOXZDR0xiamNLdktyNV9MTUFUeFRtM0hhcmZfckFNRE9zYVNhQ0JjZXg2cDY5LWZtZTNOeUMyT2VKamFoTWZlLUVJMmEyY3RWRUNkZmh2X0xGdEFZbnppaXRCNGFZLThPdnd1cWNl0gGGAkFVX3lxTE1oUURWYjZpM0N1UVdmSzc1MC1iRTM1OFdqQV95SVZ3U0d6TFFPdXczeEtFdUVUXzMycGVWTV9yTk9fNGNCcWlHbDh2Y1pQTWdUTndlV0ZHck1nT3J4aWhNNTk5WGhoa3FiMzRoTndNeGd5c2pzTzFfSjlSblpGTWJzSTByMzVmQ2lKTkpoVmVhbXd0WHlfRDkwWHFCUm9ScU5VYUgweUlWWE9maTh6TXBQWWNBUDhUdVkxT19jRmpTTldPc3c2dXFQamFUOExPODE5QlB0QkxLSjJfUTViWTJsVERSd1ZLNmxrdENVOHZ6ZFVVRVgxLWYyam9oVXVFUVY2NTJfYlE?oc=5",
+     "source": "Gadgets 360",
+     "type": "news",
+     "published": "2026-10-14T10:31:40+00:00"
+    },
+    {
+     "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+     "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-14T10:07:03+00:00"
+    },
+    {
+     "title": "Standard Chartered Launched UAE Crypto Trading",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jOUE0SG1VOTFZc1hEU1BGMHdTMy1McFFqNWRzcGxIWGJjbDhFb1BKWS1qc3V3c0EyOC1UVzFDOURPM2F1ZFVUT2NpbW05QXlpX0lmZTVJcFh2Znd1X3FCd2xQdVZBZnVFQXc?oc=5",
+     "source": "Cryptonews",
+     "type": "news",
+     "published": "2026-10-14T09:17:39+00:00"
+    },
+    {
      "title": "Standard Chartered Becomes First Global Bank to Offer Direct Crypto Trading in UAE",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81aFlMU2kzRU5vOFVHMXN5WEQ0OFQ0aDVZVmhZaDNkLTJSVUVycHlvUExTUVJhLXcydklFYVBtRlh5OWY4eGhDa29nVzlXRmpGS0V1NFpnT1JubXJxWEFaTkpGSmRNM3BpYzJTSkZaaUsxeDBuTVE?oc=5",
      "source": "BigGo Finance",
      "type": "news",
      "published": "2026-10-14T08:55:00+00:00"
+    },
+    {
+     "title": "Standard Chartered Launches Bitcoin, Ether Trading for Wealthy UAE Clients",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zMEJvUHZYcWl2dEdsRkZKU1ZnRU8wcDVUZlgtVGdGemE0UEZGUTU3V2NfdFhHQ0hfa3V1emNTYWZBRWoyZldROTBjQVg3Y3NlcHM4Rg?oc=5",
+     "source": "bloomingbit",
+     "type": "news",
+     "published": "2026-10-14T08:36:31+00:00"
     },
     {
      "title": "Standard Chartered Launches Bitcoin and Ethereum Trading for UAE Clients",
@@ -2840,6 +2890,13 @@
      "source": "Pluang",
      "type": "news",
      "published": "2026-10-14T08:25:32+00:00"
+    },
+    {
+     "title": "Standard Chartered opens direct Bitcoin and ether trading to affluent UAE clients",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaVQxb1ZZVGRFZVJmZnNUMUlKbkJVd3B2ZUVXX3FoOHhDeU1fbkVxMEFsdUpCbjE2NzhfNWFPYXpxamFLZ1NvUm5OQllCTnZjbkx1b3hPYVJMcTh4VDlTOWFaYl9jZ1haS2NjRFJER1pvWWdpMzF6cDZfcWhhWlZlZzZwN0ktcndqTGNwUHJHS2k5Y0M3US1oZlpvc3E4X3VxVExhQ1p4R2U0ZWlxd2d1Qm5DV2pUTl8yUmtBSVdqbWdPNFNacWthckppQWNGc2lIY2lNeTktVlpaZEJONU9j?oc=5",
+     "source": "TradingView",
+     "type": "news",
+     "published": "2026-10-14T08:14:04+00:00"
     },
     {
      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
@@ -2870,13 +2927,6 @@
      "published": "2026-10-14T07:04:54+00:00"
     },
     {
-     "title": "Standard Chartered launches Bitcoin and Ether trading for wealthy UAE clients",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHBWY3l1ZjJ1ZklDeHVrRW5hTkZDdk9JQmRlWEs2dDF2UnB2eXdaQjgxLWVrZGszN3hvdG44WklET1JVUEp5WTd2TkM2Q194Y0ZpbW1xUkFDNXpabjNsRjNweDd3ajVfQjFfOFJCcXZhY2FtME53NHRTNkpDb3BRbDhkdVFIOWpUa1ZLMmdnOWZZX1E0YlJGN1lfSVliUWs?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-10-14T06:50:00+00:00"
-    },
-    {
      "title": "Standard Chartered Unveils Wealth Crypto Trading Solution in UAE",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblhPWGRkR3pNZFktQWFIUDNrcE1PT0pnMklJNkdBbHd2NG83LXB2emhxZTF1YlFVdDdUbkcxcmFrYTJxMFZ3cVVVaDlrYjhibFlWek1GMThLSlhvcmMxeF9YR0ZvUnNvc1M0ZnJaRUZGeHJScnZNS1lOY0tRN3ZTZDJCQ3JMb0lHVkEwbnBXcDVqcmVMWEFFOWpMMA?oc=5",
      "source": "intlbm",
@@ -2889,6 +2939,13 @@
      "source": "Investing.com",
      "type": "news",
      "published": "2026-10-14T06:22:30+00:00"
+    },
+    {
+     "title": "Standard Chartered Launches Bitcoin and Ether Trading for Affluent UAE Clients",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMlBVaUt4c3FwcUVSd2dKUXYzbWM3ck5fNTFhajdxajYtMXVaVU9oYmFIenR4NDVTTGp2dDhwcWpuRFAzSjQzaXdYWFExV0E4UVNTcWdGZDhpMGZKUE41ZHhwREpKdmhuTWRvcXEzaGVnYV8wb0s1UU4wOGo2ZmlLbS1IeV9VMVJhSlFuN0lVcFNDSWR1TEViM2ctZlFMNUViaVRwckE5ZDJDM3VWMTkwallCTk5JM0hyUGVfbWNDYzJRMjRtZF9V?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-10-14T06:15:15+00:00"
     },
     {
      "title": "Standard Chartered Launches Crypto Trading Offering for UAE Clients",
@@ -2907,8 +2964,8 @@
    ]
   },
   {
-   "title": "Blur Token Hits Record Low After NFT Marketplace Announces Website Shutdown",
-   "outlets": 9,
+   "title": "Blur NFT Marketplace to Shut Down Website on November 12 as BLUR Drops 29%",
+   "outlets": 8,
    "topics": [
     "Blur",
     "Ethereum"
@@ -2929,18 +2986,25 @@
      "published": "2026-10-13T20:44:02+00:00"
     },
     {
-     "title": "Ledger Spyware Concerns and Blur NFT Marketplace Shutdown Signal Challenges in Crypto Industry",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVRoS18zMUQwaFpHRU5pS1NHRndsZ1NKY0FEYTNnT3MwbTU5TTF0c3YwaXNQWlE0WFlCU1VsQk1rWi1oam41U0ZBRmZuUzNxVTRYQjc0dC1ld0VqZ2JHWVB4WHJTZ0cwREsxSWJrU1ZaUlR0cF9DZEEtU2ZzSEwwbzJTRzZUbk1DQ0h3cVRXbERkZEZHb1oxbXJHSXhJWUZwcDB3NDN1RDJBWkZPY2FBSjl2Z1pmODMzUElr?oc=5",
-     "source": "Tekedia",
-     "type": "news",
-     "published": "2026-10-13T18:29:56+00:00"
-    },
-    {
      "title": "BLUR Price Crashes 30% as NFT Giant Announces Shutdown Plans",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3Y5UkpwckxnT2NzYUMzaFRJRGVJejMwT2ZSV0l0aFVZMFNWMllUaHdWc1hrY240TDNpQ0RROUJkWklrVTR0M2c5dkxfZm5HYzVZYlllNVJnVkQzc3h5aDB5azFaUkFhU3ZvMmJnaWxSZmZqeVJVVTBmdHNzNk5VdmpkOWFtbWQ5VzR4Z01qOGg1VG84OW1nay1yZ1hpdw?oc=5",
      "source": "CryptoRank",
      "type": "news",
      "published": "2026-10-13T16:51:16+00:00"
+    },
+    {
+     "title": "Blur to Shut Down NFT Marketplace After Blast",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWk1tZm5pVDF4alpCSXh6ZElqclJtdkZJZG02UGpPa3BmYlNDTy1RQkc1Z2tLd1BFTEF2TDBIbWhPUjhzM3BPeElNWGlVckV3ZzNNRnhxQU1OQlpKa2pkVTJtdGxHZXJzUkxnN2lWV2VvZWs2UlVVbnB4V3U0QXBLaHRCTjVaazJNSWhPaUdnNXJ3bXVMVHZTVHdqOA?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-13T16:22:10+00:00"
+    },
+    {
+     "title": "BLUR Token Crashes 36% Amid NFT Marketplace Shutdown",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwaXpySnBxUDFBbUxQWWI0MnE2aGhrRm1TYkczVlU5cmJNRFZzYzV2OGM4QlFLMkpOd0NTQUtxWHVLV1N2eXU4c3JSZGQyOGFLRGt6c1dmTGFCajVIYzRPSmVIVGtCbWZvYzJIZ3hlVmpkVlMybzIyeE5PTDRrUQ?oc=5",
+     "source": "NameCoinNews",
+     "type": "news",
+     "published": "2026-10-13T15:42:56+00:00"
     },
     {
      "title": "Blur NFT Marketplace to Shut Down Website on November 12 as BLUR Drops 29%",
@@ -2969,122 +3033,6 @@
      "source": "BlockchainReporter",
      "type": "news",
      "published": "2026-10-13T11:51:11+00:00"
-    },
-    {
-     "title": "NFT Marketplace Blur Is Retiring Blur.io on Nov. 12, Keeping Its Contracts Live Onchain",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUhhUWZENjd3dWZCSllRWEZ6ZW1fS1NySGVrZUZreVJGdnBGRDlQVDVXZUN0ZTQwWEFHb0hrbGZGWGpKRkpzMjJ5djNtOXZHeGtYbXRhWG16d1AzYkhtdzhNdVhxalJpNGpFVjU4WHJVOGxOOXpYMmNTWDBja1B0V0d6MkV6cDVNSkswVUZpZjQtLVA3cmh0MU5BN01FOVdYenRmQXFTajBmQ2ptRjZ2SFc2N28?oc=5",
-     "source": "unchainedcrypto.com",
-     "type": "news",
-     "published": "2026-10-13T10:19:00+00:00"
-    },
-    {
-     "title": "Blur Token Hits Record Low After NFT Marketplace Announces Website Shutdown",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWS14WGFsNEZlUmp2bUVtWTZhRHFIUnNxSHBwTnl1Q2xSNVZRU0xVcm5Tb0Y5SVJfRXItNWdJdDRBRzJGWC0yQkJhczVHTVV1aTlKdDg3T3pvdWpCMjd4N3N0dXNwUTNLYURCZjR6bkpfX2hhLVJFTE9Eb3B0WXo1R2Vn?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-10-13T10:15:27+00:00"
-    },
-    {
-     "title": "Blur NFT Marketplace to Shut Down Next Month as Trading Slows",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1JnRmhGbmVQZkhUMWZhYXAxVERzcUtNWDJ0MGJyZEw3ZXRnbkc0cHpHWDNjc0RraUpXQ3F6aWNmVXU4RE1IckVCUXZFUjE1TzBfWDZ3M3VSeXo3SkFJRk5MYWNDVktBelZ1ZkZoM090SFZaX2xGblpsc1JVbjdSUjlDZzc2dFp4LXBVVDlIRVQ4YWpMSUVUazNuYw?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-10-13T09:31:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
-   "outlets": 6,
-   "topics": [
-    "XRP"
-   ],
-   "items": [
-    {
-     "title": "Ripple Partners With Stripe-Owned Privy for AI Payments \u2014 Will XRP\u2019s Price Be Impacted?",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCTF9wdXpKUjVOMVM1OHpYcWY0c0R1Mmt4ZlkzZXpWWnJhbkJJdkJLemo0MU53bEhzN2paZXZDNTFfQ2xjVmN3YnV4Q1V0VjVuc3E5R2N0QkUzWFpzOThuSFV3dXl6NldWSWxzQVF2R2N4cDNvQVo4OUJpU2lMdw?oc=5",
-     "source": "CCN.com",
-     "type": "news",
-     "published": "2026-10-14T08:57:16+00:00"
-    },
-    {
-     "title": "Ripple and Privy Just Gave AI Agents Their Own Wallets on the XRP Ledger",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkFPc2g1Tm96Q3JoWE9hS2x5UEItcXdHemVITmhNMC1TelFyWENzaWZyeGc0b3plbTFPdmZteVI4eG9XVFNqZ3NTVld3N3pyMWZvTEJZUElTVFJBUGgtc216Q1ZDM2ZJbk5VYWYwM2JKTDZBc3V5Q1JWTTZvZWdJY2J3OFlmNVZZWVppZ3N3endmcFE?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-10-14T08:16:20+00:00"
-    },
-    {
-     "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-     "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-10-14T05:24:12+00:00"
-    },
-    {
-     "title": "A Stripe Company Is Bringing Its Wallets to the XRP Ledger, and Ripple Says AI Agents Already Make One in Four Payments on the Network.",
-     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQVnR2N1RWNTh3QzM1SkJ4b3JNaUVhRWhGQi1qTGtVbE5SX0lvS0I2d2JlVkxaUGZRbDRLRjY2aFhBdTFpbjg1b3c2UEFlcGw4bUxZczdReDZVVEFYaXNuN2l2dnNxcFA5eGhTZU5naUxSV2lhUTBwWW9VRkh0c0tQNWJ4UE1TdHU2aTdjVVVkVGtSY28tUXFIdFdrTzlpc29yWjlUQW9zYTFpc1JOUmpBU25wMmJrRjU4ekt0d1JvSV94RXRMYW1lU29FOEEzcHdISnFUYWV5bW1MVGc5NTNLMzRtdkhGWDhxZWxKZzVUY3pqUFZoTEdLOWR0Y2tYYUJSTU5EcjhpLWxZLWpBeV9OOGt6Mkt2NzMyVFJnWA?oc=5",
-     "source": "24/7 Wall St.",
-     "type": "news",
-     "published": "2026-10-13T19:02:00+00:00"
-    },
-    {
-     "title": "Ripple Integrates With Stripe-Owned Privy To Expand XRP, RLUSD Payments on XRPL",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTGhHUVF1emVGb2YtV3RCZzA0ZVhtamdweFhSVFFYVTNBQmgycDN1eVRmU2RnNWhRcnIwQXdkbTctSElLVDdFT1JUaHdCSzBxVmZtZUw4d09aV3c4dE5sVzZjOEZ5WGxmNHhqWHFKS2lFUndtMUVsV2E1LWdpb2p5YnF6OFVuWENCWlZZMndkNmpzZG96VlJ2ZDZQWm1CTnluajZqS0taVU1LZE5VLU0xVzR6VHdjU3U0cnlIRnNRak51RUJQczlVTlU3bl9LSWh4OURhYnRGRQ?oc=5",
-     "source": "Benzinga",
-     "type": "news",
-     "published": "2026-10-13T18:45:06+00:00"
-    },
-    {
-     "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
-     "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-10-13T16:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Interactive Brokers Adds Ethereum Staking Through Zerohash",
-   "outlets": 5,
-   "topics": [
-    "Ethereum"
-   ],
-   "items": [
-    {
-     "title": "Interactive Brokers moves into Ethereum's $110 billion staking market as institutional demand accelerates",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHNVaTlmN3lZT1BfU2JYRVpTUkxsZm52cjk5U2s3dWdxOVFDN3BFV3ZyNjRSVzREVGtLc3VURVh0WHd3cnNSZGxSUk1SU05OMWJ6aDJra0hSekVtUjc4M3hBVGk1cEFwcUNQUDFWbkVSM3dPWm1HU0s4bHpuaFpPXzQ2SmZibUlZQnVMV013M2tpcGhENjREOV9KazdwbEItbEpMVWp0NEVTand4bGk5TVJHNDBON2cxSTNaRVNTOFUtQWlhSU1n?oc=5",
-     "source": "CryptoSlate",
-     "type": "news",
-     "published": "2026-10-14T09:10:03+00:00"
-    },
-    {
-     "title": "Interactive Brokers Adds Ethereum Staking Through Zerohash",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBsVUlQN2FlaE1qektnaWZIckY0d3NaSzFzZFJNbEtJUHo4UGVKblZHeFliVTlKQkl3c0FSN2hETzUzUnhWRlZGNDJfVnpHSWZCOXJib2JxWFpxLW1zUk5zc3FZb1ZnSE1lb3N5TWF1bEM2em1UWmJHVU5pYmE5N0RLWnJ6NFRUYjhRZGQ0MVBpUTVKVE1PMXA4dw?oc=5",
-     "source": "Blockhead",
-     "type": "news",
-     "published": "2026-10-14T04:47:23+00:00"
-    },
-    {
-     "title": "Interactive Brokers Launches Ethereum Staking for Crypto Investors",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU9jc2JqREFQbGFDdUhPVGVGRnB3aWxyenFMcFdpQVo4OHVyZnp6ZERqdzd6NlRHaUNaWUZuWVNyVGdPdjVycEIzS3hLSU41SlMxaVlKQVlCZE5JSk82bmp5Q3RpcmROV08wdzhORlJmbEg1Tm1UZ190OXh1aEhwQlU0MEQwOUtuM1pMbVBqUmRwQXpaanFITnZQZ21Rd3JKSmZGWHB4SDZTVHhXdGRpUFZRV0tFUTNtandsVFFKQU52ZzNVTGNR?oc=5",
-     "source": "Benzinga",
-     "type": "news",
-     "published": "2026-10-13T17:14:22+00:00"
-    },
-    {
-     "title": "Interactive Brokers Adds Ethereum Staking for Eligible Clients",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcURnTEc5bVQtUE13Y3VMSTFNQ1o5cUpjd3NTTGMtc0RxUmtWMms0WG5IcVNDSzBiOHRDa3BCMTJFaGpaSng5c3FpaFZGMkIxei1yN1R2ZU5Fdy1jdElJaUhxeU5leDVlZXlxYlZieG1LYk52eHFRLXU4NDFxbXVsWHBkek92Y0JmNWJLVzlfT3g4eWN6VHhTX3hFa2gxci1iNU1rUUZHTC1FZw?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-10-13T15:33:00+00:00"
-    },
-    {
-     "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
-     "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-10-13T15:24:14+00:00"
     }
    ]
   },
@@ -3134,6 +3082,112 @@
    ]
   },
   {
+   "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+   "outlets": 3,
+   "topics": [
+    "XRP"
+   ],
+   "items": [
+    {
+     "title": "Ripple Partners With Stripe-Owned Privy for AI Payments \u2014 Will XRP's Price Be Impacted?",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzFWNEdpNmMxUGY3V1VBM1RhYzBnQ0FoSFh6VERIdVNUNWlhRWtvdFBJbm90bXlUV1RiTUdqbTdoQ2VHMUJZUHU4TDRQRjhfeW9jalFOd2RNR3FwLUoyX0lHTHlXRDV5UnYzQkFybkowVW51akpaWUpBZzlKakRZMVNBbDhPczJiWGxXVHdyQkQ5eXJKdUtCN1VCNXNpOTdV?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-14T08:54:02+00:00"
+    },
+    {
+     "title": "AI Predicts XRP: Stripe\u2019s Privy Hits the Ledger and Every New Wallet Locks 1 XRP",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGt1OFJ3Q0o1c2lpWGc4V1N2Z0JfTXRsZ0lNV1hIYk1MTjFJeS0tMVJLUHoteV9sVUhLWm5fVl9kUmNTYmtrbXMxZVh2S0FRWjkwak1tYTlUSWwxckNPWG1GRkZpNzNVOHJaTXRiUTF1azdCZTE5YzlZeHplMTlFcFhPVE1nbVMyOEFlMGtGbjd2aFBvOFkxUw?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-14T08:39:09+00:00"
+    },
+    {
+     "title": "Ripple and Privy Just Gave AI Agents Their Own Wallets on the XRP Ledger",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkFPc2g1Tm96Q3JoWE9hS2x5UEItcXdHemVITmhNMC1TelFyWENzaWZyeGc0b3plbTFPdmZteVI4eG9XVFNqZ3NTVld3N3pyMWZvTEJZUElTVFJBUGgtc216Q1ZDM2ZJbk5VYWYwM2JKTDZBc3V5Q1JWTTZvZWdJY2J3OFlmNVZZWVppZ3N3endmcFE?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-14T08:16:20+00:00"
+    },
+    {
+     "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+     "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-14T05:24:12+00:00"
+    },
+    {
+     "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+     "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-10-13T16:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Ethereum FOMO Surges While Bitcoin And XRP Turn Fearful",
+   "outlets": 3,
+   "topics": [
+    "Bitcoin",
+    "Ethereum",
+    "XRP"
+   ],
+   "items": [
+    {
+     "title": "Ethereum FOMO Is Exploding as Bitcoin and XRP Traders Hit Panic Mode",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXpFWktZbkc4MzNZNXpYVFBwM1I0akU2SVlPVER0OW91VnZKOHBBS29GQ2lNZzJzcGt4MzBXdWtOS0ZQU1hBV3F3MTgwbU92YkZxUzFzS3huU1lFYmh1R3dxTXlqV1ppVDRUaHR0S0xYdE1ZZE5nWjVfWjFfeGV0SXlfM0ZYUjZKSk9yZGVnVWxmS0owcHlpaXItZnZXSUNuSmc?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-14T09:32:15+00:00"
+    },
+    {
+     "title": "Bitcoin, Ethereum, Dogecoin Gain Ahead of CPI Inflation Data: ETH FOMO Surging Even as BTC, XRP 'Turn Fea",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXFLZUV1eFk3bnNLT29aS2Y5X3ItYk9uYkxHa2k5TWlOWmFVRDJZM2RsUnNqVzdKbk5EMG01cHFyOG0yYzJ1X0xfc0JTblBKR1kwcS1rdTB2RjNzRUxUbXpsdVA0SW1iNk1BVTM2b2xFbWFnaHBvdmxqeWkzdjYyNnJXMWhLRnhuaDI0MUFIV1JpeU1IZmMzRVBKc0p3OW5HbS1vdXRKMVRtcGdtUGpFRUJ2bWE0cXptQS0wUnhDVQ?oc=5",
+     "source": "Benzinga",
+     "type": "news",
+     "published": "2026-10-14T03:06:06+00:00"
+    },
+    {
+     "title": "Ethereum FOMO Surges While Bitcoin And XRP Turn Fearful",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnJsRWFEUDE0T2QtVnFfTlZOVTM2UV9sRlpYekhnYy1kTThjejBWcUxKb19wQ1BER3QyQjJfSjh0bEowQUxuSU55eGxGeURVTG1vSjBFQ3c1Z0lGWDlfREoxemZqYVJLek1COUtSMjZISWFzTE1VdWtKeGxUTlhGMUJKUnJSVGdxZ2xLdHA1UWtxc0tJZlE5R285U2ZMLUVteklF?oc=5",
+     "source": "Santiment",
+     "type": "news",
+     "published": "2026-10-13T16:13:31+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Coinbase, Which Holds 5% of Bitcoin, Warns Quantum-Ready Transition Could Take Years",
+   "outlets": 3,
+   "topics": [
+    "Bitcoin"
+   ],
+   "items": [
+    {
+     "title": "Is Bitcoin Ready for Quantum Computers? What Coinbase\u2019s New Plan Shows",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUFkWjdTd2VlLW1VUjU4a0xnZ1BNRnRZdHV0UHN5OEIyeTFlYkt2dGU2UmVFVm4wcGpjbUxEQl9EdXJSeXFROWhCSzJZTm1mUG80VnotY0pvdjlxOUp0bHZMWi1VX3BCaXB3Nmo3SG01SWNaVkx5SzJnQWpwa1BwOGhVZ1pJTmlSQU45UlhJVmRfWmRuSFdWYnpSRzdVLUVWY2tLSXdNUG4?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-14T07:57:33+00:00"
+    },
+    {
+     "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+     "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-14T05:44:51+00:00"
+    },
+    {
+     "title": "Coinbase, Which Holds 5% of Bitcoin, Warns Quantum-Ready Transition Could Take Years",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTW1FaUJmTVlWUFJlb09rNXluUk4wbFp1b2VQUzlMYVNGcndKTDk5SWozbEJnck5td2xjbWdoZFNNTmFFVnpsT3dNRFdreENFejhwUkZGZE1MSXZHUUktLTZZc1VraGUtQnFYR210WmRDRWRPNmgwbzVPd1M3VjN6SkdxYmlYYk12aS1mQXhnT3R1MzltbmJmTlFRSjRZYXhVa25pTVFXbk1mVGxzN29jYTVSQnNPNElhVEZRbA?oc=5",
+     "source": "Koin B\u00fclteni",
+     "type": "news",
+     "published": "2026-10-13T19:07:44+00:00"
+    }
+   ]
+  },
+  {
    "title": "Starknet launches Shadow Accounts to keep DeFi wallet activity private and unlinkable.",
    "outlets": 3,
    "topics": [
@@ -3165,21 +3219,23 @@
   }
  ],
  "events": [],
- "headlines_served": 2512,
+ "headlines_served": 2552,
  "trend_candidates": [
   {
    "key": "uae",
    "term": "UAE",
-   "count": 5,
+   "count": 7,
    "sources": [
     "Bitcoin Magazine",
     "CoinDesk",
-    "Crypto News",
+    "Cointelegraph",
     "MarketWatch",
-    "TechAfrica News"
+    "TechAfrica News",
+    "The Defiant",
+    "TradingView"
    ],
    "baseline": 0.0,
-   "ratio": 5.0
+   "ratio": 7.0
   }
  ],
  "baseline_days": 2,
