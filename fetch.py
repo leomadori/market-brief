@@ -548,6 +548,29 @@ def update_term_stats(state, items):
     return len(stats)
 
 
+def same_word(a, b):
+    """Korea/Korean, ETF/ETFs: one name is the other plus at most two letters."""
+    short, long_ = sorted((a.lower(), b.lower()), key=len)
+    return long_.startswith(short) and len(long_) - len(short) <= 2
+
+
+def merge_overlapping_trends(topics, items, min_overlap=0.6):
+    """One story, one tab: fold a trend into a bigger one when most of its headlines are shared (Blur + NFT)."""
+    trend = [t for t in topics if t["kind"] == "trend"]
+    sets = {t["name"]: {i["url"] for i in items if t["name"] in i["topics"]} for t in trend}
+    trend.sort(key=lambda t: len(sets[t["name"]]), reverse=True)
+    for k, small in enumerate(trend):
+        for big in trend[:k]:
+            s, b = sets[small["name"]], sets[big["name"]]
+            if big in topics and s and len(s & b) >= min_overlap * len(s):
+                topics.remove(small)
+                for i in items:
+                    if small["name"] in i["topics"]:
+                        i["topics"] = [t for t in i["topics"] if t != small["name"]] + ([] if big["name"] in i["topics"] else [big["name"]])
+                b |= s
+                break
+
+
 def update_tracked(state, cands, cfg):
     """Add new trends, refresh active ones, expire faded ones. Returns active trend list."""
     tc = cfg["trends"]
@@ -624,9 +647,16 @@ def main(mode):
     for p in cfg["trends"]["pinned"]:
         topics.append({"name": p, "kind": "pinned", "aliases": [p]})
     for t in active:
-        if t["term"].lower() not in pinned:
-            topics.append({"name": t["term"], "kind": "trend", "aliases": [t["term"]],
-                           "first_seen": t["first_seen"], "count": t.get("count"), "ratio": t.get("ratio")})
+        if t["term"].lower() in pinned:
+            continue
+        twin = next((tp for tp in topics if same_word(tp["name"], t["term"])), None)
+        if twin:  # Korea + Korean -> one topic under the shorter name, matching both forms
+            twin["aliases"].append(t["term"])
+            if twin["kind"] == "trend" and len(t["term"]) < len(twin["name"]):
+                twin["name"] = t["term"]
+            continue
+        topics.append({"name": t["term"], "kind": "trend", "aliases": [t["term"]],
+                       "first_seen": t["first_seen"], "count": t.get("count"), "ratio": t.get("ratio")})
 
     print("Searching Google News for trends…")
     searched = []
@@ -653,6 +683,7 @@ def main(mode):
     state["seen"] = {k: v for k, v in seen.items() if v >= week_ago}
     state["headlines_served"] = served
 
+    merge_overlapping_trends(topics, out_items)
     out_items.sort(key=lambda i: i["published"] or i["first_seen"], reverse=True)
     for tp in topics:
         tp["item_count"] = sum(tp["name"] in i["topics"] for i in out_items)
