@@ -9,7 +9,7 @@ A personal, late-90s-style dashboard of market and crypto news and Reddit chatte
 Updated at 08:00, 13:00 and 18:00 (Central European Time). Headlines older than 24 hours are hidden.
 
 - **Topics:** Stablecoin, RWA (real-world assets / tokenization), Ethereum, Bitcoin and DEFI (decentralized finance), each in its own column.
-- **🔥 Trends:** terms that suddenly show up much more than usual (e.g. *Solana*, *OpenAI*) are detected automatically, get their own column, and fade after a few quiet days.
+- **🔥 Trends:** terms that suddenly show up much more than usual (e.g. *Solana*, *OpenAI*) are detected automatically, get their own column, and fade after a few quiet days. Trends covering the same story or the same word are merged into one.
 - **Top stories:** the same event covered by several outlets is grouped into one story, ranked by how many outlets cover it.
 - **Price ticker:** a scrolling retro bar with the top 20 cryptocurrencies by market cap (stablecoins excluded) and their 24h change, loaded live from CoinGecko.
 - **Fear & Greed:** the daily Crypto Fear & Greed Index (Alternative.me) as a slider and a number.
@@ -39,6 +39,7 @@ A small Python script (standard library only) runs on a schedule: it fetches the
 
 ## Changelog
 
+- **2026-10-14:** Duplicate trends merged: trends sharing most of their headlines become one tab (Blur + NFT), and word variants are combined (Korea + Korean).
 - **2026-10-14:** The background term counter now records how many headlines it counted each day and a log of method changes, so long-term comparisons use shares instead of raw counts.
 - **2026-10-14:** Off-topic headlines filtered: Google News searches for the core topics now require crypto context ("RWA" was also matching Rwanda cricket, Indian resident associations and a stock ticker). "Price data" quote pages blocked.
 - **2026-10-12:** Windows 95-style scrollbar; news updates three times a day (08:00, 13:00, 18:00) with the times shown on the page; headlines hide automatically once they pass 24 hours.
