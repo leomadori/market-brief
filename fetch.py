@@ -172,11 +172,15 @@ def fetch_reddit(cfg, status):
     return items
 
 
-def fetch_google_news(cfg, topic, aliases, status, scoped=False):
-    q = " OR ".join(f'"{a}"' for a in aliases[:4])
-    if scoped:  # trend terms are generic; keep results about markets/crypto
-        q = f"({q}) (crypto OR bitcoin OR stocks OR markets OR blockchain)"
-    q += " when:1d"
+# Context words Google must also find in the article: core topics are crypto ("RWA" alone also means Rwanda,
+# Indian resident associations, a stock ticker); trends can be any market story (Nvidia, OpenAI).
+CRYPTO_CONTEXT = "(crypto OR blockchain OR tokenization OR tokenized OR stablecoin OR DeFi OR onchain OR bitcoin)"
+MARKET_CONTEXT = "(crypto OR bitcoin OR stocks OR markets OR blockchain)"
+
+
+def fetch_google_news(cfg, topic, aliases, status, context):
+    terms = " OR ".join(f'"{a}"' for a in aliases[:4])
+    q = f"({terms}) {context} when:1d"
     url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
         {"q": q, "hl": "en-US", "gl": "US", "ceid": "US:en"})
     items = []
@@ -601,7 +605,7 @@ def main(mode):
     print("Searching Google News for the core keywords…")
     core_news = []
     for name, aliases in cfg["keywords"].items():
-        core_news += fresh(fetch_google_news(cfg, name, aliases, status))
+        core_news += fresh(fetch_google_news(cfg, name, aliases, status, CRYPTO_CONTEXT))
     pool = dedupe(news + core_news)
     core_regexes = {k: alias_regex(v) for k, v in cfg["keywords"].items()}
     print(f"Detecting trends across {len(pool)} headlines…")
@@ -622,7 +626,7 @@ def main(mode):
     searched = []
     for tp in topics:
         if tp["kind"] != "core":  # core keywords were already searched above
-            searched += fetch_google_news(cfg, tp["name"], tp["aliases"], status, scoped=True)
+            searched += fetch_google_news(cfg, tp["name"], tp["aliases"], status, MARKET_CONTEXT)
     all_items = dedupe(pool + fresh(searched))
 
     # Tag each headline with every topic it mentions; remember when we first saw it.
