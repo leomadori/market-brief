@@ -12,7 +12,7 @@
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <meta name="theme-color" content="#ffffff">
 <style>
-  /* Same late-90s look as the Market Brief (index.html). */
+  /* Same late-90s look as FEED (index.html). */
   :root { --link: #0000ee; --visited: #551a8b; --muted: #555; --red: #b22222; --navy: #1a2a6c; --rust: #a0381c; }
   * { box-sizing: border-box; border-radius: 0 !important; }
   /* Windows 95-style scrollbar (Chrome, Safari, Edge; Firefox gets plain gray colors; phones keep their own). */
@@ -99,7 +99,7 @@
     <form class="jump" onsubmit="return false">
       <label for="jump">Go to:</label>
       <select id="jump" onchange="location.href = this.value">
-        <option value="index.html">Market Brief</option>
+        <option value="index.html">FEED</option>
         <option value="reddit.html" selected>Reddit Boiling Point</option>
       </select>
     </form>
@@ -116,7 +116,7 @@
   <footer id="footer"></footer>
 </div>
 
-<script src="data/reddit.js?v=20261016143502"></script>
+<script src="data/reddit.js?v=20261016161643"></script>
 <script>
 (() => {
   const D = window.REDDIT_DATA;
