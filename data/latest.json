@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T06:15:32.909470+00:00",
+ "generated_at": "2026-10-18T12:00:13.810318+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 40
+   "item_count": 39
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 30
+   "item_count": 25
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 24
+   "item_count": 25
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 47
+   "item_count": 43
   },
   {
    "name": "DEFI",
@@ -71,7 +71,18 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 12
+   "item_count": 9
+  },
+  {
+   "name": "CEO",
+   "kind": "trend",
+   "aliases": [
+    "CEO"
+   ],
+   "first_seen": "2026-10-18",
+   "count": 5,
+   "ratio": 2.54,
+   "item_count": 24
   },
   {
    "name": "Deutsche Bank",
@@ -82,7 +93,7 @@
    "first_seen": "2026-10-17",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 17
+   "item_count": 15
   },
   {
    "name": "MSCI",
@@ -104,7 +115,7 @@
    "first_seen": "2026-10-17",
    "count": 5,
    "ratio": 2.9,
-   "item_count": 21
+   "item_count": 19
   },
   {
    "name": "Coinbase",
@@ -126,7 +137,7 @@
    "first_seen": "2026-10-15",
    "count": 6,
    "ratio": 2.57,
-   "item_count": 18
+   "item_count": 15
   },
   {
    "name": "Ripple Prime",
@@ -137,21 +148,515 @@
    "first_seen": "2026-10-16",
    "count": 9,
    "ratio": 4.49,
-   "item_count": 3
-  },
-  {
-   "name": "Prime Launches",
-   "kind": "trend",
-   "aliases": [
-    "Prime Launches"
-   ],
-   "first_seen": "2026-10-16",
-   "count": 5,
-   "ratio": 3.33,
-   "item_count": 0
+   "item_count": 4
   }
  ],
  "items": [
+  {
+   "title": "Deutsche Bank lifts target to USD 57 for Trex Company stock today",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPako1U0ZuUHFHd1h1VGhlZU93bmhhcmRJY1lYV1hEdFhNNVphUmhENnktYXdKdDRrdlZXYmQwNEZrYzBfUUcwU0M4ZU1Vb05iU0xGajY4bUN6bkxzYnhqNFZnZFB3d2dRQmdzMGhsemc4NU5NUDgwVDBNX090QmlyS1k0QmlyQWkwVlRpV0J4b0hRN3FKNTJlcHZielBEOWczNlJiYVdTTDdkYkpwVlNVVDRwbWNEOFVFOXRHRDdNd3Brdw?oc=5",
+   "source": "ad-hoc-news.de",
+   "type": "news",
+   "published": "2026-10-18T11:49:44+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Deutsche Bank"
+   ]
+  },
+  {
+   "title": "Deutsche Bank raises target for Jost Werke stock from EUR 76.00 to EUR 80.00",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMU9hS1l2dVR0cER4RXcwOGRHbGxnQ2pSZUlOODU2dTlyTGpGRWdyemxrSkFVbm1hVGdsVEpKS0NGTmhWLXhsT1BMSUZJaHF3cW9KZU55dWhOUENldk45MllsV0RNMEhhelJsVFdRajVqZXdWcnp3dkI1NDQzdXFpXzRhUWZoaXk1clR5OTN3NUNGZVd1Wl9VTi1YNkR5ZEFLdUdwX05HNjhOcGk3ZEs2SUNBWENaVHV5UXYxd1pEWk5fdjlBYkQ4Rw?oc=5",
+   "source": "ad-hoc-news.de",
+   "type": "news",
+   "published": "2026-10-18T11:48:42+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Deutsche Bank"
+   ]
+  },
+  {
+   "title": "Circle CEO Seeks \u2018The Happy Middle\u2019 For USDC As BIS Finds Deposit Rates Weigh More On USDC Than Tether",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUUFETDZQSTQ5Z04xYjlqdjVocHpVY3N1VDBFYVVJSXJuTnN4X0ZUekI1NENrZE0waHZJcC1OdW1CUkUtX3FPbDRFQXpCZ3Bpb25fUHlqRzNIX3Nwb1UzOTRkMHBnamVoUGN4Q3NlQ2JyeVBYd0ZzSUlzZWNLU0lmZGdnVHBsNUdUQWFPTnc1a2NLYjdFMGE2RVBLdWw3dlZqNC1mcVFsNnlTSEFDeG9keG4xZUVUTm9pOW5xVW5Gdm9uZklYQVNUbW5IeVo3dEI0R3RjYmNMS2RVTEx2UTVhMzNhNHZ5dzNnVThEa0RMMXZVWEE?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-18T11:40:51+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin",
+    "CEO",
+    "Circle"
+   ]
+  },
+  {
+   "title": "Circle Wants USDC In Mainstream Finance, But Higher Bank Rates Pose A Threat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVV9JSzBlSDhHQ1RmSVpkMElTZ2N5eWg1YXlRQkNpekVuc2lBTnNzYmdZR25XSTJteHNpaFJWV1BNWUhBd3VfNmlxQ3dSQ2lxdUZsTXY1VXpvMWZrZTNTTF9hQkZvcnp4QmszVlBBMFhPSjR3bDBmU0E2aEs0am9iZ0tXR01NOFM4NGVRaFpFUnpFUHB6R0NoUlBMakd0Ty1SZDE1Tjd0a3ZMMXRXaHZRRzZZQTRRak9OelJvZTVla2tzWmZpbjNaam9wZDA?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-18T11:40:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin",
+    "Circle"
+   ]
+  },
+  {
+   "title": "XRP ETFs Keep Pulling In Cash While Bitcoin and Ethereum Funds Bleed",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUp4Y1p1MEtwY2xMdDlPS0xWQzZpQjdrdm9KcHk3UmRQdzRpT0ZLa1JwZXk3NUNXMGhsQUowU2ZBbl9XLV9fb3JUMlNQdGxfelVpQjdLYVpSb3dCS3R1eDhHNmt2ZGoyUTZaQmhMZElON3ZCTVBhV181Y1Z6SUZJQ1RzVHNRVEk5b1lITnVUQ1BLQ0djbU5FR19YRkM?oc=5",
+   "source": "Startup Fortune",
+   "type": "news",
+   "published": "2026-10-18T11:32:28+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Indonesia Stocks Log Worst Day Since 1998 on MSCI Downgrade Warning",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmY4bFlVY09zSkdQc0ItXzJqT2pmcFBSUkpwVVd6aUNuTU1waDNUcHY3UHJfYkRNby1kOTBPWHdEcklJLXlHVWpfMThubmtmU3JGZjNPWFdjNHJXZ29vVzJ6Z2tienRzc2d6V3pyVFNGQzdFZVphWTRNazZiRVRMeWpoSTE5ZEJ1aVRRUTZ6eC1XSE1scE9RNUx6MnhMbUxHRTc4ek9hOWlqTldkRlpxTzcxYjJQQQ?oc=5",
+   "source": "WSJ",
+   "type": "news",
+   "published": "2026-10-18T11:18:42+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "MSCI"
+   ]
+  },
+  {
+   "title": "Find Free AI Video and Image Generators for Bitcoin Casino",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQckZVWXdSYV8tcHJURFlhQ3pFY2JEZnVzLTJJVnF0VV9CNkdSSWZsaThDbU1XTUp2QmJHVWhuRlU2aGcyVTV2YUVhSUV0TTJXREZ3S3VWQ21PdGU5QVlRSDYySC00R0lJRmNCQjFMbS00YjEzU3MxUVJlMWFrYTJvTkNzaERvXzBVbkozMXpCQnZpREo2Ykx6N2xLOXJHVWhDd1pNOEM5MFNyTHZCODBZMkNobmYwUWFLTjZXSjVnQ1JMMXhyZEd3dURXTG1Td0Zfc2d6cGotRElaT2hFak1vdGlCWGUwM1R4OThoNlBqb0VCRnFhcGpTMHV2MTZvZE1mejhrUHY5b3hPMUE4aURUNQ?oc=5",
+   "source": "Universidad de C\u00f3rdoba (UCO)",
+   "type": "news",
+   "published": "2026-10-18T11:16:13+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ethereum ETFs Lose $320 Million In A Week As Bitcoin Outflows Slow",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGFiclhHNFQ2WjNLR0RNek9hZ0NTdkxqMVFwNHN4MVYxNVRmVzhSZWNiaGF5VHBXMTl1ak9jZnZEbGlIM1FZZWg1bUE3NXgyamxNaE5QNk9wdW1LQW9xUXQ4U2VSZmRwUzNpbTlxRmJYbFU4aVVhRHhwdzZlT3diUGphdlJpMEJScFY4Xy1IVXNFcVRyVHdmTE5LaHdnWktJbTZtbmwtdl82M0twZUYwTjBKUWFjRXVWWlQ2RXV0WDA?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-18T11:00:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "New study warns AI could change money forever, Michael Saylor has a Bitcoin answer",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlY1TU4zZTZfVmNkQmRWc2FhaHFpYm5wVzVwekJQTFY1bmJKSmNJOVk4Y25PVHk5OEVwUF9qZWZLTlFFaHpQQTJCUmtKVEh1R3hiLWNCQnhibzVFQndERC1HOTRuS3FzS3h6SWcyMW1hZldnTWpiWHEwd0MxbkFTcGMxNWh5M3BuYmpYSlpCSHBxc3dGc3ZEcHJMeVdOOVNja3dJRUlfWVQzbjZ5MEsxTmVBa3hMUWhNYmVBalJ0NA?oc=5",
+   "source": "www.thestreet.com",
+   "type": "news",
+   "published": "2026-10-18T11:00:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Deutsche Bank upgrades JC Decaux stock to Buy with EUR 30 target",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2ZQeW03RE5yZnBjbVFLOTllajYwN1l3UExKdEVkMThrdzNfaGhyWDNEeUNNelVaNmNTeHRiZG1zd2JpVk5EdUlzNm1zb1ZncjBBM2N0d3ZBY1RkZ0VBRDUwZ05kSmVpT3dUam9CMWxoaUVBLTRpOFE4Z0dqTkRmdDRmNFdiZG1OWGtsdUgxWHo4eEs5TVRfMWh5YnI3cUJVVTY5NENKZnV6ZGZUVngwOXB4enV1MkI2MTlCek9qOUY?oc=5",
+   "source": "ad-hoc-news.de",
+   "type": "news",
+   "published": "2026-10-18T10:48:21+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Deutsche Bank"
+   ]
+  },
+  {
+   "title": "Justin Sun reveals 80%\u201390% Ethereum sale at $3,600\u2013$4,000, pivots to Nvidia and Nasdaq-100",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kb0JKWmZnaVVwZk5Hbk92TU9jRnJRY0RBM1h0WnZCbjlOX28xaWhaWHkxamxNZGNkME9aYUh4WUV5eG9iQTlpekhWa194Z0JNUWtQVFJENTBfUHdfS3I5OXB3MNIBY0FVX3lxTE9kb0JKWmZnaVVwZk5Hbk92TU9jRnJRY0RBM1h0WnZCbjlOX28xaWhaWHkxamxNZGNkME9aYUh4WUV5eG9iQTlpekhWa194Z0JNUWtQVFJENTBfUHdfS3I5OXB3MA?oc=5",
+   "source": "Bitget",
+   "type": "news",
+   "published": "2026-10-18T10:47:32+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Cardano Stablecoin Offers 50% APR. What's the Catch?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42YmlwN1h0LTdXSkMtVTNkb2xsVWhraXFYa1o0MTA4b0wwN1NnbUdlOEFVQ1lYeDktWmZ5Q0Y5Nm1yalhCT29yZkN5SDFtN0Z0RVRCYXFSdEdqczRUOW9CSzRWbnZSQlcyV2pZWENKRWpyWHVxcXhWQmtYcW9UWjQ?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-10-18T10:29:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "As Bitcoin Matures, Altcoins Face a Reckoning. Here's Which Ones Have a Real Use.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3d0QURZNVZWNXR3VEY4LU5qdDZXZVQtZC1vQkp3dWlpN3Axd3RqZC1aS2pteFF1U05obmRad21UYnQ3YUlxS0hfbGZ4S3hIRFJSazZMWC1sMngzUkgxV244YkFqWm9ucU9YaUtxVUZ6WkVRVF9YU3RoSU1scllER19TdXZtTVJIQkJsOWJINWJkbDBiUHNKRA?oc=5",
+   "source": "The Motley Fool",
+   "type": "news",
+   "published": "2026-10-18T10:25:08+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Analysts Are More Bullish Now Than at the Start of the 2023 Bull Market: CryptoQuant",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY3kxVWt1TUFfd1JGc2p0ZldJYzJsV1JjWGlXS3lqdjQ3cjd4bWluazU5RU5fOUNPMWd4QjhNVEdkX3J5bmo4RGdOMzNkQnlOOUo5cm5KNzExdzNZUFJLa3dlZlpWa3BuZDlkX2NMTTdETzlnRHpIRlZXamFiVTNrWFFrVkh1VDdlbzV4WmhQUWFocEdCaWhnRzdKMUtNMnNRZ0NtZTZqdnlWQVJuRlpieGJYa2tsSXp5WXBQYnktcUpmZmxEaDFyOA?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-18T10:14:54+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ethereum Prepares Glamsterdam Upgrade Ahead of Its Launch on Hoodi Network",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3FvcGdsV1EzUlJIY0FoQm5KY2ZHaU9BSW10R09rSzlUaGFObDF0dHRCSDhiWU1qOVBQM0lVUDhZM0NwZVl2LXh2VVJYb2hDMkItcElRTlRaRDcxaDkzT2k5QVRwVWFUU2NRQ3F3TEc1b2EybGF5WjBDSEptUnJfYW5Zdmc4TmdrYWtPWFUtRzBOXzJYeXVJeHBzVGNZSGhNWlE?oc=5",
+   "source": "Incrypted",
+   "type": "news",
+   "published": "2026-10-18T10:12:58+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Crypto Analysis: Market Caution Extends Even to Bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGo2c0VsMnhpQ3UtSXdiM08tbnRVajlVSGpMNkdKWmZsYy0wWGZiSmVObXl2dkp2MUcyQlIzTHlzcXdLckVvcm9oWWZPWjFvT0plSTJUbU1nN00zVUREMUxRcHkyM0hfdVZkN1dnNzZsRExselNzd0phVHlsTjVNUlJHdzJLcnVxSGlYaTJBbElIWC01YWpsNDEtN2FYeTNNRVNTanltczZPVFVUamxB0gGvAUFVX3lxTE10ajZzRWwyeGlDdS1Jd2IzTy1udFVqOVVIakw2R0paZmxjLTBYZmJKZU5teXZ2SnYxRzJCUjNMeXNxd0tyRW9yb2hZZk9aMW9PSmVJMlRtTWc3TTNVREQxTFFweTIzSF91VmQ3V2c3NmxETGx6U3N3SmFUeWxONU1SUkd3MktydXFIaVhpMkFsSUhYLTVhamw0MS03YVh5M01FU1NqeW1zNk9UVVRqbEE?oc=5",
+   "source": "FOREX.com",
+   "type": "news",
+   "published": "2026-10-18T10:09:23+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "El Salvador's Bitcoin reserve tops 7,800 coins despite IMF limits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSEFzQm1QMkUzcG5UQTlwU005YXZYR3lwR3BtV1RTX0JuQV9vUEJYOGh0ODd2TzBlazVZTDdPQTN4aHJjOFdCNXlrTEI0OG9teHhZaFlJNzZVSjRobloyUTJHc2llQlBlbmZPbVZhaDZ6MXZmWHJnZHVJUGswZWhxZ2tiWVVRLV9UUEY1UGxTVkFxVlZneVo5djBiNHBVYmFVR2l6OUJsVVphRGRnMUdtM0tPbExkdzhLVU5FSERCOEdmSUJjWmo0R01B?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-18T10:08:44+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "CRCL Leads Crypto Stocks Lower After Morgan Stanley Downgrade Adds To Bitcoin, CLARITY Act Pressure",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0VnRVFoRHlDYnFBam9JQzVOd09aY2ZDQmFLM1ZqVHBUcm9SaU1DcFdJb1ZnT19JWDRLSDUtMUdCRURDczNXa0NHa2t0dHJkcU5QUGxiVXYyeHQ5dm9kNjA3Z0EzU3g3cjI2dS1xeWllMGRTcmZqTS12RTdVcThpUXVLVklXaEVkRU1nSUVteWdBSnJKTHI3RG9MXzM5OVFYWThQa2Vxb1RRME1BbHZmM09IekZTS25xaTFQTHJXTUZmdmc?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-18T10:02:31+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "SLS Stock Jumps Premarket: CEO Says GPS AML Data Has \u2018Very Good Chance\u2019 To Beat Earlier Survival Outcomes",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdWdUTGlHV1d4azVKbUhkX2JCSHl0QXFmY2F1Q2RfQ3BsaVlTOTU4NVRwUVE0UlZsYXBNVEtkR3pOMGk0SmNqYy1VdnBSV0w3bHlTYk54N3BQRVREMnh2bWZiSHpNSDZfdXlIWXNlZUdUeHFPTVFUd3ZEWHR0aUNFNmV6bkM4emZmbGZlZ3NvNU1FR3FSS1E3aEt6VjZsOHBrWk45ZzA0RlR1aWRoYVpyRENPNmRieEloZDJjOHF5a0tnQVE?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-18T09:56:33+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
+   ]
+  },
+  {
+   "title": "Tokenized Gold Trading Tops $126B as Wintermute Enters Market",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOW1aVkI4eV8xSXAyN1Q5SVhNOHdyX2NseGdJWXNKQTVMNHJ0T1p2X2tuN2xad0RVV1k0LVBUbVRoREJkUWNOQ09WY0xlblRCWVpaSGdsazF1Y2JpSXRNaUNUUmtqNkt4RHFZemUxVjdsY3pVT3lXQVpyZUdPUU1hdHU0bFV5MkZTX042NTRkUWFYR1RIZjdwNUkwQ09wQ25JNGhaN0FyT3hVUmY1?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-18T09:36:20+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Ethereum ETFs Just Logged Their Best Inflow Streak as a Top Bank Doubles Its Price Call",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3BkanZCV2lLY2pmNXRjRmx2aHlEVDdqaEdzRm1sc0k0V2E1dktzdG93VDVKVk5zRkpTVzk2R0R4Nzc5aEFlczhPcGk0d1ItT2ZhYWZ3U2c2OUZkTFZTSEh2V1BSTUhYcUExcmlMalkzVkZYZy1rMS1lXzlBMkJSY1NKaFlHSU9LYXI5TmktSWNHMjBvWThpbmNsN0RzNE1KZTRBM0VMTWhsb2JXb3FoMkFmYW8wQQ?oc=5",
+   "source": "Startup Fortune",
+   "type": "news",
+   "published": "2026-10-18T09:33:15+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Stablecoin depeg: will the 1.00 euro peg hold?",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tdm43aXBKc2dMVUNMMjFRc285RmxEb0pMYU9xMlZwa1FfV3VMaUs2ck9rMWZ2UjNHWHZxdFB3TVk2bjZKYTQ3SUZGMlZjZG1xTGxhVm5tdXp2RkxjaWpqTzljNlU?oc=5",
+   "source": "CryptoTicker",
+   "type": "news",
+   "published": "2026-10-18T09:27:18+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Mastercard Just Wired Stablecoin Cards Into 130 Countries \u2014 73 Days After the BVNK Close",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSS1tSEZUVG5zMmx1NEFlWFdnMWZJRERwN21ZOVA0cXBXaEhfQm9XXzJmdUZGT25fSE9uSW1UYkl2YVc3bG13N2tZSk9LN3c2VDhjVS1JWUd1OFVvS2cyRHUyNW1hNDV2ZUxOTVV1YmNNa24zdzdwd0E3UlRDTXdhM2VIV1lsTnczcnU2OEVjMjhBZjVuYkVvODBMeFRrMXkxLWhCRUE4YnR5Y0FQ?oc=5",
+   "source": "Forkast News",
+   "type": "news",
+   "published": "2026-10-18T09:24:05+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Ethereum staking yield slips below the ECB rate",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIeUVBZG5obFgtUnl0Z2dSYThYMzFCLXVwLWJpU1F3Znktbm5GZ2RyRW15ODFWdmtUVnR2bFYxbjV4UXRzV2IzOVlPU2JXdmpRUy1INEROenlnQ09UdTJvY21iTXQweV9KdS11RmdrLVc2cW8?oc=5",
+   "source": "CryptoTicker",
+   "type": "news",
+   "published": "2026-10-18T09:16:47+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Coinbase Stock In Focus As Stablecoin Card Partnership Expands Payments Reach",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUTlzV1dJYWczckxnUUxEVVcwUTFfcGxIbnJCRTFLaEZINEJSUGdZa1JFajZuQzJIRGs3eVVQYWNtdy1aMTVJR3dIY3JkenY3ZzRzOVA0V3Jxc2owd1VjM0NwVlRkUmFaT3diLTZ2V1NMV0w0aGNtQ0NpbmdVUmM5YlhzLVhnMDNFUk91UUZUYV9MZnZKUDFXdklpSlBBbGlqUUZN?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-18T09:12:46+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin",
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "Bitcoin and $STRC: Saylor\u2019s Insights from ParaFi Investor Day",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsMDlOTUZLd0xYRWU2RmY3SmRiZmRJWkEyQXJDVEpSVWhVMTMzY21uNVFpeVNaeXhZN2RpQm8zX3JXOGlKQlBhZWtqcnRLcmNMaF9seHJOelY?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-18T09:06:16+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Coinbase Stock Is Down 5.8% What's Changed After Stablecoin Card Deal",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0pPTzlBWElseVZpMVN1RGVqcDFqWnpINXM3WG9fYXRoQlNyYnVMSEs2ckNWWG9UVUU0N1Npb1Q0ejIzdVZwcHhYVTZ5VUlpMWZuSUlnOG9YUlMtTkMydGFGbEQxM3pGMURZdk45blpMWDY4TEhxV0FraWdpMzJnbzZTLXZKdFVkYnBUejNoQzlCOXA5WF8zekU2R29UdXA1aHhCa3dCWHo2NXVVR3gtR1hRUkRjaFdjaEh6YjZJUTU5a1JpMlBCRGtKTDBqNFdZMnY0MUVTRWNla28xQ3RubnI2OG5leHfSAecBQVVfeXFMUG9KT085QVhJbHlWaTFTdURlanAxalp6SDVzN1hvX2F0aEJTcmJ1TEhLNnJDVlhvVFVFNDdTaW9UNHoyM3VWcHB4WFU2eVVJaTFmbklJZzhvWFJTLU5DMnRhRmxEMTN6RjFEWXZOOW5aTFg2OExIcVdBa2lnaTMyZ282Uy12SnRVZGJwVHozaEM5QjlwOVhfM3pFNkdvVHVwNWh4Qmt3Qlh6NjV1VUd4LUdYUVJEY2hXY2hIemI2SVE1OWtSaTJQQkRrSkwwajRXWTJ2NDFFU0VjZWtvMUN0bm5yNjhuZXh3?oc=5",
+   "source": "Simply Wall Street",
+   "type": "news",
+   "published": "2026-10-18T08:58:54+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin",
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "Justin Sun sells most Ethereum, shifts funds in...",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbm1BdkNBV0hscVNCVnVFbkYwOXJCcUlVcGZqWVZYQjFuZjhZLVZ5RjBjdkVkZkhWNU9zcGtNdW1iUjZtQV9LX3pieWsxTkRtN09pNUY2VTFOVTBFclh0cVVoc253TGVqUnh4eWtXZHZvVFkyeDhidkxfbTM1ZUxOYQ?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-18T08:54:03+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin Steadies Near $82K as Warsh Sidesteps Rate Hike Talk",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uS2hNM2RDOTYwUmFJVHRWck5pUHlHSFVXWmN3OW9ZNmJlM2pPMklGbzJFM3p4TEpycEhZUXZneEpnZU1QS204UjFhT1FkSTFsSzNIVlZ1UWwtejl4VkpEcDhRSGI?oc=5",
+   "source": "Bitbo",
+   "type": "news",
+   "published": "2026-10-18T08:50:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Uniswap (UNI) Falls 0.60% in Oct. 18 Trading Snapshot",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83REl3SU81VzJvMjN0LTB1a05yVmNEMmI2TGluTjh0amlGdWFPVXp1ZExfLVZxdGo3T18weElOZUZCODlXN0F4UXFOeWtVaWRjb1VSV2xfUXlxdw?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-10-18T08:45:24+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "MARA Stock Surges Despite Deep Quarterly Loss \u2013 \u2018No Longer Simply A Bitcoin Miner\u2019 Says CEO",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3FrY0dIdDBYNUtlaFZOLWt5eTI2a3ZiakR5WnBjT1hUU2JnejRKVGJGWGNKX1JFZ0hXXzhaTFljSGtrT1czYXVPdHpva2VZVXI2OW1MeVljdC1UMGoxS1Y4Q2o0YkJSMzlXM2U1SzA1c181RzlSSHF4S2xHY2tTMmRfLTN2MURIQ1o2Q2huS3FVNkdDejMtNVVFNEJwWFc3al92Q3A2ZmpBUmFJMXBETkRuSDlMOHVU?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-18T08:31:40+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin",
+    "CEO"
+   ]
+  },
+  {
+   "title": "Bitcoin\u2019s Recovery Challenge: Three October Charts Reveal Shifting Supply and Demand",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbm4xYnhpUXNQdDg3Y3FnTTEwMEZCTWdRZ0lrUWFrQkFsa0JuWlNQUDQ4R2VZVVJpSEtGTGhfQndHNHFCR0RrMWpEdDZrdFRmQmE2dERzZGM4cXFGcWlUTlZocThkZmh2cVZzY2tNeFZydnlYNkE?oc=5",
+   "source": "CryptoQuant",
+   "type": "news",
+   "published": "2026-10-18T08:16:35+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "BTC, ETH, XRP Recover From a Flash Crash as More Volatility Looms: Weekend Watch",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlBEb0dKVlE5aHFwVnY5SExCUGtyc0t3ek5VRG1aczc3MlBNODg3aXRDQWFlWmJ0MDFUcHI1TUJqcFJEOGk0OGp6VUM4VkVVcHFnTk9QRHlsdVJxOUtYN1RmZ19KMzJLV3I3UmROTndFTlV2ZGJUR3NwQ3lqQUtyaFlWb1ZEV1U1S09fNTlLbngyQXN2SllwdktVeGppWTl6a293cTlNcHdaVjUwMTczc3FycGY1Zw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-18T08:03:16+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "CLARITY Act Stablecoin Yield Draft Delayed, Idle Balance Ban Intact",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbks3ZnduSVFwS0ZQNXFPNnFfdHFYX1RnT1R6VWVwUU1MZjV6QmMydktxUk5haFVpUF9zVGRaY3MtWkt5WU50U0pUdHdLenctNlQyY2ExYUxTOWtMN0o0OUk4X0xrdUZYQUxfVEU3M2s4VkMtLTQybWNWRDNxX1FiZ1JoWDlBaUt1cHdrZW5NSFlnNEJVR1lwUzhKQWNmM3J0RzgwZC1uNHVOcEFY?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-18T07:59:43+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Stablecoin Market Holds Near $303 Billion as Payment Estimates Trail Transfers",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lSzNtcTJjTlBpS2loNktuRlRacllBTDhSamgwZVNxblRpdjJlNHhYdFNEYWxxaUMzdjhZY2R6YURHeWlrSXJKQUJHdEdvWEVaalVrS1hqSF9fdw?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-10-18T07:50:39+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Anthropic, OpenAI Said To Be Racing For Public Markets: Reports Of Pre-IPO Moves Tell Very Different Stories",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWFF6U0JJTjk2NFlQcXFHT3NqSFdlcnRaOXRVNnBtNkdMOU13S2NvVUtlX0E0ZFdjSXBncnRwbXEzRWd6cjZoQVp1cnFPSDVqX3BtRV9jaE8xV3g2T0ZpUXBNd21qTGRDMHJGQmNmUXYwd0E1a3JFdjVDdUlXSEpDdXlmWE1KdHVaUlpzb2hYaC12OHJvSkw0OGpva1I3V3VvWVRxc19ZcldYTmZRU1JPcVVzRXVSZDctclV6TFlXNi1MYWNNNUo3MnVFbUZlY0pmb2RpWVVnT05Kcl9TcHpxazA0TTZRbUtPSUZhSXVrLUNFaWpwUXpUajRZZzhaVWt5?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-18T07:50:22+00:00",
+   "first_seen": "2026-10-17T06:00:23.604531+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Saylor Says Possible MSCI Removal of MSTR Would Have Limited Impact",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QTVpaSkRiM2MtUmctOWdkS1VScGJZZ0lEUjBXeXVybU9QUzZKZzdjYVBHVmJLdkFrbW82UVJBMFk1YjV6MnhKV2ZoajJGLVZpMDVGYTVvbmo?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-10-18T07:47:56+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "MSCI"
+   ]
+  },
+  {
+   "title": "Ledger CEO and Former Mt. Gox Boss Clash Over $90M Wallet Scandal",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBndWNEOGRZNk1WTUhId1VQQzl4cUx2ekliMTdfQzFiZnVlVjBiU3RJb1BDdUpIUWUzR1J5V1ZpSmtjRUFXOFl0b2RYSU9aYW9fVFhEUTBLUDdpTVJjNHBjSE9XQ3B0NHpuOHlnMnlR?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-10-18T07:39:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
+   ]
+  },
+  {
+   "title": "Indonesia Steps Up Market Reforms Amid MSCI Reclassification",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzJqRUxGVlo1WVY2TUlpdHNab0l2N3lOY1ZEazFWRDRtaXFmVW1RcERnQzdYV2V2RGYySlVHY0FxZW5OQ2dsalJCX0pDNkVJSmM4T3U2cjB3WE1xbUhSbERjRmpsVlZ3ZTdLVTVSdVRrd1NNM1lmZ2dqZ0hTR1JWTkV5R3JGT3E4ZkxwQXNsUjFPalplVUlTcEh4aW5HOTg5V3hXc0dra1YxVHhGcnR3YVRxRmo?oc=5",
+   "source": "RRI.co.id",
+   "type": "news",
+   "published": "2026-10-18T07:36:56+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "MSCI"
+   ]
+  },
+  {
+   "title": "OpenAI admits its GPT-5.6 Sol agent stole crypto to finish a coding task",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0E0M1JjNGJpeGJKLWFFSS1hcHI5MjN3QXdncTBOc1JQMXNrYmJPTFUzaHpuQW0zdkYydzN3cEZFNThmQjNLMy0wRXRUYjdPRzJGTWUxSFdvWXU2akxFUmhZbXYxT2IySjRpc0wxenV0RjRRUlpPTjY4Wmcta2k2bkNmM2drN1NEQkg5djdNRmxUQmNTYnFwU2lRMUFYT3F2?oc=5",
+   "source": "Startup Fortune",
+   "type": "news",
+   "published": "2026-10-18T07:29:55+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Investors Withdrew over $548 Million from Bitcoin and Ethereum ETFs in Week",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTlzcFcyVWQ3NUN2ZXpSZ3VvXzlUZS1fa3BRRXlOLWpDek1ZSExZemtnQlI0Tkd4WHI2NGM1UlhSUkkxak9CSXJTWUtQci1aQmNWc2ZndXEwMllVeDZSTnFVVFo3UFExZ1oxUVFxdUJPUy1DUWctakxNWXpFeXRDRndRZ0FyMXREdm1MSVppTnVJU3g4aVd3amVlcFI3Y3FVNXc?oc=5",
+   "source": "Incrypted",
+   "type": "news",
+   "published": "2026-10-18T07:17:12+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Mastercard and BVNK Launch a Global Platform Blending Cash and Stablecoins",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWG9MaDl2cFVvTkw1bXAycUFNdkctWU1RR0tZRUJadmxST1IzdG9jVmVtay1tekx0dGR1eWx1VnBSQ0ZRVWNFWU8tclJJRFk1cUd4RHM5czNZaXFPdjVKMHlYMWlKVzhsV2pVMG9IWU90N2Fib0VVZ2xXdWctZ2xqNE12QVo1ZkxxVGgwWkpGRTI0b19lRHhucms0dVdqanl3MmJMdQ?oc=5",
+   "source": "Startup Fortune",
+   "type": "news",
+   "published": "2026-10-18T06:52:41+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEVpQVBiUHNsalFlQjQwNmY5ZTFVS1Z3d0RfVTdQN09kX3MyVHk0dm5lZkdHaGZWdmgtalF0MWs4YlZWRktMZU04bWNkQ0ZoYU5BRHdob2NyS1l3eWJqQnNURGRORDF3dEJvdUlBU0NiZ3hIUXREWWFqRm12M0xJRU9Demw1a3hTV3ZXVkhOekNfZlhZSVdmQzZXTjNEWV9fUFp0X3pNSmM0aWY3bDRudFJzai1tVlpLS29PRFAteE01QV9y?oc=5",
+   "source": "Investing.com",
+   "type": "news",
+   "published": "2026-10-18T06:40:51+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+   "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-18T06:26:53+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "OpenAI on the Eve of IPO: 600 Employees Cash Out $6.6 Billion as Valuation Soars 70% in a Year",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zeVE1U2RXUV9iREM3WXUwVmJNRFgzMl9SVFBhd2pYeW91bDZMcXkzanpmLUtrTXRsckZia3FCaUx5SHctb1BBT01hOWgxRm42b1ZGcENYY3pJLTdKWjdCZU5oazRIWlV2dENBSlZQXzVBSWNvanc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-10-18T06:25:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
   {
    "title": "Circle Internet Group, Inc. (CRCL) - What Are Investment Firms Thinking About This Stock?",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNckxocGQ1T2pWSmQtd1dGRGU4ak9BSld4XzM2R2JkdUpQeDJISWwxcGJSWWYyUDRBMXJndVdCUWlRSlQybnZUZFpwS2tpSkJNSDdjenE5ODhNak5TT0Z0cUNtaEk1RUItXzI2RUp2Mko0RjZXY3VKckhXd2RNT0VpbFRnd0tVNk9kaExJcHE5VVRObXVyaWFGRWFoQXF5Tkhud2NrZDBZRk1lbWdVX0x1N3U3d05yYzFUcDlHWmdiWW9neUtKQm1jRmlxMFIzR09FSHNvUmZILU5MZ2NyZFpF?oc=5",
@@ -161,6 +666,17 @@
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
     "Circle"
+   ]
+  },
+  {
+   "title": "\u201cBitcoin is a limited supply of nothing\u201d: John Paulson warns of AI bubble and French debt crisis",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkRWltN2VLaG4ybURqYVBXSFlpYzlpOXQxdnVjSEpnTV96ZC1tVHVUd29USnh0QndITFBpOTgzcjEtRHFuSFFFSk9tSUhHdjVKaWhwT0QxbXlMX0E3LTJXUXJicGNpWVk?oc=5",
+   "source": "CTech",
+   "type": "news",
+   "published": "2026-10-18T06:22:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin"
    ]
   },
   {
@@ -175,6 +691,17 @@
    ]
   },
   {
+   "title": "Ethereum Price Prediction: Bitmine Adds 12,532 ETH as Remittix\u2019s $0.28 Entry Faces a November Launch Countdown",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZGJjSmtEaDRBM0JWdVgzT05Ra1M1SWxsa284RFcxV3Y4N0FRUms2eTdLeG5IbDVQd3g0Z3FpV1hLMlgxUFFqNUJWNEE3V2dURTByMUE0ZV96Ymh6SUhlQjJ2U2l2dzFrVnFuSk45WkpDMzBQYnk4ZTJrSWg0Q0lyNjFIRlhfaF9QRjBmQlZhc1VYZWNzYVZ3b2pwVFRHNEFUeGZOTHkyWlVnRWNJdlpPd1dCc0xaZ2pqWnRhcS1yNDVQaUtlQ0VwZjJRVUNoMVVjUzlNUHhPaE11OHlfb0NHdmdDSXRhRmJBX3hkZHdvZ1FMZ2JnNzZSbUp1X0dRc3pqcjNmaU91SWJZU0pqTk82elF3?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-10-18T06:11:46+00:00",
+   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
    "title": "Solana Network Transfers Surge 33% in September, Leads Stablecoin Volume",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRkdMY1ZYYlFBMVUySmdwSDhGaVF2aHNzT3pBN3BUeWR0dXRvaWxfY1pabC1CZXVXR0tYR2NEWFBNQzlJNy1HSnVkRk4weUp4WGVPalFoYzNhNE9QRkgxN2c0LWk1SzgwcjZ0SVdwZ2lxRDhBSjhNTThFTEhHT3Y0T3VOYzBMWDlBU055OEJSb0NQNzhxckNCY3ZiTjV4QQ?oc=5",
    "source": "Altcoin Buzz",
@@ -183,6 +710,29 @@
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
     "Stablecoin"
+   ]
+  },
+  {
+   "title": "Ethereum Price Prediction: Deutsche Bank Plans ETH Custody Launch as Pepeto Targets 100x",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTE1RdU9rd1pqX0dadEZkOGVFVlhNSFJFVFY5dlB5ZGhZbUFoU1Y4QjVaZHp1ZGFjNFZ0am1MekdnYnpsNkRLR0x0dG1iYVZ6Y1hyOTc3REo0cXhiRjFCNVUxcXJhZF9BMks2eTVWdVlkYktIM0xobmcwX1NETGl0eHNjT3EtSWwzNXd1NW8xOF9pYkY1eVNLa1ZneUVEaHdRUnpUaERjRDg2S281MjBETFhB?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-10-18T06:05:02+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ethereum",
+    "Deutsche Bank"
+   ]
+  },
+  {
+   "title": "Cryptocurrency News: Bitcoin Trades Near $81,500 After a Volatile Week as Remittix Nears $33 Million Raised",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVmJCQkZzS2F2TWxrcWtDOUFrUmlwZ1A3aEhXU01xOHpIYkltOEJfS0FpXzZHMkk1c2hkOEJkWXh4R0hKT0loZlVJazRsN2ExTU9aUURNNEFqSEdlYkVLdmJQYWt3X3pUVmlvWGNQWlUycnBUX3BpTFhXMjBPVElVeHBpdkR1cVBDWkQ5OS1Qd3NMb2Jxb3U1bE8tUnFZUDctdEg3eTdNR0RrMUpkbXNpdmpfRmtfRlRWbHJjQ0hSZG1mVFRQdUpicDE4UnRDVU1tb2lzNmVEXzd6M09LQXhaWUNRZ0QtVVMyNGRpRjNha0pQT3B4QmdzMTRUWVItTlJhekFISlRB?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-10-18T06:01:23+00:00",
+   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "topics": [
+    "Bitcoin"
    ]
   },
   {
@@ -198,28 +748,6 @@
    ]
   },
   {
-   "title": "Cryptocurrency News: Bitcoin Trades Near $81,500 After a Volatile Week as Remittix Nears $33 Million Raised",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVmJCQkZzS2F2TWxrcWtDOUFrUmlwZ1A3aEhXU01xOHpIYkltOEJfS0FpXzZHMkk1c2hkOEJkWXh4R0hKT0loZlVJazRsN2ExTU9aUURNNEFqSEdlYkVLdmJQYWt3X3pUVmlvWGNQWlUycnBUX3BpTFhXMjBPVElVeHBpdkR1cVBDWkQ5OS1Qd3NMb2Jxb3U1bE8tUnFZUDctdEg3eTdNR0RrMUpkbXNpdmpfRmtfRlRWbHJjQ0hSZG1mVFRQdUpicDE4UnRDVU1tb2lzNmVEXzd6M09LQXhaWUNRZ0QtVVMyNGRpRjNha0pQT3B4QmdzMTRUWVItTlJhekFISlRB?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-18T05:51:44+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ethereum Price Prediction: Bitmine Adds 12,532 ETH as Remittix\u2019s $0.28 Entry Faces a November Launch Countdown",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZGJjSmtEaDRBM0JWdVgzT05Ra1M1SWxsa284RFcxV3Y4N0FRUms2eTdLeG5IbDVQd3g0Z3FpV1hLMlgxUFFqNUJWNEE3V2dURTByMUE0ZV96Ymh6SUhlQjJ2U2l2dzFrVnFuSk45WkpDMzBQYnk4ZTJrSWg0Q0lyNjFIRlhfaF9QRjBmQlZhc1VYZWNzYVZ3b2pwVFRHNEFUeGZOTHkyWlVnRWNJdlpPd1dCc0xaZ2pqWnRhcS1yNDVQaUtlQ0VwZjJRVUNoMVVjUzlNUHhPaE11OHlfb0NHdmdDSXRhRmJBX3hkZHdvZ1FMZ2JnNzZSbUp1X0dRc3pqcjNmaU91SWJZU0pqTk82elF3?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-18T05:51:42+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "133.9M: USDC Transfer to Aave Sparks Traders\u2019 Interest",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpRUgybDdyMUxQQVJyNm1kVGUwOGoycmdmcFdEUVJNN2hiUDNFWUhPSXZiUmN4S2tyTEFhU3NBYnpHNk5Ldzg5ODlibDV0bEpqbGEyRw?oc=5",
    "source": "Cryptonews.net",
@@ -229,17 +757,6 @@
    "topics": [
     "Stablecoin",
     "DEFI"
-   ]
-  },
-  {
-   "title": "BIS study: Banks can slow stablecoin growth by raising depos",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjMGhQQ21nRzhXSHFwOHNYVTdHc0NnM2t6akVqN1YydnhicTRpZFU5U1hJQUEwanlLMENfTWd5UmpENHZnVGZ6dTJaZThnSHZwamwxYkVnSjNvbUpUdklWb2lWV1V3NktfRnN3QlhaZENqcmc?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-18T05:08:16+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -265,15 +782,15 @@
    ]
   },
   {
-   "title": "Circle\u2019s $819M Payout Exposes Stablecoin Payments\u2019 Real Cost",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zOVBObXFTZUlKOXM1TlF5ZkxtLWxYZDgtMm92SUFBY2VsYnFxeU84OERVQVJaWlhNRm9jb1cxdEFuVjJyS0FtVVI3OWFMTW9lU0RkbVRrcE5kclA3eW9NdzRHQ2d6Rk9vVXBKUFhqdGd0bEZWb1k3RjRoQQ?oc=5",
-   "source": "OneSafe",
+   "title": "Strategy Risks MSCI Index Exit as Bitcoin Treasury Model Faces Wall Street Test: BTCPressWire on Corporate BTC",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPem83dUJsdU1PQ0RuMzV4Tk52emV6WlNuT3I4Q01CQm1BdXFXTEdfM1NpanpnYkdNekVCY3ozdF9oSTd0Y1JLelJUNjhXaU1aTDlnMFFFd3V3eU9FbW05Z2ZRcUFONnZWMjVObzhrS2VzQ1MxZG5VOGFqOUxGdldteTAwcXRSVGRabUwzR1I1VzRkczNNcTFYQmExS21uckdmTjVBZmc4bjNFLXR4YTBQcEVDUXl4X3NDanNHakZ2MUJYS0t0Rkl6N0U2ZVNyWks4X1lGYmFzUHphWmY5UmlZTFdGZmtiWE4yZW1DOG1fRkEzbUtOcVJJbUVtc2FlZVg5MEE?oc=5",
+   "source": "StreetInsider",
    "type": "news",
-   "published": "2026-10-18T04:38:26+00:00",
+   "published": "2026-10-18T04:26:45+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
-    "Stablecoin",
-    "Circle"
+    "Bitcoin",
+    "MSCI"
    ]
   },
   {
@@ -289,17 +806,6 @@
    ]
   },
   {
-   "title": "Europe\u2019s Bank Stablecoin to Reshape Stablecoin Payments",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV21FMnhnZU1rLThIVlROWmhfUjFwUndFMVpiQy1ZTjFiZW1LejE1MG5uNGtYMkhlZGZSMmdHY3RrckE3RmRNcHdXUVhXODBkZVJ6Zzl5Z01OZkFMcTBLZ2hieEFnQU1Ndk53Z0tMR1p6VHZmRTR1dkJCRXlDOG9SaQ?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-10-18T04:23:26+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Bitcoin sell orders on Coinbase outpace buy ord...",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVhZazRRTHc0ZlR5aGgzSVdqV09ZVzh2R0tXeDRSYXh6bjByUkdHUHpGSUZMSHRqdE5kcVRjbUVFVkN4Z1hvSWtKN2VZMDVQeGVGMm9EcmZDNzhhUURhUU0wZWtTc3pIUEx0Ty1YWS03S3h3dnZ5SjZFdnRjUk5TSHBHRUlFQTVvLXhvN2o2d29IcDlsZmg0?oc=5",
    "source": "Pluang",
@@ -312,14 +818,26 @@
    ]
   },
   {
-   "title": "Stablecoin Payments Expand to TRON: What It Means",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBybHAzMGFIb25vT0RyQUVFU0J6emNSOENpQUtheXNOUWZMSFI1UU56TjhidzJXZHc4ZUpRckRKTjl2SlByNE8ycU9nYXdrWUVJaXVlV0I2bEQ0SHByb3JST18xdGlTaFRETjhuWk1MRjlLS1ZHV2c?oc=5",
-   "source": "OneSafe",
+   "title": "The real opportunity in RWAs isn\u2019t just tokenizing assets. I",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JSFdJSi04U2xsUzhJbldFcHo3N1ZXS2l2OGR2cGVfeVJOajFqT2pvUzJaQzdDc0NXUGY5XzVrTzdia0VyZmVJRVFXenpDQ2JUOE1kQkxIeVlZdFJUWEVMbENOUS1felpUOUZTTzlCMW9iZw?oc=5",
+   "source": "KuCoin",
    "type": "news",
-   "published": "2026-10-18T04:13:23+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-18T04:20:20+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Stablecoin"
+    "RWA"
+   ]
+  },
+  {
+   "title": "Coinbase Bitcoin Order Book Shows $8.63 Million Sell-Side Lead",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10QjhrSk1OYXhiZVVfMm9zSTBqVUdlS1g3WkEzVDV3U05TMGhrbERzWXY5LU8ta1hpMlRDSVl2N0NkemVsbEFpRHZpLUZGWENpdGxqcmxRYmE1dw?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-10-18T04:14:35+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin",
+    "Coinbase"
    ]
   },
   {
@@ -345,6 +863,17 @@
    ]
   },
   {
+   "title": "Indonesia Stock Market Faces MSCI Exile over Poor Governance",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lQk9pdDZJLTU0aTBmZGJFdjVJZWhFMHRMTVp2dnBiZW41X3AwcktoS2JZTnFqLVNTV2c3UFhNUC1wYV9objkzMEJHUDRBUXlwenU1VDNqdTlLeFJqWUxyOHlyQ1U4VHZDejdZNWxUekk2dw?oc=5",
+   "source": "Asia Sentinel",
+   "type": "news",
+   "published": "2026-10-18T03:45:58+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "MSCI"
+   ]
+  },
+  {
    "title": "Deutsche Bank\u2019s Crypto Custody Move Reshapes Crypto Banking",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3F3YWtaSnFTX00yUW81NEh0QURsLXp1c2dPRVRjWDh3QW41VzB2VTJGOHFpRzNCcEY0MGtyZmRTZXdPN3RDRlM3U2tiUWZZUktWNjhYLWcyS1FkYjRmamY2aDNIcmVPV1dYNFRIMnRXSTdRZi1sZmIxNTllNkE5U0dQRQ?oc=5",
    "source": "OneSafe",
@@ -356,33 +885,11 @@
    ]
   },
   {
-   "title": "Bitcoin Cash: 131 Blocks Instead of 144, Here Is Why",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jTjdTYVYtTUc3SFBlQU43bWJoelBWQTJhenU0OTdOaDRWTmZqU182MUJGLUZxbDZqeVRSX2hVSDBhcVhRRXRlLVVmb0dZVmFYS3JwZWVaQ1lPVXIydFNQbFJnMml0bHgzdTNJVllOS056VEE?oc=5",
-   "source": "CryptoTicker",
-   "type": "news",
-   "published": "2026-10-18T03:33:13+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "French Lower House Passes Amendment to Tax Crypto Gains on Stablecoin Conversions; Senate Review Pending",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GYUYwODlITmt1OEFRWWZCMm1jdTgtUm44X3RucUwzS3RpU1M4cWNTbzVtQjN1OE51OVlCQUxHRmhYVEtNTFBiUEtjQy1MWUx6dVVTbg?oc=5",
    "source": "bloomingbit",
    "type": "news",
    "published": "2026-10-18T03:15:43+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Mastercard\u2019s Stablecoin Payments Move: What It Means",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTUZ5aXI2SHNxSFlKaGpCUzJWMDB5a1EwSGNTU2gwbkJPbWVzUF9GUzBZb0E4c0hQbXVMTkJ5SnBTc2xwbko0VWJjZ0FQWk5pN1kzUlBVTzYxRGpobEpGU1hUWFlyUUo4NFE?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-10-18T03:13:22+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
     "Stablecoin"
@@ -400,14 +907,15 @@
    ]
   },
   {
-   "title": "Polygon\u2019s Coinme Deal Reshapes Stablecoin Payments",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94M2pNUmJMSVo0djVUcTB0d0x5S2IxOVJLd0ZhTkpDWHpQT3UyX0UzOHNLYmJGOGpxc1hZNF9uWWlyRVB4STl0b2pUOTVPMXZFYWNQN0o5cWpzUExjRk9OMG0yU0xfMlBSWC1BQnRacDJEd09NalE?oc=5",
-   "source": "OneSafe",
+   "title": "\ud83d\udea8 Circle Defends USDC Economics as Stablecoin Rivals Offer Bigger Revenue Shares",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85LUJWUmwtYk50ZDg3QmkwZWRKbjQzRXp4TXJaY0pjZUk1SmpZYWR1T3M4MlRtSWJtOTZfOVp5bmVsZjVmYlAtZGZTYklaSWJKNU5ETE55WmN5X09pZFY5djNXb0g?oc=5",
+   "source": "Binance",
    "type": "news",
-   "published": "2026-10-18T02:58:11+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-18T02:56:37+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "Circle"
    ]
   },
   {
@@ -468,6 +976,17 @@
    ]
   },
   {
+   "title": "Key Information You Need to Know About the OpenAI IPO",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODZJLUZGUzIyN2c5R3dVMlFKcDVjbEU5endLV0NMaXBObnI4S0EyYllXbXowbHliSi1JVGhKLTdWeFd4cFFtOGJkNkxUdzZBTE4wWVNlZ0hYNTd3Qms1VHlqd2p3Snpnc01WWlNEREwwWDB6ZUZ2SUJKS3lleFhsc2JTRVlNV0o4aldmUnJhZl9YX3dvUS1lbFVCMzFhTU5QYkk1aQ?oc=5",
+   "source": "TradingKey",
+   "type": "news",
+   "published": "2026-10-18T02:30:59+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
+  {
    "title": "Perp Funding Rates: BTC & ETH on 7 Exchanges",
    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqMmZ0SWZOQThrbHJQZVZIU3RDdDJHQ0dGQ1p3MFZuM3pRSHllV2RRN3RNb083czhfaHhSTGRIOA?oc=5",
    "source": "DeFi Rate",
@@ -482,13 +1001,24 @@
   {
    "title": "Coinbase Bitcoin (BTC) Order Book Shows $7.24 Million Sell-Side Edge",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QQUY3RGt5OHJsVFBQaVJtVFJXMDM5VmYtR2VMcUZ0UDM2dEJvQWJ0OFhRTUlrNlRzaldyWDlhQzN0aDhHdFVSOE01ZFN6Y2RxSWItUGUwQ1VMdw?oc=5",
-   "source": "www.tokenpost.com",
+   "source": "TOKENPOST",
    "type": "news",
    "published": "2026-10-18T02:19:00+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
     "Bitcoin",
     "Coinbase"
+   ]
+  },
+  {
+   "title": "Stablecoin Risk Hits Crypto Banking: What Firms Must Know",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUhVbm9PZ3h6SC1WcFZXVWNLM09sXzRjWUUyOE9hR3Qydnp5OVhndjdPanp5ZTUyNktmSkZQbzNldXRNODdxdmNKYnVFeTRlQlpzNUFPLXZNcS11ZXNRZXZRZnIyT05QeXFfemoxLVhHdmpwREx0YTFIcmtrU3dES0xSZlhWdzlDY1FBeA?oc=5",
+   "source": "OneSafe",
+   "type": "news",
+   "published": "2026-10-18T02:08:10+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Stablecoin"
    ]
   },
   {
@@ -503,15 +1033,14 @@
    ]
   },
   {
-   "title": "Bitcoin Slides 2.4%, Ethereum Drops 4.5% As Crypto Market Ends Week Lower",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUFjc3ZTdjVEak1vRWVDUWVlNFRZbVZhTUt1OXdxdTV6ZldRV2x2eEZsWGx1V016WDlkekpxdXkxSWk5aHI0cmVQMTJNeURlREttNDdkajAwN296OXRvQjRURG8yVG5HWDlsc3FmQ1gxZUJIUEhBTVcwNEdXQUdocy1MSm1wZi1uN05FYnZqQ2hVUTkweHNEQzFnY3JnaFdraHdhWEo5N2ZGdjBVRkFFTDNqbzROQQ?oc=5",
-   "source": "BusinessToday Malaysia",
+   "title": "Deutsche Bank Appoints Vikas Arora as Chief Country Officer and Head of Corporate Bank for the Philippines",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzQ0eEgyR1BlRldiZTkwWkZoZ0NoWWl5RnJROEVlUjV5Wmc0WGlvTTlzVkw3NWlDb2szVGktSUlkN01Kak5HVFJOTHlNcnltcWd0dDdaUVpNdnEwWXJoN1JpYUMyUlRTVjJIbUpRNDBXZ0c0alRpaW1fc28wdlVrVUk2ZVBQaHA4emhTclo1VjVuV015NVVxQlAweEpkQzN3UC1ZWVFPbEQwSEtwQ3hqaGRBNFdpSGk2ajMxVGxxT2tFMUtT?oc=5",
+   "source": "https://hrtoday.in/",
    "type": "news",
-   "published": "2026-10-18T01:50:00+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-18T01:54:24+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Ethereum",
-    "Bitcoin"
+    "Deutsche Bank"
    ]
   },
   {
@@ -538,35 +1067,11 @@
    ]
   },
   {
-   "title": "Strategy Risks MSCI Index Exit as Bitcoin Treasury Model Faces Wall Street Test: BTCPressWire on Corporate BTC",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPem83dUJsdU1PQ0RuMzV4Tk52emV6WlNuT3I4Q01CQm1BdXFXTEdfM1NpanpnYkdNekVCY3ozdF9oSTd0Y1JLelJUNjhXaU1aTDlnMFFFd3V3eU9FbW05Z2ZRcUFONnZWMjVObzhrS2VzQ1MxZG5VOGFqOUxGdldteTAwcXRSVGRabUwzR1I1VzRkczNNcTFYQmExS21uckdmTjVBZmc4bjNFLXR4YTBQcEVDUXl4X3NDanNHakZ2MUJYS0t0Rkl6N0U2ZVNyWks4X1lGYmFzUHphWmY5UmlZTFdGZmtiWE4yZW1DOG1fRkEzbUtOcVJJbUVtc2FlZVg5MEE?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-18T01:21:50+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Bitcoin",
-    "MSCI"
-   ]
-  },
-  {
-   "title": "Coinbase Backs OUSD as Circle Ties $655M in Distribution Costs to Coinbase",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XbUc5U1JfMGdQd1gwSnBmQUpoRTB0MlRzMUJ2NmVoSnc3N1NLdnFiWXdCYVczazJaTmYtOVZ0VnB5R1FKeHVrU1lSbnpiTzVSRzhCTzhYRjU?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-10-18T01:16:00+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Coinbase",
-    "Circle"
-   ]
-  },
-  {
    "title": "Deutsche Bank Enters Crypto Banking\u2014What It Means",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Uc2pycF9uQ3FaSlItZFl5UmwzbkZCNFZXLVhJNmpva0w0aW5nbjBNWlpvSHJldi1UUXRkYm55UTZKMVVlLVVScFExeUw5RnNyWkZzajRQSFpOZE01d3doWEhsTWxvZ2xjSV9SX0pVcmVvbTA?oc=5",
    "source": "OneSafe",
    "type": "news",
-   "published": "2026-10-18T01:14:21+00:00",
+   "published": "2026-10-18T01:23:10+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
     "Deutsche Bank"
@@ -653,14 +1158,36 @@
    ]
   },
   {
-   "title": "TAS on Micro Ether Futures (Jan 2027) Trade Ideas \u2014 CME:TEMF2027",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FY3hFcGdDd1RnaXFjSllFdFYtQU1fbGF5bmZxRlhXcmZVQ3owRTdfQTZQYm5HdnZCM3A3QngzNDZpSC1LcFVtdzNpTzhQT0JsRlQxakNtbmlDS2JNS1VGalVMRXlUUkpBX1E0V05peXcxbHozdE45QUFn?oc=5",
-   "source": "TradingView",
+   "title": "OpenAI Financials Leaked Ahead Of IPO? ChatGPT Maker Said To Have Lost $39B Last Year: Here's How That Compares To Anthropic, SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUU5IcS1zSnYtRUFqY1BvcHpBNWlLMEV3cm9sMmdTNnNtLVRyQ2tyT0dUXzBWNG9CYXNQVW5mMGN0eGc3aXJqRm9oWm5hRzBMLWt1d2d4SXVaQ2Z1aTZWWjlXQkJNeFNzamxkTkkwLUYtN3hROWRqM0hWUFhXZFNVbDBQMmVjM1FRSEtKOXh6YTl0WktrY0Z0SDlmZ3p5dHg5U1Z1V05kdVNCbDJyODhzNVFrdjI0dHd6U0FHNzBGb2w0cnY4SnpLd1dVUERGSXJoeEUwYjUxTFJJODVKRHY5MFc4ZXZKazZSbjZhV3RqX1pWZXNBXzVnOFBLcTFuNmE3S19ES1ZIVE52ekFmLTdkb0JHT3hDTjFCUmlIbWdidUxkUQ?oc=5",
+   "source": "Stocktwits",
    "type": "news",
-   "published": "2026-10-18T00:11:50+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-18T00:21:04+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Ethereum"
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "ASST Stock Slips Overnight As $27 Warrant Deadline Nears \u2014 CEO Teases Strive\u2019s Next Capital-Markets Move",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQjVzZ3JIUWhSRU55djQyeFVnZnBrQVRBTl9Ib3hXczFRZFN4V0U5dEhuWUowLXFXWkwxWU43Qnk0TWFxTHpXVHo1WkpVM3dVYUdJS1p3MmxSNmVKYm9HbzFjY0xoaFZ1eFUyeFhpMm5XTlc1MWVNUkkxYjFNbzZ2R1Z5R0pIRnR0WnAtSEswSnNsWUZGaEd0ZnJzdHBLa0E5RVZjYzRaTVJHdWdzV1pMaUdtbTBwUHdYYnVVdEx2LVhTMDVDLXhJeGVqVmlWLUZOTENGMGNHQndWa1RRaHlncThqRGJyZTIzeUhPVUFNaFU0bXVGRnhxbw?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-18T00:19:52+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
+   ]
+  },
+  {
+   "title": "General Dynamics (GD) Stock May Be 20% Undervalued On CEO Succession News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZTdWSFoyc2hHamhGakx4TDhqeGNQQmJUd216YnlJZ2pzdU5jdGFsWVhVNUx6YnE3U2xOSkhtbVNiUGdmRDUzX0JYcHI2RWdEc21Bb0MyRUh5ZFh0UzJVU1dnaHc0Ykg4R0hkZi1vYlZIaWhOSUR5bGttX2lCbmVJb3RSRmlrZzdySG9YMWJXUHZjdUhTVHhYZ3VR?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-18T00:15:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
    ]
   },
   {
@@ -671,30 +1198,8 @@
    "published": "2026-10-18T00:00:15+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Twenty One Capital, Inc. (Coinbase Tokenized Stock) (XXIC) Price Prediction for 2026 to 2031",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWxlcG9kdXZwMWpzN1BaYWo1RFQxOGkxODdvdjctNThaRm1jVE5CSXVEYm1aUkp2MGFqV3FSQjgzazdnN0xyR1VhVTIzeVdkdGlkU3VWQ1IxbWZEemxTMVVOblFwazJHdFltWEMxMHFYZV83alNXdngtNHg2eC10cHU1RDBqSzYtaXVqMjQteGQ0cVd0?oc=5",
-   "source": "Bybit",
-   "type": "news",
-   "published": "2026-10-17T23:30:38+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
     "RWA",
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Strive Bitcoin Holdings Reach 35,595 BTC As Wall Street Raises Price Target 27%",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGZyRHIwQkcwbHNOeVE3UFEtMTVUUS1aU0ttN0FJUVpEWndXY25SQmZxMlJrVDZVZTZ0SHQ0RUpKMHdzVEtwckdxSGlibzkyaVNxeWRjRUhZcUtONi1rQV9zSXYyZ0NPUnJoSG1yejZVeU5kTXFDbzFZdTVMV1JsZzJrZkZDZi1EdWRPMXF6dEFuc1hESGlDZ0ZPOTR1c3MxVXVkdTJEN0VoTUJ0d3lRazFkT3VnSkJMQ1BWRkVFZURvTTdpeTRQNXB3d25xYXRVN3c?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-17T23:13:00+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Bitcoin"
+    "CEO"
    ]
   },
   {
@@ -712,7 +1217,7 @@
   {
    "title": "Deutsche Bank Nears Crypto Custody Launch for German Companies and Professional Investors",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54WDdJVDVRNU9nZ19OSDduWUM0QXNrbWc1VVU5LS00TTRQVUZodjlCdTFhaDlMSVptbzRQdmQ2QndNaFRzYnJSc2ZRbkd0TVJZNUZqb24tMms?oc=5",
-   "source": "www.tokenpost.com",
+   "source": "TOKENPOST",
    "type": "news",
    "published": "2026-10-17T22:49:40+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
@@ -728,7 +1233,8 @@
    "published": "2026-10-17T22:45:13+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "CEO"
    ]
   },
   {
@@ -774,6 +1280,18 @@
    "topics": [
     "RWA",
     "Ethereum"
+   ]
+  },
+  {
+   "title": "Quantum Computing Inc. Tokenized Stock (Coinbase) Price History and Historical Data",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2tUZHhSMHFTWU8tdDJlSVhvaDNRanBFODZxRllPLUt3S2NobU8tMHBRTzJobGNNMF94UkhtTnZfRFVwOF8ySGdwYTBBOHRoZVJndWpFVnpPamE4azdFVG9MdTNsWlYwajJPbjFTLWRONjBTcnA1ZDAtbU43bUdfX0ZZb3hYbGRWempDTVR5bGFVUm4zSHB1d2toYnpGR05tX3c?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-17T21:56:23+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "RWA",
+    "Coinbase"
    ]
   },
   {
@@ -823,25 +1341,25 @@
    ]
   },
   {
-   "title": "Bitcoin: Large Spot Orders, but Fresh Demand Remains Unconfirmed",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RbU5QLW9MQjN1bEd3cFdIc0FFM0tGVDZ5eGFacEFkYm1MMUtwS1YtOEtHUUtrMW9waXRDZXRNckFhZmljQkpYWWt6MHZ1UlJJMFJGdF8xcDBVbDNtLXR5eEZsVEVDNnBBYjJqMWdTUkVUazI5c1E?oc=5",
-   "source": "CryptoQuant",
+   "title": "Visa Direct Moves Stablecoin Cross-Border Payments to Commercial Production with Inyo Global",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0hjZGxJSER2NDFQRElFRDhVV2hidXhnSzhrRHpJcTJGdzJYTTJpZVh2REw4bXhxbGx4RXB6dDdXOGdUM1p4Rk9RMEZMWDZWMjlRdlJNZWpoZ1l3VzBGem9DVlF5bUU5UmFTYnhCRjBfZzM2Y1hfajRJSkNtaVBMTEIyZHAzXzdVNjltcy1ndFdjOTVMR1BHNjhhVFQ2b0gyeGs4djhCSEZYZld3czIxdVFvRXA?oc=5",
+   "source": "Forkast News",
    "type": "news",
-   "published": "2026-10-17T21:16:31+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-17T21:12:39+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Bitcoin"
+    "Stablecoin"
    ]
   },
   {
-   "title": "Visa Direct Moves Stablecoin Cross-Border Payments to Commercial Production with Inyo Global",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWU1hdEtGczliY0NOLS02bzNnVVNBNFFXTHpDRkZkSjdCaXlsTnBlV1FjRU5JNXFSZk1BRjBOQV9USXYzeGQyU0tmQ3ppTUpDZVhlbGlVNC1WUWplQVI3eDV3UlNvY2F0cEo1c2RUdjZnemhRcGFObDBYZGphMXhQMURVUERwaXoyaVBNWk1ESVpQUmxIbjFTaENHdjFuZjlN?oc=5",
+   "title": "Did CEO Succession Just Shift General Dynamics Stock Investment Narrative?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXFsRTBLUV9Md3N3akZOaDcxalAySjFEMEt0enkwYmtyWFhYbmo5bmR3blllaXpscDcyTXh5U0RLVjluaXFTWldLZWJ4TmVjYTJHMkRqNnU3RF9HNVNNUGZuUzRvNnJkY0lZazlqWEhYem51TTBBck9Kejg5amUzQ3A5T296c1o1b3c3OG9wa010emNhS200MTBn?oc=5",
    "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-17T21:12:39+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-17T21:10:35+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Stablecoin"
+    "CEO"
    ]
   },
   {
@@ -868,17 +1386,6 @@
    ]
   },
   {
-   "title": "TRON moved $2.2 trillion in stablecoins while TRX supply grew for 108 straight days",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlhoaEJyWThrY2FGblQ3Z3VydnFaSUJYelhqWlZTcno0cFltcTZZeGQzWktnZDQ5dzE2Mk5yMEJTSFpUTTRudkN0NWtKbENIZ2VVbnBrYTlHMGNUVUY4Y1dUaTRRaGF0UU5QMVFhdUFDOUFWeWlWTkItLWtQbDhUMnNSeHE?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-10-17T21:00:59+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Ethereum Price Prediction: Marqeta Cards Move to Base as ETH Holds $2,400, and Analysts Eye 100x for Pepeto",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTlQckoySHZyYzc1eTI4LU96UkZ3Tm9Mc1pIUTZNYXBnN3hhU2x6Rk5Bb1hRemNYZ3pEaFlDQkpUalpaNDh4OFJnN0xXYUd6MENQSHFCellLNHNPV01ic2RYaExTRXU5LXNpSGhfR2IxQzNtN0tPRkFEVnI3eFU5T1ZBNlUzc1JGNlctM2Rxdk5LdEhNMlhGQkZyWQ?oc=5",
    "source": "openPR.com",
@@ -888,28 +1395,6 @@
    "topics": [
     "Ethereum",
     "Coinbase"
-   ]
-  },
-  {
-   "title": "French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHNlRURPVjJQMzFkc3gwMGZmMHlBd3lBQjVIMUJvcTFWbU1ld2ZVQ2ZQNzduWEF0SDExQXgzVmNLUmFXc1g1eDlOa3gydXEyWVdZejhsSEhQeGRnTkc4VC1Vb3BpbkktNnhDQ2dOZm1wQ3F1RXRZR3RONklOZWRGbnVqS3hoUEgxWnF2VFczU01wRFh5WW5ONC12N2RlN21VUU05eXA3RHY?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-17T20:50:10+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "OpenAI reveals GPT-5.6 Sol agent stole crypto to finish a coding task",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1hSNlIyZlVrMDlXbkhhN2VoM1l3NkFxOHdHdW9XSklsSE5Vc2M1ZUp5d3ZjUUlrQlY2LTZOSHFUY1otVFJwVllIUnBQX21lWnJhYkNQUFdrTXdwZ0M4NU5JNmctZTRDWmJ4a2RxY0owTmtCVHE5WnJOLUY1Ync0dTh1a21GdThCa2xGQ01ZQzB3U1czMFZCXzN4enI?oc=5",
-   "source": "Startup Fortune",
-   "type": "news",
-   "published": "2026-10-17T20:50:05+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "OpenAI"
    ]
   },
   {
@@ -932,6 +1417,17 @@
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHNlRURPVjJQMzFkc3gwMGZmMHlBd3lBQjVIMUJvcTFWbU1ld2ZVQ2ZQNzduWEF0SDExQXgzVmNLUmFXc1g1eDlOa3gydXEyWVdZejhsSEhQeGRnTkc4VC1Vb3BpbkktNnhDQ2dOZm1wQ3F1RXRZR3RONklOZWRGbnVqS3hoUEgxWnF2VFczU01wRFh5WW5ONC12N2RlN21VUU05eXA3RHY?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-10-17T20:44:46+00:00",
+   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "topics": [
+    "Stablecoin"
    ]
   },
   {
@@ -960,7 +1456,7 @@
   {
    "title": "Tokenized Stocks in DeFi Reach $262.4 Million Across Chains",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50T1ZjMjhLeVBWb1FQT2hLNmNxSklGaXhQNkNONmRWeEFld25UZVFMMGVrWXc0X3R0UlB2NlRKY2dFanV0ZkYyc3BMdUl3cTRpR1RGWjI2bm5sUQ?oc=5",
-   "source": "www.tokenpost.com",
+   "source": "TOKENPOST",
    "type": "news",
    "published": "2026-10-17T20:19:27+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
@@ -981,27 +1477,36 @@
    ]
   },
   {
-   "title": "Hut 8 Corp. (Coinbase Tokenized Stock) (HUTC) Price Prediction for 2026 to 2031",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdkdadml1RExVNl80anM3al9NZkM0ZzBQQW80Sng5V05qRmJXUlRXT0xiQ083UEVhOVh2NWhlNjQzZ3Jja1ZZUWNuZnpxcTRvZW5NRWlIc1ZPbGR4TUhWc1AwSDdvVW5rMDhsSm80OGU2M3phbnpFUi1vZHhQREhGR25TblY?oc=5",
-   "source": "Bybit",
+   "title": "Deutsche Bank keeps EUR 21.00 target for D\u00fcrr stock",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbk5MZ0o4UU05MkRkZmFsSGJxUFl5RDVRNnZEMGRPMDc4Tk9mTDJDYU5XbnVDVUJlbmVlMEctV3lQODl0enVmSEdLTkh1M1BkZ0h1ZnN6LXJTa2ZvSnZETW1tTlFUbzhiRmZCbG9ITUNReC12ZThPd2p5UWhqNmtNRU9sU2FwTnBwSkdWU1p6bnFoV2dQVWNNclJlUjhnMzY4RTFYNDZKZHFHZXhhSWZqZg?oc=5",
+   "source": "ad-hoc-news.de",
    "type": "news",
-   "published": "2026-10-17T20:18:46+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-17T20:09:54+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "RWA",
-    "Coinbase"
+    "Deutsche Bank"
    ]
   },
   {
-   "title": "e.l.f. Beauty, Inc. (Coinbase Tokenized Stock) (ELFC) Price Prediction for 2026 to 2031",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDlyYzJsUjdHNUFkRGtJQVA4b0RkME1VS2c3ZWl0cG51UEI2ekFic21ORFdTYjNXelBiNHdiaE10b3Q2dWV6ZlhSQlVaX3JrQmtaZXpTbktOLThLYzREaVdsc01WUkI2YTZtckF1X2pIeEF4azJkLWs2LV9NbUxmY0lkM2lFenZpUDBEWA?oc=5",
-   "source": "Bybit",
+   "title": "Virtu Trades Ripple Prime Swaps Linked to More Than 100 Markets",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9STVhaM1oxMWRvR1BfWHVJdE93ZFUwVmZJMXNlYXljZ3JrWkxBLU1fYVJtd1hMZ1JLN0FBNkdaYkNkMldGcjJjWExTX1Zza1dpYWNoek1QVFY?oc=5",
+   "source": "TOKENPOST",
    "type": "news",
-   "published": "2026-10-17T20:18:08+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-17T20:08:24+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "RWA",
-    "Coinbase"
+    "Ripple Prime"
+   ]
+  },
+  {
+   "title": "Galaxy's Novogratz Says Palantir CEO Alex Karp Exposed AI's \u2018Human Commoditization\u2019 Problem",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGQzQUNManptaXBHdDZrZnoyN3FOZDZ4eHV1T0ZXUUp2Y2syYzhRSEhTWUk3SUFXQ2dCb2cyOVZxSWlPVUNKUndiOE44a2FiZmMtVWx5dkNfb2tHXzlINUkwM3dKakFSYk8ydmxWZU80UzdJV3pHSWFyWnVidG9UMFpGdVBtTUdUMWdZamtqR3Y2ME1UdHRsU0dhb0ZtRXU1ZUtTSw?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-17T20:03:53+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
    ]
   },
   {
@@ -1023,41 +1528,19 @@
    "published": "2026-10-17T19:46:00+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
+    "CEO",
     "Circle"
    ]
   },
   {
-   "title": "CRWV, NBIS Stocks Climb \u2013 Nvidia\u2019s $250B OpenAI Guarantee Is A \u2018Constructive\u2019 Signal, Says Analyst",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUZQWmFQeUFjSDJCUkRQUlEzLWwyN0hhMWUtRGdNNHNTcVkwUVRHUEpUZXAxUG5zS2YzQ0FERTdtTXM0SnE4NjM1QndheV85a3NZUEFBT3FBVzEzV3RUTG5id3ltZ3hWX1NTdWtQdWkwdmlGckZuTzNiM18tV0dhNzhhUjZUTHoxbUZrQ2RsSDdJUTBlUXViSmNtNjIwaHBWS1lRYzNwMlI4cGFKOFdzN2hnUEdxUk9pWXVVeHhXa1Q?oc=5",
-   "source": "Stocktwits",
+   "title": "Polygon CEO Sees Coinme Deal as Entry to Payments Business Led by Visa, Stripe",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1BOSlVZRHlzZWxaODBfUFh5XzktLTdzMUxNQmxwdFVFVEg4Q3RMRHBnLXZuRk8zU2Q4M3ZFaDVsV1dBelNYdGROWmV3dVhTTHYzVmFYTE1SQ3BlenRLQ0M5US1mblEycTE1Z1dKakVDRTc3V21STC12YnppTG53VEM5U1dpS3BYNmR0SEdoU21ubHpEYzV0dA?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-17T19:33:14+00:00",
-   "first_seen": "2026-10-17T06:00:23.604531+00:00",
+   "published": "2026-10-17T19:29:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "Riot Platforms, IREN, and MARA Drop Further as Bitcoin Miners Wrestle With the AI Headwinds",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTVh0aXpJdUZUOEZqZ3FRVHBWTGNCTktqdFN3OWdrN2xuSkVZa2d0X19zUzV1UlhRWjNmalY2VzJGQWszWFNaT2k1NFFwYl9KOWNVd0FPQW5qODNOS2ZkNEJ4bTEtd3p2UE9McDRGWUdCWUdSNlRVaGNzR0Y5aEFDWWxhYkh2azgzeGRUeU5venFZWmJaUE9NX2NhRkZCOGtXY1Q4RUhBaHltcjlaWC1na19VSXBBSk5MQmtQYzZhbUZ1VUpqSHI4T2l6NnJzZ2wwcDlpVjloVl9YOV9pUjRF?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-17T19:30:27+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Charles Schwab Opens Bitcoin And Ethereum Transfers As Crypto Rollout Expands",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEZIWXBNWFRpbG9meHEyT3VkM3pmSVJSSnpMbVUxR1p2SGNMeXlFZmlwVzV0QWtmTks2Nlc2ZDJLVDR6ZDFNWVZsTGp3LXk0MTFGUVNZbUVXU3VvM21XQ2pvdFBTZzdoNXpyZDc1VUVUZkJPY1ZMeGE1QXl2SlkzM2dTQmtYbVh3VFEyTGZsVkZXUlY4Mm8yYXBZak0zcU5yZF90blBXcVVUTTg?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-17T19:30:04+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
+    "CEO"
    ]
   },
   {
@@ -1107,14 +1590,25 @@
    ]
   },
   {
-   "title": "Visa and Bridge To Expand Stablecoin Cards to 100+ Countries",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1liYUxXbWxYWjBfU1lkdXpWSjRCN0RWOXdyVGhjZklOMGM0WVRhUE9jU3oycDZObkI5eXNUcVBvTFJ5N2xTTm9OTWt5aktIeFJPVWtydXJkTERZNFBBQlFBUTNXNmRoWFFYYnlFN09wc2hnY0t5VTFCVG9hLXJCbjk1b2lLX1F6RmNhVWZFVXhHVnRuTy1Qb3dPT3AwdnpUOEZj?oc=5",
-   "source": "CoinMarketCap",
+   "title": "MSCI Advances Rules That Put Strategy at Risk of $2.8B in Outflows",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd3MxR0Q1MFUwV1BqTWRzUjRCUUNJT0FPbm9zNFk0ZWVTdjd5c3RfbE9IeGtQQWlaVFpzTVFlYnBab2lyOTlQeGxHaWNlamZqYmtkaDRwX0V4UHh4UUpoNnMwYncwS2ZpZnEtMjRiS251RHR2QVpwSjUzaG5jTTZTdkJiSXZLSHJacTNDQXlyNEhqUFBneGhqbVZlQmpyakRRSC14Q3ltWklLWGxybnc?oc=5",
+   "source": "Bitcoin Foundation",
    "type": "news",
-   "published": "2026-10-17T19:10:02+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-17T19:02:56+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Stablecoin"
+    "MSCI"
+   ]
+  },
+  {
+   "title": "Jim Cramer Revealed The Inside Scoop For Starbucks (SBUX) & CEO Brian Niccols",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGczTTU3eWNMbjRFM0tYNTRVT3o3RTNaTm91VklsLS1hMGlUeTNlaFFDOXRIcUdmY2NfdTlJN3ZqU09NdlI3aFd4OWwzcWp5dkVpRFRFcE11SVRrUXBXdjBHWVZjNG5oM1J6RlJoR0FtT2FnVHFQdkZiSnBKdG9WT3puaEJCanoyV2J0NGlDcHphaXRONTdJRjdVUTRIQQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-17T18:57:38+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
    ]
   },
   {
@@ -1129,17 +1623,6 @@
    ]
   },
   {
-   "title": "Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2ZxczlrYmtIaVVVWlhGbDZJYk5UNFVCekhQUlBqS01QOEdvX0VOSXpQVVRuMGdHb3lsd0RxZTJPejBNUUFMYmt3anEwMHgzRkRyNHRmUVBrcE00eHd1aFlQanRkbzZOeDg4MnFvbHRESEJsM0RKay1SdWVmQUZtLThwRFo2M1psNzBNQmV6Sm9KQUxEVlF0RQ?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-10-17T18:40:00+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "Strategy Sinks Nearly 10% on MSCI News But Saylor Is Still $5B Up",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05UWt2NmZwX0xVeU50MmlPOFplLTJYQjdQcGFqT3R6U0dnT09SeTVEcmF5SjlNR2dhc0JDQXpRRUFHYnVQaWZLZWdvcldJLU5URVU3U05vN3c?oc=5",
    "source": "Cryptonews.net",
@@ -1151,7 +1634,51 @@
    ]
   },
   {
-   "title": "OpenAI agent used known seed phrases to reach 362 wallets: old test wallets are the weak point",
+   "title": "Pendle Reveals $3T Tokenized RWA Market Potential by 2030",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QSVZRLTFRaXhoNUd1ZG0yWGlxWnBhUTlDY2xjajRQQUVLY0d5MjVLTHNLbGZteGN1YTRBcDQ5b1hYeFhMUHllN1VlNW5FM3JlcmlQaTd2VS0?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-17T18:35:26+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Hamilton Lane appoints co-CEO in dual role",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2WkUtTldKQWRQd2lBcW9rX0piMVIxXzZVN19XUFdRNC1kMFFkNExBMUVSdnoxU3pFOTNuUHJHbkVHaDdMV29xRGo0WHRqdVZNVVFEY0RkNA?oc=5",
+   "source": "Money Management",
+   "type": "news",
+   "published": "2026-10-17T18:34:50+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
+   ]
+  },
+  {
+   "title": "OpenAI models hacked data portals, raided crypto wallet",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTV2Ny1CRUxkVDVDRWRmNHdJYnhUTTg5RXlLVXNwa0tEeHVqSlNCTjEteVRIOEk4WXRLd1ZWMjZMQUJJbHI0TWhuMi1GYkJCXzd4R0FIOTVUVENXUzdIbXJCSktOQ1FhZF95MU54Q0lBX3Y4MklPY215Q25UTlhtR0g2S0hWWDB5cFJyeU1WdzEzRkVUQWVRZDJGdjEtdTRMOVpOM2hB0gGrAUFVX3lxTE5McEZreG4wTGdWbVlzZThTMmxfbXNaN2pjeXRGdDNCMzVuazM1ZXJ3R1IwYVlqWmVLRGluRnBTZk9ONGUtTjNKTGVjaU0wX0R1VnE5aEQ2b3ZFNk5SdkhUTjBlUHowQ1RCOUR1RFpMbHIyU3pkTFdMc1BjN25qRG5lSnZvYXZVc2J6aVY0YzNJTXgtdHd6cFZobVpzeEZXZE9MaDZ5S2laenJvaw?oc=5",
+   "source": "TechGig",
+   "type": "news",
+   "published": "2026-10-17T18:33:44+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang Says US Companies Should 'Absolutely' Use Chinese AI Models Despite Bessent\u2019s Sanctions Warning",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVmpnTkVlbWgtcldrX2h6bXZjVHdKcnhvY25fTXJGYzZ1a1VOZXFpa2lyN29tYTVaVUtvOFBMaEtMdzV6eDJhNXljZ1VxN19keE5PSjliR3U2YnBNNXc3NjVLY0xmVmpTYVpiOXZyVEM1aVVqTE9MTUtmYW9hZ2c4LTA4Qmp4X0tSa1MzRWREb3gwOTVJc2VRNmc3MzY3T04yT0dlbXM2LTlYQXBJTUs0RkRUZVB0bmRPdjFEaml3ekl4YmtzNGk1QVIzZjI2cWcyUmEzMGpENGxPZlpiZEV6S3g4TkEtZC12cDk5R1B0NA?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-17T18:33:28+00:00",
+   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "topics": [
+    "CEO"
+   ]
+  },
+  {
+   "title": "OpenAI agent reached 362 wallets via known phrases",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50VFRka2x5QXA1Yi0wRDlTS1ZIenJXSXJzSF91Z0VZUm0zVVZRZ2NPQkx5aDY3N21Uak1DN0JyVFdNdlluUmx3VGFZN3BHbHlYTFBzeXRybl8yeWRrSF9GS0xneERfa3AwSkl4YzdCMkpFalNiS2ZITEdWbw?oc=5",
    "source": "CryptoTicker",
    "type": "news",
@@ -1173,17 +1700,6 @@
    ]
   },
   {
-   "title": "Solana price prediction: stablecoin base at $15.96bn",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GRmh4RnJTQ3NOWlpXVTFzbDBKenVLM1hzTkpVdXRjbmFXYUthVk9jMWhybjN0V09NVHM1VE93OGppSWpXRlBpTk05RmhCWEl2cF94QzVSMnFWcndVMUw2NDUtQjJXTnFxS0h6RWxRWDdiZkFoSWhFYzZ3?oc=5",
-   "source": "CryptoTicker",
-   "type": "news",
-   "published": "2026-10-17T18:22:07+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Bitget CEO Gracy Chen Says Many Altcoins Are Dead, Warns of 2022-Style Bitcoin Crash",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtVFU5ZTM2MTNONTZQa1NKRzFaSTh1VV9XVW8tdXJKSlNSalpzSUVEbENZeF9MZmswZkp4ajgxUElOS0djLTBkU3c4SjdXdnFqcGVKRDNBaEI5U2pqNjZFak9aVzFjdWdrVXFjV2U4UHdmTm54NXc?oc=5",
    "source": "BigGo Finance",
@@ -1191,7 +1707,19 @@
    "published": "2026-10-17T18:17:00+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
-    "Bitcoin"
+    "Bitcoin",
+    "CEO"
+   ]
+  },
+  {
+   "title": "Bank of America CEO addresses a troubling banking problem",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzdxSERvLTBlWllKc0YzdXduQ1RDaUhZUFI0ZWpOcGJfdjdHa0JSRW5SY3JCUzdWTkJWdWdkOHoyRHRXZG9kOTI5WHRYblhMMlNteWpuNUdBOVZwaHFHYzNEaWZ3bV9TSUR3anpMa3haUExGcjlVaTZaek93THNFaFpvbDVQcVAxUHlaTmR2U1JDNEViY1h1b1FZOFkwSWJWN0UzTFhna2hNcDFZaVNGR0pxY3ZubWxqSkRGbVln?oc=5",
+   "source": "TheStreet",
+   "type": "news",
+   "published": "2026-10-17T18:03:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
    ]
   },
   {
@@ -1203,6 +1731,17 @@
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
     "Coinbase"
+   ]
+  },
+  {
+   "title": "Ripple Prime Expands Into Prime Brokerage for Brevan Howard Funds",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbk9JZE5pSU04UWFHWFJuNnB4bUtmU2IzQVNUdkRWd2MzUWlMYTM4LXNGNEFtbmxtcTFhb3JxOHJGaWNoVVh6Q0ZQQldaZ3hSeEs0RDltYmFWMWl1akJOMFIyaWpXT1d2UFg4blRnZW9odFhpZEwxUVhBVkxpcGhOeExuWFFhUUZsOVY3S3BUdmVReWJPd3V1ekNB?oc=5",
+   "source": "The Fintech Times",
+   "type": "news",
+   "published": "2026-10-17T18:00:49+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Ripple Prime"
    ]
   },
   {
@@ -1252,17 +1791,6 @@
    ]
   },
   {
-   "title": "SPCX Stock Rises Overnight: Harvard Reveals $2.2B SpaceX Stake, Analyst Sees 40% Upside As Grok Takes Aim At Anthropic, OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOExWa1RTcEY4RlgxenVLZkFUTlgydVQ1M0Fwcld6ekt4OUFJM0drTEJYWTRuR1pVU2Q4LVlUREp0Q1FCSUpJUWNFa25nbGdxRG1Zel82QWxiVGlqNC0tV3B5WDFtXzYtTy16SUI0akYzLTFIMmhkVHROTE1sWm9PNkVZel9Gb3JybTIxR0hhOXdaSTl4Q3ZobzBxSGlFSFZ4SnF1Q05tRzc5YlNPSWJtekJ5OTV5QWc0SjJBM0ZTRnZ1MG5y?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-17T17:35:03+00:00",
-   "first_seen": "2026-10-11T16:00:56.543536+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
    "title": "XRP Ledger\u2019s $5.05 Billion RWA Value Is Mostly Represented Assets",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YY2Q3cWRsQ2diOHV3anpSUnNDNTRJLVMzWG9qY3hLbUtpR1lFUlliYmR4SHd1SlhEVFpRcGVuLUtySkgxa1VWSlpILTJVY1NaU3ZXejh4dm5DQQ?oc=5",
    "source": "TOKENPOST",
@@ -1271,6 +1799,18 @@
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
     "RWA"
+   ]
+  },
+  {
+   "title": "MSTR, ASST Stocks Slide With Bitcoin: Strategy Proposes Daily Dividends, Matt Cole Challenges MSCI Rules",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSW5kSEJuYkoyNkI4OVY3cmFUSmwyMDNjRElhN3JZdDFnMTQybWw2S1h6M0NPdnpKanIwMDBDT0hWN1BiT3ZvblRlRXdWOGN3S01ROGl5VGlNem1WZlVnUHBIZHpYbXpLaUYyWXlmZEhJOXF4c1BsU294QXBCbXhQejNFa2F3Ml9TZE0wSnZScHVzM1lDUk1keDFTUnZjQ2ZvWDlRaTh2VlhGeWE2bmtuSndkRmlmTnA2Z3NwVWNkS3h1TlZfdzNqUDBUSW44eTlOSmswZHlVUWJfOS1nSzNXOHo2LW84VERmMVdxUk16X2xjd2lEQjhTWVVuRUVDM3dyTV9J?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-17T17:05:28+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Bitcoin",
+    "MSCI"
    ]
   },
   {
@@ -1308,15 +1848,47 @@
    ]
   },
   {
-   "title": "ETH Co-Founder Vitalik Breaks Down Bitcoin vs AI Compute Cost Structure",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JYlowWHlJazVJVDVMS0FJOWRGNmUwRHZkZzhFWkFSekpFWEtsdHptOHBObVFEU3dUdWRTOWZVb2dTWE9YS1ZDTHRDRTJXRUtnMVZjQ2kzWQ?oc=5",
-   "source": "Cryptonews.net",
+   "title": "Indonesian Stock Market Crash: MSCI Warning Hits Shares And Rupiah",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXYzZkN6RE1la0pWaWh0QlhyOXlHRVF6THN1Z3FjX2trYVVGc2kzM2VCT1lGMEMwNVdRczlicHlueHNFaG1RRVdPR0ZvSFd1c0xtV29sWFd4VzNsMnowbW9UQlU4Mi1xdTJTd3dCSFZOMVRIXzBMM3dRc3JQelFXQmMySmdzVnRNLXpzdFFpV3F4RGhhdjk3cEczaldxNWpUalQwdUdzdEdzOWR5Ym5QUlBvT3lPOWpIZWR3U2Z3VjFGX1k?oc=5",
+   "source": "Exchange Rates UK",
    "type": "news",
-   "published": "2026-10-17T16:40:57+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
+   "published": "2026-10-17T17:00:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Ethereum",
-    "Bitcoin"
+    "MSCI"
+   ]
+  },
+  {
+   "title": "QCOM Stock Set To Roar Into The Week: OpenAI Smartphone Chip Talk Is Lighting The Fuse",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3l1eVNlbWFhNm9FbEhER0MxcTdaSzM2TWxvOWdnTjVNdEFxeVZmTlNGQWd4dExBc3BwSlA2Q2wzUU8yZEZwZmJpN1RKbmcxWVM2b2pQOXlfMDE5bkoxOG5vcVcwS2EzbTlIcW40M0RxSnZUTkc1UWhjdUVIbWE0NFpxdWtCM3hVS0RoejVweXJfTE5yV0NDSmo3a0pNajNNOS1jT1dYN0lQYkdULW9sYk1ubXpHRHBuNWdVaU51cUxORnVBMjI5ZnNhOXM4OHN0WjE3cU1nUnZ4Y2ozeTFLZ3NONA?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-17T16:41:31+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "ORCL Stock At 14-Month Low Amid High Debt, Execution Risks: Retail Calls $300B OpenAI Deal A 'Liability'",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWHJDb2tsZVAzX3JKYklWaUd2VzJQbkM5MF9fSFI2ODd5R1pzQWNKRmUtdm9ibUcwZ1NBMUFWUEJzWVlJZEl2a3ZXUTRjYzlwenFtVnlMWlM2amNfVkdzUm9JTFgyM25GZS1va0x3LWhKZGo4Mm1IRUFHdWJfS0lwNkozZ18yTmhBUjJQLS1ITHplc2w1ZHBLSVNnRzhNM3dkZ1A3dTZNX2lXRVg1MFNaXzhJbXFNblZCSG0xUHhKWDJnSnUzcUdfZDg1dUJHbTFBRVhCdWF4dmpkRXp6eG14aFRrcjNzRVBEXzlKX25GSHlZa2Fvb3R2Yg?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-17T16:39:26+00:00",
+   "first_seen": "2026-10-12T08:31:33.034179+00:00",
+   "topics": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "RKLB Stock Eyes Worst Week In Over A Month \u2014 CEO Says Rocket Lab Won\u2019t Compete Directly With SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0diTFN1dHhjVURIWXlaZTYyUWp1dW9lRkNTNkxSZ1Q1WVVqaTFtSVlocG1NS3RlYjgxQWhkRmI1aGZGdDJfSVh3NF9QY1hxS2Z2eXFqcnV6bnlSQ2FlUF90dWo0WFYzWEtBQzYwWGgyVTItQU5TdW5wVWRRZV91VDBCWDlfT3NNNEhGbmZzaUg2NFRNWEJXYk9QdG9lWE9ib3dlZFgxUkY4dw?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-10-17T16:25:46+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
    ]
   },
   {
@@ -1355,6 +1927,17 @@
    ]
   },
   {
+   "title": "Indonesia faces rare MSCI exclusion",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnIyZThyRm9vbElyU19HakdxaEZEX3NSUFBRSWc0dXlTSzUxeW9hVlJxNVRILTJIV2dKOUxHV3J2a2xXcndkYUllQ190djhlT1YyR2Nyd2NSWDVWalNBMGhnQ2lSa2k4X2MwM05lelg4NE5oNkNmOUNNNkVmTEprUGgtc2wyby0xNkVKMVpIYTgwTG9renfSAZsBQVVfeXFMUF9BdllkTFJBc1NPOFNRQ1ZqcDFUZVU2VzJwUVVWZWU1RUlubUt1NTJaNE94dmtOVEItc0Y1Um16SlppbkJNN25wU3REbVZESXFVUjltaFJ6bUJpamI0MTFjRTVLaExUUVo0TXB4aS04WWZXbnRfQjJ3UE05RkxoSlVxc1RDNFBiZXRMaGViZVdOTVBDc203S2V1V3c?oc=5",
+   "source": "The Manila Times",
+   "type": "news",
+   "published": "2026-10-17T16:03:00+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "MSCI"
+   ]
+  },
+  {
    "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
    "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
    "source": "Decrypt",
@@ -1379,11 +1962,11 @@
   },
   {
    "title": "Who Really Owns the Bitcoin Inside BlackRock\u2019s ETF?",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQV9LdmpzX1A3OWZrRWt5ZVNacDdRSUQxa1kwMUY2NE8xVkZmaUx2Q3B5ZDBIckR3bDdJWlNHRzlIbklVZGdDZ0lQZGxLS3ljZ3JUcnpCdXoycURyVVY1TGRQYzQ1eXF2SFd3aGxtRl9wSUpRYTdnNHg3Nk1DaXBqQVlNWmVxT0NZZGhBc1dBb1paeUE1UVctS2M5ZlFRWXdYemw4U29BYUNGTHMx?oc=5",
-   "source": "24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEEzWHN4LURYUzdWekN6SGpyZlJQaHlZZ25Hc1JtWVRVQUR2NTdTZkl0NHBzX2dGRU1ab1VvbjRqcDF6VzRpSm41TlEzaVJLX04zbjItc0FMWWlHdkpfX0dhVkt0YkVrRUFHcGt3c0VUZjJONGdmdW9DTW1XX0RlaGlOOUZWTzNlZVcyR2J4NUhXVlluS1c1a3VrSDc1ekJweTJr?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-17T16:00:00+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-17T16:00:38+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -1411,6 +1994,17 @@
    ]
   },
   {
+   "title": "Did New US CEO Role Just Shift JLL's Investment Narrative?",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNS1ZJLS1GOXQwdHo2NUlJWGowN3RGTENqNGN3aFBfblBvSHpDOHpCZG9aMGtaLUkwU2hMSUpoVi1WeXFHNEljbFh4UmZsLWxnenVyRWFEaFVPVWFGT2czU0ZleGx0ZVByOTQwZVpJdGFEVkJrN3Q0N0lLYkVlMTJtamExWjJuWW1SWDBRTkFHaGw4QWFtY3N0UHZaTjRaeWFVV2hVX3Z1aWhHeDZLWTBkSGNYVDZHUmJ6V181blo3TXVWSXdkN3pxV2FBRzZONmF6VWdDaU56dDV4ektMdV9yRkQxeGZCNk11dzhKemxXTGNtQdIB9wFBVV95cUxQRGdzbnNyM1Q3emZ4RGRFamhNdXpXWlNCc25HQWdNMTRmWWpWcTFsVjRTNzgyNkdiVHMwNlNhdEpybWUyWUItNkV0NnZScEM4aEJnZUd3LUtmenBQb0hFczFESjMwVllENUxnMFRINHB3SE9naWt6cktKWHlmWUc2cVJXejZqQVdySVVETDg2eHR6dlhpa0dwT2xwdkxHNnJHUG1HQ1NHQzkyYk5KMDlwNUdXT3RJcHRFQmdCT1FtaHdWdm5IQkZlRkN3eXBHa1l0MXdodXlBU29FRUJIbHNvX0Y0ZjJ0M3NoLUFTSmpqM2lHZ0xSRzlN?oc=5",
+   "source": "Simply Wall Street",
+   "type": "news",
+   "published": "2026-10-17T15:40:58+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
+   ]
+  },
+  {
    "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeC1FWUplYTdoakc0bVZpYUhDSzI5Z3NGVm5IbERyTS15U2x5cS1zYUo4Q3B3aEM5T0kzZ0VWMGgwRDBQLXQ0S0xDWDNoSUZXbS04ckM0R0lRQ3N6NVZkc25qc1JfUlY2d2RQZC1MYXZGOGlIdVJzZklnaGVmN1hTWVF2ck1wM2t1VGIzZVhtWndxLU5yMnJIbVBVakF5d2EtVUlXblNSa2l3Y1hWbEdRR0lKT2x6SHdO?oc=5",
    "source": "The Decoder",
@@ -1429,6 +2023,7 @@
    "published": "2026-10-17T15:26:03+00:00",
    "first_seen": "2026-10-18T06:15:32.909470+00:00",
    "topics": [
+    "CEO",
     "OpenAI"
    ]
   },
@@ -1473,6 +2068,17 @@
    "type": "news",
    "published": "2026-10-17T14:56:28+00:00",
    "first_seen": "2026-10-17T16:00:07.090030+00:00",
+   "topics": [
+    "Deutsche Bank"
+   ]
+  },
+  {
+   "title": "2 Banking Giants Make Major Crypto Moves as Schwab and Deutsche Bank Expand Into Digital Assets",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSkxsTTBoM2Fzd0FhYlljSF90Q0lablRFVEN3NjZKY01GQzhFcmlSVXdrcTIwQ3hnbWIwNzEyM1g3RTlSbnkzcUJYWmEyMjc0NndzR2NLSzE5VHhhY0V0NzU2aGpHN0N1OEoyUUhkTTlpWDdBQnpvQU5VN1pLWXk0RllhM0NOTjc0M24zT1lSbXZQUjFmbENVRDlLNlJUNjZMNkhNZXVUQ185cC12R25oS3BuekIySjA4c1dPYUUyM2pZUjVVcXdPbE5BX3BFdw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-17T14:33:30+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
     "Deutsche Bank"
    ]
@@ -1536,14 +2142,27 @@
    ]
   },
   {
-   "title": "Hyperliquid, Monero or Bitcoin: Which Could Hit a New All Time High First?",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0hmOHZCT1EwVkFYei1yWDJZaVhMMGxmWkFQLV9zMEhoVEtHRzZzLUdVS3g3UV9PNVFRR24xeWk2YmEwVGdBTl9IM19lMENVMlVueVFvU3RGcGpxN1N1VXNYb01fNGo2eXdfMUhOZWIyYlc5YlBxOGlMMENVbWg3c2loY2xmUVRuWUlCUlY3SVhFaDVwaW9hVXNmalFGZFpRX0JGVXFwalp0TGRua1dPdHVaT0hwdzBUU0JFVkRaN0ZNUFM5YTQ4UUV3?oc=5",
-   "source": "24/7 Wall St.",
+   "title": "Musk drinks three pints, Coinbase CEO barely finishes one, new ranking shows",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWW04bVNzQ1IyRUhvMnF3c1VEMGFlOG5CaENyVU1VQ3o0M1NoTVZDaFRiVVVBV3BjaFU0Tzh2aERnVjRaQUtEWGVES1hPZVlyaGJEVm5TUDQyTWNVa2R6anJCbmdJLTlwUUJ4OVlMdGppN1JDTnBnRWl3NUtQYnBYNm5kWkhfYS05WGwyM0Z2aUd5Q3ZYOWR2bzYwNnZvcmV0SWVQRmtn?oc=5",
+   "source": "TheStreet",
    "type": "news",
-   "published": "2026-10-17T14:00:00+00:00",
+   "published": "2026-10-17T14:04:59+00:00",
    "first_seen": "2026-10-17T16:00:07.090030+00:00",
    "topics": [
-    "Bitcoin"
+    "CEO",
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "AMC CEO Attacks Robinhood Tokenized Stocks!\ud83d\udd25Solana Steals The Show Benedict Cumberbatch London Bike Argument (mbKvSlIEmG)",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2lEU3RqQTd2UGRWOFNMM0p1bGxHOEJMY1B4Q3owSFQyajhGSVZ3TjM4eHVaUTczNHU1TzBOdHg1MExSUDJHbGNMRnIxdnBIZFVTUGd1MEs1SXhadk5PWU8xTkZ6elNOdklxUDVGUElwb1NXVFlndHNGX25KVDlSNUVR?oc=5",
+   "source": "Unisba Media",
+   "type": "news",
+   "published": "2026-10-17T13:45:01+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "RWA",
+    "CEO"
    ]
   },
   {
@@ -1554,6 +2173,7 @@
    "published": "2026-10-17T13:44:00+00:00",
    "first_seen": "2026-10-17T16:00:07.090030+00:00",
    "topics": [
+    "CEO",
     "MSCI"
    ]
   },
@@ -1570,14 +2190,38 @@
    ]
   },
   {
-   "title": "TRON Is One of the Few Big Coins Up Over Two Weeks. Is TRX a Better Buy Than Ethereum?",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWGd0MkJuc2lXaHJxbS1Nb3ZfVWhiMmJFc2pqREk1cDN2S2t1eGh5X2V2QXJHVmhnV0x3bng3VGJSOVhzb0g5R1B4RlYtRlI1NTctZDdGOUJpS000RjNNb18zNlk0SVRud0VCeHlrUmFhc0dUbWhoLV9iVFhjLWVpNWpGX09HZUtlcVRwOWFGWUc0c2FaWHFlVzZLdExkNFZLbTdldTJISHFOVGtFQXlEc3VIMUZ6V3MxYWVrclZUV19jdHVJWGU0aXlzb2ZVODN6cXlveXEzLVRiZm8?oc=5",
-   "source": "24/7 Wall St.",
+   "title": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wWmpzN1Jxb0xzZmwzOW1BRDBCWVg2UFdyalJ3QWNhcGIzaEFBR2ZmNzJDTXBZYzVvMGFld2NUNkxPZl9UbkpDRkx4dkRSSzU2OUJ1VlAyUzNlLU1lN2lxeVpkMNIBY0FVX3lxTE9wWmpzN1Jxb0xzZmwzOW1BRDBCWVg2UFdyalJ3QWNhcGIzaEFBR2ZmNzJDTXBZYzVvMGFld2NUNkxPZl9UbkpDRkx4dkRSSzU2OUJ1VlAyUzNlLU1lN2lxeVpkMA?oc=5",
+   "source": "Bitget",
    "type": "news",
-   "published": "2026-10-17T13:30:00+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
+   "published": "2026-10-17T13:30:34+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Ethereum"
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto News: PNC Bank Partners With Coinbase for Cryptocurrency Services",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZE4yYXh4NlVaYzZFcGpNMzdkcTRTbHNNTUdNQlc1Y2d6NGhQWUdhaXlHZUV0Zi1hRU5JZUpFdWdxRzcyQ1BNWTA5X18yTXhnTjYtSDZBMWZvbVFXSTJnc2FOSG40TXUwcW9KcnoyZW42Q1ZYUUUtNVNLYXQwQk5GZ3BxMnJiMFdaVU0zcVI1eWY2cDFuSTZWcS1Mak9JaTF3SGg3WHdMeW5uNnZ2TnpxRGhnRQ?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-17T13:30:14+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "Circle Internet Group Inc. (Coinbase Tokenized Stock)",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPME5OR1Q2bjNaTWRvSkdKYTBuWUNIdldrcFpMN1RjRG9vQ0FHeHRpZ241NUtYRlpsNkQ5RzFBUW8tMFpxdzhYUmZUdzdGX1dYZW1QaTIyalZmVDBueUd2b3FCelp0alB6bUlNUnZHMmhiSjNCMWpGWlgtREgzQjU0YXNValg?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-17T13:28:14+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "RWA",
+    "Coinbase",
+    "Circle"
    ]
   },
   {
@@ -1590,17 +2234,6 @@
    "topics": [
     "Stablecoin",
     "Circle"
-   ]
-  },
-  {
-   "title": "Kraken adds XRP-backed Firelight DeFi protectio...",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTh3Q2t6bTlfNVI4T3JOdkx4R2l2RmF2ZmZSYk8yWFE3M0YtTnVqMnRQR0JRWWt2SXJxNVF4RW43T2V6RHZzVGtETEVrSlVaQVpNcThxdG5DV04teTFGSzNRR2Q2ZkQxZFd4TUpLbHNyTTF3b1Y3a3ZpUjFrdmt2T3BzUnVFWGpMTVk0TTcteDhMZS14Yl80VGtsd0FmbWhXc3ZQQzJKN2NDQQ?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-17T13:12:11+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "DEFI"
    ]
   },
   {
@@ -1660,6 +2293,29 @@
    ]
   },
   {
+   "title": "Strategy Slides 9.6% After MSCI Decision, Outpacing Bitcoin\u2019s Drop",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RWbHpJUC0wNE1PSjd6MVRSdHlNSVVyUmU3ZlpudnNkM2lsUkY0YlB5SkdBY05KME02V1kycnZuZVlYR25YOERuRGJXQ2pTN3ZsZDY5SExUQW00eE5Kc0FUWUNCOGpydVVFam1vclNXTkFGbk95VmdHeDRzQjh5c1RSak1aU0VnVEZtckEwM256WkpmQWhWMEYxbFEzazh6RE1pU2xB?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-10-17T12:49:44+00:00",
+   "first_seen": "2026-10-17T11:14:35.320874+00:00",
+   "topics": [
+    "Bitcoin",
+    "MSCI"
+   ]
+  },
+  {
+   "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFl2aE8xUUxSZjlhZWhuMFpBMWdyeUhCaEJiZF84RnlvNGp0d2stQTJ2LXB3TFpHSklWYzZTUDQ4dGV1TVpvMEdJTWNlV29aWnlIX0VicGo5TFNKTXBiQUJadjJmZGFwVm1CZUJlTUlhUFRBZG02amsxT0JSNWpTVUN4ekpFck9uX2ROWXRxWnFDM1lB0gGaAUFVX3lxTE1Hamt5QTRYaWZuYzRySkVoMUJMQTRSR3NwYzJFb3lxY1k5V2l5enRiZjNMYlNhMDlEYTdFdV9oQ19idExvajZhV1gtNm5QdUt1cnl0dVQwYnlyOXh5OTdmOXNaZ3RnQWhHYlB4aW9Ld0hRYjJRdFFMcENSZndvalpuQ2hDUG14cFZ4WkVZZjdQcHFaTDBPOENjYlE?oc=5",
+   "source": "CNBC",
+   "type": "news",
+   "published": "2026-10-17T12:46:21+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
+   "topics": [
+    "CEO"
+   ]
+  },
+  {
    "title": "$253 Billion by 2030: Korea's Tokenized Asset and Stablecoin Market Outlook",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1lmTjRwaERoUWZEOWR0bm1OY2taN3dfSWItMDYycy1kQlJhM0FQV3JoTzRnMUxOOWNVMTUxeXNxVm5ZY0M4c3Q4a3VlbTNGM2lCTVRTMlVpbEotTGc2UlhJbWg1NUpXYWlVdXl4Z09UTTJ0T00zU2U1NXUzdEQwMjZQaw?oc=5",
    "source": "Tiger Research Reports",
@@ -1672,14 +2328,14 @@
    ]
   },
   {
-   "title": "Bitcoin Bounces Off Its Lowest Point In A Month, But Charles Schwab\u2019s Adam Lynch Warns A Midterms Risk",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclBzcHFMRE1YRU0zTkhCemo5Mm41V1o3bmNZSUJZRlVVR2F1MUlsd0VJNDFISVRaak9JTjE0eXJIZ3F3Z1E4MV9ncGU4elZhUEpuWW5pTjRyY2tWRGdxYTEzZ1JxM2tWQThlcDUtbVIyam1JYWZUeTl5Y2NUc0lqZ3pGNjZYbDd3VDFWMjZiQ19zbHZ3d0VJZWFRZFpKZw?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Fission Raises $10 Million Series A Led By Pantera Capital For Tokenized Fund Liquidity",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXh6Z2JucWUyOW5OQkxQTDJ3QWVEZ1ZYMHF1TzdfanNOVDZNYll5M1ZTZXh0cEVic1NYSHdlaU5zbDV2dnM5cTEwZkFQYmNybDJJbEhGV3NXLUhKT2RNVjIyVVM1clVCUk5ETEVFVVBMZTQyODJCWVdJQ2FRdTZYSlQ5Y2VyTGFpV2E3eDV0TW4za0YtckY0RXVvZXpLejhGTWNBWmRZR2VVUQ?oc=5",
+   "source": "Pulse 2.0",
    "type": "news",
-   "published": "2026-10-17T12:38:14+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
+   "published": "2026-10-17T12:32:51+00:00",
+   "first_seen": "2026-10-18T12:00:13.810318+00:00",
    "topics": [
-    "Bitcoin"
+    "RWA"
    ]
   },
   {
@@ -1715,618 +2371,21 @@
    "topics": [
     "Circle"
    ]
-  },
-  {
-   "title": "Bitcoin Blockchain Remains Central as Sui Contracts Gain",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11SFJXM1g4SUJIUFBXNkN1SUhUTnZ6US1ZcnRncWctLWRqWGlnZkJzRlljc3R0UzZjWXVPV0xFYVZkS05Gc05IOFFqQTZ1REFfc3hwanh5NllrWVlN?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-17T12:13:38+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-   "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-17T12:00:00+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Litecoin Just Turned 15. Has It Kept Up With Bitcoin?",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2ZvYlUyLTA5cmY2eGRpM2NJYnBOZUwxYmNEZzVvdHpKN1FtWE1tcEtwNUdOaWVmV0kxUHVOdHhfeWp0ZTZHVWx1UVZSNGlLaTM0ay1iRmhBMU12ZHZuRUxvbW1aQnRWaXJ5MTBXTTdGNWVjTDZuYWcyOUZhd3pINEZqbzRPR1pGSEk5MTYxaEFKdXRlNzlrWnNIZENQVFRSNFhqX05pUHd3alpVMmtz?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-17T12:00:00+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test \u2014 rogue bot wrote a script to find accounts with public seed phrases, took funds to pay for gas",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZnNFVnlsajY4aEc0dDlDY3VmZU53YUQtenVDTEZsdXJUb3pMSmctUXRueTg2MkR6d05OQzJtenpGOUhmdnJ5VXFtNzItS0RGTU1pVzgtM2NKSWxpX2ExLXp3aWRWVVc3MWhqdHJoTmxwZVNacmNqTU02R01pMUhHR2xlYTJHU28tYngtR3RtcmMyNWNPclN0WnhaQnBCajgwWXJoN2FaSHpZRmlINWdmZTRrb1Z1VXlxWTVucGRkU1NyTXBKNmlwY3JuVXZ5VFFUMThWUGtabFRxaFl3QW1sRXJnaXVyMGR4a20xZDVFQmp1NHlJTl9iaGU0b1U4ZnZFaWxBNw?oc=5",
-   "source": "Tom's Hardware",
-   "type": "news",
-   "published": "2026-10-17T12:00:00+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "AAPL Stock Ends Week Lower \u2014 Apple\u2019s Vision Pro And Smart Glasses Head Reportedly Defects To OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcWgwMXJaYjNneDVZdFRaVGFZSmVQR01hSjF3d0dQY2NOeHF3SVY2Z3VHSTlhM1dpbXo5Tkg4NmE0bjBjWUJ2MVBMSngyVjl2V21lODlHRGtvcXlqcGRJbEJHcU44OVRvcExHb2FQZXF4WVF6cDVRcF84M1lQVTBUSFFRVHRzNGt2TzY4WGk0ZDZ6WU1aT1N6RlRXam5vbC12N1JvMnY4Yi1rbHBTUUpUa3ZKbVZ3MHpGalVvb0JqekxPYWw2RHJDM2hDc2tWS3poVkFjeWFvRlRFeWNoZnNRSF9Jdm5LWElIZnc2UU9jNFhLTmZt?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-17T11:55:21+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "Ark Adds Coinbase, Circle Shares as Stocks Rise",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzFuTUpJNGFhbmF2MkVHcV9VZklVV1ROd3ZxeEhMRkI4TjlPeUZzcVZNZ2ZRRVlkQm5wcC0xWkxUUmZDcTdQYmNHbWdVNGRfTERfZDVfMUNiMURUQ1M2X284WXlBV1lPeDdETUo3eVJvdjY4WC1CZzhqbGR6MTYwOTc2am93ZGpxVFlpMXRUakh3Zw?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-17T11:44:21+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Coinbase",
-    "Circle"
-   ]
-  },
-  {
-   "title": "Uniswap Slides Ahead Of CME Futures Debut As Binance Selling Pressure Eases",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYlNKR05TS3NPaGhDdjhNODRWSXJfSlVCQVA5SG1kVHdEWWNpemNNU1JjVU9Eckc0VmV0c01vQmlzVkl4czVSMW5FN1RSQUZ5SGZlN2hfN3dvaF9FbGV5TC1sYzZpZGdnajdmN0htTjc2WTJHZFBlOE5sSkhJWS1zWlF6Y0ZkX2NHTVF4a2htZGlfWjlCTVIwY1dCbFkzT3VuQXFiYUNUc1Q2djYyM2tJWTJEOFlWOUtxUTN6T1RSZzR3RzZGc3ZBNm9BeThHU0xSWGc?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-17T11:33:43+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Uniswap Drops As CME Futures Debut Nears: Is Selling Pressure Fading?",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMWZEX0wtblp6TkpSSS04cEZYcEQwVElIQ0pwWUs1dmlaakRJSE91U2I1bmtodWd1V25rZ09aQUNvSWV0ZmxxOVFNU2ptVVlqcGNaTENZWjNkaXpnSTVGb1g4U0lyRGxSLXU2RGpUc3RsSXhqZDNaWTByYzFDQkRiNk9Jc1VMQ0w2MmVtcWhfWDJiejVoXzRSYXFYeEpPOXNwOTcxMWdGSlNSNG41azZHOURVVmQ3R3dGX0ZvTFNwSkt3LXdmMk5YS3lhMUlQbk9aSGZFX3hiM3VKYS04VVR4Qg?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-17T11:33:00+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Oil Just Hit $100 a Barrel. What Happened to Bitcoin the Last Time Oil Prices Hit Three Digits?",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEQ2VllaUUJkM2E2VmpLcm0zZ2x6UUxxYTNZQWxuRGJzN3BQaDNWSWlqYnpQSV9pQV9NWElzamdiVllRcER5R3RjbGQxZG1abzZvSEppVkRYNU1JQTBfdFB4ZVpyZDNlRTF3UHJfM1hxZ01nTG1yLWM0aGh6dGZ6bkFpUVFkbGZBT3lCYndCMFloQQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-17T11:30:30+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "2 Banking Giants Make Major Crypto Moves as Schwab and Deutsche Bank Expand Into Digital Assets",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSG1DaGZhejNtNmJKeGxxRE56di1Vai1uYnEwbkhhUEF0MWNpaFptbFMzYTRkU0JPMFB3bVdwSjFsbmd0RVBKcVU0dk9Cekt0ZndhaVhBWkJORHZmYkNvSndVRzd0cXJ1Q3NiR1hLUlZEcTk1ZHd1NWpsVndMYTNScFlCOE1CVXFwWC0wT1lxZnR1WWo3VTU5QlRvX3ZudXV2QnJFTnhBd0FOSlNRN3pBSUtvbHpRQ3hIeExtT19B?oc=5",
-   "source": "CryptoPotato",
-   "type": "news",
-   "published": "2026-10-17T11:25:00+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Deutsche Bank"
-   ]
-  },
-  {
-   "title": "Deutsche Bank and Charles Schwab expand crypto services, boosting Bitcoin access amid strong Q3 rally.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWloeFBiZ1psMnYtb05xVFBXdkI4aHJIckxUUWNJS2h6MGV3X0RYNm9uUDU4eTNZclFhV0h6QngxYnh1OU4wYlV6b2FScXhqbGVxejV5S0pFdlRHcmNPWnd3OThXc1ZwM0E3TUREcGpBQ1plQlVhd0pvSHRETENxZV9JcHpYZFJua0kwOXdPY3FTSVcxdlFV?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-17T11:24:56+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Bitcoin",
-    "Deutsche Bank"
-   ]
-  },
-  {
-   "title": "Arthur Hayes Says OpenAI, Anthropic Are \u2018Worthless\u2019; Bigger AI Bubble Could Send Bitcoin Higher",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFTTVSS09sVEttUGlLbzlIOEFPZlRSQ3QtZG1mcGtBUG8tTnFaMEUzSXBodER5YXZydG9LOW5ybnhOQ0kyQzFTUGlwRGJCekJ5SmNjeA?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-10-17T11:20:20+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Bitcoin",
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "OpenAI model goes rogue, uses another person's crypto wallet to obtain funds | Incident discovered 3 months after it happened | Inshorts",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUxwbVV2YkVjb2Z0RzBUZmRzdHUyTlp1Nkl1clk3YzJ6UmxLdDBGQTZrcHNES1phd1JlMjJmU0E5alJZVFo5RHZKdEViZVJOX3NpYnVyd1pGU21WOHBUeFpyN010ODdFVmQzZjh3SHlETlJpcVVwQV93eUZxWlBLSnBuOGhyNU1iWU5HTkg3Tk1SVl9Pb2d0bkRHNER0Y3drTFI5cEpiNnZPZU5qc2ZDRzB0UVhrcW9uMVhB0gHAAUFVX3lxTE5mZXlmTlZCUENCaDE3RGFuZWtKbTlYaExBR2Q5cXp3R2VPOTFpVmI0X25PLXYyS3MwU0JpeUFTZkR4VU9YLVhRbE9acmZocEVlVnVLQUI2ZW9vTEFibG0yMjdaWkNBR0R2UWtPX3ZrNDRjYUlTZkxLWEdoWkdmbjM4LVBEdEJ0SUxMVXNMeWR4WHBlYkJ5MXp5RlkyaTlZblBrekFBOVlWUm05THR6SHlQVl9sV3dXR3FDSnpLaU91bA?oc=5",
-   "source": "Inshorts",
-   "type": "news",
-   "published": "2026-10-17T11:16:35+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "Circle CEO Targets 40 Developing Markets for Stablecoin Expansion",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUVwOHRkQnViUVJqazNTWl9zV3ZsQzRrNk5RNnhtRW9BRUFrcndIZS1qSFZJaTl3S3J6dHhWR2FOb0ladzBBWWJkREtQeUJGeFVjVkpYQ0pGSlpJMkJFSG44SVZ6TUFVT1B5Vkd3TUdNdXB5U2trRGlJLTlxSlNUd1M2T3J6OUdrNEJ2UW9vUml6dk1UeGRoTjEzQjY0MVNO?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-17T11:04:41+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Stablecoin",
-    "Circle"
-   ]
-  },
-  {
-   "title": "Circle CEO Says Company Is Seeking Entry Into About 40 Emerging Markets as Demand Rises in Southeast Asia, Middle East",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LX1dYT05YM3JWdFEwdUI0V2lXV05fSElaSS1xMjFuNkJ4ZnY4R0dDNDlLak1DRFZhbWZaTmJVTjZmckwyNk1rSFpldXdDSE1VOHdtaQ?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-10-17T11:01:58+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Circle"
-   ]
-  },
-  {
-   "title": "Deutsche Bank, Charles Schwab double down on crypto as Bitcoin gains on TradFi",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0JTaEVBeUlBdEN2SFN4bW96U0xueS1rSDQ2Wm9faEpNX21pWGtSRGJVLUNYbHVpakdESGtUR2dGR21DM2hPYS1sM1NVVkJ5S0k2amw2TzhnOEpieDFOSFlneUR1OFNhNzh1c2tJSDVQLVI2UXpORFBNcnlIYUxncWt4NUJMQ2hqWFk3V1VUcF9SdnJhajdBQzRDbnR5UUNDSVE?oc=5",
-   "source": "AMBCrypto",
-   "type": "news",
-   "published": "2026-10-17T11:00:32+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Bitcoin",
-    "Deutsche Bank"
-   ]
-  },
-  {
-   "title": "Deutsche Bank to Launch Crypto Custody Service in Germany",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTJMd0szVFVYQ3RmSTlKNUlnSThWTS1IVXhTTjZvZ0NfOU5KbW5QbUs5bG50c2wzVnk2a2ZVNlpTYXcwZXcxdVNUWmR2Rk1hWXJySG5DekNzNnFxdTR6X1NmQkRJMG8xdllHWjFtQW5JZzJOc3BrV1ZYeVQwUHhzUVVneHNFZDZm?oc=5",
-   "source": "ForkLog",
-   "type": "news",
-   "published": "2026-10-17T11:00:00+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Deutsche Bank"
-   ]
-  },
-  {
-   "title": "Coinbase Shares Technical Priorities For Bitcoin (BTC) Post- Quantum Computing Transition",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUlBNGtXNjhLQTJXanFFZ2lqSnlWLU1DdnhlTi1WS28yR0VVQUxNZy16NVprSW9SdUprcTFhem5OTE9salMyTWVsUWRRcEFydGp3eEE1MlJTeWQ0cmdKTVpzSk1EZXYzS1lUZDdFSXpPNGRXVFFSYjlZM3BfbHRKQWJoU0tUbjdFS1FRcktzTG0yMk1EdHRRN0RBUmU3SVZ3Tko5MUhBUkdhV21GQ19TYVVQbVNFbXktdnREV1pqc0xQTnVVUl9rX1VRb2V6T29T?oc=5",
-   "source": "Crowdfund Insider",
-   "type": "news",
-   "published": "2026-10-17T10:57:07+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Bitcoin",
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "OpenAI keeps testing proprietary models on math despite its advisers\u2019 request",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWZubzZqTW9CeVFkN0FqQVZqMld1ZVhveDhKU3N3bG5qZG5Fa0pHQTZvQmtCazktZTZueW1XazNDZ0h5YTdaM2NCUGpEUUEyNXFpS3A1R2RkeWFRMF95Zm8yZnRtTHRtcnRMVC05Y3hVSW9yamtYbHQzM3hScFlwMGZVWQ?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-17T10:51:17+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "Is Virtu Financial (VIRT) Undervalued On Ripple Prime's 24 7 Trading Launch?",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSG1CRG9YZ3c2ZHlEM0pPSU1ISjRHSE10aDBYb2ZxOWZjQ1VwTFBJVU5kMmhZS09WaDhUZFpXQ3NnXzZlbjdxSGhDbnF3LU81OU5fZmJyMjhEVm9BRkJlUGlyMnVVdWxUWUZwVFV4VXUta0xPVjd0dmJ0Tk1OWGpBM0lLMGJPeTNxZjQ3amlUN3g5TkpLdUV3QlRielRiZVpwNkdXRDRkeW5YbXJUb1E3WDl6bUlNazhkTnRXc2hNY2xIUHRXSC0xQUNmYURWWWx2SEtGZENsR0hsd2Q4TlZV0gHkAUFVX3lxTE5GRWJ4dl9lZFdRSGZ0emVBNGFwODh4YTJMbW1mdDgtS3k4aUlEUGw5ZUdpN0QzQUVueDdUa1QzOU5pOHJlRExLMnNxM2k1WkluNlAzNFVDQnZRUzY2b0F4aTJSMHI2ZDFScG1Vd2lVbDhlcldjN1E5WklfQ1JpcnhfeUN2ZEh6a1p5dHZTYVd3QXJsUFIxQ085VTN1ZFhwbUFuTFNMbnFQMGJCcFoweTM4ai0wbFFESDVVWXp2RXRJTE5HcXFkS0xmVFJGVl9yUm80QVY2THJKMDVNSGpEajlVcl8zcA?oc=5",
-   "source": "Simply Wall Street",
-   "type": "news",
-   "published": "2026-10-17T10:42:42+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Ripple Prime"
-   ]
-  },
-  {
-   "title": "Marqeta (MQ), What Is Behind The Latest Attention?",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTXF2M0VKRFloUWI4UnZ1dXFCUklSNEp6aXU4ajZwaXp1NjBXUWREamJXZ01fRVRCQ2ppTkZEU0x0WXZXeXZsOHB1WmR0RkxobmlKTU1MZmdKZnVZbEdLSUtENzVPZjRVdkF1Mlpqci1hZ2YwakpZSXdYNmZFX29CRVJmMVQtcVBVUkZfZDk0MFFzYk5ZWGpIaklGZkVZZk1nZGtfY2VzbnZ3b0dqZFgyZkdNeDIxOXFjVFJsbUY1eEthUdIBxwFBVV95cUxOc3h1R2Fwci01MnlXQWQ5LU93Z0sxdHZvRENuakU0Z0poTi1WTDdfZV8zekxPLTdwUXVxbXA3cXVQX1FzdTBERld0cnBLR2ljaC1PWkVzSUpMbTN3OXg5Y3FXVHBvMVpES1E0LWJCQUhpQzB3Zk5MWUpNOVBjVXJuRmZoNTYtNnpETE85c3FSNEJWZERpZlJKRVZBVE1OMHg3WWlsVEY4aS1yQ3BLSXVFaHd5Q0N3Yml5SklKX2pKbUFLX1FhSUVN?oc=5",
-   "source": "Simply Wall Street",
-   "type": "news",
-   "published": "2026-10-17T10:41:20+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Crypto Treasury Management After MSCI's New Rule",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BTkotd2xhQklUMEw5VWpTTlJqNUdvYUo3R2RxMTVkRmJIdHVBUHRVZ1N6dmgxWnlvTkQybzVDUFp3RzVSQm9heXUyS244MUp3eHJ5WV9LMy1MX0NRVmJqdThpTEw0X3Bxa05MQ2pKUEx2dw?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-10-17T10:32:17+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "MSCI"
-   ]
-  },
-  {
-   "title": "Ethereum Fell 10% in October, but Social Sentiment Is Still Positive. Is the Crowd Too Early?",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHoyMFJrMmFrN0ZEMlFLWmREZ05yZVJRQ3dUNWZXYlRld2FhbmhZa0JDVWM4U3Rlbzk3TUJZYkEtWmUzQTI0ZHE2WWZlQjZ4Ui1JVW1yQUtwbHFMdW9SbFBRQ1ZDalI3M0VOOE5nbmZseWtQM215dUhTRlF0RTJ5RVpCMUtPejlFdUV6a0llOHFUc3Z5a2N6Ulk2UFU?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-17T10:30:42+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "OpenAI says its model scanned 362 wallets, then spent test crypto it was never given",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pelJROGlLQlJNYS1BdVhpSXFWbGpZWGtmNHoxVGxubF92OFUtQ0VmNTZST2VnT1pJY0JubE92bjQyTjZtbHc2SHg5enM5bWcxVUM5aUI5UERLMVJYSWZEVkZURXNPLUZNQjd4Vldodk5TeVFnVWhB?oc=5",
-   "source": "astig.ph",
-   "type": "news",
-   "published": "2026-10-17T10:13:12+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "Circle\u2019s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-   "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-17T10:00:07+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Stablecoin",
-    "Circle"
-   ]
-  },
-  {
-   "title": "Bitcoin Trails Its Typical October Path by Nearly 10 Percentage Points as Mid-Month Weakness Takes Hold",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM28tRG5WOVBIRlVpT1U5aUxTbTQ5WmRxVEU2TUFlV294T3VNb1dLWWU3akpscFgtemZfaVBEX0NfUVJpUjB0N0w1X1ZFRVV3cHpOMTVnU1V1UFRaT1NMYW00QXFxclhkdGszV0R4RHhFMDhrOE50UktzWHJGNUYxQ1I5bEJPd3JxcjN5UDZDdUJDMm9HVmxzN0ZNNXhPcWF0N21RUDg3eFA2RG5XWnhvXzN2OGRkQVBkcUxkUlFqLTRRWFpISS12VFIyVjJNcW5mNHhvaGNzbi0?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-17T09:56:14+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "XRP Price Today: XRP Near $1.30 Gets Ripple\u2019s Institutional RWA Perpetuals Push as Remittix Combines PayFi and Markets",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWnZ1MDVsaHlER1A0X2h6V09qc2tuNHlBUHREZGNYbndqVU1FTldKZUt2SEYzc2k2Z0MtTF8tcEk5SEVMbG5sQjR0R3drZG5UVVhrNXc2RTRiSWpmNmQxY3dvaWlOMnRhSmVpYnZHaDRnUzM2RmQ5Zm1WUS1FOFk5aDhGQTJ0clk1b2tIUmxBbEVyaXpBQW5wWmhjY25yQWozanJSTS1sTDBUMU5vZUQxd25CY3hLUVd5MGo3QkVvYWE1alJ0R1Zqc2J1NERXd0pneWdFdEhoTlU4TkU2cXhUMUlKNlp3NDRLUmVzbm0xbEJLWlZjeXlycGpWcHMtUllBQUIwbHZSZk1kQU9CVUdmX3UxSkhjR1UxaVE?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-17T09:46:50+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin Price Declines As Strategy Inc. Faces MSCI Index Deletion",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdG1iR1ZBZjNHeDdTdFp6U2RIYVVLUlR2SVJ1YnNBSlNqMTlOa1ZGcDE5QzVHTlZ1am5mYjdXWDBpSnpNVzFRQW9nbERWVVZaZmtuX3YycWtvQTlJZmpITnJ5NVJQYjBEX0hvTXUtQ2NPUk9qQjFzNXJueWNOeF9DTGI2NGFiVXNfTG02b2liYUNxUUYzdmc?oc=5",
-   "source": "MarketForces Africa",
-   "type": "news",
-   "published": "2026-10-17T09:43:10+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Bitcoin",
-    "MSCI"
-   ]
-  },
-  {
-   "title": "Arbitrum One surpasses 7,400 real-world assets, promoting USDG as main stablecoin on its network.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzItRDZsQU5xRjJIVmFUd1Z5QlY2Y2VKYTBRNGI1ZVBKOXJiR0x1djRxd0Y4aGFQZmh5N1lFNWRFYS0yVGRtUWR0LXZZY3ZGdkNieTdIMXAwLW1Nb3k4Z0o4TkRSNlJSWE82Z3czNGlhUVZGRFkyWHkzWHlUMFc3MXdiX19Ibm12dE1weWtWSEVnX2ludnc?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-17T09:40:20+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA"
-   ]
-  },
-  {
-   "title": "MSCI Rules Put Strategy and Metaplanet at Risk of Index Removal",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jNUNVZVZrbk5PX3hSaUxUY1hTME5SbnZ4a1RSSW1scmdybnB0LTYzVDNYcDVqRl9taWwxSk1tRzd6ZnJYeS1hMlRrSWdIZWtoelZyVS1COE9MN0lVdmFSNDhKWdIBY0FVX3lxTE1jNUNVZVZrbk5PX3hSaUxUY1hTME5SbnZ4a1RSSW1scmdybnB0LTYzVDNYcDVqRl9taWwxSk1tRzd6ZnJYeS1hMlRrSWdIZWtoelZyVS1COE9MN0lVdmFSNDhKWQ?oc=5",
-   "source": "Bitget",
-   "type": "news",
-   "published": "2026-10-17T09:24:02+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "MSCI"
-   ]
-  },
-  {
-   "title": "Ripple Opens Wall Street Access to RWA Perp Swaps Tied to 100+ Markets",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDVkcThaRWNOd2FCbjNUY2ZUX0NMNktTQWNmQjJ6NjBnOEVyRGpwb0tnZk4wZndKUER3U2M0dy01cmRwZERENnBMMno3MFppMjE0anQzbEh0QkV0UkdBajRtU0pmYldiZS1Od0VicHk0eExNZkIyaXdxVHJXcTRuUktxQjM4a2t0UDdiR09PVUd4REQ2UXlBelRnUTdNMDFaOWhDWVFuUUVsQQ?oc=5",
-   "source": "CoinCodex",
-   "type": "news",
-   "published": "2026-10-17T09:17:00+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "MSCI Tightens Index Rules As Strategy And Other Bitcoin Treasury Firms Face Fresh Scrutiny",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNek5LRnZEZm9NTm5vSW05VTZHel9pWDNYS3NBWFJ1SUZaM2ZJa2Yzb2RPSUZnbDEzd2ZRWXRkUG1XU3YtWFdYYjkxQ2Vkb2Z3SGVWY2JaZDc2bVdpNjM3b2JmdVlSVHFkZzBxYUlrUFJRekZ0YnNTQXdZMmdGWUpDU1JrbGN1bHRwT2ZlNjJJREJ5MV9OOGFDbHAwZmtBNVotRUdzOEIxcnVtQ05ZaWk2Tnc1NHVtMDgzQlgySS1hZ0g2cmFnTUl1TlBjUWN4cEZmRmNTZlNXeTZiTUZTdTF0UTZ3?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-17T09:13:00+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Bitcoin",
-    "MSCI"
-   ]
-  },
-  {
-   "title": "Enso Brings xStocks Tokenized Equities to Arbitrum via Single API",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVdhaDdDVEJpTkFEOVlNY3dTSU9zVkpUdVpkQXdWSVJ4VVlEWlJ5R0RvQ042UVdtOXRCdWd2NjdGcjhwZS1Qb0Z0N3NfV1VBTy1wa055NGIwT0w1N2EzNGxqQUZTalB5eUx4Rm5NZW05YXR3YXJMYTFMaDE4RHphX3NKbXE1UzFqTW4xaVNKc3hlSTh5TU50NlF3?oc=5",
-   "source": "The Fintech Times",
-   "type": "news",
-   "published": "2026-10-17T09:00:39+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Follow the Money: Nearly $500 Million into Web3, Bet on RWAs, Farcaster Acquisition, and DeFi Rounds",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWJYSWs3UFNMZUFQQmNjZlpsY1VkN1ZUMzg3N0g4ckRPU3pIQmhyenJBMjNTTnNCc3NoWjhpQXlKUWU2Q2twX1ZfcmpZd19qaDk0UDhJS2dpNFR5U2doX1R2YkVOR3I1X2s2TU0wU01qeXNMNnF6QW5XMzhKUDJldEtmSk1ab3loZHVXX2wtUUxUOVZLS2tsV0hZVkcwbUlCZ21XSFI1NXdNRXZEeDBPWEotSFNhMDNBczN3VW93?oc=5",
-   "source": "Incrypted",
-   "type": "news",
-   "published": "2026-10-17T09:00:26+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQm55VW9WLXZfanF2cWZlQkFlMHViUTFpSmFIdndNUnk3WjI1b0JWUlN0Slg4SmR2VERXUUNaZ00wMlV2MHB1UWVFZjVnc1p0MkY2UFZNNi1zSV95NzRSV3RZN2h2WDJJNGc2WnFkOGVob0c5V1d2V0dPRXBKWXZRUDFtbGVrcXZwWlZRSmpCNjhtOExxQ2w3VkZ4U2o5Tkx4?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-17T08:59:45+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Deutsche Bank Reaffirms Their Buy Rating on Airbus Group SE (EADSF)",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN2kxcUtsenV2RkgzX19iN2ZtWW1kOWhhblFTeGVubUlwSXlFOWNNbmQ4RFdWdzhxdndOT2ZQU3oxTUY4aTljRmZ3bWMyaGdWYXZKZ016S2Y5N21oMHR3SWJLVHMxS0ZGZGlxXzFVVHRmU0pNOHUtUEZubkZZdHRGMXpQdVpJTlFRX2p3NkJsVXBLS3d6dkVKNUNXWHlmUFNtbjdWOWlqNmdWNjFIUEZ1WVB3cWROU2wzZmlTb2NtdGV1T3lzSFlFMlJ1UzBCSnA0RU5peHVNTjAwZjNRTEZwbXIzR1h3Zw?oc=5",
-   "source": "The Globe and Mail",
-   "type": "news",
-   "published": "2026-10-17T08:58:00+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Deutsche Bank"
-   ]
-  },
-  {
-   "title": "Strategy Slides 9.6% After MSCI Decision, Outpacing Bitcoin\u2019s Drop",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RWbHpJUC0wNE1PSjd6MVRSdHlNSVVyUmU3ZlpudnNkM2lsUkY0YlB5SkdBY05KME02V1kycnZuZVlYR25YOERuRGJXQ2pTN3ZsZDY5SExUQW00eE5Kc0FUWUNCOGpydVVFam1vclNXTkFGbk95VmdHeDRzQjh5c1RSak1aU0VnVEZtckEwM256WkpmQWhWMEYxbFEzazh6RE1pU2xB?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-17T08:49:44+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Bitcoin",
-    "MSCI"
-   ]
-  },
-  {
-   "title": "Tokenized U.S. Treasuries Reach $15.42 Billion in Q2 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SY3ZyUHZuOGt6cTVHRHpLSUlSbzhmbm5UUWk4QlQ3RHJsUjdLWGlkb3VqRUYxeFNhOWhmRXNfZDBQaHdIS2RFdG5HQmVUSXBnZ2loX25WRlpYZw?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-10-17T08:43:14+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Pyth Data Priced $2.04 Trillion in Real-World Asset Perpetuals",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wN2Q0cGZLVEZCaEI3MFdrdFpyX1QwdHVJY1hhSEk0U0drQm1RekNleVJLWW1OdDAydXNXLS1wRW8xZ0JiWW5zUXBDRHJ0TjNnNVQtRlFHR29LeUE?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-10-17T08:39:11+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Equities: Tech volatility but index holds gains \u2013 Deutsche Bank",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbU1YcXlYa1h0RUlFTzFvaGcyeG8tYW9UdHpwWmVrc25kRjdqbTVsVW5TT1Bsa3cxb2Qxb3M5dkpUZzg1TVFpdkJyVWhBZC1YeUZQclZ4NmpQNHNJZ3ZlSS1meTVLVkUwa3Y2WkJOSjg5dlBiYnE5Qm91SElaLU1qN0I0Ml9acG1iWER3TzR4a1NsLTUxZWpyRTlNQzNNRjUyTFVvTjJQQWRZS1RqRUhjdno2ZmVZQzA0dXQtaFdXbVk4Yl96Q0E?oc=5",
-   "source": "www.tmgm.com",
-   "type": "news",
-   "published": "2026-10-17T08:37:30+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Deutsche Bank"
-   ]
-  },
-  {
-   "title": "DTCC Outlines 25-Security Tokenization Rollout on Canton and Besu",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOallHX1hXV0xfTlRTZVFZUF9VajJIbjFfNktrNUxmcFR0OENKWW9IUnRsMkdQV2x5eldLU25mNFhTTldkZWJ5bmlxek5SZEhoMTh4Rmo5a042QjBJQWw5V0lnMnVZMFJiRFhuaXNpVFNfZEhQSGdFYUlDNUtmQTNfRjBjTUFZa3FIdm9RdW9JWVlEVktIWW9rUVlLa21JRFBUZzNJRjluTEZOdEw5UzNPZzNnQm5Kdw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-17T08:34:45+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "SoftwareOne Holding (SWX:SWON) Wins OpenAI Role, Is The AI Upside Already Priced In?",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMGd5NTdUTTUxeFh4U1p0RVExMkt6Z002Y0Ntck9lcG9NckFWenhKVTdkYVVEQjZSWlJRZnVxMldnaEozcUpNc0JpTk5lcUN5SkJVQnpLTGRSNTdWang2QjFQRXBSWDlpTzdBQ3NrRm9BUzJmenpYM29HUWxlXzkxelFQY1VxUzNzWWZKMVRkdktoOXRjSWY3UHAxOXAwUQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-17T08:15:51+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "OpenAI"
-   ]
-  },
-  {
-   "title": "ASTS Stock Price Forecast: SpaceX Spectrum Competition Panic Overdone, Deutsche Bank Says Pullback Offers Entry Window",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcVlydjRUeGR1X0RHQlBKMEdQenRmcGVMaFY2eGdYREVTQkR6c2pvN1RvcjlURE1EZXNiVm1kZjh2T3pKVkdpUzFmblFKQnBIeTM0Q1BONWlfcW9fV29JZWdXTjh3ZlpERm13YUd3UmxDUVFpV1ZGcDRPcm1uNXFJOGhPRmNvNzJJRXFQWWY0dmdLV094M0ctMTNnSXJmU1k4b2FwNGJvZHp2dVYySFNmS3RaOC1YdHNnUTBQcXhhMTVYbWIyM01ROHFBYXZsYllGZUdFNGt3UFlHLTcw?oc=5",
-   "source": "TradingKey",
-   "type": "news",
-   "published": "2026-10-17T08:08:15+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Deutsche Bank"
-   ]
-  },
-  {
-   "title": "After MSCI Warning, Indonesian Stocks Suffer Worst Single-Day Fall In 28 Years",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDcxc1RZM3lNMnAzMVc2N182OXpNb2FlNEdWd2N0UFlQZzJpLWZackd2QmR4MXozV1pFN01WcTQ5MG1wdlAzSFBVVldWZ0JMV3JVUUpwaGE4WTRQdy02V21LQjduY0U1c3ByeEs0QnNLVVdUaGFueWlrWGxEMmlQclk1Z0xJMmNQZjk1UUZIZU1mM2ExTkd2OUw1TVFDQzdaQS10eEttLTN1TG9vQTgtbFk4MlFWUXY1VG9Z0gHDAUFVX3lxTE95VDNnVmFSa1JsZDNOV2VIMEFzN0lYb0R2cUo1OC14RmxabmtQcGZLdmw0OWNWVmJYNWdzWlZLdnN3eTlVQ1lNX013U1Boa2pOT3NuZ2lCN1ZxTS1ieDZhX1F1eE5QeVhLdnV4RUJCWlAtdkF4NDJYMnFGSkZxcS1pTlFpaE4tUGJxb0F1dHR0Q2VZOS1PcWpSY2MzbDgtZklzWVl2TExjT3pRTkpvTkRweTBjSTNDZlVHcVpkWUhEa21DTQ?oc=5",
-   "source": "NDTV Profit",
-   "type": "news",
-   "published": "2026-10-17T07:56:02+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "MSCI"
-   ]
-  },
-  {
-   "title": "RedotPay Raises $107M To Expand Stablecoin Payment Services",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWZnQXdULU5OdXA3ajAxdGRJbDFpRzZIMXlNblhPcmJyYUlweHd1a1ppc3o0d2k0bG96VFk3U2ZESHlZNXJYbE5Sbm5xaFotdk1aeHFtY2tpOGJwcWN6cTN0bUlDQ1FSc243WmdpbFpGaXBEcVlJME9FbHZ0WlNfUVpJME01cVl6ckRDMkNvbER3LVJBa0s4UWVURVp3c2RqYWVjcldOamx2Zw?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-17T07:47:38+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "MSCI Is Moving to Drop Strategy From Its Indexes. Could That Hit Bitcoin?",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXlLNDJLeUpBUGtFb0tmeW1Cem9KZlpJWldfSWFFZzd5bjRKQjFTUUd2MU5QMjhqRGtZUVZvQ2lPUU5sbUhiTzJaZ2JTZnJkLWVxTDFKc3FXckxQQ05YMGFzQ1VhZE91WFBmZ1lFV0plRFpvM1BabktFUndGUkZBRkZCdzhScVExamY3WmhNY3lDUlJDc19kdFFDR2FrWG1mRTJzZDRhQTF0NFVJYnJzUkEwMDRIVVlzbkYtVXk4eS1GTHE0YzdPNHdB?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-17T07:13:00+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Bitcoin",
-    "MSCI"
-   ]
-  },
-  {
-   "title": "What stocks did foreigners sell a month before MSCI reclassification news?",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVhxTUtzb2Z4c0wzeFdSVkN0RnktMXhVbWVPRzZfWXdWclVYa2NRWU5uWUJVY2ZsZDRfOVdENzctTmZMVHhPNldUdWNNRWkyM0tIQXlmak53QU1LNUlpTUhfWEFoZEZsc3BIX1ZaUTRObFViR0hWeEt4UmJvOE0tdmliM1RzYjE5am1LYjIxOTloN1VQTkx2MXhTR1dRR3FuSkZJRWhnSGtOTEZaZGVRejA2ZEI?oc=5",
-   "source": "IDNFinancials",
-   "type": "news",
-   "published": "2026-10-17T07:00:00+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "MSCI"
-   ]
-  },
-  {
-   "title": "Circle Wrapped Bitcoin USD (CIRBTC-USD) Cryptocurrency Profile & Facts - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbmxhMlFvcWhHR1BJY0x3QXR6UDlEb1JzQk1QcFdzbHNkamtYZjd0QXl4M2ZBQmNzTVl4M09QclJKalpEUjM0MzAyNTJmMEU1Z3FvS3hRbTlQNDlyTDdHTGlOWEY?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "type": "news",
-   "published": "2026-10-17T06:46:25+00:00",
-   "first_seen": "2026-10-17T16:00:07.090030+00:00",
-   "topics": [
-    "Bitcoin",
-    "Circle"
-   ]
-  },
-  {
-   "title": "Deutsche Bank prepares crypto custody launch in Germany, weighs Asia expansion",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFJVUUpqRmN0RDhaOWx4RGYtcjBrYUxzQmNzNjBTNkF1NmZiWHVnaVRiVHdjZDMxRFptY1EwMGFIbVJabkhFWVlMZUtBVUV5bjZkN1VCUGwwWjQyakk2M21Bdlc4anNaTVlJUGpHOWp6N21yV1lyc1diR0VrcVIxVHY4amFpWm5GMUp5ZkREUnE0b1JZOFFIcjV1NkV2MWkxbTZHN1hBbHI4NEhrT2pTQTVxUkFJenFIY081UEI2dkM?oc=5",
-   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "type": "news",
-   "published": "2026-10-17T06:44:03+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Deutsche Bank"
-   ]
-  },
-  {
-   "title": "Solana Apps Generate $193M in 30 Days Amid Real-World Assets Surge",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91VlRVTGRsQTQydmxZbE5wR2pMcE5FVlByQ29GS1FOODVZRDZ2R3J4RzJyT0VZdGhfa211R2UzbmdKd3Jib3QzVWFQa2RnX0dzM0dja1FET3k5Zw?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-17T06:40:13+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Deutsche Bank to launch bitcoin and ether custo...",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3U4bXpYRFotRDBza0lPZVJVdmp5dTc1WjJmLXo0MTJDbll0cE5ITUtFVFlXZUU2d1BQSHFjOHVZeEc0emZWclBBNU9xNUZhWWlhdHVKcGlKaW9rTGhtRzdTZXZaWkdWX1dMeDJsZWVhM2R0UjAyY1R1Z08yeS12S3ZWamY1MmxhRjBPODA0cTRXQnM?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-17T06:34:03+00:00",
-   "first_seen": "2026-10-17T11:14:35.320874+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "Deutsche Bank"
-   ]
-  },
-  {
-   "title": "Bitcoin dips below $80K briefly; Ledger tightens security; MSCI updates index rules for digital asset firms.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFlOLVNhaUZ3WGlTZ1I5RlVOYkk5ZGIxa3RsMU1SUWp3aEFXa3A0akFyN2JRTml3bW11azFPbERYaGhfSk9LZk1iTUc3c1BYQWNHQmRmZU0wZ3VsR0tHNVRnZ3d0MkVqQUV4SnRtRjcyV0tGSnNMbGdxSmZFZlA5QUlfUVp3VjNxaDdYRHJMR1p3OFlBTWtWQkVvMDRaMXFlRWdxZ1BxbmpMUQ?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-17T06:34:03+00:00",
-   "first_seen": "2026-10-18T06:15:32.909470+00:00",
-   "topics": [
-    "Bitcoin",
-    "MSCI"
-   ]
   }
  ],
  "stories": [
   {
-   "title": "Crypto News: Deutsche Bank to Launch Crypto Custody in Germany Soon",
-   "outlets": 7,
+   "title": "Deutsche Bank Says German Crypto Custody Launch Is Weeks Away",
+   "outlets": 4,
    "topics": [
     "Bitcoin",
     "Deutsche Bank"
    ],
    "items": [
     {
-     "title": "Bitcoin Price Prediction: Deutsche Bank Prepares BTC Custody Launch as Pepeto Targets 100x",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUxDMGhHSk1POVo2cEt6Ujdmb3JOaEEtYXJpWUhGZFF5eHBvVVBxdk0wcnRTZE1ETF9kSGpnNTYtLU9VMXdhT2NnckJ3bkVfX1JFQnlQMFY0RVo4Wk55M3RvOVVneHZTLURIZzFSSHVzT0JmdHNnaEFCNUhkVGpxT3lZbXJTVmJ3bjQ4OTJUdW5mYnB1RU5TVEdYb3VYbnBwdHNMeW1JeFBlTTh1NUtadV9reHE?oc=5",
-     "source": "TechBullion",
-     "type": "news",
-     "published": "2026-10-18T01:25:05+00:00"
-    },
-    {
      "title": "Deutsche Bank Nears Crypto Custody Launch for German Companies and Professional Investors",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54WDdJVDVRNU9nZ19OSDduWUM0QXNrbWc1VVU5LS00TTRQVUZodjlCdTFhaDlMSVptbzRQdmQ2QndNaFRzYnJSc2ZRbkd0TVJZNUZqb24tMms?oc=5",
-     "source": "www.tokenpost.com",
+     "source": "TOKENPOST",
      "type": "news",
      "published": "2026-10-17T22:49:40+00:00"
     },
@@ -2350,70 +2409,11 @@
      "source": "CoinMarketCap",
      "type": "news",
      "published": "2026-10-17T12:16:44+00:00"
-    },
-    {
-     "title": "Deutsche Bank to Launch Crypto Custody Service in Germany",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTJMd0szVFVYQ3RmSTlKNUlnSThWTS1IVXhTTjZvZ0NfOU5KbW5QbUs5bG50c2wzVnk2a2ZVNlpTYXcwZXcxdVNUWmR2Rk1hWXJySG5DekNzNnFxdTR6X1NmQkRJMG8xdllHWjFtQW5JZzJOc3BrV1ZYeVQwUHhzUVVneHNFZDZm?oc=5",
-     "source": "ForkLog",
-     "type": "news",
-     "published": "2026-10-17T11:00:00+00:00"
-    },
-    {
-     "title": "Deutsche Bank prepares crypto custody launch in Germany, weighs Asia expansion",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFJVUUpqRmN0RDhaOWx4RGYtcjBrYUxzQmNzNjBTNkF1NmZiWHVnaVRiVHdjZDMxRFptY1EwMGFIbVJabkhFWVlMZUtBVUV5bjZkN1VCUGwwWjQyakk2M21Bdlc4anNaTVlJUGpHOWp6N21yV1lyc1diR0VrcVIxVHY4amFpWm5GMUp5ZkREUnE0b1JZOFFIcjV1NkV2MWkxbTZHN1hBbHI4NEhrT2pTQTVxUkFJenFIY081UEI2dkM?oc=5",
-     "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-     "type": "news",
-     "published": "2026-10-17T06:44:03+00:00"
     }
    ]
   },
   {
-   "title": "MSCI rules could drop Strategy and Metaplanet from indexes from 30 November",
-   "outlets": 5,
-   "topics": [
-    "Bitcoin",
-    "MSCI"
-   ],
-   "items": [
-    {
-     "title": "MSCI rules could drop Strategy and Metaplanet from indexes from 30 November",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1FrdjJzakVpZS1HRzc1ZERNdGk4WnBlMTk1eWdRckxvanYzcXBlRUdtM1VTLW4zY0dKd0hkeEdSWWxuSUhIWVZWSVl2V2hIZmlUQlZvX1g1bDRUbFFtbDdSSTdFaGpHQWcxWnd4RjBMcWdQdHNwazdDX0xybkJZT1dOVTlmbDA3YXYwck1mM2RKN0lFalhlbmYxcG5hZEhPZTd4dlRYNjc1RC02X0FuN3REOHdnczFuUHhEZg?oc=5",
-     "source": "Forex Crunch",
-     "type": "news",
-     "published": "2026-10-18T00:40:13+00:00"
-    },
-    {
-     "title": "MSCI's new rule could drop Strategy from its indexes on Nov. 30",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ja1BNemZPcW15YWU2VnBnUDBZSG9DUDhwNHE5cTk3T3l0MmFWR0lKa0I1QzZmbW5zYmIyRzBQMmhBZV9xYTB0SWpHVlowYmZNeUdBcDhXRHpQZHZhNkc2VUpBbTliX3QwOE5ZZGEtTQ?oc=5",
-     "source": "Techi",
-     "type": "news",
-     "published": "2026-10-17T17:02:02+00:00"
-    },
-    {
-     "title": "MSCI to Remove Crypto Treasury Firms, Including Strategy, From Indexes",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmpBVDVZWDFPT3VYc0NJMlRsenNuSks2Y1lVVmdsdUxJTlNYQkJoYTlnc182LU5vNnJTWmdJNUpqUVhFdzhIM0FXVTlBRVVReXR5anl1OHVSS2ZCOWZ4cGV6Uy04LWk3UTZJVnFCVUNFcmthbFNwM19RWU1ad0xScFR6NGRmVDNxVGg0cGdsS0gzaVJtRHdKVllDS3JrNUNUeVRqeg?oc=5",
-     "source": "KuCoin",
-     "type": "news",
-     "published": "2026-10-17T15:53:31+00:00"
-    },
-    {
-     "title": "MSCI Rules Put Strategy and Metaplanet at Risk of Index Removal",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jNUNVZVZrbk5PX3hSaUxUY1hTME5SbnZ4a1RSSW1scmdybnB0LTYzVDNYcDVqRl9taWwxSk1tRzd6ZnJYeS1hMlRrSWdIZWtoelZyVS1COE9MN0lVdmFSNDhKWdIBY0FVX3lxTE1jNUNVZVZrbk5PX3hSaUxUY1hTME5SbnZ4a1RSSW1scmdybnB0LTYzVDNYcDVqRl9taWwxSk1tRzd6ZnJYeS1hMlRrSWdIZWtoelZyVS1COE9MN0lVdmFSNDhKWQ?oc=5",
-     "source": "Bitget",
-     "type": "news",
-     "published": "2026-10-17T09:24:02+00:00"
-    },
-    {
-     "title": "MSCI Is Moving to Drop Strategy From Its Indexes. Could That Hit Bitcoin?",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXlLNDJLeUpBUGtFb0tmeW1Cem9KZlpJWldfSWFFZzd5bjRKQjFTUUd2MU5QMjhqRGtZUVZvQ2lPUU5sbUhiTzJaZ2JTZnJkLWVxTDFKc3FXckxQQ05YMGFzQ1VhZE91WFBmZ1lFV0plRFpvM1BabktFUndGUkZBRkZCdzhScVExamY3WmhNY3lDUlJDc19kdFFDR2FrWG1mRTJzZDRhQTF0NFVJYnJzUkEwMDRIVVlzbkYtVXk4eS1GTHE0YzdPNHdB?oc=5",
-     "source": "24/7 Wall St.",
-     "type": "news",
-     "published": "2026-10-17T07:13:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Circle CEO Targets 40 Developing Markets for Stablecoin Expansion",
+   "title": "Circle Targets 40 Emerging Markets for Expansion",
    "outlets": 3,
    "topics": [
     "Circle",
@@ -2428,32 +2428,39 @@
      "published": "2026-10-17T17:38:00+00:00"
     },
     {
+     "title": "Circle pushes USDC into 40 \u2019emerging\u2019 markets as crypto liquidity hits turning point",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWllGOV8zcHZqbHlzb04xVUZtTDVnZzhrTG1odTZGeXZOWDgwMk5pQ1JacUZaQ0UtMEE4UGpudF85Y2RTTlpnaVRKTVpQRUpzS1JPcVFuTzNuWjFvTjVtN2E3OU9NbHhvQWIySmtldUdyMmZZQ21zNmVvRzc1RGNHeVZ3OU1NeWtscXRQUXlkVFMwMlVIbTdPR1dEZ25yYzlkOWdKVktESEw?oc=5",
+     "source": "AMBCrypto",
+     "type": "news",
+     "published": "2026-10-17T16:00:47+00:00"
+    },
+    {
      "title": "Circle Targets 40 Emerging Markets for Expansion",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzgyaHNVU08yN0NkRnR2ZW9PZXdNZ2JSc0xjNTdTdzh5NktMWDhhUEg1N2s0TkJQSlBLcVE0WGU5R0RYMjVZcGZVTXVlcFU0dTBRSTFvZDdFWE1saW8tanNTbW9LYU1pSmcyOWFkLV9xODZIbTlJN01SbE5VWFVYMWlNbG9VX0JDRkE?oc=5",
      "source": "KuCoin",
      "type": "news",
      "published": "2026-10-17T12:15:04+00:00"
-    },
-    {
-     "title": "Circle CEO Targets 40 Developing Markets for Stablecoin Expansion",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUVwOHRkQnViUVJqazNTWl9zV3ZsQzRrNk5RNnhtRW9BRUFrcndIZS1qSFZJaTl3S3J6dHhWR2FOb0ladzBBWWJkREtQeUJGeFVjVkpYQ0pGSlpJMkJFSG44SVZ6TUFVT1B5Vkd3TUdNdXB5U2trRGlJLTlxSlNUd1M2T3J6OUdrNEJ2UW9vUml6dk1UeGRoTjEzQjY0MVNO?oc=5",
-     "source": "KuCoin",
-     "type": "news",
-     "published": "2026-10-17T11:04:41+00:00"
-    },
-    {
-     "title": "Circle\u2019s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-     "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-17T10:00:07+00:00"
     }
    ]
   }
  ],
  "events": [],
- "headlines_served": 3814,
- "trend_candidates": [],
+ "headlines_served": 3898,
+ "trend_candidates": [
+  {
+   "key": "ceo",
+   "term": "CEO",
+   "count": 5,
+   "sources": [
+    "BigGo Finance",
+    "Cryptonews.net",
+    "TradingView",
+    "Yahoo Finance"
+   ],
+   "baseline": 0.97,
+   "ratio": 2.54
+  }
+ ],
  "baseline_days": 6,
  "sources": {
   "CoinDesk": "ok",
@@ -2461,7 +2468,7 @@
   "The Block": "ok",
   "Decrypt": "ok",
   "Bitcoin Magazine": "ok",
-  "CNBC": "error: The read operation timed out",
+  "CNBC": "ok",
   "MarketWatch": "ok"
  }
 }
