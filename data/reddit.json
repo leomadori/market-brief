@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T18:08:49.649996+00:00",
+ "generated_at": "2026-10-20T06:01:42.757766+00:00",
  "first_run": false,
  "sections": [
   {
@@ -12,12 +12,162 @@
    ],
    "items": [
     {
+     "title": "Daily Crypto Discussion",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xai6tp/daily_crypto_discussion/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-10-20T04:02:31+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "I miss the old crypto days",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xahhjm/i_miss_the_old_crypto_days/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-10-20T03:26:03+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Substreams just got faster!",
+     "url": "https://www.reddit.com/r/solana/comments/1xabxvz/substreams_just_got_faster/",
+     "source": "r/solana",
+     "type": "reddit",
+     "published": "2026-10-19T23:02:34+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Solana web3.js v3 now default npm install",
+     "url": "https://www.reddit.com/r/solana/comments/1xaa7no/solana_web3js_v3_now_default_npm_install/",
+     "source": "r/solana",
+     "type": "reddit",
+     "published": "2026-10-19T21:50:09+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "What annoys you the most about crypto?",
+     "url": "https://www.reddit.com/r/CryptoMarkets/comments/1xa9u97/what_annoys_you_the_most_about_crypto/",
+     "source": "r/CryptoMarkets",
+     "type": "reddit",
+     "published": "2026-10-19T21:35:01+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "In-wallet swap fees compared: MetaMask 0.875%, Phantom 0.85%, Jupiter 0% to 0.5%",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xa8zq6/inwallet_swap_fees_compared_metamask_0875_phantom/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-10-19T21:02:08+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "ADA news: Charles Hoskinson is personally building a new programming language for Cardano",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xa805n/ada_news_charles_hoskinson_is_personally_building/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-10-19T20:24:39+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "$ABNB, From Airbnb, Is Now Listed On Solana Via Sunrise, Issued By Backpack Securities",
+     "url": "https://www.reddit.com/r/solana/comments/1xa7qra/abnb_from_airbnb_is_now_listed_on_solana_via/",
+     "source": "r/solana",
+     "type": "reddit",
+     "published": "2026-10-19T20:14:56+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "What products are you missing in crypto and finance?",
+     "url": "https://www.reddit.com/r/CryptoMarkets/comments/1xa7m47/what_products_are_you_missing_in_crypto_and/",
+     "source": "r/CryptoMarkets",
+     "type": "reddit",
+     "published": "2026-10-19T20:10:04+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Borrow USDC against USDY on Solana",
+     "url": "https://www.reddit.com/r/solana/comments/1xa681r/borrow_usdc_against_usdy_on_solana/",
+     "source": "r/solana",
+     "type": "reddit",
+     "published": "2026-10-19T19:18:45+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "[ Removed by Reddit ]",
+     "url": "https://www.reddit.com/r/solana/comments/1xa6804/removed_by_reddit/",
+     "source": "r/solana",
+     "type": "reddit",
+     "published": "2026-10-19T19:18:43+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Win rates mean almost nothing if the payout structure is different",
+     "url": "https://www.reddit.com/r/defi/comments/1xa5ztg/win_rates_mean_almost_nothing_if_the_payout/",
+     "source": "r/defi",
+     "type": "reddit",
+     "published": "2026-10-19T19:10:24+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Pump perps setup gives users more than one way to manage their positions",
+     "url": "https://www.reddit.com/r/solana/comments/1xa5ntb/pump_perps_setup_gives_users_more_than_one_way_to/",
+     "source": "r/solana",
+     "type": "reddit",
+     "published": "2026-10-19T18:58:27+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Anyone else think seed phrases are kind of a ridiculous system?",
+     "url": "https://www.reddit.com/r/defi/comments/1xa53lj/anyone_else_think_seed_phrases_are_kind_of_a/",
+     "source": "r/defi",
+     "type": "reddit",
+     "published": "2026-10-19T18:38:00+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
      "title": "$CHWY, From Chewy Inc, Is Now Listed On Solana Via Sunrise, Issued By Backpack Securities",
      "url": "https://www.reddit.com/r/solana/comments/1xa4cog/chwy_from_chewy_inc_is_now_listed_on_solana_via/",
      "source": "r/solana",
      "type": "reddit",
      "published": "2026-10-19T18:10:53+00:00",
      "first_seen": "2026-10-19T18:08:49.649996+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Richard Heart caught with his pants down during arrest, report",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xa4beo/richard_heart_caught_with_his_pants_down_during/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-10-19T18:09:42+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
      "topics": [],
      "section": "Altcoins"
     },
@@ -152,6 +302,16 @@
      "section": "Altcoins"
     },
     {
+     "title": "How much does a Schedule K-1 influence your investment decisions?",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x9z5n5/how_much_does_a_schedule_k1_influence_your/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-10-19T14:58:30+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
      "title": "Is 24/7 trading worth it if RWA assets don't give you shareholder rights?",
      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x9yevf/is_247_trading_worth_it_if_rwa_assets_dont_give/",
      "source": "r/CryptoCurrency",
@@ -272,16 +432,6 @@
      "section": "Altcoins"
     },
     {
-     "title": "Real-world lag from TradingView alert to crypto execution: seconds or worse?",
-     "url": "https://www.reddit.com/r/CryptoMarkets/comments/1x9nnjy/realworld_lag_from_tradingview_alert_to_crypto/",
-     "source": "r/CryptoMarkets",
-     "type": "reddit",
-     "published": "2026-10-19T04:43:24+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
      "title": "Daily Crypto Discussion",
      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x9mxvz/daily_crypto_discussion/",
      "source": "r/CryptoCurrency",
@@ -320,156 +470,6 @@
      "first_seen": "2026-10-19T06:01:59.845454+00:00",
      "topics": [],
      "section": "Altcoins"
-    },
-    {
-     "title": "Anyone tested QuickNode`s vault rebalancing?",
-     "url": "https://www.reddit.com/r/CryptoMarkets/comments/1x99k5w/anyone_tested_quicknodes_vault_rebalancing/",
-     "source": "r/CryptoMarkets",
-     "type": "reddit",
-     "published": "2026-10-18T17:52:05+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Solana Ecosystem News - October 18-2026",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x991yw/solana_ecosystem_news_october_182026/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-10-18T17:31:51+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Bitcoin's Quantum Transition Won't Stop at Bitcoin",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x97ujd/bitcoins_quantum_transition_wont_stop_at_bitcoin/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-10-18T16:43:22+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Grayscale: Solana averages 1,400 TPS ahead of upgrade",
-     "url": "https://www.reddit.com/r/solana/comments/1x96kyz/grayscale_solana_averages_1400_tps_ahead_of/",
-     "source": "r/solana",
-     "type": "reddit",
-     "published": "2026-10-18T15:52:42+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Weekly DeFi discussion. What are your moves for this week?",
-     "url": "https://www.reddit.com/r/defi/comments/1x961bk/weekly_defi_discussion_what_are_your_moves_for/",
-     "source": "r/defi",
-     "type": "reddit",
-     "published": "2026-10-18T15:30:08+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Saved by KYC",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x95ucj/saved_by_kyc/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-10-18T15:21:54+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "\ud83d\udea8 SOLANA LEADS IN STABLECOIN TRANSFERS",
-     "url": "https://www.reddit.com/r/solana/comments/1x958an/solana_leads_in_stablecoin_transfers/",
-     "source": "r/solana",
-     "type": "reddit",
-     "published": "2026-10-18T14:56:45+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Solandy - Kit Program Plugins [Solana Tutorial] - Oct 10th '26",
-     "url": "https://www.reddit.com/r/solana/comments/1x943av/solandy_kit_program_plugins_solana_tutorial_oct/",
-     "source": "r/solana",
-     "type": "reddit",
-     "published": "2026-10-18T14:07:00+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "[ Removed by Reddit ]",
-     "url": "https://www.reddit.com/r/defi/comments/1x93yzn/removed_by_reddit/",
-     "source": "r/defi",
-     "type": "reddit",
-     "published": "2026-10-18T14:01:40+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Daily Crypto Discussion - October 18, 2026",
-     "url": "https://www.reddit.com/r/CryptoMarkets/comments/1x92npg/daily_crypto_discussion_october_18_2026/",
-     "source": "r/CryptoMarkets",
-     "type": "reddit",
-     "published": "2026-10-18T13:00:49+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "I made a free game: retire on Bitcoin with $500k in any month since 2013, then live through the real price history. Does your stack survive?",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x92jne/i_made_a_free_game_retire_on_bitcoin_with_500k_in/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-10-18T12:55:31+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Veworld.ai on IOS mobile",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x91n9l/veworldai_on_ios_mobile/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-10-18T12:08:40+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "This is how a \"hacker\" wallet looks like",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x91flk/this_is_how_a_hacker_wallet_looks_like/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-10-18T11:57:53+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "The QAnon of Crypto",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x90xbu/the_qanon_of_crypto/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-10-18T11:29:35+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Best pools for full range or a wide range?",
-     "url": "https://www.reddit.com/r/defi/comments/1x90qi9/best_pools_for_full_range_or_a_wide_range/",
-     "source": "r/defi",
-     "type": "reddit",
-     "published": "2026-10-18T11:18:04+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Altcoins"
     }
    ],
    "heat": [
@@ -479,27 +479,55 @@
      "mentions": 12,
      "subs": 3,
      "posts": [
-      0,
-      1,
-      8,
-      12,
-      13,
+      3,
+      7,
+      9,
+      14,
       16,
-      17,
-      18,
-      21,
+      23,
+      27,
+      28,
       32,
+      33,
       34,
-      38
+      37
      ]
     },
     {
      "ticker": "BP",
      "name": "Backpack",
+     "mentions": 2,
+     "subs": 1,
+     "posts": [
+      7,
+      14
+     ]
+    },
+    {
+     "ticker": "JUP",
+     "name": "Jupiter",
      "mentions": 1,
      "subs": 1,
      "posts": [
-      0
+      5
+     ]
+    },
+    {
+     "ticker": "ADA",
+     "name": "Cardano",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      6
+     ]
+    },
+    {
+     "ticker": "USDY",
+     "name": "Ondo US Dollar Yield",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      9
      ]
     },
     {
@@ -508,7 +536,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      3
+      18
      ]
     },
     {
@@ -517,7 +545,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      6
+      21
      ]
     },
     {
@@ -526,16 +554,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      15
-     ]
-    },
-    {
-     "ticker": "XRP",
-     "name": "XRP",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      18
+      31
      ]
     },
     {
@@ -544,7 +563,16 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      18
+      34
+     ]
+    },
+    {
+     "ticker": "XRP",
+     "name": "XRP",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      34
      ]
     }
    ]
@@ -561,6 +589,206 @@
    ],
    "items": [
     {
+     "title": "Any Pennystocks related to oil?",
+     "url": "https://www.reddit.com/r/pennystocks/comments/1xakpd0/any_pennystocks_related_to_oil/",
+     "source": "r/pennystocks",
+     "type": "reddit",
+     "published": "2026-10-20T06:28:08+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Why is everyone choosing Roth?",
+     "url": "https://www.reddit.com/r/investing/comments/1xaizk6/why_is_everyone_choosing_roth/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-20T04:46:44+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "I invested a bunch in ETFs (SEMI, ASIA, HACK) (all ASX-listed ETFs) then the market crashed a day later. Any advice?",
+     "url": "https://www.reddit.com/r/investing/comments/1xaia4q/i_invested_a_bunch_in_etfs_semi_asia_hack_all/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-20T04:07:24+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "The FUTR Corporation",
+     "url": "https://www.reddit.com/r/pennystocks/comments/1xai9wl/the_futr_corporation/",
+     "source": "r/pennystocks",
+     "type": "reddit",
+     "published": "2026-10-20T04:07:04+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "The Lounge",
+     "url": "https://www.reddit.com/r/pennystocks/comments/1xai5o1/the_lounge/",
+     "source": "r/pennystocks",
+     "type": "reddit",
+     "published": "2026-10-20T04:01:00+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Best investment strategy for self controlled 401K",
+     "url": "https://www.reddit.com/r/investing/comments/1xagyte/best_investment_strategy_for_self_controlled_401k/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-20T02:59:43+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xaf8fl/nvidiabacked_nscale_anthropic_in_talks_for_new_45/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-10-20T01:34:44+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Questions about growth investing.",
+     "url": "https://www.reddit.com/r/investing/comments/1xae83b/questions_about_growth_investing/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-20T00:47:21+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Spyr new binding agreement",
+     "url": "https://www.reddit.com/r/pennystocks/comments/1xadh76/spyr_new_binding_agreement/",
+     "source": "r/pennystocks",
+     "type": "reddit",
+     "published": "2026-10-20T00:11:48+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+     "url": "https://www.reddit.com/r/stocks/comments/1xacjv1/openai_seeks_to_accelerate_fundraising_ahead_of/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-10-19T23:30:18+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Can REITs make money on residential properties without renting any units?",
+     "url": "https://www.reddit.com/r/investing/comments/1xabix7/can_reits_make_money_on_residential_properties/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-19T22:44:23+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "I see a lot of optimism for Nike stock since its recovery from its earnings slump.",
+     "url": "https://www.reddit.com/r/stocks/comments/1xa97qh/i_see_a_lot_of_optimism_for_nike_stock_since_its/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-10-19T21:10:17+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "AMZN just jumped 5% because MS gave their stock an upgrade. Considering a single investment bank can manipulate the stock price of a $3 trillion company, why is it legal for IB's to do so?",
+     "url": "https://www.reddit.com/r/investing/comments/1xa7fha/amzn_just_jumped_5_because_ms_gave_their_stock_an/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-19T20:03:12+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Assisting a friend in investments",
+     "url": "https://www.reddit.com/r/investing/comments/1xa6nx6/assisting_a_friend_in_investments/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-19T19:35:16+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "How do you research the clean energy sector and its long-term growth?",
+     "url": "https://www.reddit.com/r/stocks/comments/1xa6nhm/how_do_you_research_the_clean_energy_sector_and/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-10-19T19:34:50+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Have you changed where/how you hold cash?",
+     "url": "https://www.reddit.com/r/investing/comments/1xa694v/have_you_changed_wherehow_you_hold_cash/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-19T19:19:54+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "China Q3 GDP hits 4.5% and retail sales came in double what forecasters expected",
+     "url": "https://www.reddit.com/r/investing/comments/1xa5ysc/china_q3_gdp_hits_45_and_retail_sales_came_in/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-19T19:09:18+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "France is getting hit from two directions at once and the bond market is starting to notice",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xa5xxa/france_is_getting_hit_from_two_directions_at_once/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-10-19T19:08:28+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Soft commodities are waking up and El Ni\u00f1o isn't even at its peak yet",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xa5qng/soft_commodities_are_waking_up_and_el_ni\u00f1o_isnt/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-10-19T19:01:07+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Looking for low margin rates",
+     "url": "https://www.reddit.com/r/investing/comments/1xa5nrs/looking_for_low_margin_rates/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-10-19T18:58:26+00:00",
+     "first_seen": "2026-10-20T06:01:42.757766+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
      "title": "DAIO (Data I/O) just signed a deal to 2x revenue.",
      "url": "https://www.reddit.com/r/pennystocks/comments/1xa4t9x/daio_data_io_just_signed_a_deal_to_2x_revenue/",
      "source": "r/pennystocks",
@@ -576,16 +804,6 @@
      "source": "r/StockMarket",
      "type": "reddit",
      "published": "2026-10-19T18:27:28+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "ATEYY: Key testing equipment supplier. Extreme underrated vender with a diverse and impressive list of customers NVDA,TSM,SKHY",
-     "url": "https://www.reddit.com/r/stocks/comments/1xa4f3s/ateyy_key_testing_equipment_supplier_extreme/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-19T18:13:16+00:00",
      "first_seen": "2026-10-19T18:08:49.649996+00:00",
      "topics": [],
      "section": "Stocks"
@@ -621,16 +839,6 @@
      "section": "Stocks"
     },
     {
-     "title": "Rivian at almost 52w low, so I doubled down",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xa2z09/rivian_at_almost_52w_low_so_i_doubled_down/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T17:20:47+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
      "title": "AI trade and mid-term elections",
      "url": "https://www.reddit.com/r/stocks/comments/1xa2u0n/ai_trade_and_midterm_elections/",
      "source": "r/stocks",
@@ -651,16 +859,6 @@
      "section": "Stocks"
     },
     {
-     "title": "5X or nothing on these Google calls",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xa271t/5x_or_nothing_on_these_google_calls/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T16:52:24+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
      "title": "SM / SMDRF has a second silver mine to work on alongside La Guitarra",
      "url": "https://www.reddit.com/r/pennystocks/comments/1xa1kcc/sm_smdrf_has_a_second_silver_mine_to_work_on/",
      "source": "r/pennystocks",
@@ -671,31 +869,11 @@
      "section": "Stocks"
     },
     {
-     "title": "How do you research the clean energy sector and its long term growth?",
-     "url": "https://www.reddit.com/r/investing/comments/1xa1hcf/how_do_you_research_the_clean_energy_sector_and/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-19T16:25:33+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
      "title": "Is Burford Capital a good investment?",
      "url": "https://www.reddit.com/r/investing/comments/1xa0h7p/is_burford_capital_a_good_investment/",
      "source": "r/investing",
      "type": "reddit",
      "published": "2026-10-19T15:47:52+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "It\u2019s official. Everything\u2019s gone",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xa0bbn/its_official_everythings_gone/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T15:41:48+00:00",
      "first_seen": "2026-10-19T18:08:49.649996+00:00",
      "topics": [],
      "section": "Stocks"
@@ -721,41 +899,11 @@
      "section": "Stocks"
     },
     {
-     "title": "Elon Musk says he's giving SpaceX stock to every kid in America",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9ztp7/elon_musk_says_hes_giving_spacex_stock_to_every/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T15:23:29+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
      "title": "Schwab Options Order",
      "url": "https://www.reddit.com/r/options/comments/1x9z5ge/schwab_options_order/",
      "source": "r/options",
      "type": "reddit",
      "published": "2026-10-19T14:58:17+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Goal: $500",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9z35z/goal_500/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T14:55:48+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Houthis Warn Saudi Aramco Shareholders to Sell 'Before It's Too Late' as Attacks on Oil Facilities Escalate",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9z0oh/houthis_warn_saudi_aramco_shareholders_to_sell/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T14:53:02+00:00",
      "first_seen": "2026-10-19T18:08:49.649996+00:00",
      "topics": [],
      "section": "Stocks"
@@ -801,26 +949,6 @@
      "section": "Stocks"
     },
     {
-     "title": "GAIN: SeaGate $STX 10/23 exp $640 calls",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9x279/gain_seagate_stx_1023_exp_640_calls/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T13:35:21+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Bears Rekt",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9x0b9/bears_rekt/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T13:33:00+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
      "title": "Can someone help me understand placing a \"market order\" before the stock market opens? And how limit orders work as well?",
      "url": "https://www.reddit.com/r/stocks/comments/1x9wrft/can_someone_help_me_understand_placing_a_market/",
      "source": "r/stocks",
@@ -836,26 +964,6 @@
      "source": "r/StockMarket",
      "type": "reddit",
      "published": "2026-10-19T13:20:11+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "The market is pricing in large default risk on ai infrastructure comparing it to fibre optic. I think real bear case will take until 2028",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9wpc4/the_market_is_pricing_in_large_default_risk_on_ai/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T13:20:07+00:00",
-     "first_seen": "2026-10-19T18:08:49.649996+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "CASINO GOT EXTENDED HRS BOYS !!!! IT UP",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9vzia/casino_got_extended_hrs_boys_it_up/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T12:48:16+00:00",
      "first_seen": "2026-10-19T18:08:49.649996+00:00",
      "topics": [],
      "section": "Stocks"
@@ -886,16 +994,6 @@
      "source": "r/stocks",
      "type": "reddit",
      "published": "2026-10-19T11:42:49+00:00",
-     "first_seen": "2026-10-19T12:00:05.185538+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "YOLO: Micron $MU 0dte $880 calls",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9ujsu/yolo_micron_mu_0dte_880_calls/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T11:39:40+00:00",
      "first_seen": "2026-10-19T12:00:05.185538+00:00",
      "topics": [],
      "section": "Stocks"
@@ -951,16 +1049,6 @@
      "section": "Stocks"
     },
     {
-     "title": "Explain to me like I'm a freshman: \"Investing at 5%\" , what does it actually mean?",
-     "url": "https://www.reddit.com/r/investing/comments/1x9na4j/explain_to_me_like_im_a_freshman_investing_at_5/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-19T04:22:10+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
      "title": "The Lounge",
      "url": "https://www.reddit.com/r/pennystocks/comments/1x9mwl7/the_lounge/",
      "source": "r/pennystocks",
@@ -971,41 +1059,11 @@
      "section": "Stocks"
     },
     {
-     "title": "Professional Bull Riding",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9lrpi/professional_bull_riding/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T02:59:21+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
      "title": "Counter-parties and Risk: Analyzing Carvana\u2019s Raw ABS Data from the SEC (Pt. 2)",
      "url": "https://www.reddit.com/r/stocks/comments/1x9l5qu/counterparties_and_risk_analyzing_carvanas_raw/",
      "source": "r/stocks",
      "type": "reddit",
      "published": "2026-10-19T02:27:07+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9kmy4/oil_slips_as_trumps_sanction_waiver_may_lead_to/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T02:00:17+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "My first 10 bagger in the right direction",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9j14e/my_first_10_bagger_in_the_right_direction/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-19T00:39:16+00:00",
      "first_seen": "2026-10-19T06:01:59.845454+00:00",
      "topics": [],
      "section": "Stocks"
@@ -1031,26 +1089,6 @@
      "section": "Stocks"
     },
     {
-     "title": "Lost 268k in 0DTE options - I will never be able to recover from this financially",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9guju/lost_268k_in_0dte_options_i_will_never_be_able_to/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-18T22:53:31+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Worse feeling ever $BMBL",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9fw1g/worse_feeling_ever_bmbl/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-18T22:09:23+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
      "title": "AI Cloud Firm Nscale Faces Investor Pushback Over IPO Valuation",
      "url": "https://www.reddit.com/r/StockMarket/comments/1x9f9h4/ai_cloud_firm_nscale_faces_investor_pushback_over/",
      "source": "r/StockMarket",
@@ -1066,16 +1104,6 @@
      "source": "r/pennystocks",
      "type": "reddit",
      "published": "2026-10-18T20:50:48+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Bears practicing their shock when 'Black Monday' gets canceled for the 40th week in a row.",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9domz/bears_practicing_their_shock_when_black_monday/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-18T20:35:53+00:00",
      "first_seen": "2026-10-19T06:01:59.845454+00:00",
      "topics": [],
      "section": "Stocks"
@@ -1109,327 +1137,61 @@
      "first_seen": "2026-10-19T06:01:59.845454+00:00",
      "topics": [],
      "section": "Stocks"
-    },
-    {
-     "title": "Do you trade options differently on earnings weeks, or keep the same playbook?",
-     "url": "https://www.reddit.com/r/options/comments/1x99cnv/do_you_trade_options_differently_on_earnings/",
-     "source": "r/options",
-     "type": "reddit",
-     "published": "2026-10-18T17:43:54+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Forget the distractions, the AI trade hinges on Metas earnings report this week",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1x998et/forget_the_distractions_the_ai_trade_hinges_on/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-10-18T17:39:04+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Borr Drilling ($BORR): Insider Buys 750,000 Shares Worth $3.54 Million",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1x98jro/borr_drilling_borr_insider_buys_750000_shares/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-10-18T17:11:49+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "What % of your portfolio is foreign stock?",
-     "url": "https://www.reddit.com/r/investing/comments/1x9872z/what_of_your_portfolio_is_foreign_stock/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-18T16:57:57+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "10 Yolo Trades to Prove Buffett Wrong",
-     "url": "https://www.reddit.com/r/pennystocks/comments/1x984bz/10_yolo_trades_to_prove_buffett_wrong/",
-     "source": "r/pennystocks",
-     "type": "reddit",
-     "published": "2026-10-18T16:54:48+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "UK Gilts & Pensions - Leverage?",
-     "url": "https://www.reddit.com/r/investing/comments/1x983yr/uk_gilts_pensions_leverage/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-18T16:54:22+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Tesla / Space X time to buy or to hold?",
-     "url": "https://www.reddit.com/r/stocks/comments/1x97wpm/tesla_space_x_time_to_buy_or_to_hold/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T16:45:55+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "America\u2019s $10tn AI infrastructure boom is starting to fray",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1x96wvs/americas_10tn_ai_infrastructure_boom_is_starting/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-10-18T16:05:34+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "AI stock growth driven by deregulatory environment?",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1x96pf6/ai_stock_growth_driven_by_deregulatory_environment/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-10-18T15:57:46+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Be greedy when other people are fearful?",
-     "url": "https://www.reddit.com/r/investing/comments/1x96ckq/be_greedy_when_other_people_are_fearful/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-18T15:43:17+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle",
-     "url": "https://www.reddit.com/r/stocks/comments/1x95uxi/hanwhas_korean_spacex_ambitions_grow_as_work/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T15:22:34+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "South Korea's SK Hynix to Cover Up to 50% of Supplier R&D Costs Even If Projects Fail",
-     "url": "https://www.reddit.com/r/stocks/comments/1x95siu/south_koreas_sk_hynix_to_cover_up_to_50_of/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T15:19:47+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "How do you split long-term money and \u201cplay\u201d money, and what keeps the play part from eating the rest?",
-     "url": "https://www.reddit.com/r/investing/comments/1x95qh3/how_do_you_split_longterm_money_and_play_money/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-18T15:17:24+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Stock Simulator Game Recs",
-     "url": "https://www.reddit.com/r/investing/comments/1x95nea/stock_simulator_game_recs/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-18T15:13:48+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "IREN, new official sponsor of Real Madrid",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x9577h/iren_new_official_sponsor_of_real_madrid/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-18T14:55:28+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "US interest costs hit a record and 5% on the 10-year is now the floor",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1x9576l/us_interest_costs_hit_a_record_and_5_on_the/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-10-18T14:55:27+00:00",
-     "first_seen": "2026-10-19T06:01:59.845454+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Andy Jassy: AWS is sold out beyond 2028. Different from dotcom.",
-     "url": "https://www.reddit.com/r/stocks/comments/1x94h24/andy_jassy_aws_is_sold_out_beyond_2028_different/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T14:23:52+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Where would AVGO end up if Anthropic and OpenAI go belly up?",
-     "url": "https://www.reddit.com/r/stocks/comments/1x94d0j/where_would_avgo_end_up_if_anthropic_and_openai/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T14:18:50+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Latest DeepSeek news",
-     "url": "https://www.reddit.com/r/stocks/comments/1x941a4/latest_deepseek_news/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T14:04:31+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Microsoft pulls out of UK neocloud deal with Nscale backed by NVIDIA, just before the startup\u2019s massive $35B IPO",
-     "url": "https://www.reddit.com/r/stocks/comments/1x93bu1/microsoft_pulls_out_of_uk_neocloud_deal_with/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T13:32:24+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Euro slides to 18 month lows against US dollar and British pound despite ECB rate hikes",
-     "url": "https://www.reddit.com/r/stocks/comments/1x93103/euro_slides_to_18_month_lows_against_us_dollar/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T13:18:20+00:00",
-     "first_seen": "2026-10-18T18:10:45.470001+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "When to switch from growth to income? Assuming a growth rate went close to retirement",
-     "url": "https://www.reddit.com/r/investing/comments/1x9281f/when_to_switch_from_growth_to_income_assuming_a/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-18T12:39:15+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Did SpaceX ever get rug pulled?",
-     "url": "https://www.reddit.com/r/stocks/comments/1x91mg5/did_spacex_ever_get_rug_pulled/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T12:07:30+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Is it better to move money directly from bank account to Roth, or to sell off ETFs to move money to the Roth?",
-     "url": "https://www.reddit.com/r/investing/comments/1x91llc/is_it_better_to_move_money_directly_from_bank/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-18T12:06:13+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "China\u2019s gallium export ban could return Nov 27. Is anyone watching AXTI, AAOI adn COHR?",
-     "url": "https://www.reddit.com/r/stocks/comments/1x915t6/chinas_gallium_export_ban_could_return_nov_27_is/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T11:42:53+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "gg",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x90lu4/gg/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-18T11:10:28+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Put your feet in the grass",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1x90b4m/put_your_feet_in_the_grass/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-10-18T10:53:23+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "is options a good play now?",
-     "url": "https://www.reddit.com/r/options/comments/1x8zzy7/is_options_a_good_play_now/",
-     "source": "r/options",
-     "type": "reddit",
-     "published": "2026-10-18T10:34:45+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "ASML Q3 2026: record quarter, full-year guidance raised",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1x8y365/asml_q3_2026_record_quarter_fullyear_guidance/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-10-18T08:32:55+00:00",
-     "first_seen": "2026-10-18T12:00:13.810329+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Pulled all of my French stock out due to chaos in France.",
-     "url": "https://www.reddit.com/r/stocks/comments/1x8wlie/pulled_all_of_my_french_stock_out_due_to_chaos_in/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-10-18T07:00:57+00:00",
-     "first_seen": "2026-10-18T06:15:32.909688+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Tech equipment and software investment is 5.1% of GDP, above its 2000 level",
-     "url": "https://www.reddit.com/r/investing/comments/1x8vsug/tech_equipment_and_software_investment_is_51_of/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-10-18T06:12:07+00:00",
-     "first_seen": "2026-10-18T06:15:32.909688+00:00",
-     "topics": [],
-     "section": "Stocks"
     }
    ],
    "heat": [
     {
-     "ticker": "AXTI",
-     "name": "AXT Inc",
-     "mentions": 2,
+     "ticker": "ASIA",
+     "name": "Matthews Pacific Tiger Active ETF",
+     "mentions": 1,
      "subs": 1,
      "posts": [
-      8,
-      79
+      2
+     ]
+    },
+    {
+     "ticker": "HACK",
+     "name": "Amplify Cybersecurity ETF",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "ticker": "SEMI",
+     "name": "Columbia Select Technology ETF",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "ticker": "ASX",
+     "name": "ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "ticker": "MS",
+     "name": "Morgan Stanley Common Stock",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      12
+     ]
+    },
+    {
+     "ticker": "AMZN",
+     "name": "Amazon.com, Inc.",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      12
      ]
     },
     {
@@ -1438,34 +1200,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      0
-     ]
-    },
-    {
-     "ticker": "NVDA",
-     "name": "NVIDIA Corporation",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      2
-     ]
-    },
-    {
-     "ticker": "SKHY",
-     "name": "SK hynix Inc.",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      2
-     ]
-    },
-    {
-     "ticker": "TSM",
-     "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      2
+      20
      ]
     },
     {
@@ -1474,7 +1209,16 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      5
+      24
+     ]
+    },
+    {
+     "ticker": "AXTI",
+     "name": "AXT Inc",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      26
      ]
     },
     {
@@ -1483,34 +1227,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      10
-     ]
-    },
-    {
-     "ticker": "PR",
-     "name": "Permian Resources Corporation Class A Common Stock",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      14
-     ]
-    },
-    {
-     "ticker": "NRXP",
-     "name": "NRX Pharmaceuticals, Inc.",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      14
-     ]
-    },
-    {
-     "ticker": "STX",
-     "name": "Seagate Technology Holdings PLC",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      24
+      27
      ]
     }
    ]
@@ -1521,7 +1238,7 @@
   "r/CryptoMarkets": "ok",
   "r/solana": "ok",
   "r/defi": "ok",
-  "r/wallstreetbets": "ok",
+  "r/wallstreetbets": "error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
   "r/stocks": "ok",
   "r/investing": "ok",
   "r/pennystocks": "ok",
