@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T11:02:51.147379+00:00",
+ "generated_at": "2026-10-22T16:00:05.546465+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 64
+   "item_count": 53
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 17
+   "item_count": 22
   },
   {
    "name": "Ethereum",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 53
+   "item_count": 58
   },
   {
    "name": "DEFI",
@@ -71,7 +71,29 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 40
+   "item_count": 47
+  },
+  {
+   "name": "Robinhood",
+   "kind": "trend",
+   "aliases": [
+    "Robinhood"
+   ],
+   "first_seen": "2026-10-22",
+   "count": 9,
+   "ratio": 9.0,
+   "item_count": 23
+  },
+  {
+   "name": "OCC Finalizes",
+   "kind": "trend",
+   "aliases": [
+    "OCC Finalizes"
+   ],
+   "first_seen": "2026-10-21",
+   "count": 8,
+   "ratio": 5.01,
+   "item_count": 19
   },
   {
    "name": "Trump",
@@ -82,7 +104,7 @@
    "first_seen": "2026-10-22",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 27
+   "item_count": 23
   },
   {
    "name": "FCA",
@@ -93,18 +115,7 @@
    "first_seen": "2026-10-22",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 11
-  },
-  {
-   "name": "Robinhood",
-   "kind": "trend",
-   "aliases": [
-    "Robinhood"
-   ],
-   "first_seen": "2026-10-22",
-   "count": 5,
-   "ratio": 5.0,
-   "item_count": 20
+   "item_count": 14
   },
   {
    "name": "MiCA",
@@ -115,21 +126,987 @@
    "first_seen": "2026-10-22",
    "count": 6,
    "ratio": 4.65,
-   "item_count": 26
+   "item_count": 22
   },
   {
-   "name": "OCC",
+   "name": "Cardano",
    "kind": "trend",
    "aliases": [
-    "OCC"
+    "Cardano"
    ],
-   "first_seen": "2026-10-21",
-   "count": 12,
-   "ratio": 4.3,
-   "item_count": 41
+   "first_seen": "2026-10-22",
+   "count": 6,
+   "ratio": 4.11,
+   "item_count": 28
   }
  ],
  "items": [
+  {
+   "title": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2s0dWJ2aEgzNEZSVUVLMU5Fd1cyMFpKX052a1RVeDhNRW9NV0NRa1JyLWoxbngyX2ZKcTRUeHdvTUFVV0UzbjdZdkhyb1ZIREstbDZBWWF0VDdXWXlublZyV0ZlTHVRWXRITHZ3X2dyQi1tT2FXMkUyYmI3R2dpbTdZMi1IcHI5akR1QndVb3hLM3d6MzJuajZXQlc?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-10-22T15:50:32+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
+   ]
+  },
+  {
+   "title": "Robinhood\u2019s Crypto Revenue Fell 38% Last Quarter. Can It Bounce Back in Q3?",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaWktbVhwdE1lVjdRVEd5V0JTb3JRQnZnNWtRSUQ0RUdJWVVxMy1fMFFYZndjN1JoWVNKcXUyaGQzQWpmSEx3NldXel9LbndFakpxejFQYmJMbldLbjZBN094S2Mwak9PS0dzbFFLNkltV2pDVTlNWk5UVC1GaUZ1RjFjR011V2lNTkFwdWppcXZSaEdNQzVLNjFjNlY3VFhXaHNUMGZZMjNTVmdGdDU5aHR4RE44d1ZvZktWaE43V1VQSml3YU93NnVR?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-10-22T15:48:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "Robinhood Chain reaches $1.14B TVL as Morpho enables stock-token loans",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LbFQ1NzktbXVadUFPMkctbXk5RUFtUE9rSXROa1VldUxWcXJKLXhXdE1vV3Q3bURkeDRiMUdjdjAxX0VfYUl5aC0zVVozYTYxSE9ELWV6ZDJOUUZzcUExSEt0OURpZWJVRUhYdGFWUmtSM0JOTmZnOE1Ybw?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-10-22T15:47:30+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "USDT or USDC: the key points before the October 30 deadline",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QS01wdlE0c3pnOWFJZERiZThPZ3cwTndBMjVTNTZXblA0b2UySDlBdXVReExOcnlrOXhoT2JYMUQtcXV0LWQ0QXNmSE5QeVhjQ0FFX3VQb1dEYVZSRHE3QVFITVc?oc=5",
+   "source": "CryptoTicker",
+   "type": "news",
+   "published": "2026-10-22T15:42:22+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin ATM service to shut down in Oregon under settlement",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmpmclBqSjdUWVA3b3ljMGFhbm41WjlENTJiVHZYWWlxZDhDOER6VzFPM3h1dFhHM0ZZdElKclBiSGl5ZGhDLUEwckw1Q2dTOE8zQWpNZl9jV09LNlJoTlFDcTVWWVpSZTVkYU9OVzhiMWNQS2Jid3FUX0JBZE1UR0gtZklDUEJySkJiekxwMVdQa2RKR2R2amVadlYzWmtZ?oc=5",
+   "source": "The Daily Chronicle",
+   "type": "news",
+   "published": "2026-10-22T15:41:35+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Uniswap v4 Is Now an Aggregator: Uniswap Labs Launches Aggregator Hooks By Chainwire",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdEtOemFUeHNpYWVuWVlQaUxGcjZXVjRhOWZqUTJiTkVKQXJOSy1nNnU3NDYwQVhwUFFYdHBaa2Z3WWtKczh0ZjRzVFNxWVlBWWJFRjNxOFd6cVVQaUUyVFNscFhzX0xYWDlDM1BmX0dyeF9DSHc3TFFudDFtbjFXbUhNcUtNMWc4RjdQNzRpUGU0NFJaOWtldHlVODZlZ1QtOUFRaG0zbWd4Q0tWaVBXck5XU2ZkaHgzSVVIdDNwWU4zNFpQWWRVQw?oc=5",
+   "source": "Investing.com",
+   "type": "news",
+   "published": "2026-10-22T15:40:33+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "US Government Bitcoin Transfer Sends $1B to Unknown Wallet",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3QzZGl5eGFQWnpQNjRNUEFJdGZtbElpUUNKcjNOVnRSakt6Qk9IV011YTNiWEZBT0pBYlNNMUpqOEpEQ0R6dmxhZEIzdDllTlZmUWtFU3FCOVI5U1pva3RnRFo0UDhidU5zRXNZZzVNckl4WmRZQ0tmUW9jRDAzeVk4eDJzTFZFaUphRFBYV0xlQkZDVjc3Wng4SHFpcEkwY2d0NEF6M1E?oc=5",
+   "source": "Bitcoin Foundation",
+   "type": "news",
+   "published": "2026-10-22T15:38:28+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
+   "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-22T15:35:01+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin",
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "XRP Is 63% Below Its All-Time High and Ethereum 51%. Which Reclaims their ATH First?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1lXbWdKUE93RFhrSXBwSnViU2RZUzB2ODZ3Z3JVWDFwclpSaWY0Unc2MVlqbEt5NmFMSVl4MXNNOEphUWdfeHByUjB3RU5PZm5SZ2pmUFVOcE94aHd5Rm1iaGRhdWM3Rkl5S1owSjk3Ry1HRFN6NlBZVDk5aWhJTlE5UWUtZ0tFS1J6dUJxWW0?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T15:34:03+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Cardano Academy joins UNIC blockchain course with 25 sponsored places",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zcGN3UGNkODFkaF91UkE2a2YyX0t5a2hmMTIxM1IwOU9xSWtFZWk0VUVSekNadEVtTTdKbDhONXd4Q21kVUZRS2NPUHR3MGpOaHFIX0NnODZqNnJOUmI1dDJJM1p6UFFEcXFhd2V1ektfbWExaHRPT2pjLW8?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-10-22T15:27:23+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
+   ]
+  },
+  {
+   "title": "China Moves to Seize 61,800 Bitcoin in $5.7B Fraud Case",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OMGJpRnhnU2pIajJNb05waGFYeGFvaE8yLXQ5Qll3ZjAxbS1YSlR5dUJ5VkxyNENwN3RjMkpuTVFITFFnd0lKRXJHdEtHTUVaNjY1SjhDVTBFdy1ZZ3BqcTRrX3E2Q3R1N1FRZ0hlSFBleENCbWhwUWVSWEo2N2c?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "type": "news",
+   "published": "2026-10-22T15:25:53+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Pendle Finance Lists Over 100 RWA Markets as DeFi Gains",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGODltZm03bGpKWWU0ZmVacFVSRllaYmJWeDF1R3FMZ3dHUGxaTDVhZHphWlFKeEN0dUlJM3cyMDFNX2Q2NE40T1JjUlh6cUFiMXAyRQ?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-22T15:24:23+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Morpho Adds Loans Backed by Robinhood Tokenized Stocks, Opens Integration to External Apps",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95eE0zMDZScVlfbjVIT3RMRjBldkxSVWQ0clZJS0Z1Z2pKUXZYZDI0anBsMUtRUzhzTlRjTTlZdGxudmpGdE96ZVhEekNtaGN2RUVyeQ?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-10-22T15:05:11+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA",
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "Cardano (ADA) Delegators' Votes Stop Counting as DRep Chris O Steps Down, the Second Sui Shift This Year",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RcU5hTkctUUN6dVQ2TXJ3bUk0aHk4aVItZVZLU2l0T25uRF9MUTRMY3FhWmhFZkhnSlotUEZwSzU0eWVCMUptcWEyUWJXZWFnZUFEamloWUNmdw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-22T15:04:50+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
+   ]
+  },
+  {
+   "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0I4b1FENTctWDhvM0N4b0lDbGpPaEI5enpTcUhQMWhZTjdleU12VWpvb1k4bEZ2S0RIMW4xaXc3RHI0SVJIQU1MU0Q4aTIydGpQblRYWk8tZ1NKOEZOTTFwNWFvLUNQMzBDYUZzT1dYbFBCTVpQTlVBX3Q3VjBBNTVVMFF5RUF3V3EzekVOTnhYc01PU3hvUWZJWnlOOFhjVERzZG9Jc2VKSmhsS25SdTFRSWtaaXFnU29OdXo0enU?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-10-22T15:00:14+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum",
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "Would you take out a mortgage backed by bitcoin?",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0tFVGl1YkJMN3E4VFVEX3IyY1NkeC05NmZqbHBuY01iNGw4UTExcUQ4Yjc2QnAwcUF4dVZCZ3prNUg0dld2TVVkcnFyR0dOZGNpLTRUR0ZOZ0xYMFpxaFBtaElzUndQdHRJWnp2TTY3bnVCWHBBTGpxZWlGRHFLUjhYX3g?oc=5",
+   "source": "Financial Times",
+   "type": "news",
+   "published": "2026-10-22T15:00:03+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin ETF Flows Key For Cryptocurrency's Outlook -- Market Talk",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0NaTjJ0b05BSzNXZkJDMDNnM0VielFKUG40VWg5OHp4SXVOWDlzMDRUTFhEOVh2QlZETTRsMklWVUNRRFZTR19GVHFPUk9DV3lEcjBxbzRKTUZBeVZtU3djNVp2dE1aaS1CVi16ZzJlREdJMWdXVVo0d3dPbm12VVB3elAyTjNrTmJqOHlyNXhLZEdmaXNydmh4ZDBNRk9Jb19GTkNxZXptUQ?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-10-22T14:59:47+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-22T14:58:31+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin ETFs See $1B Inflows as Ethereum ETFs Bleed Cash - iShares Bitcoin Trust (NASDAQ:IBIT)",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSW9zWmtrUTV0UXV0XzhkdUlQX0FxS2FiOVltX1pQak9OYVAxMHpUZjFLZHVUUE9wYU1tZHJDLWtfZ0pLX2xLNko3YWV0Rm5LMXZFX0lzZE44c043R3BRLThVSjRXT0xMWS1Pb0drcnhsa1lBUEI2Szk4d0N0bHJDbHgxZEV4ME5EUjd3TnlIeXNVRVpiZXVLaUlBb1NYRDNab0lBRVBfLVk5Ylo3RGtOdlpfaEtiajdLQ0VMYUpaM3V0X2taNmhXSm56TFE1SnYtaTB2X2xyNy1jdldSYjhlYmpVdl92V0MtUUhZNi1EZnJQblVj?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-10-22T14:57:25+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "SoFi Begins Rolling Out Interest-Earning Tokenized Deposits",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmdvRkUyOHF0VUtOdWItZ3diVHRjeDRjOFhXQmNoTWtDRjFDV2hoVWFIRlpOTlMxZnZuVXR4aVZ2YnFiOGJ2Z2dnSzNHUUtTYXBCdUZZWVZwbDdfSVdFVlpmNHd3ek1FVTNEclk5UE14aXRpQV9pOFBrTVYweUxodC1qTzFTd29uU2U0N183YU80SE4yNVFkamN6NWR3WGE0dDJTZ2lB?oc=5",
+   "source": "PYMNTS.com",
+   "type": "news",
+   "published": "2026-10-22T14:55:11+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "The OCC\u2019s Stablecoin Rule: The Limits of Regulatory Clarity",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXlRWk4xUTVwZHdielJveFY2Y2VmNjJDWG9GSWp0QjZaeV84ZWVrdVh1NWQ3WmVYX0VHR09VeGMtQWdabTMwSXIzY21zeWVkRHI4OFJOcndFWlJYX3duQjJrVVBBYnFtMWYyNnQxMWJGQXVCTXAwRGZ1QWdvRHJ6M21FdUliTXhxTkhlOEh5Tk0yVmZ3bW02VTRUUUpZbzhaUXVTcUNocmVmYkJs?oc=5",
+   "source": "The American Action Forum",
+   "type": "news",
+   "published": "2026-10-22T14:51:52+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Drops Under $82,000 After Tech Earnings Rattle Markets",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd1c3OG5iaXlkMFlZQzh3WTRBbnB0cF9JX2JKa0dsbVNzcGh6b2lKSWl4cnN6a0g5ZDlVLXJTZ2d1N1lfYmlwWTRiM0VkMkRzTk5OT1pKMW1rdVhDVmhEMlcwWlkzZkI5WndwQ3lfY1FLanR3UXZUeWtUbXZYZndWYUVnazVnNzVsZ2dWV3BUTC1KV0VybVFRMERwSTIzR3hWY1E?oc=5",
+   "source": "Northeast Times",
+   "type": "news",
+   "published": "2026-10-22T14:26:50+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "OCC Leaves Stablecoin Rewards Door Open as Banks Defend Deposits",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmZfc2gyN3BYc1p5cnpockJ6cHgzR1hvZXhYNXZjMXc4X0NTRmtXZThVQlNqVzV6bTRENGlIRnVFOEJrS1k3ODlJRk5MeXV3Q2JRSTNMRDJXblRxelN6YTJDYm5oT2NRN3NHdXF3QXRkOTQyY1pSVWVKMHBSejhEeDZpRFZTVjJwWUpqNU9TZnRfMEtGcGg5VFJEejQxQXllM0VQWV95UTRWdDVz?oc=5",
+   "source": "PYMNTS.com",
+   "type": "news",
+   "published": "2026-10-22T14:25:48+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Robinhood Markets' Quarterly Earnings Preview: What You Need to Know",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVG03U3FTNGxCa19ybUJkdnZoZzZ5anNnZmUtdE1GeEV0QUJaN3BlU05VNVdVbUYzekZWS0NrOUZlUW9fN1d5bE55QjhzYjN0ZFdYYWJKdERKbG05TDVrTlEtUDlnSGNBUjRiM1M2ZW9YbHppNDNnQVgyU2Jid2FuT09rQTRfNHdYa2JQeE5LYl9EN1l5TXBrZTRia25qUmpiZ1l4Rzhnb1FsSWpHUjBB?oc=5",
+   "source": "Barchart.com",
+   "type": "news",
+   "published": "2026-10-22T14:20:46+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "Uniswap Aggregator Hooks Expand Liquidity Routing in V4",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mZGc5dU9FNldyTjJJUmgtR0tfUkp5RW9KbUdtVVFsdGU0ZlMxZ3AzaTk3cWFxV0c2aXhLckZZNkgzUkh5MnE5dVpsYl9PQ1UyOHpmWmR2Z0Mtd0F6dGxTOElNZUsyWlQ4OC1XWDc5b2JsWDhZazZsYksxeEpCZw?oc=5",
+   "source": "The Cryptonomist",
+   "type": "news",
+   "published": "2026-10-22T14:19:29+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "China\u2019s Government Moves To Seize 61,800 Bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmM5TzVtNzhIdXMyQ0xXSlEtMHFNNmxScER2QUJBQ1RVbEZkZnJ5OVhidjZOWDdmWU9wM0FyMlZfY1ZPdVM3bG1HTEZiUHVHUXFrVWVKblc4VjJHTjdMR1M5a01aNHRIdmIzU3ctSWtMRV9iVnhHM0NKMDJ4NkVINEVmdHhJa3FubTJLcXgxTDVxcTlaWFRsMnZkQUs?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T14:17:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "GWDC 2026 KOREA Concludes in Seoul: HK-Korea Dual Engines Drive Web3 Policy and Tech as AI Agents, Stablecoins, and RWA Distribution Take Center Stage",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xT25ySzNGckxmOTFoY0E5UFNiSjVYbnk5dFJMZnhvR1lxSWNIMThhVmZ5ZTVBeFNnbFlyTElRV0RUWi1BUEYzWTFMMC12Z2E0OWljVU1zX3BiU3M4X0ZoRFVOc1EtbWJaaG5lWV9oOWFuOUxL?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-22T14:11:25+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "RWA"
+   ]
+  },
+  {
+   "title": "JPM Coin Ethereum Launch 2026: Not a Stablecoin, and Why",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxRGxZNExsNVY3bVByVTgxeXlpMzJ2RWozbmktcDhpVFg1UFNMbGNZWm1ycXRuLVExc2V3VXZCZGkwd1RmVFNJajFBUmNpd0Jp?oc=5",
+   "source": "Memeburn",
+   "type": "news",
+   "published": "2026-10-22T14:10:24+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Erases Two-Day Gains After $85,000 Rejection: Will it Fall to $80,000?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNm9ZVnNGZ1dMcVF3OGVhLV9qbi1wWGlraEFXU0JncVROX0ZIUGRqbWVrN2hQN1BReU1BR1VUTTFJSzhneXNtNmtzT2NSWDAtUVVLWllSQmlIT01GVFZqaklvcU1ULU9WdW1MZXdnQlZZMHlsb0RQQkJSQTluWTlCRjlrWVZxVDZYbmNxekRxSm1IWEFNUVIyRQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T14:00:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ethereum Price Analysis: Can ETH Hold $2,300 Support After a 12% Monthly Drop?",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd2lmSlktWFMyMGVYcmNjTDR4T0VOeHBoUkJGcl94N1c2WER3QWdYQmgtUXN2RkIzUUdxS1Z0cEd4Wl9URnNHbHNXa3FTZnFOTFZaZ3dhZV9IMHN3cHVva2t3aURfMjJvUDg2OEJ0RHpldDFiSkgwVTZDUHdzdmNiaXZ1MTR4RFJ1ZUtBcDlfVlc1clMxem1xZG5JTXpEaUQyTlRzUk1ZcWk4YlZZV3BsNENiQVFWRUxraWtYcGktV214Nmh5U3Bjc0FKcjc?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-10-22T13:58:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+   "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-10-22T13:55:03+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum",
+    "DEFI",
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "UK FCA consults on guidance for decentralised finance",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVC1Gcnc2STBUbU1LT0dhdlVJd3NMalZibWRsTkZDbzByMXpaY1hMeFU5MWhwN1kzVzF4MXlkVE93YUt2cFpYY3RyQ2ZBdVJUa2hRLTA5eFJLaXRKVlhuaEdGVzVIZDFheHNRNEFsTldfcWZacy00VDE0bFdldUVuMS03U2JoZkppUWdCUzhobXJTOGt1YzducTc2akFOaEw3bTVNa0kwc2QxdGozY0E?oc=5",
+   "source": "Linklaters",
+   "type": "news",
+   "published": "2026-10-22T13:54:55+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI",
+    "FCA"
+   ]
+  },
+  {
+   "title": "UK FCA proposes updates to crypto perimeter guidance",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXZCWDBBbE1CLUxYZ2J4OThYOWZ2RlVwcWpyUHhzZXdpZ09HVU9KSVRKdWRjakhqb01Ya1VwMlNGalZzQ0RteE1oMkFhTHU4M3RxTzA4VEdhVUM2N1N3Y2lTUlN6RzVYMWtQazhZOTdJUU51bFVpTnpqY0dhSHpRdEhlNzZZNzhmSERMckdGa1NjSURocXc1T0l1Y2FpbF91T244WGpqcjhURVRo?oc=5",
+   "source": "Linklaters",
+   "type": "news",
+   "published": "2026-10-22T13:54:52+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "FCA"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Prediction: $1.1 Billion Flows Into ETFs, but Can BTC Break $87,500 and Hit $90,000?",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQTR4U1Rzak5NeGx4YXpsMVo2UkllRTUzUWlyZ0FHdXBKXzkyRXAyQ294VkdpZzBKTVI5Y0x2VTRQUVV1RXFMdGhocEtZalV3cmNGM0FVNjFDNlhRZ2xuM1RmX3haNHgxTHJSNFlqai0zQkUxcy1IcWZ5UDBiQW5KaHZKVmdLdTBiZVZYRG5Jcm8yWGNtSGt6N3NOZ19IbzFnYWhFMnlJT3A0LTA1MzlCMXc0dEhCak90ODRMNHdHRnNYSGN3OU9zV0lmbw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-22T13:51:50+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "SoFi Launches Tokenized Deposit Paying 4.4% Yield, Linking Bank Savings to Stablecoin",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckRjNDhkQ0tUZ2FpV2J1LS1nQmNjOWR0blZOcms0ZE45QldZRHAzLWdZVXlVckZ0R0pmUGFNNTdpV2t2M3l2LWFtZlRtOFlUalFwNUhhTi1SWUE5N1IwWVk4WWlMTmd6RW5nS0t3a0w5WTNESnJvS09aM0lOc3h2U2xNN2MtbnB3RjhNOVFqQ2NRRjk3Slh1YU9SZ2VIUFU4WklHY2V3?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T13:48:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "RWA"
+   ]
+  },
+  {
+   "title": "What RWA Are Investors Holding in 2026?",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2t1MzRsUEh5M0xyb2N2dFFSR1dzeC03djJsY3ZQM2JCQkRPTHRQZDQ2RXRXVVBCUnFFb3hFNE9Yd0VZa2s0ODNtXzZ4WjlnTU5JMDFqMlVhZEpwRW5lR19IVVpERlNVMDF3TTZXeno1UkpnUVoxTUNJY3hZS2t3S2VfN3FNZw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-22T13:44:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "CryptoQuant CEO calls rising Bitcoin hashrate \u2018indirect bullish signal\u2019 from institutions",
+   "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-22T13:42:34+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "FCA stands firm on not advocating for legislative change on AI",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1luYkFsU1RjaUowNEdKOHZFQmYzRWI4YlRyd0otclUwaUlFNFYzM0dKUTJoTGMwQWVHeHB6N2RIQ1NTVlFwc2VXUWFrNE92elZ4d0NuU3g2TjdEN3paZG55b1VGdTBUanRKa3ZoN2ZadlRSUDdTbEN6U2FTM3F1dkpDWWt3VFR6bk9qSFBjM09sWWlnVUZ5WDJZcW5Odw?oc=5",
+   "source": "Professional Adviser",
+   "type": "news",
+   "published": "2026-10-22T13:41:42+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "FCA"
+   ]
+  },
+  {
+   "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \u201cUnknown\u201d Wallet",
+   "url": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-22T13:38:10+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin, Ethereum, XRP price outlook as US jobless claims hit 57 year low",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUdRc21qVnlWSWl2X2VqUWZkSy0wQUJRMWxBUDU2dWwzTW9YenFaWXgwNmx0WXV2YlNzWVpvYVA1bmFwQ1JYa3dEYVdaZER5MHVmdTBmcU12Z2lxeUlNbEwtNU5ZcTZrWlh5LU5BWlU4Z0tnSVAtbHBZbTFGQ1oyazIyNW9aMGxCTHhQSEZMM3BvbGdwQnRV?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-10-22T13:36:06+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto shareholder sues Trump, family-backed crypto venture",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGVhdlJxbkpoeGZVZU00TTFVcS1jV0p5dFhsdExiZVhweXJRVzR5M1ZLUEs5cnJsbVp4NGdKVGk1cnhJakVxNlNwaVdtLVlaWDQ0OHdzN1hNMzNSRllIbnlONHczSlZiVUJQU0JTS0h2V0NvcTVpakRCUGJKbmZjOEhEWGdyc1dQenRpbC1xM0xyYXlVRFdCUzlyMGYtNFRROTJN?oc=5",
+   "source": "Politico",
+   "type": "news",
+   "published": "2026-10-22T13:36:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Trump"
+   ]
+  },
+  {
+   "title": "SpaceX-Tesla Merger: Passive Flows \u2018Hack\u2019, Could Bring More BTC Exposure to S&P 500",
+   "url": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-22T13:33:24+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Tesla and SpaceX Held On to All 30,221 Bitcoin in Q3. Is Elon Musk Still Bullish on BTC?",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHN0aEZkaDRoMFd5bUNxMVN1N3NDS0xtRzFQYzNyb2tQVzJxVy15dFM1MnVKcjNZaU4yWDJrelE0SGtrck5rWmQwYzRsQnplU3RsZE9mcVpKQWNxQjF3Y0dxQkMtMHA3RXFrSVlpY3p2VE1kSE9FYmhaM0ZjUjZYVFhFb0N0Z0FDMkRTVlBQZDBmVlk?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T13:30:37+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Why Stocks May Rally If Trump Loses Congress (SP500)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2Y0TTVvNGNzUWJub1hROUwtdmZhTG04aUgyMU1Jak5CRl90S1NRUmdFMTVjRUhaanVfR0l6RWpXR29GM1VYOXZJR0JMYm1UU1N0Zk9Db1pFVFRSSVpybWlKX0swUV9pdnBKaEU5aWhHVmtYZVZ1VmExc2VBUEo3Y0NkSklxaVlWa3d1OWxn?oc=5",
+   "source": "Seeking Alpha",
+   "type": "news",
+   "published": "2026-10-22T13:30:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Trump"
+   ]
+  },
+  {
+   "title": "Retail Money is \u201cDead\u201d \u2013 Wall Street is how Bitcoin Actually Wins",
+   "url": "https://bitcoinmagazine.com/videos/retail-money-is-dead-wall-street-is-how-bitcoin-actually-wins",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-22T13:29:09+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Kalshi To Allow Betting With Bitcoin-Backed Loans",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbE13SGFiWE1xR0dOV1ZwTUV2bWc1LTB0NDcyVHI2OU1FOUFuYmlPckNVVlhZeVlWZ0JkandTVVBpd20wOFI0cTlLbTdPSzhnd2M3OEcxZGFDcjNmSkEyanhaazN3d2NIVFdaVFFZSTJNTGphQ25HTGp2ejdKdkIycWV5bHlINEowUFF6dHpJXzgxRnZTdV9ZV3dPSktJRHFyb2c?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T13:28:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d",
+   "url": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-22T13:24:26+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Analysis: Treasury Companies Break Even Near $80,000. What Happens if BTC Falls Below It?",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMmo1T2hSSTBpMW42aFVieWM4cGdGdFlYUkU2TDNTcUZlNzFDdEJuVFM3N2ZKUWNSdEN2ZjNqQ3VzWmRtNEJEQXRPOHd0WWVhcEtWVUxnNDZNUHMwZ3RuSUllYnJ1YmFBeDlBaUVDTktSc1FZLXljVDdiM1JQQ3dzMFk0N3ZXSHZqUUR0X25ieDZXQThGQ1BXNEZqeHdoNFlwVVZrYXI2dnVfV0g5akxSa0hCTWhTaEExRHExa3JzWE5GV3NaeDFZOGNXSDJtUTd2UnRnenEzaGtjU01YalplY1cyXzdleWQ3TjVXbVZn?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-10-22T13:23:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Robinhood Review \u2013 Simple Commission-Free Trading, and When Gold Pays for Itself",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXbnpZWXBXY1VCdXJiQ0w1dDRGdFloUEl4YmpQLW85ZUZlLXp0M2djVGVqLU1jU1NzMWF3YV8wVGJPUjFHeEw4V3IyVEs5blZkb3BZNDlyN3VFWDhJSFV2bmt0a0lJbXZn?oc=5",
+   "source": "Money Crashers",
+   "type": "news",
+   "published": "2026-10-22T13:15:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+   "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-22T13:13:45+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Crypto Market Today: Bitcoin Holds Near $83,000 as Zcash Leads the Gains- What\u2019s Next?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFk5ZDVybVFLVWNna2w2d0RQaGJfQkY2aXlzektpbU5sT3pEMnByT2NoZ2NMMGVOOTNfcjRYbGU0cWI5RzFLblZVSkY3NnVFVnRmTWZMeWNjQmxPUmxHVFVOelFqbWNQOE5oYXNLSnQtYjlScEt4anhnSmdkNTAxZURhTlpqQkplNlpyZmIzVkFMTURsR0NrMTlYLVk5Z0hDazMtUHAyOHE1aXE4cE9iT2xCeFlvR0xuTGc?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-22T13:11:56+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Reap adds Monad support for stablecoin cards with Meru",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUxmMUVTZHZHQVFKNUt6RmRteEU1SDVmcjgweDNXU0tvcG1jaTFXTmJUNG1JczdqWnpKVDR0eVd4STRrMEFCQjRhSEZ0ZENLZGs5ajNHMjdtWGhpei1OSXlVQzJzUmNfcGdSZG1CSFo1ZlJjU2N2aUwxalNDZ3docHhFLXhvaS1oeUMzYVdvU2YzcDJ5WW9JaTF1dS1IbnBubV9aN1hzb2tVdmJOSUF1LQ?oc=5",
+   "source": "The Paypers",
+   "type": "news",
+   "published": "2026-10-22T13:11:40+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Traders Will Soon Be Able to Bet on Whether Coinbase, Robinhood and Marathon Will Hit Their Targets: Crypto Daybook",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2lsNFZXeTlnR3hwUmxHMEFEdXp6dG1BOTREQW42cEozZWN2NlhvZ2xIUGVPY0VMRFhSdG5GSVJ2SS10eTFJU1ZOM2NKcGNiNDVLa1VoZVZhcE5WTUxRNTNVbjJ0cmRBMDFYWEtpd3VqcFRLeDl0c2FtNG9ydlNpdmpxWTFwbXd3TGRJTjctU1EzRlVzZU5HbG0xYTc?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-10-22T13:09:47+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "State regulators diverge on stablecoin safe harbor as GENIUS Act deadline looms",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3ZCN0NKNGpDUUVuOWx3dHE0SmI1N0RjVHBOSlVRQk5zY1VjQVVNVkZPZGFQNlNKUmJiRlRaSTR0U3cwYXFwTEJXNGNaVk90LXpZWVNXQmZvbjlzRFcyd2lyYXNRTUVqZHpMSndxelcwTnU2VHJFUGY5NHpWUnpRTmJ1ZFdjZlFGcGVrRjRLc082RjZfQ1hRWUhOYmpneFozVV9PbzQ4a2haYWVwZFBvUw?oc=5",
+   "source": "Ledger Insights",
+   "type": "news",
+   "published": "2026-10-22T13:08:37+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Ripple Prime Joins BlackRock and JPMorgan in DTCC's 50-Firm Tokenization Push, but XRP Role Remains Unclear",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMXZRT0MtUl92MUk0MXBreDhOZjZYY20wNnM5WmoyN0xudldhajNkZEw1WjV4TU1RdzRzZWJ1RGVDenBhajRkelJISlR2ZnBqdWhlZi1pVHRwalJTQS1fVFpLOGR4bmJoZ21fOUNONG5QTDlJYmFXWEdUdU8tVlh2ci14NVVMaERYVVdnTGk4UlhQbzNIcTRvODZkVTc4aUcwd3ZKdzFfa2h5cnJxRUJSaTV3NFNvSkZIUVBXbFRtaFJBUUFNSFYweVJ2aVVYeGdYbGFMeElMMDBJNUlYSFJN?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-22T13:01:42+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+   "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-22T13:00:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea",
+   "url": "https://bitcoinmagazine.com/press-releases/square-tech-and-goat-network-sign-mou-to-advance-ai-agent-powered-stablecoin-payments-in-south-korea",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-22T13:00:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "As Stablecoins Mature, Financial Institutions Face a Crossroads",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHNPbUNhenR4cGVlRGlyQk5UUExaZ3FUZjg1MHBtaVFtWDUwVjZ4VHJIOUdOd2x4WkdoSmNBdlhocExEYlBxV1Z0aTd0bzl6UmFCOFhOSWU2NjAtU2VuUjVvUE1kXzBQLTcybVZsMG9GQ0IzcE45OHUwRU5sekxYNTZfcm5TWVVSN3Ayem1SU3BjMjhNYjZ5aDRRQdIBoAFBVV95cUxQeXdwNWtScmpQck9hWlk1UXdPQ2d3c3B1NC11aE5VVW4waEtwVmJEdXZOQl9qYTB0Mkp1MzV3bnowMlRGM21fQVRsaHhkZW1lSXFoWWdfaFFWWlJSZzVObExqcjVramgtN2pmWmpFc1RPeHVSeDhzXzRZSktVNWVPTk54UUxPbDd3VDJCMlFyMFFucXcwNEN2a0xILXZuZ1FP?oc=5",
+   "source": "PaymentsJournal",
+   "type": "news",
+   "published": "2026-10-22T13:00:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Is Cardano Losing Its Loyalists? What One Advocate\u2019s Exit Shows",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04RFAxem9BU01PYmtXc0VMOEN3cDE0N2RHWDNOXzFOMDZ0Sk5oa2FCSENic2o2aEhBMmh3cXZmTW50Wkt3R2xGSmtjS2pLT1ZHRVVmYjdQelpkTjR6cW1Wei1yZU1mUEUzLUxoLXBFSjFGZjg?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-10-22T12:58:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
+   ]
+  },
+  {
+   "title": "Ethereum Price Prediction: ETH Slips Below $2,400 as ETF Outflows and Market Sell-Off Pressure Bulls",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMURFWDZpcXE3OWYzMERmU0FNQm9JYmhFTUEtMzRwbC1keWpDTFdIM1ZLb3lmVmhxT3VwZl9YcXU1VTFGcEdFX1p6LU1OXzlKd1hDVlB0UmJzY3pYS05Oci16Z2FWSUtqb1FDeXlpWWt0UEVqNC1ibmlPMU9ZaGRpTkU1a3JNQ09jbEdkbko3Njh1ODFzXzBxakVXcVlhbXNUdm0tcGlCT0l2b1B0UHVCZEFMWFVXbmNwTWRsWXpFRTRjejNyczJPcXVnc0I1OGdj0gHWAUFVX3lxTE1uUnFyZHpjQ3VPWWU0ekdBQjEydVlLaVgyMDJxRURyVTR0dUVTWW5zc3hfd25RMzlHdWZlbnpxbXl6MWc5ZEdUcGFYYXh1R0wyZFlUU1hkRFdyOE9HZ1lLRDZzcEZEQlc5R2p1VkRvRHM4bjFYNmlpV1ZZMUhjTzJpTzEyUWc3NXlHbVJCemFnck81MlVRZkc3cXFjUjliNUtkSmFqUW5nX0MyTGk1RmpCUDRiMVM2U09DLVBwOGlTVGZxVldEc1haakRhNmx5VWV4TjBRblE?oc=5",
+   "source": "Coinpedia",
+   "type": "news",
+   "published": "2026-10-22T12:51:24+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "DeFi Development\u2019s CHAD preferred stock lists on Robinhood",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMjVRc09xZ0VseVVEWVRGc0k2VVIzVG9ja1VkZHRITlV5eDBodGNhSVlYdFpTR0tNUXhxeXotWkpQZ3dJSWdLd05QSW1IR1hkMkpyNnl4dl80cnI5RDNicnFKTHU4RWlHZGRqekM5YUZHRnpwSDdUVEhhUDVrNmhwOEhGaFA2b2VJVzR2RzhHY0tXWHVrRW8wRGhBOVAwRkp5NW1ZeGs2N0tmbHd4dG9WVDhDNFg?oc=5",
+   "source": "Investing.com",
+   "type": "news",
+   "published": "2026-10-22T12:48:02+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI",
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "The International Myeloma Foundation Launches US Myeloma Network to Accelerate Clinical Trials, Expand Access, and Improve Patient Care",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVRtaWlqbGtObzJlMXRZTDZEQWZocXBITExvMmVPTXRBbmExcnozalRpbkxvZENTUmQ5VDhTNGxpaVJhcm5veE44MjA2NHJzR2N1WDJBWlhZQlZ6NGMtLWFUSTdGR0xJVi0yazVzcW5xNEV3XzBHRGMyaDFqTVpGN2VSR29WSDI0aU81Ny02RV85dHY0eFl2SjMzeGx6UjZmMmg0SktmYlY?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T12:45:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
+   ]
+  },
+  {
+   "title": "The Economics of Stablecoins and Payments in 2026",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc2VzeEhKbHZVSUZ3dVRNYlppMDlaczVWejBnWDNCcmMxR2FMcnFRZjlINlRQMTVFbkwtUHI2NnEwUElGVjlwaWdieEpkV1hxOHo1LXB2SXdIdUg0V05BcndLeW1DV3dXOG95MEU1czNNclpMYkE?oc=5",
+   "source": "insights4vc | Substack",
+   "type": "news",
+   "published": "2026-10-22T12:42:58+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Zhimin Qian: China\u2019s 62K BTC Claim, Victim Rights and Legal Risks",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeENXbzlDQ3R5NTYteDJ3LURldF9ZejhNNmRnOGJmR0pQZUwxako4bkx5X3QxUk9faFVBVk83UHRmSEpmQXRDX2EwU3U1VUtVRmJLVkdDRGR2TzdMMmM2bExCVlRxb0hSSVM4dEFKdTdibl9jelBSZWl2NHVxWWpjWnUxNUtWdzdBQ2NYaHlYcGtKdVBVTUZuNjgwbEtqWUZfNnYzTXpfRTh1Zw?oc=5",
+   "source": "Bitcoin Foundation",
+   "type": "news",
+   "published": "2026-10-22T12:37:48+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "ICE Connect Wealth Now Integrated into TradePMR by Robinhood\u2019s Fusion\u00ae Platform",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVh4dk5mTzVrWFVKcDhwclJjcUJZQmRzTGxWWXZUdUlvRGdEdVRtRXRRQWpIWjFvNXBEN09iZVNhX1lBem5QZktRRmFoWWkwWG5wQjFLeS1ZNVM2QTZJSGYtb09QSkJSVmdVWHI3aFRNMldiOC02akFfN3NLZEs4d3gyYTVPS0FvekNyZXBjcVhUR1UtLTB0d1llMnlPYU0?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T12:30:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "MARA Holdings (MARA) Moved 1,000 BTC to Exchanges and Investors Are Watching",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2s0VmlHTlJ4ZXljbXVDd2JKWG4xTEJNaUdDTTBwQUNBV2NKT3JCTGhTUnNYRmNib1E2RzU0a0ltNjRfb3ZTanBiX3p4d2hOZWd5N0ZlYURSNzNYd21XVGFhSlVmbWtJZHBUVGlYYTk2MEJpWkRhOXphdmV4c3lfc3JpMFFuRlhzT3hkQlpycmhibV94dXc?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T12:16:23+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto Weekly: Trump tackles scams, Stablecoin set to expand",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LeF9GUGRQZ3J5ZFRhVzJDejBPWm1uNnNLOW1XRUhlV19HWE1BZzZ2QzE2QkM4QW1kMi1KTFNpYkkzY0k0Tm9STlkwSG5HeHVSZ0xSRWY5VDc4eTBySkdUUG1kbWVoSUk?oc=5",
+   "source": "Reuters",
+   "type": "news",
+   "published": "2026-10-22T12:16:14+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "Trump"
+   ]
+  },
+  {
+   "title": "What Analyst Projections for Key Metrics Reveal About Robinhood Markets (HOOD) Q3 Earnings",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWRZMzJhRVlqSlVzQVpMY3lEZnVPMWRrTUM4SnAwelJtNDdkNlFBWXBXSUdpdWtjcDYxcWg4Mk82dTFYVEdMTGFtZmM3X1dkUTlzZ1ZsaFlUOW1KOVZydTdPSGhIVkU1N0NaakNob3QtMHRicVpRN3B1TE9oNFFzTjZUbk14UHktdzNNWGV3S2JxUklWaVItNTB0QXgwZHNpSHRQTGN3?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T12:15:08+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "Ethereum\u2019s four-minute settlement plan could lower the cost of moving crypto",
+   "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-22T12:14:29+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin (BTC) ETFs take in $1 billion in 3 days. What next?",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnQzRjlQQTFZR3QyNk41NzBsZ2FaNkpHWkRpQlNBUnF6RVB3UzVDWFhQUHl1MzVhZ0pCTUJfX0FBWXZLMG9idWZUdFNiLUZYMXJvcXFMT3pGMmdCWktOREVfbS1IVGdTY1VGRG93aXFtRk1BOW9sUnZxOFYwcWR6RHFmV1k5cTdPM2FxZEFIcTNhLUZTMGNTUl9OTF8telViQ3hHZXlOemwwVnRWUXhEckhMZl92SVBGQ1hzTGtEZ2w2RGVBUzFmLVZ3TFplQQ?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-22T12:14:00+00:00",
+   "first_seen": "2026-10-22T06:00:05.634439+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "LayerZero\u2019s RWA Push: How Ondo Uses ZRO Infrastructure to Move USDY Across Chains",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGJrTUdURHRCc3ZyX0c4Ym0yeldoN2lhZWI0bjZJQkFyVVl0dzFaWjg2WEdIZE4xWEtocDloMlB1OWJyV3B1b1VwTmYyb1hyWUtSMmFOeHdSZGJaTTA5dlRqQWJ2clhmZFVkakJXOGF0LS1USnc3QS10dDNTcXN3WXh2VUpoWXJJWU91Vk9DLUY0ckN0UjRROHlfTFZJUDc1aHJWbXcyUWIxSWM?oc=5",
+   "source": "Altcoin Buzz",
+   "type": "news",
+   "published": "2026-10-22T12:05:53+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Current price of Ethereum for October 22, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLXo4X29JcG8yTjZzQ3JoUEwzbXRkY1dKQ0Y4WDhNTWY4ZHRJRDk1Vkg2eE9MaGRKYWNEYjR2dFJFME81SWdMdmFBejJhdk9qWjBCMWQ4dmx5dzJkV01zQzhONzJnR2s1?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-10-22T12:04:58+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Current price of Bitcoin for October 22, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qdUY4TWhQNm5TaGJtcVp0eERZZ3QyUlJRcEtVTjVJNVU3U2JWcE5OZHNJZWJMU0NlQjVkOGc3TjdyRlVRRjlqS2F1MnBYaHVMZGNfcmtnVTdCWXVhaUZvZENjX1FNeWM?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-10-22T12:03:23+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+   "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-10-22T12:01:03+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "RWA"
+   ]
+  },
+  {
+   "title": "The UK needs a workable route to regulated DeFi access",
+   "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+   "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+   "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "SoFi launches tokenized deposits for consumers with 4.2% interest as debate over stablecoins rages on",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfck0tSm82Q25NV3NaSkw0eFZ2M1FoN0o4OVcycS1VRzBNVDVzS1RBQlY0dElRZFEyRGRPSl93YXh0S1V0NDRxSk90OVlISHFwN0d1aFlsVDdsZkYxNW1Ec0hDcnBmZw?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "RWA"
+   ]
+  },
+  {
+   "title": "BTC, HYPE, and ZEC Ready for a Rebound? Analyst Explains Why",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDBjVzNWbk81R2V6Y1NnOVhScHB5ZE0wTlFwcmRpLXhxb25XVWtQeXZ4OXRDMEFTNFJrQVRhWTAwX1pfaWVvdGpYTmpUWmJNU2MwQmR4QlJsZGI0V2JEVGhOMi1acFQxMnpiWEo4a0VkWloybTFFTXVZQjNxeEp0SnphcERPa1JmeW1ucENpNWo0eFo2bWFHQnFtWQ?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-22T11:55:33+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin and ethereum prices today, Thursday, October 22, 2026: Crypto gains wiped out as oil prices stay over $111 a barrel",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOYVJERHlwcFZYdnRNUzlnQmg4dmh5RVF3cDB3d29tNy1zMzBQdHBKOUxIc3ZYdzFha2Z2NnVEWV9JUUVqSURyOXZNUHZFaHJHUS1jeV93Y3JJa01PRXB0TmZmalhvbEZJOEc5eHdBOGVQVllPLWxSTkxhZ2VpdGptQm1QR09FNnk1VXRFUDZEU0wzNV9sNWJ2Z2M4c1RYVFdNbXoya2tpRjBDR1Q0ZGMzcUVqZmxVNFNWZGZxUERmbmZ2d1dKdVVZbjFVbGs5WWJQUEJhRUxiMDlYbjRRNHhxT0tvMndjRVdCdjZDLUVldlNxRnNqVU9RZkw0V0NCMzk1dXpZalFUY1R3TGpZUnZ1cTFOLTJnZTNudUtldmtFaw?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-22T11:31:28+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Coinbase Stock Rises as Firm Pushes for Foreign Stablecoin Payments",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeThna01LMFd4VVdoQThhODU5bEMzcFduTVhaQ3FPRGpQNmlDRnZKSHhRUjFYYU4xa2R4OFlTLVA1R0ItQUpyNjZCRjB3WDhLZDFIT3NGT2QwdFNMUVNYR09KUWdlblFQVHdxeWpyNHd2ZWdzTEFjLVpaX2hvR1NsY2UycWduMER6X0FMc2VLOGdHeUZxMWVzU1NJaUxxYktxY0Q0UVlqZTc?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-22T11:28:59+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "\u2018Extraordinary\u2019 JPMorgan Report Predicts Bitcoin Price Will Beat Gold, Stocks And Bonds\u2014But There\u2019s A Nasty Catch",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcXlMeHdtUmIzMjVYeEU3Q1BFd2ZfeG5pc2FLSWpXb1FERWE0cXd4akh2dDJlQVc3bUlDMXFGNUQtMEJydWtwSnZIREdKRHJHVld4T0hkZHg4SXJaeW9BUWR1TEZkdnJfRVh5cTc4RmhRT0pDSmVQdGNjay04QnVFdzRnODVhRGN4Y0w1UVNiVEVDN01ySHpxXzEyVmJKRi0yUlNkTGpwems2TmRLWDFTMzBCZGtNMlpzQ0dsaWxRbmp4QVZfUG82VkhvbzFVcVMxQ2xnclhhMHNacm5mR2FzX3l0enZEcWptZ2xZQThBMUxkNXY0SWMtTQ?oc=5",
+   "source": "Forbes",
+   "type": "news",
+   "published": "2026-10-22T11:20:20+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-22T11:20:04+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Day overview: crypto market October 22, Bitcoin, Tether and MiCA",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaktSTVJSX2FnRkhyS2JnTldxeEpCM0dNcDItX1hjSGZrWVJXN0R6OEhxaGhMZEhmb3dTX1liRlRTUDZTLWtoTWFqQXBPOWhnYVBGLXdxa2daOHZlUGdJdFA5UkZxci0xbzREcGtrczJGQU54V015SW9fblB4cTEzajBLS1hnYTlzcXFYSXRCWVNzOGIwNDlkbGpTLWhmM0NGS1RzWm9SRWFnc3ZHelJmRXpRc1A1eUdDMDE3RGRyTVVZMzNvVnBGRHl0alpkUW8wbGNMYTVwcXJDclE?oc=5",
+   "source": "Coinspot.io",
+   "type": "news",
+   "published": "2026-10-22T11:15:31+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "Bitcoin",
+    "MiCA"
+   ]
+  },
+  {
+   "title": "Trump\u2019s GENIUS Act Just Got Its First Real Teeth: Here\u2019s What Changes for Stablecoins",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIT3I2TjF4SDlhSHJXd2NQTlBUOTFleTdzd19CdkdvdGItTnk3UnRqak9MSm9FNnd0LXlDQnNuMU50d3NKUlNKaWo1VUNGRnNIaExLdkg4Y00xb3lEQ2o5Q0FDS2ItRzdsakJVNjBCRmRUNVBBM2N5UDVfZF8?oc=5",
+   "source": "CCN.com",
+   "type": "news",
+   "published": "2026-10-22T11:10:45+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "Trump"
+   ]
+  },
+  {
+   "title": "REALITY CHECK | Robinhood\u2019s Potential Single-Stock Perps Launch Draws Over 90% User Interest, Reveals Mizuho Survey",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qQnJKX2VQRkdySkVPRjUxUjBJLVcxU2IyTHlJTC15NWRSNDdRTWYzdmdxYU5LM2JVVFljUDM4MXpQZEZKWDFXUXdlZExrV2JLM1dXRDhiT0ROU3lrdkMxbDAxcTE2NmxocXJCa21Caw?oc=5",
+   "source": "BitKE",
+   "type": "news",
+   "published": "2026-10-22T11:00:27+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Robinhood"
+   ]
+  },
   {
    "title": "US banking watchdog preserves stablecoin rewards loophole",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmR2QWJQdFhWTExmS0lyaVNvdmx6eVhuRF9LbTJNeWhKdW1xNWVvNVRaZUdzX092SG5NeTlBN2VYdlREdXVXS1RDSkZnbjYwNWQwQkxyWVRlUlI3cGdaMk95MkZuSUFpM0hFdnZDQ054QUVacFpPdkk2amZIMk5SZFctX0pWQQ?oc=5",
@@ -142,14 +1119,38 @@
    ]
   },
   {
-   "title": "xStocksFi Claims First to Surpass $100M in DeFi Deposits",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84RFRLUExwNE9fTXVMQldTNk43SjhSajB3THhGTEhRem11YV9GcHZabzBMVFZiNzk5WmFjVFo3OUt3ZVpxSFNMcWh3WXk3dHY4XzdCZw?oc=5",
-   "source": "Cryptonews.net",
+   "title": "Ethereum co-founder's network lost half its users in six months, plans new language",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3FFWXliZ0JvTmsyVF82LURnWk9PRFJYMUp5aS04U0V3VWgzQnRDQ2lraGpub2dZcnZ1NHVNUVRyQjJ4TzMwdW1IUmphb0JXMEZsZVVYTFhueTRCZ1pWbTFuODBfaGs4M3JyNDdVNlk4ZmJPN2ludkl0SVd4b2xodWR1cWVxbGYwU0tfNjFFVC1oTmtyS2N3RFFYU2tkRnNqWWU0RXFxR2U?oc=5",
+   "source": "TheStreet",
    "type": "news",
-   "published": "2026-10-22T10:55:06+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T11:00:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "DEFI"
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Crypto Analyst Warns of Short-Term Price Manipulation in Bitcoin, XRP, and Cardano",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTk9sa2JRUVJSOTdwaTcyX19zZEpVX3FuZTNqMW5ZUVhHRng3NGw3VlZkZHdPTHNUMzZvRmluYlpTb3JObV9XcVZibmlGWVdNWS1mMGVtbTAxNjhaMzNXRkRDRlFXNkpGaDBRN3U4SWJnNmZlbEM5YlB2YjdFdXdpbUJsTDlhUHZMc0JRbnJaWjFwVW9VNmlLSzZLR1BfUEZsOTJOZS16bzczNFhRMnNuZ3BaTEU?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-10-22T10:55:23+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin",
+    "Cardano"
+   ]
+  },
+  {
+   "title": "Crypto Today: Bitcoin, Ethereum, XRP fall despite net ETF inflows",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFVTaFVKOVBfejZXdWNrUmlVdHNPZGRMRjNZekVCZkVUZm13NEt3bWF4bjJ4aU0zdU5rbU10dDRyR3E0UUh0M3ZNcUtFRUo4QjhSVkVPdUJrTXJCa1FrakFadUZvTWpyYzRRcEZ0MTFPVnRCSTR0cF9rWDFKZ1laUjRGa3hfUmRZX09BWjRoX3diYi1LX19OYlhkOFZDblJ4UTM5SFM4cnF2R1hUVVhtNHJWZnp2a1hXemRJWTNQdw?oc=5",
+   "source": "FXStreet",
+   "type": "news",
+   "published": "2026-10-22T10:54:53+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
    ]
   },
   {
@@ -199,6 +1200,29 @@
    ]
   },
   {
+   "title": "BitGo-Held Bitcoin and Ether Will Secure Perps Margin Loans for Some Kalshi Prime Clients",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYnkzR1ZTanU2dGFQWE85M0xKNG9JRXF6cXFmVHZodFRzNGRzQzdGeGRPNWVmTU1FQVZnZ1BGTTFqbjl3aWg3b3QzNjF0YWpWc3RkVXdMWHhVLUVmVmdxcmV3aUJoWGt3UVZGWEhFSEkxbnUxWWZXSDNzZE5WeU5jdldoa0poQ1c2TzVBQnEyWklad0pBWFJqQ2tNdWQzNk1TMUJONm1TSDVsMk9PdWEtODJ1NHJSZmFpR1E?oc=5",
+   "source": "unchainedcrypto.com",
+   "type": "news",
+   "published": "2026-10-22T10:30:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEg5MlR0cUtacXN1aGtzX2FxMFdqYkhhSGNPQnhkZHNLb0FqSVNuQS1FdHViQi0xcVlpeUhHUFpYRHM5YUkxVWtfV1ZkTExvbUhDMm52eVFJYldwQ1hFUWNNeXVWVU8zcFJIWkZ4RTV1S3BTUEVNS0htMjVUaFU3cHNoUzZYSk4tWmJLSERYUm5kaElhdnBfQ1BSTFIwNHJWcXU0a3FBXy1nZDd6X2U4?oc=5",
+   "source": "Bloomberg.com",
+   "type": "news",
+   "published": "2026-10-22T10:26:29+00:00",
+   "first_seen": "2026-10-22T06:00:05.634439+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Stablecoin yield rule revives crypto vs. banking industry fight",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUxkOTREZjgxOFZCa28tekZ0Z2s1dE5yeWFlMWJHekxnVW1wYVVsdHMyYjVlSGZGWjdTN0ctcF9iNkF4U2tHaEVxdDE1N1YzRWFibEtTak5jNmxmUjhGb2lvenpSaGNwaUFmTjNXSXZjZjRQdUgxZlRrUk9iQVVjNkVKdXdzYVJPUlB4VUF5ekhlSzJBRFVqbGNTNA?oc=5",
    "source": "Roll Call",
@@ -210,14 +1234,80 @@
    ]
   },
   {
-   "title": "Robinhood Secures Dubai\u2019s DFSA Approval to Launch Crypto, Stocks, ETFs in Middle East",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wTl9EMHV3N0JLUmZ2U2FHdXdfWEwxc1Rtbno2SXJ4WHEzOWwyeTVHOWdHQUxldi16VVl3Um8tQ3NsNEFJZEJkbmxNczZxRm9RZFlFUGdrWQ?oc=5",
-   "source": "Cryptonews.net",
+   "title": "How to Use a DeFi App: A Step-by-Step Guide for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeWtHeDVqZ01RbnFNaEowUzROUE9SeUVhTmF2REJnQm9iT3JoTTJ1NnM3VmVLMkR2TG9DZzRNMER0NlZuaGRrbVVDQzZWX0JETkZMcEd0eDlweXNWcXFyZVJ1LTJfUFoxU3pubFZsQ1gydC10clZmNzRNOHN3MmtUU1BLOEtXTjhFOEE?oc=5",
+   "source": "OneBullEx",
    "type": "news",
-   "published": "2026-10-22T10:19:47+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T10:22:22+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Robinhood"
+    "DEFI"
+   ]
+  },
+  {
+   "title": "DeFi Apps Eliminate Banks from Everyday Finance \u2014 Here\u2019s How They Work",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFNtMnpTMVVBSnhmRHM4ZVJBR1lmT0l4bll6ZFpZaEV0TWR3aVlHZVZWMERfRy1Id1ZUUWNGM000UWxudFVPS1hEeEVydzktcmNETjdMd2NCTS1DOUNGbHNfVHBUT3JpT1Q2c05iWWNpRXQwSTlJZFgyR2gwVmJHN0Qxa0RSVmc?oc=5",
+   "source": "OneBullEx",
+   "type": "news",
+   "published": "2026-10-22T10:22:21+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Janction (JCT) lacks live tape but could serve niche DeFi if it solves a specific problem",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVVUcU5NVExaOFhiRThIZ0EydVJIeHhhNldGUkVMbEJOWE1rVk5POXhXcHVfWi1fbF84MmEwN242ZkZfT1hCN28tWmtJMDRldmFZRHdFUERTaUZZeHBNZjdlaV9qdjdNMjZmdnVvdkExb2ZjazJUUnRoeTdnSHBQY1pGWHladw?oc=5",
+   "source": "OneBullEx",
+   "type": "news",
+   "published": "2026-10-22T10:22:20+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Are DeFi Apps Safe? Understanding Risks and How to Protect Your Assets",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWTR2Mm9TS0k5M0RVdEpSMlVCb3JEV3BXVENZeGVwSGZZRWptMUNFODZWS29kaG9tZE5hNkdRVGJsaXhxdl91bGw5NHVDNGN0SUlVNUVSV2ZPV0pEUHZBOElpVnRPWEZqOUQwUTZRczRCT3BlTXlXeVpnTGhBZ29TQXRpLUE1NWNuSWZYVG9hN1I?oc=5",
+   "source": "OneBullEx",
+   "type": "news",
+   "published": "2026-10-22T10:22:16+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Top DeFi Platforms Driving Institutional Innovation: Features, Use Cases, and Cross-Chain Governance",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY2QxQ0cyLW5Celg1MmtacmtMbFBRNFZBaW1ORVRFOWtCTU5SWnc0NVA5SVZLbG1DYktINFpjc2NBaFVfc1NMSzVONnktU1MxOWgyWG1mcGpGd3o0OTIxQjR4ZTBaVFZBWjN3WGJCZmtUbmlXUGcwZXNQUThsbzdrYkNXZnlFYS1WdlE?oc=5",
+   "source": "OneBullEx",
+   "type": "news",
+   "published": "2026-10-22T10:22:15+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Cardano Price Prediction: ADA Risks Falling to $0.19 After Resistance Rejection",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDFhTWRSUUdCYjJ3aDlGdXBKOUJ3eDFzNVRLWjlfbjlHX2ZPWUIzYzV1QmRIa3BYQnR3eGp5bG5GeXNsZl85aGhCeVhrcjludVA1T1oxVmQ2UVdLWXYwbDNnbjdWR3I2S1BpbDNBd21ZelR4RDlBRlhEbENYWW5lUm9kNDNwRHIwUGdkc3c5am44RmhfWXlWMXRoUndyR0hzckFPTmdnZHBVQnZnNGE5Q1lKSFpEZw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-22T10:21:38+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
+   ]
+  },
+  {
+   "title": "Trump cites over $20B in cybercrime losses at the White House cybercrime roundtable",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrWHNuMENVQmR0QlJQeldoNWZwcEJ5cWNUdVpBYTFvUDV3WklDam4yeU00c1RmZ0xIakxSLTFmV1FKbkVtLWhpaTZpZUJuRkZKUjUteHd4NGs5YWR4NG1TVXhEdkREMzYybDVBR2MzNWpVdk5fZ2NCQXlqNTk?oc=5",
+   "source": "The Cryptonomist",
+   "type": "news",
+   "published": "2026-10-22T10:10:21+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Trump"
    ]
   },
   {
@@ -240,17 +1330,6 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Samson Mow Predicted Musk Would \u2018Go Hard\u2019 Into Bitcoin \u2014 Now SpaceX\u2013Tesla Talks Revive $1.33M Call",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWTVudWVXSzhNSkZkRjJkODlOTUdYRjVYemtqcDcyYnMwbHFIUllHR2x6Z3NDdXg2aTJUYjFYUVg4eFBVLTZUbFhOcy1xSW5fdThXWVYyYy13S1RnaUhMbWlWZmNHRkFsaVcxS1laZXRyU0c1d0FGTTdJUGQ5LWdXaWxCOXozajRxbU5PN2lJdlFBVkY0WTd5N2N3Zw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T10:01:01+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -299,6 +1378,17 @@
    ]
   },
   {
+   "title": "Soil Launches First RWA Yield Protocol for RLUSD on XRP Ledger",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3ZZVUhEY2ZnV3FpQ0VlempFMjBzQkVrVjc3eXlUMWZqZGU4QTd2VHdYQ1UxV3U2VUlMNWVmMHpueGZWalZCUnM4LTB4ZEI0NXVTb1JnSFYxdE5KMEJ2cXdEVmdhMmxuTW91b2ZlTVZqODZtY01NUWFCb25CZENzMG5CUFJNdkNSQlRFMWZFUmp3QkRiR2ZqZFREZ3BFX1h4ZWZGWVlmRQ?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-22T09:56:28+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
    "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
    "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
    "source": "The Block",
@@ -311,18 +1401,7 @@
    ]
   },
   {
-   "title": "When Code Became Currency: The Bitcoin Experiment in Trust and Value",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNS1qZUYwbzhoME1oUWt6MWxfVnFEUzBFVjMwR0dHcmthcFNJc2JXeEhGNjVkNHN3c0o2dFVyUk05N1Rkb0RfYjkzMDFZMWM3SXczQ2lHMnZ4YTMzV0RJRTg0VnVPZFZybk95Rk5xRWZ2X3Nnd29ZdkZVcEFlN3NMNTBCWWMtNXRWYUViMTQzYmpvYXdzV0o3Sl90YmNMZVU4Qml6UG14Wko0QQ?oc=5",
-   "source": "orfonline.org",
-   "type": "news",
-   "published": "2026-10-22T09:55:15+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Live updates: Bitcoin\u2019s round trip to $85,000 burns traders on both sides",
+   "title": "Live updates: Bitcoin slumps below $82,000 as risk off mood returns",
    "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
    "source": "CoinDesk",
    "type": "news",
@@ -333,24 +1412,23 @@
    ]
   },
   {
-   "title": "OCC GENIUS Act Rules Could Reshape the US Stablecoin Market",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdjN2Skh4QXVxeTR1ZVZaVG5sQU1iN1d4T1Q0ekdJcEVUZUtFYUZDSUhTUm4wRlYwdGM2bjJoMlN2Nm5xQ2FTdW4zWFNRRXV4ZkJvN1F6QWFhNnRRS25SQTdCNVdVTXVkY2ZhTm5QbFpsUGY2RVVTekRhcE1teXRnQUJITlY4UTNiZXQxZFZOaTNzb1BZekhMaURfNDVKOVhCekQ1T05RQnBlNEQyeUFjLU45blZsVkIzYUxCaA?oc=5",
-   "source": "TradingView",
+   "title": "Goldman Sachs CEO Admits to Owning Bitcoin at WLFI Forum",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOclZDR0l1UmJiV1ZYUTg4eWF1ODZNT3JsUkx3RUhrNVFDN0FoRzhXRk1qMnE3c0Y5a21PUFBrc2Y0REV0eDJjZGRXQzRCNGptbGNfUHRMLTJZYW1rRWdfWDJySE1renN0VkpuNlNwU3RGR3JpaGtjWWlSbGRSOFh0QW9OMHI3SGMwaVp3RkI3Y1lQaFkzOE9BbVpSaUxCZ3c?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-10-22T09:45:53+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T09:48:45+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Stablecoin",
-    "OCC"
+    "Bitcoin"
    ]
   },
   {
-   "title": "Shinhan Card, SBI-Affiliated Crypto Firms Plan Yen Stablecoin Tests for In-Store Payments",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdnA3VnB5TS1ycnBQTlRvMnIwQTRIdmhSTlM5MXY5cW9fNl9pejFZRjNEczhCamNTTEdKNUZqbkk5MlF1REpXd0s3Qmx0b0lRbURvblhmMmlIVC1EYmNTVVE0eTRjVWE1SjVsNVJ6c0k4bDFmVFppbTR6d183Q2JvamZnM0d5eE9OQ1NuaGJQWFhjUDBETUFPWDNISzVUUEdZ?oc=5",
+   "title": "OCC GENIUS Act Rules Could Reshape the US Stablecoin Market",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ1WGFRaXBmQnVMOHhXOXB4Q1g0dnZyZnBLWExtbk51TWh2M1hEXy11T0ViNU1vanRUWWRxSlhxcDI3T2RXZUNVNVFXUHNLNEdlSVFhQ1p5WkNOeDBDRDhJMkpqMk9uUElHR0tuOVJ2SUVDTDJ6b1BqbTRQSm11ZFU3aWx0Mnp3MVZVOFpPcU0ybUJJTlE?oc=5",
    "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-22T09:45:11+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T09:45:53+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
     "Stablecoin"
    ]
@@ -379,26 +1457,26 @@
    ]
   },
   {
-   "title": "Bitcoin crash history: every fall over 50% since 2011",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKYkpVQ0VjTUU4aUhiVkxVVjR2MzZTWE1ad3MzLUxfeGpqeDB4Vm9IU241OVpwX0d3Y0VNa0doUlQwZ0NqdGhSSVBzY0ZRS211amVOenNrTDNHMEhmNGc?oc=5",
-   "source": "CryptoTicker",
+   "title": "Stablecoin Reserves Hit $41.6B on Binance as OCC Finalizes Rules",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fNlotM1YwT0ZXMlI4bkFPYk9PWmVWVUlPS3JEQzZkbTBWY3B1NU9QNnBFcE4tLTNib2hjSXNtZ1ltM2pVc0loZVR4UTZzWXRKTWdVZDhhb3ptRzlMaFJRN3pzMXpKMEF1RmtxUURYNGRmZXF2UzFIeExfZEdvQQ?oc=5",
+   "source": "The Market Periodical",
    "type": "news",
-   "published": "2026-10-22T09:33:18+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T09:31:58+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Bitcoin"
+    "Stablecoin",
+    "OCC Finalizes"
    ]
   },
   {
-   "title": "OCC finalises GENIUS Act rule for payment stablecoin issuers",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTBxeWlLRGFSY05heER6dm9CdDhkZlpsT3hmTlhNM3d2dlZyRjQzSHZSTURFVHluN1JMNlJfTl8wdnh6UXNTSDJBdFdaQUNQNFBJTHlYYlc2bnJQSVpqRDRzSWE5S0dEU3lBZEFEZS15YXJoeFBNM1Q3WUdoYVVFX2dDdERLYVdzQ0xDVU1PTDdSWFh4dmxGM0lHU3BSVkM5VFE?oc=5",
-   "source": "The Paypers",
+   "title": "Bitcoin Plunges Over $3K After $85K Rejection, Altcoins Get Hit Harder: Market Watch",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0lzdlpIeGxxSEZlYWxkano4Y1p1b053VGx1TmRJc09zZG1rRDBqRDNMaXBRMVZYNXRma2VlQW9ZbHJUTlZzWnNzdkQtOXNtMnFlZTZDY1lrakNZSS1RNFFIN0lBbDdoMW1YWkdJNjI3bHVaUS1rem1QT3N5VmUwMFg5RU9FWnZ1a1o4TkdCQXd2OHVBT3Y5YWozN3RkZWFUX0dHZ0F1RVZTckt1U2VQSHdyYTJmM3hzNnc?oc=5",
+   "source": "CryptoRank",
    "type": "news",
-   "published": "2026-10-22T09:26:35+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T09:30:58+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Stablecoin",
-    "OCC"
+    "Bitcoin"
    ]
   },
   {
@@ -426,25 +1504,13 @@
   },
   {
    "title": "Trump Says Nearly $1 Billion in Scam-Linked Crypto Is Frozen as DOJ Goes Nationwide",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOckpYUUUyRm5pYU9ldmJLbGNrX0VmR1FubUlJdnNjZ0w5bnlnUFhhM0t6ZHdqQ1RuOU5SRGFub3FpaTRHRlVMaDBiVnV4dUk0QU1Ob2FhYWp4cE16c3J3OWI3THVGR3p2M3NYUDJUUVEwdkcydXgzOUlKSkUxOWpyejRPUjNFSmQ1NXE4Uk51LWE?oc=5",
-   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR25jV09qRDlGV1VEMWg3djNKMnZCMmppUDZOUHhoamU0dlRxTlh5UC1KOElTQUVlUHExcjdTbm1BdEdhcEFpNm04WC1UR1Vfc01ZdUxzMHNzeTVkc19sQXN6amgwS0VwQXJOeFczY3FzNnlJRWxqN3RacEs5ajZiVlR5U1V2R25tUjNaNTZNdlBudWdNS242czhnU2tkMG11a0JYemZIOHNyU19vTmlWZQ?oc=5",
+   "source": "unchainedcrypto.com",
    "type": "news",
-   "published": "2026-10-22T09:15:47+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T09:15:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
     "Trump"
-   ]
-  },
-  {
-   "title": "Robinhood Chain revenue reached $51M in Q3, topping Ethereum\u2019s $41M",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWSnA2cUJadWtvcnJFejE2a1M4RldDSHR5bU9ZU2ZjR0dzd1J6azNFaGRRakJkbWtkOWR3c184SC1BV0VEcnA4ZjZkckdOdFcwaGJEMUpHYmpESU5DcDRuVWVCcHhGX0JNUWtPSWxkczM4M0k?oc=5",
-   "source": "The Cryptonomist",
-   "type": "news",
-   "published": "2026-10-22T09:15:12+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Ethereum",
-    "Robinhood"
    ]
   },
   {
@@ -457,17 +1523,6 @@
    "topics": [
     "DEFI",
     "MiCA"
-   ]
-  },
-  {
-   "title": "ETH to XMR: How to Swap Ethereum to Monero Without an Account as XMR Outpaces Ether",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjZRMTZxdnQ1bVpLLVF5MHlYYWpIcWpUNS1UVTViei04S2V2d05zZU1TUmt2OFE1cHYzbWUzNVEwM0N2OEVHczFuRmdDMXJqbXBnM0RCS3lSY0NEeHFVdUtLbDhNNFA2QnJ4VmZmMXh1UC1lLUF0U1VBN3p5RXhIVjBCeHhoWS04V1o1NnZiYl96ZHlvNlZpOV9iRkRWTWxaWHFOR1VZNzNQWkNRYTQxUA?oc=5",
-   "source": "Cryptonews",
-   "type": "news",
-   "published": "2026-10-22T09:11:22+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -494,14 +1549,15 @@
    ]
   },
   {
-   "title": "Stablecoins moving $400M/hour as Visa, Mastercard fight for share",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZk9KeDJ1ZzBaMzJMdzlNeDk1MXoxODBrSnlOMUVYUnA4MzQ5OGxpTUFVdjNGZWJFSEdjTzhTR3M4d2FySndqdUpRSk9KbzczUktuVmV0QjN2d2V5M3ZXaVhGQnJxMUhyLVFEZXVWd0JIZDU5bS11dDJ6S2VwLXdFaGhiWWJZTHNiMkVVQmZ3?oc=5",
-   "source": "CoinGeek",
+   "title": "UK Crypto Broker GCEX Starts Offering Bitcoin and Ether Options to Professional Clients",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeFRHNmxBU3RSYUZ0M2hqTGZmWFJjWjJRekFjczVKSkE4UWdTaXNtVWNubkZDTDY2MVdGVTgtSU9CM1BwYmhKYTZITWZwQmpyQTJvVUt5M0diemthR0tjaHlkbzV0UWxsbGhhUTNGXzQ4S2RSWl9kVXhBdmdjR3JoZzVXX3RJZnMzZHNNcHlnUGVNSmhFd1VXLW1fXzBOcjRENENSSXFwVFdHejFsbWpEVVZxcE9UVk9WZkNYSjgxUDBYNG1Kb1VxVURFenhFNFhM?oc=5",
+   "source": "Finance Magnates",
    "type": "news",
-   "published": "2026-10-22T09:00:00+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T08:59:05+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Stablecoin"
+    "Ethereum",
+    "Bitcoin"
    ]
   },
   {
@@ -517,7 +1573,7 @@
    ]
   },
   {
-   "title": "OCC Final Rule GENIUS Act Stablecoin Rewards",
+   "title": "U.S. bank regulator OCC finalizes GENIUS Act stablecoin rule, rejects safe harbor",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLRHN0RVV1ZGozcW1QaGl6a3ROZUoxN2hOR0ZpVm1EQXllOVN5MHNveldfbDNGMlBVNXZpRV9LaTVyelJfLVBRcjhsMVZicjl3ZUpkSGhVTHZqdzJSN3RlNEhNakw5dEc0N2Zpemk1ZFA?oc=5",
    "source": "The Cryptonomist",
    "type": "news",
@@ -525,18 +1581,18 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
-   "title": "Robinhood to Launch Stock, Crypto Trading in Dubai Next Year, Deepening Middle East Push",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaMzljeFUyS1FQdVQxRExkdmZ4WUpnNU1oVVZOb0toUWQtbVN3T0EwVXdfZmhzSDNxdlhrTDR0M1pqaUdxZXJCbTh4RU16c2JmY0RudA?oc=5",
-   "source": "bloomingbit",
+   "title": "French Regulators Join Forces to Update MiCA Framework",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHhraVNsakNGT2RLVVVtNnhOeTU0WXlsLWN6VDJpSDZiSTZGaHZKZU9ndDB0ZkdnVzk4V0h2N2Uzb3lQWGlJUmwteHQtaVVWU2Z1TTJadjFxVjdXdUkwYVZBQVBDYTg2LW9IeEFsVHNFTERiLUNfWXNPZG8tZTJmczIwbWJWUQ?oc=5",
+   "source": "Coinfomania",
    "type": "news",
-   "published": "2026-10-22T08:56:20+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T08:54:23+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Robinhood"
+    "MiCA"
    ]
   },
   {
@@ -551,14 +1607,27 @@
    ]
   },
   {
-   "title": "Asian market selloff deepens as oil rises. Bitcoin (BTC) price slips to $82,000",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGF1VUphN0o4MnZNLWtoR3VLM2JSS3VaamlKUGlvWXF0S2hvRXBocElpU19MdWRqQmUyQ2g5M21fUXBSQl9raHV5OE1yOFpPaWkzSWo0LU85S0I2VlREOTlBNExGVDB3WDRVYVhqaXZEbGtCQWdRUUJkY0RuRUVnZUdra2o1M1RnUTJTMmp5cFZLcy03Rzc2cjN4bmtRQ2RLTmtYdzd1VGc0QjRR?oc=5",
-   "source": "CoinDesk",
+   "title": "Cardano Foundation Urges EU to Keep DeFi and Staking Outside MiCA Expansion",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjE2aWg2emVzWlktb2E2cWxfU2dBS0x0ZFVOcFY1c09VaDBBT09DaG9XUHJGeFlxNWxsTjQ0YjZzRGdXUFp4SkoxeFpwX0N5Zm5NOF9oLTZNY0M3VGw1ak5QYmpUcDFMM2cwQVNiUTZqc3g0cVBJSng0RUJNOWxHX1BWSG9HaTd4V2dyVnJnOUdwWE9oM2UwbVByeWJvQQ?oc=5",
+   "source": "CoinGape",
    "type": "news",
-   "published": "2026-10-22T08:49:08+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T08:45:10+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Bitcoin"
+    "DEFI",
+    "MiCA",
+    "Cardano"
+   ]
+  },
+  {
+   "title": "Robinhood Closes $180M WonderFi Deal, Lands in Canada",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVFlcGJhRTNPcVNCYjFjaXhTVVAzaFEyNHNiUk1WYVlFQ2h0OHItUUpxQ0dlVFVFRGc4MHBubUtvRXpHZzJlVm9HUzRuSkVzQW52Si1vcnNoVzhKekdDN25BazJYUDdVekFNUWt1UEotZ3VyNUtLbk1aVkNHSzctNkdOdGY4Zw?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-22T08:44:21+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Robinhood"
    ]
   },
   {
@@ -595,28 +1664,6 @@
    ]
   },
   {
-   "title": "Alpha Modus Reports $250 Million-Plus Bitcoin Holding From Share Swap",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlBObUVqVlMtM1dZUk83UWEwZmZYbXQ2b24yZEFQNFk5X0RVUVpIZWctRGRxVVY2TmRDZk9OaklkNERnR0FRa1JOX1NQc3Z6bHhqY2NVamhiQXlpMUNqUHh2M0xJOW9oQVhOOEVqRnBwMndZc29iUkFRQnVrdEx6MG0zWndnNU1NQ1FVQmhFaFFyOGU3eGMtbHFPUks0LXRKZk1oVS1rMA?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-22T08:05:04+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Binance Ethereum Volume Imbalance Drops Below 30-Day Average",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mUTBDa2NFS25DRURCM19YOXlJTVd3b2ZYR29KcE1pV0ZxQnRKMS1mWVUwUDhSMW43Yk8xWU1CeUZ6UnJ3UEE3cFNHV3NVQXBaUlJuVWU5WEhyMTZyZDhzNnROdkJXS2pvYnRvdWNnd2ZKSTVjR3c?oc=5",
-   "source": "CryptoQuant",
-   "type": "news",
-   "published": "2026-10-22T08:04:31+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "U.S. restrains $938M in crypto amid Donald Trump\u2019s crackdown on overseas scams",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEZUVmVyRkxwRXAwZUdoM2NIam95Tkw4ajJoWmdGLWJkdnJpRlpQS2FuRV9uZVZ4Yl9xU21VM2t5YkkwNVJIS1hFYXpKR2E0Uk9zMVh5UDVpeTJIX2ZFbkl1bmJjRVU4amdiSEFKckNNWTZLcGZPbjV4TVZZLW50QUVEcl83Rm5iVVRzb2N2ZVNfcndvY29kVDktSGZxcjQ?oc=5",
    "source": "AMBCrypto",
@@ -650,29 +1697,6 @@
    ]
   },
   {
-   "title": "OCC Issues Final Rule to Implement GENIUS Act",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUpGUlVrTGZRSnFyUmhHTFJYaWtDdXNrSXVGbzZMSlR2OFBSN25PRDdZcGRHWjV3eHpIM0c2M09QVThaMHcySUFkM2VTZFZNQmVpdlg4emdueGNPc2xJOEFscGxZYkJiOGowcVEtbVJjNVk5SE0xdEhWbUN5VVlEdQ?oc=5",
-   "source": "Markets Media",
-   "type": "news",
-   "published": "2026-10-22T07:33:30+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Bitcoin\u2019s Boring Moves Are \u2018Actually Quite Healthy,\u2019 Says Analyst Eyeing $275,000 Target",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkN5b1o0OVI0Rkh1WFBzYkhvNjFwMTVJaXJsUVppMGJydkZKRVNqWVUzQlZySkpiUjRQM0M3X1lHbnhkeHVIN1BxSW9yc1loOEdhLThfRVBRZ1V3a3BLZklZeno0ZGlhZ1o1WXQ2aGZNS253cWlHc3paemxSWXZSV0ZDNExyZG1rRXJsWlpMeEtGbUpNVUJScExURWM3RnBjT2w4ZW9FQnVwbEdIU09VMi1fQXFWLWNHcDFKQVRn?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-22T07:30:02+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "National Trump Digital Accounts: What Is the NTDA Coin and Is It Really Linked to Trump?",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50VWs1TExvdVAzRjI0V1JwR3d0NHl2TmdNcUtGUE9JRnA0QTlmRWc0X0xPNU82cGpXMGM2YUJSWjVWaHdCTFFLdFpTQWxIalRfX2YzX2phb0ZWcmkyZlVFSVBCbng?oc=5",
    "source": "Bitcoin Foundation",
@@ -684,37 +1708,14 @@
    ]
   },
   {
-   "title": "Coin Metrics Study: Crypto Rallies Slow USDC Growth, Speed Up USDT",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2JLX0RfWTVmYXJ0VFNNMi12dDBmWTlQNDViVEUzSkRRLW1aYml6aDVTSlF0Z0VBQmR5NGFRbHZPWVpMa1U0UnBZSzRDeUlpbG1LbEJwMlR3bEFnUklwWGZDQkI3SFlEb09TaFRwZ0hTZ2RVVTNTUmEyQlBaT2ptN0N5RTFXc3k0VExLanJiRUFjTW8?oc=5",
-   "source": "Altcoin Buzz",
-   "type": "news",
-   "published": "2026-10-22T07:21:17+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "SideSwap reopens Bitcoin swaps while Liquid reserves stay locked",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZzVfdjNwTVRZR3NYbkFtZFVpcFdPOWVBZzkxLWcxZmdHbWU2ckJKMDV2WWhDcm1YZjBWY2JDQ09ESERVa05tOHZhUXhzYUlYdWU0c3J3c2pkWFlXVlVPVWFzcV8zcXc5RnQ2MFhKNTJSWlRXUmpJMGtNbFR2akRWR1BxcE53R1NYNkxYN1k4bWtzaFk?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-10-22T07:10:36+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "OCC Finalizes GENIUS Act Stablecoin Rule: Reserves, Redemption, Timing",
+   "title": "OCC Sets Two-Day Redemption Rule for Stablecoins Under GENIUS Act",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUW1DeVM3V3ZoYUpvVVpXb2xMZTdfY2d4TFBkci14S29UdlRqT3RJQjlCenlzM2l5NFNKVVZRNU5DNnlocjllMkZPcC1EbUMzTFE4cXMwVE5PbzhmbG50X09jaUtFSVQ5RFo5bXo2RTlIMXpXUm5pX05FeWJEb3plNDdxSkpicDFDcDZYUlZRZTdGXzUyb08w?oc=5",
    "source": "Altcoin Buzz",
    "type": "news",
    "published": "2026-10-22T07:07:16+00:00",
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
-    "Stablecoin",
-    "OCC"
+    "Stablecoin"
    ]
   },
   {
@@ -740,36 +1741,27 @@
    ]
   },
   {
-   "title": "Illinois man arrested for alleged $665K Bitcoin scam of Escanaba resident",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWE5ZMGIzZk1Xa0tsR2dxazlXeDhHVmQ5cFZmYTFpdXRTRDhYak0tRmFhRlU1b1l5RnNKQ1VtM29oSThHUE9TeEJQQTRBam9nbEZydmEzREpCdGkzTVdoWUl3MFhKcDNJeG0taXozS1g0VWdHRzl4bGRjYnF5VTEyRmxScnRpSk9sQ1M5cm95b09abm1nN0EtbEZjSU9fZkZ2TVhjMWZBcWVkcG1pZ2c0RkFyTDdSdUJHQmpkdEhJd3U?oc=5",
-   "source": "The Mining Journal",
+   "title": "US Finalises Stablecoin Rules as Ripple, Cardano and Chainlink Push for Crypto Clarity",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3NoM0NuZXVYalVSSU1Tb0VkR29WVjJEbGsycXVFV2QxbXYwU3puUm1iUi0zaHJSYWloUlN0TEt2bkZyZVVzd3RzVVRYQ3hjOXlSbjNpaFJxWktncDFxTm9YT005ZGFyWlRnN2daTHJVam8zcXFSNW5FWm10OXBTRkxJcnUzSUJKUWMxY0lzaW1ETVNPWGxEaktHVks3MTNXNlNVdlYyMEhfdXhwcGowUks3c2JwclBMRWZaX05rYXppUQ?oc=5",
+   "source": "Crypto News Australia",
    "type": "news",
-   "published": "2026-10-22T07:03:40+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T07:04:24+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Bitcoin"
+    "Stablecoin",
+    "Cardano"
    ]
   },
   {
-   "title": "Western Union selects Noah for global stablecoin payments service",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVN4am9WLVlnZjlFTnJIVEh4THp2X0E2ZldHbjlvdGpmZ3B0blRiOHc3TjhhZXUtdDVUeFdsQ3ctNHcwRW5CYlBBUndDM2tKTjZlRl9zRnBKYjZxblNwS3RYT2pGV2w5ODM3ankxS05IdmUxZDFqMkNWWjlJcDNvUkMxNVJaZw?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Oracle Tokenized Stock (Robinhood) USD (ORCL40773-USD) latest stock news and headlines",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80UlJPSEc4NW42dGJES1EyeE1JVF9JN2ROV0NRQWtONUdhZjlQc1I4UVZXWWJBQ1EzYm1SMmNmby0yd1ZmVEJ6MWVmbTQwd2owMW05MVZFYUJQQzE0ZGhTeXdhN0Q?oc=5",
+   "source": "Yahoo Finance UK",
    "type": "news",
-   "published": "2026-10-22T06:42:00+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T06:54:54+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Stablecoin interest: US rule from January 18, 2027",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRaGRkNHpmVTFaNFd1bFdhUkE5VThJMk10akFvQlpNeW8zY3J1RWV2bEdfQmM1WkI5UTZTYi1nVFp6T01VX2JVSmExVFh0R0pmN1RPLVR6Yjl2a01LWUdaUHd1V2RfOG1wNmRHVUN0R2pLbWJsV3JkRWF3MlpGQQ?oc=5",
-   "source": "CryptoTicker",
-   "type": "news",
-   "published": "2026-10-22T06:32:24+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Stablecoin"
+    "RWA",
+    "Robinhood"
    ]
   },
   {
@@ -803,19 +1795,8 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
-   ]
-  },
-  {
-   "title": "Coinbase, Robinhood, and Circle Could Win Big From SEC Tokenized Stock Move",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmlGNXZ6ckQ0UEp1SmZ6ajE2dWg0XzlKem5uSnNpdFVOMWkyOG03TUFYRWpNZFI5cEw3LTA5dTUyQkk2Sm5wMkc2N040djBFc3hqVTFhbjlLZGdSbmJ6b3NQQllEb2JyOFVPUzlrU3ctUFRFMzFGUlFtRngxUk5LNmpER21yLXphM25zekhZbjJsWDhOMlJlU3daOFNhR2pHVlFwY1QtS25lMTB6WmcxSlN5WTdkNk0?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-22T06:19:20+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "RWA",
-    "Robinhood"
+    "MiCA",
+    "Cardano"
    ]
   },
   {
@@ -831,6 +1812,30 @@
    ]
   },
   {
+   "title": "OCC Finalizes First GENIUS Act Rule, Leaving Stablecoin Rewards Programs Unprotected",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDhPclp6bXpSc3BMcVRicmtHMWhXTnF0cGstM2hkWEJ1TDBrMVNRZjROUmhmVHJPNTZFN1dxS2s0ME1iRWNpOGFwV0ZIbm9kTmNtR2xMV3hndjg0c0Y5MGIybnhpSHJiMGVhSlZTdkNYOFFuVGpWNG5VSm0tcFpjLUF5TGN3SHdCQmdoRQ?oc=5",
+   "source": "Hokanews",
+   "type": "news",
+   "published": "2026-10-22T06:15:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "OCC Finalizes"
+   ]
+  },
+  {
+   "title": "Bitcoin (BTC), XRP and Cardano (ADA) Show Rising On-Chain Activity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50VmV5Ymx1Z1hDclVscGV2bTRTRm41WEVpZ3lJbjQzRWNIZVluSUhJUFRJNm5PczlZdndnSzhxbkMtektEengyNHFydEpxMGZTV2ppU3cwdjBGQQ?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-10-22T06:13:49+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Bitcoin",
+    "Cardano"
+   ]
+  },
+  {
    "title": "OCC finalizes GENIUS Act rule for stablecoins, effective January 2027",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc20tNDN5R1VPOFFMNXVmVkFHeWZDci1YX2JIZ01FQUpIWTdlZ010UUQzU1pjRUdCT1VacEJib2o4QzhXWW80aFdLcFNCYU55eVZnS05NQ00tel9FLUNjYTVQVWN4UktIclFZQ2xJSVp3Yk52ZF9ucTN3ZlN4U2F5YUl0RzVwb3YzMUNOTS04cUpKZ1hMaDhZanFrbk8?oc=5",
    "source": "Crypto Briefing",
@@ -839,29 +1844,7 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Next Crypto to Explode? ETH and ADA Rebound as Remittix Plans a 64.3% Rise to Its Final Presale Price",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRVNOSXpWd3VveEY0ZDEzVUpsOVJYWEkwLXFjaXBuNVJlRUoyZWZIelYxWTZwUTNVbzRvMF80X3hON2k0VzA2VFZwVXU0ZEs4T2MxS3hKUTU5WEk5WGgzT2dnLTVreTRrMGtNczd0UXVleXZ6cWJENHJyWlo5aURvTEIyYWJwWWxvT3VRZTRRWHo4RTg3RFk2eWJNZWlDM2YxeEhScGE2TEV6RVFxQk5vU1FzOWtoSm9vVy1yN2hhdEpXeDU0Q0RGamtwcGNnQ3Y2Zk1aV1BIWnF0Y2tzb3FHdG9rbXVGaGMzajFRUUJibUxzX1ly?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-22T06:06:16+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Robinhood Markets : chooses DIFC as regional headquarters to drive Middle East expansion",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTTlkVzlVSjZ0MFlZOXFzb3JBN09uangyRDNyRkRHVFFHay1Wckh6bFFsR1k2ekV6Wjl3QTU5djdwdUk4YXk0TXBtX2JnUUl5TnhadkUwZ3dtdktSRFRiQjhodGY2WWUtTFo5MG5QcHE4bHRiaGl0NjRVMDRPVEJOeEdDREl0RnZJQ1FNNjF2ZEJNQm9aVE1XWVpfamJlbG9oZzhIRHItam1fVW94bGZTUHk5eTdLSlVEYTBQMUZSanNkQ2xlb3BWZ21DUTFTYk5la293MTZn?oc=5",
-   "source": "www.marketscreener.com",
-   "type": "news",
-   "published": "2026-10-22T06:05:22+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Robinhood"
+    "OCC Finalizes"
    ]
   },
   {
@@ -873,7 +1856,19 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
+    "MiCA",
+    "Cardano"
+   ]
+  },
+  {
+   "title": "Cardano (ADA) Down 3.2% Amid Technical Factors, No New Shocks",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BM1h5YmpwZDNHWWRfZmo1QjV3QnhPa09VSUFUaTRTVFFMTVRFblN4Y1Njdm9nWTVUdHROX0pjNEp1ZzYzWDAwSUZLdUVySUtvckJ3bVlIOVBwRG1NMGR6MGxYdWVQYndaQTZjcnRUclg?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-22T06:04:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
    ]
   },
   {
@@ -885,29 +1880,7 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Real World Assets (RWA): Top Tokenized Assets by Market Cap | CoinGecko",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFAtR3N1SzJIR3M5Z2Q4bFpIVVhQOHdGNlc2WmRKdEFQX2J3V0RSUk1SNmxlaVg1V1o5ZjRR?oc=5",
-   "source": "Howl.link",
-   "type": "news",
-   "published": "2026-10-22T05:42:39+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Exploring NeoSoul (DNA) and Its Impact on DeFi Interoperability",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0hzQlc3bVk0TV9KTFlxVFlNMm9jTXRLMkxrdG50YkZVdk9VbVc5Wl9SZy16LWpUX1ZqSzVqb1pQSTZ4UlNzdG5SUXAzWnhraEFRZHpHLW5SQ0tlekJwN1FwemJUb2ZrT0l2cXhmeFp1b2h2OVEyRU81MzVkX2VsejFTQ3pCY3V6d0ZlR1FKUm0?oc=5",
-   "source": "OneBullEx",
-   "type": "news",
-   "published": "2026-10-22T05:42:03+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "DEFI"
+    "OCC Finalizes"
    ]
   },
   {
@@ -934,29 +1907,6 @@
    ]
   },
   {
-   "title": "Trump to Highlight $833 Million in Crypto Assets Intercepted in Scam Crackdown",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBESklaSU1aVEh5MWh2LXptWXBPTGRHM0tILV9ZTVpvRVAxVWRrcGNURjdmMHl3WXN6eDFtbnlDS0d6TXhHZ3FrYXZNVGFXN3RvSGdncjluR2NqVEU?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-10-22T05:19:41+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "ABA Says OCC Rule Leaves Crypto Platforms\u2019 Stablecoin Rewards in Place",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LMVctZkkwaXF4SU5tdUJaXzJ4YUZNcldVckJvTXhlMkNKOTVRazVWV0lGUkdtY09ReGxRR1RITzdGdUFralFoRlE3akhXNGJXZFB0WkNrYkRyWlU?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-10-22T05:19:37+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
    "title": "OCC Finalizes Stablecoin Rules as Bessent Invokes 1863 Banking Law",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmhhQm9uUW9UVGVRWnU0VEh2R1ptS0t4dWtJTlB3Z0ZXRjdaSGFYc2RDdVhRS0dYNjRYYV9yRDlSV1FMdXVpVVpDN2FNTnUtUC14VDZRdEdjZS10NS1NT0I3U2JkTUs3ZHNna3kyams2TFQyYWdNMVc5QUNlbnVUTXFMZTVGYTBpcGJfTm1GemExWGE2MGVjbg?oc=5",
    "source": "Altcoin Buzz",
@@ -965,7 +1915,7 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
@@ -980,18 +1930,6 @@
    ]
   },
   {
-   "title": "OCC Finalizes GENIUS Act Stablecoin Rule: Jan 2027 [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlSXdidjJQZHZkc3NjclhScURCaHFKZlhMLVlVSWtGUjFHb2VhMWU0VmdWQUhfQXpmcTNGX1VRTjNreWxES1h3YTF5bFdOZThTWmxDdlg3SnFTdkdEQnRxZkYtTThYTjZjX0RDWXM3Tl9GdlRnM2Z0czFn?oc=5",
-   "source": "tech-insider.org",
-   "type": "news",
-   "published": "2026-10-22T05:07:33+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
    "title": "REGULATION | UK Financial Regulator Opens Consultations on DeFi Rules Ahead of 2027 Crypto Regime",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2NEFCQnNBZjF4SjBwSVhIZE83Tkp2dnNJQ0lBVlRyelJGc1Q1QXlmUnBUUU42enFWRjRjNlMxbzFXdVRMV04tZnFmbW5wdy1QTlVlcWRtZm1XNTFoc3YxTEFtT2cyMzN0LUg2SXE4Q0cwQQ?oc=5",
    "source": "BitKE",
@@ -999,30 +1937,6 @@
    "published": "2026-10-22T05:00:17+00:00",
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Crypto Morning Brief: US OCC Releases Final Implementation Rules for GENIUS Act Stablecoins; Musk Announces SpaceX and\u2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95dHRPYVBqUHlVN1d3eVBZek5JbkxDdzROTjdGS1dNOEhzMC1pdFRneGo0am1Bc3dQY1pZeG1oeUdTUzVWaENpRFQtRm9IckNEQ2xTTjdoSGt1NV9s?oc=5",
-   "source": "\u6df1\u6f6eTechFlow",
-   "type": "news",
-   "published": "2026-10-22T05:00:06+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "During Bitcoin's sideways consolidation, which DeFi tokens have shown independent price action?",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiejl3VnFkaFVIaWJCSWROanpJQVppd3pubXQzQ1RWTWhtVGM3MS0xX3FNSFBENkRRd21lV0xjaEQ3N2FRQlFPMG5VMEoyV1Nkb1ZkMlhhXy13aFpk?oc=5",
-   "source": "\u6df1\u6f6eTechFlow",
-   "type": "news",
-   "published": "2026-10-22T05:00:04+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Bitcoin",
     "DEFI"
    ]
   },
@@ -1035,17 +1949,6 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin (BTC) ETFs take in $1 billion in 3 days. What next?",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnQzRjlQQTFZR3QyNk41NzBsZ2FaNkpHWkRpQlNBUnF6RVB3UzVDWFhQUHl1MzVhZ0pCTUJfX0FBWXZLMG9idWZUdFNiLUZYMXJvcXFMT3pGMmdCWktOREVfbS1IVGdTY1VGRG93aXFtRk1BOW9sUnZxOFYwcWR6RHFmV1k5cTdPM2FxZEFIcTNhLUZTMGNTUl9OTF8telViQ3hHZXlOemwwVnRWUXhEckhMZl92SVBGQ1hzTGtEZ2w2RGVBUzFmLVZ3TFplQQ?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-22T04:48:27+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1072,6 +1975,18 @@
    ]
   },
   {
+   "title": "OCC Finalizes GENIUS Act Rules for Stablecoin Issuers",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BZjJBZ2FLdjhGZEdqeTZpWkduNkItWlZYNmphblY0N09Ec1dIMTM2REZjTEVjYUlnV2NoSHd2QU1aUXJkR0xsdFZ1ZkZDYnhsYWFHd1VyMVl3a2NRRVRtcS1XdFZIT19HampkdWN6X0ZkNGc?oc=5",
+   "source": "Demokratis.co.id",
+   "type": "news",
+   "published": "2026-10-22T04:22:41+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Stablecoin",
+    "OCC Finalizes"
+   ]
+  },
+  {
    "title": "OCC finalizes first GENIUS Act stablecoin rule, changes approach to rewards, and more",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeVBlWTF2MWhEWmRSUXhCQWFYTjR1Qjl2amwyVEJUckRzaGVaXzhLR2lhbUJvemo2YXdNRzVZaE1QS2lEU1l5RFNUSE85cm45NGh4THZ2aGJEYktyX3dPbmR1ZDJ4RHg5RHlKb1VzRU9tRVYyRVpkYUtDQmNpemE3WUxWNU9qSkVOeGdRWGpIMUVPU0tGaWVDTTlmVGxFN1BRcWEwM3B4eVlmbGJUNjBPRQ?oc=5",
    "source": "The Block",
@@ -1080,18 +1995,41 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
-   "title": "Tesla Doesn\u2019t Sell a Single Bitcoin in Q3 as Crypto Stash Jumps 42% to $962 Million",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5U0xEdFRxVTBnS3M3VVdwc3FhVzVaRlRDQjJpc3Ezdy1naTlLbm0xV1I3QVp1VGlzT0dOT3FZb3YtRlhLbjAxc1hrSnpLcWtHQ25IdS1mOHJsdkVKTGdFS3R6SHhaVmlpa1pBTndvUnJxNWp6dHNLM2EzOVZaNmM?oc=5",
-   "source": "Yahoo Finance UK",
+   "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January 2027 Deadline",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGdaUU9SbDhIU1lQQTR4cko5NmpNWks1b1VyZFlrbjJSazh5b0xDYXE0bW5JdEVGbFdnWVVSU1RQWS1YbS1md0ZGUkhPUG9ncmFOUlJlN1BMRVhSeVFIQ3ZjdUkwZnZ2RnN0bzUtVnVpc0dSazNpcEdpWHdBUnFVMHdYUmlBSUxQd1I0VUtjSllxVGYwQ2J6SVViTEpNWWlncjBR?oc=5",
+   "source": "Crypto Adventure",
    "type": "news",
-   "published": "2026-10-22T04:04:00+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-22T04:17:31+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Bitcoin"
+    "Stablecoin",
+    "OCC Finalizes"
+   ]
+  },
+  {
+   "title": "Where is Cardano heading?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGZtOVRqTkNKZjZ4b3B0cklCbXF2MXFMYnVoTlhxWG5TelR0TklBZF9kcEl6ZndPb18wLTV1M0tGMU9JRnVldjlqa2RZZm95Wk9YVlltdW1jbHBQNy0xeXpjNVE1UnRYZnNkbS0zVkg0UWl1R0lkMXVxc2I1VDVVcE5icm5YbWJqOXNlcFA4aW1XLVdZMF92OTF1a1h5eTVVdFBic2t6Rmc5VTB3dFp2Rzd0MUJULW9OYVlQZ2Rhdw?oc=5",
+   "source": "FXStreet",
+   "type": "news",
+   "published": "2026-10-22T04:12:25+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
+   ]
+  },
+  {
+   "title": "Cardano Price Prediction: Hoskinson Develops New ADA Code as Pepeto Presale Hits $11.2M",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1lZV3JFNG5SSzlrYkEtckxuc19feU55NGFzMkpfSGIzX3BQaEpBUzFQLV9zV2JVd004U2FjME1xQkxjUUVqamxCblR2cHRwdlpfR2ZQZ0VPNzJlQllWVW5ZM2JtM1VtbndXWlc4cmk3RURWYWVCUDJWZWNlVGFrSlMxZXdlQUhEbHBkQmlsZFNWYnRIdTN6TUgweGNEY0E1eHlJOG4takZJOGY0VmhV?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-10-22T04:05:03+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
    ]
   },
   {
@@ -1103,7 +2041,8 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
+    "MiCA",
+    "Cardano"
    ]
   },
   {
@@ -1137,53 +2076,8 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
-   ]
-  },
-  {
-   "title": "OCC waiver rule puts active stablecoin issuers on notice",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1lSWmwzMXIwUUd2bWV0LUJueE9yLW1ZQ3kwNEVFNHdKYldyVHJjZmhXU1lSZVlBVzBHbHF5bmpCLTBraWtkVWJ0ejd2VFhndjZrMER6dkxFaXBjWHpETjNBWHNoMjJXZlE0ai1MZFYxdE1LcnZRTTBYNURFNXJtRl8zSmJSaUdk?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-10-22T03:20:53+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Bitcoin machine scammers use fake warrants to steal money",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUW1jYmxvZUJWTVFHcUkyQlVhZmg0SVFpdUxzMTB4WGs5RzQzWHo0ODcyTEVMd0s5ck5ReVl4VmtRQXlwNVBERGlzZEtHNnBiTGJXWmhCNXF6Vnh0U0ZRQUo5SkRtYnVqZl96ZkFVVFdid0FfUm1Gdjh3d3pmUGxBMXJQZjlWRnNxdkt5ZG5KYVDSAaQBQVVfeXFMTXNfTXdmLWZuZFJZVC1zMXltcG9Lb1dQOGhwTG9fZDUtWHVzMjNxa1VYQTdHZ1ZWTlQtMzZpeEV2eWlKZGRpUmE2ajlHaHFtTmpaWEtIUlNEeWtuX1VwUXVmbEpUbENwV3VpWkFTTU1BZFZKc21QQW1hRUtlRzJsdUdKQU9UMFJRVHdCeVFYMkpySTlqV2ZrNU9TWmFXN25lOXYwbkM?oc=5",
-   "source": "KBTX News 3",
-   "type": "news",
-   "published": "2026-10-22T03:19:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "NEAR +6 percent: stronger than Bitcoin and Ether",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKODI4QndxTTVMSHFxN0dXZUlTOXhzUFloNTh4UDNGTGFkZXZNR1lFTVNyakl4dWZwamplc05ZZ0Y0YUVqRkVqVEU3djRvUWxybXhSUmNZTWh5MG5zcVI4?oc=5",
-   "source": "CryptoTicker",
-   "type": "news",
-   "published": "2026-10-22T03:18:42+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Circle CEO Shrugs Off Bitcoin's Slump and Pitches Digital Dollars for the AI Era",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVVUS293bUJ6T3U4STExMzhCbnNLNHpNYy1rZzFOVllOUjNuQjN2a2VPNDBtczZFcGZVUXhHMlMwTDZyS21jeUExTVZad014ZkNxYXZDc3RKenFlX2VuZTZqVlFQX2RFTFFlNjhPTVowVzVlZkpnWWdUSUpKSWZxa005TXM3THA0VFJwM2x0S1FQZHdGWlNnbEJQRQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T03:13:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Bitcoin"
+    "MiCA",
+    "Cardano"
    ]
   },
   {
@@ -1196,41 +2090,6 @@
    "topics": [
     "DEFI",
     "FCA"
-   ]
-  },
-  {
-   "title": "Strategy (MSTR) Could Be 13% Overvalued As Stablecoin Rules Lift Crypto Stocks",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVpoZXNyUlM5MGhtMG9zR0lZdkdFclVTeFM2ZXpXZlhyVGVQekRwNVlMUVZieHk3UTBCOVJ4cm9PbTZtcXFoSU9kU0pWQVZTVE81dkJ2WFA0WUI2cU5ScDBYVjhtdlJmRjZOcnVyLUVKU2tCTV9EYzFtaEhwWXN1N1FkZDBzSnI0ajFQd3lCaS04ZUlfYVpJNFdaX3RMWUk?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T02:12:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Mileston",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1lzN1lrRkFGdE9URUtNclNhWG00ZWdmSC1MN21DTm1TZ1ZnbkhrWXJRb0NBTXpKcGQ0VjZ1a0dZbThUbWlmMERuMnFRTkllOWk2cFFGWUNTamlEcHkwOXl2NEtQXzBGME9DRERob3Npb1BaRVdsRmthVWpNVk8xeTdSYko5S1JveWZTWXM5THg3VVVxdmFOQ3psS2IzTGxBU2pmQ0cwOGh2bC1VaHc?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-22T02:10:19+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch.",
-   "url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "type": "news",
-   "published": "2026-10-22T01:50:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Trump"
    ]
   },
   {
@@ -1281,17 +2140,6 @@
    ]
   },
   {
-   "title": "OCC Says Crypto Platforms Can Keep Offering Yield-Like Rewards",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaG11RDljSVNxa2xRdmZtbGo3Y2NTdnh1eEJtbDl5NElHZUdHdmRudXNrbnJLRjI2Zzd6SG5SbzZxSnFBdEZidUIxQkpvSHVhWG96eUdsWEo4SjFFRXAtRDJ5VGJsU0pRZkFDd3VUMXpPSmlBOFZZMWZta2x6MlBGcXA1Y29Ia1NaUmNNVHR0Q0xiT0FzWGR0N1J2Zw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T00:54:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "OCC"
-   ]
-  },
-  {
    "title": "PHP Foundation admits \u2018structural failure\u2019 delayed critical security fix",
    "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -1299,7 +2147,7 @@
    "published": "2026-10-22T00:44:00+00:00",
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
-    "MiCA"
+    "Cardano"
    ]
   },
   {
@@ -1315,29 +2163,6 @@
    ]
   },
   {
-   "title": "HOOD Stock Gets A Retail-Trading Boost: CEO Says Robinhood Beat GameStop-Era Activity",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDROaWdSYUx1aDNmUm9FbVVLTmJ1NGUtV2NwcUxtXzdRbGE0enViQnFzQ2g3aENWODZvVmpiS05nQWY5Qi1sVHdpSy1VMnZLTDJ3RjI3SVAtWmowckVDNEVvRzNoT3Q2eHl3b2xnZzFOUC1EUEM4RFgxYXgtT1lFc2I3YzlMZTZkbzdBTVdNcDBIbXF5ck5zZnBGUDNGNVNmYXotSi1QQ3pEQm8tSGc?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-22T00:36:49+00:00",
-   "first_seen": "2026-10-19T06:01:59.844938+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "FINANCIAL TECHNOLOGY\u2014OCC finalizes GENIUS Act payment stablecoin rule for 2027 (Oct 21, 2026)",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTFhmbkpOblZjNjVLcmgzN25tY1ZMM2JfZVl6SkstbWFpMzhaRkgwcUVfYlJCMW1LZEhtb0pLdDZUaEFWY19TVWMxN3pxQVp1YkkzVWx4ZUR2dGFCMjBBay1fTTlQUFhIUURWRVhzUGxqZXZKWjBXRDdHeE5yVjllS0szMWkzUk0zaGt5UGRXNkthVWszYTJ5ZGRpcjltcUtqQ3dUcjFvLUpZbUVYVWszY2c4SU83TTEyaFQzaWZpb0cybTA2SC03WEFORFM2alk1ME5UNkdYWU5PMVpTZlJj?oc=5",
-   "source": "VitalLaw.com",
-   "type": "news",
-   "published": "2026-10-22T00:36:36+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
    "title": "EBA Asks EU to Study MiCA Rules for Crypto Lending and DeFi Access",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBINnVJaUtJeVRNM3hmVHBqYkZ1Q1Q0N3BiRS1sUlRVUkpiWDNDekJRYmxqZDBDSnhuUHVGY3RTcDRIU2tJdmVrb21aUWZxc3Y4RXJFbG9ubWZmQmM?oc=5",
    "source": "www.tokenpost.com",
@@ -1350,19 +2175,6 @@
    ]
   },
   {
-   "title": "$Deutsche Bank (DB.US)$$Bitcoin (BTC.CC)$$Ethereum (ETH.CC)$$USD Coin (USDC.CC)$",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUJoQ1N0N0ZOWGhnN3hIN2FOM0pQUDh0UDl3N2FpelNCZzlWanI5S2RBdWhKb3c5bThqbG9DN3BieGZ1VjRIcFJReVVxUUhDWUlTSTRtQzd6V3pROUowTUVQaFJpX0pDNzVvR1pURi12TzNfUTF0LXgzR1gzUDg0SDJYRGJNRm1hWnRnSnA2OG84LVI3RnRKRlk3SGZ6S2JKR21FVVlCUQ?oc=5",
-   "source": "Moomoo",
-   "type": "news",
-   "published": "2026-10-22T00:25:40+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Cardano Foundation Urges EU Not To Expand MiCA To DeFi And Staking: 6 outlets compared",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQkpIY0FRTHdhY1AyUTJrWDFZZ1BtWEU3Rm11N25MOTZXREdaeVlPc2FnbzRobmVHeWo3WFZFTG42bzhEQTFvZ3JLdFYybGNyTldFbExkenJyNVhFRnIwRG5DMWlsYXVMRDlualFyZ25fR252bHk5REt6MFIxQ0hLWllZRTNUMlMwVk16QUNPZU9LZ083dmp1aGI1a25UekJjY2NLSWxKMjVoUWtZdjRUR1hxX09lMTNBVlI0RDFUQWl1QU1PZl9TS0FYVmhkTTdfaDBlQlh0aw?oc=5",
    "source": "NewsCord",
@@ -1371,18 +2183,19 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
+    "MiCA",
+    "Cardano"
    ]
   },
   {
-   "title": "Bitcoin machine scammers use fake warrants and A.I generated calls to steal money",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmw0a0RBeGM1cnJkeE9Bc0plY3gyWEp6QUcybkM0ZzV1bGx4ZEVrbFhrZ2d6ZVFubnlKQU5kLUxHcXI5ZnlneDFVN2NXMU1rX1hzdFptTWh4dkY1N3pFc1VwSERZTDdNQWQyVzI3ajZEeEp2N1lnY1puVFlMaXppay05NnRVUjVyc0ljQndyeHNNY0tHMHhqMFpXa1dFbFVyOWxYZUxhcjFlSnJqMGJPXzdB?oc=5",
-   "source": "KBTX News 3",
+   "title": "Trump Highlights U.S. Crackdown on Foreign Crypto Scams at White House Cybercrime Roundtable",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbThhNXF4RDBkWktZb2NMX2hVNDRYazFlMnp1WmhtMUxqMTZha21BUVc5MjQxY3kxSVFEb0ZTYjRwWnVJTC10TnhqbXQxcGRNLVp4RlotQjZBWGVNSHB3SnhnMjNtdnBKTVhrWEVEeEdiUVRMWHZGMmtJRkItcWN1NG54a2N1ZjNZUlVYM002djhKWHJiZnQ4TjFnV2E5dGhHUnEwWUFVNkZPaThNREtwZlNzbDBJQzFPV3BRQkt4Ykg5VzRXN0JyNnhEWE1GblhsSERfSXJpU2M0TS0zcEF4NEhpNkxjQlVLa2c?oc=5",
+   "source": "NewsCord",
    "type": "news",
-   "published": "2026-10-21T23:34:25+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
+   "published": "2026-10-21T23:22:40+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Bitcoin"
+    "Trump"
    ]
   },
   {
@@ -1393,7 +2206,7 @@
    "published": "2026-10-21T23:19:54+00:00",
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
-    "MiCA"
+    "Cardano"
    ]
   },
   {
@@ -1416,19 +2229,7 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "American Bankers Association Says OCC GENIUS Act Rule Undercuts Ban on Stablecoin Yield Payments",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PWTFJbG1yRDFnekM5TmIwRzRlVlpXWVBsTEd3YUM0d0d4XzRxaUVOVVNtaWFjXzdkOUZ2SzVmM2pKb3VDbnJhS1RQeXdvR0poUUROZg?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-10-21T23:00:37+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
@@ -1465,17 +2266,6 @@
    ]
   },
   {
-   "title": "American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress",
-   "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-21T21:53:48+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "OCC"
-   ]
-  },
-  {
    "title": "Robinhood (HOOD) stock is up, what you need to know",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1hGX21jRTM1UWhubHZJeGpnS1Vaci03X2FKcHFVazJfY3NyTUl2VnpBLUZ0RUFzZkxlbzE1TkxqZTNFRml6SV9zYThmUUkxREE4N2ZfRmJTX3diSC1NOUhRZTdVWG1Kc1lhMmNOQm1QMFVTMFFxTUdNLXBFMXR3UTZ4aVVCd0NRa2FBQi1pYmhQaE5R?oc=5",
    "source": "Yahoo Finance",
@@ -1487,29 +2277,6 @@
    ]
   },
   {
-   "title": "NVIDIA Tokenized Stock (Robinhood) price today, NVDA to USD live price, marketcap and chart",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBRFF2eExRUlVBMEk4MlVIMDQzc2llMTYwNWlVYkxhNGtIS09SVldtUHNoM2ZKY2JTQUVjZ0ZyeHRIS2JxSjFBcmQ3aTJUakxVeVdqNGRDVzN2cDlTVjRyVXRjZW1jeG5UUmhfbnVCT2tOZFRDenZFdW5R?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-21T21:50:14+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "RWA",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Trump says fraud investigations make 'very big dent' in overseas scams",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5",
-   "source": "Reuters",
-   "type": "news",
-   "published": "2026-10-21T21:45:24+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
    "title": "OCC Finalizes GENIUS Act Stablecoin Rules, Sets January 2027 Start Date",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTFU4U0xISUMyNGtuVFpXaEE5RmJKdV8yLVpfLU5KXzg3OGkyZFZYSWZnQ1RaRzFUeE1URWlFcEc0eTBSVEp1M0Z5aUg2NGZCRW9QQTN6QlozUkU4SnpaQ1RpQ1E1a1ZIYkdPcHR4REhTZUYzNEVJUTZtbklHc3U4YjY5c042LW9IUV9TcFpkdVJJMGo2VFVUMVNoTklnSW9OdXc1eEliUURkSTNL?oc=5",
    "source": "CryptoRank",
@@ -1518,7 +2285,41 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
+   ]
+  },
+  {
+   "title": "WALL STREET IS MOVING ON-CHAIN: IS RWA TOKENIZATION THE NEXT BIG CRYPTO REVOLUTION?",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfYURraDlicWY4MnpYMDlSX1Q3Q3p1T0lGYnRKTC0tOFRnSklPZ0cyUXVGT1F5MXdsRzN4cmY5ZEVQcW1EMEVCWVRGNWM3XzQ1S1RiRi1xdy1zNXp0ZF8yZ3YtSS0?oc=5",
+   "source": "Binance",
+   "type": "news",
+   "published": "2026-10-21T21:43:40+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "UK FCA Says Smart Contracts Alone Won't Keep DeFi Firms Outside Crypto Rules",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOem9hMHktQ2JkaTd4a2xXZWpnazZ3WVhmenM3NHRyUTBLR2M5N2hyOXJRSmhvWnhHc0N0a2JuMF9SOXBFYjhsS2NLQU9fRFVTWFNwcnppOERqRTRGLWlIQV9LNVYyb0pnX2hHQ2ZvOHg4U2xsVnZ6WlVWUTdPNVdxeUVlQlNvSWJUM1NSZUttT1Bfek5rTDMyUg?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-21T21:35:54+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "DEFI",
+    "FCA"
+   ]
+  },
+  {
+   "title": "What Will 10,000 Cardano (ADA) Be Worth by 2030?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1VrUDFrdExFd1gyY0htWXFaSUFvbW91cEttNGxNWmY1QTFHNkdaYWNpQk5KZHlacTdrMlp6ZkpQaThPX0MxMzJMeFFwaXh5RXhRX3ZoWVVqNFpPVm9MSVVLcXVrNGV5bXk2d2JzaFE3MmVBRVc2dFJRdXR2R19UajhfaVJTNEJTRXgxRk5obU1NRV9UUDEwczJSSE1xQm12Zks3VVdB?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-10-21T21:30:00+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Cardano"
    ]
   },
   {
@@ -1533,14 +2334,15 @@
    ]
   },
   {
-   "title": "Robinhood, Coinbase Face a New Rival as Bybit Eyes US Entry",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaE9JUnZjWWVsYnRJYlBJcTVfYzBBcWJYSWFOUkpKT0tqeWtZbmh2Z2lKdkVKOHJzR1RrbXdVT3J5UFBfaFZtWnh1OERIbzNDdmR4YmdQRXFleFZzYi1DVFhNVUxCYllablRVMnhybk1ET3BKdi15anRBYXNLOFlsZlA1MmI2Z0xrR2ZtdDQzUVA3eU54bGFBNnBKeGp6M2l5aDJaNHhUYnpBdWducTBQTlBBejgyUklkR3dzQw?oc=5",
-   "source": "Benzinga",
+   "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
+   "source": "Investing News Network",
    "type": "news",
-   "published": "2026-10-21T21:00:10+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
+   "published": "2026-10-21T21:05:00+00:00",
+   "first_seen": "2026-10-17T11:14:35.320874+00:00",
    "topics": [
-    "Robinhood"
+    "Ethereum",
+    "Bitcoin"
    ]
   },
   {
@@ -1586,7 +2388,7 @@
    "topics": [
     "Stablecoin",
     "Bitcoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
@@ -1598,30 +2400,8 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
-   ]
-  },
-  {
-   "title": "Ethereum Price Prediction: What Could ETH Be Worth by 2028?",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjBwdW1mODNLendMNk9TRDBQdUJhenF2WFlsU2RsYnhsNENQZnZPeDZ6Mm16bTNvYzhvVHhlbExvSzJKX3pGNVNzdGJ5TzNuajFUdTB0XzM4ZUZXQy03RmR0cm9zZ0pDc2VhRGJ0UVRMLVNoNkxxcTNlVlU2bzZ1QzVFekNaMUhmTm1qNDFzMDRpWWN5T3RCM29pZDRtYVZqSFhpREE0Y0NvYWhXbThUenRfSkpfcEU?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-21T20:30:00+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Vantage and Rio Bank Use Tokenized Deposits for Loan Payment on Ethereum",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0ZaMXRZQ2ZUcVJob2dVelFCcmM3dEJiUE9hdzhLMzJKRTJlSXR4WmNuRG85VExJbGR1XzJqSHZKNlB2T0tHRk5UWmZ6NHE3cE9vVTRSV1p1akJzUW5TM19ybDJtUXBkWjd6ajdlSzYtSjhsT0U5aXJlRGY2T3lfT3M0UjdSOGxIUnVNRWdwZjhVNnBzbEFuNWl3MmxCeXJQNHY2RjlBX0JKYldIb1FNMEVmb29mU0xtLXkyTFVBVQ?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-21T20:29:58+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "RWA",
-    "Ethereum"
+    "MiCA",
+    "Cardano"
    ]
   },
   {
@@ -1655,7 +2435,7 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
@@ -1667,17 +2447,6 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Trump"
-   ]
-  },
-  {
-   "title": "Bitcoin Lending Rates: Borrow Against BTC or Earn",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80WE93a19fWUtHcFYtNWFLTlY0azNiRFgycDRTYWZLaE5hTDlTQWl2c1NORkNVNm1wMmt0UDVzWExEOFlqSUxsLUJ3?oc=5",
-   "source": "DeFi Rate",
-   "type": "news",
-   "published": "2026-10-21T20:17:00+00:00",
-   "first_seen": "2026-10-19T06:01:59.844938+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1700,18 +2469,8 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
-   ]
-  },
-  {
-   "title": "Trump to Outline US Action Against Overseas Crypto Scams at White House",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NZl83WUIxWGo1UlY3d3BfNmhtd3hJWEZSWDZSRDg4YWpOU1pOZFZKVmNJRGVtSkY5MXkwYmZoRVByNWdtclJDXzVHMkUzaWY1Y05XbnFWZ01XTTg?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-10-21T19:43:52+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Trump"
+    "MiCA",
+    "Cardano"
    ]
   },
   {
@@ -1723,40 +2482,6 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Perp Funding Rates: BTC & ETH on 7 Exchanges",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqMmZ0SWZOQThrbHJQZVZIU3RDdDJHQ0dGQ1p3MFZuM3pRSHllV2RRN3RNb083czhfaHhSTGRIOA?oc=5",
-   "source": "DeFi Rate",
-   "type": "news",
-   "published": "2026-10-21T19:31:00+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2FnQXJuQklBaTNYUDR0dGtOUXFvZ2dQbXRCMU1MMDlmOU54M3ozb2JnQTZTRHBoZjJpckpjTllDUkJMLXBoNENXTGQwczdtWDFTLVN6Rm1PV3dUcHhMZl9uR2xTMVd5OG5OU2JuQWd5OE5MMlBGZDFNSXc4UWRTTEtTcFVaTE5zV0V1b3pDUU56WXhuTmlLZA?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-21T19:30:24+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Robinhood Markets Is Maintained at Buy by Needham",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmRPcWhjU0R0Q2dtR2Z0VUszWVo5dzNOYW9HckZkNXRpMmkwb1M0T1FlVmJxaWFseG00RXpKQlFydVJ6TGV6T1BIQWtweGFSRVh5MjRQT0k0UEJ3cTZTNTBTT0hkMG5zb1JUWUt5bFJ2UExCbVZfWFdXRXJLdlplRmlrZGZUQ0RsM0dpMXVPd0tjeHRBakx0Qg?oc=5",
-   "source": "Moomoo",
-   "type": "news",
-   "published": "2026-10-21T19:25:39+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Robinhood"
    ]
   },
   {
@@ -1784,6 +2509,17 @@
    ]
   },
   {
+   "title": "Trump Envoy\u2019s Son Melts Down Defending Dad\u2019s Russia Bromance",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmg0V2t0UG4zbnhhenNSUl9wUkNWQnVKWS1rd0NTMkhTbzdINlRjaUJ3SUxndXNwMkFJSVh4d0VNWHNZTGFhRm1adXQzbkhLR1hELXNIbTlIaXlsYjBINE9yZWNyRzV2aktUUENQSUJraDl1WVlXTzNfaExaZTNFZEw2M2sxSjlfTnFGYVBRRUdKS0NCenB2N3pHMWJBSEFPWWZDU19NQ1pkeERrejdoQmFDS0N5LWlXRHFkM21lT2VIT0F3ZGc?oc=5",
+   "source": "The Daily Beast",
+   "type": "news",
+   "published": "2026-10-21T19:12:14+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
+   "topics": [
+    "Trump"
+   ]
+  },
+  {
    "title": "OCC issues final rule on stablecoin framework",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSlg5bkhITk5JUktEZUFYVWNJb1Z2dFFlLTdfTWQtVXJzSmViUEdNbEVkek8zejF2aVhrRmltOGZ6Q0dnQUdWR3JVNTlFUkNIUkw0enpGem5nZGpQcmdFY2FZU0hHeTdlWVNxY1JUaU00bnNieHUwdm11TWxfRXgtWm1LYmwwTlN6MmtFa1BwXzhqenlfa0Mzdk12X0NGS1k?oc=5",
    "source": "Banking Dive",
@@ -1791,8 +2527,7 @@
    "published": "2026-10-21T19:09:31+00:00",
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
-    "Stablecoin",
-    "OCC"
+    "Stablecoin"
    ]
   },
   {
@@ -1804,6 +2539,17 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Trump"
+   ]
+  },
+  {
+   "title": "Cryptocurrency News: Europe's MiCA List Hits 375 Firms, While",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE5nX0V0TmVKd1h6Tm93cks5SmJ1dTR3RUJEUmhqZ1BwNEkwOEJPNjFNcmI0cUVJSkk0WUJ6U0N1aFZYcHBaR2Q1YUc3eHZyc3R0czRzMEdtOERRRXBWQWhya19sdVpkWC05X1dEcDVoTXFISnVBVnZZZE5GQm44bWYtaGFTU1kzQmxQbi1SVzBLTWJaVzY4VURKNA?oc=5",
+   "source": "openPR.com",
+   "type": "news",
+   "published": "2026-10-21T18:59:11+00:00",
+   "first_seen": "2026-10-22T06:00:05.634439+00:00",
+   "topics": [
+    "MiCA"
    ]
   },
   {
@@ -1826,18 +2572,7 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Tokenized stocks rose 86% in Q3 while Treasuries stayed flat, ARK says",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0aWM2Zi1VMUtBOGtKZ09IRzVOV0ZqV2dHX1NxUTdlV0plaTdTZUR4NkYxM1hSd2JOT1RoeFFGdk85M1Bhdkd1clFYYTdSZkl1LWxsMkFkMlZNZDVOc2hiRHQ0SEpnaThQVlhmSU9BZEZ4SWIxdDJR?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-10-21T18:31:30+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "RWA"
+    "OCC Finalizes"
    ]
   },
   {
@@ -1849,18 +2584,7 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Monstro DeFi price today, MONSTRO to USD live price, marketcap and chart",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2X04tb1RaOURMTE1tZC02eUFXOXBJeXNkWndWNWlMdXkzMEdkdFlLXzk4ZExSdzRqNDFKZDFWQWh2eE5xdnJKRGF1Ri1LWkUwbnBUV3lJSTlPNzQ5WG1Z?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-21T18:21:16+00:00",
-   "first_seen": "2026-10-20T11:15:04.228965+00:00",
-   "topics": [
-    "DEFI"
+    "OCC Finalizes"
    ]
   },
   {
@@ -1887,17 +2611,6 @@
    ]
   },
   {
-   "title": "Treasury Secretary Bessent invokes Lincoln's 1863 act to back Trump's law",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHZhcWNoRnQ2RXJpTmE0aUIzQ3hlSUJLOEFreFp0REVINmdtZ2hyTDhrWTJYdkJjNFFMa0FSUndsMUNNRWNuZGVkLVlObk9nNTBnRlpoYl9sSkgycllWbW9DbmpZeHMtcGJUTWxuekJrLVAtb3VPcThsb2tYcGN4d0I5dEpILUtCeUMzdFVTWVp5TkZyWXhFcDk5NG4xYmQyZ21XU2NlVW92WEl3U0dUMw?oc=5",
-   "source": "TheStreet",
-   "type": "news",
-   "published": "2026-10-21T18:15:59+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
    "title": "Cardano Foundation urges EU to clarify DeFi and staking rules under MiCA regulation.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdE5VVlMzNU9kanNfa0U4dVVLVG1WcEl3SWVNNGtOaFo3VDB3Ml9uYU9iSnVGcVZNVnIzOE03RmN5aHVUa1d1UkNBQmtyeVBMRFEzbmZsMV9OS3BqNUJfaEl3UDdQTmo5LUtCWlFkMVlPWTRLQjFkd05zVm0xcWpvN2NUbkgxbFg5b29KbFpNWkhfR3RiMHJoeFdoVS0yMVozUy1hU3ZwV0s2WHc?oc=5",
    "source": "Pluang",
@@ -1906,19 +2619,8 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
-   ]
-  },
-  {
-   "title": "GENIUS Act News: OCC Final Rule Drops Stablecoin Yield Curbs, Banks Push Back",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSk1NOWh3OGMyUGdHOUZmTXd5dk50dFg0enB0MGVVSW5BZkkyOEUwUHJHV2dJQms3X3NNYjdfbTdYYVFNaFUwUTJRM3p3UE11bG1VNkdJdFJ1SHBHV0xITDQ3bm9WYUlCQXR3MXVwenliSi10WFVIVzZNalhRQlotdDVGcUE0dzFSQjdhSnY5cDNESWdDR2E1bi1rTzBTeVJFQnJ5T05QcmNlRFFkcGZRbXZiSGpCQdIBuwFBVV95cUxPSmFyU1gtRUJ4RDJhLWtxWi1nVHlrUGM1MDB2TzlsQkxudklwb3dIRkpPSVEzdGRZYmtQZHJINWJCTGR0eS01dlBwRnhPZ0dtcm01RDlScGtpQUhJRklzX25pR3Z4elVSaGFnV1UyT0tsZElFb3ZKa0F1OEtFYVd0TFYzeFFNcmlfS1d4ZGpHMmZqWGFZcHRmLWk5U2V2aXVQMTgzZDEtVHpxSWpLX2lDVDhDSFI1QkhLZW5j?oc=5",
-   "source": "Coinpedia",
-   "type": "news",
-   "published": "2026-10-21T18:04:24+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
+    "MiCA",
+    "Cardano"
    ]
   },
   {
@@ -1929,8 +2631,7 @@
    "published": "2026-10-21T17:59:36+00:00",
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
-    "Stablecoin",
-    "OCC"
+    "Stablecoin"
    ]
   },
   {
@@ -1942,7 +2643,8 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
+    "MiCA",
+    "Cardano"
    ]
   },
   {
@@ -1969,14 +2671,14 @@
    ]
   },
   {
-   "title": "101 donors back Trump Accounts, full list revealed",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0w0Y1g1b3F5TzlwZmI2RjFqdzJCeXRibnJyU2VBVkZXbWVwd2N1UC03SEY5RW5xTjdYd3pNcGxxNUlweDBfMTM5RmVYWjdRWmZoZHBEVGZIUDktVnNEeFV3RmhyX2ZPUlFIbHA1NmpTSHA5QmhGQ19oMTIwX2h3TkluZ2VWNGJqandBeGk5LVdRZHh4?oc=5",
-   "source": "TheStreet",
+   "title": "Cardano ADA (ADA-USD) Live Price, News, Chart and Price History",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45TVVsYkJscm9fVlNtRXJxdkc4Nm80Y2FYdEMyOFJ2ZFZoOXZtMHlfNnVIaFpUX19qaWI4cXNGN3FMQkhYbk1FcFBEcWJMMVZua1ZzVUp3?oc=5",
+   "source": "Yahoo Finance UK",
    "type": "news",
-   "published": "2026-10-21T17:50:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
+   "published": "2026-10-21T17:49:04+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Trump"
+    "Cardano"
    ]
   },
   {
@@ -1988,7 +2690,7 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
@@ -2000,7 +2702,8 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "DEFI",
-    "MiCA"
+    "MiCA",
+    "Cardano"
    ]
   },
   {
@@ -2046,7 +2749,7 @@
    "first_seen": "2026-10-21T16:00:05.352056+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
@@ -2069,30 +2772,7 @@
    "first_seen": "2026-10-22T06:00:05.634439+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "TRON Is Earning More Than Ethereum and Solana Combined. Why Is TRX Worth So Much Less?",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2VxZGdFbFRSMU40eFU5ZHNhWW9qalJQR1EtM2RKNC0xOTNLU0FKU20xMFdCcHQzSDV1d05zTS1KUzNramgzMnFiQzZYSmRfNC05QWo1VDdtel85QWFqT29JQTVJLXdNZDR3MGhIbllkR3Q0SnFTaUxNa0FJQkVMazhhNDJZQV9xVVNDdDR0Vmo2RW9ZeDRjLTJfRm1xbFNVS2hCcmpqdHdxU0VJZk80SU92d1BxY0lrVlBUWE0zbWJUUnBHMjE5M2ItTzU4X2pGOUE4VzAyLXlma2M?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-21T17:00:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "OCC Finalises US Stablecoin Rules Ahead Of January 2027 Start",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpXWVhhTlFoNmU1TV91M2VfeUtmdkdHallwc0wyRTlsVnh2aXhnajdNS04yM3luQ3gwdmcyS28zX2NLQTU3SHpHQlYwS00wdmVuQTIxbWdNMENRQWtkanE1VTVUZVA2a2hTQmhkeDhBUVNKdWcxZlpPYXRWWGUwaERsNWhET0s2OTJxeFpTV3Y4dndWTmhobkRBUnlnNnV6?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-21T16:58:19+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
@@ -2104,18 +2784,18 @@
    "first_seen": "2026-10-22T11:02:51.147379+00:00",
    "topics": [
     "Stablecoin",
-    "OCC"
+    "OCC Finalizes"
    ]
   },
   {
-   "title": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities",
-   "url": "https://bitcoinmagazine.com/markets/beyond-hodling-how-bitcoin-backed-loans-can-unlock-new-financial-opportunities",
-   "source": "Bitcoin Magazine",
+   "title": "Crypto Long & Short: Why Real-World Assets Need Fixed-Rate Loans Onchain",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wOHI0UFlIb0ROc3ZFNm5ZZTV1VndMMnNiOC1qandQNUMwai1RcHZ1ZkhTNWN0Yl9rdGpHSVdhZW16eGhWdVg1Q196WU9kUnhoQmxKQnBNcGpneVVzOGFiMXd5NEQ?oc=5",
+   "source": "Binance",
    "type": "news",
-   "published": "2026-10-21T16:24:07+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
+   "published": "2026-10-21T16:24:21+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Bitcoin"
+    "RWA"
    ]
   },
   {
@@ -2130,17 +2810,6 @@
    ]
   },
   {
-   "title": "Robinhood Pushes Beyond Meme Stocks, Making It a \u2018Generational Growth Story\u2019 With 37% Upside",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazYtbHNjLW5VY2dwS204RVlkcE41ZXA2ZHNZZUhtVWdnMFNJYmwwdkdObjVJUWsyY1JuTmZsbnEwYTc2MUhEZmlzVGdFa2ttYXJjc0NiaUNnM2pGVkdfaXJDRGJBSXVuQlBDeWdNNGdPYzBPUVNjejVteGg2UHVmb1FhRkdGZHlx?oc=5",
-   "source": "Barron's",
-   "type": "news",
-   "published": "2026-10-21T16:22:00+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
    "title": "Musk\u2019s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
    "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
    "source": "Decrypt",
@@ -2152,25 +2821,14 @@
    ]
   },
   {
-   "title": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
-   "url": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
-   "source": "Bitcoin Magazine",
+   "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+   "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
    "type": "news",
-   "published": "2026-10-21T16:11:52+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
+   "published": "2026-10-21T16:09:26+00:00",
+   "first_seen": "2026-10-22T16:00:05.546465+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Current price of Ethereum for October 21, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nZ2Z1TVk1bDV5cmRrS0hCOURvMm15bXR3aVc2R3E2TmNRaE95Y0RzbFZ6QXZqRTlWYXRZNWNyY1R4cHRkSWdTYldWajFuUVVNQXFRSFhYbU9EZmVXT1l1bVV2bTF3aU0x?oc=5",
-   "source": "Fortune",
-   "type": "news",
-   "published": "2026-10-21T16:04:20+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Ethereum"
+    "Cardano"
    ]
   },
   {
@@ -2195,648 +2853,59 @@
    "topics": [
     "FCA"
    ]
-  },
-  {
-   "title": "How Has the GENIUS Act Advanced the Cause of Stablecoins in Banking?",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlc1Sms1SEowLUJyV25qd1lad2QxYVNudlFYT2g2OVU3eG13ZmFGbnp3RHl5am1aQWI3dGFsMGkybWF1N3BkbkJ2X3JNNlNYMTdoZEItS2ZBMndLeDhDQmNkcThfZEt2RnlwSEZGcGlCSnBYZDB2UmFFOE9qdG1JdG10S080LWZaejFWbWpOT3dIMUNULU1oZFdRMTlEVjZjUXRDa0VUbDBad0p1elZta2ZaM2xFRFh3eGplOQ?oc=5",
-   "source": "KBRA",
-   "type": "news",
-   "published": "2026-10-21T16:00:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Trump to tout crackdown on overseas crypto scams",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmc3MEl5TTNEcGZPZ3VZNjh3eHhYeUFnWWNIS3ZSWHF4UHRBSTJKakdnZERyQmthRVZxSEN5UzNUaVI0NEZZOXIyeW4wNW1jcTNxTUFoNjZkdVVSTlF1Tk5fTUZCU3FhaHlMUzh6clhGWWE0UnNqQ2preVRqUHE2QVUwVzR0bS1Cc1ZHbTBvRXZlYnlvWHhEeXNlbjJza3V3TXBIdHpITHJGVXpNQjZxQ0txZnBZdFFNQ2tacWFZUU5Mc2ZJMS1kUWlONlk5OEMxTWZBQ1NJMFRkeV81RW5oczln?oc=5",
-   "source": "The Lufkin Daily News",
-   "type": "news",
-   "published": "2026-10-21T15:53:46+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "OCC Finalizes GENIUS Act Rule for Stablecoin Issuers Ahead of Jan. 18 Start",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLTBGbFNQYjNGVWxDSlBlcXNENVF6UGs4bWw4NFJYNEllelJid0QzeEVMRlN3RTFiNjljTHlySFdzRE5HOURDNTRkU09hdm0ycXhoUjhHNlJ2ekdtV3BEc3BVcmFkUk54VThWTFpyalVPZVZxa3VRUVN0SjNCQmdRb3F2U3o2T0VjVmdDa1JGdw?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-21T15:48:07+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
-   "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-21T15:46:14+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Trump to Tout Crypto Scam Crackdown at White House Event Wednesday",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVVSS1RaRUk0S0o5TTVzek1DQmZKUFA4T0hZNGx3UkRRSkJsMUZxeE9Rb1pRcEhrTFJOd1BGOXJremRwNXcyT1BQVm9nWEt2LWltU3pEajBMN3pmenQ3Umg5aG14b2Q1NUd3T1hNeEhtWWladmJFd1l3aVV0Uk14XzhzanVJOWxNVDlmVjBLX0t1VHB4ZkQ3RjROU2Ita1RjNnBrR19WY1JzYzFGZzJfUDNWcGtwMktEY2NIVzE2b0V5RzVVT0RF?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-21T15:44:50+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-   "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-10-21T15:43:32+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Cardano Foundation reports 100,000 Indian farms registered on-chain",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ncWtfRTZSOVg1Z1c3Nnhvcm51WVBEUEZ3anJqMnd0V1JfZWxRQ0JRSWpreEhESVhsemU4S1loOF9CVDhESkpEZlAxUDd4QmItUlZWMmh1bV95UV9Oby1ycGp6clVEUEliUnc?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-21T15:37:46+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "MiCA"
-   ]
-  },
-  {
-   "title": "OCC Finalizes GENIUS Act Stablecoin Rules As Bessent Compares Law To Lincoln's National Currency Act",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWFMzcEZOSVJXdlo4V0dnYk5JWS1sYWxwWEdvZ2N6c3RyY3Y2eVRqSGtTY1dOancxMkt3dzNpQjZOQ1NXSXN6WU9kS2pucnRjX0IxcWhlWjZ3eHA1ay1tc2pXRUcwdW1fYUxDci1fdTMwSmpFcmFKamNCOG9JUnhTNDJOUkdiYU42RWJ4aEZXcldNOGZsMUxOTVNVcjN2c1hITmhGWDRORWNVSHJEeGs4djJtYWcxeEhQdVpIVlZTWDhGRWVnNXdpaVZSNXhMam9FLXdzY0FZVWlQUVJtTzh0TzZOWk5EYzFXRGZ6RkFYV1lpczZvXzl2dXRHVjltTUJRRmc?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-10-21T15:14:02+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-21T15:13:17+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "DeFi fixed-rate lending seen unlocking new demand for real-world assets",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTZDNV9JcWdvNlo3TGd4N19tNHhSTHR5eFJ5N1RZOEwxcWh0RThsLURtdVMwUnZDOWtsMk90RU1RZWxTbjlXWGEwcnBlZ1ExLU5CSWNlYUxkX1RYbHNLNzl2aEg3LUN4UFVEdHBKQWV1NEdzaVBGOU13R2ltWlMyQjNjSHFPcEhMMk9wNURSZ3BoVWlCM2lNcFgydUVwYklHOHI3QmpEV2U?oc=5",
-   "source": "Traders Union",
-   "type": "news",
-   "published": "2026-10-21T15:11:32+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Dogecoin Labs Launches With MyDoge, DogeOS and a Dogecoin Foundation Partnership",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmNjVHNJX0FUaWdia3N2RFVVWVpsUmFTZGxOS3ZjeXNWN3RubHdDeExWYUVFakgxZDdVRnhQMmZyS2w1ZWVGRVE1bUx3bzA0Q2h1SWdnWkl3NVR6VEo5QmNUTnhXYU4wV1FrUk1ua2V2MF9kUUlublJuZmJvNTVsdmpBUlo4Z0poYXZUbjRlNGo4TTF1bFA0UmhnUVBUMkMwREEw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-21T15:10:00+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "MiCA"
-   ]
-  },
-  {
-   "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-   "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-21T15:09:22+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Charles Schwab names Avalanche a leader in real-world assets and institutional use",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wWjh2UlBhcndYS1FseDZaLUxWVExhNTRMS3JSa054ZUJ4Y3A5blN6NVpRZ1NBN2Fyc2gwV1h3ZkJfYjlYVkVCbVBpZnJZVWJkRVlCMDZaRm1lWlZlQjlaVjlrUmt0T01DbGNQb2JUT2c?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-10-21T15:04:27+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-21T15:00:53+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
-   "url": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-21T14:52:06+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-   "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-10-21T14:24:25+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "OCC Finalizes GENIUS Act Rules, Drops Stablecoin Rewards",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVR4QmQ2UjRtb0I2ZTdJQmlDVGZoRl9QLVUxUFI1eTQ0TnppbUlLcmMzQVNGcjFhZjk2cTZGZ0dQbWFORC0wNkUwWjV1Uy0wdXdMRUVVd0kyUTl6blp1QzVnTWg5cHlRdGluNUM1ZldEWV8wM29yN1Awc0JxVmhLb3JXSWt1dms?oc=5",
-   "source": "Coinfomania",
-   "type": "news",
-   "published": "2026-10-21T14:24:23+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Bitcoin Price Today: Recovery Nears $84K Test",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXdJdW1XeE1JeXNnTjZKSzVCTnBhRVI0U2xTYlYwTlA3RnczdzNCcHc2X0ZwSkJuOXB2NDdBYVdId0Fta3ZIejVuS3BpeDQzS1dMYW1JZkdsdmkyQ2hsZ2o5QXo3TnFhMElEQ3gxcEFyejJFVHVJNFNsbTRIeWlINktCNFFRdTF5V2MzeHZ6dDlfTWxCVmpmbjAwclZuNDFrUGRv?oc=5",
-   "source": "Bitcoin Foundation",
-   "type": "news",
-   "published": "2026-10-21T14:22:44+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "GENIUS Act rules finalized by OCC ahead of January deadline",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzF3UWJTVjgtWFpsRURmZXpPZXJLMTE0LVZ6ZnlpQ3lyQmJrckx4UThzUElFUVlERV94N0tLU2tXY0Y2NTk4LVlsdWlUUlNISWhrTklISFM1SlZFQzVGX0dwQjlLR3JkcU45Rndwal9ZTGNXZ0EyMHZuWFZvVmhBMnBBelkzMXc?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-21T14:20:27+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Injective Partners with BDACS on Won-Backed Stablecoin KRW1",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNFc4OUZDeUoxWng5cWtnRzJnSnZSY3l3Zk9wZG45T2d5XzJ1WnRxX3RJSmZPdXBsSmdCSDgyX3oxQ05vRkwwdDgwa3VoOHEyZ1RXLUFtQlZRYnRUdmJ1R0ZQaF9hZzJnNGJvRUJoRVI5MjBrRHc4SUZsZGZtTGszcFhDOXdIWHNsUFowRXAwZlVJSGR1Y1JXVA?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-21T14:13:35+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "FCA Sets Out DeFi Guidance To Address Financial Crime Risk",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PX0pFVDU0dHc0QXVEVnJoOHBzWXdNZTlmMkpzSTdUbkxZNjM4bG1oZkFfNHQ5UW95RWRPOTlVa1VWcnhiclY5UlhfODFyWW1BTG1qRUFn0gFWQVVfeXFMTk9fSkVUNTR0dzRBdURWcmg4cHNZd01lOWYySnNJN1RuTFk2MzhsbWhmQV80dDlRb3lFZE85OVVrVVZyeGJyVjlSWF84MXJZbUFMbWpFQWc?oc=5",
-   "source": "Law360",
-   "type": "news",
-   "published": "2026-10-21T14:10:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "DEFI",
-    "FCA"
-   ]
-  },
-  {
-   "title": "Trump Boasts About Crack Down On Crypto Scams",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xdDAzTTdkaktlU3M2RzZXaVY1Rk1VZDBJNUpfSUdmNFlTYUFXTTU4QUdVMDJrLW9yY1p1WTg4ZHJnZmY1QVZ6YVhES0hBNjZkNXgwcVVTV0F6NTJZb1lCUVFzVWJxUGN0Ml9LS3FqZW4zdUl2TUNKd29B0gF6QVVfeXFMTTF0MDNNN2RqS2VTczZHNldpVjVGTVVkMEk1Sl9JR2Y0WVNhQVdNNThBR1UwMmstb3JjWnVZODhkcmdmZjVBVnphWERLSEE2NmQ1eDBxVVNXQXo1MllvWUJRUXNVYnFQY3QyX0tLcWplbjN1SXZNQ0p3b0E?oc=5",
-   "source": "Baystreet.ca",
-   "type": "news",
-   "published": "2026-10-21T14:04:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report",
-   "url": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-21T13:56:27+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strive\u2019s SATS: How 15% Yield Becomes A Bitcoin Accretion Machine",
-   "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/strives-sats-bitcoin-accretion",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-21T13:52:51+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "\u201cMassively Undervalued\u201d \u2013 Samson Mow on MSTR & Bitcoin Treasuries",
-   "url": "https://bitcoinmagazine.com/videos/massively-undervalued-samson-mow-on-mstr-bitcoin-treasuries",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-21T13:43:51+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "OCC Finalizes GENIUS Act Stablecoin Rules, Leaves Rewards Fight Open",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZ2tjeHNNS255YU9mNmxaT19hbGdYN0U4amM4anl2cFlkS2VfdWNYR2JTT2JBTWE1a2tlc3FsekhRWlN5TG1mbTV4djdBV1hkRl9YUkl2T0JDVGlqeGtsUXFzS3F3cWVSSVdIREpTZ1hFVFNCRndxYkgxY2NlOTQ?oc=5",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-21T13:32:51+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "5 alternatives to Ledger to store your Bitcoin",
-   "url": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-21T13:30:00+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Dangerously Weak OCC Stablecoin Rule Threatens the Banking System and Americans\u2019 Savings",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNVBUTWhkSVJaMzNtVmhOYzlwRnRqTlRfdjctMzJaTk9rekNwWGdPNHZHNjlVTUxnYy0zc0FSRjViZ2syYmFSZi1BRHdMellITW45dWlNQ3Z3eEFHNW1nNHk2ZXc2YU5sUThFZWdaWnVZWW5OcWJSQ1lGSldGNTVxZkw0V3VESEhpd0txaTUxNXlIMDFKeXg2eGRqbnktb3V5Q1kzNjBqUFRJeWJsNV9menlBTUptS2d5M0lLZ1lYSmw?oc=5",
-   "source": "Better Markets",
-   "type": "news",
-   "published": "2026-10-21T13:24:54+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Crypto Lending Under MiCA: Interview on the EBA's Plans",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sSjd1Q0Vua3hNOW5QdzZFRTdVdllfX1BjVFE1OGpoUVFER000TWJOUlhnZ0h4OHBhemRqY1ctbjdPcHp3SFcyeUpoSmlOdmt1YlFiVGhWb1poS1RCS25wc1poaVktWjZkVV91Qmgzb0txN0tP?oc=5",
-   "source": "CryptoTicker",
-   "type": "news",
-   "published": "2026-10-21T13:13:49+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "MiCA"
-   ]
-  },
-  {
-   "title": "Robinhood is a \u201cgenerational growth story\u201d declares analyst",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDJxbHFCVnJJeTdpZVJQUkJ3WDloX2JZS2NHMEJVYXY4dU84ZzZVRzN3NWNWQU4yZm9QbGJDRFNtMW9qYndKay1rREw1UjZQZEktNEs1QWZDUlUxTmJLV29rZlI4dnNqbmdIMnFEclNQMnVlS2ZqM05nd0dXS0tQSnlFWC1KOXhmTEl4bm1WNlg5dTJLZFB5Z3VHQ0NUeEZPV1p3VFFDQ25uYUdUTmc?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-21T13:11:01+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Trump and allies float ideas for expanding Trump Accounts to adults",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN1BpY1otazB0QVZRRkRBNFJwbmhnS25NMGxvNHVLQVNWZDZMMUJURTF1MEU2eklMMW9QM2NMNkFpbTZSeC1CLXJnTWNwc29oQmNzdDc0b2tQVlBjcjlZbXFNd2l3a2pRQUVnbE9iQVlPb1JBOGMtWkpPelp4dU1vdlJpYVdQTC1zdE5RZlR3cHFCS3V1Sy1pVzZFcTVCcDAxOEVrTTJKbTJMWlJ1MENSY2lSdmYtbFc4ZFhnZWtWMmxCQQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-21T12:59:14+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "French Authorities Push EU to Make Crypto Exchanges Screen DeFi Protocols for Users",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMDZJa1NTLWR4cEJ6blJLdE1tMWJBLVFCWjRPWUtUYzB2UWxoa1pJUU1aZjZtLWFnSzRNRFVVV1lpbHplWl82LTB5dWZHZlhKWjlGU1BJRHVlMm5tcUVFMDEtcTZIdDh4WWpfQjZ2SG1zejNzR1RtMTJhNUZ0WUd1RXU3UUF3clZ6NXZwUGQtbU1TWnMwY0RsOHlfMHhQMjlpOGtwTWo1RDNpUTBkbHB0X2R3?oc=5",
-   "source": "unchainedcrypto.com",
-   "type": "news",
-   "published": "2026-10-21T12:58:00+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Real-world asset sector leads with 5.93% gain a...",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNamJmd1BQNE5RSEg2dENGVEN0YndUeFFFdkMtQ1ZOWk1jVmJyWVo0S3lfbzdxd2ptSWwtZTg0UWVlaGVFdHV0UzFQUExpZjlHdGp2Ul9lRldvUEZuXzg1d0pudGNaQzY3VGVVeE5JWVUwc1dqVXpiX0NHQURPNkZ2bU5VWXBzNTNJT1RN?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-21T12:57:04+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NQzRUS0R5RTRjLTFPaUdlM3dUa0pxeVdpYVA0VXpQNkVUWTJDclpMcHkzVnIxNWtWdjVPVTRMWndwN3B0bk5LMk1GRGlTTUxwV0pwWXB3bFhUQlpmQzI2c0hGTHRUQzgwRk9uOGwxd182QUxmTHFBQ2lialpnd9IBgwFBVV95cUxQc0l3bllTYjJZMjVvWHNaYUhPVXJIWGg0Q05ZdlBRZWNkbDRKb2JJT0M4NHpud3JQemF2bEhzZVVScGc0dXpjX1lHcGRnc3hnem03OGMwWWpKdXdvWHRhU0NmeldHRlg4dDBJMWdmZ3FyMDJsa3B5clJycGhSd29BZXJ2dw?oc=5",
-   "source": "CNBC",
-   "type": "news",
-   "published": "2026-10-21T12:33:34+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "JP3E Holdings Inc. Completes Acquisition Of Demora Foundation 100% Ownership, Strengthening Global Blockchain And Rwa Tokenization Infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOTXpoM0J5V3JVZnJ5Q2RuZjJ6TE45ekowM2hiMkd4d2tQMGhXXzJIQkRYdDVjaU1vMVNiSXdwY21qdWxIZ3YtdlRQOFBsaERwbzZKemNia2N6UGZoRFg0dUdhZ1dETTBONDVsWEJPSTV5b0FIVlVtNjNnbDA2TUFNclluMGliMTFWZkdIaG5xSDFwaVd1ZEtnNXNxN0E0bmw2ZGlYRlV2dWx5eHdobUpfcEVLR1dTV3I1Z1A0VzlHMk5IMkJvd2JSRlZySGVRR3NSck5YdnZ5WFhHS0xmdGJZOVFScExRRHZHaFZtYUREM1B6RkJKaGxpWUVWSE5CVlAzeHo4T0dfOXhoTG5sUEpJOGtDNlBPanVkTUxza2JtVXdyTjFMTVlSWkRHVlBHWHI3Y2t4U2cyYw?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-21T12:33:23+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "RWA",
-    "MiCA"
-   ]
-  },
-  {
-   "title": "A foundation supporting a plan for 500 Korean businesses to reach U.S. markets is now fully owned by JP3E.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVgwMEF1NVc2MzVSS0xDc0UtNWxIOGYxSTNqcE9RR3N4NFNWNF8xV1I3RkZfWG02RjZ4VXhaOHFkTUtBOHNNQVh1NnZYS2JDQ2hzNlNob0pPLWtPRWRQa3BHQTdYQlRvc3puMjc0RGJBM0U2aE9KdnZjckpid0lDaFBVdjgyYnY1dEdGVE1NZTdXeVRuWmNvZVNBUXphZTBqZGJsZ2xicFB4QUswYVVhbkZ1YzZVZjFEaFdB?oc=5",
-   "source": "Stock Titan",
-   "type": "news",
-   "published": "2026-10-21T12:30:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "MiCA"
-   ]
-  },
-  {
-   "title": "Bitmine's Tom Lee Warns of a Potential Sell-Off in Ethereum. Here's the Most Likely Scenario for ETH.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGNxbGN0eEt5aEgyRjdCNDNFekI1UTh6eUpEQ0ZKMFVCOGI4bnM3M2pjdGxoYlVNeUJLVS0zbkRnS2FscFlmT3Z6Yy1aZU1FX19DU054WWVuTzAwbGd4aXk4dVdhUnJIcjh6N1pzbWR5c3ZkQUI0Q1hUalg0ZF9oOTd4eDU3ODJ6eUppWXdLNzE4N3l2emhwWllDS2FDUQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-21T12:28:00+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-   "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-21T12:26:58+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Morning Minute: Bitcoin Tops JPMorgan\u2019s Ten-Year Forecast for All Assets",
-   "url": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-10-21T12:16:38+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "How XRP\u2019s \u2018Banker Coin\u2019 Reputation Is Challenged by Ethereum, Solana",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkVRRFltb1U2Y0ZjR2hvLUY4WHpkb2ozbGFRcEt2WFY0TEtkQTIyOThIR2R5TEU4LXJ3dVE2UE1pbFlzaGs3MkhiekZ4LWx3MlZNSmkwQkhFd3ExYl9QSHItTS0yckJBSV9GQUhmb3dfM3dQbGJuWXdsVkhtNjZiaWhZREtzMWhydWg2WkR2YjBFako1c081UUJKMHJWWWYwZVdlVUMtbjhVbXJ3ZXFQb2dCNUdMTGx4emRNU3BLVDQ?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-21T12:15:56+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-   "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-21T12:10:39+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "OCC Finalizes First GENIUS Act Stablecoin Rule, Drops Rewards Presumption",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFI4NWpib09KZE8tRnVHb3d6a29hYVh0a3V1YllKcXozbmZqS29CRWV6RFVPMzR4SkhUWEFROVFKOEFteTM2T2hvNW1nMnpHMTVqMkNvNHBYTzVBM1hqdTVoZ3loeUt6MUM5dm1tOXZEd1hLVlFfUndTVjdsQkVKVHRDYUU3eVNIeVJIZFE3V2VMWUN1c0tqMFJFWURvTVJ0Mi1PYXg0ZTNfYXZwU1pZdw?oc=5",
-   "source": "The Crypto Times",
-   "type": "news",
-   "published": "2026-10-21T12:05:40+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Bitcoin Rises to $83,400 as French Bond Spreads Stay Under Stress: how 5 outlets framed it",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQklRWnEwSWlrX0l2cmFOc0dIMk5TRzRvV3B1czd4czRUVWkyMmNqUFpZUHVCVEVScnJnblZORlY2dzQzTF9OTnRqak01cVB6ZmZNcF9fRlhFY2VYNHBCdzlBbHZMWjRVN3NYLTNMaTF0R1pEZTdEbTMtaElGbXpVOXhuOTZLMDh6Vk9mOVVOSVJ4OTVIQjYzVE9oMXFBd2Y0UERLMXgzbHJraFdJRUdNYVhNQUQ4b09veVB5X1ZZYlJ3bXIydm92cHVsRjdrYWswNHFn?oc=5",
-   "source": "NewsCord",
-   "type": "news",
-   "published": "2026-10-21T12:02:38+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
-   "url": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-10-21T11:55:08+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
-   "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-10-21T11:52:23+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "OCC Issues Final GENIUS Act Rule, Tightens Stablecoin Rewards Oversight for Exchanges: how 8 outlets framed it",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWUI0ZEo4UkdiMTdOOG4ycTZJQ19oMExaNDVjS2oyMlZLdk1kWWhmTmJfT1M5ajdlVWU3ZlBZQ0RSZy1qUzlmTDVNRXhrNkFXY25ucExPSFdsUWdLcnVLTDI1OXlaRkJJZi01WFdxV1JlMVZoYjNCV3NoZFN1SG5VbG5WU01oYndIa3FRcUhSUWY5MUhGNzdONURvRENJODFrRDI3anZQbWJ4ZTNYYnkzcFNETVd2VGU3SEM2bWdXOTlwT2lYZUc1aXF5dTk2NUxQemhqanIyeFpTN0xoOElzYmtJdFhZLVJZeEE?oc=5",
-   "source": "NewsCord",
-   "type": "news",
-   "published": "2026-10-21T11:50:42+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC"
-   ]
-  },
-  {
-   "title": "Bitcoin and ethereum prices today, Wednesday, October 21, 2026: Crypto to outperform stocks and gold?",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdFRZbUNpQWNuSXloNGNiU3pCRzRoa0FhV3VEcEZGUTlMOFRiUEdDNzVwQzhBUUdVNEdpMkJwZTdZbE95b2R1clFKU0JrQVV2dWItRnhMcVVVaGd2VDBkZnczdmtmVnplN0dNRjBjaXRYVVNVZkRuUXJZOEtMMjFnN2JJM3R6bEk0X3BjckZBQ1F6eXJCcnlDRmRrU0Uxam9QdUJBVzBsbksyMjQ1UmE3M2d4dDRVX0hpTUdVZDQ3QURoM3ZnV29RaERudmJlTHZnS0pqeGprZWhycWtGdzdsN1d6N1hQMGE0bVU2djFhWlNSMUlwckVxSWhOc1dzeXB6UEE?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-21T11:37:36+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "MiCA regulation revision : the French authorities publish their joint proposals",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbFhZd09OY05hSm5mQWhQY0l5QmxhU2tTbktXSm81d1A4ZmNnV0EtajlKXzFCRUtSX21EdndjbHl3TERvc3ZKRGlHeGMwR3pJRWNtT1pWR3B2VS1Wc0ZId0dsM2NYemw1WGU0a3RLUDBFSEVleVY0LVdJVWF4ZmxVV09UdXlVLU9RVGFWMkQ1X24tdHh4TnNUbzZLY2RLZE1QRjM0WXo5eGRRY0RRVE5qZllHMlBVUmtPb1lBZkpSVQ?oc=5",
-   "source": "Banque de France",
-   "type": "news",
-   "published": "2026-10-21T11:30:37+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "MiCA"
-   ]
-  },
-  {
-   "title": "Injective Collaborates with BDACS to Bring Korea's First Won-Backed Stablecoin to Onchain RWAs",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ2pGaUp6S2Jqd3p3Mk1mRlNFRUNxOXRTMjFyck43aDFTTUdhUTdkT3lEa3pVbWt5LXBjZGxMa2FKYlFqd3FLemRwbmRuOVZ4bV9Ed3kwb0kybXRCUS1XMWxFalhOaERvVTIyZ29acmJEU2Z2OElKWnVaTTlHdHkxTVNlT0JJVmVPc1JBNkR6dVhIcHlFRXdJTWlmSWc4U0ZWd3MyMHYzZXA1WTZKRTVTbGtNVFVFV2tJYUhxUklDdzJXVl9peHkzMlQtYWhTS0Znc0FfT1FSelFaVGhIeDBhUXhvZHBuMHpX?oc=5",
-   "source": "markets.businessinsider.com",
-   "type": "news",
-   "published": "2026-10-21T11:23:04+00:00",
-   "first_seen": "2026-10-22T11:02:51.147379+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-21T11:15:00+00:00",
-   "first_seen": "2026-10-21T11:16:09.036095+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "GENIUS Act Regulations: Final Rule",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZUDNraVNPMVBzZVNrQXNpZUFmMkc4Y0x5OVZ6MkE0S0ZfNnRBQzYwVlRUbk1aa3NaN0ZINi1GWXRrNXdtOTNTVERkWXNIZlVtemNGdzFzODlUNkhMbld1M05WTktUOEFtNUxlRW9BbV9EVkdHX2dBdUtzZw?oc=5",
-   "source": "Office of the Comptroller of the Currency (OCC) (.gov)",
-   "type": "news",
-   "published": "2026-10-21T11:08:29+00:00",
-   "first_seen": "2026-10-21T16:00:05.352056+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "GENIUS Act: Revised Reporting Forms and Instructions for Permitted Payment Stablecoin Issuers Subject to the Jurisdiction of the Office of the Comptroller of the Currency",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44QlhWeWVpRHZwZ1hZOUE1VVZHVTNXYUhnOW9BN1o0di10cDNnMVRfSjBmaHZiclFwWFd4ZGJwVGs0eXlCdHItS2dTeldZVmM0bjV6ckxiOXRGTzNVREpqc1IyNjZaY1VEX09qREtXT3BUMW5sa1pOekZNRQ?oc=5",
-   "source": "Office of the Comptroller of the Currency (OCC) (.gov)",
-   "type": "news",
-   "published": "2026-10-21T11:08:29+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
   }
  ],
  "stories": [
   {
-   "title": "OCC Finalizes GENIUS Act Rules, Drops Stablecoin Rewards",
-   "outlets": 33,
+   "title": "US OCC Finalizes GENIUS Act Stablecoin Rules, Effective January 2027",
+   "outlets": 19,
    "topics": [
     "Bitcoin",
-    "Ethereum",
-    "OCC",
-    "Stablecoin",
-    "Trump"
+    "OCC Finalizes",
+    "Stablecoin"
    ],
    "items": [
     {
+     "title": "State regulators diverge on stablecoin safe harbor as GENIUS Act deadline looms",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3ZCN0NKNGpDUUVuOWx3dHE0SmI1N0RjVHBOSlVRQk5zY1VjQVVNVkZPZGFQNlNKUmJiRlRaSTR0U3cwYXFwTEJXNGNaVk90LXpZWVNXQmZvbjlzRFcyd2lyYXNRTUVqZHpMSndxelcwTnU2VHJFUGY5NHpWUnpRTmJ1ZFdjZlFGcGVrRjRLc082RjZfQ1hRWUhOYmpneFozVV9PbzQ4a2haYWVwZFBvUw?oc=5",
+     "source": "Ledger Insights",
+     "type": "news",
+     "published": "2026-10-22T13:08:37+00:00"
+    },
+    {
      "title": "OCC GENIUS Act Rules Could Reshape the US Stablecoin Market",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdjN2Skh4QXVxeTR1ZVZaVG5sQU1iN1d4T1Q0ekdJcEVUZUtFYUZDSUhTUm4wRlYwdGM2bjJoMlN2Nm5xQ2FTdW4zWFNRRXV4ZkJvN1F6QWFhNnRRS25SQTdCNVdVTXVkY2ZhTm5QbFpsUGY2RVVTekRhcE1teXRnQUJITlY4UTNiZXQxZFZOaTNzb1BZekhMaURfNDVKOVhCekQ1T05RQnBlNEQyeUFjLU45blZsVkIzYUxCaA?oc=5",
-     "source": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJ1WGFRaXBmQnVMOHhXOXB4Q1g0dnZyZnBLWExtbk51TWh2M1hEXy11T0ViNU1vanRUWWRxSlhxcDI3T2RXZUNVNVFXUHNLNEdlSVFhQ1p5WkNOeDBDRDhJMkpqMk9uUElHR0tuOVJ2SUVDTDJ6b1BqbTRQSm11ZFU3aWx0Mnp3MVZVOFpPcU0ybUJJTlE?oc=5",
+     "source": "Yahoo Finance",
      "type": "news",
      "published": "2026-10-22T09:45:53+00:00"
     },
     {
-     "title": "OCC finalises GENIUS Act rule for payment stablecoin issuers",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTBxeWlLRGFSY05heER6dm9CdDhkZlpsT3hmTlhNM3d2dlZyRjQzSHZSTURFVHluN1JMNlJfTl8wdnh6UXNTSDJBdFdaQUNQNFBJTHlYYlc2bnJQSVpqRDRzSWE5S0dEU3lBZEFEZS15YXJoeFBNM1Q3WUdoYVVFX2dDdERLYVdzQ0xDVU1PTDdSWFh4dmxGM0lHU3BSVkM5VFE?oc=5",
-     "source": "The Paypers",
+     "title": "Stablecoin Reserves Hit $41.6B on Binance as OCC Finalizes Rules",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fNlotM1YwT0ZXMlI4bkFPYk9PWmVWVUlPS3JEQzZkbTBWY3B1NU9QNnBFcE4tLTNib2hjSXNtZ1ltM2pVc0loZVR4UTZzWXRKTWdVZDhhb3ptRzlMaFJRN3pzMXpKMEF1RmtxUURYNGRmZXF2UzFIeExfZEdvQQ?oc=5",
+     "source": "The Market Periodical",
      "type": "news",
-     "published": "2026-10-22T09:26:35+00:00"
+     "published": "2026-10-22T09:31:58+00:00"
     },
     {
-     "title": "OCC Final Rule GENIUS Act Stablecoin Rewards",
+     "title": "U.S. bank regulator OCC finalizes GENIUS Act stablecoin rule, rejects safe harbor",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLRHN0RVV1ZGozcW1QaGl6a3ROZUoxN2hOR0ZpVm1EQXllOVN5MHNveldfbDNGMlBVNXZpRV9LaTVyelJfLVBRcjhsMVZicjl3ZUpkSGhVTHZqdzJSN3RlNEhNakw5dEc0N2Zpemk1ZFA?oc=5",
      "source": "The Cryptonomist",
      "type": "news",
      "published": "2026-10-22T08:58:01+00:00"
     },
     {
-     "title": "OCC Issues Final Rule to Implement GENIUS Act",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUpGUlVrTGZRSnFyUmhHTFJYaWtDdXNrSXVGbzZMSlR2OFBSN25PRDdZcGRHWjV3eHpIM0c2M09QVThaMHcySUFkM2VTZFZNQmVpdlg4emdueGNPc2xJOEFscGxZYkJiOGowcVEtbVJjNVk5SE0xdEhWbUN5VVlEdQ?oc=5",
-     "source": "Markets Media",
-     "type": "news",
-     "published": "2026-10-22T07:33:30+00:00"
-    },
-    {
-     "title": "OCC Finalizes GENIUS Act Stablecoin Rule: Reserves, Redemption, Timing",
+     "title": "OCC Sets Two-Day Redemption Rule for Stablecoins Under GENIUS Act",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUW1DeVM3V3ZoYUpvVVpXb2xMZTdfY2d4TFBkci14S29UdlRqT3RJQjlCenlzM2l5NFNKVVZRNU5DNnlocjllMkZPcC1EbUMzTFE4cXMwVE5PbzhmbG50X09jaUtFSVQ5RFo5bXo2RTlIMXpXUm5pX05FeWJEb3plNDdxSkpicDFDcDZYUlZRZTdGXzUyb08w?oc=5",
      "source": "Altcoin Buzz",
      "type": "news",
      "published": "2026-10-22T07:07:16+00:00"
     },
     {
-     "title": "Stablecoin interest: US rule from January 18, 2027",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRaGRkNHpmVTFaNFd1bFdhUkE5VThJMk10akFvQlpNeW8zY3J1RWV2bEdfQmM1WkI5UTZTYi1nVFp6T01VX2JVSmExVFh0R0pmN1RPLVR6Yjl2a01LWUdaUHd1V2RfOG1wNmRHVUN0R2pLbWJsV3JkRWF3MlpGQQ?oc=5",
-     "source": "CryptoTicker",
+     "title": "OCC Finalizes First GENIUS Act Rule, Leaving Stablecoin Rewards Programs Unprotected",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDhPclp6bXpSc3BMcVRicmtHMWhXTnF0cGstM2hkWEJ1TDBrMVNRZjROUmhmVHJPNTZFN1dxS2s0ME1iRWNpOGFwV0ZIbm9kTmNtR2xMV3hndjg0c0Y5MGIybnhpSHJiMGVhSlZTdkNYOFFuVGpWNG5VSm0tcFpjLUF5TGN3SHdCQmdoRQ?oc=5",
+     "source": "Hokanews",
      "type": "news",
-     "published": "2026-10-22T06:32:24+00:00"
+     "published": "2026-10-22T06:15:00+00:00"
     },
     {
      "title": "OCC finalizes GENIUS Act rule for stablecoins, effective January 2027",
@@ -2853,18 +2922,11 @@
      "published": "2026-10-22T05:47:40+00:00"
     },
     {
-     "title": "OCC Finalizes Stablecoin Rules as Bessent Invokes 1863 Banking Law",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmhhQm9uUW9UVGVRWnU0VEh2R1ptS0t4dWtJTlB3Z0ZXRjdaSGFYc2RDdVhRS0dYNjRYYV9yRDlSV1FMdXVpVVpDN2FNTnUtUC14VDZRdEdjZS10NS1NT0I3U2JkTUs3ZHNna3kyams2TFQyYWdNMVc5QUNlbnVUTXFMZTVGYTBpcGJfTm1GemExWGE2MGVjbg?oc=5",
-     "source": "Altcoin Buzz",
+     "title": "OCC Finalizes GENIUS Act Rules for Stablecoin Issuers",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BZjJBZ2FLdjhGZEdqeTZpWkduNkItWlZYNmphblY0N09Ec1dIMTM2REZjTEVjYUlnV2NoSHd2QU1aUXJkR0xsdFZ1ZkZDYnhsYWFHd1VyMVl3a2NRRVRtcS1XdFZIT19HampkdWN6X0ZkNGc?oc=5",
+     "source": "Demokratis.co.id",
      "type": "news",
-     "published": "2026-10-22T05:13:16+00:00"
-    },
-    {
-     "title": "OCC Finalizes GENIUS Act Stablecoin Rule: Jan 2027 [2026]",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlSXdidjJQZHZkc3NjclhScURCaHFKZlhMLVlVSWtGUjFHb2VhMWU0VmdWQUhfQXpmcTNGX1VRTjNreWxES1h3YTF5bFdOZThTWmxDdlg3SnFTdkdEQnRxZkYtTThYTjZjX0RDWXM3Tl9GdlRnM2Z0czFn?oc=5",
-     "source": "tech-insider.org",
-     "type": "news",
-     "published": "2026-10-22T05:07:33+00:00"
+     "published": "2026-10-22T04:22:41+00:00"
     },
     {
      "title": "OCC finalizes first GENIUS Act stablecoin rule, changes approach to rewards, and more",
@@ -2874,18 +2936,11 @@
      "published": "2026-10-22T04:20:00+00:00"
     },
     {
-     "title": "Bitcoin, Ethereum, XRP, Dogecoin Rise as Scott Bessent Compares GENIUS Act to Lincoln's Currency Mileston",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1lzN1lrRkFGdE9URUtNclNhWG00ZWdmSC1MN21DTm1TZ1ZnbkhrWXJRb0NBTXpKcGQ0VjZ1a0dZbThUbWlmMERuMnFRTkllOWk2cFFGWUNTamlEcHkwOXl2NEtQXzBGME9DRERob3Npb1BaRVdsRmthVWpNVk8xeTdSYko5S1JveWZTWXM5THg3VVVxdmFOQ3psS2IzTGxBU2pmQ0cwOGh2bC1VaHc?oc=5",
-     "source": "Benzinga",
+     "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January 2027 Deadline",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGdaUU9SbDhIU1lQQTR4cko5NmpNWks1b1VyZFlrbjJSazh5b0xDYXE0bW5JdEVGbFdnWVVSU1RQWS1YbS1md0ZGUkhPUG9ncmFOUlJlN1BMRVhSeVFIQ3ZjdUkwZnZ2RnN0bzUtVnVpc0dSazNpcEdpWHdBUnFVMHdYUmlBSUxQd1I0VUtjSllxVGYwQ2J6SVViTEpNWWlncjBR?oc=5",
+     "source": "Crypto Adventure",
      "type": "news",
-     "published": "2026-10-22T02:10:19+00:00"
-    },
-    {
-     "title": "FINANCIAL TECHNOLOGY\u2014OCC finalizes GENIUS Act payment stablecoin rule for 2027 (Oct 21, 2026)",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTFhmbkpOblZjNjVLcmgzN25tY1ZMM2JfZVl6SkstbWFpMzhaRkgwcUVfYlJCMW1LZEhtb0pLdDZUaEFWY19TVWMxN3pxQVp1YkkzVWx4ZUR2dGFCMjBBay1fTTlQUFhIUURWRVhzUGxqZXZKWjBXRDdHeE5yVjllS0szMWkzUk0zaGt5UGRXNkthVWszYTJ5ZGRpcjltcUtqQ3dUcjFvLUpZbUVYVWszY2c4SU83TTEyaFQzaWZpb0cybTA2SC03WEFORFM2alk1ME5UNkdYWU5PMVpTZlJj?oc=5",
-     "source": "VitalLaw.com",
-     "type": "news",
-     "published": "2026-10-22T00:36:36+00:00"
+     "published": "2026-10-22T04:17:31+00:00"
     },
     {
      "title": "Crypto Firms Can Keep Paying Stablecoin Rewards as OCC Finalizes GENIUS Act Rule",
@@ -2893,20 +2948,6 @@
      "source": "Yahoo Finance",
      "type": "news",
      "published": "2026-10-21T23:02:15+00:00"
-    },
-    {
-     "title": "American Bankers Association Says OCC GENIUS Act Rule Undercuts Ban on Stablecoin Yield Payments",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PWTFJbG1yRDFnekM5TmIwRzRlVlpXWVBsTEd3YUM0d0d4XzRxaUVOVVNtaWFjXzdkOUZ2SzVmM2pKb3VDbnJhS1RQeXdvR0poUUROZg?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-10-21T23:00:37+00:00"
-    },
-    {
-     "title": "American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress",
-     "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-21T21:53:48+00:00"
     },
     {
      "title": "OCC Finalizes GENIUS Act Stablecoin Rules, Sets January 2027 Start Date",
@@ -2930,39 +2971,11 @@
      "published": "2026-10-21T20:25:55+00:00"
     },
     {
-     "title": "OCC issues final rule on stablecoin framework",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSlg5bkhITk5JUktEZUFYVWNJb1Z2dFFlLTdfTWQtVXJzSmViUEdNbEVkek8zejF2aVhrRmltOGZ6Q0dnQUdWR3JVNTlFUkNIUkw0enpGem5nZGpQcmdFY2FZU0hHeTdlWVNxY1JUaU00bnNieHUwdm11TWxfRXgtWm1LYmwwTlN6MmtFa1BwXzhqenlfa0Mzdk12X0NGS1k?oc=5",
-     "source": "Banking Dive",
-     "type": "news",
-     "published": "2026-10-21T19:09:31+00:00"
-    },
-    {
      "title": "US OCC Finalizes GENIUS Act Stablecoin Rules, Effective January 2027",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOUhpWHd6cEZ1REMwYnNwMVl3Qnd6T2w3ZXJ4d0ZKR0RCTUlfWU5kWHBuemFFUElkMURnMDc1RzdRdjlCV1dZc2JYSkhUanVRZVB6X3diRHRRckpsM0pRQTFpR3Q3Qk13REN4Y0dOWDdmVTRtV2xtczg0bVJkVHN0VkdoUXFDRTBUZTF6Y08xWnh0dXc?oc=5",
      "source": "CoinGape",
      "type": "news",
      "published": "2026-10-21T18:29:33+00:00"
-    },
-    {
-     "title": "Treasury Secretary Bessent invokes Lincoln's 1863 act to back Trump's law",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHZhcWNoRnQ2RXJpTmE0aUIzQ3hlSUJLOEFreFp0REVINmdtZ2hyTDhrWTJYdkJjNFFMa0FSUndsMUNNRWNuZGVkLVlObk9nNTBnRlpoYl9sSkgycllWbW9DbmpZeHMtcGJUTWxuekJrLVAtb3VPcThsb2tYcGN4d0I5dEpILUtCeUMzdFVTWVp5TkZyWXhFcDk5NG4xYmQyZ21XU2NlVW92WEl3U0dUMw?oc=5",
-     "source": "TheStreet",
-     "type": "news",
-     "published": "2026-10-21T18:15:59+00:00"
-    },
-    {
-     "title": "GENIUS Act News: OCC Final Rule Drops Stablecoin Yield Curbs, Banks Push Back",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSk1NOWh3OGMyUGdHOUZmTXd5dk50dFg0enB0MGVVSW5BZkkyOEUwUHJHV2dJQms3X3NNYjdfbTdYYVFNaFUwUTJRM3p3UE11bG1VNkdJdFJ1SHBHV0xITDQ3bm9WYUlCQXR3MXVwenliSi10WFVIVzZNalhRQlotdDVGcUE0dzFSQjdhSnY5cDNESWdDR2E1bi1rTzBTeVJFQnJ5T05QcmNlRFFkcGZRbXZiSGpCQdIBuwFBVV95cUxPSmFyU1gtRUJ4RDJhLWtxWi1nVHlrUGM1MDB2TzlsQkxudklwb3dIRkpPSVEzdGRZYmtQZHJINWJCTGR0eS01dlBwRnhPZ0dtcm01RDlScGtpQUhJRklzX25pR3Z4elVSaGFnV1UyT0tsZElFb3ZKa0F1OEtFYVd0TFYzeFFNcmlfS1d4ZGpHMmZqWGFZcHRmLWk5U2V2aXVQMTgzZDEtVHpxSWpLX2lDVDhDSFI1QkhLZW5j?oc=5",
-     "source": "Coinpedia",
-     "type": "news",
-     "published": "2026-10-21T18:04:24+00:00"
-    },
-    {
-     "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
-     "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-10-21T17:59:36+00:00"
     },
     {
      "title": "Circle Stock (CRCL) Gains 6% as OCC Finalizes Stablecoin Rules",
@@ -2979,13 +2992,6 @@
      "published": "2026-10-21T17:15:59+00:00"
     },
     {
-     "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
-     "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-21T17:10:54+00:00"
-    },
-    {
      "title": "Crypto stocks rally as OCC finalizes stablecoin...",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWE5Ya3NheHdjSkxpdkVNbXE0N2VjWTBIRU9McDdJbUR1YkNhOGxBbmhvRTllTVlBZ3R2OUJkRmJNcHdvbDFXVmc4ZGppS0gzX0xSTGFTQWVlUXRfTy1GbUMzbGpxWU5JQXpiRmVXOXB1NF9NUDlGd2R5dkN6N3BwTDRmeUlHbGlkUV9VeEkyOVFwclE?oc=5",
      "source": "Pluang",
@@ -2993,99 +2999,30 @@
      "published": "2026-10-21T17:03:34+00:00"
     },
     {
-     "title": "OCC Finalises US Stablecoin Rules Ahead Of January 2027 Start",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpXWVhhTlFoNmU1TV91M2VfeUtmdkdHallwc0wyRTlsVnh2aXhnajdNS04yM3luQ3gwdmcyS28zX2NLQTU3SHpHQlYwS00wdmVuQTIxbWdNMENRQWtkanE1VTVUZVA2a2hTQmhkeDhBUVNKdWcxZlpPYXRWWGUwaERsNWhET0s2OTJxeFpTV3Y4dndWTmhobkRBUnlnNnV6?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-10-21T16:58:19+00:00"
-    },
-    {
      "title": "Circle Internet Jumps 6% as OCC Finalizes GENIUS Act Stablecoin Rules; Strategy Surges 8%, Coinbase Climbs 5%",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMlc1dkxYYmt0Rzg1cHJ1WkVJNGJfNG5Xd0dDUHEyVjFnY1ZGY1JCN3h4cURjTmt4S3hqOEpuYjdheC1iXzhDNTJ0cWlNOXJFTi05QS1GdVJtc3pRZDVEY3pkVVdLbEdwLXJqelpvZzl1VnFTZE1ZYnRocUpRdjBPc3g2c3N5ZDRXLWw3UUdfalhyMUdiLUlYQm1XQjlOMzFFUGtxVFduX05TdjA0aEFxbHYxd0VGNWlhV2tZRnJwNEJhNER3ekN2SklfOXZMSjBNdEhKNjZxVVJaeU10Q2hzdS13?oc=5",
      "source": "24/7 Wall St.",
      "type": "news",
      "published": "2026-10-21T16:53:00+00:00"
-    },
-    {
-     "title": "OCC Finalizes GENIUS Act Rule for Stablecoin Issuers Ahead of Jan. 18 Start",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLTBGbFNQYjNGVWxDSlBlcXNENVF6UGs4bWw4NFJYNEllelJid0QzeEVMRlN3RTFiNjljTHlySFdzRE5HOURDNTRkU09hdm0ycXhoUjhHNlJ2ekdtV3BEc3BVcmFkUk54VThWTFpyalVPZVZxa3VRUVN0SjNCQmdRb3F2U3o2T0VjVmdDa1JGdw?oc=5",
-     "source": "CoinMarketCap",
-     "type": "news",
-     "published": "2026-10-21T15:48:07+00:00"
-    },
-    {
-     "title": "OCC Finalizes GENIUS Act Stablecoin Rules As Bessent Compares Law To Lincoln's National Currency Act",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWFMzcEZOSVJXdlo4V0dnYk5JWS1sYWxwWEdvZ2N6c3RyY3Y2eVRqSGtTY1dOancxMkt3dzNpQjZOQ1NXSXN6WU9kS2pucnRjX0IxcWhlWjZ3eHA1ay1tc2pXRUcwdW1fYUxDci1fdTMwSmpFcmFKamNCOG9JUnhTNDJOUkdiYU42RWJ4aEZXcldNOGZsMUxOTVNVcjN2c1hITmhGWDRORWNVSHJEeGs4djJtYWcxeEhQdVpIVlZTWDhGRWVnNXdpaVZSNXhMam9FLXdzY0FZVWlQUVJtTzh0TzZOWk5EYzFXRGZ6RkFYV1lpczZvXzl2dXRHVjltTUJRRmc?oc=5",
-     "source": "Stocktwits",
-     "type": "news",
-     "published": "2026-10-21T15:14:02+00:00"
-    },
-    {
-     "title": "OCC Finalizes GENIUS Act Rules, Drops Stablecoin Rewards",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVR4QmQ2UjRtb0I2ZTdJQmlDVGZoRl9QLVUxUFI1eTQ0TnppbUlLcmMzQVNGcjFhZjk2cTZGZ0dQbWFORC0wNkUwWjV1Uy0wdXdMRUVVd0kyUTl6blp1QzVnTWg5cHlRdGluNUM1ZldEWV8wM29yN1Awc0JxVmhLb3JXSWt1dms?oc=5",
-     "source": "Coinfomania",
-     "type": "news",
-     "published": "2026-10-21T14:24:23+00:00"
-    },
-    {
-     "title": "GENIUS Act rules finalized by OCC ahead of January deadline",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzF3UWJTVjgtWFpsRURmZXpPZXJLMTE0LVZ6ZnlpQ3lyQmJrckx4UThzUElFUVlERV94N0tLU2tXY0Y2NTk4LVlsdWlUUlNISWhrTklISFM1SlZFQzVGX0dwQjlLR3JkcU45Rndwal9ZTGNXZ0EyMHZuWFZvVmhBMnBBelkzMXc?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-10-21T14:20:27+00:00"
-    },
-    {
-     "title": "OCC Finalizes GENIUS Act Stablecoin Rules, Leaves Rewards Fight Open",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZ2tjeHNNS255YU9mNmxaT19hbGdYN0U4amM4anl2cFlkS2VfdWNYR2JTT2JBTWE1a2tlc3FsekhRWlN5TG1mbTV4djdBV1hkRl9YUkl2T0JDVGlqeGtsUXFzS3F3cWVSSVdIREpTZ1hFVFNCRndxYkgxY2NlOTQ?oc=5",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-10-21T13:32:51+00:00"
-    },
-    {
-     "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-     "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-21T12:26:58+00:00"
-    },
-    {
-     "title": "OCC Finalizes First GENIUS Act Stablecoin Rule, Drops Rewards Presumption",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFI4NWpib09KZE8tRnVHb3d6a29hYVh0a3V1YllKcXozbmZqS29CRWV6RFVPMzR4SkhUWEFROVFKOEFteTM2T2hvNW1nMnpHMTVqMkNvNHBYTzVBM1hqdTVoZ3loeUt6MUM5dm1tOXZEd1hLVlFfUndTVjdsQkVKVHRDYUU3eVNIeVJIZFE3V2VMWUN1c0tqMFJFWURvTVJ0Mi1PYXg0ZTNfYXZwU1pZdw?oc=5",
-     "source": "The Crypto Times",
-     "type": "news",
-     "published": "2026-10-21T12:05:40+00:00"
-    },
-    {
-     "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
-     "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
-     "source": "Decrypt",
-     "type": "news",
-     "published": "2026-10-21T11:52:23+00:00"
-    },
-    {
-     "title": "OCC Issues Final GENIUS Act Rule, Tightens Stablecoin Rewards Oversight for Exchanges: how 8 outlets framed it",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWUI0ZEo4UkdiMTdOOG4ycTZJQ19oMExaNDVjS2oyMlZLdk1kWWhmTmJfT1M5ajdlVWU3ZlBZQ0RSZy1qUzlmTDVNRXhrNkFXY25ucExPSFdsUWdLcnVLTDI1OXlaRkJJZi01WFdxV1JlMVZoYjNCV3NoZFN1SG5VbG5WU01oYndIa3FRcUhSUWY5MUhGNzdONURvRENJODFrRDI3anZQbWJ4ZTNYYnkzcFNETVd2VGU3SEM2bWdXOTlwT2lYZUc1aXF5dTk2NUxQemhqanIyeFpTN0xoOElzYmtJdFhZLVJZeEE?oc=5",
-     "source": "NewsCord",
-     "type": "news",
-     "published": "2026-10-21T11:50:42+00:00"
-    },
-    {
-     "title": "GENIUS Act Regulations: Final Rule",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZUDNraVNPMVBzZVNrQXNpZUFmMkc4Y0x5OVZ6MkE0S0ZfNnRBQzYwVlRUbk1aa3NaN0ZINi1GWXRrNXdtOTNTVERkWXNIZlVtemNGdzFzODlUNkhMbld1M05WTktUOEFtNUxlRW9BbV9EVkdHX2dBdUtzZw?oc=5",
-     "source": "Office of the Comptroller of the Currency (OCC) (.gov)",
-     "type": "news",
-     "published": "2026-10-21T11:08:29+00:00"
     }
    ]
   },
   {
    "title": "Cardano Foundation Urges EU Not to Extend MiCA Rules to DeFi, Staking",
-   "outlets": 9,
+   "outlets": 10,
    "topics": [
+    "Cardano",
     "DEFI",
     "MiCA"
    ],
    "items": [
+    {
+     "title": "Cardano Foundation Urges EU to Keep DeFi and Staking Outside MiCA Expansion",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjE2aWg2emVzWlktb2E2cWxfU2dBS0x0ZFVOcFY1c09VaDBBT09DaG9XUHJGeFlxNWxsTjQ0YjZzRGdXUFp4SkoxeFpwX0N5Zm5NOF9oLTZNY0M3VGw1ak5QYmpUcDFMM2cwQVNiUTZqc3g0cVBJSng0RUJNOWxHX1BWSG9HaTd4V2dyVnJnOUdwWE9oM2UwbVByeWJvQQ?oc=5",
+     "source": "CoinGape",
+     "type": "news",
+     "published": "2026-10-22T08:45:10+00:00"
+    },
     {
      "title": "Cardano Foundation opposes new EU rules on DeFi and crypto staking in MiCA revision.",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2ZNV2JwcVJielNDTU01Z0xEQVFJbjhCTWhfTDNSMkUtNU5pTEgtZzFYS0I3VE1NaHprNDczcFRSRW84TlhEbHBVRkJFdFlEV0d2YlR6TnhWSHBObkt3V3BlcjhlMFpvS2RfWkE3R3ZLeHZQWk9Jby1RX2M3d1Q4b2xjNUFoNGxIT3RsR2hRT1NGdE1XZ3BKbQ?oc=5",
@@ -3159,18 +3096,32 @@
    ]
   },
   {
-   "title": "Trump to tout crackdown on overseas crypto scams",
-   "outlets": 9,
+   "title": "Trump Highlights U.S. Crackdown on Foreign Crypto Scams at White House Cybercrime Roundtable",
+   "outlets": 7,
    "topics": [
     "Trump"
    ],
    "items": [
     {
-     "title": "U.S. restrains $938M in crypto amid Donald Trump\u2019s crackdown on overseas scams",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEZUVmVyRkxwRXAwZUdoM2NIam95Tkw4ajJoWmdGLWJkdnJpRlpQS2FuRV9uZVZ4Yl9xU21VM2t5YkkwNVJIS1hFYXpKR2E0Uk9zMVh5UDVpeTJIX2ZFbkl1bmJjRVU4amdiSEFKckNNWTZLcGZPbjV4TVZZLW50QUVEcl83Rm5iVVRzb2N2ZVNfcndvY29kVDktSGZxcjQ?oc=5",
-     "source": "AMBCrypto",
+     "title": "Trump cites over $20B in cybercrime losses at the White House cybercrime roundtable",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrWHNuMENVQmR0QlJQeldoNWZwcEJ5cWNUdVpBYTFvUDV3WklDam4yeU00c1RmZ0xIakxSLTFmV1FKbkVtLWhpaTZpZUJuRkZKUjUteHd4NGs5YWR4NG1TVXhEdkREMzYybDVBR2MzNWpVdk5fZ2NCQXlqNTk?oc=5",
+     "source": "The Cryptonomist",
      "type": "news",
-     "published": "2026-10-22T08:00:54+00:00"
+     "published": "2026-10-22T10:10:21+00:00"
+    },
+    {
+     "title": "Trump's White House Cybersecurity Roundtable Avoids Mention of Cryptocurrency",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3NOTEpMUFpQOWhPOG5paWhBRHhqQjFwcXVSZ3N4c2ZlcGstMXdxeGR5eGlPbkQzQXpKTm5UdFNRWm5WTVpReFZJb09CRm5ONnQ5OFpIc3BmMTZUV2pjQU9kTmc0YTg5S0htX25zZVY3UV9WR21jNkZlcVJINC1xT2stYkF5cnBDTHEtcWtRajB6dDVoTjNuMkZlb19DR2tIR08xZFhOMFRvdXk3Q1JTbQ?oc=5",
+     "source": "KuCoin",
+     "type": "news",
+     "published": "2026-10-22T05:31:26+00:00"
+    },
+    {
+     "title": "Trump Highlights U.S. Crackdown on Foreign Crypto Scams at White House Cybercrime Roundtable",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbThhNXF4RDBkWktZb2NMX2hVNDRYazFlMnp1WmhtMUxqMTZha21BUVc5MjQxY3kxSVFEb0ZTYjRwWnVJTC10TnhqbXQxcGRNLVp4RlotQjZBWGVNSHB3SnhnMjNtdnBKTVhrWEVEeEdiUVRMWHZGMmtJRkItcWN1NG54a2N1ZjNZUlVYM002djhKWHJiZnQ4TjFnV2E5dGhHUnEwWUFVNkZPaThNREtwZlNzbDBJQzFPV3BRQkt4Ykg5VzRXN0JyNnhEWE1GblhsSERfSXJpU2M0TS0zcEF4NEhpNkxjQlVLa2c?oc=5",
+     "source": "NewsCord",
+     "type": "news",
+     "published": "2026-10-21T23:22:40+00:00"
     },
     {
      "title": "Trump to Highlight Crackdown on Foreign Crypto Scams at White House Event",
@@ -3180,13 +3131,6 @@
      "published": "2026-10-21T23:08:14+00:00"
     },
     {
-     "title": "Trump says fraud investigations make 'very big dent' in overseas scams",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5",
-     "source": "Reuters",
-     "type": "news",
-     "published": "2026-10-21T21:45:24+00:00"
-    },
-    {
      "title": "Trump To Spotlight Crypto Fraud Crackdown at White House",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0ZpRWZWbVV3NHVQMjljRWhYaW1zY0tYQ3pyMEZaNGozaTMxempXQVFGaFhCZjdUSlpkZWZ1SERYU3M1dldzZHZPdGJNSy1Fc0dSbHlXaUd2S0xBd21zQXZPU3FtN0d4WnhkSmVoTXBjU1FVc1VrMHVFb1dTdGNCX3Q2aXJ2OFBsOUhwelVlRTZOdGxHV0FieXNtV3VzcnM?oc=5",
      "source": "CoinMarketCap",
@@ -3194,11 +3138,11 @@
      "published": "2026-10-21T20:52:21+00:00"
     },
     {
-     "title": "Trump to Outline US Action Against Overseas Crypto Scams at White House",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NZl83WUIxWGo1UlY3d3BfNmhtd3hJWEZSWDZSRDg4YWpOU1pOZFZKVmNJRGVtSkY5MXkwYmZoRVByNWdtclJDXzVHMkUzaWY1Y05XbnFWZ01XTTg?oc=5",
-     "source": "TOKENPOST",
+     "title": "Trump didn\u2018t mention \u2018crypto\u2019 once in White House cybercrime roundtable",
+     "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
      "type": "news",
-     "published": "2026-10-21T19:43:52+00:00"
+     "published": "2026-10-21T20:19:39+00:00"
     },
     {
      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
@@ -3206,68 +3150,24 @@
      "source": "CoinDesk",
      "type": "news",
      "published": "2026-10-21T16:23:44+00:00"
-    },
-    {
-     "title": "Trump to tout crackdown on overseas crypto scams",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmc3MEl5TTNEcGZPZ3VZNjh3eHhYeUFnWWNIS3ZSWHF4UHRBSTJKakdnZERyQmthRVZxSEN5UzNUaVI0NEZZOXIyeW4wNW1jcTNxTUFoNjZkdVVSTlF1Tk5fTUZCU3FhaHlMUzh6clhGWWE0UnNqQ2preVRqUHE2QVUwVzR0bS1Cc1ZHbTBvRXZlYnlvWHhEeXNlbjJza3V3TXBIdHpITHJGVXpNQjZxQ0txZnBZdFFNQ2tacWFZUU5Mc2ZJMS1kUWlONlk5OEMxTWZBQ1NJMFRkeV81RW5oczln?oc=5",
-     "source": "The Lufkin Daily News",
-     "type": "news",
-     "published": "2026-10-21T15:53:46+00:00"
-    },
-    {
-     "title": "Trump to Tout Crypto Scam Crackdown at White House Event Wednesday",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVVSS1RaRUk0S0o5TTVzek1DQmZKUFA4T0hZNGx3UkRRSkJsMUZxeE9Rb1pRcEhrTFJOd1BGOXJremRwNXcyT1BQVm9nWEt2LWltU3pEajBMN3pmenQ3Umg5aG14b2Q1NUd3T1hNeEhtWWladmJFd1l3aVV0Uk14XzhzanVJOWxNVDlmVjBLX0t1VHB4ZkQ3RjROU2Ita1RjNnBrR19WY1JzYzFGZzJfUDNWcGtwMktEY2NIVzE2b0V5RzVVT0RF?oc=5",
-     "source": "Benzinga",
-     "type": "news",
-     "published": "2026-10-21T15:44:50+00:00"
-    },
-    {
-     "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
-     "url": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-10-21T14:52:06+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Robinhood to Launch Retail Investing Platform in Middle East From Dubai",
-   "outlets": 3,
-   "topics": [
-    "Robinhood"
-   ],
-   "items": [
-    {
-     "title": "Robinhood Secures Dubai\u2019s DFSA Approval to Launch Crypto, Stocks, ETFs in Middle East",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wTl9EMHV3N0JLUmZ2U2FHdXdfWEwxc1Rtbno2SXJ4WHEzOWwyeTVHOWdHQUxldi16VVl3Um8tQ3NsNEFJZEJkbmxNczZxRm9RZFlFUGdrWQ?oc=5",
-     "source": "Cryptonews.net",
-     "type": "news",
-     "published": "2026-10-22T10:19:47+00:00"
-    },
-    {
-     "title": "Robinhood to Launch Retail Investing Platform in Middle East From Dubai",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2pFS3hPeHZ3VkpIWC1HSG04S21UcWpGSDNGTEdpcVZVN3VtZDl0VEdRdEc2bnlBajRCZnRPd1hRcDlnckplMk1YNmNTYnI5M2lJS2xnVDlmUXgweVQxaWN6TnhYbEVuVm1GZkowYUdjZVhxb2VacEVoRHZHeFFIOUlkLVUwWUN6UnVLOTk2TEU4RUVCeTNWS0k2ZnVTV3BIUXlEc2kzc2JyQ2J6ZlNvTWlUMC1MSXBlTHNPVkk5Zw?oc=5",
-     "source": "Bloomberg.com",
-     "type": "news",
-     "published": "2026-10-22T09:03:30+00:00"
-    },
-    {
-     "title": "Robinhood to Launch Stock, Crypto Trading in Dubai Next Year, Deepening Middle East Push",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaMzljeFUyS1FQdVQxRExkdmZ4WUpnNU1oVVZOb0toUWQtbVN3T0EwVXdfZmhzSDNxdlhrTDR0M1pqaUdxZXJCbTh4RU16c2JmY0RudA?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-10-22T08:56:20+00:00"
     }
    ]
   },
   {
    "title": "UK FCA Seeks Feedback on DeFi Guidance, Crypto Rule Perimeter",
-   "outlets": 3,
+   "outlets": 5,
    "topics": [
     "DEFI",
     "FCA"
    ],
    "items": [
+    {
+     "title": "UK FCA proposes updates to crypto perimeter guidance",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXZCWDBBbE1CLUxYZ2J4OThYOWZ2RlVwcWpyUHhzZXdpZ09HVU9KSVRKdWRjakhqb01Ya1VwMlNGalZzQ0RteE1oMkFhTHU4M3RxTzA4VEdhVUM2N1N3Y2lTUlN6RzVYMWtQazhZOTdJUU51bFVpTnpqY0dhSHpRdEhlNzZZNzhmSERMckdGa1NjSURocXc1T0l1Y2FpbF91T244WGpqcjhURVRo?oc=5",
+     "source": "Linklaters",
+     "type": "news",
+     "published": "2026-10-22T13:54:52+00:00"
+    },
     {
      "title": "UK FCA Seeks Feedback on DeFi AML Guidance and Crypto-Asset Rule Scope: how 8 outlets framed it",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0JJWHBxc3VnUFFsOXB5ZnBhVEhvLUtiWkM0aXo4LTFnOGhiU2xYZmxpcFdsV0RjVVZaTl9FUFVaZkxTMjVDZFhGNnhJX2ZhSDZQdlBRODNyLXFqNEZSeE4zSGZjRnZaMVhOVEk4QlI3V2REVHVYY2xnVWtTZmpKWVdGQXFYaWlCWXVCOGZjV2lhblRJTFprSFc4VW9ydllaNmUwV19zbS05U1JSdXJCM0ZYSk5WYk5WWWhKTzdtMllzQXJMRWp2Z2p4VjZQaHFJZEVKYXFTTm5zZWEx?oc=5",
@@ -3283,8 +3183,177 @@
      "published": "2026-10-22T00:39:24+00:00"
     },
     {
+     "title": "FCA Proposes Guidance on When DeFi Interfaces Need UK Authorization",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0lKTl9ZalRzaXRrRXdKWlRSME81VExhUXRoVC12ZnluTGZwWEdlekx1Q3Q3T0lpN1RkU2pReTlITWd3akkyS2JPS2E1ZnBwekFBME1wVmVyZGFUdE1EMW44SGQ3ZmJTYUlIbjE0STVFWmE1WGZPeEplVlBOQ2drLVVYbFhZNmZvZk5BSTlKU090Vjd6d2daOTItdG5UVmM5dU5ualJxTnM?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-10-21T17:55:07+00:00"
+    },
+    {
      "title": "FCA CP26/36 \u2013 Cryptoasset perimeter guidance",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kemhULUVhNVZyNno2aUVhemNWOUJMQlJ5bDJ4ZktRV2RrRjNLS0xJeDgwSzFWS3ZpYnJRWEJJSVFTRTRwc3Q5a0xmYkl5SWJoN25VYkhPR09NcTgyVWc?oc=5",
+     "source": "Global Regulation Tomorrow",
+     "type": "news",
+     "published": "2026-10-21T16:01:08+00:00"
+    }
+   ]
+  },
+  {
+   "title": "SoFi Launches Tokenized Deposit Paying 4.4% Yield, Linking Bank Savings to Stablecoin",
+   "outlets": 4,
+   "topics": [
+    "RWA",
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "SoFi Launches Tokenized Deposit Paying 4.4% Yield, Linking Bank Savings to Stablecoin",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckRjNDhkQ0tUZ2FpV2J1LS1nQmNjOWR0blZOcms0ZE45QldZRHAzLWdZVXlVckZ0R0pmUGFNNTdpV2t2M3l2LWFtZlRtOFlUalFwNUhhTi1SWUE5N1IwWVk4WWlMTmd6RW5nS0t3a0w5WTNESnJvS09aM0lOc3h2U2xNN2MtbnB3RjhNOVFqQ2NRRjk3Slh1YU9SZ2VIUFU4WklHY2V3?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-22T13:48:00+00:00"
+    },
+    {
+     "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+     "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-22T13:13:45+00:00"
+    },
+    {
+     "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+     "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-10-22T12:01:03+00:00"
+    },
+    {
+     "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+     "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-10-22T12:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens",
+   "outlets": 3,
+   "topics": [
+    "Cardano",
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2s0dWJ2aEgzNEZSVUVLMU5Fd1cyMFpKX052a1RVeDhNRW9NV0NRa1JyLWoxbngyX2ZKcTRUeHdvTUFVV0UzbjdZdkhyb1ZIREstbDZBWWF0VDdXWXlublZyV0ZlTHVRWXRITHZ3X2dyQi1tT2FXMkUyYmI3R2dpbTdZMi1IcHI5akR1QndVb3hLM3d6MzJuajZXQlc?oc=5",
+     "source": "Benzinga",
+     "type": "news",
+     "published": "2026-10-22T15:50:32+00:00"
+    },
+    {
+     "title": "US Finalises Stablecoin Rules as Ripple, Cardano and Chainlink Push for Crypto Clarity",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3NoM0NuZXVYalVSSU1Tb0VkR29WVjJEbGsycXVFV2QxbXYwU3puUm1iUi0zaHJSYWloUlN0TEt2bkZyZVVzd3RzVVRYQ3hjOXlSbjNpaFJxWktncDFxTm9YT005ZGFyWlRnN2daTHJVam8zcXFSNW5FWm10OXBTRkxJcnUzSUJKUWMxY0lzaW1ETVNPWGxEaktHVks3MTNXNlNVdlYyMEhfdXhwcGowUks3c2JwclBMRWZaX05rYXppUQ?oc=5",
+     "source": "Crypto News Australia",
+     "type": "news",
+     "published": "2026-10-22T07:04:24+00:00"
+    },
+    {
+     "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+     "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-21T16:09:26+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Uniswap v4 Is Now an Aggregator: Uniswap Labs Launches Aggregator Hooks By Chainwire",
+   "outlets": 3,
+   "topics": [
+    "DEFI",
+    "Ethereum",
+    "Robinhood"
+   ],
+   "items": [
+    {
+     "title": "Uniswap v4 Is Now an Aggregator: Uniswap Labs Launches Aggregator Hooks By Chainwire",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdEtOemFUeHNpYWVuWVlQaUxGcjZXVjRhOWZqUTJiTkVKQXJOSy1nNnU3NDYwQVhwUFFYdHBaa2Z3WWtKczh0ZjRzVFNxWVlBWWJFRjNxOFd6cVVQaUUyVFNscFhzX0xYWDlDM1BmX0dyeF9DSHc3TFFudDFtbjFXbUhNcUtNMWc4RjdQNzRpUGU0NFJaOWtldHlVODZlZ1QtOUFRaG0zbWd4Q0tWaVBXck5XU2ZkaHgzSVVIdDNwWU4zNFpQWWRVQw?oc=5",
+     "source": "Investing.com",
+     "type": "news",
+     "published": "2026-10-22T15:40:33+00:00"
+    },
+    {
+     "title": "Uniswap Aggregator Hooks Expand Liquidity Routing in V4",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mZGc5dU9FNldyTjJJUmgtR0tfUkp5RW9KbUdtVVFsdGU0ZlMxZ3AzaTk3cWFxV0c2aXhLckZZNkgzUkh5MnE5dVpsYl9PQ1UyOHpmWmR2Z0Mtd0F6dGxTOElNZUsyWlQ4OC1XWDc5b2JsWDhZazZsYksxeEpCZw?oc=5",
+     "source": "The Cryptonomist",
+     "type": "news",
+     "published": "2026-10-22T14:19:29+00:00"
+    },
+    {
+     "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+     "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-10-22T13:55:03+00:00"
+    }
+   ]
+  },
+  {
+   "title": "China Moves to Seize 61,800 Bitcoin in $5.7B Fraud Case",
+   "outlets": 3,
+   "topics": [
+    "Bitcoin"
+   ],
+   "items": [
+    {
+     "title": "China Moves to Seize 61,800 Bitcoin in $5.7B Fraud Case",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OMGJpRnhnU2pIajJNb05waGFYeGFvaE8yLXQ5Qll3ZjAxbS1YSlR5dUJ5VkxyNENwN3RjMkpuTVFITFFnd0lKRXJHdEtHTUVaNjY1SjhDVTBFdy1ZZ3BqcTRrX3E2Q3R1N1FRZ0hlSFBleENCbWhwUWVSWEo2N2c?oc=5",
+     "source": "Yahoo! Finance Canada",
+     "type": "news",
+     "published": "2026-10-22T15:25:53+00:00"
+    },
+    {
+     "title": "China\u2019s Government Moves To Seize 61,800 Bitcoin",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmM5TzVtNzhIdXMyQ0xXSlEtMHFNNmxScER2QUJBQ1RVbEZkZnJ5OVhidjZOWDdmWU9wM0FyMlZfY1ZPdVM3bG1HTEZiUHVHUXFrVWVKblc4VjJHTjdMR1M5a01aNHRIdmIzU3ctSWtMRV9iVnhHM0NKMDJ4NkVINEVmdHhJa3FubTJLcXgxTDVxcTlaWFRsMnZkQUs?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-22T14:17:00+00:00"
+    },
+    {
+     "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+     "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-22T06:24:10+00:00"
+    }
+   ]
+  },
+  {
+   "title": "UK FCA consults on guidance for decentralised finance",
+   "outlets": 3,
+   "topics": [
+    "DEFI",
+    "FCA"
+   ],
+   "items": [
+    {
+     "title": "UK FCA consults on guidance for decentralised finance",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVC1Gcnc2STBUbU1LT0dhdlVJd3NMalZibWRsTkZDbzByMXpaY1hMeFU5MWhwN1kzVzF4MXlkVE93YUt2cFpYY3RyQ2ZBdVJUa2hRLTA5eFJLaXRKVlhuaEdGVzVIZDFheHNRNEFsTldfcWZacy00VDE0bFdldUVuMS03U2JoZkppUWdCUzhobXJTOGt1YzducTc2akFOaEw3bTVNa0kwc2QxdGozY0E?oc=5",
+     "source": "Linklaters",
+     "type": "news",
+     "published": "2026-10-22T13:54:55+00:00"
+    },
+    {
+     "title": "FCA Consults On Where New UK Crypto Rules Should And Should Not Apply",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2FFN19uREVsRS1qZ3RYSHlmR3hid0FNWUI0UzRFVGE4bWxiTDU3Z0Y5bG96M1pNWmJSNzRUZlFlUnp2QllQLWpxRWdkT1VYNTZXT1pyaEp6di1TeUh2S3c2UjJvQktCT3RkdnNmX1lHcEhtenhENjYyOU9Ca29sUnBRRC0xcENRN2RaN1hxZXRpWU9fckJrdGs0VDlXRlpmNEtJbUJLRUNfWTZsUTRjUUl6NjlOTnRMZGdBQTd6UXpWVkMwZlE?oc=5",
+     "source": "TradingView",
+     "type": "news",
+     "published": "2026-10-21T17:55:00+00:00"
+    },
+    {
+     "title": "FCA GC26/7: Decentralised finance guidance",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFZGT3U3Q0c2cXdNSm11c25XdGxNSU96UC10TmtNLThjR1pVbVU3aXVRVjY4VTRpcmZoSGJVUXlOaWc1NDFjUGJObzRNOG5oNmFVdjNDYUZhdXlhSXllWUR2SldGYkxKYWJ5SVZBcVlod2FTV0N3R19OSGhtcGFBWUExdVpxTENMcHNOUUxn?oc=5",
      "source": "Global Regulation Tomorrow",
      "type": "news",
      "published": "2026-10-21T16:01:08+00:00"
@@ -3293,219 +3362,40 @@
   }
  ],
  "events": [],
- "headlines_served": 5511,
+ "headlines_served": 5634,
  "trend_candidates": [
-  {
-   "key": "trump",
-   "term": "Trump",
-   "count": 5,
-   "sources": [
-    "Bitcoin Magazine",
-    "CoinDesk",
-    "Cointelegraph",
-    "MarketWatch",
-    "The Coast News"
-   ],
-   "baseline": 0.0,
-   "ratio": 5.0
-  },
   {
    "key": "robinhood",
    "term": "Robinhood",
-   "count": 5,
+   "count": 9,
    "sources": [
     "BeInCrypto",
     "Bitcoin Foundation",
-    "CoinDesk",
+    "Bitcoin Magazine",
     "CoinMarketCap",
-    "The Block"
+    "CryptoSlate",
+    "Investing.com",
+    "The Block",
+    "bloomingbit"
    ],
    "baseline": 0.0,
-   "ratio": 5.0
-  },
-  {
-   "key": "mica",
-   "term": "MiCA",
-   "count": 6,
-   "sources": [
-    "BigGo Finance",
-    "Cointelegraph",
-    "CryptoRank",
-    "CryptoTicker",
-    "Fincrime Central",
-    "NewsCord"
-   ],
-   "baseline": 0.29,
-   "ratio": 4.65
-  },
-  {
-   "key": "foundation",
-   "term": "Foundation",
-   "count": 7,
-   "sources": [
-    "BigGo Finance",
-    "Cointelegraph",
-    "CryptoRank",
-    "NewsCord",
-    "Stock Titan",
-    "TradingView"
-   ],
-   "baseline": 0.57,
-   "ratio": 4.47
+   "ratio": 9.0
   },
   {
    "key": "occ",
    "term": "OCC",
-   "count": 12,
+   "count": 7,
    "sources": [
-    "Americans for Financial Reform",
     "Banking Dive",
     "Cointelegraph",
-    "Decrypt",
-    "The Block",
-    "The Paypers",
-    "TradingView",
-    "VitalLaw.com",
-    "Yahoo Finance",
-    "tech-insider.org"
-   ],
-   "baseline": 1.79,
-   "ratio": 4.3
-  },
-  {
-   "key": "cardano",
-   "term": "Cardano",
-   "count": 6,
-   "sources": [
-    "BigGo Finance",
-    "Cointelegraph",
     "CryptoRank",
-    "NewsCord"
-   ],
-   "baseline": 0.46,
-   "ratio": 4.11
-  },
-  {
-   "key": "php",
-   "term": "PHP",
-   "count": 5,
-   "sources": [
-    "Cointelegraph",
-    "Decrypt",
-    "TradingView"
-   ],
-   "baseline": 0.28,
-   "ratio": 3.92
-  },
-  {
-   "key": "genius",
-   "term": "GENIUS",
-   "count": 14,
-   "sources": [
-    "Benzinga",
-    "Cointelegraph",
-    "Decrypt",
-    "KBRA",
-    "Office of the Comptroller of the Currency (OCC) (.gov)",
-    "The Paypers",
-    "TradingView",
-    "VitalLaw.com",
-    "Yahoo Finance",
-    "tech-insider.org"
-   ],
-   "baseline": 2.6,
-   "ratio": 3.89
-  },
-  {
-   "key": "occ finalizes",
-   "term": "OCC Finalizes",
-   "count": 6,
-   "sources": [
-    "Americans for Financial Reform",
-    "Cointelegraph",
-    "Decrypt",
-    "VitalLaw.com",
-    "Yahoo Finance",
-    "tech-insider.org"
-   ],
-   "baseline": 0.69,
-   "ratio": 3.55
-  },
-  {
-   "key": "tesla",
-   "term": "Tesla",
-   "count": 6,
-   "sources": [
-    "CoinDesk",
-    "Cointelegraph",
-    "Decrypt",
-    "MarketWatch",
-    "Yahoo Finance",
-    "Yahoo Finance UK"
-   ],
-   "baseline": 0.7,
-   "ratio": 3.52
-  },
-  {
-   "key": "finalizes genius",
-   "term": "Finalizes GENIUS",
-   "count": 5,
-   "sources": [
-    "Cointelegraph",
-    "Decrypt",
-    "VitalLaw.com",
-    "Yahoo Finance",
-    "tech-insider.org"
-   ],
-   "baseline": 0.55,
-   "ratio": 3.22
-  },
-  {
-   "key": "act",
-   "term": "Act",
-   "count": 13,
-   "sources": [
-    "Benzinga",
-    "Cointelegraph",
-    "Decrypt",
-    "KBRA",
-    "Office of the Comptroller of the Currency (OCC) (.gov)",
-    "The Paypers",
-    "TradingView",
-    "VitalLaw.com",
-    "Yahoo Finance",
-    "tech-insider.org"
-   ],
-   "baseline": 3.5,
-   "ratio": 2.89
-  },
-  {
-   "key": "financial",
-   "term": "Financial",
-   "count": 5,
-   "sources": [
-    "BitKE",
-    "Bitcoin Magazine",
-    "Cointelegraph",
-    "Law360",
-    "VitalLaw.com"
-   ],
-   "baseline": 0.78,
-   "ratio": 2.8
-  },
-  {
-   "key": "korea",
-   "term": "Korea",
-   "count": 5,
-   "sources": [
-    "Bitcoin Foundation",
-    "CoinDesk",
+    "PYMNTS.com",
+    "The American Action Forum",
     "The Block",
-    "markets.businessinsider.com",
-    "tech-insider.org"
+    "Yahoo Finance"
    ],
-   "baseline": 0.91,
-   "ratio": 2.61
+   "baseline": 1.73,
+   "ratio": 2.57
   }
  ],
  "baseline_days": 7,
