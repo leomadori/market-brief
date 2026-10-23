@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T11:05:19.942217+00:00",
+ "generated_at": "2026-10-23T16:00:53.433327+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 45
+   "item_count": 34
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 32
+   "item_count": 14
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 27
+   "item_count": 16
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 54
+   "item_count": 53
   },
   {
    "name": "DEFI",
@@ -71,7 +71,7 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 23
+   "item_count": 11
   },
   {
    "name": "HSBC",
@@ -80,9 +80,20 @@
     "HSBC"
    ],
    "first_seen": "2026-10-23",
-   "count": 8,
-   "ratio": 8.0,
-   "item_count": 22
+   "count": 11,
+   "ratio": 11.0,
+   "item_count": 11
+  },
+  {
+   "name": "Glamsterdam",
+   "kind": "trend",
+   "aliases": [
+    "Glamsterdam"
+   ],
+   "first_seen": "2026-10-23",
+   "count": 5,
+   "ratio": 5.0,
+   "item_count": 5
   },
   {
    "name": "SoFi Launches",
@@ -93,7 +104,7 @@
    "first_seen": "2026-10-23",
    "count": 7,
    "ratio": 4.68,
-   "item_count": 18
+   "item_count": 1
   },
   {
    "name": "Aggregator Hooks",
@@ -104,7 +115,7 @@
    "first_seen": "2026-10-23",
    "count": 5,
    "ratio": 3.34,
-   "item_count": 13
+   "item_count": 1
   },
   {
    "name": "Fireblocks",
@@ -115,7 +126,7 @@
    "first_seen": "2026-10-23",
    "count": 5,
    "ratio": 3.24,
-   "item_count": 24
+   "item_count": 1
   },
   {
    "name": "Robinhood",
@@ -126,7 +137,7 @@
    "first_seen": "2026-10-22",
    "count": 6,
    "ratio": 2.83,
-   "item_count": 24
+   "item_count": 1
   },
   {
    "name": "OCC Finalizes",
@@ -137,30 +148,525 @@
    "first_seen": "2026-10-21",
    "count": 8,
    "ratio": 5.01,
-   "item_count": 3
-  },
-  {
-   "name": "Trump",
-   "kind": "trend",
-   "aliases": [
-    "Trump"
-   ],
-   "first_seen": "2026-10-22",
-   "count": 5,
-   "ratio": 5.0,
-   "item_count": 24
+   "item_count": 1
   }
  ],
  "items": [
   {
-   "title": "XRPL Stablecoin Market Cap Drops Below $1 Billion After 13% Weekly Decline",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kZ1MxVGk4RzZuQnk4STFGTlpKMnNvTTVhODRVNlg3MGoxTE1FYUlNY3NhR0FOcVhLRjM4Q2NlSGFyY0IxNEwyYWdCbUVEVGxTS1NMMWg1N2dpQQ?oc=5",
-   "source": "Cryptonews.net",
+   "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+   "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+   "source": "Decrypt",
    "type": "news",
-   "published": "2026-10-23T10:59:35+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
+   "published": "2026-10-23T15:50:41+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Cryptocurrencies Price Prediction: Bitcoin, XRP & Ethereum \u2013 American Wrap 23 October",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSGNlb3RtRHU4YTVMVmxOdFVkWGh5UWxxSUR1NEJnRkxNTW5hRWd0MXM2MWh1VHVfcVBRajZaVVVkeVdIN0tHaUs4UW52QlBJTUZCdkFPaXBwQ1dxYkxyTmFjbU1PZ3hHTjVJdGhqQzlhay01bUVkQUdkdUJkNnlNQXRRaGZfRzlPVERCemdjWmthekY2SUJiY2J0eV9GSEYyUzU0VF9NTm5OdnpuMFBaUG1mUlV3eUhUel9SYXRyRWJWd3dPZHl1Ui1JWTQwY2szZ1prYmR3?oc=5",
+   "source": "FXStreet",
+   "type": "news",
+   "published": "2026-10-23T15:45:32+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+   "url": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-23T15:40:05+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+   "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-23T15:39:17+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin ETFs See Outflows Return As Market Volatility Worsens",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUtndm9KZzVuV3k3RDBuel9kdEZ1Vm84TmpXUV90TVExRGxHZ29xYU5xdE1zUURxVnNvMk5wTnk4UjN4b3ZuSEx0RHowZTVWLWlKN2cyVG1Ka09ZdHFRdUxDX09xWEdCdFBhLVhld0lYWlBfd3pQU1llSHRWX2MzQU0ySDZndWp2RjEyMEdjMm1tNFhDLWtNNHZHNFBFUQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-23T14:47:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Stablecoins causing bank deposit flight is 'mathematically not possible' says CEO | CoinDesk Videos",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDNmdW9FZzlxemF6c3dKQmdwWGt5MzBjZHBpNGU5QmZuNWVRd1ZTaHh0SjJvZnJWMnJIbmt2V3dCZktQOFNOUi1MMWRUeWhjQndYbTdwVlJWRnY1Z2tURWp0Mml2cldaUG13SVNvWFI4RlZ2U1hGSS12MTJOUVZYMWZ6dmg4NVpWcDJWSlEzUnp2ekMyRHpwendGNmc1RHRaQ3Z1ZFRXeEdQS3BPN2VV?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-23T14:45:41+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
     "Stablecoin"
+   ]
+  },
+  {
+   "title": "British Bank HSBC Launches Stablecoin",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU25MU3BxbVhOaERCX0dPQ2g4cldIVU83dEIwbUViazhSbURWZnZQTmlCU2ZsRUo2UzY0UFZzNXJxYS11MmZLcTNxUGUwclpGUkRPUWhzaU9sOEJXTEpEQ2d6enBvREhtV0dYeUtpblR3Yno3TnBDalc5UDdYSElUQ2VPMDhqTHlUU004OG9Ccl92TEYxeVZ0SV92UU1vWjUxd2NjbA?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-23T14:45:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin",
+    "HSBC"
+   ]
+  },
+  {
+   "title": "HSBC Begins Rolling Out RedCoin Stablecoin to PayMe App Users in Hong Kong",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUJVb0F5RVB5MFJzaUZNa1RhUFlBMEZFaTNfazA3VU05SlNMenpQR1A3MlQzY0c1aTZHa2xMcmUteHRQTHNER1VsNzVQUjFKSW9Icl9SSzd0ek9YUE1VNlBxLTJyeVkxbzF5Mk1yV0tweWtlTUN1Q1hlWENWWDdNYi1qQVBNNEpYR1M2UWRFdkp1SVR4TGdRNHI0RmpQNndqRDhmM2tjbFV5U1pWaWd4Ykg3bw?oc=5",
+   "source": "Northeast Times",
+   "type": "news",
+   "published": "2026-10-23T14:44:23+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin",
+    "HSBC"
+   ]
+  },
+  {
+   "title": "OCC Finalizes GENIUS Act Rules for Payment Stablecoin Issuers",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbVExelloM3kzLTR0RGlsbkFZS0Jhd0VCandCN2I1OGd0cFI4Y2czVXhoVHV5R2hoazUwZ2xkaV9VS3V4OGpNLWFONXI0OTBUd1djcUhpOWxZQzhROEtneGhvOUtJT3VfMWNERWdmVVRHcEw3dFpScnlVTjAwdGpGUDJBWQ?oc=5",
+   "source": "JD Supra",
+   "type": "news",
+   "published": "2026-10-23T14:14:49+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin",
+    "OCC Finalizes"
+   ]
+  },
+  {
+   "title": "Bank Of Korea Moves To Regulate Stablecoins Under Forex Law",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wcTRNdnBIdEZrLXcxQlNLT3VtX0VrT3YwT1RWZ1ZHQnh5THVpRFZJd2xpaUNRQlJ6cHN4VGNUcTRKMzFKbDJoWUJfaVJtUGcxSkpTTUlSMk02b2poc0xoemZ0dUpqRVBtcGU2UmN4eEF2bnVQ?oc=5",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-23T14:03:56+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
+   "url": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-23T14:01:41+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin's $80,000 recovery faces liquidity questions as Binance's Tether flows swing $14 billion",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzdLRU43dU9kbU9VVklFQm0yQzRITVlSZFZETXVEMkNqZE5mVHB2bXJHRVlDdEU1MEpjRlk3aWtFdzNOMDVpWWpIMGpuaGR0VUJXdU9lZG1iazVvSUgwc0J2eVZFZk5jaEZxdTFGS1FQdkxiQUY5NDNnYmhvZlJQcjYyOXdnU3N3WWlMRmprdHgzNEM5ajAtVzBSeEkxTzBjNDd3SG03R2NPT1ZmXzU4YmJzSnRrTkU?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-10-23T14:00:15+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Why Bitcoin's Next Big Opportunity Could Be Earning Yield Without Selling",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTi1rNEpSNzZqbFBFUnpTY2xvanVvbm1OOFBjQW1zWTZuWDBRVjFuX2lXcXR5cEpaWVRCLWN4NnNxRG1xYU1zeHNqbmFuN3QzRUxCdzdzWEp0OHV2dFg1bGJkNHZOanNLbzM2OFNiSzVvZ2l1T3h6SXFoSFRSWlJ2TU5QOTAtUm8?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-23T13:52:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "SoFi Launches Yield-Bearing Tokenized Bank Deposit With Stablecoin Conversion",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbmV5a0o1ek9ubU04Wk4yZk1mVVpyYzZkcXUyZ1hKa0RWM2lwYUpNRXdkQmhmVDNLWE9JdmszNHNTdkEtRkJGZEh6MUZ3QnFSZkl3RkpGZjBPd1BHSEZlWUotZEpmdkMzUDR1Mm13T0ZfdnlPOEYySnZnSzRGb0lQVTNhaVA4Y3lSSXdUZmRlRk5GcE8zbzR6cXk2T0ZrbUdJTFBRNDRLYzRPSU9nOXZ4ZmlOdFUyUW5iS1Y1My1NOFFxWWJYVUswTjB0enRYS21y?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-23T13:45:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin",
+    "RWA",
+    "SoFi Launches"
+   ]
+  },
+  {
+   "title": "Bitcoin (BTC) 15-Min Prediction: Live Odds, Kalshi vs Polymarket",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Eai15Yjl3cUNyRVd0NXBwakg0ejhpaEQyLUxyQjJwY2FiQjV4OFllZTZPSkI5SXkzYUE3bkE4UDZPM0lPSVJacQ?oc=5",
+   "source": "DeFi Rate",
+   "type": "news",
+   "published": "2026-10-23T13:33:00+00:00",
+   "first_seen": "2026-10-22T06:00:05.634439+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ethereum Delays Test Of Glamsterdam Upgrade",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTJwN2hIMTJlaE9XLVdhYkgwTUJnQzRhdGlkcnZXNFpWV2ZlcXFGNVpucWJaVWdCNDFLWmVXMGUtTTZxVFNyOTJWQUtZMTIzVXkxOHI0ci1BeUtvakRzeU5Oai0zc3hKODM4anBudFNsd1NDX3E2QTlpQVpnWktzbHVOMjFrbXpndXM5QzV5ZGRDQUVURG1yRG1zcw?oc=5",
+   "source": "Yahoo Tech",
+   "type": "news",
+   "published": "2026-10-23T13:29:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Ethereum",
+    "Glamsterdam"
+   ]
+  },
+  {
+   "title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
+   "url": "https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-23T13:28:16+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto Price Analysis Oct-23: ETH, XRP, ADA, BNB, and HYPE",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaGxJc0RyU3FjVnllbkU5enY0N0p4cW5ZcVpuM0ZTSEh5bVFjOU82b18xVWNOU0p3a3ZsdlZNc2VpQVVOQjh4bll2dG9HSlZJQnFuX19wQkluS19Za3UwU0IxMDFURW5fZ3hwdURVZUdRaFNGbWgySk1FWElmUV83djM2dHdkUQ?oc=5",
+   "source": "CryptoPotato",
+   "type": "news",
+   "published": "2026-10-23T13:27:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Block Releases THE Bitcoin National Ad Campaign",
+   "url": "https://bitcoinmagazine.com/videos/block-releases-the-bitcoin-national-ad-campaign",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-23T13:21:52+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bloomberg\u2019s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+   "url": "https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-23T13:18:04+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "UNI price rebounds as Uniswap launches Aggregator Hooks \u2013 Is $8 next?",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHBYRFduTTBZd1FkYUV5eHdfWktpaTFBZkV0ei1xdzJVdDU1WTRQTFpMNnQwUV9xNm41MkZIczFfWWcwUDJHdzdpUkNmUXRvTTAyVWZ1MWI0MmFacWRqME1hRUtyalJfQTZ3X1NJLWZZNWw2cWFCZTh1LUllTDVjS2pvd1lwNFBQZDNtaDVpRUJjZw?oc=5",
+   "source": "AMBCrypto",
+   "type": "news",
+   "published": "2026-10-23T13:00:21+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "DEFI",
+    "Aggregator Hooks"
+   ]
+  },
+  {
+   "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+   "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-10-23T12:55:26+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Uniswap adds seven trading sources as 0x disputes its protection from malicious hooks",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGZaNEZBb2Q3QlhxSDlUWVRnME5wbVFTVXFrNk83TVQ5MnNjZnl1bXd2ZmcwVDUxaDJLU3JfZmVwNXhmakZ3bWRqMnkxanQ0NVBfTDNkTjA5SzZBeEh3Q3lJQnVwLXJ1N2JPS0ROWHlNUER0WncyLUM3MF9tQ3YtVkd3czU0ZmtLWjVjejFaUU16TWRMOFVadmktYjl3QjFQVHRueG82c0tMMnBiYU5J?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-10-23T12:50:52+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "What\u2019s Next for Bitcoin? WisdomTree\u2019s Take on Risks, Regulation, and Investing",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemg4djNHYm5KVGlvc082U1ZieVl2MGxKb0pwVXkxTHNlUmhxcEZHZWFaNmVJc2JDN1dzSzJXWnZlaGFTUFlZV0RweTdhLXF1Z3JFb2M0cVFUUE5ZUVBMcGhKMEwyR0FFOVdfQjg4RWF5Sy1JQ0dpZklXLVFfU3hma0lIREp3STBqcHdYMzg3NXkwVi1pby1oMFBseVNHQXhzMlE5RjhSdWxTd3M?oc=5",
+   "source": "Morningstar",
+   "type": "news",
+   "published": "2026-10-23T12:41:29+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "What is Tether (USDT)? The stablecoin explained",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xc0lRTDZ2TDFIWFB4MmZJLWxVbVFybFJ4SmFCNlVHWnp2MEVfS0U3YVJDeEhYSEJ0UU9YNHJWYUd4SDJHQ2ZJSERrZmxXd2RjZlNuOTdqZHZTSjNZNjhIQlFobVZPVDBiNWlnNk5kMlJqOVNkaXVN?oc=5",
+   "source": "CryptoTicker",
+   "type": "news",
+   "published": "2026-10-23T12:35:28+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Europe's First Spot Bitcoin ETF Clears Swiss Regulator",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2hYcGdwdS1sMXVrbEwteHR4SDFCV2hwVzV5Uk55cVczdjNWUVozSUMxNXlDclhiU2MtbkE3LVdzN0ZLc0g1WFpQYzdfQ0QzNUg4bml3MkN1R2NVUk9fVkIyQXEzME5HOXVDSkFMaFdKTmZra2VKQXRsZzF0MzJBRlpqODRncHJVbWRrY21DNzQ0MnBJX2Uw?oc=5",
+   "source": "FinanceX Magazine",
+   "type": "news",
+   "published": "2026-10-23T12:27:59+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+   "url": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-23T12:23:58+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Holds $80K - What Could Spark a Breakout?",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2h4UVhJcDhKenl1VUIxX09iTWgxb3dpR0dQRk9ScDlIUG1JNVJFRkloV0ZiNzFBelJTVWFOVXlGQzJocVJTWG1TRkZtdk5aZnU1TGFzS19oZnIzUk1oblB6ZVlZVDhLR2s1MFBNZzNRU2dnTEpnenlSWVU2VWVBZ0NtNVFIZ3BUcjA4dFcycUx4aGdVbUE?oc=5",
+   "source": "Investing.com",
+   "type": "news",
+   "published": "2026-10-23T12:22:30+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "House of Doge Accelerates Expansion Into Tokenized Yield Vaults With Acquisition from McQueen Labs, Targeting Multibillion-Dollar Tokenized Asset Market",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOSnJDcVpPUFZqMUVXVnVXOW4xT1hTeTRMZU4tdEdXaEZpdXBlam1QS3RaVnFLSFlpOXFzUWI2ajE1V2JlNXlKOWpDSGlIVW1YY2NpQ2ZQemYtZjd2QkRNdUcxc0xwMGZNLXI5aHdpWGdQRk10ZkJxY3N0LWhHNTN3SUlOQi1DRzk5eXRrdXNSOS1ES3FFdXM5WjB6RFdlX09RelFsaDVQeDJnZHoyNlhRNjQ4bHhLTVc4RGlRVHNlUDROV1p3SEpJblJUZVFQOTVaaTY4RlhIU2NEMUdvR1FWczBXVFpPV0ExUFZlZUpjcFJkRG52RmZJVVdYSVZ0SURFUk1VNHc1SVZEZmJiOUQ5QVVHUm96eEJ1d1QzTThxMDZYTHp6NjhiaWlVLU5sbW1qZlI4?oc=5",
+   "source": "FinancialContent",
+   "type": "news",
+   "published": "2026-10-23T12:20:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-23T12:03:53+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "BTC news: Bitcoin will now stop hiding bugs an AI can find in one prompt",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWNKNWJQTlMzN2M3V1hlREZvZTFyVVZkcVN0WEJVdjZrbS1DYUFUUWIzN3Y0TFU1Z3JiMU1pTXA2elpoRVRoU251dG1YRW9DWEdnOXRRSndoenlTNUhZQmlnZHlxQ2kyTnVGTVU5QW5fNFRCMjJ0THQzRDF0bVlHbGc5REZ1Z2c5VXJKTTNjeTVMbmdiMXlOSmw0ZXo2NnpGN3lBaXJR?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-23T12:03:53+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Stablecoin Payments Hit $482B as Visa, Mastercard Scale",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa3g0bER6Z293TFBGNTFLS3NES1RMbFlnRWlZb1JqTFdTT3Bnc0ktX0lFQkVFbjhSVnVSMVc4Y19wMmRoUmVoOVNId2duWDdZeWNOaGZrM0NpaXRheURSTW04aWRTdXMxY2hoRlM1NF9PclJDUC1ZT1FUZ0k3N3hSVkc0NlFxb01SUnE4enJKMVlpaWU0NHJqUDNsdXNURnNjY1lNNHFjM1dVcExZT05VeWQ5ZnVGbTlQdHJfRnVQRjJfdlp5OHdUSlUzTERmUm03?oc=5",
+   "source": "FinanceX Magazine",
+   "type": "news",
+   "published": "2026-10-23T12:00:11+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "DeFi Capital Markets, Inc. Estimates \u2013 AMEX:DCM",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xSUI2VGphY2QyYUFhNG1DdjRRbjBoZlhGNFZzdEFwbC04UEdyOXJ4eV8yaXYtS0FMM0p3NzVIUlVndlZVYkw0QTAyZWctbGdjRTdmUzJHZ3pDSHFidGJBX3ZjT3JxUzR1eUZiNURrbUNSbFFp?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-23T11:51:48+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+   "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-10-23T11:49:37+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Ethereum",
+    "Glamsterdam"
+   ]
+  },
+  {
+   "title": "Current price of Bitcoin for Oct. 23, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4blhzWGdOeXlGSUFHRG0ybXQ3UGlPUk9POVpMU201ajcxTmltaDBrOU5RQ0daSkhRY2NxdERCUG9ZTFZPY3J5SGd5X1NoU09CSWNDbzlobkhVS2V2RVV3UGc5d1ExMkU?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-10-23T11:47:50+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Current price of Ethereum for Oct. 23, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-10-23T11:47:46+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day\u2019s inflows",
+   "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-10-23T11:39:45+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Euronet and Fireblocks add stablecoin cards",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPby16VTQ3VG5PQUoxcFFPUm9nSFpUNFdIbU5GbFFPMUpzVTlNTW1CS2dCTGNKWEZ4d3NoT190UVZwTGgtczJTYUxEcVl4NVRhWEZ5ZHp2YWFYUDI5Zm56UU80Z0piSkNjMkhZeDZhb2tJejFVQUprWnM3R3J2eUo2QlljWUJPRGViMTMxdTducE1PNnVlb0hsTEsxX1dGS3NiWUhSSVdHNVVTTGlfWEs4RE9OMXU2NjJh?oc=5",
+   "source": "The Paypers",
+   "type": "news",
+   "published": "2026-10-23T11:38:38+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin",
+    "Fireblocks"
+   ]
+  },
+  {
+   "title": "Stablecoins are essential to the health of the federal balance sheet",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVB3TzVnUFRfbmxIYUpjSnNHYWFVR0JUXy1FbHJpRXA0NWJYR2hDYVhGdllQcEdMUlRYblh1YnF3UF9rdXpodUQ2UUtnMVFWOGFRdkVtX293WlM2X0xkbHZJbzJHbHhPcXNySnd6TUFYNlFOZU9QeEZfZ2xBMXRqZzdRMlNuRDQ3aEtpUEJIdjM3eFBDNmVwMVRyNU9GbUxhY3FWeWo0Q1RnYWpnUm1ZZWdCSHRkRHM?oc=5",
+   "source": "American Banker",
+   "type": "news",
+   "published": "2026-10-23T11:30:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin (BTC) price volatility is well above euro-dollar's, though it has calmed down: Crypto Daily",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVjFtdDZHclBEYnpfRHpjSnppYjRFZ2ZwV1hXdk1UaEFKQWdiWUd2X2xaWnhRSnRZdTEzNTdHRWxkRmpCak1CeGNpWEsweWkwOWVaa0J4a25nQk1YOWs2SlpnVWZ4ZTh2dGdJVFV1X2k0SHFPYzlIT3NVY21fVmpWc1RzUTlINERfWERoVGNlVzRHcmpOZmZreUdRNG51OHMwaGY3WVRKdlRabDB6V2p5RmFBdHpLamF0RXlXc3JYMmE2OXNxQ2thamY0eC1oamFFaXJKU05uZmpEN21JT0E?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-23T11:25:09+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-23T11:22:33+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin's volatility is well above euro-dollar gyrations, though it has calmed to rival Nvidia's",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRkhNMW01RS1OdmJZQUlSRkZtQzFnZEIwR1cyekJlYXhZelFxZERsNkd5cVVqVGUzVGdscThsUEZDNXVOSXItbmhMU3RNa3k1MjdrTHZuempTdEZkVWtwZU9JaEhWZDFzX1dYYmlENDIyczdjOUZ0b0ZJd3V3QVdIbnZrZXNQdjRVaTJHNTF4MEYyVU9wWkRRNnNtSXVPcExsZ2lwcUJfcFJfZFltRVEwRVA0bl94MnViR2Fiamd2cHNFMWRsVWNod3RlbW9URjdBaGdQdDBXRVRjUQ?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-23T11:22:33+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Malaysia, Thailand Join Singapore to Expand Cross-Border Stablecoin Payments",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemJiMUF6ZGhoNEpKaWptRXdzSkZwNTFEUzFkOEdnSUd2TGtsdTNfdWFPSTdabjVsSEFxUS1Xd2VqelBxNmxpdDdvN1ZvUDN5cDRjZm45TDRJYk95TzV4SnFQc2RqbVRvRUVkTWFKd0RURUJ3UHc5elB2ZUZUNjV1aE9WRWRVUEw4OVJGQVp5bXNtcGJNZXF1d2hSN0FpWnJiMFRLVW1R0gGrAUFVX3lxTFBXclRVQmRfQkVuQVNvbG01V0NYc1dZUEdaUHNkaGpNTDBsckJ1SEJLVW5QeFVBSFVWYWpCRWhSZFg4WHctbDloOGxhdmtzdEI0OGNvX3NLV1BKdTVHUzRBVVlIZEVILWRyVERxUDE2eVZKMW9MZDBLMFd2QzQ2U3FFdXBwTnNxZHk1R2U2T00zZWlZQmpuVVdodk9UVjJoZml0TmR1d0lhVmwzUQ?oc=5",
+   "source": "Coinpedia",
+   "type": "news",
+   "published": "2026-10-23T11:22:02+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+   "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-23T11:13:01+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Solidgate Wins MiCA CASP Licence for Its Own Stablecoin Rails",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjZheW1WLURvdXp1NmFWRlF0WF9icHpXZTE4YWRScnNnYmlvQjBHVGo4WWlXMzVjSnJsSXhIQkdFRjQwM0tFYjA2R3ZrSWlxOEFESVFoUW5fd2hWV2hqdzRPaUdFZXlYRjB0OHE1TFU0MS1KRlB5ZlpCNXVCVnUzSEE1dncxSk1JMi1LWDh2NERGb19fVzVvY3g1bEdhdFpn?oc=5",
+   "source": "FinanceX Magazine",
+   "type": "news",
+   "published": "2026-10-23T11:01:54+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitget Advances Its Institutional RWA Strategy With Super Match",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjNlNnBVNnR6X1BJeWtsV1dmSjgtMDR2dWx3c2FuT0Zhem1WbjBGeFhEY1hfak5YSlNiNXpGak9WSTA3MlVLMXkyNHdjNFk3T2R1cGZNV0xjQlNONDdlaTc3dEZMR2E5RmFhQmp3N2V0YTZ0UzEzRExTa1RRTjhVY3JtcnVOTUQyNjBaQjF3dHlZVm1TYzUyVkdUcw?oc=5",
+   "source": "Cointribune",
+   "type": "news",
+   "published": "2026-10-23T11:00:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -168,7 +674,7 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VeXQ3N0FrNlhZclRjM20yXzJJOFdxT09NMXg0SU1BWUlPTy1ZTWJkR0lfLVQ3NFBBMWZLb2tFRWY0NnVmM1dWS3VlWVhZT2E4NmRaUWRkQXNWY0FrUDh6UnNEc0dQaldIV3E0aXRFSTExdw?oc=5",
    "source": "Markets Media",
    "type": "news",
-   "published": "2026-10-23T10:57:38+00:00",
+   "published": "2026-10-23T10:57:30+00:00",
    "first_seen": "2026-10-23T11:05:19.942217+00:00",
    "topics": [
     "Stablecoin",
@@ -254,15 +760,36 @@
    ]
   },
   {
-   "title": "HSBC Launches RedCoin HKD Stablecoin for Retail Users via PayMe App",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nNnYyMUhIcVIwd2pUTENRYnlnOXFndkhGdVFYQktSdllxblpDa09BY00xRmxqU0VBM284WDJsMFNfWjVDSTlrM3ZxT0tsbG81cVlSNVZzRzhGalJJZU52VXBiTVhtTlNNZ2p0ZFZxTml0OWRsRjd4Z3B3?oc=5",
-   "source": "Crypto Economy",
+   "title": "Bitcoin Will Hit $43M, Famed Influencer Says, as JPMorgan Issues Post-CLARITY Act Warning",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHloUDlnb3F2TXgwa0ExUVpXdmUwYmIzYUFrUl81NGhyOGpWaEhBT3ZleVhCLWpYbi1oeU5JbEZ5cVVjVnhzVE1iV3dVTm8zLU0xLXYzQVp4ZGVBaTM3dW9USWw5YldRQjlyd2xlQVNSY1hUcFFHSHlQYng5ZEJIVjZXcTZjeXFVTWd3UUdYQmpoOTk4bkFMLUhVdlA4dw?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
    "published": "2026-10-23T10:32:15+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
-    "Stablecoin",
-    "HSBC"
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Magma Finance vs Competitors: Which DeFi Platform is Right for You?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0dDWm1BMzJIUms0UHZOdXZiU2FkZVM3RTAxY1g1SGJkZUZRWU1YbGVRODJlOEczd3o4amhtdmZPSjVaM3VWS0JoQXZ6QVZPclNQSk1wdnExYldBVXB2Z0E4QUtlVnVFekVOemowcUNCTE9vdW9OSE42R2ZjLXZ1VDFHYjlYYWtRNDl1cXlOREQ?oc=5",
+   "source": "OneBullEx",
+   "type": "news",
+   "published": "2026-10-23T10:25:14+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Magma Finance Optimizes DeFi Liquidity Through Automated Market-Making Technology",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13TlBsb3pRWXYwcG1id1lremNvWmxsTXd3a0dETUpsdF94WWlkT0NmUVliOXJtZ0Z0RjdGM1lwa1lpbVN0MHlob2NVZTNjM3NmTnpyYV8zOVl1a1I0UHhOcnNyNVF1X25zYk10THFZQWNyRVFN?oc=5",
+   "source": "OneBullEx",
+   "type": "news",
+   "published": "2026-10-23T10:25:14+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "DEFI"
    ]
   },
   {
@@ -291,11 +818,11 @@
   },
   {
    "title": "The Softened Moat: OCC Drops the Enforcement Tooth Behind Stablecoin Yield Ban",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXd6R0xNM3cxTVB4WS1DRWZHa2l6VXByUDBRdmhmaUlLODNIVUlzcGZOLXA4NG5qeHlqZ3U5MlRJVEZoaUtQNkl6YVJQRVM3REozc0g5YmJJSlFwYjh0cDIyeGVNUnZBWnRJSWNBN1ZNS3dnUVlvZWF6Nk5Rd18zUXNxSUVMY1Q3M0VCZWhYUnJfQWxkNUdQQ2poVXRkcFBN?oc=5",
-   "source": "Forkast News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWEdXZjFyWDU3QWFac045R18xd0k0YndwVnhoTFR3YVFnV0tKT2d3V1loTEFDbGJJdEFwRVlEZ1VRaVlxTnltbVQ4MmlVQzFjT2taUXpZb2tiWlVWbmI0WEZWQ2NuaG9vaUlVSXJPTXZJU0ZqVUh0V09SQzVTLUlWYUp2QVlTZEpnR3loTkRTUWhaNlkxVGpFYWp2SW5DV1pqc0E?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
    "published": "2026-10-23T10:15:06+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
     "Stablecoin"
    ]
@@ -312,24 +839,15 @@
    ]
   },
   {
-   "title": "Bitcoin Pioneer Adam Back Expands in Switzerland",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkZyektnSUp1UDhuLUp1OU83a0JibFo3M3d1dGM0ME8wd2dqZWtmczlnTFQ1cW1jUHQyUDA1d1IxTHl6VHZPV01SQnpFSWRmaVhySTlQRENodjZWRml0RVMweVNDOHFRblk3X3VKdlFYQnlONHgwRTJIZmNqS3A0T2xHdnRUMl9pSmJGQW15aUhsSVgtXzZNRUVLZUY1R0N1MC1hSkVFaTFOb1BsVlF6eTkyblFNWjZDTGc?oc=5",
-   "source": "finews.com",
+   "title": "HSBC Launches RedCoin Stablecoin and Plans to Let Customers Buy Tokenized Funds With It",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSG9PelFfZjZadjhWN19yRXJkZXhsVW1icHpQZS1sRFVXalhwdW40WnF6ZDZSTVdra0RIa3lvNENMSlFHZnRIS2ZfSHFHRWZfYWlBRVNxVVRFcnJkbThYcGZWb21COWk3TDQ0NXlZTFVBM0NzVHNyYjM1ZlN6WnQ2eUEzeWM3VHB6djlkRFQ2QUk0OVF6V2RvWjljNkl3dzNpbVEzVWE4UExCNkdWLUtsTTFjNFNEMG8?oc=5",
+   "source": "unchainedcrypto.com",
    "type": "news",
-   "published": "2026-10-23T10:07:29+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
+   "published": "2026-10-23T10:00:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "HSBC RedCoin Goes Live on PayMe for 3.3 Million Hong Kong Users",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGZUN3Bfd3BxdDFQejdZTmtXSDFHQVRzbDhDV0trdWtpTDdGd0t5SHBBUnNpMXZwOURHemM1elJoVHRrSEg4OUNuR1VLTVNPNUZIdk5ZTmxZTkJvRmhfWnp4WmdneENId3hPZXRNcEZuRWNfRjFRSVNtb0JoX0dhVEFFS2dQX0JqanRrZjhoeGJ3cEpmZ2tPWHlraklDNzVhVk9rQkVPMmJRTmVRZWc?oc=5",
-   "source": "Disruption Banking",
-   "type": "news",
-   "published": "2026-10-23T10:00:19+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
+    "Stablecoin",
+    "RWA",
     "HSBC"
    ]
   },
@@ -356,6 +874,17 @@
    ]
   },
   {
+   "title": "JPMorgan Solana Push Brings MONY and JLTXX Into Tokenized Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQalZTUjViSE9NSUpuVy01Wk9JbnRmeUI3S01FRnN0VTZxWE80bk9nRlR5NDlXeGlxWmpRVFNKd19JMnVEN0t0MURUU04yMDFwWDBXRHVqSkJYVmloYTlseHIycVV6R1kxRUFENENPei1nQTR4QURwX241UzI3eUtzbzZWTUZoNi1pUWl4dnRqRXBHVUs2WkdzV3gxVUxqQQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-23T09:52:17+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
    "title": "Ethereum Funding Rate Today: Live ETH Perp Rates by Exchange",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hLVhPdFFDbWIxRkxKNWR3U2hMTHZDQjhMSzhqeXViY2lHOFFRYVdSNlJSLWx1eG1oMmJoQ2sxYlpHVFh3Ylp4RW9mZUQ?oc=5",
    "source": "DeFi Rate",
@@ -378,17 +907,6 @@
    ]
   },
   {
-   "title": "SoFi Launches SOFIE, a Bank-Issued Token Paying 4.40% APY",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90NTJQUlRiSWlnUUgyMEZyLVVFT2tCRWpZZ2pfeEUzbE5VZWZWMlBfamExanFNUkdwc25sQk1Na0l1eEJrV1NjMThFeVhCMl9qRER0TVlBMEdkTnUtNDJCalVTdk5LWGQwMWNN?oc=5",
-   "source": "www.techi.com",
-   "type": "news",
-   "published": "2026-10-23T09:44:16+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "SoFi Launches"
-   ]
-  },
-  {
    "title": "Raffles Family Office is building a wealth manager for Asia\u2019s stablecoin billionaires",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rVC1YMWs0ZzdLZ2ZSc3ZrS08weU1CS1Vnd3o2NUJ4dTBhVUp2Sm9NUWhSWlVKWHVVTXEwd1ZFNTBzUXRLUUFVQW1wUDFGZC1ZQ1liNVJYcHBkQTk5ZVlFNXRJd29ZV1hVRnlieFNsMVBIWS04QURNTjNadk8?oc=5",
    "source": "Fortune",
@@ -400,25 +918,14 @@
    ]
   },
   {
-   "title": "Lawsuit Against Donald Trump Over UAE Crypto Deals",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQnhMYUN5dndVTS1jc05abDNOeF9wRlNDTWREMVRsUVFtc2tmaGpYLXJBX0FDUkUwdjVfLTA2OXlqVkpSanZaSzNWa29EQzhSalk0MVRVQTQ3a3lJQ0JLZ05VZDY5azJWZ2g0MXJCR0Q2OE8wZElZWjZ2aTNlNTNNWFpmNVI1cTR2Wl9ZVWRQQmNIUzdXVFV5VVFYTlJqRDhYSlVWWVpUX0ZlUnpWSVBDSV9SUkd4UFo4Y3VQM2dn?oc=5",
-   "source": "Bitcoin Foundation",
+   "title": "Tokenized Stock Volume Surges 415% to $29.5B in 30 Days",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVlnR0xLVWtDdnR2bnh4N1hPLWRUTWh1YXJkSlo4X3Vnenc2YVBDUkVvR1FmOGZSQ3MwUllHNkVhWDdLQWhZS05VYWJ3UUkwbkNHZ0U4ZEx2VThZNFV6MHVIUWFMQTRBc2tEdDY0elFZQ3FNWXlXRGtSdTJwa1Q2LWRTaEZDaWhTNnhkSVVPUmVOeExvZ2M3VDViUG5pSzJq?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-10-23T09:38:53+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
+   "published": "2026-10-23T09:27:56+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Bitcoin Could Be Hacked and Fall to Zero, Warns Chamath Palihapitiya",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmY4WDRPNWdMVUdYaFpqdUp5WGR4MG41R21tblR4M3RLOEc4OWdPZXdYdUt1ckM2YTJvc2JVRDZPWHE1YTN1aEVJaGQyaGRyYVV0cUhYTm5BOXBWeE9xOWtUampvemJidVM3anptbGtTQWtrMWhmZC1ndno0a0NxbW9YMkhXOGhCb0hpOEpxOTM4cnRYSm52VlRmdHktYUJjX1RoUnpRMmg?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-23T09:23:25+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Bitcoin"
+    "RWA"
    ]
   },
   {
@@ -455,14 +962,14 @@
    ]
   },
   {
-   "title": "China Wants $5.1B in Bitcoin, Now HSBC Is Launching RedCoin in Hong Kong",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUdnYU5vajZwcVJwWUdRaEFKbU15bTFabzB3Y3NpbVJyaTJVUHQ4TkxlTGJkVzZTMnNPTElXcHZYVFVqRVRJOHNybVV3dUtqamVzRVV5UmVRVVJycmNKUkJ4RUZldHZCcTBSUXVJU2JSakdKY0V3U2lWQkJ6MDc5cWhZcmxYYmsxY2U2SE5qd2JjbE5uWUdhZnFyem9zVjE1dTdYTVRUMzVqbW9iVkVCbg?oc=5",
-   "source": "99Bitcoins",
+   "title": "HSBC Has Launched the RedCoin Stablecoin for 3.3 Million Users in Hong Kong",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORk95d0lWWm03alJQeDZYRmdDcjY5YXhfeEkyQXF6ZHM5NUNrWlFNaWptVFNlVkFnc21HaktqT18zUjBNc1hjc3prTXB4MXllTjJyWjl1VWRzalB5c3VOWDZWTkNEZlg3U2VtU3lONGlYUklSZkJOVk5BTlUyREExN3UwLXpULXRwSXdhR3NES0tjSlFHYTF0TnNydGNLYVlrUWow?oc=5",
+   "source": "Incrypted",
    "type": "news",
-   "published": "2026-10-23T09:09:22+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
+   "published": "2026-10-23T09:06:56+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
-    "Bitcoin",
+    "Stablecoin",
     "HSBC"
    ]
   },
@@ -498,17 +1005,6 @@
    "topics": [
     "Stablecoin",
     "HSBC"
-   ]
-  },
-  {
-   "title": "Bitcoin: All Eyes on the Next Move",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXVwellFdnRQb0g5Vm5hYzNNQXZKc3BOQUdQUUc5Z0pSdGRPR2xkMUdwS1lYNE9QeTFYR0F2eERTVTl6MjFxa1p0ZFNFYVQwWnE2emtUMWY4d3JiekNJZDEwVnZ2aWJSUk15UEpqR2xVT2tKZHJJVi0xa1N4dXZ0dmRpaEU?oc=5",
-   "source": "Investing.com",
-   "type": "news",
-   "published": "2026-10-23T08:43:46+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -553,30 +1049,8 @@
    "published": "2026-10-23T08:13:41+00:00",
    "first_seen": "2026-10-23T11:05:19.942217+00:00",
    "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Best Altcoin to Buy? Injective\u2019s Korean Stablecoin Plans Put INJ, TIA and $33M Remittix in the Utility Race",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdGVOZ0ZjYkRwSWd6MnhNUVRoSE5jdXJwZlZfa0tWQnBKWWhZR1JmUS1MSi1ESzh4VXdIbEoycnRhdTRmZkZRTlRpSm1sQjRqVTlGb0VNNGpYTkJCTjdNZGJ5VE4wdkhGWkFLdGJIcTZtc2Utd2dPV09MUFIxQzdncW1wd1Y2MW1FbW5nazJuNVZTYURkYXZ1YnZzVXAxQkdsOGFkX1NaNTJlMDc5TXpSaTJzMGdxOUQ4WXVBOGExMEpIUDBFOXhTTUtQTm5BaWJHcENycndURk5tMDFWeXdVQ0MwTkJlVjhSLWdVcmFuQktEUjdnUkNidXV6TW1qRGNJellGMjdSVHU5QQ?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-23T08:06:08+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "HSBC RedCoin (RCHKD) HKD Stablecoin Launches on PayMe",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOW1scVh0V0x5WUUtMkIwVTlaZy1Ud0NoRi1FSFMtZkNuZUlWVS03a0QyT1BzNHJoVVZNaFRVQlJXOGJpc0VwNDFod21QXzFEQUJnejg3d1JDVjUxVzE2VzZKY2t4dWJFUVE5Z0ZTc1pMcG5jZzVCMEVMOG95WkdDS0tuWmd6UTJGQXhlUA?oc=5",
-   "source": "Altcoin Buzz",
-   "type": "news",
-   "published": "2026-10-23T07:56:15+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin",
-    "HSBC"
+    "Ethereum",
+    "Glamsterdam"
    ]
   },
   {
@@ -587,29 +1061,6 @@
    "published": "2026-10-23T07:49:00+00:00",
    "first_seen": "2026-10-19T06:01:59.844938+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "$57.8 Billion Inflows: Is the Bitcoin Super Cycle a Trap?",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUIwVWVjN2trSlVIVWRha0tCWmRaQmgyc3hpcG4ya2dZdFBMSmU3ODNsX0M5ZlRCd1lvRFVqQjF0REF3NERqRG0yTDlLcnFYSkh6a0l6ZkpLMGlJQndsSWl6Tlp2NGtNZHpubVBlTEpRTWduOEhmUHZTX0p3YXZuY2RWUWNSbEVvM18xTlVlckhWNjZCRHVYMw?oc=5",
-   "source": "Moomoo",
-   "type": "news",
-   "published": "2026-10-23T07:39:38+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Avalanche, Chainlink or Remittix? Best Crypto to Buy Now as Schwab Offers Direct Bitcoin and Ether Trading",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdHZsbU1ON3JXSVRzUVMzcTF2aGJJdVNIQ2d4Nk9JUGVwWXlnNzdlWk9TT2E5dkp1U0N0V3VkUEd4aks4XzJfYzN5MHE1c2hkYVZxNXJ0WklQQnhGNnF0M1FJTWhYS1RPN0xrdzVIUEl5NHVlV3BiU2dqbWNVcXNWQloxNVhEV2xjN2c4aTFfeld6QUpJd05TTGFmTUd6RDRmbHFJVGpqZ2VSRFJxVnVRdlRTUnQ3c1RwQ2pjTzR0Zl81MnUyX0dweUs1RXRET0tYcmwwSnVzQmVGc05lejFmM0JqVmJGRE8xYlVsS3F3Q2tVcm0wU0VUSURBQQ?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-23T07:38:53+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Ethereum",
     "Bitcoin"
    ]
   },
@@ -626,12 +1077,12 @@
    ]
   },
   {
-   "title": "Bitcoin slips below $82k as tech rout, rising oil dent risk",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd19YOFY0VXdnYmYyamE1ckpqVjRPUjRqalgyOEtFX1Z0TGp5T2t2TGVVTWQ0d0g2eUhpNXktUTlFVkVvNE5lT2ZfOE5TVER3dWNmUUlLUkdpUEJaZzFoNWUxaXFTTUEyUnZYUEI5dzZFQWUtZ1M4SUh5bEdaTF8zUVZoOFpfRU5waUc5YzNrZjhvbDNfX3RhRlFVR1RaLXkzRlpXUzRkdDdubXZ5LXRGUVNDMS1NWHc?oc=5",
-   "source": "Investing.com",
+   "title": "Bitcoin Price Bull Case Faces One Big Historical Caveat",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHFCSEVKazEya3dmUUlMaENHakstU2xtUnRSYjh5cUtMRmdYcTlwZXZOWkFSUUJtSEZHZUpwdmtGQ3NseGxEWkhiR0pKS2tyRUtGd3YwRVpQcFZDaUtSSVh4QnlZM0dJaWNQU1VucW5JMXlZUGxDOUJnVjNSYmU1QU5OUmVqTjFZMXdYN2lPOWExQ0E1cm5JVA?oc=5",
+   "source": "CryptoRank",
    "type": "news",
-   "published": "2026-10-23T07:19:01+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
+   "published": "2026-10-23T07:21:24+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -670,41 +1121,6 @@
    ]
   },
   {
-   "title": "HSBC Launches RedCoin Stablecoin for 3.3M PayMe Users",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMk9FdDhWaU9CN0FPSVlENTZBbFNUWnl4YjJyZnlQQ2lzLXE3Ri1MVUkwc2VjQl9LTkNfQTFDTkZPM2lNR2JTaFpmVVJWd3diQW1VaFZLZ2MzOTRiZEtPankwSWU2LTJ5Nmh4MmprTGdIS1NoSnVUZnJJUHZ6b19Ub25zZ1UteFZFRTVFZ0dDR3l2ZmRKeWVz?oc=5",
-   "source": "The Crypto Times",
-   "type": "news",
-   "published": "2026-10-23T07:05:36+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin",
-    "HSBC"
-   ]
-  },
-  {
-   "title": "HSBC Rolls Out HKD RedCoin Stablecoin to 3.3M PayMe Users Starting Today",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGdkNlFoR3U1MlRHME8wTnY5cnNkXzctWndaZ21SZldmTFlFRGNsclMxejBaenFQbGRFNlBYVWtZcktjUTJKTWxjUl9OQXhTRnJqdG5UVUpZM090ekdORWtWY3ltdGZUeW0tU2hzM1pNLXFqVHFxSmJoVEpHYlc0bEp5UFpwYnhEQmExcmxWS1g1aXNBek1tUXFn?oc=5",
-   "source": "CoinGape",
-   "type": "news",
-   "published": "2026-10-23T06:45:48+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin",
-    "HSBC"
-   ]
-  },
-  {
-   "title": "Ethereum Delays Glamsterdam Hoodi Fork as Developers Test EIP-8037",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelNpT3FJaHd4N1RKdDRiOHhHY1l2Y1p0d3dOc0NaSVU1Q3dma25WOFVQak05VDNxWUN5LUZLSlBkQnM3Y3ZIREtlZzNybjVJVUR0eTB1MHVPUFNEb05vUktXU3BxZm5ZT2RCZ21pWE5CZG5UWHl0U045dTRmYkZtZHJuY0VzYkU1c1ZXT0tDMTMzTFMxRjNZ?oc=5",
-   "source": "CryptoPotato",
-   "type": "news",
-   "published": "2026-10-23T06:20:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "This Top Investment Strategist Thinks a Bitcoin Supercycle Is Coming Soon. Here's Why He's Wrong.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkp5OXNfMHFLUU9oSFlYT3RxZnJHX1VxTjZfOUw1X2pxcERqV2JSVUZMbDR3MzBnd04yVDNQOEtSbGo3RmRpSXFFLXhrR0E1N1ZwNzhwN09BUFFKakw2NG00QjZLN0pJSGtzU0Noc3pzUDBXOWVfLUs3Zi1kalBWNV9BZmZJRlgwTy1PMHVpazVCek9Qb19PRHcyQy1oRVlRZDZLX3lTV1g?oc=5",
    "source": "Yahoo Finance",
@@ -716,37 +1132,14 @@
    ]
   },
   {
-   "title": "Bitcoin price $81,568 after $431m liquidations",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaWNBeXpmRzZuNDVpeWdneWcyRnFjWWtodjlaY1llbmpUSlFfX0loWFZpQVFlcGZLUk8tVnZWTjZ6M1paemtjZDZoSFdBdUdURzcxdnM1ZFg4S3hEa3hUY0dSZVU3ajRIQU4ya2hCSFVnX0kxdjduRUlTWkcxbFdIOEtLa3NzQkVibUE?oc=5",
-   "source": "CryptoTicker",
+   "title": "LG CNS Joins Forces with Chainlink to Secure Global Network for Stablecoins, Token Securities",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yQ3ZEUGFMV1pKZ0dpOXo0Nnp5bnBZVUdiQm5fLUE2d3JwdmpZSG5GOXFuSkhmXy1zXzNwTmdFc2NGVjJwMFphNU9Ka2daOHJhRnF4bl9UOHp3N214RE1Qano1eXFoWjRBcUxwc3JGcXRxZDFDSVE?oc=5",
+   "source": "BigGo Finance",
    "type": "news",
-   "published": "2026-10-23T06:15:51+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
+   "published": "2026-10-23T05:55:00+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "HSBC\u2019s RedCoin stablecoin launch targets 3.3 million eligible PayMe users",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GZUg0MVY3YVEySHB3SWJGZHYxWnN6NC1YT1pwelN6WmtnQlhZS3NDUGlUWC1WYnpVbXFnMXhENUlLTHpJNGhaVGgxMVFFRmhMT3RVVXhKVWdpcUZjYU0xenk1YXBua3FPcFFxME41al9JR3lvRWc2OA?oc=5",
-   "source": "The Cryptonomist",
-   "type": "news",
-   "published": "2026-10-23T06:12:25+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin",
-    "HSBC"
-   ]
-  },
-  {
-   "title": "Fireblocks reportedly denies reports of USD 2.5 bln acquisition by Visa",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX29BNDN6Wm1iSlJlZ21GZDI3LWF4RXV2QXp1eXpwd1hIdzlCZTRsOFNkeHZZZ2ZpRXZUX2x6dld2RFItLV80by10dmZERXk4ZXJadkVSWW1TT0g4b3NNXzh1dkZCTVo2TlJtZ1VGRDFtQWhRZ2dfNnJOOHczcW5JekhMWVlhMHpmcHdyUFFCU2FBMzJCS0oyYzBWV180NDQ3ZUtMakFFT21VX1IwNW96RUlCaUxkWG84QXNDeUltVmlrNDhjNkRwb1gwQl9qTE0?oc=5",
-   "source": "The Paypers",
-   "type": "news",
-   "published": "2026-10-23T05:58:34+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
+    "Stablecoin"
    ]
   },
   {
@@ -759,17 +1152,6 @@
    "topics": [
     "RWA",
     "Ethereum"
-   ]
-  },
-  {
-   "title": "Bitcoin ETF Holders Pull $635 Million Before Price Even Hits Their Usual Breaking Point",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnQ2RHlyWGNhZ0UycmZlU0x4NWdLMy1WUFF5QndPX0Y1OWNrd21KbXBWSmZaQ0pIOXlJS0hjLUlIUGx3RkVIRkJHMmp2R2JGS3RINV9PbGVpRUpfalNhVGdabC1iSkc1QURuOExfOFFpOXZYZ3hPbWNCQVlfTFpnd2JjVFpGeHpjZk53MHVsUnVyYkg5bERxZg?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-23T05:25:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -795,17 +1177,6 @@
    ]
   },
   {
-   "title": "What\u2019s Next for Bitcoin? WisdomTree\u2019s Take on Risks, Regulation, and Investing",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3B0dVBtLXBhT1lJbHpWcG5IUXluZktWZ2xNQjVYU1ZpNWVTcWs0Zjl6WDkybmhiM19OUDg1b2gxUHBBemdsT0hKQ0w0cXdaazhPbG5uem9FalRVTHNBN0FpVnc3dGtIeGk3SUs1dGlzMUNmNGpOMDhSOWlqRHRsZmhZMk1qa08zbU1sb3o5Ri1QNG8zcjZiMmRUQUpIUGVhWUViZWZxb3prY1E?oc=5",
-   "source": "Morningstar",
-   "type": "news",
-   "published": "2026-10-23T05:18:29+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
    "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -813,30 +1184,8 @@
    "published": "2026-10-23T05:09:41+00:00",
    "first_seen": "2026-10-23T06:16:59.412296+00:00",
    "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUo3dGtrWEhvN2ZCR3ZDNm1qeUtOMDFqdXkwQkpReW41d3hWRkNzTDI5ZTk1bGpEdGJqVDNYSGhZbXh1X3E1cHp3MmIzLUtaZmtUSW12QWk5ZTRqSDNScTZxM19DdlhqMlRVb1lmYTFDR1duZUlNc3lMNG1GejM1Y1BHTVRxbWtmLV9FZkYtWUZnUQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "type": "news",
-   "published": "2026-10-23T05:09:39+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Uniswap v4 Launches Aggregator Hooks: Aggregates Competitor Liquidity, External Routing Protocol Fees Fully Allocated t\u2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEaEVkd1ZlRldnYkMwNGpRUlU5QWF5V3Njanl3UUpCVmt6N0FvQm9KLXY3SmVwZ2NNZW1waEdqQlM3MXdfVWVlQlZHNTk5bnI0a1lxUUItaS1CaU9H?oc=5",
-   "source": "\u6df1\u6f6eTechFlow",
-   "type": "news",
-   "published": "2026-10-23T05:07:59+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "DEFI",
-    "Aggregator Hooks"
+    "Ethereum",
+    "Glamsterdam"
    ]
   },
   {
@@ -847,7 +1196,8 @@
    "published": "2026-10-23T04:59:34+00:00",
    "first_seen": "2026-10-23T06:16:59.412296+00:00",
    "topics": [
-    "Ethereum"
+    "Ethereum",
+    "Glamsterdam"
    ]
   },
   {
@@ -869,30 +1219,6 @@
    "published": "2026-10-23T04:27:48+00:00",
    "first_seen": "2026-10-23T11:05:19.942217+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "HSBC launches first Hong Kong dollar-pegged stablecoin",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNC1oY0FwbFZKSFFBeXFrcWVNWFhIMzNta3FUUFRqeGtqbjZjWHFBVVhGWG15QmFJTVp6UlFqNmtCSlRTOVhESzctcThTNHhHb0t0WXNYdlp6ZDE5a3JwazZoZFhHU1dFMjQtQ0YteGlwSDVzMS1HSl83UnZLMEJuMl94cDVOaW8yVloyaWZEZ1NJUjJyc1NlYjJnclc?oc=5",
-   "source": "Traders Union",
-   "type": "news",
-   "published": "2026-10-23T04:09:26+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin",
-    "HSBC"
-   ]
-  },
-  {
-   "title": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP rebound as major support levels cap recent sell-off",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQlNoWE5rUWc2SXRnN1o0ZjNVWF83MGdWbmxqUmIwcVFOVDFJTEEyTjB5WWcwRGh2NXpqYUd4NER1blU3eWVUbjJ0RGQxc2JqalFvWS1TbE04LVZJWkpfZ3l3d01vNVAxV1NVekNBUnZOOUdBLW44N21iX2EyaVJZZk1xbE5fYW5Ec09mcm45c0E5WDhneXBGN3I0WFk0Q0JLV0E2SlVzYmdCRzMxSWR1RXMxeHVrc0xLQ0YxRENQVy1seWpJTE13UVc2U3Z3a0ZrU0tNVGZLaUFyTjU0dHN3dHI4dHV5MkdFeDh6ZkRSRTVEbjRwYVJsQkpnY0V3VGc4cWp2Y3JB?oc=5",
-   "source": "FXStreet",
-   "type": "news",
-   "published": "2026-10-23T04:06:32+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Ethereum",
     "Bitcoin"
    ]
   },
@@ -920,18 +1246,6 @@
    ]
   },
   {
-   "title": "HSBC\u2019s RedCoin stablecoin goes live in Hong Kong: what the launch answers, and what it still doesn\u2019t",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkZhTXFwTFByMThsNXZfSHFDc2ZJam14dWNpUFIweWJEZWZudmFLVFJYMUdOQUp2RWt0TFRrOExETzhWWjV4Y1RGd0l0d3V6REd4TTRna0YxeWZOS1J5cEhCaWtnVXZVZTZoYllDbVBHcU10b0ZmNlB0dnF6VDhkNEt6SXRkcmp6RDM2Q0NkX09ibDg4R2lVbHYtd01tTlo2eXVuVTJ3U29CQXBiV2pIWjZnZlp0eXVaekM3bF9CLUt1UlAzNHBiXzhhczFWRXYtRWlVcTM2bw?oc=5",
-   "source": "investingLive",
-   "type": "news",
-   "published": "2026-10-23T04:00:13+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin",
-    "HSBC"
-   ]
-  },
-  {
    "title": "Uniswap expands trading routes, bringing outside swaps into UNI burns",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX29YSmhkSW51c2g3ZGlSZ1VGUUVEdmQ2U1l1TnB4QzA5Y0JkTWltamxadDU0ZVdDbzdsUnZQRU9MaXBiTUR1YjVrVlc0OHBaLWl4aU5TbnVZZTJMQUtfc0FMRi1iZm5uUzJnUlNJRVhHZS01VHprekdZeHNFZ0RhalIwSjRTcW9hM2tqQWZiZ1JHZ2ZLdWc?oc=5",
    "source": "AMBCrypto",
@@ -943,29 +1257,6 @@
    ]
   },
   {
-   "title": "Elizabeth Warren Says \u2018Nobody Can Seem to Explain\u2019 What Trump\u2019s War With Iran Accomplished as Crypto Bett",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXRsU0hEcTNxblpWczdmN2lJSk1mck44YTZGSUpMTlpqMVA4bTVGNXI0Zl9XMnBNLVM1UkJpRmNMYUpLWWY5MUhxMXRrd2l1T3RXb3lhZWtVeGljMExFS1p3QWpSbEl5Mk1feHN1U2NTM24tX1VxWkk4X1pVb0NXTmFaZHczSkx5VFZUN0JnWVRLcnhYRFRrV2lqSjJUZUNmVmo4bjBLNm9pUTJZWlkwSmVBT0tjZS1NN1VVTm1GdU1Hd0E?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-23T03:27:19+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Uniswap Labs Launches v4 Aggregator Hooks on Three Networks",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JOUhWOXktMUV0NVNYZlNYM2RRSUZ3U2Y2WHJkNTdSZ3NPUGpmTERuNndsWVkzb0p3QThSVFVzbFVSTGxPa2ZqSEE5d2hGOFg1MWQ4MFJSYzdnMmc?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-10-23T03:14:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "DEFI",
-    "Aggregator Hooks"
-   ]
-  },
-  {
    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
    "source": "CoinDesk",
@@ -974,39 +1265,6 @@
    "first_seen": "2026-10-23T06:16:59.412296+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Visa\u2019s Fireblocks Rumor and What It Means for Crypto Banking",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UOFJBd0UxRzItN1g2NlRFVmc0dmo5aU8zUHdySDhiT1NSbzlfOXowSkYzdG1fam01ZlVMM085N2RlTGZ2Z1c0U0VFMzRQM0JCb1dGRUtEWG9WQkEzV0loWTAxR3l4ckF0M3pPVWlhSGNiZEVEMmRaLQ?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-10-23T03:08:26+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "UNI Volatility Explained: Macro Risk, Aggregator Hooks, CME Futures",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxNWJONmZPaVRKNXVCRExRMmVWbDlvemxwV2RUTzZhZGxVbVZWNHpfV2pBci1mYUduc0FfN2tPS3Uyd3VoOFhNMWxORE9yN25RMTkwMHVCOUl2Yk43eEpCRUcyUERzRGhYU25oejFvejY?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-23T03:04:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Aggregator Hooks"
-   ]
-  },
-  {
-   "title": "Tata Group Stock to Buy for an Upside Potential of 51%; Recommended by HSBC Securities",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzkwOHpiSWtiekVoZENBU29XYm0ySTRFeFBoRnVKaDFKeS1pUndPQ29jQkh0MW5peHFFclJiTXhoZ2dpRXpZMnY3TExMMlFtd0N5X2RlQllmajJRWm0yejFSZ1hBZHJMcTh2eGtkc3E1R2JrNXQ0WDVKRHQybURRNUVTMzR5V0tyalNSUnhsUVl6d1NmOWpLQnJVVThRYzJIUG40S2U2bGt3XzdlQ0dGVDZXQWRDMWJvWFI4NklwWDRwTFlsWkwyclFrVQ?oc=5",
-   "source": "Trade Brains",
-   "type": "news",
-   "published": "2026-10-23T03:00:37+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "HSBC"
    ]
   },
   {
@@ -1032,51 +1290,6 @@
    ]
   },
   {
-   "title": "HSBC, Standard Chartered Face Cost Test as Rates, Wealth Support Earnings",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUxMQ1lXWGk1T2tiRlIza0Z0SzMtWEdrTjU0RVN5aDlCaFF5Rzc0UkJXUy0wWk0wRHRtVGEtWmwyMEI4VDR0VDEtVGpQeDY3a0NyV015bThHUTA5azlqeUNoVUE5VmtJcEJoaXdocFZjaVdDbUhMTjVmd0hCZUxkWWkzTGJlOEo2Rko4eDIwdGlQaFJvSUcwanNzdjgtNjZCYy01MHd4eXI0dnluMVdsQm5rSkhxaVJqME1oLTcwSQ?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-10-23T02:19:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
-   "title": "Robinhood Markets, Inc. (HOOD) Stock Forecasts",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVFvZFpQM2FNYVdvT3BSVDA2Z2VDTFVtdVgyQTlzSEJrTU0xMkhfWTYwUENsVUstRnQ1SjdPbUJmMEFmd2E1NUh6STVmU0JVdmY0Vkt1M0plaDdsQWhMYi1HbEZHWDM1QkRnSjBRTExBc2E0eFdkdk9sRV95bUNKVXNNNnpuNHdKUHZmamdZb28?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "type": "news",
-   "published": "2026-10-23T01:41:36+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "SpaceX + Tesla \u201cSuper Merger\u201d Could Create a 30,221 BTC Corporate Giant",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVNCUWphZERTSUlTeFJTUmk2bzBiSFZLdHcweEtpWlNxRVl2YnhmdFNMclJiMHA2Q2pLaGcwNkN0R0UxaXZ4WElJNkZhaTNZUkxVX09QQkJyUldtUm1CVW53NlQ0RlNfUHVGNEU1cHhoTDRqRTNGeDM1TVBVY1ZoRGFNT2JHRVFudkhYenF1UWhaUUozeVhReFNWTHgzcDUtUVNXZUF6SQ?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-23T01:24:35+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "OCC Finalizes Stablecoin Regulation: What Changes",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RSm5Lek0zSTNQYzhXNS1uRkVQZ3JVZWtrdy00Q29JckhZazJwQ2FadGdsSXlBT3lkVHR3Umg3aTE1dWVPa3N1M19zUVlMRFFhTFdkOE05T0w1QUsxSnJJRWdGVkxLUlBiZENHX0JrOEdJdEw1VGdjWGM0bmJHcUk?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-10-23T01:04:27+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC Finalizes"
-   ]
-  },
-  {
    "title": "Switzerland\u2019s first retail spot Bitcoin ETF targets November launch",
    "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -1088,100 +1301,11 @@
    ]
   },
   {
-   "title": "Trump discusses administration\u2019s crackdown on cybercrime at roundtable",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYy1mYThjWnJYbklodFZyazlJeTAxUkVXMUNNOHRUM3RzZkhOSFNXdDNWdzVIaS1EYUZzVnV3bFRhSGQyNVl2Q3lvN3FKVnhGcmxfdTVHLUtqSmFWX2dWMUQySmVPdXZJZU5xeXFUb1RZRDhnZ0sxSjZyWG4zeGJzYmp5UXRNZVNVYlJSWGc4eWRUSjVoMUlvZS0tZVFfV1A2bWRYeQ?oc=5",
-   "source": "Straight Arrow",
-   "type": "news",
-   "published": "2026-10-23T00:49:57+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
    "title": "Uniswap Swap Costs: What Reduces Your Output and What Is Paid Separately",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRFZZeUhwdVdUeDdXVmpzOHRvbGZvblAzUUZhcW5YR0pYc0Y0Mjlib3J2Q2k3ajRWRHBCeVdIUnNIaUpNTDhHU2doaWx6dlZYZmllSF9ud1hxUEpyeWF1aU1kNnptOUw1Y0s1S0FLWjM4aVFubnliS0k4YTBIbmNURWQxSVhWQXZvNWJkd2xPVkptOVAyRUVISnBrNDM1Y0RCbVM3UEtn?oc=5",
    "source": "The Defiant",
    "type": "news",
-   "published": "2026-10-23T00:20:18+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDc2LWh0YVp5QUNpUFQ5WkJzRS1NTThLalRldlhwekhVcDBGUTc4YkRyWXVNN3BDUVJkQU9OdTJMWmV5VlJXNDFPVkJObTBlbUgxaW1PWTBqbWdWYkZMMFptV244SXhwSmFFRW10dlNOYy1wSHpCc2xSdEJJQUlTMVdRb05seTJCakNJczF0YXppU1RGbkJ2LVFQN2tXWVpjY1pR?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-23T00:20:16+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Robinhood vs. Securitize: Stock Token Access Compared",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkxJV2g5aHgtU2RtbXFPTUdDYnZ4NlZ1T3VqbE1lYzZ4TVJub3RHSUdmdDlZa25GN2ZFMWJDeTFjTnZsdzFCRW94a0o5amVXbzl4ZUg4UTVEOGlJRmYzSWpLejFWU1c3XzhQY2VSNzR0UzA0aHRRZUh5VWxTRGI2QWE1NjRZYkpmQWpULThCNWJ1VDRWSW9LRFBHQzJRdw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-23T00:15:17+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Trump Humiliated in Bombshell Crypto Lawsuit",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yLVE5ZUVVZExOM1U5RE5jVnlfakZsMUtoeUxubGRIRTREd01yZ2RLTXVzWXhOVnh0b3dlWThXTHJxbTNQUFU2V05nQlV2eWZEbzM0X1NRYlNKVnNkZ2JnMXcyTW1BZDFaYmk3NUZzYUFubDlNVm9ySDJxcEtkZVU?oc=5",
-   "source": "The Daily Beast",
-   "type": "news",
-   "published": "2026-10-23T00:14:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "World in Brief: Tech stocks wobble; Trump says Starlink restored for Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTjJYSEREcXNHWGRkdWNjWXhxOWs2UE82dGZTXzF2ajg5akFEaGZqTVR1R0VKa2t2WGd6WUhGUXF5b1pyenpQWkRXdHY3VDgtcFRTa2I5UFR2QkZYYlU0dEZsLVNMZk9yd1pMRjkwcUhzNjgxNktnd1dBMzg5dnpRZFZvb1o0LTdyWjEtVG55b3pTNFpVR3hn?oc=5",
-   "source": "The Economist",
-   "type": "news",
-   "published": "2026-10-23T00:00:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Robinhood Markets (NASDAQ:HOOD) Stock Price Down 5.2% - What's Next?",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMktBZ1k2VDNKdkljaUFmMHhpYUFqM2lJX0JVdERfQWlwYWRzMGs3RzJ4QkFQNDVMTW9ZUUpwamtuU2J1WjVINnkzbTlETFJ3QWdrd0M3YVNjck9iVWxTZTJrV2ZjSzVBeHhrYmIwRHRndVNUZFJYRFVGb05kV01WZnoydWxuNm1HSHpRWGpjQ3IyeXMyaWQ1X1ZkOWRQTjdJZV90d1VhelY3UG5DSVdSMV9LY1o4NC1RMnEtbg?oc=5",
-   "source": "MarketBeat",
-   "type": "news",
-   "published": "2026-10-22T23:51:56+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Circle shareholder sues Trump over $2 billion in UAE-linked crypto deals",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDTTFNYkxpRXRWZ09zUlB5clJmWTZmb1ltWVpiM0Ffd0lTSWdZNHh0WWhNaXNLLVgzOUdjQ3V2TTJHbC1Sd3lNOFNHdWY0b0U3VHhPWkV3bDdxUWJoWnVlbmplT2FKelB3R2N4TzllMmd6QXJLbmJVY3V2ZzFmQQ?oc=5",
-   "source": "Quartz",
-   "type": "news",
-   "published": "2026-10-22T23:41:35+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "BNB News: Binance Wallet\u2019s New DeFi API Covers 10 EVM Chains as Remittix Plans 41 More Fiat Currencies",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSXd5Tmd4b1dSSDYwV3hWLUVONUpPTjdEZzBqYU5FbnppR2R4UHVNZElNOUNESXg0S0ItakZaY19HTEtaNzBhSGZuR2ZkUjlOMWFvb1p6T0dkZXhjWmppeG9KbjJKWGFNcmlSUjZrNnBaQ1hhSnFvb2lZOG5Za3BxTkxtcFVOZzdLQkg3WURaNm9yVmJVdHBtbUtvb3doWDBLZU1ucHBtS0lKU28xazZFNjdkNnRnbXlYaEJDT29UTFI2YUNYd0pxNWxkdktSbC1PRDBLdEhhNFhRMHhjWmRUWlRncWlpLU9mQm50d0NqWGlkMFNNbGc4R1pveENwcDdpdUE?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-22T23:37:35+00:00",
+   "published": "2026-10-22T23:20:12+00:00",
    "first_seen": "2026-10-23T06:16:59.412296+00:00",
    "topics": [
     "DEFI"
@@ -1200,28 +1324,6 @@
    ]
   },
   {
-   "title": "Trump and Crypto Firm Sued for Profiting From Foreign Government",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGxaUlpKOWZLdHc2YWVuMEJxc0FieDd4cDVWX0sweDJQUzhnQ2Y4Mng1MkdtaW15UE4tMXZxWDR3OW5HWUVpZ1RKQzZYdHVTUDJJcXl4MVRoc1BvTERtZXExOW82MEktblNtdnprbTNOa2FKelJIMV9qUTZnZ1ZQVmsyMVNST0J0XzZQbFEwTlZpM09VckljRWpsZnZWcjZTUGlZVFRtNFlLVEQySFZ0bWtqVTV0Zw?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-10-22T22:51:57+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Trump, Crypto Firm Sued for Profiting Off Foreign Government (2)",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUNKa042bUVGVEI2N0VDNmQ5enBSU2ZWUzNMakg1X0dUSXBjVFMtQmhXZmdPRjZ5NFVEaXh1RXdLemJ4ZlZDaTVYcTNvbFVWLUZyajZOUE53TWJCN2pteXVTMUVibkJaa2QtNVR3NVZBLTJfbUNhb1dGYkVRcTN1d21raFcxcDZmejI3SVdCWGx1TV9GYkVPR1I4clFtNDF6emlF?oc=5",
-   "source": "Bloomberg Law News",
-   "type": "news",
-   "published": "2026-10-22T22:51:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
    "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
    "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
    "source": "CoinDesk",
@@ -1230,28 +1332,6 @@
    "first_seen": "2026-10-23T06:16:59.412296+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Trump faces federal lawsuit over his questionable cryptocurrency empire",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzJ1YWcyT2FvZ3VIWXdhdjVObS03MjJEa1EtQTlXWi1GNUhFXzdTMlJ4MUl5OElQcWd6a1lIbFpNTnhidGIyMU96bEJoR1VodXlTUlB5c1NPeU1FdWxCMms0WWdJSVQ4dFh3aWJyWTBZa0lYSURiMXAya0htX2lpb0txdzRtMXZWS2dybGNTUUgtNUJvemY1U0Z0MDVScU9SaU5n?oc=5",
-   "source": "MS NOW",
-   "type": "news",
-   "published": "2026-10-22T22:23:01+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Fireblocks Denies Visa Deal Rumors After $2.5B Buyout Report",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHJaNVYxd2hYS0s1R1pxVW9oZEhiUGxJdnV4S19DLUZ3RDZsbVViOGVVV0oxWW5nXzdJQksycWU5Mk41UXpNajBQbTd6c1h0dkFLVml4YjM1WENqdnFORlBOYlk0bTkwbVJnTF9rS3pUMEp4eFNWaTdSTnhma2JXdUNfOW9FekxLeXV0Rm5KUG1HbXlONkdOZw?oc=5",
-   "source": "Bitcoin News",
-   "type": "news",
-   "published": "2026-10-22T22:20:24+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
    ]
   },
   {
@@ -1266,50 +1346,6 @@
    ]
   },
   {
-   "title": "HSBC: Gold no short-term hedge for stocks, but three forces keep long-term case intact",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTh3bkduRUpWZVE3bmdTU1dhOE5lakdzRlRVVkV5b0JjWHRwMm13VjdQUElvZ25ja2RWVEs5MVpMR3BHVXIyWE43UEc0V2lGV1RfTFBnN0h2RWF1d1Vyc2tCc1c5a0FjMVlYV29OdXl0YUE5R2E2a2Vib2k4b2M4Tk5xWmt2TjgzdzhadFlLd2NLbXdRQ1J4V1I5MXNIMFRPZ0cxeHBJbFZxdnpQUDNrWEI0UUpEMDF5NjZ6ZjJ4Y3E?oc=5",
-   "source": "investingLive",
-   "type": "news",
-   "published": "2026-10-22T22:05:21+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
-   "title": "LayerZero (ZRO) Drops 9.14% Amid DeFi Risk-Off Day",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10TlJQa0RrZGlkZk5LQXJCS1VZV0JJaGJ1R25YYkNaMXBZNTlNNGhhNTh3QlQ2MVdYNURiUV9UdktURnpkMFoxVl8zZ3ItcWR0WWFRcXhadUVlX25EMXN6TnV4UTE0S2s0V3NNYTJlUmY?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-22T22:04:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-   "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-22T21:39:18+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtRWszSkFOZEpkbWJ0ekJkVEFNaWlEWkN4Vm1oa3ZJLVl2V3R0elRNMGR3dmF5VEI0TDc4a2pGWFhMOEMyT01fRTJTVENBa0ZHSUc5OVEybmhURzNCYnRGeTJsNGlFRFR0QVpVb0JhTmhKX2vSAXhBVV95cUxQQmZpdVFYR1BvQVNmZWpOdV9tek91QTAyYkxCRFcxclJ4SlF5SGtyM0Q1VWsyWEpTZF80WTNzNk4tWHhQWXRfZG5tMmM1Tjc5czEtbGRwemdyX3o1TG9lQjFmMGtsYVN6UENpMWNkRTlqbXZrSGZCVkM?oc=5",
-   "source": "CNBC",
-   "type": "news",
-   "published": "2026-10-22T21:37:31+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
    "title": "Can Uniswap (UNI) Get Back to $10 After a 21% Monthly Drop?",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUpSVXFYckpEMUdNZzFPbDJ2V3pxdXFuR09EZ2QwcS0xaWNPV2RnamI4VTN4U2tQNHFneUpUN1hzMDdCZkhuVk9sWUJ5VnUwbG0yREhtbU56OXUwM3NnRXBSTjk2Xzd6VkgxTkMwbk1PQjlRTXZXaE1GaC1INEhxTkZlbUhFNk9fOHhsUXBwczU?oc=5",
    "source": "Yahoo Finance",
@@ -1318,28 +1354,6 @@
    "first_seen": "2026-10-23T06:16:59.412296+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals",
-   "url": "https://bitcoinmagazine.com/news/trump-sued-for-alleged-crypto-corruption",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-22T21:23:58+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Democrats Demand \u201cUnredacted Log\u201d of Attendees at $TRUMP Meme Coin Dinner",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLU1Md25TTXFaOVZTR3gySEpRWTVxMm1RZ2w2Wkp0NUlJbmlWTmpwNHF0anFtcEJRc21qS1lWREkwTXZRTjNYR0ZQc1lrbFUybkpGYnByLVhleDZLVGZCTThwWmE1MjZRZWJVclBmMTFGbDlPRDZ4ZFBXei1MNWczcA?oc=5",
-   "source": "Mother Jones",
-   "type": "news",
-   "published": "2026-10-22T21:21:08+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
    ]
   },
   {
@@ -1354,81 +1368,14 @@
    ]
   },
   {
-   "title": "Trump vows crypto scam crackdown then gets hit with lawsuit",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXzNaeEJlcTE2YnR1Y2N1VUlSTUpYSXB3emtvZEVDQ0NqTE9PbnhDSFlORm5yVExqYjdoQmpBNnFwOEViVEVFNG1HUUFTb1oxTlFBam9US3NmNUlicjZjb01lQldleHlYdzRGeEQxeW0xTFg2UlBBY2syem9hS1ZTWWhLODNvRlN5OUVlUi14NGxfTUpsekR2MzlZQk1kSUtaMUE?oc=5",
-   "source": "TheStreet",
+   "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmlxc2lzSDEwUGxEZXdzeFk0Q3ZMTXY0bjhieUx2a2xGQllrNXZSUXZaSU93emlaSkFNcnlFMjQyeTlOZWpOemlKeEYtWUpFdHhTZVZNRUpkdTA5QWs4NVZuZXBGcGZEMmlDa0Z2eHNGUklEaXl5eWNvbC1KWXpuYVpibHZXOUpWaVNfT0gxQzVPTVpyQlNHVC1YMXdCSmVRekNGSng4LUQ0dWVuM3c?oc=5",
+   "source": "CoinDesk",
    "type": "news",
-   "published": "2026-10-22T20:48:33+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
+   "published": "2026-10-22T20:00:28+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Trump-Linked Crypto Company Accused of \u2018Public Corruption\u2019 in New Lawsuit",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWpTdzhkaExUbU55NVBia3FmQ1o5cldkeDJyN3V2WWJfR0dFSy1yLUxHVGprTFlSTUVyc2ItVEVLVGhUbkdDLV9waEVfZS1KM3pyaUx0MXlWWU1QRXpQZlRHV0w4TTdncW1jMHNLY3RialZfbGFwZWhjazczSkltM3dWbzVKSFAtRkEzYzBoU1o3RzBLLTNaZzNmaVNGXzM5bnl4OQ?oc=5",
-   "source": "notus.org",
-   "type": "news",
-   "published": "2026-10-22T20:39:28+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "OCC Finalizes GENIUS Act Rules, Drops Stablecoin Rewards Curbs",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXJnT1FRSEo2OVpSRlJKS1hzRlk1MzFXaEFWa0RLOFdzRXlkVjFYSVBQeExSUHZXY3R3WEhOX1Q3RU9FY0xib2k1M3NhTVFOdV9ieEhnbnlMRy1lbHlqVFlGSDRHWEM4RGVQVHpzT3ZjY3ROcFhtempjcHRqVmZxakFMODFzWDBQYWlsQVZVQXBSWE54QWc2T1BpVQ?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-22T20:33:59+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC Finalizes"
-   ]
-  },
-  {
-   "title": "Tokenized Stocks, ETF Onchain Trading Volume Surged to $37 Billion Last Quarter, Dune Says",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3Y3SlViQ3lNazhIRmVUVW9BLVhoeWx0Y0l4SFZ1VnBudnFlRGNWNS11TEhJNF8tb3ZzWGNfMHFJQTRaeXdacko0ejlfM1ozYnZWazR2elNIdTJ6WG5qbVNidjJrWW05S1Y2emlEbENUd0dYVTFEWkk4SEFWT1FVX1QxYmo1VEdiV2JrOEI3SThRb2hSU1ZNV2VZNUltcXo3N0gtYUlpT3EtVDY3bHBla3doSEFBclFCNVdTYkNrcmhiWWRs?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-10-22T20:10:44+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Trump sued over alleged constitutional violations in UAE crypto deals",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IN0tocmpXUzVwMG9pNks1S0hoNXRHcFNKam5RaXZlTF8tWE01TkVIdHpBZG1CMmxsNGl0bWpVb1dmbzRzX3R3Yl9NZDNzWGdkUEw0R1BKR25BbjB3M1E2WmFVVWUzczh1bGR2WW14cjZfWGd2VXNYUzhuRQ?oc=5",
-   "source": "Quartz",
-   "type": "news",
-   "published": "2026-10-22T19:23:44+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Bitcoin data center fire seriously injures two people in Treutlen County, EMA director says",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDQ2SUFDZUd1QklTVnpaQ3I3ejRnWEtzV3ZFQ2Z5UjBpWHhkaVRFZ3p4c0tsOEQ1b2lBUmZMRmpYVG9uNHliT0JwOUtnVWtHNFVzSWYtY2x0RjY5dF9nbE5aUE9kZTZ0REpnSUhZUTJvQmhNWnRCTHo2eGhHY056ZVBwNzdhZFBWSi03VW9vNlBKRFdYOGFxSEJ0dmJjcXc4S3U5dXZaNVcwcGdaNldLX19IbjQtc1lPQ2hfRXpkSHdweDdYN19OMmU1ZVRUZVc2dS05Yg?oc=5",
-   "source": "13WMAZ",
-   "type": "news",
-   "published": "2026-10-22T19:16:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Robinhood Wins Dubai Approval as Crypto Rivals Race Ahead",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fRHd1ODlfbGpvbS1EZW0wS180VkJWeEhGcUhYc1N4Zk5HTk1US3FzSnYxWGNVa1F3dTAxOVY2Z1pKeENSdExyaWlGQjlna0pEUWdqdFNpb2JZekdfOEFwdXNnaV9Na3AyeG1kRS1scVhoSFhl?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-10-22T19:13:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Robinhood"
+    "Stablecoin"
    ]
   },
   {
@@ -1441,28 +1388,6 @@
    "topics": [
     "Ethereum",
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Visa in talks to acquire crypto custody firm Fireblocks for around $2.5 billion.",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XN2UyRWtxM3pnMUVobm1UVm0yYUw3QnAxdklzXzJSUmE3Y0JOTjFERHQxbDVvaEpVX1QyRjhhU3lWX1hfdS1yQXNLYTY0Y3BqdU5FcF93T0laN2xM?oc=5",
-   "source": "Substack",
-   "type": "news",
-   "published": "2026-10-22T18:46:04+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Fireblocks responds to untrue \u201cat this time\u201d Visa deal reports",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80VUN5dHlrSkpoYnNDZFdBbHVVdDZIbEFGTEVDTVJCSXJrWXVVc0ZnSzVlMWVvTWQ2SkFpMWZSTmQwUm5ibm5MQmlQQUhLN0Y1dXROTmIyLVBudFJGRjFtV2dYbkNBa2M4LXhDQUszRjhnQlNKSm1ORGNoQQ?oc=5",
-   "source": "Cryptopolitan",
-   "type": "news",
-   "published": "2026-10-22T18:45:01+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
    ]
   },
   {
@@ -1500,50 +1425,6 @@
    ]
   },
   {
-   "title": "Robinhood Secures Dubai License for 2027 Middle East Launch as Bybit Eyes U.S. Entry",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vYmZPWFBhNS1KSHcwWVU4Y0xCUlhoMDhlcDA5ZnlyeTJPYjFIOUN3SmFyczlleTM4RjVrc3RQdmctZWQ1clhLUkRoanJfdkNOMWdURVVKV0l4M00yODhZaTRMVkZNUnY0Xy1wX3pfcXF1aW0wenc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-10-22T18:17:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Lawsuit accuses Trump of illegally profiting from UAE in\u00advest\u00adments in his family's crypto firm",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlVoSFhGUHlhMlBVWGIwMmdtUmZaUmZnVm9IY1YyRzgtMGl6eVNodG5sRUNTYk9QR3FRUlo3NXBnVzViSXZPR21lY2tVOVFzQmhBY3ktMEVvSzBwSjZEamhVanpyTUlWZzluM3hJMVhURzJTYTBicWZpdXVaUWp3YWozdUE4TllvdEt6MWVjQWlKdWF1YW5rMFlmaVJVVWV6OTBrblRfMlpHZw?oc=5",
-   "source": "Spectrum News",
-   "type": "news",
-   "published": "2026-10-22T18:12:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Precision Trading with Robinhood Markets Inc. (HOOD) Risk Zones",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlnLVhBenpmTFpweUlpU2wxWjFVeWZhbXptbjZEenJRN2tUZmFtOURDZTI5OUlUQUg2UmNvVHNHaV83X0cwSF8xMS1PT3d2ZEU0QV9OQTNZa2hxNmZfTy1keVZiT0wyeS0zTU9lZHBxVHZWX1dZeVg5RmZDMjJCbmdnUjRiY3pPWHYzRXloZm1pV0xRVW4tVUVaVXUxTm14WG55UTBZM2NiUWRvM01wa1BEdF9Oa0hJZG0xSzBzSFRPeFFXUExobnBLUnZ3X3hlanhrbzFIZmw?oc=5",
-   "source": "Stock Traders Daily",
-   "type": "news",
-   "published": "2026-10-22T18:08:02+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Current price of Ethereum for October 22, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLXo4X29JcG8yTjZzQ3JoUEwzbXRkY1dKQ0Y4WDhNTWY4ZHRJRDk1Vkg2eE9MaGRKYWNEYjR2dFJFME81SWdMdmFBejJhdk9qWjBCMWQ4dmx5dzJkV01zQzhONzJnR2s1?oc=5",
-   "source": "Fortune",
-   "type": "news",
-   "published": "2026-10-22T18:04:59+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "SEI price falls despite 155% RWA volume surge \u2013 Here\u2019s why",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb01rdTkwdXc2VThCcERvaDFKNXpaNG9GeEFDWHlWY3FYQlFmVURhVzRkNXdzTGpES1RCRDI2UGFQemk2Wm5nR1QzT2o0ZXJIclE5M3lDaHh3YXpkUVczZ1ZaMFpyYm81T2ZDQUc2bzBWb0JBbldwWE9sZkRZX2hsMkR3NA?oc=5",
    "source": "AMBCrypto",
@@ -1555,143 +1436,14 @@
    ]
   },
   {
-   "title": "SoFi launches retail tokenized deposits paying 4.4%",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWhJWDl5WjVnMFY0bDFUSEU0dlljWld3VlNObGoyUEk1QmpKWUViOUx0V3BtcTMwV3FYQUJTQkRXSVFlZ1NkMWxFcUlselZOLW1oM2RWRFZGQWhxeldia2VtQVYwN0dGZTIwQlVVbHNic1BMT0N1TkhlNTZMSG03WG5qZjJzQUtXWEE?oc=5",
-   "source": "Ledger Insights",
+   "title": "Solana Amplifies J.P. Morgan\u2019s $100M RWA Development",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83NTJYRDl3bGFubGw1YkJfeWM2U0ZXMXN4cmtOeDNScHlxTnRPMzhxcWl3a25XY0VRaDU3RFNRS3NNZHVOMmRqRnJSX2VFZTZfTnNBSHZIM3lSUQ?oc=5",
+   "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-10-22T18:00:28+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
+   "published": "2026-10-22T17:35:14+00:00",
+   "first_seen": "2026-10-23T16:00:53.433327+00:00",
    "topics": [
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "OCC\u2019s Rules Leave Door Open to Stablecoin Yield",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVldudHVSS09sT1QxU1U3d0U3MTZrTHFfRnFuclpBbWswZ3hTV0lJeFNIeGJfUTlXYS1PNGpkbXowNFNMZlRad3dXTkhZa3lyVElnQWg1eWlPQ1IzN1BsY3NmLV9vSEN3Yi0zR1A2T3Zid19DSnRpSi04NS1RQnR0T0JqRm1nZ9IBiwFBVV95cUxNUmJoZkZwWUtPNmJhZWMwQUdZNV9OeUJLQU1iVjE2b2RBeGdMbnk0aElhMVBsSFh3d3dMYTB2dDRnRlZrTUZZMU9VX1JxRS1fSVl0MVVSYkFYOFZyMDdnVzc4dUEzRFRVVk1IVThZYkt6SnUxeGJSendjY3ZHWkM0T3pmRHJNMnJTOFpJ?oc=5",
-   "source": "PaymentsJournal",
-   "type": "news",
-   "published": "2026-10-22T18:00:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Solana Is Faster and Cheaper Than Ethereum. So Why Is ETH Worth 5 Times More?",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdV96X01XenBLdkotNm04T0ZCZW5oZS1sSmVTR0x1MWI5dW5mN0swZWJJQmMwYzFIejlwWnoyUE5vYW5FeXJtSjdIUTFjVnZETC1UdWpMeHl0TnpYZFQ4a25iczNEM3BreUJVbk1nM2dORjA0V25KRHUtY0J6M1FTZFVDVEJTejRyRjI3QmVkcnRDQ1JkYk00bjJxSWRla0FkZ1JZRGJfVEhQdDNXMEozMjdUaXRqeWFEeGFwSUhPUEdpRWtkcVdZenRxSW1sUzQ?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-22T18:00:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Uniswap Deploys V4 Aggregator Feature Across Ethereum, Base, and Robinhood Chain",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUUJpczZvdGhjaEctbVA0SVdhNXdjeG1fRjg2ZU81X0E5V1I4Z1hMdldneVR2czZqZHBwdHdyX1ZpUTRqV2ZKYmJERUNUN0FVV2NUTmEwMzc5b3JUcnJieU1odDFlbTNKNXFLLTZnakhuZGZIRklhdDdCcU5tTjFHVVhjYU1tM1BjaHYyZGpfVVphemdhVUFhTFZvNXQ0b2tCZjE5T2hrR0psQQ?oc=5",
-   "source": "Crypto Economy",
-   "type": "news",
-   "published": "2026-10-22T17:52:28+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Ethereum",
-    "DEFI",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "TACO Tuesday \u2013 Oil Dives, Stocks Surge as Trump Backs Down and Agrees to Two-Week Ceasefire",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUtrXzd1ZnQ0NUh1Nk50cW1nRmQzN0E3UnItM3cxYzVGTmNHajYyMkxwTEhLdzdIc1dGQ2NYSXJuVF9nYnRnaW5OOUlLM3oxQWZvQm55UlNlbkwtd1dBeWxKS0Z4dDB6aTljYjhNbm5PVXJyX0hkZ3NfRUFQRUtKdTQ0NERMZWhBTF9CSUk5VTFPV3J6MXZjOGgyNnpQLVFFcUZXbkhB?oc=5",
-   "source": "EnergyNow.com",
-   "type": "news",
-   "published": "2026-10-22T17:48:25+00:00",
-   "first_seen": "2026-10-22T06:00:05.634439+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Fireblocks Denies Visa Acquisition Talks Valued Around $2.5 Billion: 14 outlets compared",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa1lzbUwyQTZtb0JZMlJJSmN0VTdLWEg0aVhYcUZXLXd4eVU3cXEydzI4QXgtNjZJSmJqcTZKNDNYTzhhdnFxM2hscV9xTjF5NkhtRWRTM29qMHdTU1NCNmEyMGlVYnZramgtbkd5OUNLQXpWTER6SHo1MktWMTVTV3JGVG0yN2lOeEk4UUh3OXZ6dXpMVzUzOE9oWTdyLTdqcHlxWjZVVzJyOEtsdnFmaWptZkswWXB4ZkVvQTdFRkp3ZWsxbjhaYTJLVWJCSFNidnRvM0JB?oc=5",
-   "source": "NewsCord",
-   "type": "news",
-   "published": "2026-10-22T17:46:46+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Robinhood Targets 2027 UAE Launch With Dubai Retail Crypto License",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVJpUjZfc2FIcS1KdzBSZUtEcWVvbFBOLTVBcVJvRDVmckZQdlVZM3RDYWNxWjR1THFUbXUwdHAxNkpzMWhUcWdCMGk5X3ZROXhpMGZCaHhudnYwUnk2LXdqRnhCeEdZcXd5Z1BBX0RqZ2c5WTlpRTltQUVnMng4OFN4UWthYTZjNW8zM1UwbWgzNDBZS3ViT0lHYzgyaW1lNE5IcC1CcEI3XzVfOWNkUENn?oc=5",
-   "source": "Bitcoin Foundation",
-   "type": "news",
-   "published": "2026-10-22T17:38:28+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Morpho Opens Robinhood Stock Tokens to Stablecoin Borrowing",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYU4xdm01cEpSTXRzZzVzOWpPODA5eHpuNjByM2E1WllSSFpQa2QtT3o0NmhOb2t6aFNqWjNDQ3VoejNFUGR6YkFWVDg0TmVWYlFRWGhrQ3FQRUROME0tTGJLbnFfOTMzYnFjSW4zbUFGem1zeXFoc1dpNlpyYjBDMEs4M1Z6UGJMSTB5WVNRZWRFcTM2LVE?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-22T17:20:11+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Uniswap Aggregator Hooks Expand External Liquidity Access on Ethereum, Base and Robinhood Chain",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wdUlqWVN3WG44UGc1WjlXY2NHbzZzcHlwcGxjQTl4Ri01YnBCYXFxSDNlQXVvR1gxSkZlV1U2TVlKRFpncUFPdThTSXBKaC1MdnRZeExBYTZ5cGo2R3F5bGoyX3FmUG0yYzVYZ0pQZG9mUjdGVW9TdA?oc=5",
-   "source": "Hokanews",
-   "type": "news",
-   "published": "2026-10-22T17:20:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Ethereum",
-    "DEFI",
-    "Aggregator Hooks",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Fireblocks Calls $2.5 Billion Visa Takeover Rumor \u2018Not True\u2019",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2dNYWJDQjd1eGZMTE9YeTlMbXB6bVlPOUNwcW5zODhHSWlwdk1PQm9FNmp2aEpEbUFCeHVZRjlBWU1JbHppOXUyUXAxQ3JwZldEaUJ2OHVwR042b2hSal9HLUZhOFNqdnMzcDVMZERuTEJ1WnBySDlJZ0lTSHQ1S2hqRFRxVDQ1RE9ESmJXcw?oc=5",
-   "source": "unchainedcrypto.com",
-   "type": "news",
-   "published": "2026-10-22T17:17:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Fireblocks Denies Report of $2.5B Visa Takeover Talks",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWliYUpJTy12UHBkT2o1TEl3X2tGOFFjU1pRLUJaSGpaR1E1Nkd3V2MwaUpmOWQ1TGkzY1JKNFZHUFFYbDRneFJqdW9yeXBCd1pZOHNib0UzaEZBei1oMWdFWXdNVm9GN0FtMHlGWTNCZG5GejhMZWpQdGdnNzMwQk01WnZfQQ?oc=5",
-   "source": "Altcoin Buzz",
-   "type": "news",
-   "published": "2026-10-22T17:15:47+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Uniswap v4 Adds Seven External Liquidity Sources Through Aggregator Hooks",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWxMVGR1WmRCTFBkd2RuYXpWNkt1aHhlTkRPbFFjbmZ6eUJCMzRiZVV6SWdwOVdQMm1PbGxOWGdjSV9HNDJseU40aVZ0dXhXRXdjeXBIYmxzNjVtVFZHWnhaa2hTYnFNTkZQblZLRlRZbDBfX0JEbGFnTjA2RGtYX2FDc3YwaFdPYjNKZ0dEeVA1ZHZIdU1pRUFkbUo0cEtFM3E2WWJHRlQ1cFlPQXV2SlZB?oc=5",
-   "source": "The Crypto Times",
-   "type": "news",
-   "published": "2026-10-22T17:12:10+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "DEFI",
-    "Aggregator Hooks"
+    "RWA"
    ]
   },
   {
@@ -1707,19 +1459,6 @@
    ]
   },
   {
-   "title": "SoFi Launches 4.4% Tokenized Deposits With FDIC Insurance and Stablecoin Conversion",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODRTWDd5OWhVOXVia1J4czZtNk44YVpLWTU2YW9Qd1FtR25pOTlmSGFBLVZlVmRFYkc1S3hTX1hsTTU1aER0aTJsLUlKU181SFkyOVF3cVppbmVRQ283TnFHSExySTM5Q01HYUl3MU5qajlDUk5XWkV1N052eGh2V1duRzlKU1k4aEUwNFU2Z25YbXZhR2VWMURLaHRYanlydS0tQkdKVmxnUS1s?oc=5",
-   "source": "FinanceFeeds",
-   "type": "news",
-   "published": "2026-10-22T17:00:15+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
    "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
    "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -1728,62 +1467,6 @@
    "first_seen": "2026-10-23T06:16:59.412296+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnZoMlNpT2lKa1pvWFFBNW84S2J2ZmlJZkNPdDVicUZDWHh2aVBJTjVPNFM0SVBVRE12WEVJT00wclVFQU9wVy1VblcwZTJxNXpvN2k1MExON0xGQnlQdkF1NVpacVhQT0haZldYVE9lZVJhSzZpLXpLNVBBQWJqSdIBhgFBVV95cUxPVllqMkNqeG9Gb3hMeHRBUGdiV1hIbXFmSl9OT29US3NYNm9pZ05VcXNrelc3X1NCUWdyeVNzVzd6Zk1URFhQaE9SRG5xcHNCeGFLLS1qSEdnbGRCM3BUT180UlJQVG1RVVhVaVBxSjZ4R0JTMVpxSW04cDN2ZFE3bi1aaU1IQQ?oc=5",
-   "source": "CNBC",
-   "type": "news",
-   "published": "2026-10-22T16:49:56+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Bitcoin Approaches $81,500 Support as Bearish Momentum Grows: What\u2019s Next for BTC Price?",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHFCbjVjaG14Vy1kZUt5bjBLc09YVkFqNE9jN3hZMVllVl83b1V3ZTRlcTY5UkxQQ3NjMXJpQThlR3lKN1dwRE9hMlJsRTRKZ3Z6ZEptbzdVclVvS0dVYzlHR2NmbExlMDNJWlhfODlHQlRuc0xUaTI4b2NTaEVud2w1MloxQWJwUi1JTUVpOWVtN2hjQ0lrVEFxZ1dkanJhTFAxMzhuLWthNXI4d1hSM3JwaTZMeGQ1X0ZJSXJR?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-22T16:46:57+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "XRP Vs Bitcoin: Ex-Ripple Board Member Explains Why His $XRPN Bet Beats Saylor\u2019s Model",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkJxV3hUaXc4QWpWUExnUzg0WFZXeFlJVUtIWmVnSWVUc3dFd3JKWDd6NElsRkw2SFp0QjVlVTVpMTBEakIzZ0JtZzBzalgxTEhwSFRMUUFIbGdpTGlWUGxUTnYxcVVMaXdVS0M4TFk0SlRQTzVMbmZKd1F0aUFfLVQtb3U0emE2ekUzY21GcGNBTFFvUjFnZkc2NG04Q0d2ZW5iN3EwR0o3Q0dkbWRjLTBCNjNVQU50LVNSTTZ3?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-22T16:46:56+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Robinhood Dubai Authorization Marks MENA Expansion Plans",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95dHA2R0xYRWpSY0RqN2c4MGZBc3B0bFVrYlRoUVZFeHBmLVFCaWN5Ql9rN294alkwUEt5ZDBuS21RWHVlNUc5empENXBlM1VXRkVOVG9mYWV3S3ZwWWlzVEZSOWRwVGJRMWVOSEFCRVBZbnczOXo0?oc=5",
-   "source": "The Cryptonomist",
-   "type": "news",
-   "published": "2026-10-22T16:42:08+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "SoFi Launches 4.40% APY Tokenized Deposit With FDIC Insurance",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtSllTRTBOaEZqTlN6LWYzcjRKQkF2ODQzd29JLXNSdGl1Znk2TVFaVjZJeW5SUklxbEhXQ3ZJNFk5Zi15RTlway01QjZHd29JRERwem1aeVVEd3hPLWZLT1pXTTFyaWZsUllDQnMxVmFxMnVRZDYw?oc=5",
-   "source": "Crypto Economy",
-   "type": "news",
-   "published": "2026-10-22T16:32:22+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA",
-    "SoFi Launches"
    ]
   },
   {
@@ -1798,41 +1481,6 @@
    ]
   },
   {
-   "title": "Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch",
-   "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-22T16:26:52+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Robinhood stock slips despite new license",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOXJWWGZEcHdDWFNoc09fNVZtT2JxZlpySlhsaFBuUVR1eERuY3dqLXMyY3Jkd3FUSW4yR0VLYzJXSTZSLVhfLVpqZ1E3RXBtZW15MVNtTGl3aS15UzVpUTgwV2staUN5TVFlbzFzbTRTdkZiNFBUNTZyYU8wckYtR2wwR3dNaWNRaWc?oc=5",
-   "source": "TheStreet",
-   "type": "news",
-   "published": "2026-10-22T16:26:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Uniswap Confirms Launch of Aggregator Hooks for Enhanced",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazd3OVJsRTI4WXZPX0hMQ2FNMXN0dlNWcm9kWXo1Z2RVcnE5U1NXSHdobXFrQ3dNYTNfZ3ZTVEs0am9XcUpDTEk2LUpYbFVjb1U3cVZZcUNqSFhSdzVqVk15UFl3MmM1UDNTRHRDbjRhYWdtbWgxZWdpNEtDUWU4d0t6R1JsVTNB?oc=5",
-   "source": "Coinfomania",
-   "type": "news",
-   "published": "2026-10-22T16:20:52+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "DEFI",
-    "Aggregator Hooks"
-   ]
-  },
-  {
    "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
    "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -1840,1238 +1488,39 @@
    "published": "2026-10-22T16:20:35+00:00",
    "first_seen": "2026-10-23T06:16:59.412296+00:00",
    "topics": [
-    "Bitcoin",
-    "Trump"
-   ]
-  },
-  {
-   "title": "SoFi launches tokenized bank deposits offering 4.4% yield and FDIC insurance",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeS04ZDdpaE05YS12Y19WMXlxaU9TSVR6Wmd2MnlQNVJsczY2VV9RVlR4Nl95dFdqeHRCcE11UHlxZ2VVd3BHWTdWdEFYSUo5alA5V21DTU5xcVdSd1NEelh2c014MjA?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-10-22T16:19:42+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "Will Ethereum (ETH) Rally or Crash After the US Midterms: 3 AIs Weigh in",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlROZUdBUlRIeUNlNVdYUzlna3NRM3dGcjNBWFF2RV9scHNEdHh1SHVXZmN3RDdaRTN4UmhROWxhR05tVzhud09YeE15ckwzZTFPY1RPWXlZelVoekFETDVoUjA5aXhvbWFvdExxQV96b2lWelNMajZfNmNReTIxZlg3cnZ4SzJPR254YlZKbURjWUtRaUZWaHRXbTF0MUwwY0pucENYWXdHQ0E?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-22T16:04:42+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-towards-81000",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-22T16:04:26+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "SoFi Launches Tokenized Deposit Product Offering 4.4% Interest on Crypto Cash",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdV9RT2F5OWF3aU5lMkpQa0J4R2JLRnVDU3o5MWQ3aG5BZDh3ZTdXSVdacDlxeWNvNE9CQ3dPOC02VWpDRklzaG13U2hXQUozRGp1dlZ3b1VFVmpXdElPZ01SM29KZXIzSkRnWVVBVWRXVEJLTkxzZTNJdXJBTDg5eGZLQmFkN2RvX2pOb2wxOTd2VTA3LXZDVFZ4MU9nMHpGTkhhZGxxUzJtUWxvc3h4cnd3?oc=5",
-   "source": "CoinCodex",
-   "type": "news",
-   "published": "2026-10-22T16:03:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "SoFi launches interest-bearing tokenized deposits for crypto cash",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTZ5NlB6cEVES2hCQk5EYjdZOFVsM1JzRDhtZG9WdFRWTW0yVHkxbldsQ2R1Y2tJSk1jcnh4X3Q0dWV5UDlheFFnaDlEbkMtci1TUTYxSEpKN3BqWFY5TWxucG94NzFwZlpJZG9lNEppNEZrcVpMaDR1djVraU81SVk2elg1WlJhbmFoaXYwWFg5aXc?oc=5",
-   "source": "Mezha.net",
-   "type": "news",
-   "published": "2026-10-22T15:53:39+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "Robinhood\u2019s Crypto Revenue Fell 38% Last Quarter. Can It Bounce Back in Q3?",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaWktbVhwdE1lVjdRVEd5V0JTb3JRQnZnNWtRSUQ0RUdJWVVxMy1fMFFYZndjN1JoWVNKcXUyaGQzQWpmSEx3NldXel9LbndFakpxejFQYmJMbldLbjZBN094S2Mwak9PS0dzbFFLNkltV2pDVTlNWk5UVC1GaUZ1RjFjR011V2lNTkFwdWppcXZSaEdNQzVLNjFjNlY3VFhXaHNUMGZZMjNTVmdGdDU5aHR4RE44d1ZvZktWaE43V1VQSml3YU93NnVR?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-22T15:48:00+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Robinhood Chain reaches $1.14B TVL as Morpho enables stock-token loans",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LbFQ1NzktbXVadUFPMkctbXk5RUFtUE9rSXROa1VldUxWcXJKLXhXdE1vV3Q3bURkeDRiMUdjdjAxX0VfYUl5aC0zVVozYTYxSE9ELWV6ZDJOUUZzcUExSEt0OURpZWJVRUhYdGFWUmtSM0JOTmZnOE1Ybw?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-22T15:47:30+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Uniswap Turns v4 Into an Aggregator, Sending Fees From Outside Liquidity to UNI Burn",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelVNbUN0TENiT0VXV19jUUR5MVBpWFF1V2xkZWN0bk05V2lySHRyeFluMXZXbkhwTzVORFcwMGRvLWo5cFFKTThvOEVqZFRQelhiYU9oT1dmX0VNRVdjNjA2ZjhFSlpaRDFrN3NHdTkxRXl6TTFLbHpSdjlwZVFLWWhfM1E5bDdKa0NnZGtsRHVCakNjeXhKVFpoSFYzSElDTnRJc3QyNG5nQVk0SmFjMGx3?oc=5",
-   "source": "unchainedcrypto.com",
-   "type": "news",
-   "published": "2026-10-22T15:47:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMS1vZXN5S3dlekxpNUpoak0wOHU4bDRLYXBHR0NhUHVaS2lJQ0xEZWpwYm51N1BYYmxia3QzLVZPQ1FMZmdsb2hXSU5kTTVrOEw4aktxeFBXSmNMN2xFdk1IUzRYOV9uUkpVWWxfVWItS1cyZ1YyNEZlaXpCSEFiQXhBQUVTRFZETElTcUhyWjYtckhxT2ppemprRUViX0dKLWRmMnJTdG9zbFhheGQ4eTgyakREaDcz?oc=5",
-   "source": "Finextra Research",
-   "type": "news",
-   "published": "2026-10-22T15:46:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Uniswap v4 Is Now an Aggregator: Uniswap Labs Launches Aggregator Hooks By Chainwire",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdEtOemFUeHNpYWVuWVlQaUxGcjZXVjRhOWZqUTJiTkVKQXJOSy1nNnU3NDYwQVhwUFFYdHBaa2Z3WWtKczh0ZjRzVFNxWVlBWWJFRjNxOFd6cVVQaUUyVFNscFhzX0xYWDlDM1BmX0dyeF9DSHc3TFFudDFtbjFXbUhNcUtNMWc4RjdQNzRpUGU0NFJaOWtldHlVODZlZ1QtOUFRaG0zbWd4Q0tWaVBXck5XU2ZkaHgzSVVIdDNwWU4zNFpQWWRVQw?oc=5",
-   "source": "Investing.com",
-   "type": "news",
-   "published": "2026-10-22T15:40:33+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "DEFI",
-    "Aggregator Hooks"
-   ]
-  },
-  {
-   "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
-   "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-22T15:35:01+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Bitcoin",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Robinhood Chain Q3 Fees Hit $51.11 Million, but Ethereum Settlement Costs Under $70,000",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XSFYwY3YwbGpiWEM1MTduMnE3eWtmNEY2cnJkeGMyaUxBTGRRNUsxaGpVMjdfdXl4MGpVVTB0aFBXemdCRUZpVkxkRnF5UGFPai1CQ29RUHdSSklHQ2tITEpQQjdjZjlpNDlXQ1Y0UmtESmVlbkE?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-10-22T15:35:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Ethereum",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "XRP Is 63% Below Its All-Time High and Ethereum 51%. Which Reclaims their ATH First?",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1lXbWdKUE93RFhrSXBwSnViU2RZUzB2ODZ3Z3JVWDFwclpSaWY0Unc2MVlqbEt5NmFMSVl4MXNNOEphUWdfeHByUjB3RU5PZm5SZ2pmUFVOcE94aHd5Rm1iaGRhdWM3Rkl5S1owSjk3Ry1HRFN6NlBZVDk5aWhJTlE5UWUtZ0tFS1J6dUJxWW0?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T15:34:03+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Fireblocks Denies $2.5 Billion Visa Buyout Claims",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50SHdjUkxNUnZvMmFvZzZjY3NkeW9aMzB3MzlTdGZPZ0JvMk84ejhhb2ZHRVhjM01XRlo5d0dZQVZ1OGs4S0JGVEtfWFJmZk9HajRrY0NBdW9TSk1EMWVlSUVRMExOeTF5aF9hTFNkOXllbk0?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-10-22T15:28:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "SoFi Launches an Interest-Bearing Tokenized Deposit That Converts Into Its SoFiUSD Stablecoin",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazJ4RDJudWQ1N1NYb2Q2WnphQ2JESmZ3UkdaZEhQTnBCVkZfNW1jVUFORktjbF9OYTQ5NDJlNUZoM1N4emVUeUR4RWFMdTVEWmxQN3lEM0pSRTlCQkdJNWZIQlpSV3FGUThUSjFxNlBQN1VCZWJ5T2J0RDBQVm1EYzRUZEpjOFR2c0swaGxqemVlZzduSmF3emRhVHhfLXROMk9XUW5SaW4?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T15:17:34+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "Visa in Reported approximately $2.5 Billion Deal for Fireblocks; Both Sides Say 'First We've Heard of It'",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MOWgzbjFpSU1wc19BT0NkaEQ3RFRpRm1fd3hqZDNyOS1KYlBUaWxYTFJRUmxQUExSRmxQZWtrMXR4ei1Ta2U2cUxrNU1MLU5ESTYyamFkY0tld2NNQjdmdld0eWVHY0FuQ2FYRVNTWFF5MFdsN1E?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-10-22T15:05:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Uniswap Labs launches aggregator hooks on Ethereum, Base and Robinhood Chain",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UWG80M3c2Y1g0T1kwMVA2WTcyZlNBeTc5U1ZCVEpIMkh6R3ZUX2RVTkV2T0Y0MWdleEFhNW9iLUVFX1FwT0hRR19LZ2dVbzJQaVVDZTZmT0dSSXE5NVFVWU9QZFlBWjhVRFdOWjNYTHd1MzRv?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-10-22T15:03:26+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Ethereum",
-    "DEFI",
-    "Aggregator Hooks",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0I4b1FENTctWDhvM0N4b0lDbGpPaEI5enpTcUhQMWhZTjdleU12VWpvb1k4bEZ2S0RIMW4xaXc3RHI0SVJIQU1MU0Q4aTIydGpQblRYWk8tZ1NKOEZOTTFwNWFvLUNQMzBDYUZzT1dYbFBCTVpQTlVBX3Q3VjBBNTVVMFF5RUF3V3EzekVOTnhYc01PU3hvUWZJWnlOOFhjVERzZG9Jc2VKSmhsS25SdTFRSWtaaXFnU29OdXo0enU?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-10-22T15:00:14+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Ethereum",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Visa Reportedly in Final Talks to Buy Fireblocks for $2.5 Billion",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OMmF3UXJXRF90OVdxXzJ6TmZZY2U1RWxXSlJwSWhRWDBRV3BTTmNOcnVyOE9LTFVRY3cxdU1xX016b0pIT3BOQlJlVk54UklGSG9YcjNJZWhaZGc0TFNqSlEyOGVPUUZ5bHFiNkJoMHlyVmJrUTRB?oc=5",
-   "source": "DailyCoin",
-   "type": "news",
-   "published": "2026-10-22T15:00:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Visa acquiring Fireblocks could widen its reach in crypto custody",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzVG1GQjhENUFpR0IweVk1QmRXUlI5ZWIxS1VPU1RtYzUtbUpHMHhjeHlKN2NEdF8tWmxtMTMteXVWMDREUU05d1pFWVBuWFJRd2Y5ZXE5a1k?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-22T14:59:04+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Crypto for Advisors: Stablecoins are ready for prime time",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-22T14:58:31+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bybit Kazakhstan and Alatau City Authority to Explore Asset Tokenization and Digital Payments",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWpvY0hOSmpVeDVMVFZWZTlCeGxLMUNNZWRSd3FSX2czQjBSX0lLRUh3SnoxYUxrQ3BldEI3NjJwN2xBMnlqNGpxMlE1aXc2TG1jckhiRG1LRlkyaWkyaERocmItYXgzUnlRNkZDU1F1WGRCaUJiNnlvbE9yVVhMWUtaMzB0NnZnbDBNa3UtRDRjbkNPaW1NSm9ucUNGMktjV2VjT0NwWjdPdFVHbm55V2FLTlFRT0RYdUpN?oc=5",
-   "source": "Incrypted",
-   "type": "news",
-   "published": "2026-10-22T14:58:07+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Uniswap (UNI) v4 adds aggregator hooks on mainnet, Base and Robinhood Chain",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHV3SlJDNWZZdTRGY3JscHBQRHlHLUdOY3ZmZFJHWnJLRG1RV2NSTGtObENlTUpXVzFlZDdyLWxRaXktZGhaX1RIaFd3VjdfVnRNY3JnZ3M4V2pRa0YwMXp1WHRYUmVCLXVtdGZPYWZndTNBOVhab1F3RzFMbjRKVHlpazNfREJPUW4tdHFlQmNvcWhw?oc=5",
-   "source": "Blockchain News",
-   "type": "news",
-   "published": "2026-10-22T14:57:24+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "DEFI",
-    "Aggregator Hooks",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Hours After the GENIUS Act is Finalized, SoFi Launches Interest-Bearing Tokenized Deposit",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2hZUlllb3EteUNzYlJ3N1B2MVlMWXloZ2VzSHcxMjhPMzhoWXFlRDlWdTk5SkhHaHY2c1lwazdOdl9lUnJ5UndwWkVfZXh3ZGN1d1BDc3kyV2cyenRrTE54X0NUMDB3a1NXWGhOS29hY2lPeUZORWpFU1VpOEJYRnlLZXE4VDNVNFYxS1hqVUtTUWd0WG1SRDlaR3hkQlVHa1VkWHJSSDJzajRHQTJr?oc=5",
-   "source": "Finovate",
-   "type": "news",
-   "published": "2026-10-22T14:51:34+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "Fireblocks Denies Report of Late-Stage Acquisition Talks With Visa",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRWUVxNFE3NDJqWmdWanQwQUd3djhNRGdvdDBKOHZUaFdpZFhiTzFSQTRrUTRUNW1ZOVhtaC1sdVNITTl2MDE1RFRGMkFYa0hVSjZkUA?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-10-22T14:48:11+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-   "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-22T14:41:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
-   "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-22T14:38:25+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-   "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-22T14:37:12+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "OCC Leaves Stablecoin Rewards Door Open as Banks Defend Deposits",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmZfc2gyN3BYc1p5cnpockJ6cHgzR1hvZXhYNXZjMXc4X0NTRmtXZThVQlNqVzV6bTRENGlIRnVFOEJrS1k3ODlJRk5MeXV3Q2JRSTNMRDJXblRxelN6YTJDYm5oT2NRN3NHdXF3QXRkOTQyY1pSVWVKMHBSejhEeDZpRFZTVjJwWUpqNU9TZnRfMEtGcGg5VFJEejQxQXllM0VQWV95UTRWdDVz?oc=5",
-   "source": "PYMNTS.com",
-   "type": "news",
-   "published": "2026-10-22T14:35:17+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "OCC Advances GENIUS Act Final Rule for Payment Stablecoins",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX0s5WXBZenVQTkxNTVFDRl8xM21kREpjYUptWkZURE1IN0tYSFZqeVBlZXkwQWc2MW5BSGlTX3N2eVRjT0hfdUo0bGttSjBvdmE0cjkwbGV6YmdWX2lUei1kdjBMRkJMQ2Vhbkhybk4tMFFhci11UUlYOUpvSEJ6aWRUZkM2aEJYdjhv?oc=5",
-   "source": "Coinfomania",
-   "type": "news",
-   "published": "2026-10-22T14:34:26+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Visa To Acquire Fireblocks For $2.5 Billion: Reports",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHp0TzdFdVQ0VWlIbHRONVg3NDF5VjdJb3FVNmFUaEJhczIwYkpWQ0owX1NCQkpxN3Fualp6R2NLMF9qTUZpZDk3ZzUzTXNmZjR4UklQRHM2NHk1WnlPamFnZklZbkxNcGZCX1g2Y3JCS0sxQThkamRQQ3YxaV9ZNkpCWXBGVjcxVmZTX0pfMzNhVGdLUlc4?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T14:33:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Robinhood Markets' Quarterly Earnings Preview: What You Need to Know",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhnSEEyYWxrOFFYLVE4MzF1anppWExLLWVzNzZhbXpXN0x0SEQ4QkVjcEZOWDBkTEpOTEtfZUNYX0cxaXFjZlVJUS1lcXNOZlJQMjZBaXp4aElJdHlYTk9VOHB0VGFHNFFhdzRoaUtyOUlld2JydDA0Mm1ESnBjNkt0RTJnSzNVT3c5YlY1ZkluVUUtWXZoc3h1TDhtTEtQUDIyRGswb0pqdUdHU2c?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T14:20:46+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Uniswap Aggregator Hooks Expand Liquidity Routing in V4",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mZGc5dU9FNldyTjJJUmgtR0tfUkp5RW9KbUdtVVFsdGU0ZlMxZ3AzaTk3cWFxV0c2aXhLckZZNkgzUkh5MnE5dVpsYl9PQ1UyOHpmWmR2Z0Mtd0F6dGxTOElNZUsyWlQ4OC1XWDc5b2JsWDhZazZsYksxeEpCZw?oc=5",
-   "source": "The Cryptonomist",
-   "type": "news",
-   "published": "2026-10-22T14:19:29+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "DEFI",
-    "Aggregator Hooks"
-   ]
-  },
-  {
-   "title": "Uniswap expands aggregator hooks to Ethereum, Base and Robinhood Chain",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVklUSDh3VTZIeVZKaFdPVENMczA3cTZUUzZUMlI1YWxaQzBIQnpJeHRJblE5MFlkX0dqd25JbDNjVXhLRTV6amtiSERhb09NMHRRLXZlZ1o4Q0l1WVFWWjljczdFeFp0cE5jdHBVbEdKcEFCb013eUVVc0R4cEdWcHo2V0NkR2x1eDd5WEt1T21iU2ZoeUlSQmpqMkJVNTRmWE1LS2twX19nSElBb2hOUFlR?oc=5",
-   "source": "Traders Union",
-   "type": "news",
-   "published": "2026-10-22T14:11:42+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Ethereum",
-    "DEFI",
-    "Aggregator Hooks",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "GWDC 2026 KOREA Concludes in Seoul: HK-Korea Dual Engines Drive Web3 Policy and Tech as AI Agents, Stablecoins, and RWA Distribution Take Center Stage",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xT25ySzNGckxmOTFoY0E5UFNiSjVYbnk5dFJMZnhvR1lxSWNIMThhVmZ5ZTVBeFNnbFlyTElRV0RUWi1BUEYzWTFMMC12Z2E0OWljVU1zX3BiU3M4X0ZoRFVOc1EtbWJaaG5lWV9oOWFuOUxL?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-22T14:11:25+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA"
-   ]
-  },
-  {
-   "title": "Aggregator Hooks are Now Live",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VbERaN2JGa3ZtV1VOY2ZUZmFkTklBM21iX2hieHVVLTcxSTRLbWZFVGdCS1FhTkluZ3FWcDRVOHh6WkpUVEljT3M0UFBYdktKcDJ1VnprLVNObFR3STNLQVJLZjk?oc=5",
-   "source": "Uniswap",
-   "type": "news",
-   "published": "2026-10-22T14:02:25+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Aggregator Hooks"
-   ]
-  },
-  {
-   "title": "SoFi Launches Yield-Bearing Account for Funds Awaiting Crypto Purchases, Calls It a First",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFEzdzRaTTNYRzdTSWZURTJHSTlHbGNSMl9UdHZNZ1Rzamd0RGFzZXplUlZqRElIczdpV1AxQkRHWTNyaXlGOW5lX0N1SkNuRHBZT2Q4SGt1NExvSzI3aEhzRXNkMWtHd1JJeFVtY0NWblducnBtRWlUeFRxYW83dlg5M3RLZjFtZ1QtNjgxZi12ZGR6aHdjUXM0Y0J0a0xsbURQQzQyR3pGY204cjZ5TzRJOFIyTlhWdlVVTzN3NVJtT2xMRWc?oc=5",
-   "source": "Koin B\u00fclteni",
-   "type": "news",
-   "published": "2026-10-22T14:02:21+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "\u201cThis is news to us\u201d: Fireblocks rejects reports of $2.5 billion Visa deal",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Lb1hTMWZTSmhkUnByUkh1eW5QTWJtSjJqYXdYLV95Y2VwQkp5QkIxanBPdkQ4U0kxNnR0RVB4eUk0cWF1MUxBaFJIN1RuMDFkVDhPekp1bjYxd0dvSmtqcERnckdqaVU?oc=5",
-   "source": "CTech",
-   "type": "news",
-   "published": "2026-10-22T13:59:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "US Treasury Says GENIUS Act Rule Strengthens Stablecoin Dominance as Circle and Coinbase Jump",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBZF9JQVBQS25IYVg3cjhCY25mTC1tbzBGM3JvZ1JkWXpwblhCbC05M2ppZlo3dWNDWmpXVnZFT1R6a0o3LUU2bHdhakpaSGJLMmF5THpuRTRVaHZ0YVc5MXBjZURZRTBxSWx0VjB3RUJpeEEzc2QtVWN3?oc=5",
-   "source": "Hokanews",
-   "type": "news",
-   "published": "2026-10-22T13:57:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
-   "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-10-22T13:55:03+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Ethereum",
-    "DEFI",
-    "Aggregator Hooks",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "SoFi Launches Tokenized Deposit Paying 4.4% Yield, Linking Bank Savings to Stablecoin",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckRjNDhkQ0tUZ2FpV2J1LS1nQmNjOWR0blZOcms0ZE45QldZRHAzLWdZVXlVckZ0R0pmUGFNNTdpV2t2M3l2LWFtZlRtOFlUalFwNUhhTi1SWUE5N1IwWVk4WWlMTmd6RW5nS0t3a0w5WTNESnJvS09aM0lOc3h2U2xNN2MtbnB3RjhNOVFqQ2NRRjk3Slh1YU9SZ2VIUFU4WklHY2V3?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T13:48:00+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "What RWA Are Investors Holding in 2026?",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2t1MzRsUEh5M0xyb2N2dFFSR1dzeC03djJsY3ZQM2JCQkRPTHRQZDQ2RXRXVVBCUnFFb3hFNE9Yd0VZa2s0ODNtXzZ4WjlnTU5JMDFqMlVhZEpwRW5lR19IVVpERlNVMDF3TTZXeno1UkpnUVoxTUNJY3hZS2t3S2VfN3FNZw?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-22T13:44:00+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Crypto Weekly: Trump tackles scams, Stablecoin set to expand",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LeF9GUGRQZ3J5ZFRhVzJDejBPWm1uNnNLOW1XRUhlV19HWE1BZzZ2QzE2QkM4QW1kMi1KTFNpYkkzY0k0Tm9STlkwSG5HeHVSZ0xSRWY5VDc4eTBySkdUUG1kbWVoSUk?oc=5",
-   "source": "Reuters",
-   "type": "news",
-   "published": "2026-10-22T13:43:22+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Stablecoin",
-    "Trump"
-   ]
-  },
-  {
-   "title": "CryptoQuant CEO calls rising Bitcoin hashrate \u2018indirect bullish signal\u2019 from institutions",
-   "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-22T13:42:34+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "SoFi Launches Tokenized Deposit Product SOFIE With 4.4% APY",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXVk9Hc0ZQM0dJcDlDQm9zS09KMTZsYzJ1c2hndEpNbVRfbjJBSC1iQUUzdVVVVktxTkV2bm5JaEg1U25jOFc0Mk5UdmRsMHJGYkFYZQ?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-10-22T13:38:48+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \u201cUnknown\u201d Wallet",
-   "url": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-22T13:38:10+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Visa reportedly in talks to acquire Fireblocks for $2.5 billion",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHQzVESE9Yazh1QS1ndEhBNW5TVEVWNXJCcXV6NExGMURPcm51amZER0xVbHR1dXJUUHJDVUl1UVhqZ0ZCR2tjRUtJaWFGVWJ5eUJyeTVBaDIyOG1JVTlDaFQ0RkRwU2xaZmhsUWFaNkl1ZmdT?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-22T13:37:45+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Crypto shareholder sues Trump, family-backed crypto venture",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGVhdlJxbkpoeGZVZU00TTFVcS1jV0p5dFhsdExiZVhweXJRVzR5M1ZLUEs5cnJsbVp4NGdKVGk1cnhJakVxNlNwaVdtLVlaWDQ0OHdzN1hNMzNSRllIbnlONHczSlZiVUJQU0JTS0h2V0NvcTVpakRCUGJKbmZjOEhEWGdyc1dQenRpbC1xM0xyYXlVRFdCUzlyMGYtNFRROTJN?oc=5",
-   "source": "Politico",
-   "type": "news",
-   "published": "2026-10-22T13:36:00+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "SpaceX-Tesla Merger: Passive Flows \u2018Hack\u2019, Could Bring More BTC Exposure to S&P 500",
-   "url": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-22T13:33:24+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "The OCC\u2019s Stablecoin Rule: The Limits of Regulatory Clarity",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHJsVVpRbTM5OVhQVWIxRGVEZExGZlNZRXp6S2hpOHRWN2sxQ2FWZlFmNXI0X0RhVGVXdVVOV2gxTDBqUlFkblVhNkRkRlk3UDB4MEZzVXBwZG05ZS16UHdtSTFVN2ctbjZnMnJQdFBjT0tvaFJYTkFuM1QxdjdTRHA4U01LR3hKaEw5X2w2VzB4MUZnTkdfd3JpNGwxVXYwS2ZnbQ?oc=5",
-   "source": "The American Action Forum",
-   "type": "news",
-   "published": "2026-10-22T13:32:37+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "State regulators diverge on stablecoin safe harbor as GENIUS Act deadline looms",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3ZCN0NKNGpDUUVuOWx3dHE0SmI1N0RjVHBOSlVRQk5zY1VjQVVNVkZPZGFQNlNKUmJiRlRaSTR0U3cwYXFwTEJXNGNaVk90LXpZWVNXQmZvbjlzRFcyd2lyYXNRTUVqZHpMSndxelcwTnU2VHJFUGY5NHpWUnpRTmJ1ZFdjZlFGcGVrRjRLc082RjZfQ1hRWUhOYmpneFozVV9PbzQ4a2haYWVwZFBvUw?oc=5",
-   "source": "Ledger Insights",
-   "type": "news",
-   "published": "2026-10-22T13:31:03+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Why Stocks May Rally If Trump Loses Congress (SP500)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2Y0TTVvNGNzUWJub1hROUwtdmZhTG04aUgyMU1Jak5CRl90S1NRUmdFMTVjRUhaanVfR0l6RWpXR29GM1VYOXZJR0JMYm1UU1N0Zk9Db1pFVFRSSVpybWlKX0swUV9pdnBKaEU5aWhHVmtYZVZ1VmExc2VBUEo3Y0NkSklxaVlWa3d1OWxn?oc=5",
-   "source": "Seeking Alpha",
-   "type": "news",
-   "published": "2026-10-22T13:30:00+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Trump"
-   ]
-  },
-  {
-   "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
-   "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-10-22T13:27:54+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "HSBC research ranks UAE among top three markets for quality of life satisfaction",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdERnaThMLV95bFJUazZha1Y2RmtkQmcwaERDSTN4RDdPUG11QmRaY1RhZnlBcDdlWTNvdkRwRVd1SnM5TzBPcGhOOE1XMzFnT3p5czQ0eTZ6UmQtRFJBOU5ILUMzRXQ4VGg5Z25saHBrclNYUmRJVVFaRzZoUzRCSWRITEtLaVNWMG9pb0RXMHRzZkJNS0FYaWxwaUwybVlJbG1nd0I5MDVaZGVkeHg5VDVKeGswR183b1BQbkxB?oc=5",
-   "source": "Zawya",
-   "type": "news",
-   "published": "2026-10-22T13:27:00+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
-   "title": "Visa in Talks to Acquire Fireblocks?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuTmV2UGlCc3EzdFZ4TWpJdEVSZUNNNXRDay1mWFdqTkQ3a2JhVXhObGE2WS1UUUVsbmtUSWtKUHpRRUJkeUE1aDJpWFBPTHJLV2FNN3lSWmtIaXhHTTJqdXRoMk5YX0FvdXE5dVNpWlJUUQ?oc=5",
-   "source": "The Cryptonomist",
-   "type": "news",
-   "published": "2026-10-22T13:20:04+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
-   "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-22T13:13:45+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Crypto Market Today: Bitcoin Holds Near $83,000 as Zcash Leads the Gains- What\u2019s Next?",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFk5ZDVybVFLVWNna2w2d0RQaGJfQkY2aXlzektpbU5sT3pEMnByT2NoZ2NMMGVOOTNfcjRYbGU0cWI5RzFLblZVSkY3NnVFVnRmTWZMeWNjQmxPUmxHVFVOelFqbWNQOE5oYXNLSnQtYjlScEt4anhnSmdkNTAxZURhTlpqQkplNlpyZmIzVkFMTURsR0NrMTlYLVk5Z0hDazMtUHAyOHE1aXE4cE9iT2xCeFlvR0xuTGc?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-22T13:11:56+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "SoFi launches tokenized bank deposit offering 4.40% APY",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05MTMzRllzN3dKN1Zuai1nbkNCc1AwRGFOaHBnR3NVQ2N0SGxhWHZsMnlsTHpGbzhCdE1xLTFMT0NmYjdUajlGQUJkcnoxcUpYTlEzc1R2RjNmdjNNRndNWWtFdmFxVzAxdHNkbFJaSVNJVzRJTWc?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-22T13:09:53+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "UAE investors more confident about wealth, with 21% backing new businesses: HSBC",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDdDY1NOcDVFVzRwcEpHa0h6b3lJbTYydFhUZmc3TUt5RWctSkhkZ1ZqYmNDcHJIdGx3ckh0LVVXNFFLR2NYWEtPUml2R0ZtMlUtQmxPNTF6SVotV2d1dWR5cERMa01tRkRhRC10bVVmYkh4ZkVGYzIzREEzV1pFbU1HNlBfY1VPb0pjbno2by1QWjV4aDVOaGZlUjFYb1hQSExfTDZCUHR5YTBOekp6eHl5bXVwVlRacm53ZzRCRy1GRS1yQVE?oc=5",
-   "source": "Gulf News",
-   "type": "news",
-   "published": "2026-10-22T13:04:32+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
-   "title": "HSBC Warns Ripple's 24/7 Stock Trading May Face a Liquidity Problem",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2twVm94VUNrZV82RHpaVlZFQXR5eTR2NXRRMmI5VnUySUVnSkt0UE1LY2tCbkxSLVNDTk9oQ05zSUFnWjBVQ3VKQ1RuLUdSbHYxcUZaWDVGVWpYa291a3ptZ3JfUlBiUGxlOHBGZzFOOTl6S1N0cVliTGdTNXNVZ3JNYkdGTTV5NXZJRVBPOURlaXdPaTRpOUdpR2w0SWRod0RNNW1FWng?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-22T13:01:42+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
-   "title": "Visa in late-stage talks to buy Fireblocks for about $2.5 billion: Report",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YTXNEY1AyaFFLTG1sRkNmYldlQ2xyWmRIMTk1cUdsbG9FclBTenFoSnYzeVZyWEU2VTU3Rk12bUNHSUFZRWhfT2pVWkRnSTh1dlFIcWc2M1RodThiZzc2Vk1nWU5WZ0RmNTV1VEVKRVRGTDdyU2oxRW81c2g?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-10-22T13:01:39+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Visa Nears Deal to Acquire Fireblocks at About $2.5 Billion Valuation",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MNWNEWVpxVmdKMWRHeUdtTkJVSDc3LWIyS0ZVRm9RVlNSYkhMek45WGJQeVNkb2JCWEM0LUxoWi1aQ09ndzc0RVR0RjNBN3daQ042NA?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-10-22T13:01:30+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Fireblocks"
-   ]
-  },
-  {
-   "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
-   "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-22T13:00:00+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "SoFi launches tokenized deposit convertible to its SoFiUSD stablecoin",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PZ0d6bEw4R3VZREl5Q3MzRzNsYjlHR3hfRG5zX195Sno1cGhDY1hQYTd6ZHlVcmE1LWxSM21RWkZ0R1NRSWZOajI4Um03aHRwdkZYYnEzaDRKNF9lOV80emduekRia3pDcnA1cTl2NVZmdWM?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-10-22T12:32:49+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "What Analyst Projections for Key Metrics Reveal About Robinhood Markets (HOOD) Q3 Earnings",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWRZMzJhRVlqSlVzQVpMY3lEZnVPMWRrTUM4SnAwelJtNDdkNlFBWXBXSUdpdWtjcDYxcWg4Mk82dTFYVEdMTGFtZmM3X1dkUTlzZ1ZsaFlUOW1KOVZydTdPSGhIVkU1N0NaakNob3QtMHRicVpRN3B1TE9oNFFzTjZUbk14UHktdzNNWGV3S2JxUklWaVItNTB0QXgwZHNpSHRQTGN3?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T12:15:08+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Ethereum\u2019s four-minute settlement plan could lower the cost of moving crypto",
-   "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-22T12:14:29+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "SoFi launches tokenized deposit product for crypto users",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMU9HRUwwbmI2YVh2VHoyWHNFdGo4aElOdUNuY2RxdC0yRnh2RkJVQTFETHg5TDEtRDlYVlFXVS1rZlZVeWxHR2toQnJPTi1jQk1FTFhSVUZuZ3NzU0xST2NSX0tlbEpIX3RSYmh4ZFQxSUFZR3V6ZFhVeEFUNzJ3VEZjWkJib0EwM1cyMVVHdVlaS2hNSDFJeDBGSGxJdGxNUHc?oc=5",
-   "source": "Traders Union",
-   "type": "news",
-   "published": "2026-10-22T12:09:30+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "LayerZero\u2019s RWA Push: How Ondo Uses ZRO Infrastructure to Move USDY Across Chains",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGJrTUdURHRCc3ZyX0c4Ym0yeldoN2lhZWI0bjZJQkFyVVl0dzFaWjg2WEdIZE4xWEtocDloMlB1OWJyV3B1b1VwTmYyb1hyWUtSMmFOeHdSZGJaTTA5dlRqQWJ2clhmZFVkakJXOGF0LS1USnc3QS10dDNTcXN3WXh2VUpoWXJJWU91Vk9DLUY0ckN0UjRROHlfTFZJUDc1aHJWbXcyUWIxSWM?oc=5",
-   "source": "Altcoin Buzz",
-   "type": "news",
-   "published": "2026-10-22T12:05:53+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "SoFi Launches SoFi Earn (SOFIE), the First and Only National Bank-Issued Tokenized Deposit for Consumers",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcTNVWlFscmtMTWViR282ZnlvQlI1Umc1RmpRTGRudGZnd1Uzb0tVTjZKMU13cjBJbkZ4U1h4LUd6cTFmR0tIUFpfaGdSX1pNM1hqMDNzcWltaGpQS2tpQ2pzQ21veUFsSEc0UmN4X214WW42LWZOd2N1RlpyUG9hSkpwSXBZb2EzVWhmNk45NkxBd09XTDVWc2wwaEh0ZzQ3c04yZlFsU0FiMWRfT3lXN2Z1OFJMZTVYQ2lzSzhZdkRTVGJINWxXYnZ6THZEMjc4dUpibU1hUjY1RkZ3VVNjemdPSkEycHVGUmdhSWJfRnJOcmgtMzNJ?oc=5",
-   "source": "SoFi Investor Relations",
-   "type": "news",
-   "published": "2026-10-22T12:01:44+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
-   "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-10-22T12:01:03+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "The UK needs a workable route to regulated DeFi access",
-   "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Dune launches onchain trading data feeds as tokenized markets expand",
-   "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
-   "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "RWA",
-    "SoFi Launches"
-   ]
-  },
-  {
-   "title": "SoFi becomes first consumer bank to launch tokenized deposits, offers 4.4% interest",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGZ6akZCUnFJVGJFMi1WUUJXbVFzajZ6M24tSTdxNW5aTHFLaTkyWGhrUDdMc3NyTGhUdWZiZDlrd1pSLTNBeXRaZFJoVFR0bThBdVJoQmxJb2xTbU1tUXJzZWRaUzZYbkNfeks2RnpDbE9HanZDRTJDdVdLRm1zSU1kT2xkZ0otSENZUWs1VXo0bVUyQWNZSjctMWFBZw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Fixed-rate, fixed-term loans seen as key to expanding real-world assets in DeFi",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DR0ZxRW1IYW9zeFZiMGkzYTRYbTBNZFFyMlJDM0dXMmZlajRJUEdURFRnWFdZcC1WbTMydGlaOFdtbDlsLTRvQks0NG45VGYwT2xYME9KZnc?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-10-22T11:40:44+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "US OCC Finalizes Stablecoin Rules Ahead of January 2027 Effective Date",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFbTBIQXpVYVlqajgwcGFhQVhlTnFYVF9VeVBWS2RVNEhTbmY3TjZwYVVYNjBWQUowZ3k0LWlUQnNiR2U5?oc=5",
-   "source": "\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",
-   "type": "news",
-   "published": "2026-10-22T11:35:41+00:00",
-   "first_seen": "2026-10-23T11:05:19.942217+00:00",
-   "topics": [
-    "Stablecoin",
-    "OCC Finalizes"
-   ]
-  },
-  {
-   "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-22T11:20:04+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Trump\u2019s GENIUS Act Just Got Its First Real Teeth: Here\u2019s What Changes for Stablecoins",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIT3I2TjF4SDlhSHJXd2NQTlBUOTFleTdzd19CdkdvdGItTnk3UnRqak9MSm9FNnd0LXlDQnNuMU50d3NKUlNKaWo1VUNGRnNIaExLdkg4Y00xb3lEQ2o5Q0FDS2ItRzdsakJVNjBCRmRUNVBBM2N5UDVfZF8?oc=5",
-   "source": "CCN.com",
-   "type": "news",
-   "published": "2026-10-22T11:10:45+00:00",
-   "first_seen": "2026-10-22T16:00:05.546465+00:00",
-   "topics": [
-    "Stablecoin",
-    "Trump"
    ]
   }
  ],
  "stories": [
   {
-   "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
-   "outlets": 21,
-   "topics": [
-    "Fireblocks"
-   ],
-   "items": [
-    {
-     "title": "Fireblocks reportedly denies reports of USD 2.5 bln acquisition by Visa",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX29BNDN6Wm1iSlJlZ21GZDI3LWF4RXV2QXp1eXpwd1hIdzlCZTRsOFNkeHZZZ2ZpRXZUX2x6dld2RFItLV80by10dmZERXk4ZXJadkVSWW1TT0g4b3NNXzh1dkZCTVo2TlJtZ1VGRDFtQWhRZ2dfNnJOOHczcW5JekhMWVlhMHpmcHdyUFFCU2FBMzJCS0oyYzBWV180NDQ3ZUtMakFFT21VX1IwNW96RUlCaUxkWG84QXNDeUltVmlrNDhjNkRwb1gwQl9qTE0?oc=5",
-     "source": "The Paypers",
-     "type": "news",
-     "published": "2026-10-23T05:58:34+00:00"
-    },
-    {
-     "title": "Fireblocks Denies Visa Deal Rumors After $2.5B Buyout Report",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHJaNVYxd2hYS0s1R1pxVW9oZEhiUGxJdnV4S19DLUZ3RDZsbVViOGVVV0oxWW5nXzdJQksycWU5Mk41UXpNajBQbTd6c1h0dkFLVml4YjM1WENqdnFORlBOYlk0bTkwbVJnTF9rS3pUMEp4eFNWaTdSTnhma2JXdUNfOW9FekxLeXV0Rm5KUG1HbXlONkdOZw?oc=5",
-     "source": "Bitcoin News",
-     "type": "news",
-     "published": "2026-10-22T22:20:24+00:00"
-    },
-    {
-     "title": "Visa in talks to acquire crypto custody firm Fireblocks for around $2.5 billion.",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XN2UyRWtxM3pnMUVobm1UVm0yYUw3QnAxdklzXzJSUmE3Y0JOTjFERHQxbDVvaEpVX1QyRjhhU3lWX1hfdS1yQXNLYTY0Y3BqdU5FcF93T0laN2xM?oc=5",
-     "source": "Substack",
-     "type": "news",
-     "published": "2026-10-22T18:46:04+00:00"
-    },
-    {
-     "title": "Fireblocks responds to untrue \u201cat this time\u201d Visa deal reports",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80VUN5dHlrSkpoYnNDZFdBbHVVdDZIbEFGTEVDTVJCSXJrWXVVc0ZnSzVlMWVvTWQ2SkFpMWZSTmQwUm5ibm5MQmlQQUhLN0Y1dXROTmIyLVBudFJGRjFtV2dYbkNBa2M4LXhDQUszRjhnQlNKSm1ORGNoQQ?oc=5",
-     "source": "Cryptopolitan",
-     "type": "news",
-     "published": "2026-10-22T18:45:01+00:00"
-    },
-    {
-     "title": "Fireblocks Denies Visa Acquisition Talks Valued Around $2.5 Billion: 14 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa1lzbUwyQTZtb0JZMlJJSmN0VTdLWEg0aVhYcUZXLXd4eVU3cXEydzI4QXgtNjZJSmJqcTZKNDNYTzhhdnFxM2hscV9xTjF5NkhtRWRTM29qMHdTU1NCNmEyMGlVYnZramgtbkd5OUNLQXpWTER6SHo1MktWMTVTV3JGVG0yN2lOeEk4UUh3OXZ6dXpMVzUzOE9oWTdyLTdqcHlxWjZVVzJyOEtsdnFmaWptZkswWXB4ZkVvQTdFRkp3ZWsxbjhaYTJLVWJCSFNidnRvM0JB?oc=5",
-     "source": "NewsCord",
-     "type": "news",
-     "published": "2026-10-22T17:46:46+00:00"
-    },
-    {
-     "title": "Fireblocks Calls $2.5 Billion Visa Takeover Rumor \u2018Not True\u2019",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2dNYWJDQjd1eGZMTE9YeTlMbXB6bVlPOUNwcW5zODhHSWlwdk1PQm9FNmp2aEpEbUFCeHVZRjlBWU1JbHppOXUyUXAxQ3JwZldEaUJ2OHVwR042b2hSal9HLUZhOFNqdnMzcDVMZERuTEJ1WnBySDlJZ0lTSHQ1S2hqRFRxVDQ1RE9ESmJXcw?oc=5",
-     "source": "unchainedcrypto.com",
-     "type": "news",
-     "published": "2026-10-22T17:17:00+00:00"
-    },
-    {
-     "title": "Fireblocks Denies Report of $2.5B Visa Takeover Talks",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWliYUpJTy12UHBkT2o1TEl3X2tGOFFjU1pRLUJaSGpaR1E1Nkd3V2MwaUpmOWQ1TGkzY1JKNFZHUFFYbDRneFJqdW9yeXBCd1pZOHNib0UzaEZBei1oMWdFWXdNVm9GN0FtMHlGWTNCZG5GejhMZWpQdGdnNzMwQk01WnZfQQ?oc=5",
-     "source": "Altcoin Buzz",
-     "type": "news",
-     "published": "2026-10-22T17:15:47+00:00"
-    },
-    {
-     "title": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMS1vZXN5S3dlekxpNUpoak0wOHU4bDRLYXBHR0NhUHVaS2lJQ0xEZWpwYm51N1BYYmxia3QzLVZPQ1FMZmdsb2hXSU5kTTVrOEw4aktxeFBXSmNMN2xFdk1IUzRYOV9uUkpVWWxfVWItS1cyZ1YyNEZlaXpCSEFiQXhBQUVTRFZETElTcUhyWjYtckhxT2ppemprRUViX0dKLWRmMnJTdG9zbFhheGQ4eTgyakREaDcz?oc=5",
-     "source": "Finextra Research",
-     "type": "news",
-     "published": "2026-10-22T15:46:00+00:00"
-    },
-    {
-     "title": "Fireblocks Denies $2.5 Billion Visa Buyout Claims",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50SHdjUkxNUnZvMmFvZzZjY3NkeW9aMzB3MzlTdGZPZ0JvMk84ejhhb2ZHRVhjM01XRlo5d0dZQVZ1OGs4S0JGVEtfWFJmZk9HajRrY0NBdW9TSk1EMWVlSUVRMExOeTF5aF9hTFNkOXllbk0?oc=5",
-     "source": "BeInCrypto",
-     "type": "news",
-     "published": "2026-10-22T15:28:00+00:00"
-    },
-    {
-     "title": "Visa in Reported approximately $2.5 Billion Deal for Fireblocks; Both Sides Say 'First We've Heard of It'",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MOWgzbjFpSU1wc19BT0NkaEQ3RFRpRm1fd3hqZDNyOS1KYlBUaWxYTFJRUmxQUExSRmxQZWtrMXR4ei1Ta2U2cUxrNU1MLU5ESTYyamFkY0tld2NNQjdmdld0eWVHY0FuQ2FYRVNTWFF5MFdsN1E?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-10-22T15:05:00+00:00"
-    },
-    {
-     "title": "Visa Reportedly in Final Talks to Buy Fireblocks for $2.5 Billion",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OMmF3UXJXRF90OVdxXzJ6TmZZY2U1RWxXSlJwSWhRWDBRV3BTTmNOcnVyOE9LTFVRY3cxdU1xX016b0pIT3BOQlJlVk54UklGSG9YcjNJZWhaZGc0TFNqSlEyOGVPUUZ5bHFiNkJoMHlyVmJrUTRB?oc=5",
-     "source": "DailyCoin",
-     "type": "news",
-     "published": "2026-10-22T15:00:00+00:00"
-    },
-    {
-     "title": "Fireblocks Denies Report of Late-Stage Acquisition Talks With Visa",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRWUVxNFE3NDJqWmdWanQwQUd3djhNRGdvdDBKOHZUaFdpZFhiTzFSQTRrUTRUNW1ZOVhtaC1sdVNITTl2MDE1RFRGMkFYa0hVSjZkUA?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-10-22T14:48:11+00:00"
-    },
-    {
-     "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-     "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-22T14:41:00+00:00"
-    },
-    {
-     "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
-     "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-10-22T14:38:25+00:00"
-    },
-    {
-     "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-     "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-10-22T14:37:12+00:00"
-    },
-    {
-     "title": "Visa To Acquire Fireblocks For $2.5 Billion: Reports",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHp0TzdFdVQ0VWlIbHRONVg3NDF5VjdJb3FVNmFUaEJhczIwYkpWQ0owX1NCQkpxN3Fualp6R2NLMF9qTUZpZDk3ZzUzTXNmZjR4UklQRHM2NHk1WnlPamFnZklZbkxNcGZCX1g2Y3JCS0sxQThkamRQQ3YxaV9ZNkpCWXBGVjcxVmZTX0pfMzNhVGdLUlc4?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-10-22T14:33:00+00:00"
-    },
-    {
-     "title": "\u201cThis is news to us\u201d: Fireblocks rejects reports of $2.5 billion Visa deal",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Lb1hTMWZTSmhkUnByUkh1eW5QTWJtSjJqYXdYLV95Y2VwQkp5QkIxanBPdkQ4U0kxNnR0RVB4eUk0cWF1MUxBaFJIN1RuMDFkVDhPekp1bjYxd0dvSmtqcERnckdqaVU?oc=5",
-     "source": "CTech",
-     "type": "news",
-     "published": "2026-10-22T13:59:00+00:00"
-    },
-    {
-     "title": "Visa reportedly in talks to acquire Fireblocks for $2.5 billion",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHQzVESE9Yazh1QS1ndEhBNW5TVEVWNXJCcXV6NExGMURPcm51amZER0xVbHR1dXJUUHJDVUl1UVhqZ0ZCR2tjRUtJaWFGVWJ5eUJyeTVBaDIyOG1JVTlDaFQ0RkRwU2xaZmhsUWFaNkl1ZmdT?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-10-22T13:37:45+00:00"
-    },
-    {
-     "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
-     "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-10-22T13:27:54+00:00"
-    },
-    {
-     "title": "Visa in Talks to Acquire Fireblocks?",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuTmV2UGlCc3EzdFZ4TWpJdEVSZUNNNXRDay1mWFdqTkQ3a2JhVXhObGE2WS1UUUVsbmtUSWtKUHpRRUJkeUE1aDJpWFBPTHJLV2FNN3lSWmtIaXhHTTJqdXRoMk5YX0FvdXE5dVNpWlJUUQ?oc=5",
-     "source": "The Cryptonomist",
-     "type": "news",
-     "published": "2026-10-22T13:20:04+00:00"
-    },
-    {
-     "title": "Visa in late-stage talks to buy Fireblocks for about $2.5 billion: Report",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YTXNEY1AyaFFLTG1sRkNmYldlQ2xyWmRIMTk1cUdsbG9FclBTenFoSnYzeVZyWEU2VTU3Rk12bUNHSUFZRWhfT2pVWkRnSTh1dlFIcWc2M1RodThiZzc2Vk1nWU5WZ0RmNTV1VEVKRVRGTDdyU2oxRW81c2g?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-10-22T13:01:39+00:00"
-    },
-    {
-     "title": "Visa Nears Deal to Acquire Fireblocks at About $2.5 Billion Valuation",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MNWNEWVpxVmdKMWRHeUdtTkJVSDc3LWIyS0ZVRm9RVlNSYkhMek45WGJQeVNkb2JCWEM0LUxoWi1aQ09ndzc0RVR0RjNBN3daQ042NA?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-10-22T13:01:30+00:00"
-    }
-   ]
-  },
-  {
-   "title": "SoFi Launches Tokenized Deposit Product SOFIE With 4.4% APY",
-   "outlets": 17,
-   "topics": [
-    "RWA",
-    "SoFi Launches",
-    "Stablecoin"
-   ],
-   "items": [
-    {
-     "title": "SoFi Launches SOFIE, a Bank-Issued Token Paying 4.40% APY",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90NTJQUlRiSWlnUUgyMEZyLVVFT2tCRWpZZ2pfeEUzbE5VZWZWMlBfamExanFNUkdwc25sQk1Na0l1eEJrV1NjMThFeVhCMl9qRER0TVlBMEdkTnUtNDJCalVTdk5LWGQwMWNN?oc=5",
-     "source": "www.techi.com",
-     "type": "news",
-     "published": "2026-10-23T09:44:16+00:00"
-    },
-    {
-     "title": "SoFi launches retail tokenized deposits paying 4.4%",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWhJWDl5WjVnMFY0bDFUSEU0dlljWld3VlNObGoyUEk1QmpKWUViOUx0V3BtcTMwV3FYQUJTQkRXSVFlZ1NkMWxFcUlselZOLW1oM2RWRFZGQWhxeldia2VtQVYwN0dGZTIwQlVVbHNic1BMT0N1TkhlNTZMSG03WG5qZjJzQUtXWEE?oc=5",
-     "source": "Ledger Insights",
-     "type": "news",
-     "published": "2026-10-22T18:00:28+00:00"
-    },
-    {
-     "title": "SoFi Launches 4.4% Tokenized Deposits With FDIC Insurance and Stablecoin Conversion",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODRTWDd5OWhVOXVia1J4czZtNk44YVpLWTU2YW9Qd1FtR25pOTlmSGFBLVZlVmRFYkc1S3hTX1hsTTU1aER0aTJsLUlKU181SFkyOVF3cVppbmVRQ283TnFHSExySTM5Q01HYUl3MU5qajlDUk5XWkV1N052eGh2V1duRzlKU1k4aEUwNFU2Z25YbXZhR2VWMURLaHRYanlydS0tQkdKVmxnUS1s?oc=5",
-     "source": "FinanceFeeds",
-     "type": "news",
-     "published": "2026-10-22T17:00:15+00:00"
-    },
-    {
-     "title": "SoFi Launches 4.40% APY Tokenized Deposit With FDIC Insurance",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtSllTRTBOaEZqTlN6LWYzcjRKQkF2ODQzd29JLXNSdGl1Znk2TVFaVjZJeW5SUklxbEhXQ3ZJNFk5Zi15RTlway01QjZHd29JRERwem1aeVVEd3hPLWZLT1pXTTFyaWZsUllDQnMxVmFxMnVRZDYw?oc=5",
-     "source": "Crypto Economy",
-     "type": "news",
-     "published": "2026-10-22T16:32:22+00:00"
-    },
-    {
-     "title": "SoFi launches tokenized bank deposits offering 4.4% yield and FDIC insurance",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeS04ZDdpaE05YS12Y19WMXlxaU9TSVR6Wmd2MnlQNVJsczY2VV9RVlR4Nl95dFdqeHRCcE11UHlxZ2VVd3BHWTdWdEFYSUo5alA5V21DTU5xcVdSd1NEelh2c014MjA?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-10-22T16:19:42+00:00"
-    },
-    {
-     "title": "SoFi Launches Tokenized Deposit Product Offering 4.4% Interest on Crypto Cash",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdV9RT2F5OWF3aU5lMkpQa0J4R2JLRnVDU3o5MWQ3aG5BZDh3ZTdXSVdacDlxeWNvNE9CQ3dPOC02VWpDRklzaG13U2hXQUozRGp1dlZ3b1VFVmpXdElPZ01SM29KZXIzSkRnWVVBVWRXVEJLTkxzZTNJdXJBTDg5eGZLQmFkN2RvX2pOb2wxOTd2VTA3LXZDVFZ4MU9nMHpGTkhhZGxxUzJtUWxvc3h4cnd3?oc=5",
-     "source": "CoinCodex",
-     "type": "news",
-     "published": "2026-10-22T16:03:00+00:00"
-    },
-    {
-     "title": "SoFi launches interest-bearing tokenized deposits for crypto cash",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTZ5NlB6cEVES2hCQk5EYjdZOFVsM1JzRDhtZG9WdFRWTW0yVHkxbldsQ2R1Y2tJSk1jcnh4X3Q0dWV5UDlheFFnaDlEbkMtci1TUTYxSEpKN3BqWFY5TWxucG94NzFwZlpJZG9lNEppNEZrcVpMaDR1djVraU81SVk2elg1WlJhbmFoaXYwWFg5aXc?oc=5",
-     "source": "Mezha.net",
-     "type": "news",
-     "published": "2026-10-22T15:53:39+00:00"
-    },
-    {
-     "title": "SoFi Launches an Interest-Bearing Tokenized Deposit That Converts Into Its SoFiUSD Stablecoin",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazJ4RDJudWQ1N1NYb2Q2WnphQ2JESmZ3UkdaZEhQTnBCVkZfNW1jVUFORktjbF9OYTQ5NDJlNUZoM1N4emVUeUR4RWFMdTVEWmxQN3lEM0pSRTlCQkdJNWZIQlpSV3FGUThUSjFxNlBQN1VCZWJ5T2J0RDBQVm1EYzRUZEpjOFR2c0swaGxqemVlZzduSmF3emRhVHhfLXROMk9XUW5SaW4?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-10-22T15:17:34+00:00"
-    },
-    {
-     "title": "Hours After the GENIUS Act is Finalized, SoFi Launches Interest-Bearing Tokenized Deposit",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2hZUlllb3EteUNzYlJ3N1B2MVlMWXloZ2VzSHcxMjhPMzhoWXFlRDlWdTk5SkhHaHY2c1lwazdOdl9lUnJ5UndwWkVfZXh3ZGN1d1BDc3kyV2cyenRrTE54X0NUMDB3a1NXWGhOS29hY2lPeUZORWpFU1VpOEJYRnlLZXE4VDNVNFYxS1hqVUtTUWd0WG1SRDlaR3hkQlVHa1VkWHJSSDJzajRHQTJr?oc=5",
-     "source": "Finovate",
-     "type": "news",
-     "published": "2026-10-22T14:51:34+00:00"
-    },
-    {
-     "title": "SoFi Launches Yield-Bearing Account for Funds Awaiting Crypto Purchases, Calls It a First",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFEzdzRaTTNYRzdTSWZURTJHSTlHbGNSMl9UdHZNZ1Rzamd0RGFzZXplUlZqRElIczdpV1AxQkRHWTNyaXlGOW5lX0N1SkNuRHBZT2Q4SGt1NExvSzI3aEhzRXNkMWtHd1JJeFVtY0NWblducnBtRWlUeFRxYW83dlg5M3RLZjFtZ1QtNjgxZi12ZGR6aHdjUXM0Y0J0a0xsbURQQzQyR3pGY204cjZ5TzRJOFIyTlhWdlVVTzN3NVJtT2xMRWc?oc=5",
-     "source": "Koin B\u00fclteni",
-     "type": "news",
-     "published": "2026-10-22T14:02:21+00:00"
-    },
-    {
-     "title": "SoFi Launches Tokenized Deposit Paying 4.4% Yield, Linking Bank Savings to Stablecoin",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckRjNDhkQ0tUZ2FpV2J1LS1nQmNjOWR0blZOcms0ZE45QldZRHAzLWdZVXlVckZ0R0pmUGFNNTdpV2t2M3l2LWFtZlRtOFlUalFwNUhhTi1SWUE5N1IwWVk4WWlMTmd6RW5nS0t3a0w5WTNESnJvS09aM0lOc3h2U2xNN2MtbnB3RjhNOVFqQ2NRRjk3Slh1YU9SZ2VIUFU4WklHY2V3?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-10-22T13:48:00+00:00"
-    },
-    {
-     "title": "SoFi Launches Tokenized Deposit Product SOFIE With 4.4% APY",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXVk9Hc0ZQM0dJcDlDQm9zS09KMTZsYzJ1c2hndEpNbVRfbjJBSC1iQUUzdVVVVktxTkV2bm5JaEg1U25jOFc0Mk5UdmRsMHJGYkFYZQ?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-10-22T13:38:48+00:00"
-    },
-    {
-     "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
-     "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-22T13:13:45+00:00"
-    },
-    {
-     "title": "SoFi launches tokenized bank deposit offering 4.40% APY",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05MTMzRllzN3dKN1Zuai1nbkNCc1AwRGFOaHBnR3NVQ2N0SGxhWHZsMnlsTHpGbzhCdE1xLTFMT0NmYjdUajlGQUJkcnoxcUpYTlEzc1R2RjNmdjNNRndNWWtFdmFxVzAxdHNkbFJaSVNJVzRJTWc?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-10-22T13:09:53+00:00"
-    },
-    {
-     "title": "SoFi launches tokenized deposit convertible to its SoFiUSD stablecoin",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PZ0d6bEw4R3VZREl5Q3MzRzNsYjlHR3hfRG5zX195Sno1cGhDY1hQYTd6ZHlVcmE1LWxSM21RWkZ0R1NRSWZOajI4Um03aHRwdkZYYnEzaDRKNF9lOV80emduekRia3pDcnA1cTl2NVZmdWM?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-10-22T12:32:49+00:00"
-    },
-    {
-     "title": "SoFi launches tokenized deposit product for crypto users",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMU9HRUwwbmI2YVh2VHoyWHNFdGo4aElOdUNuY2RxdC0yRnh2RkJVQTFETHg5TDEtRDlYVlFXVS1rZlZVeWxHR2toQnJPTi1jQk1FTFhSVUZuZ3NzU0xST2NSX0tlbEpIX3RSYmh4ZFQxSUFZR3V6ZFhVeEFUNzJ3VEZjWkJib0EwM1cyMVVHdVlaS2hNSDFJeDBGSGxJdGxNUHc?oc=5",
-     "source": "Traders Union",
-     "type": "news",
-     "published": "2026-10-22T12:09:30+00:00"
-    },
-    {
-     "title": "SoFi Launches SoFi Earn (SOFIE), the First and Only National Bank-Issued Tokenized Deposit for Consumers",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcTNVWlFscmtMTWViR282ZnlvQlI1Umc1RmpRTGRudGZnd1Uzb0tVTjZKMU13cjBJbkZ4U1h4LUd6cTFmR0tIUFpfaGdSX1pNM1hqMDNzcWltaGpQS2tpQ2pzQ21veUFsSEc0UmN4X214WW42LWZOd2N1RlpyUG9hSkpwSXBZb2EzVWhmNk45NkxBd09XTDVWc2wwaEh0ZzQ3c04yZlFsU0FiMWRfT3lXN2Z1OFJMZTVYQ2lzSzhZdkRTVGJINWxXYnZ6THZEMjc4dUpibU1hUjY1RkZ3VVNjemdPSkEycHVGUmdhSWJfRnJOcmgtMzNJ?oc=5",
-     "source": "SoFi Investor Relations",
-     "type": "news",
-     "published": "2026-10-22T12:01:44+00:00"
-    },
-    {
-     "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
-     "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
-     "source": "Decrypt",
-     "type": "news",
-     "published": "2026-10-22T12:01:03+00:00"
-    },
-    {
-     "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
-     "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-10-22T12:00:00+00:00"
-    },
-    {
-     "title": "SoFi becomes first consumer bank to launch tokenized deposits, offers 4.4% interest",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGZ6akZCUnFJVGJFMi1WUUJXbVFzajZ6M24tSTdxNW5aTHFLaTkyWGhrUDdMc3NyTGhUdWZiZDlrd1pSLTNBeXRaZFJoVFR0bThBdVJoQmxJb2xTbU1tUXJzZWRaUzZYbkNfeks2RnpDbE9HanZDRTJDdVdLRm1zSU1kT2xkZ0otSENZUWs1VXo0bVUyQWNZSjctMWFBZw?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-10-22T12:00:00+00:00"
-    }
-   ]
-  },
-  {
    "title": "HSBC RedCoin stablecoin launches for 3.3 million PayMe users in Hong Kong",
-   "outlets": 16,
+   "outlets": 10,
    "topics": [
-    "Bitcoin",
     "HSBC",
     "Stablecoin"
    ],
    "items": [
     {
+     "title": "British Bank HSBC Launches Stablecoin",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU25MU3BxbVhOaERCX0dPQ2g4cldIVU83dEIwbUViazhSbURWZnZQTmlCU2ZsRUo2UzY0UFZzNXJxYS11MmZLcTNxUGUwclpGUkRPUWhzaU9sOEJXTEpEQ2d6enBvREhtV0dYeUtpblR3Yno3TnBDalc5UDdYSElUQ2VPMDhqTHlUU004OG9Ccl92TEYxeVZ0SV92UU1vWjUxd2NjbA?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-23T14:45:00+00:00"
+    },
+    {
+     "title": "HSBC Begins Rolling Out RedCoin Stablecoin to PayMe App Users in Hong Kong",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUJVb0F5RVB5MFJzaUZNa1RhUFlBMEZFaTNfazA3VU05SlNMenpQR1A3MlQzY0c1aTZHa2xMcmUteHRQTHNER1VsNzVQUjFKSW9Icl9SSzd0ek9YUE1VNlBxLTJyeVkxbzF5Mk1yV0tweWtlTUN1Q1hlWENWWDdNYi1qQVBNNEpYR1M2UWRFdkp1SVR4TGdRNHI0RmpQNndqRDhmM2tjbFV5U1pWaWd4Ykg3bw?oc=5",
+     "source": "Northeast Times",
+     "type": "news",
+     "published": "2026-10-23T14:44:23+00:00"
+    },
+    {
      "title": "HSBC Launches its First Stablecoin",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VeXQ3N0FrNlhZclRjM20yXzJJOFdxT09NMXg0SU1BWUlPTy1ZTWJkR0lfLVQ3NFBBMWZLb2tFRWY0NnVmM1dWS3VlWVhZT2E4NmRaUWRkQXNWY0FrUDh6UnNEc0dQaldIV3E0aXRFSTExdw?oc=5",
      "source": "Markets Media",
      "type": "news",
-     "published": "2026-10-23T10:57:38+00:00"
+     "published": "2026-10-23T10:57:30+00:00"
     },
     {
      "title": "HSBC goes live with RedCoin stablecoin",
@@ -3081,13 +1530,6 @@
      "published": "2026-10-23T10:46:32+00:00"
     },
     {
-     "title": "HSBC Launches RedCoin HKD Stablecoin for Retail Users via PayMe App",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nNnYyMUhIcVIwd2pUTENRYnlnOXFndkhGdVFYQktSdllxblpDa09BY00xRmxqU0VBM284WDJsMFNfWjVDSTlrM3ZxT0tsbG81cVlSNVZzRzhGalJJZU52VXBiTVhtTlNNZ2p0ZFZxTml0OWRsRjd4Z3B3?oc=5",
-     "source": "Crypto Economy",
-     "type": "news",
-     "published": "2026-10-23T10:32:15+00:00"
-    },
-    {
      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
      "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
      "source": "CoinDesk",
@@ -3095,18 +1537,11 @@
      "published": "2026-10-23T10:22:56+00:00"
     },
     {
-     "title": "HSBC RedCoin Goes Live on PayMe for 3.3 Million Hong Kong Users",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGZUN3Bfd3BxdDFQejdZTmtXSDFHQVRzbDhDV0trdWtpTDdGd0t5SHBBUnNpMXZwOURHemM1elJoVHRrSEg4OUNuR1VLTVNPNUZIdk5ZTmxZTkJvRmhfWnp4WmdneENId3hPZXRNcEZuRWNfRjFRSVNtb0JoX0dhVEFFS2dQX0JqanRrZjhoeGJ3cEpmZ2tPWHlraklDNzVhVk9rQkVPMmJRTmVRZWc?oc=5",
-     "source": "Disruption Banking",
+     "title": "HSBC Has Launched the RedCoin Stablecoin for 3.3 Million Users in Hong Kong",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORk95d0lWWm03alJQeDZYRmdDcjY5YXhfeEkyQXF6ZHM5NUNrWlFNaWptVFNlVkFnc21HaktqT18zUjBNc1hjc3prTXB4MXllTjJyWjl1VWRzalB5c3VOWDZWTkNEZlg3U2VtU3lONGlYUklSZkJOVk5BTlUyREExN3UwLXpULXRwSXdhR3NES0tjSlFHYTF0TnNydGNLYVlrUWow?oc=5",
+     "source": "Incrypted",
      "type": "news",
-     "published": "2026-10-23T10:00:19+00:00"
-    },
-    {
-     "title": "China Wants $5.1B in Bitcoin, Now HSBC Is Launching RedCoin in Hong Kong",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUdnYU5vajZwcVJwWUdRaEFKbU15bTFabzB3Y3NpbVJyaTJVUHQ4TkxlTGJkVzZTMnNPTElXcHZYVFVqRVRJOHNybVV3dUtqamVzRVV5UmVRVVJycmNKUkJ4RUZldHZCcTBSUXVJU2JSakdKY0V3U2lWQkJ6MDc5cWhZcmxYYmsxY2U2SE5qd2JjbE5uWUdhZnFyem9zVjE1dTdYTVRUMzVqbW9iVkVCbg?oc=5",
-     "source": "99Bitcoins",
-     "type": "news",
-     "published": "2026-10-23T09:09:22+00:00"
+     "published": "2026-10-23T09:06:56+00:00"
     },
     {
      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
@@ -3123,53 +1558,11 @@
      "published": "2026-10-23T08:35:00+00:00"
     },
     {
-     "title": "HSBC RedCoin (RCHKD) HKD Stablecoin Launches on PayMe",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOW1scVh0V0x5WUUtMkIwVTlaZy1Ud0NoRi1FSFMtZkNuZUlWVS03a0QyT1BzNHJoVVZNaFRVQlJXOGJpc0VwNDFod21QXzFEQUJnejg3d1JDVjUxVzE2VzZKY2t4dWJFUVE5Z0ZTc1pMcG5jZzVCMEVMOG95WkdDS0tuWmd6UTJGQXhlUA?oc=5",
-     "source": "Altcoin Buzz",
-     "type": "news",
-     "published": "2026-10-23T07:56:15+00:00"
-    },
-    {
-     "title": "HSBC Launches RedCoin Stablecoin for 3.3M PayMe Users",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMk9FdDhWaU9CN0FPSVlENTZBbFNUWnl4YjJyZnlQQ2lzLXE3Ri1MVUkwc2VjQl9LTkNfQTFDTkZPM2lNR2JTaFpmVVJWd3diQW1VaFZLZ2MzOTRiZEtPankwSWU2LTJ5Nmh4MmprTGdIS1NoSnVUZnJJUHZ6b19Ub25zZ1UteFZFRTVFZ0dDR3l2ZmRKeWVz?oc=5",
-     "source": "The Crypto Times",
-     "type": "news",
-     "published": "2026-10-23T07:05:36+00:00"
-    },
-    {
-     "title": "HSBC Rolls Out HKD RedCoin Stablecoin to 3.3M PayMe Users Starting Today",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGdkNlFoR3U1MlRHME8wTnY5cnNkXzctWndaZ21SZldmTFlFRGNsclMxejBaenFQbGRFNlBYVWtZcktjUTJKTWxjUl9OQXhTRnJqdG5UVUpZM090ekdORWtWY3ltdGZUeW0tU2hzM1pNLXFqVHFxSmJoVEpHYlc0bEp5UFpwYnhEQmExcmxWS1g1aXNBek1tUXFn?oc=5",
-     "source": "CoinGape",
-     "type": "news",
-     "published": "2026-10-23T06:45:48+00:00"
-    },
-    {
-     "title": "HSBC\u2019s RedCoin stablecoin launch targets 3.3 million eligible PayMe users",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GZUg0MVY3YVEySHB3SWJGZHYxWnN6NC1YT1pwelN6WmtnQlhZS3NDUGlUWC1WYnpVbXFnMXhENUlLTHpJNGhaVGgxMVFFRmhMT3RVVXhKVWdpcUZjYU0xenk1YXBua3FPcFFxME41al9JR3lvRWc2OA?oc=5",
-     "source": "The Cryptonomist",
-     "type": "news",
-     "published": "2026-10-23T06:12:25+00:00"
-    },
-    {
-     "title": "HSBC launches first Hong Kong dollar-pegged stablecoin",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNC1oY0FwbFZKSFFBeXFrcWVNWFhIMzNta3FUUFRqeGtqbjZjWHFBVVhGWG15QmFJTVp6UlFqNmtCSlRTOVhESzctcThTNHhHb0t0WXNYdlp6ZDE5a3JwazZoZFhHU1dFMjQtQ0YteGlwSDVzMS1HSl83UnZLMEJuMl94cDVOaW8yVloyaWZEZ1NJUjJyc1NlYjJnclc?oc=5",
-     "source": "Traders Union",
-     "type": "news",
-     "published": "2026-10-23T04:09:26+00:00"
-    },
-    {
      "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
      "url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
      "source": "The Block",
      "type": "news",
      "published": "2026-10-23T04:03:09+00:00"
-    },
-    {
-     "title": "HSBC\u2019s RedCoin stablecoin goes live in Hong Kong: what the launch answers, and what it still doesn\u2019t",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkZhTXFwTFByMThsNXZfSHFDc2ZJam14dWNpUFIweWJEZWZudmFLVFJYMUdOQUp2RWt0TFRrOExETzhWWjV4Y1RGd0l0d3V6REd4TTRna0YxeWZOS1J5cEhCaWtnVXZVZTZoYllDbVBHcU10b0ZmNlB0dnF6VDhkNEt6SXRkcmp6RDM2Q0NkX09ibDg4R2lVbHYtd01tTlo2eXVuVTJ3U29CQXBiV2pIWjZnZlp0eXVaekM3bF9CLUt1UlAzNHBiXzhhczFWRXYtRWlVcTM2bw?oc=5",
-     "source": "investingLive",
-     "type": "news",
-     "published": "2026-10-23T04:00:13+00:00"
     },
     {
      "title": "HSBC RedCoin stablecoin launches for 3.3 million PayMe users in Hong Kong",
@@ -3181,204 +1574,27 @@
    ]
   },
   {
-   "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
-   "outlets": 13,
-   "topics": [
-    "Aggregator Hooks",
-    "DEFI",
-    "Ethereum",
-    "Robinhood"
-   ],
-   "items": [
-    {
-     "title": "Uniswap v4 Launches Aggregator Hooks: Aggregates Competitor Liquidity, External Routing Protocol Fees Fully Allocated t\u2026",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEaEVkd1ZlRldnYkMwNGpRUlU5QWF5V3Njanl3UUpCVmt6N0FvQm9KLXY3SmVwZ2NNZW1waEdqQlM3MXdfVWVlQlZHNTk5bnI0a1lxUUItaS1CaU9H?oc=5",
-     "source": "\u6df1\u6f6eTechFlow",
-     "type": "news",
-     "published": "2026-10-23T05:07:59+00:00"
-    },
-    {
-     "title": "Uniswap Labs Launches v4 Aggregator Hooks on Three Networks",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JOUhWOXktMUV0NVNYZlNYM2RRSUZ3U2Y2WHJkNTdSZ3NPUGpmTERuNndsWVkzb0p3QThSVFVzbFVSTGxPa2ZqSEE5d2hGOFg1MWQ4MFJSYzdnMmc?oc=5",
-     "source": "TOKENPOST",
-     "type": "news",
-     "published": "2026-10-23T03:14:00+00:00"
-    },
-    {
-     "title": "Uniswap Deploys V4 Aggregator Feature Across Ethereum, Base, and Robinhood Chain",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUUJpczZvdGhjaEctbVA0SVdhNXdjeG1fRjg2ZU81X0E5V1I4Z1hMdldneVR2czZqZHBwdHdyX1ZpUTRqV2ZKYmJERUNUN0FVV2NUTmEwMzc5b3JUcnJieU1odDFlbTNKNXFLLTZnakhuZGZIRklhdDdCcU5tTjFHVVhjYU1tM1BjaHYyZGpfVVphemdhVUFhTFZvNXQ0b2tCZjE5T2hrR0psQQ?oc=5",
-     "source": "Crypto Economy",
-     "type": "news",
-     "published": "2026-10-22T17:52:28+00:00"
-    },
-    {
-     "title": "Uniswap Aggregator Hooks Expand External Liquidity Access on Ethereum, Base and Robinhood Chain",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wdUlqWVN3WG44UGc1WjlXY2NHbzZzcHlwcGxjQTl4Ri01YnBCYXFxSDNlQXVvR1gxSkZlV1U2TVlKRFpncUFPdThTSXBKaC1MdnRZeExBYTZ5cGo2R3F5bGoyX3FmUG0yYzVYZ0pQZG9mUjdGVW9TdA?oc=5",
-     "source": "Hokanews",
-     "type": "news",
-     "published": "2026-10-22T17:20:00+00:00"
-    },
-    {
-     "title": "Uniswap v4 Adds Seven External Liquidity Sources Through Aggregator Hooks",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWxMVGR1WmRCTFBkd2RuYXpWNkt1aHhlTkRPbFFjbmZ6eUJCMzRiZVV6SWdwOVdQMm1PbGxOWGdjSV9HNDJseU40aVZ0dXhXRXdjeXBIYmxzNjVtVFZHWnhaa2hTYnFNTkZQblZLRlRZbDBfX0JEbGFnTjA2RGtYX2FDc3YwaFdPYjNKZ0dEeVA1ZHZIdU1pRUFkbUo0cEtFM3E2WWJHRlQ1cFlPQXV2SlZB?oc=5",
-     "source": "The Crypto Times",
-     "type": "news",
-     "published": "2026-10-22T17:12:10+00:00"
-    },
-    {
-     "title": "Uniswap Confirms Launch of Aggregator Hooks for Enhanced",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazd3OVJsRTI4WXZPX0hMQ2FNMXN0dlNWcm9kWXo1Z2RVcnE5U1NXSHdobXFrQ3dNYTNfZ3ZTVEs0am9XcUpDTEk2LUpYbFVjb1U3cVZZcUNqSFhSdzVqVk15UFl3MmM1UDNTRHRDbjRhYWdtbWgxZWdpNEtDUWU4d0t6R1JsVTNB?oc=5",
-     "source": "Coinfomania",
-     "type": "news",
-     "published": "2026-10-22T16:20:52+00:00"
-    },
-    {
-     "title": "Uniswap v4 Is Now an Aggregator: Uniswap Labs Launches Aggregator Hooks By Chainwire",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdEtOemFUeHNpYWVuWVlQaUxGcjZXVjRhOWZqUTJiTkVKQXJOSy1nNnU3NDYwQVhwUFFYdHBaa2Z3WWtKczh0ZjRzVFNxWVlBWWJFRjNxOFd6cVVQaUUyVFNscFhzX0xYWDlDM1BmX0dyeF9DSHc3TFFudDFtbjFXbUhNcUtNMWc4RjdQNzRpUGU0NFJaOWtldHlVODZlZ1QtOUFRaG0zbWd4Q0tWaVBXck5XU2ZkaHgzSVVIdDNwWU4zNFpQWWRVQw?oc=5",
-     "source": "Investing.com",
-     "type": "news",
-     "published": "2026-10-22T15:40:33+00:00"
-    },
-    {
-     "title": "Uniswap Labs launches aggregator hooks on Ethereum, Base and Robinhood Chain",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UWG80M3c2Y1g0T1kwMVA2WTcyZlNBeTc5U1ZCVEpIMkh6R3ZUX2RVTkV2T0Y0MWdleEFhNW9iLUVFX1FwT0hRR19LZ2dVbzJQaVVDZTZmT0dSSXE5NVFVWU9QZFlBWjhVRFdOWjNYTHd1MzRv?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-10-22T15:03:26+00:00"
-    },
-    {
-     "title": "Uniswap (UNI) v4 adds aggregator hooks on mainnet, Base and Robinhood Chain",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHV3SlJDNWZZdTRGY3JscHBQRHlHLUdOY3ZmZFJHWnJLRG1RV2NSTGtObENlTUpXVzFlZDdyLWxRaXktZGhaX1RIaFd3VjdfVnRNY3JnZ3M4V2pRa0YwMXp1WHRYUmVCLXVtdGZPYWZndTNBOVhab1F3RzFMbjRKVHlpazNfREJPUW4tdHFlQmNvcWhw?oc=5",
-     "source": "Blockchain News",
-     "type": "news",
-     "published": "2026-10-22T14:57:24+00:00"
-    },
-    {
-     "title": "Uniswap Aggregator Hooks Expand Liquidity Routing in V4",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mZGc5dU9FNldyTjJJUmgtR0tfUkp5RW9KbUdtVVFsdGU0ZlMxZ3AzaTk3cWFxV0c2aXhLckZZNkgzUkh5MnE5dVpsYl9PQ1UyOHpmWmR2Z0Mtd0F6dGxTOElNZUsyWlQ4OC1XWDc5b2JsWDhZazZsYksxeEpCZw?oc=5",
-     "source": "The Cryptonomist",
-     "type": "news",
-     "published": "2026-10-22T14:19:29+00:00"
-    },
-    {
-     "title": "Uniswap expands aggregator hooks to Ethereum, Base and Robinhood Chain",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVklUSDh3VTZIeVZKaFdPVENMczA3cTZUUzZUMlI1YWxaQzBIQnpJeHRJblE5MFlkX0dqd25JbDNjVXhLRTV6amtiSERhb09NMHRRLXZlZ1o4Q0l1WVFWWjljczdFeFp0cE5jdHBVbEdKcEFCb013eUVVc0R4cEdWcHo2V0NkR2x1eDd5WEt1T21iU2ZoeUlSQmpqMkJVNTRmWE1LS2twX19nSElBb2hOUFlR?oc=5",
-     "source": "Traders Union",
-     "type": "news",
-     "published": "2026-10-22T14:11:42+00:00"
-    },
-    {
-     "title": "Aggregator Hooks are Now Live",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VbERaN2JGa3ZtV1VOY2ZUZmFkTklBM21iX2hieHVVLTcxSTRLbWZFVGdCS1FhTkluZ3FWcDRVOHh6WkpUVEljT3M0UFBYdktKcDJ1VnprLVNObFR3STNLQVJLZjk?oc=5",
-     "source": "Uniswap",
-     "type": "news",
-     "published": "2026-10-22T14:02:25+00:00"
-    },
-    {
-     "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
-     "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-10-22T13:55:03+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Trump and Crypto Firm Sued for Profiting From Foreign Government",
-   "outlets": 5,
-   "topics": [
-    "Trump"
-   ],
-   "items": [
-    {
-     "title": "Lawsuit Against Donald Trump Over UAE Crypto Deals",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQnhMYUN5dndVTS1jc05abDNOeF9wRlNDTWREMVRsUVFtc2tmaGpYLXJBX0FDUkUwdjVfLTA2OXlqVkpSanZaSzNWa29EQzhSalk0MVRVQTQ3a3lJQ0JLZ05VZDY5azJWZ2g0MXJCR0Q2OE8wZElZWjZ2aTNlNTNNWFpmNVI1cTR2Wl9ZVWRQQmNIUzdXVFV5VVFYTlJqRDhYSlVWWVpUX0ZlUnpWSVBDSV9SUkd4UFo4Y3VQM2dn?oc=5",
-     "source": "Bitcoin Foundation",
-     "type": "news",
-     "published": "2026-10-23T09:38:53+00:00"
-    },
-    {
-     "title": "Trump and Crypto Firm Sued for Profiting From Foreign Government",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGxaUlpKOWZLdHc2YWVuMEJxc0FieDd4cDVWX0sweDJQUzhnQ2Y4Mng1MkdtaW15UE4tMXZxWDR3OW5HWUVpZ1RKQzZYdHVTUDJJcXl4MVRoc1BvTERtZXExOW82MEktblNtdnprbTNOa2FKelJIMV9qUTZnZ1ZQVmsyMVNST0J0XzZQbFEwTlZpM09VckljRWpsZnZWcjZTUGlZVFRtNFlLVEQySFZ0bWtqVTV0Zw?oc=5",
-     "source": "Bloomberg.com",
-     "type": "news",
-     "published": "2026-10-22T22:51:57+00:00"
-    },
-    {
-     "title": "Trump, Crypto Firm Sued for Profiting Off Foreign Government (2)",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUNKa042bUVGVEI2N0VDNmQ5enBSU2ZWUzNMakg1X0dUSXBjVFMtQmhXZmdPRjZ5NFVEaXh1RXdLemJ4ZlZDaTVYcTNvbFVWLUZyajZOUE53TWJCN2pteXVTMUVibkJaa2QtNVR3NVZBLTJfbUNhb1dGYkVRcTN1d21raFcxcDZmejI3SVdCWGx1TV9GYkVPR1I4clFtNDF6emlF?oc=5",
-     "source": "Bloomberg Law News",
-     "type": "news",
-     "published": "2026-10-22T22:51:00+00:00"
-    },
-    {
-     "title": "Lawsuit accuses Trump of illegally profiting from UAE in\u00advest\u00adments in his family's crypto firm",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlVoSFhGUHlhMlBVWGIwMmdtUmZaUmZnVm9IY1YyRzgtMGl6eVNodG5sRUNTYk9QR3FRUlo3NXBnVzViSXZPR21lY2tVOVFzQmhBY3ktMEVvSzBwSjZEamhVanpyTUlWZzluM3hJMVhURzJTYTBicWZpdXVaUWp3YWozdUE4TllvdEt6MWVjQWlKdWF1YW5rMFlmaVJVVWV6OTBrblRfMlpHZw?oc=5",
-     "source": "Spectrum News",
-     "type": "news",
-     "published": "2026-10-22T18:12:00+00:00"
-    },
-    {
-     "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnZoMlNpT2lKa1pvWFFBNW84S2J2ZmlJZkNPdDVicUZDWHh2aVBJTjVPNFM0SVBVRE12WEVJT00wclVFQU9wVy1VblcwZTJxNXpvN2k1MExON0xGQnlQdkF1NVpacVhQT0haZldYVE9lZVJhSzZpLXpLNVBBQWJqSdIBhgFBVV95cUxPVllqMkNqeG9Gb3hMeHRBUGdiV1hIbXFmSl9OT29US3NYNm9pZ05VcXNrelc3X1NCUWdyeVNzVzd6Zk1URFhQaE9SRG5xcHNCeGFLLS1qSEdnbGRCM3BUT180UlJQVG1RVVhVaVBxSjZ4R0JTMVpxSW04cDN2ZFE3bi1aaU1IQQ?oc=5",
-     "source": "CNBC",
-     "type": "news",
-     "published": "2026-10-22T16:49:56+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Robinhood Targets 2027 UAE Launch With Dubai Retail Crypto License",
-   "outlets": 5,
-   "topics": [
-    "Bitcoin",
-    "Robinhood"
-   ],
-   "items": [
-    {
-     "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVlySXVvVVJfSUpLa0pJaENfY2wyTmhKX2Fvdl9RaExLRlM4anIwTWNKYXBmajRRNlV2OGp1QXRJWmpfaVBWbFNkQ0RvbjFXbC15dmdVdXFZbTVqNG83WUw5Ti1JcHpzbGpmR0FqNDJKY3gwak94Q21uYVIyODlHcUQzRXFxbjhSN1VSQzYzaXQ1amJLRVlTb3RB?oc=5",
-     "source": "LCX Exchange",
-     "type": "news",
-     "published": "2026-10-23T04:27:48+00:00"
-    },
-    {
-     "title": "Switzerland\u2019s first retail spot Bitcoin ETF targets November launch",
-     "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-23T00:59:35+00:00"
-    },
-    {
-     "title": "Robinhood Secures Dubai License for 2027 Middle East Launch as Bybit Eyes U.S. Entry",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vYmZPWFBhNS1KSHcwWVU4Y0xCUlhoMDhlcDA5ZnlyeTJPYjFIOUN3SmFyczlleTM4RjVrc3RQdmctZWQ1clhLUkRoanJfdkNOMWdURVVKV0l4M00yODhZaTRMVkZNUnY0Xy1wX3pfcXF1aW0wenc?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-10-22T18:17:00+00:00"
-    },
-    {
-     "title": "Robinhood Targets 2027 UAE Launch With Dubai Retail Crypto License",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVJpUjZfc2FIcS1KdzBSZUtEcWVvbFBOLTVBcVJvRDVmckZQdlVZM3RDYWNxWjR1THFUbXUwdHAxNkpzMWhUcWdCMGk5X3ZROXhpMGZCaHhudnYwUnk2LXdqRnhCeEdZcXd5Z1BBX0RqZ2c5WTlpRTltQUVnMng4OFN4UWthYTZjNW8zM1UwbWgzNDBZS3ViT0lHYzgyaW1lNE5IcC1CcEI3XzVfOWNkUENn?oc=5",
-     "source": "Bitcoin Foundation",
-     "type": "news",
-     "published": "2026-10-22T17:38:28+00:00"
-    },
-    {
-     "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
-     "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-10-22T15:35:01+00:00"
-    }
-   ]
-  },
-  {
    "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-   "outlets": 3,
+   "outlets": 5,
    "topics": [
-    "Ethereum"
+    "Ethereum",
+    "Glamsterdam"
    ],
    "items": [
+    {
+     "title": "Ethereum Delays Test Of Glamsterdam Upgrade",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTJwN2hIMTJlaE9XLVdhYkgwTUJnQzRhdGlkcnZXNFpWV2ZlcXFGNVpucWJaVWdCNDFLWmVXMGUtTTZxVFNyOTJWQUtZMTIzVXkxOHI0ci1BeUtvakRzeU5Oai0zc3hKODM4anBudFNsd1NDX3E2QTlpQVpnWktzbHVOMjFrbXpndXM5QzV5ZGRDQUVURG1yRG1zcw?oc=5",
+     "source": "Yahoo Tech",
+     "type": "news",
+     "published": "2026-10-23T13:29:00+00:00"
+    },
+    {
+     "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+     "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-10-23T11:49:37+00:00"
+    },
     {
      "title": "Ethereum Glamsterdam Upgrade: Hoodi Delay and Gas Risks",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1lWSUJEeUpiSjhkNzF5VExPSC1xQmY1dWpYZlFwdzRWbWlqOHZkUkFyZFBicnl1Rm9sQWpYOVJMWThkVGhXTk9CUnBMYXZOUmNEeEJhMGhMRE54TEFUdldaZjhxRDN0WmNkTzdaQktUN0ZualdjY0dTSFhjbmpGOEZCUGxnN2lHbkJzX2VYakJhV0w0TGRtM2IwSjJqTnBuTWpHSGM1M0dyVFQ3b3gtLVFR?oc=5",
@@ -3387,130 +1603,104 @@
      "published": "2026-10-23T08:13:41+00:00"
     },
     {
-     "title": "Ethereum Delays Glamsterdam Hoodi Fork as Developers Test EIP-8037",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelNpT3FJaHd4N1RKdDRiOHhHY1l2Y1p0d3dOc0NaSVU1Q3dma25WOFVQak05VDNxWUN5LUZLSlBkQnM3Y3ZIREtlZzNybjVJVUR0eTB1MHVPUFNEb05vUktXU3BxZm5ZT2RCZ21pWE5CZG5UWHl0U045dTRmYkZtZHJuY0VzYkU1c1ZXT0tDMTMzTFMxRjNZ?oc=5",
-     "source": "CryptoPotato",
-     "type": "news",
-     "published": "2026-10-23T06:20:00+00:00"
-    },
-    {
      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
      "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "type": "news",
      "published": "2026-10-23T05:09:41+00:00"
+    },
+    {
+     "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+     "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-23T04:59:34+00:00"
     }
    ]
   },
   {
-   "title": "US OCC Finalizes Stablecoin Rules Ahead of January 2027 Effective Date",
+   "title": "Malaysia, Thailand Join Singapore to Expand Cross-Border Stablecoin Payments",
    "outlets": 3,
    "topics": [
-    "OCC Finalizes",
     "Stablecoin"
    ],
    "items": [
     {
-     "title": "OCC Finalizes Stablecoin Regulation: What Changes",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RSm5Lek0zSTNQYzhXNS1uRkVQZ3JVZWtrdy00Q29JckhZazJwQ2FadGdsSXlBT3lkVHR3Umg3aTE1dWVPa3N1M19zUVlMRFFhTFdkOE05T0w1QUsxSnJJRWdGVkxLUlBiZENHX0JrOEdJdEw1VGdjWGM0bmJHcUk?oc=5",
-     "source": "OneSafe",
+     "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+     "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+     "source": "The Block",
      "type": "news",
-     "published": "2026-10-23T01:04:27+00:00"
+     "published": "2026-10-23T12:55:26+00:00"
     },
     {
-     "title": "OCC Finalizes GENIUS Act Rules, Drops Stablecoin Rewards Curbs",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXJnT1FRSEo2OVpSRlJKS1hzRlk1MzFXaEFWa0RLOFdzRXlkVjFYSVBQeExSUHZXY3R3WEhOX1Q3RU9FY0xib2k1M3NhTVFOdV9ieEhnbnlMRy1lbHlqVFlGSDRHWEM4RGVQVHpzT3ZjY3ROcFhtempjcHRqVmZxakFMODFzWDBQYWlsQVZVQXBSWE54QWc2T1BpVQ?oc=5",
-     "source": "KuCoin",
+     "title": "Malaysia, Thailand Join Singapore to Expand Cross-Border Stablecoin Payments",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemJiMUF6ZGhoNEpKaWptRXdzSkZwNTFEUzFkOEdnSUd2TGtsdTNfdWFPSTdabjVsSEFxUS1Xd2VqelBxNmxpdDdvN1ZvUDN5cDRjZm45TDRJYk95TzV4SnFQc2RqbVRvRUVkTWFKd0RURUJ3UHc5elB2ZUZUNjV1aE9WRWRVUEw4OVJGQVp5bXNtcGJNZXF1d2hSN0FpWnJiMFRLVW1R0gGrAUFVX3lxTFBXclRVQmRfQkVuQVNvbG01V0NYc1dZUEdaUHNkaGpNTDBsckJ1SEJLVW5QeFVBSFVWYWpCRWhSZFg4WHctbDloOGxhdmtzdEI0OGNvX3NLV1BKdTVHUzRBVVlIZEVILWRyVERxUDE2eVZKMW9MZDBLMFd2QzQ2U3FFdXBwTnNxZHk1R2U2T00zZWlZQmpuVVdodk9UVjJoZml0TmR1d0lhVmwzUQ?oc=5",
+     "source": "Coinpedia",
      "type": "news",
-     "published": "2026-10-22T20:33:59+00:00"
+     "published": "2026-10-23T11:22:02+00:00"
     },
     {
-     "title": "US OCC Finalizes Stablecoin Rules Ahead of January 2027 Effective Date",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFbTBIQXpVYVlqajgwcGFhQVhlTnFYVF9VeVBWS2RVNEhTbmY3TjZwYVVYNjBWQUowZ3k0LWlUQnNiR2U5?oc=5",
-     "source": "\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",
-     "type": "news",
-     "published": "2026-10-22T11:35:41+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Circle shareholder sues Trump over $2 billion in UAE-linked crypto deals",
-   "outlets": 3,
-   "topics": [
-    "Trump"
-   ],
-   "items": [
-    {
-     "title": "Circle shareholder sues Trump over $2 billion in UAE-linked crypto deals",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDTTFNYkxpRXRWZ09zUlB5clJmWTZmb1ltWVpiM0Ffd0lTSWdZNHh0WWhNaXNLLVgzOUdjQ3V2TTJHbC1Sd3lNOFNHdWY0b0U3VHhPWkV3bDdxUWJoWnVlbmplT2FKelB3R2N4TzllMmd6QXJLbmJVY3V2ZzFmQQ?oc=5",
-     "source": "Quartz",
-     "type": "news",
-     "published": "2026-10-22T23:41:35+00:00"
-    },
-    {
-     "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-     "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "title": "Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push",
+     "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "type": "news",
-     "published": "2026-10-22T21:39:18+00:00"
-    },
-    {
-     "title": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals",
-     "url": "https://bitcoinmagazine.com/news/trump-sued-for-alleged-crypto-corruption",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-10-22T21:23:58+00:00"
+     "published": "2026-10-23T07:15:53+00:00"
     }
    ]
   }
  ],
  "events": [],
- "headlines_served": 5873,
+ "headlines_served": 5930,
  "trend_candidates": [
   {
    "key": "hsbc",
    "term": "HSBC",
-   "count": 8,
+   "count": 11,
    "sources": [
     "BigGo Finance",
     "CoinDesk",
     "Cointelegraph",
+    "Incrypted",
     "Ledger Insights",
     "Markets Media",
+    "Northeast Times",
     "South China Morning Post",
     "The Block",
-    "investingLive"
+    "Yahoo Finance",
+    "unchainedcrypto.com"
    ],
    "baseline": 0.0,
-   "ratio": 8.0
+   "ratio": 11.0
   },
   {
    "key": "redcoin",
    "term": "RedCoin",
-   "count": 5,
+   "count": 7,
    "sources": [
     "BigGo Finance",
+    "Incrypted",
     "Ledger Insights",
+    "Northeast Times",
     "South China Morning Post",
     "The Block",
-    "investingLive"
+    "unchainedcrypto.com"
+   ],
+   "baseline": 0.0,
+   "ratio": 7.0
+  },
+  {
+   "key": "glamsterdam",
+   "term": "Glamsterdam",
+   "count": 5,
+   "sources": [
+    "Bitcoin Foundation",
+    "CoinDesk",
+    "Cointelegraph",
+    "Decrypt",
+    "Yahoo Tech"
    ],
    "baseline": 0.0,
    "ratio": 5.0
-  },
-  {
-   "key": "fireblocks",
-   "term": "Fireblocks",
-   "count": 5,
-   "sources": [
-    "Bitcoin Magazine",
-    "CoinDesk",
-    "Cointelegraph",
-    "The Block",
-    "The Paypers"
-   ],
-   "baseline": 0.54,
-   "ratio": 3.24
   }
  ],
  "baseline_days": 7,
@@ -3521,6 +1711,14 @@
   "Decrypt": "ok",
   "Bitcoin Magazine": "ok",
   "CNBC": "ok",
-  "MarketWatch": "ok"
+  "MarketWatch": "ok",
+  "Google News: HSBC": "error: <urlopen error _ssl.c:983: The handshake operation timed out>",
+  "Google News: RedCoin": "error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+  "Google News: Glamsterdam": "error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+  "Google News: SoFi Launches": "error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+  "Google News: Aggregator Hooks": "error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+  "Google News: Fireblocks": "error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+  "Google News: Robinhood": "error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+  "Google News: OCC Finalizes": "error: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
  }
 }
