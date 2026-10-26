@@ -39,6 +39,7 @@ A small Python script (standard library only) runs on a schedule: it fetches the
 
 ## Changelog
 
+- **2026-10-26:** Trend tabs stay on the crypto angle of a story (e.g. HSBC's RedCoin stablecoin, not general HSBC banking news).
 - **2026-10-26:** "Price prediction" articles filtered out.
 - **2026-10-16:** The news page is now called **FEED** (formerly Market Brief).
 - **2026-10-14:** Duplicate trends merged: trends sharing most of their headlines become one tab (Blur + NFT), and word variants are combined (Korea / Korean / South Korea, China / Chinese). "Inflation data" no longer shows as a trend.

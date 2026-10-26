@@ -173,10 +173,9 @@ def fetch_reddit(cfg, status):
     return items
 
 
-# Context words Google must also find in the article: core topics are crypto ("RWA" alone also means Rwanda,
-# Indian resident associations, a stock ticker); trends can be any market story (Nvidia, OpenAI).
+# Context words Google must also find in the article, for topics and trends alike: "RWA" alone also means Rwanda,
+# and a trend like "HSBC" otherwise pulls in general banking news instead of its stablecoin story.
 CRYPTO_CONTEXT = "(crypto OR blockchain OR tokenization OR tokenized OR stablecoin OR DeFi OR onchain OR bitcoin)"
-MARKET_CONTEXT = "(crypto OR bitcoin OR stocks OR markets OR blockchain)"
 
 
 def fetch_google_news(cfg, topic, aliases, status, context):
@@ -671,7 +670,7 @@ def main(mode):
     searched = []
     for tp in topics:
         if tp["kind"] != "core":  # core keywords were already searched above
-            searched += fetch_google_news(cfg, tp["name"], tp["aliases"], status, MARKET_CONTEXT)
+            searched += fetch_google_news(cfg, tp["name"], tp["aliases"], status, CRYPTO_CONTEXT)
     all_items = dedupe(pool + fresh(searched))
 
     # Tag each headline with every topic it mentions; remember when we first saw it.
