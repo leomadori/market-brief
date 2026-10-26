@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T17:00:35.731267+00:00",
+ "generated_at": "2026-10-26T18:03:55.707144+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 38
+   "item_count": 34
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 26
+   "item_count": 24
   },
   {
    "name": "Ethereum",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 78
+   "item_count": 77
   },
   {
    "name": "DEFI",
@@ -71,7 +71,7 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 22
+   "item_count": 20
   },
   {
    "name": "Anchorpoint",
@@ -85,17 +85,6 @@
    "item_count": 11
   },
   {
-   "name": "Bitmine",
-   "kind": "trend",
-   "aliases": [
-    "Bitmine"
-   ],
-   "first_seen": "2026-10-26",
-   "count": 9,
-   "ratio": 4.56,
-   "item_count": 24
-  },
-  {
    "name": "Fed",
    "kind": "trend",
    "aliases": [
@@ -103,8 +92,8 @@
    ],
    "first_seen": "2026-10-25",
    "count": 6,
-   "ratio": 3.7,
-   "item_count": 22
+   "ratio": 3.73,
+   "item_count": 26
   },
   {
    "name": "Hong Kong",
@@ -115,7 +104,7 @@
    "first_seen": "2026-10-26",
    "count": 6,
    "ratio": 3.18,
-   "item_count": 16
+   "item_count": 14
   },
   {
    "name": "Strive",
@@ -124,9 +113,20 @@
     "Strive"
    ],
    "first_seen": "2026-10-26",
-   "count": 5,
-   "ratio": 2.55,
+   "count": 6,
+   "ratio": 3.08,
    "item_count": 22
+  },
+  {
+   "name": "Bitmine",
+   "kind": "trend",
+   "aliases": [
+    "Bitmine"
+   ],
+   "first_seen": "2026-10-26",
+   "count": 6,
+   "ratio": 3.07,
+   "item_count": 28
   },
   {
    "name": "UNI",
@@ -137,7 +137,7 @@
    "first_seen": "2026-10-25",
    "count": 5,
    "ratio": 2.53,
-   "item_count": 5
+   "item_count": 3
   },
   {
    "name": "Solana",
@@ -148,21 +148,225 @@
    "first_seen": "2026-10-25",
    "count": 10,
    "ratio": 2.52,
-   "item_count": 22
-  },
-  {
-   "name": "HSBC",
-   "kind": "trend",
-   "aliases": [
-    "HSBC"
-   ],
-   "first_seen": "2026-10-23",
-   "count": 7,
-   "ratio": 3.0,
-   "item_count": 21
+   "item_count": 23
   }
  ],
  "items": [
+  {
+   "title": "If Crypto Falls Another 20%, Which Holds Up Best: Ethereum, Sui or Avalanche? Grok AI Ranks Them",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDdkZEttM2ZLSXI5dlFoOUp3QTZrcDI0ZzVDbnBUWU8tVi1tREZHWjFBMGRubThfd0ItOVZfQXlueHF5anpqRVRuNEd2Q3ZFZDFOaTNHcno3MjRlMUhOSWVsNGhvWFRqY3lGNFRlczBfS3dsUWh3T2pYLXFRX2gxUEZDY05oQjNXQ0ZZbGxPZm13R01pWlVEYjFB?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-26T17:54:48+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-26T17:43:18+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Teeters At $80,000 As Traders Wait On Fed",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwWk9lUENsRG5PamJZcENzQzJ2bnhZYi05ejBjRi00cEdua3RySFVYRG9CV0w5TjJEMFRLT29TVFlGWUlCUHZscUxmbl9OTkt2WlFYNThSOEdZTzlYZDlqT0NxdHFCS0Q1V2ltaDdMRWxTX19yVXRvbA?oc=5",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-10-26T17:43:18+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+   "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-10-26T17:41:21+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "\u2018Incredibly Frustrating:\u2019 Ethereum Foundation\u2019s Latest ETH Sale Draws Criticism",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2Z2YVZQai1qWl9iemRpRFUyS3hRNUp1SFF0R3RUOGVabXhzY01vQzdDa05sSWQzcGN6MThVay1TdEVKVDRNeUxxMG1JUGFnaXQxVHJINEF6ZDhLTFdWNUIyeno4UlJ5WDJWVDd5aGo0VTVRdXM0b1o4MWdtZ2N1ZTRpTkJ0ZkZ6S1N6OXJ3ZG5sejU3VU8tNGNvaW5PVWZlTmMyNVJiWkRJT3piS3pxTVBlTQ?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-26T17:35:33+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "3 AI Models Pick the Best Crypto to Hold Into Year-End: Solana, Zcash or Monero?",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUszejZhVDhRUUsxZ3FHcnluNmdfZDZGT1dXNnQyUGpfY1E1R2JHdWFYNmhMS3d1amxPV3hzLWZIWTcxdUVCUXU3a2liYWN1RWhQNGdXRk1ZR05HbDZMUWRGcW9Ha1U5cnI3MXMwb3ZBN1dBVG1Hdy1aS0wxUmZLV20tNm5kZHllRGcxSmhVQ3RaRXdoSncydHdSUmVTbDFJbnNXbnM4WjBEenAtU0lRb1BDZnk4MmdoVzNvd21NMjBWZkZ5emoyRlhUVUpTVXZ6Tmc?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-10-26T17:32:47+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Solana"
+   ]
+  },
+  {
+   "title": "Bitmine\u2019s Holdings Value Dips to $15 Billion Despite 10,452 ETH Buy",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmhjTVVmcmx6V2dNS3Jab2dhMU1MdFo4bFhYSFFhVlh0RXJYSWJMVVI1bmFaUm9sZTNfQWxaRWU3Y2cxM3hwb1RfVEpoT010S29DdEdTN21mZ3Ffay1mTy1ETzJrLVdYOUV0UWpKdEQxVTlGRURWeFVtaEFnOVZiUk5KMnhza2s1RXlaM3pvYUNfNUl6Y2ZpTg?oc=5",
+   "source": "unchainedcrypto.com",
+   "type": "news",
+   "published": "2026-10-26T17:26:56+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitmine"
+   ]
+  },
+  {
+   "title": "Anthropic\u2019s Claude AI Predicts a Huge Move for Solana by 2027",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3k5anNTcW9XR1VpbTZLUXZDdVQxQzg5ai1VaUZJbkVQZ0xsYl9SeEExbW5DMm95emhLNGZrOEpFTzRHLWtwemtPazlIVjZ4emdLOGUtR2hhVEdfUUJ5RDRYNzRTTXpWLThDMHM4dGF3MkJPT0VhMk04aTBHVjA3Rk5fWDYzQWdrTmlYcDdHaTM2TUk?oc=5",
+   "source": "Cryptonews",
+   "type": "news",
+   "published": "2026-10-26T17:25:44+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Solana"
+   ]
+  },
+  {
+   "title": "Bitmine Restarts Buybacks With $45.9 Million Purchase as BMNR Stock Slides 4.5%",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMFlFMDhCdHNwS0lLRllYcm1XOUxibENZQ01pQkdPR2NqQVJBbmlITEhiRVd0endXQVlQZkxVOTgwdExKWUZTUnotZGNNa3pVa1AtZnZIblFuZS15MlJSZk1BWFlvR25sVWIyRkFmTEZUVVBUQUE?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-10-26T17:25:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Bitmine"
+   ]
+  },
+  {
+   "title": "U.S. stocks advance ahead of key tech earnings, Fed decision",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0hfS1lxYXdFclRJLWQ5X1ZOQnBiQk1ZUVNzMU51UEtLbHMwbWJQcmNWcWthRkpYcUVGR3BsSTVUMVZjV2JmRzVFY04ybE9nbmY1UkdyOEdPRWZyNnlfWTJSQ0tRVTlNdTQ2bVZ3NUJZdTFtalFWOWJmTFliMHNnR29Ydm9BNzdm?oc=5",
+   "source": "Seeking Alpha",
+   "type": "news",
+   "published": "2026-10-26T17:24:00+00:00",
+   "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "Tom Lee Says Crypto Faced Same \u2018Risk Off\u2019 Forces Behind AI Sell-Off: BMNR, ASST Add To Crypto Treasuries As MSTR Skips Bitcoin Buys",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQay1CbTU3a3FYcy1FZ045QWU0TGNSVFcwMnRuZC02dzQxdHFuOFNycWJhdGQwbUpWSnhQazRENEdKbzdDeTE0T0JUWFhVSXUweGdiZWY2b1pKbzBmbkxIUW1jX0dsYVBzaFZQRUZNMkx3LVhLQ1RPWi1aQlJNUUZKUnAtT0xnUVI2Y3NwOXUzclhSb0Rw?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-26T17:22:11+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Bitcoin",
+    "Bitmine"
+   ]
+  },
+  {
+   "title": "Form FWP DeFi Development Corp. Filed by: DeFi Development Corp.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTJLYnFQeVl4VnRfMzQ2Rm5LalUtemhmSENkaDBXb3gyQzN5OU50ZW9tdklRb0hDUlZDMFZqUF90VGllcEgyd1dLYzl0a0dYNHBpX3dyYV9vMXJFazFsMXRhd1FiOFZYYmFkS0FQRk96Q3A0VXJVSklGcmVFbHNBTHktQ19MYkJ2WXpZbjFqQVc2V2MxTm9xMFB1V2JBQjVXZ3RRZWVBTnVqMTVXSU1QVEwzeGhTcnB5cktLUkFJZw?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-10-26T17:18:59+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Chainlink Introduces CustodySync With Anchorage for Custodied DeFi Borrowing",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN21tb2NLZTlubXJrWlFiTW5wRGQzbkVVUmF6dDZJN0xFOHhXRElmQzlFZzF1em9ZYmlQMzdpOUxhZFY1eGV1Zk9ZbkFaSE1fWnlZc2JvWXphb1RadFJVUHowek1XdjJweUFONkphbXljTHNKcktsTHFxS2IxYVBPZ3RsX3E3OU12aHNOQXJtNm1fT0Q2QVVHdkJoWXA5ckJkVzFmMmV0XzgyRnlaRUtBSEZR?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-10-26T17:08:05+00:00",
+   "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "BMNR Stock Plunges 4.5% as Tom Lee\u2019s Bitmine Buys Back $45.9 Million in Shares and Adds 10,452 ETH",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmt5MWs0VWtoQ1ktUkdTRHZrWDE3OGxRTEN1QTloQjMzaEdvM0dXTUxsRFVMQ0J4aTRsRzN5NVhhTFA4NkVrX2Q0bk8ySWV6bndpRGNIR2xGSmdMdDFkMHY4dE5VNy1jNmRrUVJjbzNJaGhDZzMtVGFGYlV1dzJnaUVWOGE3bHVxaUFyZW0zUU1reGJqOUZEWWZFRkJ2SEVSNEFlTlBoVEljX1o4Xy11N1BvUXBUT2dyb2duYW1ISEk3QQ?oc=5",
+   "source": "TipRanks",
+   "type": "news",
+   "published": "2026-10-26T17:01:02+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitmine"
+   ]
+  },
+  {
+   "title": "Stablecoin Issuers Face a January Deadline as OCC Finalises GENIUS Act Rules",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQlFhdlpIWl9pV0Z6dTB1UGFHNkNXME1oU2laVndndGtFSTVJVFF4WHhkVDJLQU1UTHcySW5kYXh5RV93ZGFsV053QzZUTTd0d2tPUTd5dmpfSklFLWxodVdzdGpnM3JTaFFGZFRHamhtcmF3NkpuTThwck9pNVAyMW9zV296WVI2VlppamwxeHFYVzF4VzZkZGhHLVBnalNGNWhtTGJjODhxbnBreHRucnh1T2NRRXUxZXBQclBLeXF3dUk5a0RjOHhEemthZXM?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-26T17:00:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Strategy\u2019s Weekly STRC Buyback Climbs to $205 Million While Its Bitcoin Stack Stays Put",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQak9yQU9yMVlYUndtRmVSOWZhMVBUWkduVENRNC0zeE1iNm56Q1R1RGVvSUoxYWxCTXNHOWRUY0NnTXdFRS1JbExkNnVZWkhnbEVrQXRVMENPMTFuV0ZTaFBGaFM3N3hkTklfZ0ZfQVROVXZUb2ZGenJyZ252d3o5VWJXSXZwR3pmMk9YQlNVMkM4amNSenlPVFhlaF9BUUs3S1E?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-26T16:59:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ethereum Analysis: Could ETH Fall to $2,180 and Liquidate a $214 Million Whale?",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFZOWURiVzdxYURlalo2RGpCdTBYak14VGZrYkJnWmlPM3gwWWV5Yjl3Z0RnTXhmbkotLUFIMUc5T2ZZZzZhNkNtZzZFMHFBLUdWaUJWblRubDhtbmoyV2g4Wld2MV84a2hjRWRsdmdkQjZfY1BsdXBNSk5Tb2tOV1VUQTkyYlpJNmgtLWgxbHZfMi1WSU1JWmt5YmdFQQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-26T16:58:14+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Is Bitcoin the Best Cryptocurrency You Can Buy Right Now?",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzQ2RG1CdkFnUnY3ZW5TdGlVcVllSmhhbXN6NVZIdTVNRm81bTE1bVM2Tlk1ZzJVU0xQV3BqZXRJZExlV0xtS19nRlg5QXptYS1XYWNaencyYUI4a0hsNm1UWFltdy1YQnA4SDZXLTdXV1VjSEp2ZVExcTJWUDJLMHhMc2lMQXBvVmpkQ09RMXFOaEh5LW80N25jalgzV015LVE?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-26T16:47:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Strive\u2019s Bitcoin Treasury Reaches 43,000 BTC as It Files a $1 Billion SATS ATM",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmlIaTRUNmlSS09zQ1R4Wk5GZ19GcHFkZXc1dDlNd2xIckd4U2RaMVlSRlVFbGRmQl9Db1l4T3ByZ0pCTEZTWDYwNGM3ME5ENHJOY0k1OVRaNkZnSDJTNjZXMXctMjVRVnM3eWNnSjZnOE5GZkxCZ3hlNXlLNTZ4SEVNSGlqU3VkOUMyYzdKcWNfLTl2dGhZNUVYdUhWZ1lW?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-26T16:45:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strive"
+   ]
+  },
   {
    "title": "OCC finalizes GENIUS Act rule for payment stablecoin issuers",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0ozUUxvTkhxNVB1VnB6a3pUNVVFR3VTeVlpZGZzZnZWRmtrZkRDaHV1aU16eGN4YTh2SVZGbURyR053OTRBTlBIamhCajIyTGxjbUJ5Zk50bGZ2ZkpfWm9BcENkdWU2UElIbFo5aVNET1p6RmVEVlNSXzdTNFpRaTZn?oc=5",
@@ -186,28 +390,6 @@
    ]
   },
   {
-   "title": "Is Bitcoin the Best Cryptocurrency You Can Buy Right Now?",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXl6S05ic2lYU3FMcTFqMHpIX0VRQ0JhZVpDclJ2bHUzemNpaUh1NTRvVjMwY1J6aGlEY2hsYTNFcnhkS2dIQ0VjWkJEeUstdDJuU3dkZU9mNnhkekxuTGJGUzZjMjBYR19vWlB0cDJiVllDbXY0c1dIQzN2UlRiUXhPR0dVVTQxV3lTTl9talBJNzNaRk5J?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-10-26T16:30:09+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Chainlink Introduces CustodySync With Anchorage for Custodied DeFi Borrowing",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN21tb2NLZTlubXJrWlFiTW5wRGQzbkVVUmF6dDZJN0xFOHhXRElmQzlFZzF1em9ZYmlQMzdpOUxhZFY1eGV1Zk9ZbkFaSE1fWnlZc2JvWXphb1RadFJVUHowek1XdjJweUFONkphbXljTHNKcktsTHFxS2IxYVBPZ3RsX3E3OU12aHNOQXJtNm1fT0Q2QVVHdkJoWXA5ckJkVzFmMmV0XzgyRnlaRUtBSEZR?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-26T16:29:30+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
    "title": "Solana's tokenized real-world asset holders hit 1.73M, growing by 140K in a week, boosting market interest.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSW5ESG5DMkZaNzhvamZqSGRHUllSWTBpcEFaNkhGb2NmQWhmdjhiMllkU2kyalVsNGxsUDRMQVdDYUNpME1sTVB3bnVLZXVXR0l1UGtLVFBRRmR3a1ZmOVVNNW9sNWVnLXVnVXhuUmpyY2h0RTF0dHdnUU92VWpxQ05Wd1ZIMHAxQlpqNXZKRXlJQUwtb0FsQW1rV1I3VHVONElRS1hvZnpLNWs?oc=5",
    "source": "Pluang",
@@ -217,6 +399,17 @@
    "topics": [
     "RWA",
     "Solana"
+   ]
+  },
+  {
+   "title": "Strive Slides as New $1 Billion SATS ATM Program Raises Dilution Concerns",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjRDa2FBMHVHTG1KczNmbTJIXy1ITDZmNld1bW5rTkZfMnhzUDdIYlJLVEVLdGQ1X0RnVkdYNjB3QkhDcmQxQmk0el9nal9CQWE4Z3JsQlhnOU0zYjhTLTJZcVdOWDFwR0JSLWQ0bUhfU19MUU5vXzIxLUE0YWd3SXZEMW8zN3cwNURiVUpDSGtmcFVtOFl1Vk9RTFhDUWxTa0hFek9wZ0gtTXE5?oc=5",
+   "source": "Quiver Quantitative",
+   "type": "news",
+   "published": "2026-10-26T16:21:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Strive"
    ]
   },
   {
@@ -324,6 +517,18 @@
    ]
   },
   {
+   "title": "Crypto giants double down on bitcoin and ethereum",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0N6d0pySjRFdEZnUjFlTkxFT21qb3o1bUVLdlE4YlNzaV96NmQ2OVJ1dVFmRmxWXzNCbmw3NEF1M2ZRd1M3a2VlUGZjS3lzVUk2QUdxcWxiMkJheEo0ODZfcnVDdWFLY0dpVEJGYXAtb0FJWXZMZG96YVBPcWRiZVBOUm9SXzA?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-26T16:00:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Strive Adds 6,182 Bitcoin, Closes in on Metaplanet\u2019s Holdings",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR292SU5CNjNfOTFJbFV4RW5ZSE96d0t4SkZEVUV3WEQtSlZyX2hGNjBzcGx0LUg2VDJ3Q1dNTXRWa0w1Q3piQVUtbkphUE80T0hUc3JQV2R0ZU93WjkyZlVnOWxSbnlEd1FwSFV4OEFobzBNQ3k4ZTlOckROSF9mcWRHSzhubG5xSmZMaW9qRV9Qa3JV?oc=5",
    "source": "Yahoo Finance",
@@ -392,6 +597,17 @@
    ]
   },
   {
+   "title": "AgoraX Joins the Tokenized Asset Foundation as a Founding Member",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnVKcEdIaGFxenRBM04ySjZ6REp2WVJ6UHVVeUFWdGEwQ0h4UEpYS01vcFlpOXAyVl9felBpUzctQ1pSTXdkY0dBeGFiREozamhMTWVsZUJvVjh0bVJlT1pRblc0ZWhMZWhZdURYeTJzeVlaemYzU2ktZ3ktYWl5Z3lvLW1tN1ZXUmhLVVBlbU1sZnY5ckJzZnRWaGQwSFFtQjJuSTNrZmkyQXhNeFBSR3d5SnlUYnV3?oc=5",
+   "source": "The Columbus Dispatch",
+   "type": "news",
+   "published": "2026-10-26T15:46:42+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
    "title": "OCC calls on community banks to enter the stablecoin payments market",
    "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
    "source": "CoinDesk",
@@ -411,6 +627,18 @@
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "Stablecoin"
+   ]
+  },
+  {
+   "title": "Ethereum News: BitMine Just Bought 10,452 ETH and Now Owns 4.95% of All Ethereum",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVFY2N3BndE05M3NKS2VFaHhYSHZlaUtKRmNPN1MtdTY3Qm1GczQ1aHdqZ0VXSlBFWnpFbXVlZml3MnZnUEMtS25zSEVpSjE0b1B6ejYzZWpNaHhDbkRMM0JYQ05GdXBSOFZkV2RpOU1aYzBUTXdMbXZYR1poeXBLcHA3UTdDZ0x6SHpTbHlxRjFuVEN0bkVxOWl3dzlwZEpuWEtrTER6MWpKYjM0Qy01M3o2aUpXSVVuYVgwNGhkVGlBc3JKYW03NTZqN3JxSm1qa2c?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-10-26T15:45:24+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitmine"
    ]
   },
   {
@@ -437,35 +665,35 @@
    ]
   },
   {
-   "title": "Ethereum Price Analysis: Key Levels to Watch as $2K Comes Into Play for ETH",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2xneHA2c1V5RUY4VGlMOTRjbWJYVDZCT3JvUXR3ZWNJVjdNVkNLUzFMX1RHc2hsSEJrR2lXdEFVUHZCdjU1RUJwaVJBUFExa2phVXlDekVnUTlJZ1h5T3hZMFYyODVVLVp2SWtKSTNNalFzdUE4d242aFdhR1dFRU1TR05TOTNWZmI1bUlMTXBYbHBhbVVCT3VUSW5xVHNK?oc=5",
-   "source": "CryptoPotato",
-   "type": "news",
-   "published": "2026-10-26T15:36:00+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Strive buys $511M in Bitcoin as Strategy pauses...",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWtFQWljblVWYjAwN2k5Y1ROczVaTjloQTdtdURqRFBqdlN4X3B4bjhrUHdyRkF1Q3dwV0dtNmZWMzJRZDFvcXdqSnBybWdCNEJrWmxRNnVvdF83eXFEbkhDa29ISTB5eFBXVjdHU1BlWHVLR3hOa3g1a0JJZTdUWG9kTzNUY0xkZ0VmcGQ0dlJVbm9ycUlEYUhVeUM?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-26T15:35:19+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strive"
-   ]
-  },
-  {
    "title": "AI earnings, a pivotal Fed decision, the midterms: Stocks are kicking off a crucial 2-week stretch",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1ZXeDctYWs4ZHNSYjVETUF6N1J3ekhJRXFRMEU1V3dnZ1pjNWE3bzZ4bzZOTEQ5WHNSNEZRWUtHZ1d0b0tLYVEyQW93OVNQdTV3dExKLTRhX2ZvZ2dKd3lNelRqT3NXN0dIRmxYNmtZWEtaZThTY1FkVEVKeGpFaE9LN0pSZjlicmt2TG5sbEx5WlgtR1RVUmZ4enpxeVkyLXN3cC1QNjFqUQ?oc=5",
    "source": "Business Insider",
    "type": "news",
    "published": "2026-10-26T15:33:10+00:00",
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEVRMG93c1IwR3dLNk1ac3pJUVdhaXBpSVAySEpLU3E0LWpSVTVTUVk4dkhNd3ZEd0VBNG9HWmR1d1AwQ09HYnlvbkVyWnVoYk5kcmRxakpHU3BfUlR0ckhGUGEzZFdPN013UFFPSDlES0hSc2xobjBGZmg1Ym9RSkdDN2dvZ2VGdmFYTGV0QzZaaDlGWUtBZw?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-26T15:32:18+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "US Stock Futures Gain Ahead of Big Tech Earnings, Fed Decision",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa29LWk1mM3hvOXNzYUlVdzdIR2VYSHJCUkdOUFJiMDRsZFpsdDJyekhzbl9qTGVPQUwzLU1IRmQtZEVCeE1kTjYtTk5YS0RhdmZkSHdmQTdEWFpubzdJdDBTS3ptTjNEM1JIaEg4MW9yMkQ4RnJyTERoOFVVa0lWc2w2NEV4OHd1TS1XVDFGbkFYRzBseXdubkhEa2ZnWmJncnV6WXh0SmVkb0J0ZWZxMlRR?oc=5",
+   "source": "Bloomberg.com",
+   "type": "news",
+   "published": "2026-10-26T15:31:50+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
    "topics": [
     "Fed"
    ]
@@ -505,15 +733,14 @@
    ]
   },
   {
-   "title": "Ethereum News: BitMine Just Bought 10,452 ETH and Now Owns 4.95% of All Ethereum",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVFwaGRqa2xtd0VhTXhmOUFlblhuQkxkYXhiSTFjVnNBSU5DSk9xdFdGRUpNVUlTOUZQWnE5UDM0UTljdzNnbnZELUNOV2lFVTZIRHllZWJBNVZ2aFFhNjIxMHpwYUd4eVRva21CdDd3QU9VRTB3cE0wMjgySEQ4U18tN2N1OC1veDVtUk5ycDMzQXVPWXNxLVc0ZFFLY0k?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Bitcoin News: Strategy Has $5.1 Billion in Cash to Cover 3.4 Years of Dividends. Could It Have to Sell Bitcoin Again?",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWkM5TG1jM0pzZENtdFF0QWdIX0tjRVYzVFVDUFZRT3Y3N2FkUlJuVzk0TTlVd3lIUW5ibGpXQUxFd0lET0RsaENic3hYZ3hRU2dOVVpKRVdFeDVxb3JucDJEelVtWGpnV0FQWHVYb3JSanBqWkVOVUlIekNpeFVUc3ptdENES08teHZwU3REc3pnOGZaamRnUVJaZ0ZCOXJUR0pLa3MzazFVNmF6OENKMkhLcTV4UzZZdGQ3ZUs3LUxpRldRc0Q0N0hLWXR3X0hTSXhXalNqMkxBY3JZemdnaHZMRVJvSW5USG9WeE0tV0pvdmdGNHZ6X0Z1b1htZ1lQZlE?oc=5",
+   "source": "24/7 Wall St.",
    "type": "news",
-   "published": "2026-10-26T15:28:29+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "published": "2026-10-26T15:27:50+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
    "topics": [
-    "Ethereum",
-    "Bitmine"
+    "Bitcoin"
    ]
   },
   {
@@ -522,17 +749,6 @@
    "source": "24/7 Wall St.",
    "type": "news",
    "published": "2026-10-26T15:25:26+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin News: Strategy Has $5.1 Billion in Cash to Cover 3.4 Years of Dividends. Could It Have to Sell Bitcoin Again?",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjduWWhWTjdGVkhCaVI1SnJ1MkxWTkJxQ3JJSWJDSi1YZkNPby1kRTZwX3JmMDdZLXJmSVcycU14SFpMVzZYQnJqTWxEWkxldS1QbEdQcFMwRDE0MlVxNmdudGdyWkd3VFpqdGJCalBoTzJqRHJBZUdtN0hoX21BMG14QWVYUG1oa3M0c2VCb3VLNmJa?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-26T15:23:41+00:00",
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "Bitcoin"
@@ -573,17 +789,6 @@
    ]
   },
   {
-   "title": "Top Utilities Stocks to Watch: HSBC\u2019s Preferred Picks",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdENMeWRwYVpkSHJRLWJwNWptQjEycUNtX1g0dTRsVENpU1dRbUdaTWtnMjhkWUNFLUQ0ZUJtOHktY2RzaG14WnVDQzk3Wi1qSHVZV0J2MmhpbkhoUmpOSTlUdGJxVHNOSmluR3ZESko0YmhaV3IxSXBUUURtb3FtMmZoS05nZ1phWk15anlQbVotMTJ3eGFJYXFuSTlRR2V3cU5OU2VBTHNtLWpO?oc=5",
-   "source": "Investing.com",
-   "type": "news",
-   "published": "2026-10-26T15:09:41+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
    "title": "Strategy Halted After Five Weeks, But Buying Continues in the Market! Notable Activity Seen in Bitcoin, Ethereum, and Solana! Here Are the Details\u2026",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wcktEa3N2VGhYMkpyYXpreUJNT0tydC1sdEVIdmJpMGJPemhBN1BMT19oSGV5UVRWRHVUemowWWVIVGdpamFqRWNrS0E2TndDUkN6UDJBNEw?oc=5",
    "source": "Cryptonews.net",
@@ -605,17 +810,6 @@
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "Fed"
-   ]
-  },
-  {
-   "title": "Sony-Backed Soneium Plans Native Token in Tokenized-IP Push",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcUdYb1EzalFOd19TVnRoX3ZhNnFiYkYtSHdWa3FTeHVHU3VGX0dLRHVZcHpYNGktc1M3QzBDU2ctYVpGT1h0MkV6dkVOVlhzcXRZTEd1OThNcW82c1dPcGxnR0RVczE5NG1adFFTSHp1N2NHSzZlSlpCV1BrUU1GSGEtOFBGeHNSbDZtMlYxSjlGMlBZdERkUDVFZ2FoLTQ?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-26T15:03:21+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "RWA"
    ]
   },
   {
@@ -733,17 +927,6 @@
    ]
   },
   {
-   "title": "Ethereum (ETH) Suffers Its Worst October in 8 Years: Is More Pain Ahead?",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeWJuT2dQZkZaVC1FNndwd1prcVZRc3ZGRjlxVTlJcWFaTkxMcmlkd2s2RWVSNXhtNWt1TTl0RExTTF9fV0ljVzF6MGsyUzVhQ0xyQ1E5T3RsSnlkcmU1Sy1VLWlLV1VNNEl3MF9QNEFVRjIxWjFPbDctZm9IQlZnaGFaOEREWERNMG90X1ZPdzB3QzFtWkFsYU5ZU2h5Uy05ZWZNLVRacnQ1QQ?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-26T14:39:56+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "USDC drives most of the stablecoin market\u2019s 30-day drop",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmN1UXZkNTB0WnJxZ3Rpakp6eW5RMjhxMjlnbUVHVnpUQTlENnoyX3lUSTlWOGx2N25iSzlWQTJhdmdrSnlJcDlTSTk2UHd4bk5NQ1hINkdXYlNlZEU5Y0RiUUpUTWhIQmt4MkZOeGJqZXFwaU9vUF94ZWstSWd2QnBIclJkdw?oc=5",
    "source": "CryptoRank",
@@ -791,14 +974,14 @@
    ]
   },
   {
-   "title": "Canada Unveils Draft Stablecoin Rules, Banning Interest Payments",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gc3FrcWhaT0sxX05hOVA1czZnNGVuYW0yUEtlZXFoT1Q4YnNXRzBSd2VKVWFPaXNmVmhER1RpUl9pZk5kN1pUS2ZvdktKSFJZLXkzaQ?oc=5",
-   "source": "bloomingbit",
+   "title": "Fed Rate Decision October 2026: Why Another Rate Hike Is Still on the Table",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekdSakdnVXZSWkdnTDJLRHl2c2w2MHVxNmNuN1hQTXpwS1hjcDh2MHlIaGVHWnhuZUtZZDViWDFadEx0U09aZnRSQXRyRVE5clFzaVJucUFEeHBTM3ZFRUNoWmJab0lRV0N5V2d2M21aaWFGT2dRalZ4ZnBuVklkanhMbk15d21nR2dkZE5YNGRJMkt0SDlLMnFHMlVZbEpJZGZ0LVc2bzIxMlBa?oc=5",
+   "source": "CryptoDaily",
    "type": "news",
-   "published": "2026-10-26T14:29:03+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "published": "2026-10-26T14:26:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
    "topics": [
-    "Stablecoin"
+    "Fed"
    ]
   },
   {
@@ -814,15 +997,15 @@
    ]
   },
   {
-   "title": "Crypto Price Analysis, BTC, ETH, HYPE, QNT and ICP, October 26: Quant Gains 3.2% as Bitcoin Falls Below $80,000 and Ethereum Weakens",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TTzdKTFpxbXYzNVlXNzllX1gtRWZhWmZ3UmVzLVd4ak1XMDVzS20xVktXd0lteEQ3Wm0zR0FGYWwxaFJrNG4zTFZCcWRSajM2eWVDd1VIN0hUcWc?oc=5",
+   "title": "Tom Lee\u2019s Bitmine Adds 10,452 ETH, Repurchases 2M BMNR Shares",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZQ19Dd240M0pGbktCdTZTQnliLWxraU14SUxNbGVvVE11bnFYWDFnSC15dWl5dFFCMXBuMDl3QWFFS0UwUFNSUlZKUHNPbDA0andrYVdzZWpTQQ?oc=5",
    "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-10-26T14:24:19+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "published": "2026-10-26T14:24:27+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
    "topics": [
     "Ethereum",
-    "Bitcoin"
+    "Bitmine"
    ]
   },
   {
@@ -871,28 +1054,6 @@
    ]
   },
   {
-   "title": "PrimeRevenue Brings Trade Finance Assets to Solana, Expanding Access to On-Chain Capital Markets",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGtOUVFIUHVsWXVLUjNDSDVMNG9HRUVQWHJPQXAzZnV3YXNRVnBmUHFWQzBtc0VQaW9HUWVwWjV0NHRkVlVpb3FmQkhxMElxWFUxVXJiN19teEhSbXhjRlVtem1UN1ZNX2k1a05UX2EyMEwtcVdFOWFrdVlXT1Rnd0ZQb0VtV2JqZDZsS2ZqSlhQcXV6bDFudGRlQTFxTGp4dlRsbC11eTlyZ0JfZS15Vk9jNWJvVTlQY2kwU2IwRjNJODJXWnlSUDd5b1FZM0FVLWNoY3hrTW5mazByLVA4dFl4T2xLQQ?oc=5",
-   "source": "PR Newswire",
-   "type": "news",
-   "published": "2026-10-26T14:17:00+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Solana"
-   ]
-  },
-  {
-   "title": "U.S. stocks advance ahead of key tech earnings, Fed decision",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0hfS1lxYXdFclRJLWQ5X1ZOQnBiQk1ZUVNzMU51UEtLbHMwbWJQcmNWcWthRkpYcUVGR3BsSTVUMVZjV2JmRzVFY04ybE9nbmY1UkdyOEdPRWZyNnlfWTJSQ0tRVTlNdTQ2bVZ3NUJZdTFtalFWOWJmTFliMHNnR29Ydm9BNzdm?oc=5",
-   "source": "Seeking Alpha",
-   "type": "news",
-   "published": "2026-10-26T14:14:11+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Fed"
-   ]
-  },
-  {
    "title": "Crypto SWOT: U.S. spot Bitcoin ETFs recorded $1.08 billion in net inflows over three days",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXhFeDNXaWNIOEhIM2hjdDE2dlJEVS1pd1liVzh3MGc0NHpvX1FjeTdqUm90MW1aYnpyd2NGcU5NdEdHZUZJazY1QVRhelJRaTRtTjk5bGJYbzlqZ3ZCMElGVzc1ZEFwbkQyTi1rVWgtZmwxWHVwZUVXdE1KR1FacHB4eXNVRjVZVEZ3emhBLUhpRzYtYWVhQktkNE9NV240UkFOMVV0ckM5c290RWJ5UmFrajkyMWNG?oc=5",
    "source": "Kitco",
@@ -901,17 +1062,6 @@
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Finchb Brings a Simple Solana Wallet to the Web, Phones and Telegram",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFVuWDJ1a0JxYklPZEo3Y1VCZW5oYmtHZEYzX25ZSlZYbk5hdUJNMDRIcWJ5cEdWSENlU0YwVDRsejc4NDZ4MldzZTFDRzdvUGJlbHhkNWt0eXJ3ZHdKekt5eldHQjN5NUllSG9OdWhQYXNfNlMtb1cxVHkwR0ptTElHY2ZlRUN6Y1UzQVN2VlZ4TXB0SkdCMlI2aW5VMFpVWU00Qkx4cjEyUzBVSWppeWQ4QjBYaHN4OUszd1Z0cm8yOFhp?oc=5",
-   "source": "markets.businessinsider.com",
-   "type": "news",
-   "published": "2026-10-26T14:13:26+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Solana"
    ]
   },
   {
@@ -973,6 +1123,17 @@
    ]
   },
   {
+   "title": "Finchb Brings a Simple Solana Wallet to the Web, Phones and Telegram Intrado",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWW5aX0s1anF6dzR4WTdzME1vX28tcGpkVUYyRXRpamdKRXBWN3kzQk9oeENtZjdaZmpKQXV1Ql9LQ19qZ0xMMzM3RE9wZHpmNVJlcTNqRXZMY0FzeWJGc3lKYnpmTnNXMnMwVXFKbTY2SXBhVEtDRE14Q21YRURqZGFTQ0R4TkRNTjJXeHk0Q2tlSU9VbkJPZWNtSUNXNDFJNFJNRG9kX256TE5HNjdnSi1RQVNJWDNVbmNudjRla3hYNWRZQ2diZk9MWQ?oc=5",
+   "source": "Chinook Observer",
+   "type": "news",
+   "published": "2026-10-26T13:50:21+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Solana"
+   ]
+  },
+  {
    "title": "What's Going On With BitMine Stock Monday?",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmNrRmwta3d3SEdqckk5a1IzY001YU9yMFc5UFVMaTVMeVFDejN4R09kMTVwcllxTENmdGdyRE0tUHdhZU9henJrRnU5UzRMakZrMjRxeGMtLVh0ZUZWeThySWhadGZCOVU3M2RqdFhTQjZNMlRCWEhldlN2ck0tcEZqWnZvaGdYdlBzTmhpeDFZV3lDZUR2YkRyRnd2SkhrVmI0?oc=5",
    "source": "Benzinga",
@@ -992,17 +1153,6 @@
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "Fed"
-   ]
-  },
-  {
-   "title": "HSBC cuts global equities to 'neutral' on Middle East, AI risks",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbFY3SlFwYV9lZmo1MXFLb25aQ0I4TXhvRDBha1Zqb2NSTldyamRjQTNDeXR4OUs0ZnZPcFo1alBXdW53M2RycVp5LW91anBoZ2hwU0Fva09LX3R4ZmdrY2M4RXJwX0VqandOS2ZTaFJCd0pEeVJwcm81X0Q1aEVuWjRQQ3JaZ0I2N1F1Z2YwN2VmazNnUFNqQTJXRS1WeEhmZXpoeWk0Z1FodmszM0E?oc=5",
-   "source": "Zawya",
-   "type": "news",
-   "published": "2026-10-26T13:46:00+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "HSBC"
    ]
   },
   {
@@ -1244,6 +1394,17 @@
    ]
   },
   {
+   "title": "PrimeRevenue Brings Trade Finance Assets to Solana, Expanding Access to On-Chain Capital Markets",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRjdGV1FmQTB3M1ozbEJVNlUyd3J4eWZ6b01BQllORjJxS1ZZREdqYS1Zb3pfNnRjZU9feFZhLWZGRmhmeHdWX2RYRURaaTN5aXd0dTRNb3Q4LV9HeWhhbFdyQ19PbEJMOWlfMWVuaDRncHljVGdoRWFuOWR3VFNlY2t1Q2tHc0hRNGszc2ZtaE1OVU5JaUF0T2drSE5rZFR3NjllY1N4cVNyZ0YwcXVfSlU0UlBUZ1dJdVBLaWVZaHFXNHZJWjJmM21zbi00dnpXaEJobzZOdnhtWU5xVGlocUNKTDlHTlFON0NhZA?oc=5",
+   "source": "Morningstar",
+   "type": "news",
+   "published": "2026-10-26T13:17:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Solana"
+   ]
+  },
+  {
    "title": "Bitcoin Treasury Analyst: MSTR, ASST & Metaplanet Digital Credit Outlook",
    "url": "https://bitcoinmagazine.com/videos/bitcoin-treasury-analyst-mstr-asst-metaplanet-digital-credit-outlook",
    "source": "Bitcoin Magazine",
@@ -1255,14 +1416,14 @@
    ]
   },
   {
-   "title": "Polymarket Odds Today: Bitcoin October, Sweden PM, World Series MVP",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVhoSXh2VjY3LU5jaEpOaFdLYmJsa0VPNENIOElwUzNEY2xRZVNVRGtKaE5uVXZCSmpWSU5OV2VPTW5mOWdTRmtSLVNrN29KdzJlZUh1blFiWGhVTFl2UXkxMTYwQ2tqVjNCa0g0RW9ZRjlYV1k5S3IxNkFrYU50NGFidjVSTnhudDBYbUR5VGVvNVBueS1MTVFVRVhxUUZVa0NzWjE0RDFjeHQxYUNFSE1hT0o?oc=5",
-   "source": "RG.org",
+   "title": "Altcoin Season 2026: Will Solana, SUI And Render Lead A 20% Crypto Rebound This Week?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFpRQjhNVWlXcnVDLWstSEhRMHRuUlRGYzlIeGppczJGREZHS2pDUGFyODlqTWV0TEZPYTR2UmVxV3QtZ0RNSS1rOFJ0ZWh0OXdBUXlkSk1NYmJCN09xN0FwYktMNzVmU1RIQ0w0c0dIQ0VXWEdIVDNZeG16U292ak9kSkVlTUxrMXBadzg3QlZnNTR6eVh1WFY3ZFZhTHZJX0M2SmNB0gGrAUFVX3lxTFBwNjUyRDFqazVFQUwwTmdUZjhFN1JlbVZxOUViMVhpNVhuaW9rb1NBSDJ6b2lHdmNGZzllNUJZcnhUNVBYeHVqZzZnTktOQmxHY0ZlWFJlLUpHUXl3LV9WaHNRbmtPUnlmV3o5UG1GWFNORTg4eXlwdGp1MUl6ckVYMGx3QVBkdDNiYm5BU2FKT0lOZGNGbXZaUjZWVHVKVm4wR1RxM0FkTWFLUQ?oc=5",
+   "source": "Coinpedia",
    "type": "news",
-   "published": "2026-10-26T13:12:09+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "published": "2026-10-26T13:04:40+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
    "topics": [
-    "Bitcoin"
+    "Solana"
    ]
   },
   {
@@ -1346,18 +1507,6 @@
    ]
   },
   {
-   "title": "BitMine adds 10,452 ETH and buys back 2.04 million shares in a single week",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XZm00Y2NpMUV0RS1QdFhUVDJTNU44RXdPN0FpQUUyT0FTeGo4bDVUQlhQbkd6dzZINkpTSzRfSzZBUlNqNVJMdlVEdklVYVNFZHIxXzA0QVhsTW5xb085dklYN21wV2VTMkVHbkVDekhQYlR4dUE?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-10-26T12:46:44+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitmine"
-   ]
-  },
-  {
    "title": "TOP BLOCKCHAINS BY REAL-WORLD ASSETS VALUE The tokenized rea",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRX0c0dGcxRFZCaDRBdHM2R1Z4WjlTbzd4am5HQURSWFF4cDB2RWtCMk1jd0ctQ1Ribmd5RWNBUzl0QW1FNjRPSHlnYnM3V1dPNFMwZkFPQloxSWFTUkZFU2RFY2RuVE1lUHlLOENMUHhnZw?oc=5",
    "source": "KuCoin",
@@ -1366,18 +1515,6 @@
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Uniswap Price Prediction November 2026: Can UNI Reclaim $7.256?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CeUNBZmZaM0Q5X3hzbTF0Vk9zazBXdzh3SUx0Y1k3aVQyVThmelg3dldxT0haaXk2SjVUaXpqT1hCQml2RmJzM2FvbkxxdExFWWM5dTM0QTBhamRRQXdvMGdfV05GMEdWbTh1YWZCNkZVOUUyR2Rr?oc=5",
-   "source": "Coin Gabbar",
-   "type": "news",
-   "published": "2026-10-26T12:44:00+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "DEFI",
-    "UNI"
    ]
   },
   {
@@ -1411,40 +1548,6 @@
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "Strive"
-   ]
-  },
-  {
-   "title": "Tether-Backed Oobit Launches Crypto-to-Bank Transfer Service",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV2F0Njd3aFM4MjJDOFFhYW9qLVAwT2c0ZlRJNzFQSlRIekhvaUcyTkh6Nl9LTTZmRUpxNW5MMnBBUDItZzROVjZ6aEsyb0JGOFpZZC1EY0t6NXR3blVPNTAwdzF0cEhPSEQ3QndaQ3NaaXNacmN6QnAxU3BlSW5HMHNzdkhHMEJ6MWprWGNFbUI0RGhNcDlfQ3pNZllNaXYwUW1DeQ?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-26T12:35:01+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Strive buys 6,182 Bitcoin, raising holdings to 43,000 BTC in largest-ever purchase.",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGNXWHFvTUpkLUEwaUF5cnpSSmZwb1hXc3BFT2RRX2Y3Z28yOHpEOEZvaGZUMlJYdmtfcnhJMmlXX0w4U0QzUTVNVjZPZzhoU1Y0ZG9SYk5SQWt3TVM3NnRfTldTV1JNZFNMY0UzTjJLVGs0Nm42WEZoTkpLY3ZEUHJxWnNaUlBiNmRpSEFWU01BTWhWdTdoSHZCS0JHTHRibnV4OHNfZHA0eEE?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-10-26T12:34:34+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strive"
-   ]
-  },
-  {
-   "title": "Current price of Ethereum for October 26, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNMkw0eXJZU2dCeEhaaVAtUXhQN2dmXzdNcUFTeG82QXNWaUJpRGZnWXR5ZHFXSlkxcVhIYUxEd2l6S3R6Xy02ZHF5ZmZfTHNSSzBILVBSbmtyVlMxd253SlpLaWRjdUVu?oc=5",
-   "source": "Fortune",
-   "type": "news",
-   "published": "2026-10-26T12:34:04+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -1484,17 +1587,6 @@
    ]
   },
   {
-   "title": "Current price of Bitcoin for October 26, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5scU51cEwzRE0yakN1aXgwY2lVX1pyOGI0NTQ2Nnc1RTJKVGNoVTdpUklZM2laX1h4MWVxTWp3SjVHS2hYWHEwazBsemZQNGV5MFZZZ3JwWlA4WTJRVjEya1pxV1hHQ2s?oc=5",
-   "source": "Fortune",
-   "type": "news",
-   "published": "2026-10-26T12:20:15+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
    "url": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
    "source": "Decrypt",
@@ -1530,17 +1622,6 @@
    ]
   },
   {
-   "title": "Watch Markets: HSBC\u2019s Kettner Turns Cautious on Equities for Now",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkNwTG5vOEtvTU00a3FRM0dhdUVmMU9WM0V6YmJOR2kzQ2NqSUlzODZsOGdLUzVyNEJja0V1Ym1PQ2pQcmNDM1pKMHVnaXl3aUMyU2w3OEJFVEwtMndNVXY4UGZIQW5CendMSFdjN0YxeWxHMWlreEtvTXRrNTZmN3JCR0g0V3lpaUJmNmVCcFgzemo4SVdsaXl4aFg1b3pTbUotUGxoUQ?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-10-26T12:14:03+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
    "title": "DeFi Development Adds 5,346 SOL; CHAD Dividend Rate to Rise to 14%",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVFsUVVSMXRZck9XdnVrOVdHSEpYczBtd1BleEw5X0VyLXQzVGZpZE0yRnVJTXg0TXhyay0xVHZacnU0Y0tRMmxCd05KTWFKNUc3QkxQR1RBNWpyQVZhR1ZsWmxXNFlwcUZsRExNZzI0UDdTWS1WWlhiLUl4WG9oSmpnem1oREwwZE9rMXJ3NEZZSXlqSU5KbFJIWHMtUWdyMENaODN1dG13V0s1dHliQ1REZnRrS1BsaEt2VkdBakx2c2Fj?oc=5",
    "source": "TradingView",
@@ -1549,28 +1630,6 @@
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Altcoin Season 2026: Will Solana, SUI And Render Lead A 20% Crypto Rebound This Week?",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSTNLOFV0Z252UjZDdW50Qm9DLWt2S2Y0TndZR3gxcGhvUlNRdTNIdzAzZ3R1OWJaXzBHNjlGTFBGek5oR0h4UXhpRWRCd3J4VnNuRi1oSVhiZnlpM2kxWDdqUnVudVliUkJoUFJ5N2gtS1NPbHN6aHlfU3c2OGdoRUJiblNCVThIUEFNRWdvOHU1ZWtIV0ZOdDlIYVRtR1F2cUFZRjRZeUpUSTRtTjdqSHo4aW1ueGtfMGdpY3pjTVFtalZHY2Fnc3JvZlZTVEhjdDFycERPeUw?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-26T12:10:41+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Solana"
-   ]
-  },
-  {
-   "title": "HSBC\u2019s Max Kettner Ends Bullish Stocks Call Ahead of Midterms",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGJPU2dxQ2pQaFZzQmRKYlA5RWtHUlRyUmc0cDlwVTAtc0hBRGNnaXdRMnM5TUNyUUhfTG9zN1pXZ05SSzFIU2RvSkc4OU5VLV9BUXFEXzducHlsMlFFNmJHeDE5NWRQTmVSbG42MXFISTg3ZFJwd2NUeUw2VHFWY1Zjc1hCSnIwVW8wVnZTVUYxYUNmajh4SWRDYllnNm5qRktVLTdwTDJTblZualFDaWl3?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-10-26T12:07:31+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "HSBC"
    ]
   },
   {
@@ -1586,6 +1645,17 @@
    ]
   },
   {
+   "title": "Current price of Bitcoin for October 26, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5scU51cEwzRE0yakN1aXgwY2lVX1pyOGI0NTQ2Nnc1RTJKVGNoVTdpUklZM2laX1h4MWVxTWp3SjVHS2hYWHEwazBsemZQNGV5MFZZZ3JwWlA4WTJRVjEya1pxV1hHQ2s?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-10-26T12:04:07+00:00",
+   "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Strive Seeks to Raise Up to $1 Billion Through Preferred Stock Sale",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hVTRNbVZDX1lOa2I2UnRlMUxPRW9IeTV0NTlONEVyVHVwSnBPMlRzRWRMSk1IcHExNjNWQTR1OWlDSEl1a2oxb244SVpCWVdQeS1Hdg?oc=5",
    "source": "bloomingbit",
@@ -1594,6 +1664,28 @@
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "Strive"
+   ]
+  },
+  {
+   "title": "Current price of Ethereum for October 26, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNMkw0eXJZU2dCeEhaaVAtUXhQN2dmXzdNcUFTeG82QXNWaUJpRGZnWXR5ZHFXSlkxcVhIYUxEd2l6S3R6Xy02ZHF5ZmZfTHNSSzBILVBSbmtyVlMxd253SlpLaWRjdUVu?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-10-26T12:04:04+00:00",
+   "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "The missing cash leg of tokenization is being built",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tMndLSlVHQmYzbHhxelBQTEhwZTVMUS1JZmlZVnBCN3Nrcm5DSUZJc1NRS0ZjWkRXWHZqdmxUZkEwQ3pvYVdpM3VBY290aE1DZ2cyMEl0R0RTSnl5WUgtTkxaYkF4dHliQzRGZDlaVk53N1ctNy1pWXlQZ3Fodw?oc=5",
+   "source": "CoinGeek",
+   "type": "news",
+   "published": "2026-10-26T12:00:00+00:00",
+   "first_seen": "2026-10-26T12:05:57.554999+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -1685,6 +1777,17 @@
    ]
   },
   {
+   "title": "Microsoft, Alphanet, Amazon Earnings Meet Fed Rate Decision: 3 Charts To Watch This Week",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemtpLU5GVDB6SlNBU0NoUTJycEhPWEdtM3JqV09jczVhcWxsY0tSb19TZWJuXzJ0elBFWENTQ0R1QjlRbVJ2Zm1DUFNhY0NCWGgya1dNUjY4U2NIV0ZYaGN5TXozWmxDRHRJaG8zQk9sTFUyLXFsMkVkcmhlUG0wemZYY3FMX0hFb2E3b3dTTjFsR0Q3Qk0wZTZfYjFNcFVuOUdaV0RXaw?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-26T11:37:01+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
    "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
    "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
    "source": "The Block",
@@ -1755,17 +1858,6 @@
    ]
   },
   {
-   "title": "The missing cash leg of tokenization is being built",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tMndLSlVHQmYzbHhxelBQTEhwZTVMUS1JZmlZVnBCN3Nrcm5DSUZJc1NRS0ZjWkRXWHZqdmxUZkEwQ3pvYVdpM3VBY290aE1DZ2cyMEl0R0RTSnl5WUgtTkxaYkF4dHliQzRGZDlaVk53N1ctNy1pWXlQZ3Fodw?oc=5",
-   "source": "CoinGeek",
-   "type": "news",
-   "published": "2026-10-26T11:03:34+00:00",
-   "first_seen": "2026-10-26T12:05:57.554999+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
    "title": "European stocks rebound as investors eye ECB, Fed meetings",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTNqT1RkY0RsU1oyTkpOUHNVR3V3eDNUckxOSV9QeW1JelM3TjhzTjJ5NmJkcl8tMXFOOVJjVlJhMEtaSmI2RjNqV2VwbW93RWlRanFHZjJJTVg4Qi1jQmQ2ekRpZU1tZzk1Y1BEZDVYNlVzblNtV2loeFkzSHZQWFdTdUFXMjkxSHozRENYZWp3cXBzQ3ZPRTZDaGRrRGNOZzVF?oc=5",
    "source": "Reuters",
@@ -1785,28 +1877,6 @@
    "first_seen": "2026-10-26T17:00:35.731267+00:00",
    "topics": [
     "Hong Kong"
-   ]
-  },
-  {
-   "title": "European Stocks Edge Higher as Oil Prices Ease Ahead of Fed and ECB Decisions: DAX, CAC, FTSE100",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWkRoRUQ5SGljT1V1UU1VUk9BVHVNdmxGbDJNMUtzaENqXzgxUjAzZ2liZkxEMXdpVDlHT2dfQVY4dXpZV3poVFNaUG4wam16MWVlbk5Pdi1UUlN6VzZaX0hzTjRyU3NoaFM0VFQzS3R4ZmdtYUR4S25PQ2tqZGtfTGJXaWRaSDQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "type": "news",
-   "published": "2026-10-26T10:59:08+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Fed"
-   ]
-  },
-  {
-   "title": "HSBC turns cautious short-term on stocks but remains bullish for 2027",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWExqTGg1S3RXVjgxQWNFSFVMTGkyS0lZZVBsR21qVm5lbGt2dENMLU5IWHcyYlhDa3h3dzdUVGR4a1FQSFQ5UnV2Q09rVXRRSHZQcHpVRGtncmRDbFVLQWR3eDh4UXJMdzhPMURsa2s2d2VtUGZSQ2wwUi13dFcxejloYk5WNkl2cmJjbXlYYmdHc0sxWFNob3ZUYw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-26T10:58:13+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "HSBC"
    ]
   },
   {
@@ -1888,50 +1958,6 @@
    ]
   },
   {
-   "title": "Will Bitcoin mining heat the pools in the spa replacing the Granada Theater?",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnEtVHRDclZOeXpRSEdyeWhsU05VS1MzLXFhS09nTC1pVWJxUFNJdjBTVGNYck5hZHJHOHprUHdUbW0ya3dYWGRiaFVfSlhwdTVtZzNhMUxKZjhlM0x1dDliSUJUVzZzSmZXV0lZaUN0UUtWRmVEMnpUc09FZlpEaVpQWDdsTmVHYnVrWmJTQVJKTHdKeWd2enRJTHN2Z09oeExCc1FtN0FyaGJ6?oc=5",
-   "source": "www.kera.org",
-   "type": "news",
-   "published": "2026-10-26T10:33:00+00:00",
-   "first_seen": "2026-10-26T12:05:57.554999+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "How Bitcoin ETF Weekly Flows Kept $301M After Two Days of Outflows",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2lJemVsNExUNlF6eWFBbXpLNVhIa3p0RkItNjdXU2twODBTeWo0QkZkWm1MZ2t1bTgweFVDb3k2V2FVSWNteFV1cFdMakNSU21JbE1uWXJSMVBwQzNQbks5RldOUXNtcGt0MGhlREprWUY2eTBmQVZuTzdTNFUzT2Rjb052N1pRLWdhbWFDRWl1Zzl4dW9UR1VndV95d3dHLUpMSkFTeTJ0Qkl3dWc?oc=5",
-   "source": "Bitcoin Foundation",
-   "type": "news",
-   "published": "2026-10-26T10:30:07+00:00",
-   "first_seen": "2026-10-26T12:05:57.554999+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty \u2014 PHP2Shell challenge tested claims that AI makes exploiting vulnerabilities easy",
-   "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMHBwUElwOVJwd2pmLU1lbGl2RUE3R3dhWHM2OF9yZTd4dVFYWkFaTHRZSGNBZWZDSEdTWjNMQm8zTDc0SUhTVnVLbUZkZFYxM0I3WlNoT1U4X054dEFMajBaN0tKWHdoOENkUzV2eTVad3VPZDZDczltOTVYZ2pHM0pOdi1ONEVTemxFVDRILVEwZWZOclF3WU9sX0ZpT3FPQzFiQWVHWW55QmpadmotRXFKZFp4aUxJLVpjVmJGb3hGOFlaNzZYcnJYTjEyTklHcnZ1Zm5kVWdxNjVJQklXck1SR0lnWll2Tk5BRkViRG04a3JDOERrX0dRenZ4TG5tWFFxY0FNRktCeVM4aGIxTkptUVZaSHpQTUQ2T3diRUFDWmVLRExYUWZTbFJWQUNWdW1fVEszczhLUDVLc3UxWDBEaXoyRXBrTHZBU1ZCVVUwUjFOcUs5VS1DN29fTmVMQi1HSjFn?oc=5",
-   "source": "Tom's Hardware",
-   "type": "news",
-   "published": "2026-10-26T10:30:00+00:00",
-   "first_seen": "2026-10-26T12:05:57.554999+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "HSBC downgrades global equities to neutral on geopolitical, AI risks",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQjJDSk1iY1AtTC1pdS15YjdXa1IxVXZ4bkFxek9zQVk5Zkg0cUFyZFRlQUp1SjJzVmgzbVJmMHNtUzlJaEZWVGtZU1A0TlMwcFdQdzhLa1ZTTWxvV1RxV1dCVzdxcHk1VnlJMUdzSWczd01zQkMyQ24yUGZqNUtlNEdvQTNBTmdqLVRuRzF2aWRyMkNEQndhZnV2YVE5NGxBaXZnQktaWE5UMDByVmhPZUpIQXd1RlVtNjVTVk8wWUlXY2t1NzhaTE5XYmRyV2PSAc8BQVVfeXFMT0IyQ0pNYmNQLUwtaXUteWI3V2tSMVV2eG5BcXpPc0FZOWZINHFBcmRUZUFKdUoyc1ZoM21SZjBzbVM5SWhGVlRrWVNQNE5TMHBXUHc4S2tWU01sb1dUcVdXQlc3cXB5NVZ5STFHc0lnM3dNc0JDMkNuMlBmajVLZTRHb0EzQU5nai1UbkcxdmlkcjJDREJ3YWZ1dmFROTRsQWl2Z0JLWlhOVDAwclZoT2VKSEF3dUZVbTY1U1ZPMFlJV2NrdTc4WkxOV2Jkcldj?oc=5",
-   "source": "BusinessLine",
-   "type": "news",
-   "published": "2026-10-26T10:28:34+00:00",
-   "first_seen": "2026-10-26T12:05:57.554999+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
    "title": "Solana tokenized stock holders reach 1.5 million in October 2026",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0hXeVdyR041cXd1dTVvdU9JY0l3ZmVjRjBiWW82WXFsZXotcVZfX2JPcXRxWkNOR0VPRDlUWEI4STI2czdxbEdEVEZudmdqcHFmTE1tRGpIcC05V3p5OTgtdGpEeTZDa3liMWNuMUhJZ0tyWjUzbWotN3FCTFRvYTRPc0wtOWpsQ2pFZVhiLXliUWxFV0JreUtPVHBONWc?oc=5",
    "source": "KuCoin",
@@ -1992,17 +2018,6 @@
    ]
   },
   {
-   "title": "Hang Seng investment arm to merge with HSBC\u2019s asset business: sources",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV1FKTWwzMTV3SGFfYllSSU44M3hmTUExc2pLYWFKMnBjdEtBQ0lwTFJrdndldVdlNm9mdk9GT3dCTTlJWkg1ZUkxZ3Q1Qzd3Z0tkbTdwVG5KalZsR2Z6aGFmejBDaU9Talo3X1RsY1gtUWxtWGEwYnVZREV1U3RjUnZDa1EzYzdwOHVBbXRlUW9IYWZNM2xBSFFOX2paZ2dyc2FjbjlQOGJMSUtkZ01DcUVVbmk1QzFyY0lHckUxcUhqazhQ?oc=5",
-   "source": "The Business Times",
-   "type": "news",
-   "published": "2026-10-26T10:01:00+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
    "title": "Google, Microsoft, Amazon, and the Fed step up to a skittish market: What to watch this week",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLWp5V3hoVnVuSFBZUk5xUzYzWVNOUGZKMnVMMC1zM2JoZTc0aGR6YXgxN1ZrdUxITk5Sa2o0VS1BTWxaMHEyY2lFSFRNNl9IcU96aTlwR2FpZlQ0d2dtTW1OZEhSM0YyTVVfODVzWUZya2pWRHdKUE1JdlZPWUR6OTFmaFNtaG9mMjh0Q3Fqa25kdDdqV1RiNUtZeTBuRXhqdTE2Zk4xeFNCOUhrTTZ5V2hsNDVpRDRuVWhxdVlOTXFrVVpmQVI2ZlZWa1dwMlZxXzBsUUZGYkNBVUJXa0E?oc=5",
    "source": "Yahoo Finance",
@@ -2026,15 +2041,14 @@
    ]
   },
   {
-   "title": "Bitcoin Briefly Dips Below $80,000 as AI Worries Weigh on Asian Stocks Before the Fed Decides",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUZDQksxRXlRY0FLYVdCT3c3YkliMGxHaHBVendtWUtTYlMxZEsyeFFBNWJOQmRpcWJaRVpOQ0xrazFwTVd5bVNZd2NOREdRWW1PZm9QYnBkajBGblZKQ24wZjliU3liYkMxTDRmNVQ3aGVQbWdpSW1uWS1xTk13LXUtTEp0dlR5Z0NJV2pST1VOUnZRejlxZzBR?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Where Could Bitcoin Find Support if It Falls? Investors\u2019 Cost Basis Points to Key Zone",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0ZLWmM5Y0huVHh5T2hhcG9oeC14NXlNT2gydkoxXzlpQ1h2NWNjaFRqeHN0a3RXLXBvaXZhS0dWc1RmOG1MMVNKUVBKV3prSVpoSGdfbEZ3RHoxWlRsUHR6emZ2ZTNCbXFrNzRpMm9FdHJZVUdBQkVpdzhIUHEybzQwR3hIRTFqN205Nm4wNkl4ZlF6RjdyYnJ2WnAtaEtKbGhtTHJqd3hZejJzNHlubmd3NEMwMG1KVWZiUkt1X0g?oc=5",
+   "source": "Koin B\u00fclteni",
    "type": "news",
-   "published": "2026-10-26T09:46:38+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
+   "published": "2026-10-26T09:45:21+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
    "topics": [
-    "Bitcoin",
-    "Fed"
+    "Bitcoin"
    ]
   },
   {
@@ -2119,29 +2133,6 @@
    ]
   },
   {
-   "title": "Silver prices are tarnished but not forgotten. Why HSBC thinks gains in white metal may be limited?",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWExtMkM1RFdpRHk0MjFQWG5zcENRZTVwWU1Pcjl5QUdTNHhNcUExbkRrTmtabHVQcUFQcEliWTdkYU43TUQ2cXFYempaeGI0VzMwTUJFSjA3dVZEakFZcjlKU3MzbEVZNklXcWVlOXgyYnJmajJrZFM3TVJnd1kzYm8yZ2l2cVoyOUZGc1FUMk9zV2VtYzZzMmptSkE1SDdUYnk1c1pONC1uSFBwMGQyZnItbEJIdmNFc29hUmw2TEZYVGl2eGM0S3pxRGxqX0tWY1NfUC1uVmxReE5scVM2TTJtaWw0aHR1Z2JlY1dRYy11dVlvYXdkLUJtTkNDS1JuZDRuRHVEONIBjAJBVV95cUxNOGJlZ0Z0VXViT1pqaG96OE5yX3dnZXpCNDRJTVVta1d2ME9Nd3oyRThzcmFzVS1PRUJ3UkpNdFFGdkxfX0FBdmhGeXF1Z2VIMlREcWlHWXRzTVRLa1QxNUJIT25SaGdJVWgyWUVqb0NEcmtCWTFsaldTb3BXS2ZhTnVhcTE4QXV2OGtubHFseTBlR1R3ZllhcjNmVDNva095a2JmQXJjMVJZaHVzVVZ4TlpveDE3RGFqRUk4WkFoMTZpQkRRZl9wQzNxMWJDMFg0ZFBvUDJTSUFuRDNnUVhjN3QtLTdjYXZRUkd6T3M4NWZTVm1EY1NCZDRERmFlOXhuS1FzZ1E5Qnl5ZTNL?oc=5",
-   "source": "The Economic Times",
-   "type": "news",
-   "published": "2026-10-26T08:51:56+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
-   "title": "Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXpBTkFKaEVfY2xWcmVwcDQxNEVBNW1iZ2ZzeE5pNUhMNndySDFPZDNrRlQ2M3JaQVQ5dnlhaXc2aXNPQmNvUnc2NGQxRE0xdmFXbWx3UW02RG9QLTJFUm8yVU9ad2hEcGtMcVg4T3Mtd2JKajlNa09KVGF0S1ZlZFBJQjFsQTdULW5ncjh4NTdhc0NYQXZYYUZBaC11Y05TdUI0ZWk4M1RHY2xmUk04cGtGakJPcS1XZWlyZ19nNVZ2c0pGZWQ2RFhCX3lQT3Nq?oc=5",
-   "source": "Finance Magnates",
-   "type": "news",
-   "published": "2026-10-26T08:48:50+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Hong Kong Stocks Rise on Monday Ahead of Key U.S. Tech Earnings; Bitfire Gains 2%",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHpmSWVQbHpfU29YMDlwaTN0QkRTYVI2QmRsSkVUdzZpLTlMZjFseFdMVUFQMFp2dDB6eTJhdmh3Y3FwMVZLSUpYN1pmQWRBV1VYWUswNmI2S1ZDSW4xTWJuTmxiSmhzOXFpOTd6Nl9oSjFNaDFKcmRLekFHY29mS1dTSFF5c2FLRjQ2b0FlT2l6Z0RCREM5a3NuQW9XMGRuY0NHUWlIWDJPTWFtUWQwSy1OU21WUm4zVXpEU1V5M09NMlNQV0xvekdtMA?oc=5",
    "source": "marketscreener.com",
@@ -2162,17 +2153,6 @@
    "topics": [
     "RWA",
     "Solana"
-   ]
-  },
-  {
-   "title": "Equities: AI rotation favours smaller caps and overlooked sectors - HSBC",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcUg3aVN3dmlValFZV2x0Y3F0aDZMLXpDS0tncS1iQXgyMW9ZcExtQVp1OGE1MGlUTEVZdDdJcjE2R0dMa1FVR2dHWFMtZUxaX1ZRWThoc2VsQ0RDT2E4VjFzeDdWZTlMc0w0UFd2N3BCUVZTbVdDWlU3SEg3SkFvYTZQT3hLSXN2TF9BckxkajV0al9fMEoyTDllaXpuODNXbFBSR0J1Q0ZLY3VJdHY1TTJyZUlUMmMtSjFKWFJtamxHM1VsTXBXc0d2YnlQcUM3?oc=5",
-   "source": "www.tmgm.com",
-   "type": "news",
-   "published": "2026-10-26T08:24:28+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "HSBC"
    ]
   },
   {
@@ -2218,18 +2198,6 @@
    "first_seen": "2026-10-26T12:05:57.554999+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Discover MONY, JLTXX & RWA: Solana Sparks a Finance Revolution!",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeURncnBtVFc0WHh5NDFQY09nQkM4TUtwVUFNb1htaDl1ZGxaM18xbkxZV0xBd1poTmlvWXNpY3RDMV9SRlh0MlRqc0h0QWZOdGtiNmtjTzlqZ0dla19hSmFhY0NHZU5JUUhNenl0dUw0UVVkVVdYRll2ZzFYMUJ2dzV5T2pYTXRXLTZabWJB?oc=5",
-   "source": "Phemex",
-   "type": "news",
-   "published": "2026-10-26T07:56:40+00:00",
-   "first_seen": "2026-10-26T17:00:35.731267+00:00",
-   "topics": [
-    "RWA",
-    "Solana"
    ]
   },
   {
@@ -2344,8 +2312,18 @@
    "first_seen": "2026-10-26T07:16:14.438538+00:00",
    "topics": [
     "Stablecoin",
-    "Anchorpoint",
-    "HSBC"
+    "Anchorpoint"
+   ]
+  },
+  {
+   "title": "Uniswap remains in a bearish range with support at $6.516 coming into focus: weekly analysis",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTU5VYlJxQmlCZWJnak40cDFRbk1OQUVOUm1wdTA1LUhscUFuc2FjLUYyWnd5cEJOa3hoSnBaQXZnMzFmVmxrbkZzOW1pWFdRSmVKb25LNXYweW5PZk9XZU13bmp4MWw0QlFsNElwMUZzQkpTei0yUEdYUGJVYVg4RFRhTHRMWGxoVHVHZl9vUHdhbHpQeWNfZk01X3VOVTZE?oc=5",
+   "source": "Traders Union",
+   "type": "news",
+   "published": "2026-10-26T06:32:20+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
+   "topics": [
+    "DEFI"
    ]
   },
   {
@@ -2396,28 +2374,6 @@
    ]
   },
   {
-   "title": "Ethereum Lending Rates: Borrow Against ETH or Earn",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JYTZodGVYREVjclU2cGgyTXVoSmhrckhqbWRZUmRlMUxDQVJWWTFiMGhWS1pBX2xJbERTVHBQUm9kMFRBUmF4S1NKMA?oc=5",
-   "source": "DeFi Rate",
-   "type": "news",
-   "published": "2026-10-26T05:12:00+00:00",
-   "first_seen": "2026-10-21T11:16:09.036095+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Weekly Recap: HSBC Q3 EPS fall, revenue rise and RedCoin launch on PayMe",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeFZRZDh1MnN2eWJLeUVsOXhXcFFudlE0RHh1V1VVYVZoZDB4dVNGZ3VvOV9CdW5USEtIdFhIWGZzeXl6RVRiYjZySjA4NHJ6ZnNHREswZ1NaekpFX1NiNlRxTzJUTF91UTJkZXNLUXVGZTNlNEU2bHpiaGlSaUNxbWxma0Y0dXBMNTBleHVXOW5XcGdnZ1YyZG9PZWFlckNsT0xlZE5fbE80NkxKUzl3MHpFR2dyRHFKXzFMelZLejdPaDJ3eVpQajNIZ28?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-26T05:00:00+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
    "title": "Stablecoin Regulation: Anchorpoint\u2019s Caution and What It Means for Global Crypto-Fiat Businesses",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1ZRREx5S3loaUlvZDMtd2pDVTd2SDd1Z29nWkNxczRtTEZqU2lxdG1tZ3Y3UlhWdW5Jc3hsWnVjWFpGRkV2TE11MEJBMmpTcldKblVva2RMTVV3Mm5vQ1FFNXU4VGEyS2w3UGJSbjlxbU1mOHN4aS1kQlJKa3lfM2tDc2RzVDlfMUE?oc=5",
    "source": "OneSafe.io",
@@ -2439,39 +2395,6 @@
    "topics": [
     "Bitcoin",
     "Fed"
-   ]
-  },
-  {
-   "title": "ADGM seeks feedback on how regulated firms engage with decentralised finance",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vQVVpUWdiRmpwamhJRDZVZWhqNE1YWkljMVFoQ0d5NTlvM1U4aDFSV1N4cGgtZ0xnX3R6NTRvSHoyNEMydmdSYnFSZ0wxdHlaVFBnSzZPaE5nNUI2dWFraEhaQW9EODVPTWdpbjFB?oc=5",
-   "source": "Pinsent Masons",
-   "type": "news",
-   "published": "2026-10-26T03:55:01+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "HSBC\u2019s RedCoin Is Here\u2014What It Means for Crypto Banking",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwc1ZRSmNDV1ZsNXFtdXVmZkZzTjlzeGZteDFhM2pMc2RGMUM1OXZWaXEzb19Md2lHV29LSFJtTUdLR2FsUnpMT28xVWt0dTZ6dVN0cUlPSlozQkZtM2VuTWlwMWphRTdnNWJpdGlKLTAydkVTZzBtN0FKTVZ3dw?oc=5",
-   "source": "OneSafe.io",
-   "type": "news",
-   "published": "2026-10-26T03:44:07+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "HSBC"
-   ]
-  },
-  {
-   "title": "Buy or sell Infosys stock after Q2 earnings miss, guidance cut? UBS sees 23% upside, HSBC flags margin...",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOGJENnh2SXlubDkwR1RFd0RpNUVDSWV1dGJEUUpmUFVxMU9QdXNIdWJpQWwxUWZwNjhKeHk0bGV2UmE3WlpWMWtwSkdpOEdZb1gxYnI2Wl9uZktRX1hENDNBdWFDVElzSWdMUXJYeFVIa1ZZZkFtU053WEtyRXpqWGlOYU5OM00xa2VpWm9GbDQtaGZzbzY3MGQwNERNRHItSEdVZkJadXA2QWlzb19hREttX01KelMyM1RKUkJwLU1SQzlfdEJiZV9qWjlZczRLRjZwcFE3dEhjTThLM2ZuVXBjS2JXU2FPdjNRVUJrVTRwSzROTmFCc2hXUWRkR0lRZ2xVYUNrWdIBhwJBVV95cUxNOGJENnh2SXlubDkwR1RFd0RpNUVDSWV1dGJEUUpmUFVxMU9QdXNIdWJpQWwxUWZwNjhKeHk0bGV2UmE3WlpWMWtwSkdpOEdZb1gxYnI2Wl9uZktRX1hENDNBdWFDVElzSWdMUXJYeFVIa1ZZZkFtU053WEtyRXpqWGlOYU5OM00xa2VpWm9GbDQtaGZzbzY3MGQwNERNRHItSEdVZkJadXA2QWlzb19hREttX01KelMyM1RKUkJwLU1SQzlfdEJiZV9qWjlZczRLRjZwcFE3dEhjTThLM2ZuVXBjS2JXU2FPdjNRVUJrVTRwSzROTmFCc2hXUWRkR0lRZ2xVYUNrWQ?oc=5",
-   "source": "Moneycontrol.com",
-   "type": "news",
-   "published": "2026-10-26T03:22:59+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "HSBC"
    ]
   },
   {
@@ -2524,29 +2447,6 @@
    ]
   },
   {
-   "title": "Hong Kong Stocks Flat Amid AI Concerns",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDFNNjgtNldiX2VCRjdYdEZRSjRLMEU4UlNVVnNMNk03d1pxcUFwYkFTZXNXRk9iNVNST0xKVmZnU0VfNWxTb1QxNHNwRmNyNXBDc2RaZW02akRBa2o2M3RnWThKQ0VKV0xmMTAtdlc3UGQ3ODJnaGQ5TFJicUFVWTAwYzJwOVp2SzlCd0NRX0FiM1E?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-26T02:01:00+00:00",
-   "first_seen": "2026-10-26T12:05:57.554999+00:00",
-   "topics": [
-    "Hong Kong"
-   ]
-  },
-  {
-   "title": "Best Crypto Presale to Buy Now? HSBC Launches RedCoin as Remittix Earn Readies Aave, Morpho and Fluid Pools",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3cyblktZTBYS21QVVVIbllBbjU5T1FmbWFCbGR3VWZuR2VwN1RrcjhvcHBCWkdCbHUySWNERkE2cWdOalNidkZQZnVqZm1jRGtmdzltUDc3QVNMWE1tYnUzekRtRC03NDgzalZRdGZ5Qk52MEVqMm5Hc1EzYkxJVjRjcUNEQm9qWEpHV3kyZlVhSFNXWi1GdUU4UzkwQzU5ZHRRRUxFZUVaVmlTbThJaGNNam01bWNzOWxQR2FsYkUyNE1PTGc3NmlvYnViYnc3eWlmMnNjTHJrRTd0U0czbl9SSkdZNkJRR1A2WFdoNERkazhQbEloaDF0MGo?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-26T01:56:32+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "DEFI",
-    "HSBC"
-   ]
-  },
-  {
    "title": "Best Crypto to Buy Now: Bitcoin Slips Below $80K as Uniswap Trades Green on CME Futures",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PWnRNZk11QnVRZTR1RXQxS21PUy03YUZuUHBhNGZheVhvZXNVRnhudGIweWs0WWJDbHhFSjVpQndiV1Z6b1JCVzV3TmxWRDkzLXpwUkZ4QkRkYnM?oc=5",
    "source": "Cryptonews.net",
@@ -2570,31 +2470,6 @@
    ]
   },
   {
-   "title": "HSBC launches RedCoin stablecoin for Hong Kong payments",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWZXRWdLVFA4aGFURTFocWdjY2lhUHJod0M4azZ2LWxISWlqV1paQXM3RWwtM25DUGo2UnZCN2JLdV9sYXNZcm9lUUFPeVVtY185TGJjWXRHRWtILWNPbng4VXJJTW5xeVV0eTJwcF9YMWJDb1FRaS1pS2ROVjRlMFlEenVIUTk3NHVBR29n?oc=5",
-   "source": "grafa.com",
-   "type": "news",
-   "published": "2026-10-26T01:28:37+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "Stablecoin",
-    "Hong Kong",
-    "HSBC"
-   ]
-  },
-  {
-   "title": "HSBC\u2019s RedCoin Launch: What It Means for Stablecoin Payments",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WWTRWd3BacTQ5YnNaM2NjU1JSSlpweTJFaHlMMFFHcENidkYwbXVjZkk1b2kxejg1NlJRdTNidm00WEIxRFlEM3BneGRLSkZERUtiQU9hUGU0VG5uRGRXLTg1UTBXelZGT0RaUk5vNGtTbmo1Smc?oc=5",
-   "source": "OneSafe.io",
-   "type": "news",
-   "published": "2026-10-26T01:24:05+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "Stablecoin",
-    "HSBC"
-   ]
-  },
-  {
    "title": "Latvia Minister Says RWA Rules Could Be Ready in First Half of 2027",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1em1ZUmNaQ1JhYVpKRnNNMUsxM2JWRFNDNEtRZ2gyXzF4RkZScmlPSTNyczMxd1BmUmc4cnVHeTZZamt1ZHRzRVd5blA1WnJYNVR5bjJKaF81NmM?oc=5",
    "source": "www.tokenpost.com",
@@ -2603,17 +2478,6 @@
    "first_seen": "2026-10-26T07:16:14.438538+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "HSBC RedCoin: A New Era for Crypto Banking?",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CNmZhcG5TV1FOS0pfb3FUTmh3aEN1Sm9wYzlGbWZLYTR0MXNFVFk5d1p2XzhETjh4RERrTGs1UG5Velp3ZjVISnVwTTFsVjRSYUl4Rg?oc=5",
-   "source": "OneSafe.io",
-   "type": "news",
-   "published": "2026-10-26T01:09:04+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "HSBC"
    ]
   },
   {
@@ -2691,18 +2555,6 @@
    ]
   },
   {
-   "title": "HSBC launches HKD stablecoin for 3.3M users: Can RedCoin gain ground?",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkNsSWtqQy02UzUyOU5hT3hTanJvcDNFcXBhWDFQMkNVY3lVSDYxQms5S1RkdGhTMHppbkxZdjNGaTNyUnZRc25PT3hCRFA1djFzS25QZHVnTnFmZG9wMnY4TEtwdUI1MmhpMHM3bkx5XzRFeGNfcm5EQ3RHVWFDRmdtRVRXTVlnVmg5VjBSNk45R0Fk?oc=5",
-   "source": "AMBCrypto",
-   "type": "news",
-   "published": "2026-10-25T23:00:25+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "Stablecoin",
-    "HSBC"
-   ]
-  },
-  {
    "title": "Standard Chartered-led Anchorpoint plans retail stablecoin on public blockchain",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTJ4ZDQxZDFSemN2N0xnVzVvaDA5T3JVQmRfc2NZckJnSWlmUEZyUnZpMkRfY05KTnJpNzB3UkgwRUtaWVh5R1hma1VWTzhCWUFCYnRoQzh6WjZWR25CVzVyMzRVVDg0VVVzUEVobm8xVzN5OVl1ZnpkXzl4WUVIenNySzlxZlVPaWVNWC0xcVBjcnhhR1J4S3hPR29fUmVSQXIxamhMc3A0TDZPMTZ0QmM3UGN0Y3BnRzF4VmpQS1VLODJsVHF6RjJWUVE4b1QycmNWeG9kbknSAdgBQVVfeXFMTW5rbDVaVHE0YjEtSGdObDd2VFhBZWhwVVBEZ3NaSVhhcWJZRm9wRkdLeE1pUFZnZ0JoVEswRWUyNlFORUdZQzVFVlhKWndTd2NkSjBIWk9LRGsyS0RZbDBQaTJlRE5rT3NCZGU0SV81cldtOTRYZmdzUGdQSUktaUJvN1FMbm9SRHk0d1VHSGM1UGRTTl9mMk5rOWJxdG42d2JrMURlTWFGNzZGY3JSSXdvNUplajlqOGowUzJBYzduQWlLM0FJem1MTEptR0R0RmpYMHpRTjNr?oc=5",
    "source": "South China Morning Post",
@@ -2735,18 +2587,6 @@
    "topics": [
     "Ethereum",
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "New Cryptocurrency Search: HSBC Rolls Out RedCoin to 3.3M PayMe Users as Remittix, ZEC and ETH Enter the Debate",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQOGNyc2VNakstcEN6Vy1jLXp4WE5sZ1M4VU9QaU40WXJxb05TRnd4WDExTTJwMkJLU3ZoQXBwRXJsc0NqRS1wVHRnQUhKTExxYkg1emtzc3gyUkZPNDdaMDJScThqckw0QV9TWXRhTTRVWDN0eVRnVzVlSmpFbWlzWXpKT0E3WDdURWxyRjBMMk9tWWV0N3hvQ3ZBeUdLazF5M2RKTnpjUW5ZbnZOMGdZUld2aWtVcXJlNlZqY2ZqTzItS0F1QmtKVFJxTW11RC16bnpYMDZwN21mUHdfb0VESmliZkxmVzBUckNRcVdVT1dzRUgwOU95UW5PZW9fajBNeUVXdjR3?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-10-25T22:24:32+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "Ethereum",
-    "HSBC"
    ]
   },
   {
@@ -2818,25 +2658,16 @@
    ]
   },
   {
-   "title": "HSBC Stock Drops 1.04% on Friday, Testing Support Level",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXBoWjQxYVZjNkc2a25seU9BT0xYb25fX3VTY1R4WS1kSmJUSy1YNVdBbk9HVWtiX3VOR0RIN0NhbEJqSWlXVWZ0YVQ4TVR2YWhQV1F1QkJqdG9oTTVfMlp0M1pCcVkxdlJWeV9Ba1Uzc0k4YnRIU19Od2xVRjdOempVRmpzYnhvZEwwSVBodFRpLTB0b2Nr?oc=5",
-   "source": "JournalArta",
+   "title": "JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana. Which Chain Benefits More?",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOTlMSDMwQnRMNnNPay1IVVZJdVU1enZTWHdhMHRvVUZ0MFh1VzdDZTNRNjNGandjQ3Bvc0JXNkRFbTJtWFhwMEt3RGxuVGtFaGQ0YndNcmc4NHZLWGthNkhpamlKbnpCS3FWYThpZUV6c0hFX3pEb3BMMHF5bmtuYXQwS3pXXzFyVC1vVmhmTlBGaDlXamV1LVdCaWhaWnZOQllsOTl4QjNQQVFjdzlVc2JYN09HN29RdF9Wbzd0NDczQ09lNEpISVRpQk9wVmg3OVlXc0lqS0dwdWJmZFFnM3RQa2NuM2RvTkQ5eWlkaw?oc=5",
+   "source": "24/7 Wall St.",
    "type": "news",
-   "published": "2026-10-25T20:13:57+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
+   "published": "2026-10-25T19:30:00+00:00",
+   "first_seen": "2026-10-26T18:03:55.707144+00:00",
    "topics": [
-    "HSBC"
-   ]
-  },
-  {
-   "title": "HSBC\u2019s quiet exit from South Africa: A strategic retreat, not failure",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVl2WHZPZ1JsNEdSaWNFZGxCb0FDWmJxeUJpVUxQVk1sM2FNSUxWVnBjcXFvaGF4SXlCVnNpY1lpM0pzOGxoN3c1ZDk5VnZWVlk5NGRJU0ZYaFRVZklxTkRBeUl5NUVNSkxqWFFTdy1oWVRjblhUYi1PWFRpOFBqOWtPYjVWZTdGaXdsLWxwVFRTZGZzM3ZFam1MZVFSM3dTRnREbENaT0hEYzFV0gGyAUFVX3lxTE82bTZWdGgzSll0aTNDNXN6RlRYQlVBdWRtNW9NUGhHWDlxNV95MzZ1SjJ6QkVXTEtuRlR2cTZfS016SkM5OElBanNwTkx2M1NabmdjNVkxbVo5cHJ3aXIxUW9CMXQxdTZmUDlmT3JoaGJyeko1eXlRZjlRb25tNUxmWWZCU1MwOHNRRW5Wb05icFR5UlVWUkVTR3dCR284bkhnVkNFV2JUdngxNDRpWm9nUlE?oc=5",
-   "source": "Businessday NG",
-   "type": "news",
-   "published": "2026-10-25T19:52:16+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "HSBC"
+    "RWA",
+    "Ethereum",
+    "Solana"
    ]
   },
   {
@@ -2851,62 +2682,14 @@
     "RWA",
     "Solana"
    ]
-  },
-  {
-   "title": "JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana. Which Chain Benefits More?",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDU2amNrM09INFZtb0pRUXNOQkV1c29IRmdDNGNHdzlFd1BaZE8yWERqZ1pjeVFmSFE2R3NVeFQtbkJiSkVrVE5Ec0JTbkM2OVhjZDF4X3VfWlV0cHpKejBJMkVyS0dQTHBvWUtkVFU5bDlMbGNaNlJ4S2MxX3dyUVV0MUdJaDZmeGVUdEQwQ3haMG1lWHVHcGF0QnA3Ynl3aUw0Qg?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-25T18:30:43+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "RWA",
-    "Ethereum",
-    "Solana"
-   ]
-  },
-  {
-   "title": "PHP Flaw Shakes Internet, Bitcoin Flashes Bull Signal, and More \u2013 Weekly Recap",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZUhKVGgxcEdGZGR4MjZkc3Zlb1VrZFNNSC1qYmlXYk1jdEFRZTE1NnRMellabXRsT1ZMbGpnbFk4WWhmQ0wydGpVMk5rRjhMQTZuand6aVpOVnNHaDNETjUycmhwLXRxUEIySDFjYVlieGU1ajFpUjFSSXZkSG8yRzc3eDBiNmU0NTJGVEhpaEFFaGE3UmE4NnYtNDRZNnYtMGNlRWNrMlVINUdCdVE?oc=5",
-   "source": "Bitcoin News",
-   "type": "news",
-   "published": "2026-10-25T18:00:19+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Tron News: Developers Launch New Upgrade as RWA and Network Trends Hit New Highs",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFZaNXhkSzUwLTIxZFA0MXJrbHdSNkJoREtyYzdNVzZtOVRmZnRMbS1HRG5kNklnbl9HQ2J1TDd6OVkwSVBWZkNVSXMtX1ZfcG13WmE4OVdtcmd3X1pJdmptdFp4LWxGR0VONzVLRUg1Ty1XRnMyXzRzcldtUkVJckJtUm93UzJJcXVOSTZ1RHI3XzF1QVZ0NXNCbkxzdHJwYzVCTTY0Qjhtb2hrd3ZnZXdoWmJFT1k1?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-25T17:21:48+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Uniswap (UNI) Rises 4.2% on Protocol Upgrades, Adoption",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HY0Ital9jekJZSzdBUTY2SlgzZGxHWElCOGJMQTFEUng4WEdQeG5JcFpUclM5ME5sekRoOEZiaHdhdlFlWW93MDZHU01SdWs1V0JNMTRMaGhwS0pQTFNwRzNUelZva2RGMVdCRHRjYjk?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-25T17:03:00+00:00",
-   "first_seen": "2026-10-26T07:16:14.438538+00:00",
-   "topics": [
-    "DEFI",
-    "UNI"
-   ]
   }
  ],
  "stories": [
   {
    "title": "Standard Chartered\u2019s Anchorpoint Confirms Launch Of Retail-Facing HKD Stablecoin",
-   "outlets": 12,
+   "outlets": 10,
    "topics": [
     "Anchorpoint",
-    "HSBC",
     "Hong Kong",
     "Stablecoin"
    ],
@@ -2954,13 +2737,6 @@
      "published": "2026-10-26T06:05:51+00:00"
     },
     {
-     "title": "HSBC\u2019s RedCoin Is Here\u2014What It Means for Crypto Banking",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwc1ZRSmNDV1ZsNXFtdXVmZkZzTjlzeGZteDFhM2pMc2RGMUM1OXZWaXEzb19Md2lHV29LSFJtTUdLR2FsUnpMT28xVWt0dTZ6dVN0cUlPSlozQkZtM2VuTWlwMWphRTdnNWJpdGlKLTAydkVTZzBtN0FKTVZ3dw?oc=5",
-     "source": "OneSafe.io",
-     "type": "news",
-     "published": "2026-10-26T03:44:07+00:00"
-    },
-    {
      "title": "Standard Chartered\u2019s Anchorpoint Confirms Launch Of Retail-Facing HKD Stablecoin",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOczNjUy13bFcxZHlVQlFYbkVvWkR6QWptWlNfX2dDdWthZVczX3dadlRSQmFVQk9BZ2RaU0hHcUVMVkhScDFpd2NvaHhfaHhURm1LODZyTmFaT2x4cW5IaXY4OVlETlZ0SjAtUGdjZnNoWDhYb25OUUpTeUtxTXNWdHlZM3FsOXh6bXc?oc=5",
      "source": "Blockzeit",
@@ -2975,39 +2751,11 @@
      "published": "2026-10-26T02:48:43+00:00"
     },
     {
-     "title": "HSBC launches RedCoin stablecoin for Hong Kong payments",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWZXRWdLVFA4aGFURTFocWdjY2lhUHJod0M4azZ2LWxISWlqV1paQXM3RWwtM25DUGo2UnZCN2JLdV9sYXNZcm9lUUFPeVVtY185TGJjWXRHRWtILWNPbng4VXJJTW5xeVV0eTJwcF9YMWJDb1FRaS1pS2ROVjRlMFlEenVIUTk3NHVBR29n?oc=5",
-     "source": "grafa.com",
-     "type": "news",
-     "published": "2026-10-26T01:28:37+00:00"
-    },
-    {
-     "title": "HSBC\u2019s RedCoin Launch: What It Means for Stablecoin Payments",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WWTRWd3BacTQ5YnNaM2NjU1JSSlpweTJFaHlMMFFHcENidkYwbXVjZkk1b2kxejg1NlJRdTNidm00WEIxRFlEM3BneGRLSkZERUtiQU9hUGU0VG5uRGRXLTg1UTBXelZGT0RaUk5vNGtTbmo1Smc?oc=5",
-     "source": "OneSafe.io",
-     "type": "news",
-     "published": "2026-10-26T01:24:05+00:00"
-    },
-    {
-     "title": "HSBC RedCoin: A New Era for Crypto Banking?",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CNmZhcG5TV1FOS0pfb3FUTmh3aEN1Sm9wYzlGbWZLYTR0MXNFVFk5d1p2XzhETjh4RERrTGs1UG5Velp3ZjVISnVwTTFsVjRSYUl4Rg?oc=5",
-     "source": "OneSafe.io",
-     "type": "news",
-     "published": "2026-10-26T01:09:04+00:00"
-    },
-    {
      "title": "Standard Chartered-led Anchorpoint says it\u2019s not rushing retail stablecoin",
      "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "type": "news",
      "published": "2026-10-26T00:13:29+00:00"
-    },
-    {
-     "title": "HSBC launches HKD stablecoin for 3.3M users: Can RedCoin gain ground?",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkNsSWtqQy02UzUyOU5hT3hTanJvcDNFcXBhWDFQMkNVY3lVSDYxQms5S1RkdGhTMHppbkxZdjNGaTNyUnZRc25PT3hCRFA1djFzS25QZHVnTnFmZG9wMnY4TEtwdUI1MmhpMHM3bkx5XzRFeGNfcm5EQ3RHVWFDRmdtRVRXTVlnVmg5VjBSNk45R0Fk?oc=5",
-     "source": "AMBCrypto",
-     "type": "news",
-     "published": "2026-10-25T23:00:25+00:00"
     },
     {
      "title": "Standard Chartered-led Anchorpoint plans retail stablecoin on public blockchain",
@@ -3055,13 +2803,6 @@
      "published": "2026-10-26T13:19:08+00:00"
     },
     {
-     "title": "Strive buys 6,182 Bitcoin, raising holdings to 43,000 BTC in largest-ever purchase.",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGNXWHFvTUpkLUEwaUF5cnpSSmZwb1hXc3BFT2RRX2Y3Z28yOHpEOEZvaGZUMlJYdmtfcnhJMmlXX0w4U0QzUTVNVjZPZzhoU1Y0ZG9SYk5SQWt3TVM3NnRfTldTV1JNZFNMY0UzTjJLVGs0Nm42WEZoTkpLY3ZEUHJxWnNaUlBiNmRpSEFWU01BTWhWdTdoSHZCS0JHTHRibnV4OHNfZHA0eEE?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-10-26T12:34:34+00:00"
-    },
-    {
      "title": "Strive Makes Largest-Ever Bitcoin Purchase With 6,182 BTC Buy",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjRWMzlIQzFPY3RsSDJmVWwybnlPbGFidzQzcm5uSVVPVmcwRkNCN05wN1JDUWh4TFNsaWk2VERsSHlVRWpsbU5aTXNhTzBIRGE4YkpMTGZmcnUtYWJrZS1pSERKVFRma3hvQmNtUHoyYkpRelVvNHVlZWFJX0hTd1MtOHhDY0lENGhmRWFHX3dqOXFQc245dENCN2NCODQ?oc=5",
      "source": "CryptoRank",
@@ -3099,68 +2840,68 @@
    ]
   },
   {
-   "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
+   "title": "Tom Lee\u2019s Bitmine Adds 10,452 ETH, Repurchases 2M BMNR Shares",
    "outlets": 8,
    "topics": [
-    "Bitcoin",
-    "Strive"
+    "Bitmine",
+    "Ethereum"
    ],
    "items": [
     {
-     "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
-     "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
-     "source": "Bitcoin Magazine",
+     "title": "Bitmine Restarts Buybacks With $45.9 Million Purchase as BMNR Stock Slides 4.5%",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMFlFMDhCdHNwS0lLRllYcm1XOUxibENZQ01pQkdPR2NqQVJBbmlITEhiRVd0endXQVlQZkxVOTgwdExKWUZTUnotZGNNa3pVa1AtZnZIblFuZS15MlJSZk1BWFlvR25sVWIyRkFmTEZUVVBUQUE?oc=5",
+     "source": "BigGo Finance",
      "type": "news",
-     "published": "2026-10-26T15:39:53+00:00"
+     "published": "2026-10-26T17:25:00+00:00"
     },
     {
-     "title": "Strive buys $511M in Bitcoin as Strategy pauses...",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWtFQWljblVWYjAwN2k5Y1ROczVaTjloQTdtdURqRFBqdlN4X3B4bjhrUHdyRkF1Q3dwV0dtNmZWMzJRZDFvcXdqSnBybWdCNEJrWmxRNnVvdF83eXFEbkhDa29ISTB5eFBXVjdHU1BlWHVLR3hOa3g1a0JJZTdUWG9kTzNUY0xkZ0VmcGQ0dlJVbm9ycUlEYUhVeUM?oc=5",
-     "source": "Pluang",
+     "title": "BMNR Stock Plunges 4.5% as Tom Lee\u2019s Bitmine Buys Back $45.9 Million in Shares and Adds 10,452 ETH",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmt5MWs0VWtoQ1ktUkdTRHZrWDE3OGxRTEN1QTloQjMzaEdvM0dXTUxsRFVMQ0J4aTRsRzN5NVhhTFA4NkVrX2Q0bk8ySWV6bndpRGNIR2xGSmdMdDFkMHY4dE5VNy1jNmRrUVJjbzNJaGhDZzMtVGFGYlV1dzJnaUVWOGE3bHVxaUFyZW0zUU1reGJqOUZEWWZFRkJ2SEVSNEFlTlBoVEljX1o4Xy11N1BvUXBUT2dyb2duYW1ISEk3QQ?oc=5",
+     "source": "TipRanks",
      "type": "news",
-     "published": "2026-10-26T15:35:19+00:00"
+     "published": "2026-10-26T17:01:02+00:00"
     },
     {
-     "title": "Strategy Pauses Bitcoin Purchases Ahead Of Earnings",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWJmanJuWEVsUTVHdmdydXhwSGc1Rks2Y3hadHVsZUhjXy1NNTZJb0NEa21MZHAyNFdfLWRPVXdnSm45Q0d3Z2JXdjJNSXFTUlRyRjAwX1ExQWtaVGpWbU5pYVVUWTM4b091aTVMaWlvdmtESDM5MDg0V3lXeVBfXzY5U08xRU9TZVFRQmZKVmpmZ3NwS1U0TkNoMFhIZmdBT25SNThHZw?oc=5",
-     "source": "Yahoo Finance",
+     "title": "Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1M3U2Qzd0UwMDJ1RVJDWXdXQ2k0M1NZSnFKd2l2d1hXNGVIUHZRUU9TVHRIdDI3bkxLWmdKNklyeWU0T3NrZDJIaWhaLUFralFUTG4tSEEtamZtSUJkQVl1ZXF2d20zVXRNZHZLRFdLdnRuMGZFdWJENVFZejlYanR4aVFRQlJkVEhmemFuM2RCaGZad2M4Umt0ZFN3Zjk5T08xd0FsMzJuOEJoZjhhRlM0QU1mdUNhNTZoSHV6aw?oc=5",
+     "source": "CoinDesk",
      "type": "news",
-     "published": "2026-10-26T14:44:00+00:00"
+     "published": "2026-10-26T16:05:12+00:00"
     },
     {
-     "title": "Strive Eyes $1 Billion Raise as Strategy Pauses Bitcoin Buying",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVpVdEZFdzdsVGcxZDZPZE5xM1E0N3NzQVdldm9VNkhGWDlFUjRqMzlFclpqb3BqUTFjMHRTUU5yeG15c21MMVplUk5ueW81cHVwWDFGWndDcGVHbHZWVk1kb09rcDZxTUFoaU5NTjhuaUdJd0hPcHZEaDlSV2xSdVJrUEo1N2ktSk9yVmE5TUs2dm8zazVlMlRSTUtHMG4zUW5Ubk1wRXVGVzJPNHpDNkZUT0RiOUJtcXlrcXRDQ2Y?oc=5",
-     "source": "Benzinga",
+     "title": "Tom Lee\u2019s Bitmine Adds 10,452 ETH, Repurchases 2M BMNR Shares",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZQ19Dd240M0pGbktCdTZTQnliLWxraU14SUxNbGVvVE11bnFYWDFnSC15dWl5dFFCMXBuMDl3QWFFS0UwUFNSUlZKUHNPbDA0andrYVdzZWpTQQ?oc=5",
+     "source": "Cryptonews.net",
      "type": "news",
-     "published": "2026-10-26T14:18:13+00:00"
+     "published": "2026-10-26T14:24:27+00:00"
     },
     {
-     "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-     "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-26T13:27:38+00:00"
-    },
-    {
-     "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-     "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
-     "source": "Decrypt",
-     "type": "news",
-     "published": "2026-10-26T13:24:38+00:00"
-    },
-    {
-     "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
-     "url": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
+     "title": "Tom Lee insists \u2018crypto bull market is underway\u2019 as Bitmine adds 10,452 ETH",
+     "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
      "source": "The Block",
      "type": "news",
-     "published": "2026-10-26T13:23:14+00:00"
+     "published": "2026-10-26T14:12:59+00:00"
     },
     {
-     "title": "Strive Seeks to Raise Up to $1 Billion Through Preferred Stock Sale",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hVTRNbVZDX1lOa2I2UnRlMUxPRW9IeTV0NTlONEVyVHVwSnBPMlRzRWRMSk1IcHExNjNWQTR1OWlDSEl1a2oxb244SVpCWVdQeS1Hdg?oc=5",
-     "source": "bloomingbit",
+     "title": "Bitmine adds 10,452 ETH as share buybacks approach $400M",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZHdUT0NjUVNZNDNpMXhrLV9xX0lFeWdNT1k1eEp5QTl5MkVLWENSaXU2ZjdZZjhtUVBnVllGZ1M4eFlvVFU2dVRWNFd3SkRHdUFLUTd6NEhJalA3VUtBeDhrX2J4ZVhOLUlnMGlic2MtbkZ3MjJOWnAwLWFpd3JiUw?oc=5",
+     "source": "Crypto News",
      "type": "news",
-     "published": "2026-10-26T12:04:07+00:00"
+     "published": "2026-10-26T13:50:25+00:00"
+    },
+    {
+     "title": "Bitmine Adds 10,452 ETH as BMNR Struggles Below $24: What's Going On?",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVTVya3dCbDR6emZxV25Sa2hhUHIweC1pQnNyUXlRT3ZLT2lZQ1BMQ0hEVC1EN0VmV1FQUGFFaEVSN1M1U1k5RG1ia1RJLS1oX2NlNjZXc2c4c09waF94Y3ZXZmR2T3lCRWpicDBSNlNFZ1lNUnBsZ1dlT0RpcV9LR1luT0NicjVwV1l2T05jaFN6ZTRQQ0JRVUYzWFU1Tk9MWE5DMkc0RUk5VXQ4aVNXN3pxMTlSMzhGSmk2VHE4MnVzWnY2?oc=5",
+     "source": "Benzinga",
+     "type": "news",
+     "published": "2026-10-26T13:44:27+00:00"
+    },
+    {
+     "title": "Tom Lee\u2019s Bitmine Spends More on BMNR Buyback Than ETH as Weekly Buy Slows to 10,452",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFFDdUJpZTYyd3liVWE3amtKU2gzdXAxRFpuT3piYmFDcWlqNk1OeG02VVZJaVRJb0N1S2dHakhCRXJoYlZLWEJsaGF2X3YtSzJRTEVPT3JaN0R2TWU4ajJ5cm1QM2l4MmlheW9jTzNaU3dObUtQTF9UcUdNa3RZeXBoMlZzQ3JCbTJ6SDg1Q0lGM2ZUaGI5YVZUYkVTQ1VIOXRPbWhUSFhHSzN3Y3kyR3N1REFRRWZCYVZlV0tR?oc=5",
+     "source": "The Crypto Times",
+     "type": "news",
+     "published": "2026-10-26T12:56:25+00:00"
     }
    ]
   },
@@ -3173,11 +2914,25 @@
    ],
    "items": [
     {
-     "title": "Is Bitcoin the Best Cryptocurrency You Can Buy Right Now?",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXl6S05ic2lYU3FMcTFqMHpIX0VRQ0JhZVpDclJ2bHUzemNpaUh1NTRvVjMwY1J6aGlEY2hsYTNFcnhkS2dIQ0VjWkJEeUstdDJuU3dkZU9mNnhkekxuTGJGUzZjMjBYR19vWlB0cDJiVllDbXY0c1dIQzN2UlRiUXhPR0dVVTQxV3lTTl9talBJNzNaRk5J?oc=5",
-     "source": "The Motley Fool",
+     "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000",
+     "source": "Bitcoin Magazine",
      "type": "news",
-     "published": "2026-10-26T16:30:09+00:00"
+     "published": "2026-10-26T17:43:18+00:00"
+    },
+    {
+     "title": "Bitcoin Price Teeters At $80,000 As Traders Wait On Fed",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwWk9lUENsRG5PamJZcENzQzJ2bnhZYi05ejBjRi00cEdua3RySFVYRG9CV0w5TjJEMFRLT29TVFlGWUlCUHZscUxmbl9OTkt2WlFYNThSOEdZTzlYZDlqT0NxdHFCS0Q1V2ltaDdMRWxTX19yVXRvbA?oc=5",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-10-26T17:43:18+00:00"
+    },
+    {
+     "title": "Is Bitcoin the Best Cryptocurrency You Can Buy Right Now?",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzQ2RG1CdkFnUnY3ZW5TdGlVcVllSmhhbXN6NVZIdTVNRm81bTE1bVM2Tlk1ZzJVU0xQV3BqZXRJZExlV0xtS19nRlg5QXptYS1XYWNaencyYUI4a0hsNm1UWFltdy1YQnA4SDZXLTdXV1VjSEp2ZVExcTJWUDJLMHhMc2lMQXBvVmpkQ09RMXFOaEh5LW80N25jalgzV015LVE?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-26T16:47:00+00:00"
     },
     {
      "title": "Is Bitcoin a Good Buy at $80,000 Right Now?",
@@ -3222,13 +2977,6 @@
      "published": "2026-10-26T11:24:08+00:00"
     },
     {
-     "title": "Bitcoin Briefly Dips Below $80,000 as AI Worries Weigh on Asian Stocks Before the Fed Decides",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUZDQksxRXlRY0FLYVdCT3c3YkliMGxHaHBVendtWUtTYlMxZEsyeFFBNWJOQmRpcWJaRVpOQ0xrazFwTVd5bVNZd2NOREdRWW1PZm9QYnBkajBGblZKQ24wZjliU3liYkMxTDRmNVQ3aGVQbWdpSW1uWS1xTk13LXUtTEp0dlR5Z0NJV2pST1VOUnZRejlxZzBR?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-10-26T09:46:38+00:00"
-    },
-    {
      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
      "source": "CoinDesk",
@@ -3238,47 +2986,107 @@
    ]
   },
   {
-   "title": "Bitmine Adds 10,452 ETH as BMNR Struggles Below $24: What's Going On?",
-   "outlets": 5,
+   "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
+   "outlets": 6,
    "topics": [
-    "Bitmine",
-    "Ethereum"
+    "Bitcoin",
+    "Strive"
    ],
    "items": [
     {
-     "title": "Tom Lee insists \u2018crypto bull market is underway\u2019 as Bitmine adds 10,452 ETH",
-     "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
-     "source": "The Block",
+     "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
+     "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
+     "source": "Bitcoin Magazine",
      "type": "news",
-     "published": "2026-10-26T14:12:59+00:00"
+     "published": "2026-10-26T15:39:53+00:00"
     },
     {
-     "title": "Bitmine adds 10,452 ETH as share buybacks approach $400M",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZHdUT0NjUVNZNDNpMXhrLV9xX0lFeWdNT1k1eEp5QTl5MkVLWENSaXU2ZjdZZjhtUVBnVllGZ1M4eFlvVFU2dVRWNFd3SkRHdUFLUTd6NEhJalA3VUtBeDhrX2J4ZVhOLUlnMGlic2MtbkZ3MjJOWnAwLWFpd3JiUw?oc=5",
-     "source": "Crypto News",
+     "title": "Strategy Pauses Bitcoin Purchases Ahead Of Earnings",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWJmanJuWEVsUTVHdmdydXhwSGc1Rks2Y3hadHVsZUhjXy1NNTZJb0NEa21MZHAyNFdfLWRPVXdnSm45Q0d3Z2JXdjJNSXFTUlRyRjAwX1ExQWtaVGpWbU5pYVVUWTM4b091aTVMaWlvdmtESDM5MDg0V3lXeVBfXzY5U08xRU9TZVFRQmZKVmpmZ3NwS1U0TkNoMFhIZmdBT25SNThHZw?oc=5",
+     "source": "Yahoo Finance",
      "type": "news",
-     "published": "2026-10-26T13:50:25+00:00"
+     "published": "2026-10-26T14:44:00+00:00"
     },
     {
-     "title": "Bitmine Adds 10,452 ETH as BMNR Struggles Below $24: What's Going On?",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVTVya3dCbDR6emZxV25Sa2hhUHIweC1pQnNyUXlRT3ZLT2lZQ1BMQ0hEVC1EN0VmV1FQUGFFaEVSN1M1U1k5RG1ia1RJLS1oX2NlNjZXc2c4c09waF94Y3ZXZmR2T3lCRWpicDBSNlNFZ1lNUnBsZ1dlT0RpcV9LR1luT0NicjVwV1l2T05jaFN6ZTRQQ0JRVUYzWFU1Tk9MWE5DMkc0RUk5VXQ4aVNXN3pxMTlSMzhGSmk2VHE4MnVzWnY2?oc=5",
+     "title": "Strive Eyes $1 Billion Raise as Strategy Pauses Bitcoin Buying",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVpVdEZFdzdsVGcxZDZPZE5xM1E0N3NzQVdldm9VNkhGWDlFUjRqMzlFclpqb3BqUTFjMHRTUU5yeG15c21MMVplUk5ueW81cHVwWDFGWndDcGVHbHZWVk1kb09rcDZxTUFoaU5NTjhuaUdJd0hPcHZEaDlSV2xSdVJrUEo1N2ktSk9yVmE5TUs2dm8zazVlMlRSTUtHMG4zUW5Ubk1wRXVGVzJPNHpDNkZUT0RiOUJtcXlrcXRDQ2Y?oc=5",
      "source": "Benzinga",
      "type": "news",
-     "published": "2026-10-26T13:44:27+00:00"
+     "published": "2026-10-26T14:18:13+00:00"
     },
     {
-     "title": "Tom Lee\u2019s Bitmine Spends More on BMNR Buyback Than ETH as Weekly Buy Slows to 10,452",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFFDdUJpZTYyd3liVWE3amtKU2gzdXAxRFpuT3piYmFDcWlqNk1OeG02VVZJaVRJb0N1S2dHakhCRXJoYlZLWEJsaGF2X3YtSzJRTEVPT3JaN0R2TWU4ajJ5cm1QM2l4MmlheW9jTzNaU3dObUtQTF9UcUdNa3RZeXBoMlZzQ3JCbTJ6SDg1Q0lGM2ZUaGI5YVZUYkVTQ1VIOXRPbWhUSFhHSzN3Y3kyR3N1REFRRWZCYVZlV0tR?oc=5",
-     "source": "The Crypto Times",
+     "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+     "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
      "type": "news",
-     "published": "2026-10-26T12:56:25+00:00"
+     "published": "2026-10-26T13:27:38+00:00"
     },
     {
-     "title": "BitMine adds 10,452 ETH and buys back 2.04 million shares in a single week",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XZm00Y2NpMUV0RS1QdFhUVDJTNU44RXdPN0FpQUUyT0FTeGo4bDVUQlhQbkd6dzZINkpTSzRfSzZBUlNqNVJMdlVEdklVYVNFZHIxXzA0QVhsTW5xb085dklYN21wV2VTMkVHbkVDekhQYlR4dUE?oc=5",
-     "source": "Crypto Briefing",
+     "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
+     "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
+     "source": "Decrypt",
      "type": "news",
-     "published": "2026-10-26T12:46:44+00:00"
+     "published": "2026-10-26T13:24:38+00:00"
+    },
+    {
+     "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
+     "url": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-10-26T13:23:14+00:00"
+    }
+   ]
+  },
+  {
+   "title": "US Stock Futures Gain Ahead of Big Tech Earnings, Fed Decision",
+   "outlets": 5,
+   "topics": [
+    "Bitcoin",
+    "Fed",
+    "Hong Kong"
+   ],
+   "items": [
+    {
+     "title": "U.S. stocks advance ahead of key tech earnings, Fed decision",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0hfS1lxYXdFclRJLWQ5X1ZOQnBiQk1ZUVNzMU51UEtLbHMwbWJQcmNWcWthRkpYcUVGR3BsSTVUMVZjV2JmRzVFY04ybE9nbmY1UkdyOEdPRWZyNnlfWTJSQ0tRVTlNdTQ2bVZ3NUJZdTFtalFWOWJmTFliMHNnR29Ydm9BNzdm?oc=5",
+     "source": "Seeking Alpha",
+     "type": "news",
+     "published": "2026-10-26T17:24:00+00:00"
+    },
+    {
+     "title": "$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEVRMG93c1IwR3dLNk1ac3pJUVdhaXBpSVAySEpLU3E0LWpSVTVTUVk4dkhNd3ZEd0VBNG9HWmR1d1AwQ09HYnlvbkVyWnVoYk5kcmRxakpHU3BfUlR0ckhGUGEzZFdPN013UFFPSDlES0hSc2xobjBGZmg1Ym9RSkdDN2dvZ2VGdmFYTGV0QzZaaDlGWUtBZw?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-26T15:32:18+00:00"
+    },
+    {
+     "title": "US Stock Futures Gain Ahead of Big Tech Earnings, Fed Decision",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa29LWk1mM3hvOXNzYUlVdzdIR2VYSHJCUkdOUFJiMDRsZFpsdDJyekhzbl9qTGVPQUwzLU1IRmQtZEVCeE1kTjYtTk5YS0RhdmZkSHdmQTdEWFpubzdJdDBTS3ptTjNEM1JIaEg4MW9yMkQ4RnJyTERoOFVVa0lWc2w2NEV4OHd1TS1XVDFGbkFYRzBseXdubkhEa2ZnWmJncnV6WXh0SmVkb0J0ZWZxMlRR?oc=5",
+     "source": "Bloomberg.com",
+     "type": "news",
+     "published": "2026-10-26T15:31:50+00:00"
+    },
+    {
+     "title": "Stock Market, Fed Rates, Big Tech Earnings | October 26 Barron\u2019s Daily",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVWpCdGZBd05VYTdIeWVzbHEyNkljRXgtNlY1X3ZPS0ozYVBPRl9LeVYtVjBhODg0MDNJWEExbU94MU8ySFBjb3JzN2dPUGc0Y1VVcmhqTksyWTNDMjBUeVdOZS1wb3ltaDRLYl9qcXhIV05Yb0ZIX19heHByM3NNVA?oc=5",
+     "source": "Barron's",
+     "type": "news",
+     "published": "2026-10-26T11:54:00+00:00"
+    },
+    {
+     "title": "Stocks Rise Pre-Bell as Traders Await Fed Policy Decision, Inflation Report, Big Tech Earnings",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnplcnZ3bll1ZUtsRm9WTUVSRDMwOE1oOVdxcEsyMFE4eUlaUGVDZVEzOXBVcWt6aDJsQzZsdERMVW9uYmFiWFhvbkZ5a3ZGT3RhOXV1WkUtM29lUDdONHVsaVpYSkJxN0lReGp2Um1xQk1Uc2QzVzZHVUhuY3FVSks2NFBLdU9yMnZVVnlHM3ExSDlCNXpCeA?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-26T10:41:44+00:00"
+    },
+    {
+     "title": "Hong Kong Stocks Rise on Monday Ahead of Key U.S. Tech Earnings; Bitfire Gains 2%",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHpmSWVQbHpfU29YMDlwaTN0QkRTYVI2QmRsSkVUdzZpLTlMZjFseFdMVUFQMFp2dDB6eTJhdmh3Y3FwMVZLSUpYN1pmQWRBV1VYWUswNmI2S1ZDSW4xTWJuTmxiSmhzOXFpOTd6Nl9oSjFNaDFKcmRLekFHY29mS1dTSFF5c2FLRjQ2b0FlT2l6Z0RCREM5a3NuQW9XMGRuY0NHUWlIWDJPTWFtUWQwSy1OU21WUm4zVXpEU1V5M09NMlNQV0xvekdtMA?oc=5",
+     "source": "marketscreener.com",
+     "type": "news",
+     "published": "2026-10-26T08:46:06+00:00"
     }
    ]
   },
@@ -3320,32 +3128,33 @@
    ]
   },
   {
-   "title": "Canada Unveils Draft Stablecoin Rules, Banning Interest Payments",
+   "title": "Strive sets up $1 billion ATM program for SATS preferred stock",
    "outlets": 3,
    "topics": [
-    "Stablecoin"
+    "Bitcoin",
+    "Strive"
    ],
    "items": [
     {
-     "title": "Canada Proposes Stablecoin Rules Banning Yield Payments",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV25taGhPUUZBUDJrSC03ZzJHTnRQbFNZLUNEVGlBWEsyem8yZ2ppc0tQTUN0VlhvbktjZUR2VU9XOEY1M1hpLXpsSGNKeFNnNUFLeUhmU01CblBYUXRLLXVCUVlEQTg4VVBKQ0NKLVJmU1d3MzRqQUdPTkpOMGtkUVctSnpqLVc2X3Bja016bFlBNS1mUm1NdXVIbjdKMldIU3g3VW1MaUc?oc=5",
+     "title": "Strive\u2019s Bitcoin Treasury Reaches 43,000 BTC as It Files a $1 Billion SATS ATM",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmlIaTRUNmlSS09zQ1R4Wk5GZ19GcHFkZXc1dDlNd2xIckd4U2RaMVlSRlVFbGRmQl9Db1l4T3ByZ0pCTEZTWDYwNGM3ME5ENHJOY0k1OVRaNkZnSDJTNjZXMXctMjVRVnM3eWNnSjZnOE5GZkxCZ3hlNXlLNTZ4SEVNSGlqU3VkOUMyYzdKcWNfLTl2dGhZNUVYdUhWZ1lW?oc=5",
      "source": "Yahoo Finance",
      "type": "news",
-     "published": "2026-10-26T16:10:00+00:00"
+     "published": "2026-10-26T16:45:00+00:00"
     },
     {
-     "title": "Canada Unveils Draft Stablecoin Rules, Banning Interest Payments",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gc3FrcWhaT0sxX05hOVA1czZnNGVuYW0yUEtlZXFoT1Q4YnNXRzBSd2VKVWFPaXNmVmhER1RpUl9pZk5kN1pUS2ZvdktKSFJZLXkzaQ?oc=5",
-     "source": "bloomingbit",
+     "title": "Strive Slides as New $1 Billion SATS ATM Program Raises Dilution Concerns",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjRDa2FBMHVHTG1KczNmbTJIXy1ITDZmNld1bW5rTkZfMnhzUDdIYlJLVEVLdGQ1X0RnVkdYNjB3QkhDcmQxQmk0el9nal9CQWE4Z3JsQlhnOU0zYjhTLTJZcVdOWDFwR0JSLWQ0bUhfU19MUU5vXzIxLUE0YWd3SXZEMW8zN3cwNURiVUpDSGtmcFVtOFl1Vk9RTFhDUWxTa0hFek9wZ0gtTXE5?oc=5",
+     "source": "Quiver Quantitative",
      "type": "news",
-     "published": "2026-10-26T14:29:03+00:00"
+     "published": "2026-10-26T16:21:00+00:00"
     },
     {
-     "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-     "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-     "source": "CoinDesk",
+     "title": "Strive sets up $1 billion ATM program for SATS preferred stock",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNzZyNWduTHRvZ3kzOGFfbkprbVN2S1VaRVFWa21yV1ZPNWJmYzFBZlZuRVRSM1FMa19pLWl0Q2VvUVNab0xaWGNoU0RrSEQ1UlhoQ0NoajkxeExvVFJaY0RaaWRMNUd4a0ZyeWVPV0RzMFNGN0JnZnFicHJwOHhwQjF3QWhhc051WTRiMS1UMGVrSDJSMGN5OUxZWmFiRUhkM0VuWHVFNmxXMXIxdmVxREFDS3RQcXIwNW9EcXN2ODJwSjV6?oc=5",
+     "source": "TradingView",
      "type": "news",
-     "published": "2026-10-26T14:23:41+00:00"
+     "published": "2026-10-26T12:42:25+00:00"
     }
    ]
   },
@@ -3413,49 +3222,60 @@
   }
  ],
  "events": [],
- "headlines_served": 6784,
+ "headlines_served": 6817,
  "trend_candidates": [
   {
-   "key": "bitmine",
-   "term": "Bitmine",
-   "count": 9,
+   "key": "tom lee",
+   "term": "Tom Lee",
+   "count": 5,
    "sources": [
-    "Benzinga",
     "CoinDesk",
-    "Crypto News",
     "Decrypt",
     "The Block",
-    "TradingView",
     "Yahoo Finance"
    ],
-   "baseline": 0.97,
-   "ratio": 4.56
+   "baseline": 0.28,
+   "ratio": 3.89
   },
   {
    "key": "fed",
    "term": "Fed",
    "count": 6,
    "sources": [
+    "Bitcoin Magazine",
     "CoinDesk",
     "Decrypt",
-    "Quartz",
     "Yahoo Finance"
    ],
-   "baseline": 0.62,
-   "ratio": 3.7
+   "baseline": 0.61,
+   "ratio": 3.73
   },
   {
    "key": "strive",
    "term": "Strive",
-   "count": 5,
+   "count": 6,
    "sources": [
     "Bitcoin Magazine",
     "CryptoRank",
     "The Block",
     "Yahoo Finance"
    ],
+   "baseline": 0.95,
+   "ratio": 3.08
+  },
+  {
+   "key": "bitmine",
+   "term": "Bitmine",
+   "count": 6,
+   "sources": [
+    "24/7 Wall St.",
+    "CoinDesk",
+    "Decrypt",
+    "The Block",
+    "Yahoo Finance"
+   ],
    "baseline": 0.96,
-   "ratio": 2.55
+   "ratio": 3.07
   }
  ],
  "baseline_days": 7,
