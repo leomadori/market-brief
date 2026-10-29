@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T07:03:41.184209+00:00",
+ "generated_at": "2026-10-29T12:06:05.541471+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 40
+   "item_count": 44
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 30
+   "item_count": 25
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 9
+   "item_count": 13
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 55
+   "item_count": 63
   },
   {
    "name": "DEFI",
@@ -71,7 +71,7 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 13
+   "item_count": 3
   },
   {
    "name": "Fed",
@@ -80,9 +80,9 @@
     "Fed"
    ],
    "first_seen": "2026-10-25",
-   "count": 13,
-   "ratio": 3.24,
-   "item_count": 30
+   "count": 14,
+   "ratio": 3.28,
+   "item_count": 38
   },
   {
    "name": "Ripple",
@@ -93,7 +93,7 @@
    "first_seen": "2026-10-27",
    "count": 16,
    "ratio": 2.9,
-   "item_count": 40
+   "item_count": 47
   },
   {
    "name": "Coinbase",
@@ -104,18 +104,7 @@
    "first_seen": "2026-10-28",
    "count": 9,
    "ratio": 2.84,
-   "item_count": 21
-  },
-  {
-   "name": "Rate",
-   "kind": "trend",
-   "aliases": [
-    "Rate"
-   ],
-   "first_seen": "2026-10-29",
-   "count": 8,
-   "ratio": 2.56,
-   "item_count": 16
+   "item_count": 25
   },
   {
    "name": "Google",
@@ -126,7 +115,7 @@
    "first_seen": "2026-10-28",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 27
+   "item_count": 26
   },
   {
    "name": "Robinhood",
@@ -137,10 +126,743 @@
    "first_seen": "2026-10-27",
    "count": 14,
    "ratio": 4.13,
-   "item_count": 22
+   "item_count": 8
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin at $80,000: The Fed Decision Triggers an Explosive Session",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd1g4WE9hZklwWGY4TXpKUDNkUXZLdEh5ajB2Z19QY0k3czN3a2RiMW1mX1RPYUN5a0NQSmQ0VWxsZXZCWURRMG9ueGNRVHJSak4wZm5iclBxVEV4bzRfRVBCWjhYTmtNbUZEXzM1RlV6TXF4S2hPUzg0NkM5dzJTYmVPNi1NNTdyMDFuUTJGa3JnNHN3Q2J1X0JzUQ?oc=5",
+   "source": "Cointribune",
+   "type": "news",
+   "published": "2026-10-29T12:39:08+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T12:04:50+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ripple Targets $900M Revenue as RLUSD Hits $2.6B: What's Driving Its Expansion Beyond XRP?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUxUZTdaWmx4ZWV5Z0hMNTZrZm0yR05iaVhvaDg0MzUzUjE4cE9XeTlLdTNNVWdPQklCLVlwY3h4QmZITTJNNWYwZUlROHdQNV9OVTlPa3NXTGZwNUtLLUl5eWx4Zzd5ZldubzFOY3RPWEJ4blZRMkgyMDIyclNHVlE2cWU0OHdqMUVuVDVTUzBCaEhqa1A4RVg0WVdjTnM?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-29T12:02:13+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ripple"
+   ]
+  },
+  {
+   "title": "XRP News: RLUSD Secures Moody & #8217;s Top Rating as Coinbase Adds Support",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92S2thbHZIRERvSTgwaXFhUldXeFZ1WkxScHZKYzFkQm9xQUdYeHJ4aTI5SHc0U2oxRWhtTEtnbFNweWd6cWtQS3ktaXJkUWVseEZ2aEN1OWtmenZVSXNWU0tSZ2NpWkE5enVZWE9rU1g0ZjViOXJ2NUpIdk9xdw?oc=5",
+   "source": "The Market Periodical",
+   "type": "news",
+   "published": "2026-10-29T12:01:37+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Coinbase",
+    "Ripple"
+   ]
+  },
+  {
+   "title": "Airtm partners with Mastercard\u2019s BVNK for stablecoin payments",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEV3NW1aYnNaNU41ZnBIUE0yX01sMks5UXFGYWdBQVlUTVpoZEVEX2Z6LTRManp1QWVfdklnVGFTdEdwQ1J4MF9reTM2MGQyQkVVcGtZV2N3TnlzQmtvTThvOW1TZFJySlJidVRMTGVsclN0OVlhZGxwWjNnREdXVl9UVW1QSmcz?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-10-29T12:00:40+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
+   "url": "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-29T12:00:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+   "url": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-29T12:00:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Key facts: CRYPTO:XRPUSD $1.30; 20/50 EMA\u2193; Whales 46.87B; RLUSD",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENubzg5dVo3dDIxNk9yWUFLSFNkUjI5UHNJYVVRcXdMQkh2NWNySzhiRENKMFBYb1Vad2EtRklGT3lmRmlFZ3BXNUp4U3FQcmZJU053bjdySkxTSHdidUJKZkp2TG9WVGpzbUlSbWhNVXc3N3pDR2ZjNkRuTjh5NmUyeTNuV2poSDByLVJvV3pvV1k4cXFrS3FTU3Q1cF95VEZhM0tBdzVCdm96ZmZKSTdmdE11QXZfSWcyYQ?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-29T12:00:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ripple"
+   ]
+  },
+  {
+   "title": "RLUSD reaches Coinbase. How does its dollar backing work?",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXNzdjJQN1NMR3BmRl9lZHZQNEVONC05TlVnbEhmblBTMVhIRnlrcjlVaDAwYmF1WGdMbXFkSGhadGFfSElqcGI0REJvTmVHZzN4QUJWUk51S0RtaVZVbTFoSHBsYXAtTEpwc1ZfOGJmcEhVeDZDSUpfMElHcG1scVR3?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-10-29T12:00:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Coinbase",
+    "Ripple"
+   ]
+  },
+  {
+   "title": "Key facts: CRYPTO:ETHUSD \u2014 56k ETH Moved; Coinbase Discount Narrows",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUVdqWjJaMUdrdzQzMDRCc1U1SEl0VDBFcUR3dDBHZ0QtS2tsYy1NWUV6SHpUZkhMMkNjQUJXOHFycEpiTG1uWXVBclJwLWxpZ1BHcTZxM2dRUDk1LUhpQTdVcTFsRk5MME1VLWRfNjJreThGeU42bHFYYTRGWUxtT19GbHVUdDBTd0pXWjVka1hOUzF5U2ZPcl9rXzBiZjBIZVgzR3VvNG9FMFBPOG5WQnNLY1R3MXVLSWlLVUtHUmJ5VmM?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-10-29T12:00:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ethereum",
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "Google Builds Crypto Custody Security Platform for Banks",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3kwWGZJdk55a3RPYzM3VFZ2c0tfNGdaQzNLVUN5M0lUUWphX0pSR3daQXZHa0s2em1SVk9ITnhFSGtoTmtRRzUwMDZuQnNLTlA3OWlqcG5KZFRZRGwzdVNza1M0RTEyN3BNQ2d4aDJsc0VMRmVSM0tSX1VCZHoxNUtJZHBVRzNjNndTR1RMOG03bkx5UWc?oc=5",
+   "source": "Bitcoin News",
+   "type": "news",
+   "published": "2026-10-29T11:57:59+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Google"
+   ]
+  },
+  {
+   "title": "What Is Fed Chair Kevin Warsh Sensitive To? BlackRock Executive Has an Answer",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rMWlwOF9QZlVGcEdMdW44WEJDVkpydWNtRzlCZV9PQ1QxeW9ibTUwaS1QdVY0Q1l3VU80WS1Kc1BrT01RZ0dlQm0ycS1UaFM3M3RYS2M4THNFRGQ0UHJpMFB6SUFPbXdTelBVV3pJNDdSVVE?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-10-29T11:39:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "JPMorgan, Microsoft, Google and 30 Other Companies Object to OKX-ICE Tokenized Stock Trading",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeENaUHF1RDNYM0Q5cTQzaHJCT2RXNUloUzJZeTN1SHJIOXRhZzdvbU02R0QyRkV6bWFuZWhjdE11TUJRR0Q1cEtYNEl5OVVsZThjM1JrM1hGYjJ6bUhEY2VmRHZrYWJqc3QzSjVSbUxHTVA2WDd4bDQtRDBwM2g3aVRHS01RT3h4STluYXltbUd6UlgxbUFXNnYzd3lLdkItdEpzb19WRnhCLTZMZk5NNGZBWUhnOWs?oc=5",
+   "source": "FinanceFeeds",
+   "type": "news",
+   "published": "2026-10-29T11:36:10+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA",
+    "Google"
+   ]
+  },
+  {
+   "title": "Is XRP Losing Ground to RLUSD at Ripple? CEO Brad Garlinghouse Responds",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRktmdnlKVFNCOW1ZS1FCdVJ5ZktfTnRmYzd0SlRxV3BXX1FFV3VfWXByNHVBUTBtdGFNS09sOVJZSjJPUk5maUE4dlFQUERsc0VTMHJZSXdjMGtvUmZjVnJsd25DZ3QxMzg4b1ktR090dUgwUUVEOVNFN1hsZmNjaUNnNVFWN2dLSVI2YkY1eEYycjF5OWs0NDYwZkJ0ZmlZUnhibERB?oc=5",
+   "source": "CryptoPotato",
+   "type": "news",
+   "published": "2026-10-29T11:35:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ripple"
+   ]
+  },
+  {
+   "title": "Ripple President Breaks Down Why Tokenization Is Crypto's Next Big Chapter",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTTTQyRTk3TmVsQXg5VWFoX3BwRm1JUUR6bjlBYmxTWXR5bG1IdTlpYko0dGVIaFBkNzF0WDhMWmJaN1BxY2dQQkVPeWZOMW5wdmt1RDBZSmRqOG55?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-29T11:25:05+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA",
+    "Ripple"
+   ]
+  },
+  {
+   "title": "Coinbase CEO Predicts End of Subscription Era",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmbnpYYXd4eU1tR21oNGVLdl9NXzFLRUttak5meC11MUhOV2FZUm9MZ2xPSU5kVERTaVROOFhjaUFhTHlxSDhIRTc0Y3kxWVdmQ3AyMG1rTjQwWEk?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-29T11:25:05+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "Stellar Opens Two-Way Bridge to Ethereum as VIA Labs Goes Live on Mainnet",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPUGRrM2txN1JtVE9vSkd0ZVYwa2NjX0hrMWE3aF9QdWdPRWdaZXdUMFFOdHZsZFhzRXZPU0dkZFM0YlNnX05hNm04ZlgyRGJTYnFYclJCV2l2UDJyYmNveF81YlFFM1R3b3hJUzJnYUl6T0dpREE?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-10-29T11:25:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Why Bitcoin, ETH and XRP Falling Despite Fed Keeps Interest Rates Steady?",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5UFdOaEd3T085YUtidmEtWFBiNTBZUXlobzJZaHk5R0tISWdrUXFrSzlmVlhJdEx1OUhjaEl2UlRHY3l2Zm1OTjZGQTdRM1NFT3BXMzFzMHVpdkU?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-29T11:17:50+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T11:11:48+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Crypto declines as Samsung and Alphabet earnings rattle tech and Fed holds with two dissenters seeking hike",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVm1yYlh5VnI1RmwwRG8wNmF3d0djMEJGU2tyckhsal9zYVZOXzM1RDZGV2tua0ZJOTVGRzludm1KOHZfN0hSdTJIM3M3U0NRbjVkWXlqMHUxdUJlMENwZ01BZkx6Y3JsQ0FQTmJvNkotQWc2Vmlod1lRTjYwdGRwSmxQbFhKbm42VWV0NmhkMWRJclNoNmpBSUxkMmdxdDVBYmZqNHpxbkZvMXdqZUE0aUNaZEhhODZSNjZyNWQzNHJadlpqSmc?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T11:11:48+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "The Fed held off on a rate hike. Today\u2019s GDP and inflation reports could make waiting harder.",
+   "url": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "type": "news",
+   "published": "2026-10-29T11:11:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "Visa Stablecoin Settlement Tops $25 Billion Annualized Run Rate, Up 10x Year-Over-Year",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rWkpSUHFUVWFib3RhU09wT1Rjc0ZadU9WZVVVVmxUbEF6Znk5a19LRFY5N0RkbzNLa3IzWkxDdXAzY0lmUHctYzA0RzlxX1Z0azBJdldXWTU?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-29T11:04:49+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
+   "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-10-29T11:00:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Stablecoin Transfers Jump 80% as Banks Rethink Their Role at MERGE Madrid",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTVxajRwYUdheGRVOHFyY2p2bFpIOHZrSURiaUhwX0RyMTdFNXNtQ3ljOWZZazQwLWZ0ZUhsZF9DbTVhaVdnN01fRllCWWhaQ0hjZ2lNYmswR196eFJfSTAwd0JWS29uVEczN09LSm5FMTVoRTlXcmM4N0NRUnVYTUdUMmhhWkFtVmJSeGVmVVI1OV9GaG9MTWlGWnc?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-10-29T10:56:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin's $80,000 lifeline is looking rather fragile as tech stocks stumble",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc0JPTWQ2UkNLVmZzQldKVVJxM0VuRTI5Vzk4aW52MTBCZWs3MzZVWHZHSmJ4QWdUWkRMSHpmOUkxbnhLNXBYN1Yzc0hzOEhjNG5jazZJQ28xdjRMeHI3akk4enJvRkNTZFNCLXQzd0hBcnhBdXBlQlExNHN3aGRxS25SSjZoTmtmdlJIOHZGbWtvdTRRVUVxLTlOb2YwYzNJUmF1T3lOUFVsVTZDczdwSzM0cHRtOXc?oc=5",
+   "source": "investingLive",
+   "type": "news",
+   "published": "2026-10-29T10:55:05+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Cathie Wood\u2019s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
+   "url": "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T10:51:10+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Robinhood"
+   ]
+  },
+  {
+   "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+   "url": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-29T10:46:43+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "How to Get Offered $3 Million in Bitcoin Bets: Call It a \u2018Dead Network\u2019 on X",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT25TYWxNZDd2VV9NVEZ6Yzc0QU1YVUdaS2dVOFZrN1k4Qi1pZUxJcFp6WndXbGZYZUh5YVRoREl5NXJfTGxfZmFDbU5UaU9fZURPWjFrbk9adUdNYTBsQXZWTS1tN2pMX0ZOSnB2SThKZEl4SU5DTG82eDM2OW1MMVplZTg4aGFUdXBlOHpXSU1wdHA5bTNBWnVtVQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-29T10:45:53+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
+   "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T10:41:39+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Google"
+   ]
+  },
+  {
+   "title": "On-Chain RWA Perps Set a New Trading Volume Record",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVFVTFB2VW5BODgxdkNNVGhzNmxhYkVWa2NlazhabmpFNC1RTk9odDNiOHd4cE1jTURIS3BBT1ZLcm9wT0dDT1JvN1hGZ05YLS1BZ3EwcXRPNnZYalpqTWN5RXBCd18yVno4dlJBaGxGRzY2SExaZmdJdE5Xa19uVnMxbXl0dnN4bFNLZktjZVhoOFFZ?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-29T10:40:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Bitcoin\u2019s Post-FOMC Rollercoaster Continues as NEAR Dumps 8%: Market Watch",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzhPNjRoOTk0b3dvLUFjbTVpRjJaNWZvWDlnRkVPcnItTURSQUtzeDl4WGNXZi01V0ZMQlZCbEo0QWh4UGV5S25BYzEtN1lvR2dZa08tTktqTkhCeFo5U2IxODhDN210Nm5SVmhNRldSei1WTmY3TV92SmZONzRHZEFFTWtJMC1ZRTVBak0zWW9MQTJtaGxac1E2ZThFT1RBblFZWVZEUlEyQkFmWkE?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-29T10:39:43+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Coinbase\u2019s October 30 deadline raises concerns \u2013 Will stablecoin traders move to DEXs?",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlRuM2Z2RlBUV0pkbHlEYnYzeDRUV1RaQ2thZ0ltNjMtZl95SjhhZm1kTW43cVFYb1d2a09tZC1HNHJOVmtlek1ocjdnS282YlBPZV9ZZDdjOC1fb3FIS1BrSEF1NDAtRXBhVERVd2ZFNkJtTTVNREtoR3hORV9OaGNLaE5OaTJjRHlfT2E5LVJNQm5haVpFakNLc0dFRV9vVzNXZnQxdlc?oc=5",
+   "source": "AMBCrypto",
+   "type": "news",
+   "published": "2026-10-29T10:30:27+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin",
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "Sibos 2026: Citi's Bis Chatterjee on stablecoin partnerships and interoperability",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSERscVhYWDBNQlhMZVhSdS1BQnFaX1M5Z2x2c00yaWVJNjRPeGFsZ3lfU1lpYXNxOVBIenVNZHcySnZzTUR5LUpvdEJCMkdlV0h5ZUxrYV9PWUhnZk5BVmhZb1lJLThuV19uTXAwcXBfM2t1ZW9LSmNXU2pFeHdjV1ptcjJ2d21CeXRqbTFCczBXb1RmQmt0Z2M4OExMdUpfakxMRFR3bDQ?oc=5",
+   "source": "FF News",
+   "type": "news",
+   "published": "2026-10-29T10:30:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Vintage Pok\u00e9mon cards rise 60% this year, outperforming Bitcoin and gold",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYlN6azBTRnVPdnF5YktsTVRrUVQxTWxUNjZQN25CV1dTaTNKQVVqVElsZ2J6WE03R1ZCUk4yMFBfcUg5NlRQdWRYQ0UtbXJmZWpWSURGMGFaNHlZSHRSeVdBWURRZ3R2RmVMamhqcm1BLWszelBkNkVJSi0ya1Y4Z28wc0w1WWxfN1YyVnRrZzNZdUN4TWI3N3JUeDJUWEZvMUlTd2lVZi1tQWxZSV9NcFhyWXRqdHNkOUdr?oc=5",
+   "source": "Kursiv Media",
+   "type": "news",
+   "published": "2026-10-29T10:29:54+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Coinbase Derivatives Head on Deribit Integration, Crypto Options, and What Comes Next",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JVmVuRjFtWnByM2hYS1h2V1I2Sy04UmFPTVRUaWN1Zkl2UDdsUjBVLVQ3eHdQSEFZajNTZndLRElfazdreWRnNXVhX0ZMdFRMRjdVN2k0QTVhblYtdVlZa1M2TWFPQ1NQelVvNGtjTGdaUFM2SlE?oc=5",
+   "source": "Substack",
+   "type": "news",
+   "published": "2026-10-29T10:24:01+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "Israel Election Deadlock Risk Puts Crypto on Edge as Oil Rises, Rate Fears Mount",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TeEpabUhYLVFrRy1Hc0dHYVNSYmRubmd5YjJJNF9tNlZvc1gzVUk2Z19iTGhGSU5pX3VLWHpId1g0QjZ5eklVN19OZFNMZ3J4ak9iSA?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-10-29T10:19:40+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "Crypto & Stocks | Google plunges 10% after earnings as its biggest crypto push takes shape",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2dkSGVGZzlnc3ZiVkIyS2lRNHBKWFh1X0FabUFrbDBNam1iX29DdFZBVHozWGtuSE1VZVFDNzl5eHY5a1F3UmJ3eVRnSXVIbDRwQzdzWTBrZ3FoeTRNcmFPWm9YMG40dzd6MTQ0SldwUFdvSjBuTVczdUYwV2o0S1dGbnh6VGt3MWtEemRqckM2cHM2UzdrZ1phb0JQSjlrbjg4eDBRbjFVUHpFUkNJMGUzWk9odw?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-10-29T10:08:15+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Google"
+   ]
+  },
+  {
+   "title": "KiiChain Launches US Virtual Accounts With Dollar Transfers, Stablecoin Conversion",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05TnhhTVcxaGlmSHFiVUJpZEpzdENvbkNIM05sY0NrZlRNZjVkdkpWUEE4OUt5MkJZQU9SdldLcXdRVlRZdm12aGN2RFdKbFBLbkFPTw?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-10-29T10:06:26+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Stablecoins drive Africa\u2019s growing crypto economy",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWMwZHJrenJmbWktb0lxcDlVLU9PUXQ1SWhTWW1KWS1iai1oZldldFp1bHQ2amwtRl90MlhDa29IdWhEc0xuaGRlN3VNMG9Qa3pKMG13djBFdjdGWlJxcHBpS1ZINlI2SkFXMkZlV190WXhyQUtMYl82RHBXTU9IZ3pGX2Mwa2RJNmtYNlcyWURmalM3NXFKMWN3?oc=5",
+   "source": "ITWeb Africa",
+   "type": "news",
+   "published": "2026-10-29T10:05:18+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+   "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T10:04:36+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Forecast: BTC slides below $80,000 as Fed holds rates steady with a hawkish tone",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUzVCYUJPMmk2ekRjTjJOanZ5UWYwdUJHaHFHQzdIM2JzeEFGOGRTYVBsWVV2MDhjQXdibWhLNmxrVEVjMy04XzdvdEV0Z0hYby1mRkNhQjlmd0wtUWJUbG5OU1drUXluWF9BOVBFRll4YlRBR21BWHVIci1YWGJkS21TRV9vQzJzaW04YUdPbHJnNlBMdWJZUFN0eE9vRmlwNG80Y2d3S0xPelYwRkE0bGw0X1d3UE8zdnBMZ1RZekRDVU95LWtFUkhDSjQwMlcySVdyQ3VzdnFXa050R0VDNGNHM2hiZlU?oc=5",
+   "source": "FXStreet",
+   "type": "news",
+   "published": "2026-10-29T09:58:57+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Hedge funds reduce Bitcoin ETF exposure as sovereign and wealth investors increase allocations",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0ZndWhLZVRMTTFfam1VWDhfcmhtLTZxS3hNT0FEbGVZN2hnZnBCdHdxMUIxSHJEME5VTllsLVUzX1FlcURGZkE4VkFzZ0ozQm1qdERXYzU1b1d6UktkM0xQLWhIMXM1bHE0WUdnYzJFU2o1eFFJNXZpTWhjTHB3SFMwRkpKcHVpTU1EVjhGdWZSbjVtY2RYNFlVVXFvX0IxQXE0N0txN19Db1E4UlBBSG1OMEtQOWctWmNCclZ3?oc=5",
+   "source": "Hedgeweek",
+   "type": "news",
+   "published": "2026-10-29T09:53:13+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin could reach $1.6 million by 2036, but 82% of the forecast rests on one bet",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUNDZWg5ano2YVFLaEpMWWkxa09kclZfRnAzQVh3TFZQYU9DZjE1c01jU0tDOWw3NkV1N215ZFZtS3FGUl9UaFdxR0duOXpiT1dLcEUweW9pdC01T25tSnFyT2VXdFQtOEgycTQyMGIxUG9hdUVBVW1YSDA3Z28zTnFCcEY0dzhjYU0yZzFsZkVFbExJX2NzRjhVdC02bk5jbXJjSWZpUQ?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-10-29T09:50:24+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFlYZ2lnMkNlbVREV25fR1VZbUhvWTZqbGtwRkZRS2lmWGhWemF2YXlRRkhucE5GUVJkanlCV055eWFsb1R3eS15aTMtZXRwSTR6eXE4LUlHZW5RZ1FxbTNqTDhiQUJEbXJHVk1fUlFvWTgtNFcxQ3ZpVE9kTHVvUGhNZ21FbkRBNjVoem1nUnd3ZkQ0Q0g4Z1FVejlFUzRXSFBxbXdZdmlIZ0c1MlQ0andzcUg?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-29T09:33:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Falls in Wake of Fed Decision, U.S. Data Next Key Focus -- Market Talk",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHV4Mkw2S00xRG02MmJUekJLT0xtWmVINjktX1YwbmxrenYxZnJJRUItX1RXU05JMU9WRDRUOXJxcWpQYzhBRDJNRXlKRWlpX3RwbDFaeHlUTjItNVlUQTMyNEItZFByZm5rLUx4cDhIbEtnclZuZjVVUlFCLXpJbTlQZi1TWmlrVTY4a294aTVwTFVTWE03ZHBn?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-10-29T09:32:21+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Bitcoin Trades Near $80,000 as Fed Rate Outlook and ETF Inflows Shape Sentiment",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPN1IxMHBINkNTQzY3ZVRxVk4wdzhvaHRrTFVGU1ZCN1FOckJ2SHlvWE5NbkR2bDdZd3JLU1pibThEMmU5UEt5R1dXTENWUVVtUk9IQmRXYnBCejROTW1FeWhCQXJ3d3RDUHQxZlc2NHI2NWREcmpnNkg5S2M0ajZSWFRfdTlfZDNoa284ZUF6aUtmN0NnR3lPU29kUm9ITF9aOTg0OXh2N0ZYSDV5Mm5GaDlaQnhLeDJxQWM4MldXVnhDREdrYVBuMnZ3Z3lRM053MHZqU3NmQTN5bkZUbkJ1czdCbWo5WEpodC12RDBfS3RWRHgzY1dUSUM5R0htNVZNU3lOd2xNMmxSd9IBjwJBVV95cUxQOFh2X3Y5UVBOMGRfcW9UMTNJYTI1TXJCeHVFU3RVRDJ4VURYQUZfODU4ZlFJTW9kcEJadFFrUFRXSUJnRGRNOWtqdEFXRnpCVkh3RVhMWGF2NVpBRk02elZpNmt6QWZ6S3ZfdERBZGh4d1EzY1I2T2xCZlc1M2JBbTBielphaFpBbHJIUVoxX1JLQ3h2Nnk3N0hGaThFRklveXE4eXJUWTNCV3FfRTY0Yi1QX0RfUFNZNWR0c0ZQS2NwOHU1MVh2UG9maTRiQkZwd1ZUc2FYN3R3ZHBCeG9nckhTd2lEMUhVTmJwR1RTRkY1dE1sLS1hSHVrV0tFdUhtUEUyZVBPT29XTlQwS3ZB?oc=5",
+   "source": "Gadgets 360",
+   "type": "news",
+   "published": "2026-10-29T09:23:56+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Crypto : Google Unveils its Custody Service for Banks Faced",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FRkZhQ1BUdGdVeFdqR2ljOWxtNVJYSzUzQlJXTkJjNmtmU29vTlVqTnlTY0tfcnU1VjBMQzk4Slh4T2Z6NGNMaEJwcDdQNEl1OFI3Y29mUVljRGVPQmNKZF9DejA0SjNPVGNLUzZTMVdwdw?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-10-29T09:17:03+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Google"
+   ]
+  },
+  {
+   "title": "18MW Bitcoin mine proposed in Jersey County, Illinois",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ05wbERXRWlYNGxDdWdJdzdlcFFvUURvSUVuamI2VnhOVnBKVkNhRUJ6MEdacGFrM1Q0d2FUMGdZNXdWcVpCbXdidlVwWTR4eVprTmtTNllHZWpNTHgxci1WXzktemVWeDhTTFlkYXc1Z0J4MG5aYWJRSGJUOTVMWUJPaWEyd1BTU3JkZEh2YWg2ZmZaMkhHbGtEQ1g?oc=5",
+   "source": "Data Center Dynamics",
+   "type": "news",
+   "published": "2026-10-29T09:14:49+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Prediction: Bitcoin Will Surpass Gold in Market Cap Within the Next Decade",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGlQV1hCV3Ewd0NmZ1NmMDJ1cFNwUGJ3M1luWElnM2UtTWVkMEtyRW4tbENRamk4bkV6cFNTeXgxNWRlT29fSmNtZkltNHBZdUVEQ1NtWTZZQk5RNk1LeWdFVWx4Y1lwUnFpTW02ak1Nd0s2YWtTY053SmpwUDhDdFlhb180N1pqN1Yya3FmaF94SGV5WjJJ?oc=5",
+   "source": "The Motley Fool",
+   "type": "news",
+   "published": "2026-10-29T09:09:04+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Japan Bitcoin Industry takes \u00a5800 million in BTC to build Lightning payments outside card networks",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVNCRUhfWWhvUzM0cDFJQ3cyVC1OUWl0NXEwdGZmZ0tGcmlubmpjXy13OTE3RUJsZzljZk1HZlgyeFZYT0NrU1dIa1hNMmFPd0Y1aVRKSmpmOS1zZjk0N3Y4c2J4ZWsybjFmS0lnVWs3cDRCTDk2QnVyNHRpYktuVy1OMy1mUQ?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-10-29T09:03:22+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "The Fed Left Interest Rates Unchanged. Bitcoin Fell Below $80,000",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1FVeTJVNFpDUjVsdm13NHMtYkFWTDZQa2JNVVdVd3VKeWJSREJsNWdJRVdRTlRPd1FYa3E1ZWVmejFTNjRJTHdycmpsdUNHQmJCZk1OVVpHSkRuQVVONjZ0QXJaMjd3Z0l4UWVCRmdNOUcycDhpbDdLMXZkZEtUTVJSdFlYaElpOC1GNU1HMlNRUQ?oc=5",
+   "source": "Incrypted",
+   "type": "news",
+   "published": "2026-10-29T09:00:48+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+   "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T09:00:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Former Swift CEO takes chairman role at London-based stablecoin yield startup OpenTrade",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXRyZ0U4UXNLTUNpTlVzaVUxOExLdFN2OU5tbzd6NmtWbzhzN2puNkRlbm8xN2ZFV2xlQll4QmJuMk9xb0MzNEFhd255OGNIZjN5NDVFZ0YybXN1Q08tWWVVcXp0MzB6RGRCdEowVURndmRZTENoSEtNem9vQWZ2VFV0d3JObnE0ZjNEX3BzTEZ5YWdhQlBZdGNOeldzdWVURmxtWVVjT2NoTkRxYTVEaG5qVkFWWENRREdsUjVFOXpLQzRYVFpVcm41UlBQZw?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T09:00:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Coinbase Global Earnings Will Show If It Can Move Past Lackluster Crypto Market",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmpUZU1oclkzalJFUl9DTjJxamhOU21uaTdyVzduU1pNNFJGQmlBb2VXdTJISEhmdDVKSHc2enVTRzNCX3I2NXRySlZUNXRDX09PemdmWmNZcFVYb0VwZFdjSHhVS0otMnc5LUk2Z2MyRGw4MVl2Q2dDeFAyN042NUVDUms?oc=5",
+   "source": "Barron's",
+   "type": "news",
+   "published": "2026-10-29T09:00:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "Bitcoin analysis: The chart that could make or break BTC",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORzI3aWRvVldraEo2UE9UUXpURDVOaVotS1VIMS1iMkdNU3BXelVXQUpjSmFSX1lSbVd3eHU3dTNNMlNWQVNzWTBiUXdLdVJfcWJQYlZFYTNoMDhacW1KekVVaXFobDQwV2RfRVdBMWpyZFNzUC12Q1hFWmlLZFhxeTRXaEZvUXhLd3k5UnNmTjJhMnV1cWZlaXA3UUtiODFV?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T08:38:41+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5",
+   "source": "Bloomberg",
+   "type": "news",
+   "published": "2026-10-29T08:34:14+00:00",
+   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ripple CEO Addresses the One Rumor XRP Holders Kept Asking About",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04VS15T2JFTVNrdHRJaWk1aGwzOEhldnJxYm5Iek9MaTNmZVhLUVg5RHBsOXFsNTlSek9FazBHM05Eall4UEFJYmFzdlBkNkZMS00zVGhIWm40U05ULTBUVWRiNUhTaUdQ?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-10-29T08:32:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ripple"
+   ]
+  },
+  {
+   "title": "Fed\u2019s divided rate decision threatens Bitcoin\u2019s comeback as December hike looms",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcm1TV1FyaU50dHFOeXZKNXRrQXg0Q1dEZ0VJNU9OSXFpYVAzM3N3Uk9adzQ3MjZsSnJqUXM1N19hcUtnNzI5bGZrMlVTUUIyTHhMZG5RWlRHUEV4Smo1Qzl0bDZQdXhOSGxwTWFrZG10VkE3OG1FQUVOaFZiNE5LUUpWdjQwNHl1RDQ4c0d6TVdGTDFXbGxpaDlaeHhBQmRNblZLYQ?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-10-29T08:30:16+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Caught Out By Coinbase Global's 53% Fall? What The Bears Saw",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzlVU3ZWLTFMLVFpcUtVMXFqc1FsUW9vcTVrVHh2XzVCUUx2ajI4cENnc3lGMlVJSnVUU2xkczlNTzZ2LVBxcnVBRjdJVVFHZ0NEbGMyd3ltdnNHcklCdUhNWFN6WU1DdFRnUjhXQVJGVFU1MjVzNDBsS1ROMFI4YVQwUUVpY3FWMFViM3poUUFOay1vdXJiUnZRVS0?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-29T08:23:05+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Coinbase"
+   ]
+  },
+  {
+   "title": "BitGo to offer WisdomTree tokenised fund",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZS1ZUjJrVnM0ZV9FeXlmZXotWktBakFfZ1lFTlF3Q1lLUXplWTRIX2laZkoxMU0tTXNfNjlWRHZSQVVVVDkzdm5kcmRmQV9rNkRxUTNLY0Jkc0NEcUQwSXFfMUJxUDZaVDd4bWx1UlNMZ0NJSnp4TjJLZzA0TDljMjEyWk5lWW9VTUg1WWk4TUhRd3I0MmxZOElHTlh0ekU0WGtPU2l4c05vdw?oc=5",
+   "source": "The Paypers",
+   "type": "news",
+   "published": "2026-10-29T08:19:36+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "CoinDesk Live at Ripple Swell 2026 Day 1",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uODVEQ0RTb2I3X0hnaTlaT2VPM1czb0N3UkIyM1R2cHJtRjdHU1Y4THZKdW8tczFPVXdLM0RaTlNTMHc1OVBhdkh3SGhqYU9YdFk2MFoxeDV5VURJWTlSWkl4aVpfMkI1LUxkYV9RYXBjdDd5RGJpclh3QQ?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T08:11:41+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ripple"
+   ]
+  },
+  {
+   "title": "Ethereum Heads for Worst October Since 2018 as Early Whales Wake Up",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15SGhiLUJYdFpUOHRidHktYUtPU2luS2JRR2xaLVRlSm43aDRiV3Z4YkJ1SktiR0JycGVCY2p6d3RlLWRyX3lfUUtUNmFiV1hWUUZXam5NRklVX2l6SVY0aGdJWlg2S2lzQk5NcTZB?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-10-29T08:07:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Arco Signs MOU With t54 to Jointly Develop AI-Based Enterprise RWA Vault on XRP Ledger",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DV3dlQ2l0MHVKTVJHM1JmNU1ZVGt1aXFnZ3FmNjNmQlFUTXA5YmJlMTNvWk83NWNndHNPcHhxWHB4dmEtZTlEaVZKVXdfZzZ3cWlfZg?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-10-29T08:02:32+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Bitcoin Core Bugs Emerge as Fed Holds Rates and Traders Brace for $12B Expiry",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjgzSFF1eTdxU0JxcmVwaEl1OEJNZVVxRDZ6MDcyamlSZG1DckNKMGRMYkhGZTFmLTlNb25uUzYwWnEtU3o1dHRlVUJMaVRiRjBqVTlRMVVWRDJFMkZjZ3JqdjBlNi1mLUVBLTg3UEJjazBTVUhxZVdOV0xPTGU4czI3dmRXUVRfVUl1UzV3alVoUXhBYzNZeA?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-29T08:01:36+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Morpho crypto rebounds 12% amid $2B RWA milestone \u2013 Is $2.26 next?",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHhkZE1XTE42ZFhqVFhjcWd2dU93T0lWQ1BSbXdJX2JjTDM4WHgza1p5Uy15aXdkUE5hRHFybmV0SzdyZ1lXOGgzcldUQ0dNYmpCSEpQaWlBeE9WUWQ0endPUnBueFR5VEY5dE90WkJMaHpkYmtmbk91NmcwempRSU9hTk5kYl95ckZ3?oc=5",
+   "source": "AMBCrypto",
+   "type": "news",
+   "published": "2026-10-29T08:00:01+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
   {
    "title": "Ripple\u2019s Swell Blitz Continues: Coinbase Deal and $900M Revenue Run Rate Revealed",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlFROHJFdzlyNmctb0g4VERDbEZaR2tFY2tQRVBCNmpHTVI1QXI0MkJmeVVuQWhDWUYxS0Y0djdsLWJjOVU2eHJtM3RJd3U4TmxLQ2s2M2tkUE01T2xPVGg5Tld2TkpKQXhOR2owd1F5MGs3S1lVNHNJdmcyWVh6a1o1XzZvd1NWTlBFX3o5Q09RRGZjNHNYRi1PUmNCblAyRmhqYXdVTQ?oc=5",
@@ -151,7 +873,62 @@
    "topics": [
     "Ripple",
     "Coinbase",
-    "Rate"
+    "Fed"
+   ]
+  },
+  {
+   "title": "The chart bitcoin traders should be paying attention to",
+   "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T07:44:44+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Cryptocurrencies: Bitcoin Down 3% This Week",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWRiZzBCc1hNNDdWRHBtRVJONGZNNFhsa2VhWkRGbnBUSlV0RjBjSl9BQ1E1dHNodXdWV04zdFNKR3FBcVNQdGZQVzNfb0tmV1FrekNnTmllZzRWLXQtcEZvMWhxZlJQUHdEaGlRay1manQxcnpUVkZOTUx6SVAyNndDWXJPQUpRZG41c0oxOGxvN3Fn?oc=5",
+   "source": "Seeking Alpha",
+   "type": "news",
+   "published": "2026-10-29T07:44:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin Says AI Is Knowledgeable but Not Very Wise",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmSDVMaXpwbzhYUjJNbk9pS3pUWWtPQjlYQ2VRYUs3ZVdncnNrRXpRbmh2WUV2YllHdVRuRzFMUllaWHVSVVd3OUg4MTVoUXJMWWh0ZlBiNjhrRUhQX2NPYlcwc2xqa1FrdjJBVkw1ZDBoX0U?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-10-29T07:37:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-10-29T07:32:20+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "ADI Foundation and Zamanat partner to bring US$150mln in tokenized private credit, trade finance and Sukuk opportunities",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVDk4WjhDQUlEMHZBaERBSGFrXzJRdGRka3JlWlh3ZkplWXBSM3E2bzBHZVhYdlhxQzMyRnNra1JzZDJKUlAwam5uZEFTVzl3WU1KMTl6aXo1YkFJZHp0bnpBQnJmQnBrM2xsaDJpWFRFYUVQaVoxY1lCT3ljUWdTeE8tNUxWRDVwVlM2T3ZOdVdpUUpUel9qcWhGWUF3R3hoOVZqYUZqbHNoZlFVYUFSUnAyU0JOODdoYlNHTE9IaGFZc0VzcU01MnVJZGVjQ2paU09xVEFzb1JjMExrem1RQ1ZjTy0zcWNrd1NXd01pYkV6Q0p0cHJRMA?oc=5",
+   "source": "Zawya",
+   "type": "news",
+   "published": "2026-10-29T07:30:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -167,6 +944,17 @@
    ]
   },
   {
+   "title": "Visa (V.US) Stablecoin Settlement Annualized Volume Surpasses $25 Billion",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXFoR0tnQjNXMGlQcDRjbVRpb1YzQ0VrUDN3SkNZTG9QSWVLaHZVX0t0bndxUVRyeTlsTkVJeGxzOW9fYVA1dGZOZXNBekx3bG5MaVJCTGt0VjNQeHpPNEZuZkwwbWp3cEstUi1jNllCbVZPOUlLRVhZdjJBb1B3bFhxVkt4TzBqQ19oVUd5eC0xdWNIZ183WnBER2lrT1pMZ2VQSVdJVFNoVER4UlVMY2w2bw?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-10-29T07:20:36+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
    "title": "Ripple Is Now a Bank: Why XRP Price Keeps Falling Anyway",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJalEyOHZuNURsS25seGU2WFVoNWxDTEFnTkd1TUl5c3Z2MDUyTkhnaXlITWdtUXM0YkNjckYyVEFBWTd5U3JDeEFBSnJlblZlNWY5YXFNUmFBTlVtMWwtb2Y4SGt6czVkNHFNM29rcnYwaTlULWVISENn?oc=5",
    "source": "CryptoTicker.io",
@@ -175,28 +963,6 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "Ripple"
-   ]
-  },
-  {
-   "title": "JQQQ Tokenized Nasdaq-100 Fund Launches on Stellar",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOE13MVA4ZlNoMFFndHNVTDFsSjJhUjdmRUlkQThCVlZqeC1vSzg5bXFkdFk0MFRQMlMzby0wZWFINHhuemtHaDVSeUxzMjYzQVpFXzFCbTBjenBFTjhpUXV0TG16dVR2SjAydkh1QnFxam9YSk92cl9sX3pCZkNKWGcyOF9QNzloVzc4d1EwZ1BJQkNkOVIzT1NUYUtIaWp0amFuS1NvUElGcTB6di1nM055U2FwZDQ?oc=5",
-   "source": "Bitcoin Foundation",
-   "type": "news",
-   "published": "2026-10-29T07:10:57+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Google is getting deeper into crypto infrastructure. Goog",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wLTVQUjNWYjNNNXFWSVZPOEJMU1kzdm5CUm1nVS1ZWFRXNC1IZzNwVEFGRU5ET3huS0F1dWRZZFJIU01ycjNGRXVTOWpBeGVpbVkyWXVreEZQVEZ2Nk5KQ0hEUkVNQnBNVktPMVB5OXd1Zw?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-29T07:06:59+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Google"
    ]
   },
   {
@@ -220,18 +986,18 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "Stablecoin",
-    "Rate"
+    "Fed"
    ]
   },
   {
-   "title": "USD Coin (USDC) AUC on Kraken Rose More Than 30% in a Year",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Db2d3ZFJrdzVfTkR6WDJoTUJMOG1QWU1Zajh2bmU4aXByWGZCbnpjSVFrTnJxTHo5b3NTQl90UXFtV3pkeVZyemxFSWtVcnhZeG13N3lsTEI?oc=5",
-   "source": "www.tokenpost.com",
+   "title": "Google previews Connected Apps Platform for Search and Gemini",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWTZ4bng0c2N1MVNzTE9BZm5LcEw5dUxXaDFRbUJabzFURjJFSTd2MVFKNUNFekJ5VzFwV2M3R1BWSzNpb0daNHpCQzJHT1FqRFU4aWVHd25FYjBxT1FTV1VfNkhrR2hXSlBKN2trNFlHMDltMF9aSjRyWmJUSi1SZlVtMUJTMXhWVWZEbWVOOGpldWxY?oc=5",
+   "source": "Blockchain News",
    "type": "news",
-   "published": "2026-10-29T06:59:59+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-29T06:48:59+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
-    "Stablecoin"
+    "Google"
    ]
   },
   {
@@ -258,36 +1024,60 @@
    ]
   },
   {
-   "title": "\u2018Biggest Launch' \u2014 Google Teases Crypto Vault That Never Keeps the Whole Key in One Place",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUTdfYzd1M3ZZbVdqamQxVXBzVVJfS0JRSi1oY3hNdWNvS1pmcXB4aS1yd3B2eUtXcnR1UFVTMVhrckwxblV4ZW5McGFvbGo1ZndrTXl5c0d1R05iZFBLLWMzMWpnbUJsODNrMmZWN1VXQXVoTTRfNndmTHlaVlZJRGoxMkY4ZE4wOG1oZnFRVVFxeG5IWmNyV1FfcjlFaDQyVGc?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Alipay Denies Crypto Trading Support After Peer Launches USDC Payment Feature",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjJ3X0J4VGhtRWI0aVV4enJEMTZVTlJtc1BIOWZoUGF3LWxpNFhsVzVVSGN6OTdkcC1wZE0xZVdMUXdNRTdaWktaR0pZR1l3YTlic2wxR1dlaFQ4aExWT2dESmVza2IyTFFtQ2lfRi1IX25naDV6R1ExT25QNGJXZ0xNLWtZUUdZRElDR3Z2cmF6alh3QzJlVjVqNUxMeGxJdS01Rk9BRFnSAa4BQVVfeXFMTWRDbTBuYUV3WWlhUkZabXNBbU9HTFRSV1dhcElWOTFOSjViZURocnpjUkY1YkdqeWZ4bUppZmhvbGtNZWIxWEFjN1J5RkNzOG9vc05aTk9ZMl9DUWd6VVJwMXdnWEpuaEJXb2NGRWFySzViaVM5UnUtRDQ2U0lmYld6bG54dy1iblB6Rm9pRUxlenY3cWQzYW9PdFgwWlNQRndLQndRNXMtUHQwNjJ3?oc=5",
+   "source": "Coinpedia",
    "type": "news",
-   "published": "2026-10-29T06:22:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-29T06:33:48+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Ethereum clients patch flaw that could redirect ETH rewards",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXJmODBsWE0wb1FGNGNjM2NTbFlqeHpORTNKQlN6c0NNdi1PYlNKT3l4QXdVVVRyaElwanQ4VHMwS1NncnZMRmNPVFotNl93VE9jY0Z6bG0wbXlpZkg0TEgzRjRBdVNkU3FTQmhRck9uR0hjdWMtMEJrT1pmMWpWYjN6MWZtTGM?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-10-29T06:30:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "\u2018Biggest Launch' \u2014 Google Teases Crypto Vault That Never Keeps the Whole Key in One Place",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLU1wVU1KVm0xbmo5SFRENVlpaWc2UTJsbjVBN1NEc1hLTlByWmg2SkZaS0NQX0h6b25taFlUdGtDZUxiVjB2alo2N045RUFmRlVmTDF0NXAyRkNjWF8wVTU1N2tzUkdQUkZkRGoyMjc5Q3BZeHdBZnJ3aVJ1QnRZa0VrV1hVTXc0dWZJVUdVZ0h0aG9DTm8xTmFnWWxZcm1wZktoVUZCSjB4a3V6S0dlNkl2OA?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-10-29T06:22:57+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
     "Google"
    ]
   },
   {
-   "title": "The concentrated expiry of $11 billion in Bitcoin options, coinciding with the U.S. midterm elections, is likely to exacerbate price volatility.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE56OE5TU2RBVHRRTDY4TjVjRkRUOVdVSkluTVl2ZWN4SktCWmdrTU43dFpwOGhzQWhBTjVmd2FITWRqWjdKY2hwVENfT1lSOWM2amprZ19rWUR1Ylk2N2pINGNxV2h0cnlzamFsRkQ3V2R6OGt5TmNtdjJEZHpzM0xLd0pmOUhqLWtZU1o2T1I4OFhubWlWb2g3Yzc3UUVTV3hxTFZya0RQTVZqdEhyUw?oc=5",
-   "source": "Moomoo",
+   "title": "Bitcoin Tests $80,000 as Fed Maintains Interest Rate",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBENGRXdUxubkJUQ1BnZ0tBbmE3d01BREFMdUtjT1k4aXh3dURJanhPSjdsRXNaMFVkOUlsNWV6ektCNzdJMGVPem02QUVIN2plQzNTV1JNSGI0QjdHTW1xRVVrOGVpSmFXSDYyN0t6dTdKMGdiMG5qRzZUaHpNNWs?oc=5",
+   "source": "ForkLog",
    "type": "news",
-   "published": "2026-10-29T06:15:06+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-29T06:17:56+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
-    "Bitcoin"
+    "Bitcoin",
+    "Fed"
    ]
   },
   {
-   "title": "Thailand's Tourist DigiPay Sandbox Gets a Live Stablecoin App",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalZOcEVxRGZxTDNUYi1JbjVibGQzdDZ2cXJocUMzZ3ZrRktsTDYxdmx6MW1YZTZ2ZWwtNDc3d3B1dWdRQm1BVl9pMEljVnFXMXRsd2UtQkNRTUxmU3NhRDdMbVhOYlZiS2swRlRjcnB1NzgwTWpLTTZMVVVoUlpGN3FPVzRnaS04SzlXTUQybENDNEZzdzhudENIdzZVQQ?oc=5",
-   "source": "www.blockhead.co",
+   "title": "RLUSD Becomes First Stablecoin to Receive Moody\u2019s Investment-Grade Rating",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkVkQ2VIUFcxbk1ZdmxOWFFOdFQ1aWp3UnpWUGRMMTFiY3dFd1l2SzlDNWVoc21TUWRHVGQ1ZEM3cDU5TVNoV0s0bThySGRpZ0ZROFFrTzFhZUZ3YVJWVG9RN1VsZDFaNVdwVnViNkVYZ3VIUk1BblBpV29zQzVubEhlMHhyZHJjYlpTbXR3U0N3Q2hhNWF3UzF0TWNRWnJxSnJ1eVQzQl9UWDg?oc=5",
+   "source": "KuCoin",
    "type": "news",
-   "published": "2026-10-29T06:08:26+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-29T06:15:27+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "Ripple"
    ]
   },
   {
@@ -340,6 +1130,29 @@
    ]
   },
   {
+   "title": "Bitwise Projects $1.6 Million Bitcoin by 2036. Does Gold Hold the Key?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWdJT0g4RHkzUFNlZjRtWDFTc0tpeF9WZDVvSTFvSWljOEltcV9jRDV4NXZPc2lJZzh5WlBJajhscW13clZrM1NWMTMxNUg5eGV5blA5WEtRYU9LenY5aElhdldaRTNaTzJITDBYSE9GQU0zQXBNWkQ5MXBWRDZEUU9HOVF2aTc0aklmeUFNcjNSMlViWXZmTw?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-10-29T05:42:09+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Trades Fed Rate Path, Faces $80K Ceiling: CoinShares",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTNIR3JpSkIzZzJCTjA5T0owYmVVdzNrRmNlaHNSTlJDTnFwbmNyM0o3ZEoyNm9sUmxyVVhJWGIwc1FGNTNBRHhJRjNtNDVNOTBGMFRkRUhxYVNBYWJQNi1BSXNTZFJOWngxeFliRDZ4UWlLd3A5TXUtLTdLaHNPcVhSNl8xc0MwV2pTRlNldVAxVlAwcHZnYWZjWjZUVnpfd056bWF3d1Q?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-10-29T05:37:49+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
    "title": "SBI to Form Japan Joint Venture with Parent of U.S. Bank Cross River, Focusing on RWA Tokenization and International Payments",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vaW1YR3pyaEptM2JVd0lnMm9WSzBFdDY4YVphOVJQQkhHcWNQSjd0VVNmRm1QUkxaaHg1MVV0Ulg2YnJuOGpoajFtQ2VfNUZzSEsxdThycG1qR211MThCNEFiT0xzT3h3ZlVobGUtNmJGZEJKWVE?oc=5",
    "source": "BigGo Finance",
@@ -348,6 +1161,17 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "RWA"
+   ]
+  },
+  {
+   "title": "ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0hrMTRsNlVZYk9hb2FQTEprWXpvbnlhMUhWYlRidkNzdjhRWXNPNmRjQWhoZjVZNkNmd0k1MDBDZUNvUm9mdUY5bXdncXlZeUdhODlLaFpzUjN3Z2lVaTNfMHI1eHBEVkxuZkJyV0I1cTMxODZZSFdLa0VyYWVWTG85OGpHbEhaZzFjMWZpUXBGT3dRajk0SUVfeFNpWS1CMlZlOVZoaVluWjR6QzZDdzhSUTI?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-10-29T05:34:38+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ethereum"
    ]
   },
   {
@@ -398,6 +1222,28 @@
    ]
   },
   {
+   "title": "SBI to Form Joint Venture in Japan with U.S. Cross River Parent Company: RWA Tokenization and AI Payments",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WWWdhSHE3SUhka1A5alpHVHozMnpoUGpuZUNVLVdlbzZHUmZMaWVZOEozSkk4SjNYRmxZWEMwMUhwWWswUDdyaE5pUGVrRVhrUWFjLQ?oc=5",
+   "source": "Iolite\uff08\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8\uff09",
+   "type": "news",
+   "published": "2026-10-29T05:10:46+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Pendle\u2019s Q3 Insights Show 82% of TVL in RWA Markets",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YVTczTEZWNWs2QVhOSUgzUkUwQm8wYnBjRkQtVm5Sd0lOZTJtcFVwV05OMTVEWUVhRElzRE5zczB6Y1Q3Z2F0aVdtUUtPOF9oMlNvbQ?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-29T05:09:33+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
    "title": "INSTITUTIONAL | Google Cloud Develops an Institutional Crypto Custody System that Splits Control of Private Keys",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tUW04cHFRZ2s3eldBcFgwV3RaUjFQQ3VldnZ2ZmxfU1UzNFpDTm56aVprN2Y0ZGZzZWcxRE1XQzc4ODEtNmQ3ZHVIZ0EtSDUtcngxaEtHZU5TRjdVc2JPTjM4WElHZjZITVBjUVdWeFk4b0lUeUhxeFpraGM?oc=5",
    "source": "BitKE",
@@ -432,17 +1278,6 @@
    ]
   },
   {
-   "title": "$Bitcoin (BTC.CC)$",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Zm1LU1lyUHFTX0xBUkdIdTZVOVBDdGw2WGhmQWlRaEFWaGNpZFpNeWxUUVRpaG9DOFlmMmRPUHNWOXcta3FQQS05Yk5BV3RpNjNkZnFzNzNDU2wybXlsc3lRUkNiUDRzTFZvSDU2M1FUWDRZM3VJ?oc=5",
-   "source": "Moomoo",
-   "type": "news",
-   "published": "2026-10-29T04:23:13+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Intel Corporation (Coinbase Tokenized Stock) Analytics",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWRTZDRSVE5IbkVDU2Ftc251SERJWUlMLVVQbG1EOEFqNHpfOHBmTFlaZGxnZkxXdzdKM3FqS0R0R1d0dkdrZXZHbm5hWHU2VzNzOWFBRjhxcVBiUUpYaWFzalVZd2xRQm9xR0Y1dEI5UEZMRnJCdE9PbWJEOXpLNmxZWW1qenM?oc=5",
    "source": "CryptoRank",
@@ -466,29 +1301,7 @@
    ]
   },
   {
-   "title": "Ethereum Lending Rates: Borrow Against ETH or Earn",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JYTZodGVYREVjclU2cGgyTXVoSmhrckhqbWRZUmRlMUxDQVJWWTFiMGhWS1pBX2xJbERTVHBQUm9kMFRBUmF4S1NKMA?oc=5",
-   "source": "DeFi Rate",
-   "type": "news",
-   "published": "2026-10-29T03:51:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "XRP News: Garlinghouse Finally Reveals Ripple\u2019s Stance, Says \u2018We Will Never Give Up On XRP\u2019",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQS1SNEFoTVJBaXd3OHBMbU84dVlCZENTWjdjekNjU1NPMlZxZWpQYmZ2WXBjc05zdHd1LUI1cEE2eFNSUkFOMFlUZy12SURvaXc1TnlyNVdDQkVieHZibDZyZG1mdkNCN1U2T2dOM1p6TlB5WVRvWkhTVnpHSE5hZEQxN01kcTB6b2VzZHBTSUpoSkhrdzlUWUtCS0dkWURndkY1aVdXZURXY0F6Y0dlSTBCNkh4TzYta3dpcTdwUWt3Vm1Bd1lfNTBUU2FqcDcwLXlhUlpFR1hIWTNDb3kyRQ?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-29T03:40:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Ripple"
-   ]
-  },
-  {
-   "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+   "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
    "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
    "source": "CoinDesk",
    "type": "news",
@@ -497,17 +1310,6 @@
    "topics": [
     "Bitcoin",
     "Fed"
-   ]
-  },
-  {
-   "title": "Aave Crosses $1T in Lending Volume With Institutional Push",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmFEM0pXYkJ1VXF5VzQzcEtZZ3RYQTZxdENJTDhjdUc1SDNzMTlCM19URjZMMXFQaDBIa3IzNEtZbXRwMExYM2RVaF9KeFNucEMwNkFhRGJVdmJvWWFqcURpQVNUcEVnYnZZQlZocUxxQTRfRDVGZEM4LXpTdTBKRWpoSjR5SktsTTNwT2s5TnF3UG9KLUJ1c191b1ZUMFJSTTVBR1pvZlg?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-29T03:22:05+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "DEFI"
    ]
   },
   {
@@ -544,61 +1346,6 @@
    "topics": [
     "Coinbase",
     "Robinhood"
-   ]
-  },
-  {
-   "title": "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-10-29T02:53:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Missouri man sentenced in Danbury kidnapping plot tied to stolen bitcoin",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR1cxUTg4TzJRQUtWbXE2d21vSXBJWnlCNUJMZnpUR2lnSzY3ODRpSlBJcTU2dnY1ZFpka3BqRVBpMFlSZVljNDY5cGI1YnQ5M1M5c1cteXdGLVgwaHI1NHF4SXJrMGpPeG5kdXQ5R0EyVjNuSGo3SVB0dU5EMXVCdGFLbGNVMTdmMEI2Z1NYa244Qk9wQkIxV3RkbmJPem1qQ01keElDZUt1QXhQeElCVjlCOEVrZEpLYnpEZ1RhS2h3MUdrY2VSOWFlcWJfMHBJUHJQZHdVWGdOMm1IajJJdFJyakJXTUNKVGN6dmdnSFZnbWxBVmowM1Jn?oc=5",
-   "source": "fox61.com",
-   "type": "news",
-   "published": "2026-10-29T02:46:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Controls 59.5% of the Crypto Market. Is Altcoin Season Still Possible?",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWlZTVJ5NHRUSnhKc3dESThjQXl5ZWhBcC0xZVJoeXlEY1J5Ulhic2FlcGVvTnpKQUhqTUJ0VWNjdF9KRW9jdWZyVUJ5UHZmTS1EbWt6Q3haZlpPdUcyaThWX2RCSGtpcnNDWUtyaXllNmFJRGtCVjdMVnNmM0hIU2ZzaXhfZjVVUGVJU180U2J5Z3lOeTR4cDVQUFpCckpINEI3T2VtYm8wNXVhRlVBWkpZekN1OGJJUW13QUVNN0JaR3R2SFhCVzNtRWdNNkE?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-29T02:41:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Chainlink and S&P Global Bring DeFi Risk Assessments On-C",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YaFRrQmpFbTQ0eFFuM0pYQ0tPU1pRNHlCUWFkRThXc05nUGlCZ1RjUjdWU1d5azh6dW5qcEZTTm13UnY5RDRCUWROUGc5R1FleUpmZGhyZThxWkVfbU1BWmNSX25GaER6djRHX0RmdGRCMUk?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-29T02:38:19+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Sony Bank Gets Conditional OCC Approval for $40M US Stablecoin Trust",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlZwVnJrOTVud0k2Z0pTQ0t6Yks4Z3g2b0M1N3FJY2ZHcmNfbjE2RWJPeVVpTnJlWHR0SmpfVEdMRnJRWm9zaFRETUJOZFBLNFJnNWRJNmpfTzI3MkY1bzRucnhWS1ZrTE5NWDVja016NW45akFxeUhVTmJ6U3paWHAtcmFpdC1rVWVTV1lJd3JaZGg2QlE?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-29T02:37:03+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -656,31 +1403,6 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "DEFI",
-    "Rate"
-   ]
-  },
-  {
-   "title": "Ripple and DriveWealth Link Stablecoin Settlement to Global Brokerage",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObUliSFNwRDh4LVVFMmdNZ3FxSkN6TldJZGs1MHlVVTBZMUZiNEpHcWxUQnpIc3NsXzJveEVtdXRoRjhpN1Y1MWdOZTdGcGJ3Z3ZncE9LM3dmUEU2X2dHMWo3ekx3NG03X1U5T1Iybjhfa1V1Qkp6MVc5Wi1JX2hiVGo2amhaMzl3dlFTMExoc3ZIZnJscEpyQVl6UElVckJ2LV9PSk5nNE55bHNYaU9TVlpRbWRvMEs5dy1McmVCbnZLVGdrQ1E?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-29T02:00:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ripple"
-   ]
-  },
-  {
-   "title": "Bitcoin, Ethereum, Dogecoin Gain, but XRP Falls as Kevin Warsh-Led Fed Holds Rates Steady: Analyst Puts",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLWd4WG5pTDB3cG1xQjRFVW82bUdTT0JnVk9JRUdaWGpiSEI1R1NMWHFjWldjUF91bjZHcGJzNzhtNFMtSXJ0MTJUaWh2WVYwSEZuX3JSSER1UGNodVZvRFlNMXF2V0x3V0REMFA2dkdIXy1HdmZOQS1NN1d0eHFWRlZ3SU95bVgxRXlKUzVxelZ6SFNkVGJDcU4zdVdJU3BYQTlJVVFuVENrVFpVbUhRQ1YzVQ?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-10-29T01:58:02+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
     "Fed"
    ]
   },
@@ -697,72 +1419,14 @@
    ]
   },
   {
-   "title": "Bitcoin Tops $81,000 as Crypto Market Gains Amid Volatility After Fed Holds Rates Steady",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamVJT25NQkZpQzdXQUdJcVBBVVNLUzVDbFJ5WnVTRTdNUTdOM09hZlU2OGFrT0hhZ0lydElKLU5hZ3RLck0zMVVPMHJ5SjJtWkNaLXVKb3Z4QVI1U29QX3d5cXpta1hySUpfYmg1X0Q4d3F0TndQMUpGX21pQUxYR1dtU1dfN1IwVWlKVmsxdHNKOHB4Sm0zREQ4QVdWX3pSQlBhT014MFFPc2JHR3haZ1ZmeTFZZw?oc=5",
-   "source": "TradingKey",
+   "title": "Bitcoin Controls 59.5% of the Crypto Market. Is Altcoin Season Still Possible?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelduc3JycTBqYWpVWlRHMEJLMjNnVXZOaVVyMHNfUXYxb28yRUEyR1VNWEpRbTh1cXo5NzJ5cnNIX0NMZVkxS0xkTDVMd00xLXdEa1BwNHY5UE0wN216SUFiU3A0bDMzSTlmV2lFRFVIMWl6ajk3ZXpGZWxBQ3FNX2FoR09OLTRlZndTUFNrWERBMWVGQ2huaQ?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-29T01:43:05+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin",
-    "Fed"
-   ]
-  },
-  {
-   "title": "Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORWt1czFiRTJaMzk5dE93OU45RTVyaml0cEg1eEJrZjNFdS1fVDZqYm42aENleEwwNWxZQXRFRV8xS3BKWkY1UFJSeVlkZEpYMzIwM0hraVJmTXVWYlpiQk54a2FQel9MRG92TEM1b3JXWlo2R1kxXzdScnl3cUNGTjVxYkJDUjVrQ1RvXzMzRXJvRzAtU1VQVDdRazVpVVc0d1BoYQ?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-29T01:39:01+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin Core Patches Three Bugs, Including Non-Linux Node Crash",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGRiTzY3OVZVamZXM0ZpQ2JoTG50NGw5dEVKVXBKRW85ZHhwUE9lajdXSkRQT2JDQUxMbW5CV0l3UjB2NnVPaUoyZVVZUGdQLUprVm5SckdaZU8zMzdVcXZaaUlwMmVqR1BBYWM1NmlQRGE4bUFhOUZia21va1lkeklsWnk5cFNlRTFvc211TzFqS2wwMG84VGEzMU12UXc?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-29T01:25:54+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-29T01:41:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "250 Million USDC Minted by USDC Treasury Amid Growing Demand",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QbExpX1Nsc0hWU29mWTdkRjdzU0pRVDRtSlJmOGxlY2dfVERuZ2M4WURUQUhqWGJudEtVTFFCODRMMm5SVWtsSnpuOS1LaXg3dTV1WkpNbGtvZw?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-29T01:18:35+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Uniswap News: URC-5 Launches on Robinhood Chain",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUUEpvZ0tDa1FjX2VYdXJYQjNZOVVsblhrclFHeGVUSm9zU1NFSDR3RHBCN1VGWVFDSTcwV1NOTFVYVmpfSF8ybldENEN0dERwV1luRw?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-29T01:18:31+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "DEFI",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "14,942 BTC Pulled From Exchanges as Bitcoin Gains Ahead of Fed Decision",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40Uzg4OWQzTlFGcW5WZzdKcEVTUTluRWg3RnpxVXZCU2N3bEpCcmNDR2prMFhrajJFLWY4cm9UckZBREZkTU95VG9OZnU3WU1VbUM1Q192QUE?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-29T01:17:53+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin",
-    "Fed"
    ]
   },
   {
@@ -774,8 +1438,7 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "Bitcoin",
-    "Fed",
-    "Rate"
+    "Fed"
    ]
   },
   {
@@ -798,20 +1461,7 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "Bitcoin",
-    "Fed",
-    "Rate"
-   ]
-  },
-  {
-   "title": "SK hynix Inc. Tokenized Stock (Coinbase)",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GdjdOM2tTeVMwTkJqN0NXRXhwWm9DaFowX2VJX0wxQjd3T2RrSkl0MERzYXkyX2FzYndlalBiTGkxWnhaclVsaGhRM0Q1QlcwU0NqWWtYNWdkVXpwUkJVcjZHWHVVMDJJYW96c2VTTTVsdmk2dHFGVQ?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-29T00:48:32+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "RWA",
-    "Coinbase"
+    "Fed"
    ]
   },
   {
@@ -826,15 +1476,27 @@
    ]
   },
   {
-   "title": "Fed holds steady; Bitcoin rebound fizzles",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZLQnpyN1NwdnVWRlZBVG1pbmpZdGFwT1FOSDJjTl9VdTFFSWZfaVBreFpJcURvZzd1cFo0a0Fyc3VzeXpBLWQwRC1la0pEdUtjTjFRSjRrc2VDQlh2U2I0NkVSY1lWdG1UMkZiRmZIRFBfRmVqMmljZ2x0ZklfaVU3bEJxS29laE1Fdw?oc=5",
-   "source": "Moomoo",
+   "title": "$10,000 in Ethereum on January 1 Is Worth About $7,500 Today. What Would It Take to Get Even?",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZzlhVDZRNkRkT2NQaXJncVdjNE54X1RjdWhKa09aNm8xbUttbUNQMkZfQ0JraThZeUV4bktLLTZ5QWg2RHJFN0loQ0hZWnhBNVRKdnotSWpKc2c2aGdmSWprQ0hHQU0zTzBjZG9pdXNPYXhERGtrQTRCN2l5Mm9YcXZ2aXFRMXpEVDE0RW5iM1dyMENEMVNFa2lVdlZjUVFEQnhaZjJvZEctSDdKUlQwZzJDeVBKTnVJbGIxTUQxbnRRN3ZlUXZRUzI0ZjVEaVhKdjZxR3kyRWFVNF96Z2g4?oc=5",
+   "source": "24/7 Wall St.",
    "type": "news",
-   "published": "2026-10-29T00:30:17+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-29T00:29:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Coinbase Reveals Insight on Bitcoin and Stablecoin Market",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YU210YW5uOHZNY3ZuLVRGNVdlcndqRW9WbkFSbkJmcElwQjl3R0xjN3MycmdmQUgzd1NQektNdGFxSVFBT0dtaHJ4MWw4UkZfOU1idHRIWDI?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-10-29T00:22:25+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin",
     "Bitcoin",
-    "Fed"
+    "Coinbase"
    ]
   },
   {
@@ -860,17 +1522,6 @@
    ]
   },
   {
-   "title": "3 Reasons Why Bitcoin Is Worth Buying Right Now",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejhDaTV2dWVhRjFDMm11QkpLNHJIRVN4dWdnT3cwWmdpcHcyTW16UWktX2UzUUZoZzlXRFRsZld5RHJTNVJFN0c3OEl3OFZJV3Q5SUJ0T093VkgwUl9tSHJRcW1HSlViOXZKZjN1eXZVb1R1MXVPZkRNcXZYNExJNzVnbDFLUGtLLWkxbzdrNXlKVi1Q?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-10-29T00:09:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Ripple Expects Its Stablecoin to Reach Robinhood App Users Later This Year",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc3RsNjZlMW5jbFdUcGxKcVdSWUJqc3RsMFBOdm5ORlJfNmhqV2ZOZ0RpbmUyYXpNVXFSbXp0aThFckp2WlUzOF9KM0JRcDdHS3AxbnJ4YVNyWUs4a0ZrakJaUEhTZ3ZRTGZYaUlMcXBwTENmRkE3a21uTDY5OXlKNDAxRnhTelJiMXEzQmxvZUlhT0d6M2lyMGtfWE9sejBkUnBwNHhPVDl6dw?oc=5",
    "source": "Yahoo Finance",
@@ -884,28 +1535,6 @@
    ]
   },
   {
-   "title": "Uniswap, Aave or Avalanche: Which DeFi Coin Has the Most Upside?",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXJhNlZiMlhXTDNEVk1raUZ5cmlwM2Mxb0t0cENHZmVycEhZNXVxNEstX3V2dmM3bXdQUTJzSUdTaVlNclNZNXVPMFFidGtfVE5oTzk1aE11TFhSam5FMDg1RlNoaGhoU1JRZTlpaTlFTXZnMS1RNGVwajhfRVZ4VXNPRU5FOEtka3NFTnRGeTJfQ2J5bHNpeHhoUG5IVVpkYjFvc1liU2dhbk56cVlhSjg2RHg0d0dLMmFDeQ?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-28T23:59:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Could Bitcoin Price Crash Like Silver? Warning Signs Are Showing",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVBsck5fdG1udFZqMVF5c25NODZabVV1dWxzeF9KaFd1dTB6Tkc2RGdDdWpsUWJoQnBHS3gxR2FtS0ZZdHA0c1lTb2tEdXFBQi1QR09WZl9MTV9XeGR6V1Zta3NTTkVBem9OaUtmU0YtNi0wRUNXMW1sWUdBX2JzQmp3TlhhcDRSVENGS2h0a0hkanB3cm5JQ0lwUUVHZw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T23:32:47+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "22% of US Adults Have Used Crypto, But 12-Month Usage Rate Stalls at 13%",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJamdlUTA4dWNfeUVlRkRSbmJtQjduQTRPZ2hxeWNTRVFST19Fajh4RVNVRFdhUG5vQWRqYWJnYmUtOEVmQWhETmVUdUwtb19LMnpmMnFhb3BBeFpDMENpTTh1cG9TVXU0MHpGNVE1bDhHbzlHZFE?oc=5",
    "source": "BigGo Finance",
@@ -913,7 +1542,7 @@
    "published": "2026-10-28T23:25:00+00:00",
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
-    "Rate"
+    "Fed"
    ]
   },
   {
@@ -924,8 +1553,7 @@
    "published": "2026-10-28T23:20:00+00:00",
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
-    "Fed",
-    "Rate"
+    "Fed"
    ]
   },
   {
@@ -940,6 +1568,28 @@
    ]
   },
   {
+   "title": "DTCC Launches Service to Mint Tokenized Real-World Assets",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52c1EyLUdYYTh0aW1qc3hqdEE4Z2tTLU9oaWROUDhGZEFzMUUwdUZ5dENkVlVsUDl4QmNwNGhEaDNlWDJxMEQ3RjB2NTFPejAySjU0dm1saGNDNXM?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-10-28T23:17:44+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "1TCH Simplifies Fiat-to-Stablecoin Conversion for Freelancers and Global Businesses",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeUFia21PNDI4S0FycHU5LWhja282MzdNaVVmTEpRekNQUEtYZ2pMTHBDcV8xUlhUX0ZrQVRyamZnT1g2M1NZbVJ1Xzk5UlZFeG54MmVLdElNWlZNaENEUDdVUUEwX3dwcklGYXV1UWpXU0dnQTYyU0x0UkhQNnluU0huWTZ2RXU2TEtwUjEzVzJhSWRRMmUxMk5FZXdWVmNqdEtyMEhUUW1JZVU0eGx0WXdjV2FzZWVXNVJNcGp3TGhIV2dEQ2JmdEpaNDR6dElmdVI2cXZxQlVxdw?oc=5",
+   "source": "markets.businessinsider.com",
+   "type": "news",
+   "published": "2026-10-28T23:15:08+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
    "title": "Fed Rate Decision: 3.75%-4% Hold as Two Seek a Hike",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTFPMldMd1hjVTVGb05FTHZwdmd0d3MtZkpkUzRBQmVmUlhBdlNZbDRkb0oyYXdTNy1pVHh3V2cyeklHbXZtQmVJbmhlOXJEeERjOENMbmNoTEM5dHZJdzVxN2V5Z1ZWNHE4SU1sVE5vV0dsYTBIbjBRVnRhMElFZzY5Tjd5aEYydWM0ZF81WjJ4N25XWkRiWWtXRnNDNk1WZ053eG5BWEJBZw?oc=5",
    "source": "Bitcoin Foundation",
@@ -947,30 +1597,7 @@
    "published": "2026-10-28T23:05:56+00:00",
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
-    "Fed",
-    "Rate"
-   ]
-  },
-  {
-   "title": "Bitcoin Fell Five Days in a Row While Nearly 15,000 BTC Left Exchanges. Is a Bounce Coming?",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2RtUWNxVGlYam45MEktVWpCWGoyQlNUVEhzaUVtM2ttTVVWV1Z3RVJUN2FLam5hLVBENmFsVEhWRFFEdzRFZGNsV1VBQlhzN1V5YVJaZmNzU0pySFhvYm1vTnhMV3FsN1FFejJ2UzFUcnhXeFFpTXdmdnZQTzEwOWxSckRqUXhGMm00Vk81a2JYank4cEE?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T22:37:37+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Robinhood\u2019s prediction-market revenue soars as crypto slumps",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWozcmJpcU9jZ2hDeXhYNURBS3dPMGp4RWdMRDQydzhBMkdJdFZXQkh0R21Cd1k5WHFpbjhEdTRqYVdtNGF1aEJhZWlEZ0tYTmlNRkRVeWw2c1hQNHdpNURGN1FYaVpMZ2d0VmE3ME9TSHVuZC1nVGhwMXowOHRYb0F5ckwzQ2VNU2VvdHRkWnU4dElmcjU1eDlTdUI0aENKdFRZ?oc=5",
-   "source": "TheStreet",
-   "type": "news",
-   "published": "2026-10-28T22:17:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Robinhood"
+    "Fed"
    ]
   },
   {
@@ -998,52 +1625,6 @@
    ]
   },
   {
-   "title": "Bitcoin Shrugs Off a Hawkish Fed as Volatility Bets Barely Budge",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVdtYlJtMkdYeXhFRUtEM1hIelVoOXpmU2c2R2gzLTJUOG1YYjhhd0VueTlRMTJWUmJNRUNnQmw2cVk3MnF0ZUU4V25oeENmYUFITTY3UFVtTXlJRy1YbFRZY0kxbHo1SXdvelFCT2hHcU9nX3VnYURvSGx1Z2JtSkQ4Q0pBdlM5dnVwRmRvelV4VnhLZjIybzhaTQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T22:03:47+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin",
-    "Fed"
-   ]
-  },
-  {
-   "title": "Fannie Mae To Accept Bitcoin-Backed Mortgages for the First Time",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0ZDYm1mOEhzbWRjcDJISXoxeGxhd2JmcGZRWHp2bDJBMVhIRVVzazE5TzE2SGdWOUxpckt0UWJtb2daNDh5WXBKY0NGMmR4dGtsVzNQLU5HbDE0MEVCZUhNWE4wY0NYX0c0djg4ai1KMEpycDEtZTNjVTRQN3R2OWZzY01UeGxyQ1dyMWw2UGw1RklDbUtvSmpzRWVjNFRGNjFHOXhqdFN1QQ?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-10-28T21:58:16+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ethereum Funding Rate Today: Live ETH Perp Rates by Exchange",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hLVhPdFFDbWIxRkxKNWR3U2hMTHZDQjhMSzhqeXViY2lHOFFRYVdSNlJSLWx1eG1oMmJoQ2sxYlpHVFh3Ylp4RW9mZUQ?oc=5",
-   "source": "DeFi Rate",
-   "type": "news",
-   "published": "2026-10-28T21:56:00+00:00",
-   "first_seen": "2026-10-23T06:16:59.412296+00:00",
-   "topics": [
-    "Ethereum",
-    "Rate"
-   ]
-  },
-  {
-   "title": "Stablecoin Payments Are Fast. But They Have a Cost Problem",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xQ00wU01qdE9GWXJwVDF6bjlVOGx6R0tLR3BreWg0VWxSMEZFRUViOXdCcDZNUkNBVWw5OGhzMlF3RkRvbmdXbE1CNjZST3Y2RzFhSlJoa1hIR1NkTnEydFVyc21pUlpJMjFvZDRuTndYYUdENTdwUDdB?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-10-28T21:47:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Bitcoin Treasury Datavault AI Says It Can\u2019t Access Its BTC, Stock Tanks",
    "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
    "source": "Decrypt",
@@ -1063,29 +1644,6 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "Google"
-   ]
-  },
-  {
-   "title": "Ethereum staking yield: below the US dollar rate",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSnJTeWIxTG1BQXhteXVXLWh0d1ZFSHY4SWtlLVZKMnZFcTgzQVhQSWZrUHJ5RkxUNHlDcDR5YnlGZEw4R3dDUENHc0dtWHA0Vkw2aE1VWmlobHM1aV94enBTNXdiV0lFZU1kZTZLQlJqNUROdkFfTF9PanB5WUp3bA?oc=5",
-   "source": "CryptoTicker.io",
-   "type": "news",
-   "published": "2026-10-28T21:27:42+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Ethereum",
-    "Rate"
-   ]
-  },
-  {
-   "title": "Cryptocurrencies: Bitcoin Again Down 3% This Week",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHIwd0NjeXlJb3lyVjN6V0dyazM5azVYYU4zOHlsclJUaWdmQjRadEh2dm5jX0hOdW5JXzJzbHIzc2tyUWVLR3VuZ0FGdE1jdENkNXVUNzQyYTNILXVpS283Tjc5bk9rZGZkajJ0ZWZpd2ZheGNYRVpsTW9palpRVDBfYmU0RWJDTE5DZUp1c2ZoTVFwUEFoaw?oc=5",
-   "source": "ETF Database",
-   "type": "news",
-   "published": "2026-10-28T21:27:38+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1122,14 +1680,14 @@
    ]
   },
   {
-   "title": "Robinhood posts record $1.4 billion revenue, but a 14% profit drop exposes hidden portfolio losses",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXlubmc3Tm9mdldpU200TDlfSW1YNER3ejRBVnNLQUhZU3E5N2FWTGpMNVhoSFNOZEpWQzdralR1M0RsUklUYTZWdlFucFlaNVY4RHBZNVdKRk8wSk8yY0ZiaFpGd0JDdFBBWlA2eS1tNVJIYkdWNTBvTlFHb1Q4aUdZRmxrN1o5cEdoVzQ4bEhUZkZpRHQyMnBMUFdtQXdSVnUwbGZsMnY5OEpMaXpxbFFUM29YZGVzLWRHLQ?oc=5",
-   "source": "CryptoSlate",
+   "title": "Ethereum (ETH) Attempts a Recovery, but Heavy Selling Persists: Details",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcW8yR1p5azRwZ01UNkVtWWJyNFJEcE0zRk9PTXRPdC1tTmtmTnJmdzVYdnJnU0Z4Y3FJN1lEVHBIZDJmVmdBQllOTlloZWFlYkduVzVBRVZjSkh2Y055UVJiU2Y1TnQxbk44bENtOU1jd3Q4SHBfamdpTkdvZ0paZExfd0tMdzlBSGpLVHlRdUhneWVNcXI3M0hFdFVUcVd4S3FNdTVBa0c?oc=5",
+   "source": "CryptoRank",
    "type": "news",
-   "published": "2026-10-28T20:50:25+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-28T20:52:54+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
-    "Robinhood"
+    "Ethereum"
    ]
   },
   {
@@ -1156,17 +1714,6 @@
    ]
   },
   {
-   "title": "DeFi Development Corp. Estimates \u2013 BOATS:DFDVW",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WZGV1UGZrX1dMLVJrc3kwdzVzLVdiRlNPUXo3U0F6UHFUZWJmSFdWaE13Yko5Y0J2OFRzckdSckt1MU9JUnZRNTVHcVZxYTZDWFU1dUpsaDY1SDRtMmp4bGpEM0RReU1GaXM1OFNBTmV5aWtZdWZkSw?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-28T20:19:30+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
    "title": "Bitcoin BTC (BTC-USD) Live Price, News, Chart & Price History",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HSGlGRjBhSUlQdXZtSXRJWmhTcWlLMmt2WEM2WFk0LV9Bd3BzOGNZQzJmQXJycTBZcmpSNWZiWHMzMDdzY3cyQzlKYXNYSk0tUF9MVzdB?oc=5",
    "source": "Yahoo! Finance Canada",
@@ -1175,29 +1722,6 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Robinhood Chain Adds Eight Tokenized Stocks as RWA Ecosystem Expands",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FWndxTzJWNjhuZ1hsSWlfcHQ0WXhYSHpjR0Z6TkJLYWg5RV9qbEdzNncyUEM2ZXRaN3IxY3loRmxHMTczc0FmRU9VVWRkbEU2ckljekd1WkYtNUUzZGRCQnVCOE5aTS1FVUZlRXlpTC1WWGYtQWV0bFVB?oc=5",
-   "source": "Altcoin Buzz",
-   "type": "news",
-   "published": "2026-10-28T20:11:30+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "RWA",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Robinhood\u2019s Crypto Revenue Fell 55% in a Year. Is Retail Money Leaving Crypto?",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1M3RUJ4LVVlamhVSU9fc1FUc3NaZURTdnY4bEVjb05mTGZJMkd5TldsbkF1Y09lNkpsYnFKLWtIaTJpZDVMRE5vNHR4YXVsM0VLelExTHhNb2FiT3AzWnRBeTBiTXBMZkZUNHFoSGt3ejRNNDBoZENGNlVZRFVKREsxckJzTC05UmQwT3VTNG9jLXU1M2lCOWhPWUFBTnpzbHRTR3V2UlIwZklpVXNyNEp0QzR3NnBnM3lfWHh2TFNUa01MREhOVHNzeVlVdw?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-28T20:11:00+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Robinhood"
    ]
   },
   {
@@ -1243,19 +1767,6 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "Bitcoin",
-    "Fed",
-    "Rate"
-   ]
-  },
-  {
-   "title": "Fed Holds Rates, but Dissent Keeps Bitcoin, Gold and Tech Stocks Under Pressure",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDRqa242YjN1OGhJSmM0V0tkTkNxZXJRLWFzb21PRldGeGIyTUF1dl9aOTFJODBiVEdVZHZvalFka2VZdk9TRmJObWF3dXAwSGltXzhoWjNNRUNmWXZXS0VOUnZVTDFQVl9tMnZTcS05WjVhZ2EwZC1BQTZGaVN2eG1leEpEQ2R6c0ZQamxJbnZpcVBZREhLTXRyaVRKMF9CNWg5dlJJRVRRSlVmenpOMXBXRjJvOEYtZWY2eFVaYw?oc=5",
-   "source": "Investing.com",
-   "type": "news",
-   "published": "2026-10-28T19:20:16+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin",
     "Fed"
    ]
   },
@@ -1271,26 +1782,16 @@
    ]
   },
   {
-   "title": "Robinhood's New Chain Lifts Crypto Revenue Despite Q3 Profit Miss",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTNCZGNMR29IVC02QVhRQmloeGV6YXpvZUpVd2otRWJ1LWE3R0U4UFN0RU1lS192SEdiN2JuLTRBaEpqRXhZM3diTDJBNjBlZnBrTGZBU0xtbEpmblRWNllHaG5mWUxDU05idS1qTTd0bFJDQm1GMmpqT3Bob1JKR0pZTWR3WnE5OVlNel9RYjk0dS1ZYVdKZ0FQQi12N1M1azhwZg?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Ripple lands Coinbase, Robinhood and a Moody\u2019s rating, but RLUSD trails at 1%",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmdOMFFzZ2hXYTRuUDhjQXVILS1EV1VWbVRUekxSOU8zZjd6VWprZHhZTWoyTktrbnZvamxUeXRLemp5NEctQ09CcHJaLUZyNVFENXNGZjhmSjJ2R2h2YmNDZXAtX3NJa1lWak9PNkJUdng0UXFkeURtNEJYaThXbw?oc=5",
+   "source": "Cryptopolitan",
    "type": "news",
-   "published": "2026-10-28T18:54:08+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-28T19:15:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
+    "Ripple",
+    "Coinbase",
     "Robinhood"
-   ]
-  },
-  {
-   "title": "Bitcoin near $80.8K as Fed holds rates, two officials seek hike",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tYTFHS3VQcXN2NXdhUnZ2VkFmakFvRGhtQlZQeGUzTFUzWDFUY25XSU5TRmxFY3lsUGE2VEFVeTc3Tlg1a3NNSTQ3RF8yNVZxTHliVUZNOHdnRFZJM1lYaklQMG9vSGJT?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-28T18:33:13+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Bitcoin",
-    "Fed"
    ]
   },
   {
@@ -1314,18 +1815,6 @@
    "first_seen": "2026-10-29T07:03:41.184209+00:00",
    "topics": [
     "Bitcoin",
-    "Fed",
-    "Rate"
-   ]
-  },
-  {
-   "title": "Fed Holds Rates but 2 Officials Want a Hike: Is December Next?",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQlhlVVotTEctRWVUMFMxdTh4ZVF6OFlEVHlGek5IUnBFNlV5VzNOcXVaMGhCa2tpU2t1RGtqSnBaYXB6SFpqVWNQSlkxTjhNMGwwcXdmOG5mU1FQWXh5NVdQX21jQVNTQlJXcHpqZDJqV3JmaEV3ZVVocTRQNlR5enFhU0VYOUpLZXQzUXdGVkJ5X3VCS2k4?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T18:09:03+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
     "Fed"
    ]
   },
@@ -1409,17 +1898,6 @@
     "Stablecoin",
     "Ripple",
     "Coinbase"
-   ]
-  },
-  {
-   "title": "Hardware Wallet Headlines Dominated Coverage\u2014But CEX And DeFi Took Almost All Of 2026\u2019s $2.35B Crypto Losses",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN0dOUmZFS2FLUTNNOVdBOTNHTmxxb3dDWE52MzlNRnRfYXl1NlhUYmxET0l5Qm1pUTBnMkhsSGlncTJYeklwT3NGQVZod1dYWHIyN3VEWTVRQnlseGkwZVFlMWE0cDRSb0ktWGs1dUJzaHBSQXhWZXVDaWtiUk9sUHQ3RGdveDNMNjA0Nm1ra19SZ2FrOE1sQXBXTTVreFlYM2JidG9abzJKRWJlZ0hZdlNWQ25MR0o2Vzk1OGdQTFRtazliTjNoQ0Z2ZU1sNzg?oc=5",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-10-28T17:48:43+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "DEFI"
    ]
   },
   {
@@ -1513,18 +1991,6 @@
    ]
   },
   {
-   "title": "Bessent Tells Ripple Conference Stablecoins Will Be \"An Important Source Of Funding For The Treasury.\" Here's What It Means For XRP Holders",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTnc4SW5MSWR3MlZ3Ul9mWjA5OTcyRHlZNHFORnRmWVZkS3BVMzNkRVNONjl2ZElhQTdCa2RjWXNaWFF2bVdDVjZlUFhtSGNtQ3lVWE5sR00zZzlxWG93VUcwMnFUTGxKenVqcDU0T1g4OUZzM1FIQzM3Yjh0M1hidlBubzZNei1lVDlDdFF5X2QzR3dPSGgtRG5tMnB2VlVoWG5oR3BoYzE2ZGxxdmhzeHhSZHVKN0kxaU5QN25ndEtNSFVQYkJ2U1ZvZWZ0cmRWa0hCZVhVNTRoWF9LYVVHY05xcGNYTFB6bkZhVkRTZGExXzlBdWZ3Wl9nWW5odV9WZG5EODNLYW9HVjQ?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-10-28T17:04:00+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ripple"
-   ]
-  },
-  {
    "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
    "url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
    "source": "CoinDesk",
@@ -1546,17 +2012,6 @@
    "topics": [
     "Stablecoin",
     "Coinbase"
-   ]
-  },
-  {
-   "title": "Robinhood Adds Eight Stock and ETF Tokens to Its Chain",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0FoaEhFSndTcWhVdkI4Q2Z5REtCSml4bjJEdW12RWhabVJreWl0SXRMVDdLX1R6cnNiMW9qenF5bjJGOWFzVC05T0VBSHNMWHBEWlNTb3NSU3lLN0t1NUZJRXNUYmVGVjNuVE1rZ0NJbnloZHU1UkhlN29CcEFzVXB0ZnVPM3ZYall4MEFla1ZJZGZpRmFZSA?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-10-28T17:00:20+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Robinhood"
    ]
   },
   {
@@ -1582,15 +2037,14 @@
    ]
   },
   {
-   "title": "XRP News : Ripple RLUSD Goes Live on Coinbase",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXYTlmTURUb2lKaDgzM2sxaWdkU0lLMDZnd3hEVU9XdzFobG1jUHBQNXpscTdDU19HckttZHZWeWxNcnNwV0dGT3V4TkN5RWRVY0YyNUJZa2F1MHhPdjhqSGRvOFpBTFJsaTg5akdMSEtoMkZwb0VNYWl0WdIBgAFBVV95cUxNQXdKbWZ6aDFJdEhNN09SdmNKSHFmZUpVVTJGb1lLQjUwRThrYXRpcHlIVUQyOFlxV3BncFhCUHJhMXUwYzl4RXBVby1EdVQzam5ZcElscDM4OEZURW9VejlLdmxKdGJralEyZmk3a084UE1JS3JfenBlSjV4VlBWVg?oc=5",
-   "source": "Coinpedia",
+   "title": "Google launches MPC crypto custody service as institutions seek safer digital asset storage",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VdzA0U1NTYVh6ckZIWlRhSndsUEFiUFphcDg4bkt0ZlgwVzlvdG1oZ0otbC1ERnpXa3J2dnh1cjFraG1QcUJVdnZHbC1FbTZiZ05tNHk1YkdlblRhUU41S3U5NjFVeEhySkpOUw?oc=5",
+   "source": "Altcoin Buzz",
    "type": "news",
-   "published": "2026-10-28T16:51:03+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-28T16:45:13+00:00",
+   "first_seen": "2026-10-28T17:02:41.238816+00:00",
    "topics": [
-    "Ripple",
-    "Coinbase"
+    "Google"
    ]
   },
   {
@@ -1694,38 +2148,15 @@
    ]
   },
   {
-   "title": "Bitcoin Sees Biggest Exchange Outflow in Five Weeks Ahead of Fed Decision",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHZyYnoyRVZ2dUlILXVQbG5DTW8zdGEzaTBTMUpnN3VmVDEyaHpha2lTT2RjQkF4TllOczdVTG11VGQyT3c3VzdSU0N5Z3B4UWp0V2ladHdDT0ZhNmJWczdvZ0NaNEpkeEVHdDIwQkFuLUJ4bC00TklqbDV2WlNYTXExVkV1Nk5mOWRSZTJaM18wQ0VHRGlwZEY4MENzRWxTbDdGbUtNbkJOYTl2Tml5Yg?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-28T16:04:08+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Bitcoin",
-    "Fed"
-   ]
-  },
-  {
-   "title": "Robinhood sinks 8% following earnings, but Wall Street is missing something",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPazFrVklfdkRnbG92Z3FFVnhzQXFCR1dkeVhrelRDYlNxRzE1RGxIZl94ZlBWaE5kTk11YVRuOVJBS0l2Nlc4NGMwd203WkFtMzFtdm9BMjkyVVpIU3ZTM3RRQ2Z5UU16ckd5VWg1MVNxb3dCNTdXZm1JMzd2MkpIeE5RWEVJSVMxNFJtTFI1cVF3NGtJT00ydzFycjZsR1kyb1AwNTl5WDB1eTBIdDBQNlVvWUNmWDNWNk9QXw?oc=5",
+   "title": "Bessent Tells Ripple Conference Stablecoins Will Be \u201cAn Important Source Of Funding For The Treasury.\u201d Here\u2019s What It Means For XRP Holders",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHNxVlRfblpzeFA5dWxhOUM2RHpMVE5fUGxvc1VORUJQRVhKeW5TaGVUaTNOYlFzQ04zXzUxNE9lUUtOcTZFQzFrSTVFWUxJV1BWRGZXdExFNXAyYnBNUTFYcUdhaUNLRDNoWnVpUU90aUtlWFVSLVpGazVRTUdZcTBiT0tnVEd6Mk5yeHlvR3Q1RnloczJBZ3dCMEhEZElSY1JxSTBUSmRjeVgy?oc=5",
    "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-10-28T16:00:46+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
+   "published": "2026-10-28T16:04:20+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Robinhood misses on Q3 earnings, plus IBM, Intel, and Oracle object to tokenized plans",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWlXaDd4LVRCaDRQd2lrajNWeVZSX25wSXNDdFRDRWl5SVU3MHNsOHNJMmo3X0pEVWNtcDJLcWgwZUpEWTBzT0FEalVKMWlOeG5Ud0hBUzNRZVE3MldiNHF5VXdFRXYzQ3d0SHNyaXU0U0o3dkIwMG94ZkREcUhNeUVFX25LVEVRdEtlaldxOXpRSkxwZTN0dFBBWUxXeWlzLWRIWlpHQ0c1NDZZX1U3QzFOSjVjYmRScmJHV3ZHeUxqM2VJXzlXT3VB?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T15:59:00+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "RWA",
-    "Robinhood"
+    "Stablecoin",
+    "Ripple"
    ]
   },
   {
@@ -1765,39 +2196,6 @@
    ]
   },
   {
-   "title": "Robinhood CEO Vlad Tenev: Crypto is in a relative winter",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaEtBdUMyTlozWXcwNkZMRzZ3Y0hsWklPLWVuZFB2emZmdVBSNFNlTkJiYU5YemFkSlFOR3VIamFweE11Wjh4NkR4VGZUaGtWeEFPcXJNeno3WFhXSy1oZTFsaW4xaFRKLTlxNmRIWmtPZ3B5NzVSS0hNZUk4dFR3Vm5qRXFFYlBEQTExc0dZSlZQcFM0M1pBNzVIcFZoMW8?oc=5",
-   "source": "CNBC",
-   "type": "news",
-   "published": "2026-10-28T15:49:35+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Robinhood Stock Tumbles as Crypto Revenue Crashes 55%",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlNadUpzRTVNTzhqaXZrdGxxamtwTTRjRkVEREs2WTc5ME94Z09iczN4TE9fd1pFWldXUER0Q2k0OElPU1IydEZoV3RmM25kSjY5OGYyREYtUmNlZzRvc09McFVkSnpEbko3Nld5XzZNM1ZCazFfZkdLMkdKVDVSSG5sUkIwTUhHbEJQZmo4VG9wWVhmcVN6Z01pMGRka2ZQSjNyU2J3?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T15:22:52+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "AVA (Travala) to Be Integrated With Uniswap",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0RUQ0YyNFBJUTRvRWxqbmlTWnQwVkhBejR4VXVuYV84cXFIOXE3bEVWelNsVVNJV3JhOHNmT2JjQzRhVDZJazFyTWRRcXdVbGg3NWZWWVdqMnU4c1N1RklleHNlRDZhRDh2WmxOWldPLVE0UGVoejZ2Z29Ha0FhdjlaNndBNFFiMjBiNDRBQkhlZlpGNVJUQlFvSTRsUG0t?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-10-28T15:21:59+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
    "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
    "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
    "source": "Decrypt",
@@ -1806,41 +2204,7 @@
    "first_seen": "2026-10-28T17:02:41.238816+00:00",
    "topics": [
     "Bitcoin",
-    "Fed",
-    "Rate"
-   ]
-  },
-  {
-   "title": "Coinbase (COIN) Stock Looks Above Fair Value On Current Sales",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdnl5S05VYmVrc01Db3BmZGZ4eS13Y1lJWlJNVGI2eFRGN1F4UlBYa20xQ0hvS2dNUXFEN2FXVDc0TFZVMTRLNWk2Q1F3UDVhLUpwX09nMEF2WnlyY3VqYnhMZVVMd0xDM1BPcURpWW9FbHhtSnM4YjloTHNVQmdxLVlTR1ZTcmxSQ2h3a19YTnNNWENncGJVSWNQN0Y?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T15:14:42+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "From issuance to distribution: The next phase of RWA tokenisation",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaUl6d2U2dnUyRmZTTjJrRWJxQ2p3a09nWFhTeHktZkxBSnMxLXNZSzVvTDJOMXBtMVVJZjR0YjRBN0stT0c0SzQ2ejc5d19xMnc2NHBWSTJqb1ZqZmRicmhwaHphVWpOZlY2NFlhZURyU3ZDTkxKT3JYTDhqOV9uNDlxdUt2NkNVQlUwX3dMRmZfczFqdDlwRW5VVXpEd3YxYWlv?oc=5",
-   "source": "Cayman Finance",
-   "type": "news",
-   "published": "2026-10-28T15:13:56+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Morpho Achieves $100M in DeFi TVL Growth, Outpacing Uniswap",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12bVd3LXl0UGtXeVJVMm5pTmpDMjY0aHpmelZ0VkhuQm9td1hsdVBSWVBwT0RZdkhKSkZKbDNsMDJKMjNCa1VxZGZZRWFnUW5NRUV1Qg?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-10-28T15:11:27+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "DEFI"
+    "Fed"
    ]
   },
   {
@@ -1878,36 +2242,14 @@
    ]
   },
   {
-   "title": "Suing President Donald J. Trump Over a Stablecoin: Can a Circle Shareholder Enforce the Emoluments Clause?",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CV09VLURuZnhIbHBXbmtYYzRjdE90eTBCQnNXWWJRa2hYSEF3VUh1TUxlSUZfcU9qLWFUZ0lZTmotVzFzYTZ2SmdQdjBWR3N6VEl0YXY1ajgyU0RZaXdPcFl5eVo5ZmtIOW5ZU0NzOHhRSXpNWUE?oc=5",
-   "source": "Dynamis LLP",
+   "title": "Moody\u2019s Announces Long-Term and Short-Term Ratings for Ripple (XRP)! Both Praise and Warning!",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03Rm5uNEFwZUJtQ0hjenJ2dFZ1aXdlVVcyVlFUTHJhbTFJTWpQTVBsSnQyb2dCQ1lGa3d5cUdTTjJySnh1YXpDYW95em5IUDh6VVdQZHl2ejhjQQ?oc=5",
+   "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-10-28T14:57:25+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
+   "published": "2026-10-28T14:55:58+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Robinhood Stock Drops. What\u2019s Overshadowing the Earnings Beat.",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DRXVsTnNrMjgyYVp3LXV3U3UzMEwwcWZEZGZ0VFptNUJNcUVROVZuM0hBNUpiT21LZjl6aDh4TmxOTnF2VXV3bnZHMG91MnQ2a2pkQnpVcmt1Y1dobnpCeFhEV2xoVDlpc1V6Nks4WDFMSEc4OFJNMERvSlQ?oc=5",
-   "source": "Barron's",
-   "type": "news",
-   "published": "2026-10-28T14:50:00+00:00",
-   "first_seen": "2026-10-27T17:00:44.429692+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Crypto : Google Unveils its Custody Service for Banks",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzZzU2lLWFU0MW5GVTlZMnFveXY5cENhZEhxR19PYzJrYkJTUXMxczgtaHV6d2ljaXRFVTJlVzJyS1FvNUJPcW5ONTdBNUlFTG9sTU5PVHJQSzF3Rm02b3RMbjlJaUF6cjlJcGE4X0Q3RXlKd2lISU0wTGtrTk9ZUEU2VjNKOHFjZi0w?oc=5",
-   "source": "Cointribune",
-   "type": "news",
-   "published": "2026-10-28T14:47:26+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Google"
+    "Ripple"
    ]
   },
   {
@@ -1923,25 +2265,50 @@
    ]
   },
   {
-   "title": "About Flowdesk Confidential High Yield USDT",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jOVhmQVNsLUFHTThtZzRHMmFkVWJvdElWZHQ0RkZNb29rUXpacVF1TEpheFc1dEtES3hfMVhCU0Z3WnhmTHZFa09XYnlCV29uLUVSSTRjem52aTRoX1FxMFgyWW1pMWxQTU8ybFR5U2lSakpLYjJ4S2ZUbEs0VlE?oc=5",
-   "source": "Coinbase",
+   "title": "Ripple\u2019s RLUSD Becomes First Stablecoin to Win Moody\u2019s Investment-Grade Rating",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjJaZTZmSGhOdWswSnJocDlRYXdhS3RPVGlfdEZqR3VobUx6eUFYS20zOVREWkRWZTdubFVxZDVTak9jLWUzSWFLZ2Z6eXlsNGFveEFXMVBCNXlHNGFlZXFwVVkzMURPd1RndEhUQXl6aU1XbVpPQ0hjUEhNQ2VWOGdzQW5xSVo2a2tPa3BJQ09WeTdVM0Q4MHhvbU10QXhJTEc1NEpZU01hR01uNUk0d0hLMA?oc=5",
+   "source": "CoinCodex",
    "type": "news",
-   "published": "2026-10-28T14:16:04+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
+   "published": "2026-10-28T14:34:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
-    "Stablecoin"
+    "Stablecoin",
+    "Ripple"
    ]
   },
   {
-   "title": "Robinhood shares fall as crypto markets chill drives profit miss",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVk8tZkhrQmxPWHJYNWZPNWtDRlRlS2plbncwdkRab05UbE5xNm1fb3JQTTR0QWRKcUduNmZweS1fdUNIQTRSUE1NX2h2QjloUUxyQ29vek02T1dSaUxQcTVKOExPLURCLXNocW5zU19zZlVzeGNublYyNU52czNsZFZvQkZnWks2R2xMUDJMSEhfRkZlLUs5b2lZbTdvM3lpQkpWWWFzVlFpTVQ0b2FQNGxn?oc=5",
-   "source": "Reuters",
+   "title": "Ripple USD stablecoin earns investment-grade ra...",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2EzM2ZDWFJmeGVDNDU2SVBMWVVZWUFNT0Z0RjRFT3E5SlU5Umhoc0xwVXAydkNBRjQ4WURCYnRwS1N3dTBRMnQzMXNwc3FrRDdFRmpQUmVoYldzbS1zbU5ITEJHU1ByQmRBbFpKbE9aUHZoUmlRMDBvZTJtQ3lGN2ptd0ZqbmoxTXViVDYwS0luWTQ?oc=5",
+   "source": "Pluang",
    "type": "news",
-   "published": "2026-10-28T14:05:22+00:00",
+   "published": "2026-10-28T14:06:17+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ripple"
+   ]
+  },
+  {
+   "title": "Google Cloud Details MPC Service for Bitcoin Custody",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdldKdkRqWWVVSVlPWmszN053dHYzb3FvRGZneUJwb0FGU0tQbjYySXMzZTJUN2twRk9DelppS3RfYnc2NFFwSC16c0pkWkFMREpYTkdjbUN4dW45a2JoSFVuT3ZkcGE0WXJaZzBLMHgyZmpaQ3hEWDlNWDdvSUpnV0lWZGg3Sy1CRTFveVBsX2ZHT29fV19JT2FIYzVKakIzaGxNOGE4dS1HVXNSZHZnSDlTVk9pVDBOYWk4?oc=5",
+   "source": "Finanzen.net",
+   "type": "news",
+   "published": "2026-10-28T14:00:17+00:00",
    "first_seen": "2026-10-28T17:02:41.238816+00:00",
    "topics": [
-    "Robinhood"
+    "Bitcoin",
+    "Google"
+   ]
+  },
+  {
+   "title": "Moody\u2019s Gives Ripple\u2019s RLUSD Investment-Grade A2 and P-1 Ratings",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtbmhzcHZaWEgxNGduUFdraVE4VW9BWEkzVVdIUWZjaXFINkI0S3l4bmVBeG81WFpONE5hS3pXRGQ5Wkk2ZmsxX1ZVVGFGdk1nampNQXJjUDdVbnFrS2ZoTHIybjdQdUw0UUZ5QTZEcmt2bU1ma0lHc01pc0h3Zw?oc=5",
+   "source": "FinanceFeeds",
+   "type": "news",
+   "published": "2026-10-28T13:58:48+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ripple"
    ]
   },
   {
@@ -1968,15 +2335,25 @@
    ]
   },
   {
-   "title": "Bitget, Reality, and Keyring Unveiled a DeFi Strategy for Tokenized Stocks",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTZUWTNmRUNCOVFiSDN6ck9FTEs1RFExUEJ3MTcta2NNM3NMWW52aERDUE8yeHo1QWh5VDczS1FNTGZQYlZ1TTVWZW9QZzctOThuT1Ezb0dkc3dacmJDWEJCVHh0c1RvRHNaenFucTR5VnpEaEdfaHluSjVnRVJvWng2MU5UWTZ0bzk0WjU2aUx0OG9nb1BVNm1Xd0Y5T1U?oc=5",
-   "source": "Incrypted",
+   "title": "Moody\u2019s assigns investment-grade ratings to Ripple\u2019s RLUSD",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWhNdk51OGlGNHVyZDV1bTZHUTFpS0h5RVRBVWxsVmRCUzhldEJCUU9qYnlqei1NaXY2SEljU09nazVtMHFrWjVQT0FKTjNfbUxtY2d1Z3VrSFp6RVVXYWRYR09Sem9pdk9pb2VCQzlvOTBvTzd4YTIxZm02c0JkZk10cw?oc=5",
+   "source": "Finbold",
    "type": "news",
-   "published": "2026-10-28T13:46:11+00:00",
+   "published": "2026-10-28T13:45:22+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Ripple"
+   ]
+  },
+  {
+   "title": "Stellar Lands Securitize as It Climbs the Tokenized-Asset Rankings",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1ZabE80WmZ2dG1TSnZSLVFoa2RQTlBOVFpiaGphQzJfT1A1S01rNTk4SkhNX01hM1ZmZjVPckpPSGY1dmduTjNYcV92ZFQ4MThtb0ZYUDRiTHpBdGtvQnZuWVRPTlhxWGVaT0FMM3ZhcEs2a2E3SEFQY1YtN2lZZkpIQXIxRVduYktjNFZXU083YTBRY21xSGw0cw?oc=5",
+   "source": "unchainedcrypto.com",
+   "type": "news",
+   "published": "2026-10-28T13:45:00+00:00",
    "first_seen": "2026-10-28T17:02:41.238816+00:00",
    "topics": [
-    "RWA",
-    "DEFI"
+    "RWA"
    ]
   },
   {
@@ -1991,6 +2368,18 @@
    ]
   },
   {
+   "title": "Moody's rates Ripple's RLUSD stablecoin investm...",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2ZNNHRTU1gwRlhFSTQ1aDZtU1FCM0Roel9sSnR0UEFwUU5LVjhNMlhMT1puVnhZZk8zbFJUZTBCUngzX0I3ZWJ4b2NQbklCZ2hUTG8yb2NBaDljUkppQUQ0NWpXUWJRaGlpYzBpMjllTTNTS3M1VU1VY3pNZ2pwVm1WZy13cDFXcmMzNnNiM0ZnSE0zMXdaa1NTX2tyUnE2Qzl2Vi1zNFk1Vm5u?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-10-28T13:31:12+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ripple"
+   ]
+  },
+  {
    "title": "Samara Asset Group CEO: Bitcoin Treasury Companies a \u201cDisservice to Shareholders\u201d",
    "url": "https://bitcoinmagazine.com/videos/samara-asset-group-ceo-bitcoin-treasury-companies-a-disservice-to-shareholders",
    "source": "Bitcoin Magazine",
@@ -1999,28 +2388,6 @@
    "first_seen": "2026-10-28T17:02:41.238816+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Crypto Price Analysis, ETH, XRP, PEPE, HYPE and NEAR, October 28: PEPE Gains 14.5% as XRP Clears Resistance and Hyperliquid MACD Turns Higher",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRVRSOFlsa2JUNFhaYWhrV3RUc0RGZlRnOUtEUjBBQ2dvZU5NT213a3JFOVFGUzUzYWE2X2RZbXhJS0I5UUVBMURHSVdTeHJnV2l1bTJwbFBDVGxHNDFwbHJONXJmbjAtYVVXZnhfSTVmMVM0MzRmdENtQnRsT1I5amR1YjNQZkhfQUF1bmdJX3ExZE5IU3JDZ0Rrb2pWdXp0N3ZCSzE1RldIWE5fb0x6OUs3Zzh1SUs0WHZ6Yl9MVHlxaUF5WFRVVlFKUng2b1BwelRqVGg5eWdMLTRjLTRuRndxenM5TjNjajByNHFHQ1dpQ0hDb1hLSGxpNjVFYVA3UGc?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-28T13:24:50+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Circle Ventures backs South Africa's CrissCross in stablecoin payments push",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGpFN0JiWmY4Tjh1ZGVkeWZuRlJ2SnhVbHNfNlhkMllPUTl4QURyNVBGRV9xOUxVT0g2Xy1HcDBvNElmSHo4c0JQTElNaUZfQUdzSU43TUEyUEd1M25jY0dJNUdRSzdHSnhxZFp6bzZTdUFpM25SZzk3YXFZdnRwXy1FdW9DOWRKWm1hc0U5eGU1YkVhRnVEU0N0Y2Q3anB4aHdiSHEtZ1lVVzRwOUE?oc=5",
-   "source": "Dealroom",
-   "type": "news",
-   "published": "2026-10-28T13:20:05+00:00",
-   "first_seen": "2026-10-28T07:17:23.516657+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -2047,15 +2414,14 @@
    ]
   },
   {
-   "title": "Fed rate decision at 7 pm: what decides tonight",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMUdvbXhKMnAtOTBRNFllczlQTXU5RFg0OXU5YXh4NUIzS1JsSE5jVHNVd2dHekVQemVRLVgzdC1rWEVoYmlRaGx4M0F4TWxrZndtdExBOFo3WkJtVExHWHRXTUhJRmV3b2dOc1lwRVJNS2l1UURYNmlmX21pcEp5S3h3?oc=5",
-   "source": "CryptoTicker.io",
+   "title": "Google previews crypto security service for financial institutions: what to know",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzdUeFJiaEFGUEludUVyeFZVa2IyOUVtdlRVSE1zWi1qbWVnckZwUHVrSm9HVlp2aGhyWXg3cU5VUzROOUVlbGFFZDdWbmtGdTY0YmZOVVkxb1ZMbEdyTWhqLVhReG8zakp5alB0NkQ4X0pXQ0MzZmRldVA1NHpEWkF2dlZpeDVUWUJLbHhzNndtWXZGSWZHVTlfSGpub2VUV3hRTkg5UnQ3My1CLUhNaEttQVd2MEh4aVR1NUpR0gG6AUFVX3lxTE5veHY2M2VtQ0x2VmV3a0pQblh0YnU4REw1QlhPeGNwZnRfby1zcEZpN2stbHAwRzZwSlFiMmVmVlMtWmJzazRCZjRqa1ZLOUR6RENEU0lKTi15NlZyU2V3VEhacS1FM0hYYnR4M3pMd09oRTNCamtGMGVGcDFFcTEtZUNnZm9ROGNRQ0J3TkRoSTMwVWVJUkFVVDczXzFvNGFBUndZSTUtbDdCWkoyQnJvOUNyWVNaRkRqUQ?oc=5",
+   "source": "The News International",
    "type": "news",
-   "published": "2026-10-28T13:09:33+00:00",
+   "published": "2026-10-28T13:11:00+00:00",
    "first_seen": "2026-10-28T17:02:41.238816+00:00",
    "topics": [
-    "Fed",
-    "Rate"
+    "Google"
    ]
   },
   {
@@ -2067,19 +2433,7 @@
    "first_seen": "2026-10-28T17:02:41.238816+00:00",
    "topics": [
     "Ripple",
-    "Rate"
-   ]
-  },
-  {
-   "title": "Will XRP Holders Gain From Ripple\u2019s Moody\u2019s-Rated Stablecoin?",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHI1aVQxSmJidFpwdFhzSm9wNmNXRjlrMTFZbzBCOGNBV1YzZDdrUnp4cS1SbG1BY0NQRWNDcHI3NlU2aU9HZjNHUHBMajRPWmQ2SXVpY3d6ZWMtTzhUdVkyZWtGQ29mVFZEU2Y0Tk9UQVQxN2Uxa3ZhSFJyZGVLcVJyZVNWckM1REV5cE9NeHZpb0VVSUx1RGVR?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T12:59:50+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ripple"
+    "Fed"
    ]
   },
   {
@@ -2094,25 +2448,15 @@
    ]
   },
   {
-   "title": "Google Debuts Crypto Security System As A.I. Threat Intensifies",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXJLeUx3R1JxRTlBa2NoeWRSTWVfaHB4eUlDQk05Y196TnNiLUotbzhTeGJpQ0wzbnBkMENVOEJNYS1fUVFONlZISURoTVBuTXlNS1ZGWFpnb1ltTnJNUXg4b1NubU42ZEZRUFp5cmNtQVNBOXIxU2VUQm1veWdISmlwdTJ0S1g1WW5PT3otVWdHNmtKV0hfN1lmdTBMNzNGQk5V?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Will XRP Holders Gain From Ripple\u2019s Moody\u2019s-Rated Stablecoin?",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oODhaNVhKVmVXNEpCZ1BmRGlVXy1KTXcxNEJYRmhyZl9YM1ByN1luZTNnU3hrbzVxRkFDVjBxY3BQQ1lFWm9TYmJsYkdFNGE5WGZZTlZjVGQ3U3VfUEZwYXIwT2lEMVlpVWhtbA?oc=5",
+   "source": "BeInCrypto",
    "type": "news",
-   "published": "2026-10-28T12:54:00+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
+   "published": "2026-10-28T12:59:00+00:00",
+   "first_seen": "2026-10-29T12:06:05.541471+00:00",
    "topics": [
-    "Google"
-   ]
-  },
-  {
-   "title": "Google to Launch Crypto Custody Security System as AI & Quantum Threats Grow",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmVId1VyR0pCUmtsdFR0WUdVaWIxV1R5aGRURXhhazlMbkprSjRvNE1YWGt1SGllZVZ1aWVpSkdaMnlJbjVSWkQ4ZTB1bEd3Y1hfS2k2TnlCdXdKYXZ0bHdOSmhzRGhKVDVTM3RHUlBjOVgyVjhCVG44V2N0M2tyS0psMkk1RUE3bmxfUC1DenhseGE2YzhjekF4RVFMQk1vQVptTw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T12:47:36+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Google"
+    "Stablecoin",
+    "Ripple"
    ]
   },
   {
@@ -2127,28 +2471,6 @@
    ]
   },
   {
-   "title": "Google to preview a new crypto security system as private-key hacks mount",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZks2YVpRNDRuYkVwb2lnaC05RHRTczN4SUVIM00zdS1GdWdIOXpadC1KclUwa2FLTzZVMnk0b2hRMnA2V3VnVkdNdTlVSDNjQnp0Tk5jcDhGdEtlUUdEazFpMFFRaXhHUi1sbnN2Wk9mM0ZIUXBMRzA3ckZVdzZEUi05SDVGTWp2aTBMNmM5MHNmNVFKRUVfSFg3TERSRzJseS1jNHFXNk5FYm1y?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-28T12:35:54+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Google"
-   ]
-  },
-  {
-   "title": "Google to Unveil Institutional Crypto Security System, Targeting Commercial Launch Early Next Year",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDR2FmOE1FRGljVUpPRFVIc3cwc3BPNUtkWjU0cTgxWE1yZkdHcjNtaDBOWVROLVlGUXlER05FZVhaTFVjd05McHpqN0ZVTmJ6QXFBVQ?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-10-28T12:28:00+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Google"
-   ]
-  },
-  {
    "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
    "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
    "source": "Decrypt",
@@ -2159,406 +2481,12 @@
     "Stablecoin",
     "Ripple"
    ]
-  },
-  {
-   "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
-   "url": "https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-10-28T12:04:56+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Bitcoin Investors Beware: Analyst Warns of BTC Price Crash After Fed Meeting",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdV9MRnhzUEJHWHA5REN3dUsxU0pNbG5lZENrZWp4c2pMbG9ISFY2bG10MFEyWEVHN2RLTU1wc21nX0J0MmhwN3NlQlJBODlKemVzVkVLMkxTRDhPODdTbms3VVotaC16aWl5YjZPNHdwbVBfUEIxZEEteEJpQXNzZFplM2JhaDUweHdfTl9jM2VvNXIyRS1CYXd4dW1oZ2doSDNlRjB2ZENhWjdoWl9ZemFYdw?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-28T12:04:18+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Bitcoin",
-    "Fed"
-   ]
-  },
-  {
-   "title": "3 High-Potential Crypto Projects: Bittensor, Ondo Finance, and Aave",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalkwX0RkNU1FN3dlYk95ZWFTNWtZSGhrNmUyOXNUTmRWSVFMTXZlTG5lcmpxV3hFNURVZ0hVaHJGZExYOXdhWEsyMVZXc2VIX1c5c0xYVWNJY2NsWl8wOEgxR3Q1NW4wZFY2Sll1R1hlZFg0NXZiQnFjWmg4bTR6N1NWOE1jRWZVSHl5a3lOdXBXXzNIdnJYR2tuZUk5bk0?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-28T12:04:01+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Google previews crypto custody security system ahead of 2027 launch",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbGRTME5UQUpFeXp4ZkpsUU5tdEptdkpYVXBHa3B4Tng5Um9qTVlWcXhpa2E4WExfRm5FWmttMXZnTm9mRVF4RTktb0p3U0tVTUo2SjNMaWJyYzB6YTZUNE5HQXVGTm5HV0VBRw?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-28T12:03:44+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Google"
-   ]
-  },
-  {
-   "title": "Coinbase adds Ripple's stablecoin to its exchange",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGZIUnBQejVCVjRDQzR2YnhMWEdVNndXMXdCcDh5UUs5UmZ2ZGJ1eTRnWHlhNEZqOFgzamU5MmlPdEdJcHBtR3F0TmxROUFCZE55TGdYajlaaWxUbG1YTUM5c191MllsMmRMT2ZUR1NrNFl5QzBWNjVTMmFLSFhfR2NKS0xBbzhrTU90eXQwaGtnVzVXTzZUNk5kTVB4YkdabEZN?oc=5",
-   "source": "Reuters",
-   "type": "news",
-   "published": "2026-10-28T12:02:23+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ripple",
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Google MPC Could Reshape Crypto Custody: Fireblocks Security Flaw Draws Attention",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWklJODVmb3VGaGlCSE5ZSnVzZTJ0Mko4M3N1aGowVS1DVFptaDFlaFV1X2VZMEpJZEFZZEkweDloWG9OTmN4aEJMRGdLeXU5Vm1PQVlIc0xlOWVRNTBfS1lfUHJ6UDd5YjVKMEpHYTlxMUV2c0hsVlRid3BPVXNJUS1DTFNqZw?oc=5",
-   "source": "Cryptonews",
-   "type": "news",
-   "published": "2026-10-28T11:57:50+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Google"
-   ]
-  },
-  {
-   "title": "Dissent and more: 3 things to watch for at the Fed meeting",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-28T11:57:26+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Fed"
-   ]
-  },
-  {
-   "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-   "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-28T11:52:14+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Google Crypto Security's MPC Service Launch for Institutions",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFWkVzMVlqQmpXN043Z0w1NGxWb294eTd4cnByVHBqUkVMeXQ1UFd4aWtpQ1JzRUlnclZiU0MxNlQtbFotV1ZESGI2S0ZWNjBlc3JOUHdMX3kyX0VlT2pSb3JHS1V1bmJDSHIwdjdUbFRmN0E?oc=5",
-   "source": "The Cryptonomist",
-   "type": "news",
-   "published": "2026-10-28T11:39:11+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Google"
-   ]
-  },
-  {
-   "title": "Tokenised Equities could unlock new DeFi investment strategies",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0JGSHR5NTBBWV9Nc3NNbVhnd2NmS1pvUnhMSUozcFpLcWtUX3Q4bk54NWk2RWpLUE51bWxMTklPd0kzd2xhZnE4TVZ6Z2U0c2hQUWQ4MnVhelVaSGtiNWZmYkk5OGNuT2wwWGNxWTRXY1BwdjlYdDRnWThya0dWdEVpSzlrRzE2VlVYQVNhYXNkNzVjNmJSazBOT1lFcktSVmI0?oc=5",
-   "source": "IBS Intelligence",
-   "type": "news",
-   "published": "2026-10-28T11:34:42+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-28T11:32:31+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ripple Brings RLUSD to Robinhood as Moody\u2019s Rates It A2: How Much of This XRP News Reaches XRP?",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TbkVOSUJZaU5yR05SYy1Ma2NuWGRhYURQRzNZZ0lmdncyZnNERi1JczR5NnRZdzhmM0twX2xHN05vVE9sTzJJdjc3T0E5ZWJIZmFjU1BXYWI1WnJHLU53RXl2SUItUzRnMmxBZ1BrSEx5SnBzRGd2WA?oc=5",
-   "source": "99Bitcoins",
-   "type": "news",
-   "published": "2026-10-28T11:28:39+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Ripple",
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Mirae Asset Securities Issues Six-Month Floating-Rate Tokenized Notes On Solana In Hong Kong: 5 outlets compared",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNamFjdHFhWEZFY21HUnNsb1E0RF9qQUtQUS15eGpiNWpsYXVobEtadmdTV1lrQ3ZGRng0YXhvNmp3aFRLZG9vVFp3UFhnaXBXX1FBR2tINVgybFFLeGVlNURRNlFsTTRweVUxTkhEdzNyVVFJTC1aWXRiUm9Ia2NCRDhCWTRWVi1nQ1FrcEozVkxlSGQ3RUc3c3BOdWUxYkxpdmJrWVZPbUhtN2xPZ1FTUlprQjBqWjZVOE1UdF9zX0R3NnpveTVwbWZBUHR5ZGxQMnotRmZwMFhKalBudHFFa3BCVWg0WjVs?oc=5",
-   "source": "NewsCord",
-   "type": "news",
-   "published": "2026-10-28T11:28:05+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "RWA",
-    "Rate"
-   ]
-  },
-  {
-   "title": "Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates",
-   "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-28T11:23:34+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Bitcoin",
-    "Fed"
-   ]
-  },
-  {
-   "title": "Bitcoin Heads for Another October Loss as Demand Weakens",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1JvaV9KWVcxOWVQSTJKZmd3MlZBa0dWeVZGZ0dMLTUxU1JoU2cxcUZxUWI4OXBPYnlFZFYwMjNLQXpQOGJRLXM2ckNFcUoxdkdXbks2U1RuSGswZkxReHk3dWFfRFF4ekdDZGZKVjF0ZTVPY1d0UzR5SjY5Z1JSekJOTEpBWTQxQllyR2pHcGJoNEtPYzRsZVVR?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-28T11:14:01+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Robinhood Stock Drops Despite Mizuho's $130 Price Target As Crypto Revenue Falls 55%",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWswYi1EemdOUVQxdXkyVnYzRFM1bTRXYjlHMUNlSDdEdm00SnBsQWNJdWkxNERjc09iX1cxT05YWTliYlU1aERfUGw3Nk5CWnFUMHUtOUhPQUhLeVJXZ3VIWV9YMjVXOVBMbmJwdm5NclpLQ3BTOS1xUEZPeWxEZTZxWU9sVDB5SGxFcmNQR3lIazRjYk4ySWM4QV93SWFqdlJMVQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T11:10:26+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Robinhood"
-   ]
-  },
-  {
-   "title": "Mirae Asset Securities issues tokenized notes on Solana",
-   "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-28T11:05:33+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Google to preview crypto custody security system as AI threats grow",
-   "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-28T11:00:00+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Google"
-   ]
-  },
-  {
-   "title": "Matrixdock Expands Its RWA Strategy with Silver Token XAGm and FRS Framework",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnJTU25LaHd5aFR0WUJ1dVlCSjhidjNHZmVEY29uWWh3VHRwMlFPb2dEeExXZmN4X1ZnVjM3elNfWjRjdXcyUTUxZWVYV2lGV0R4OEtDWGR6Q25odl9ick4xVDhrSjBLb1cxTU5DOTlOZGRWWlVBRS1YdF8zNDNwSlhnWkdEbWpXVUlPQjZlTm45dnBaLUJYTnJsVHRCZzhrNTNiNmxMck00dw?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-28T10:53:08+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-   "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-28T10:41:51+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Securitize Adds Stellar Support, Accelerating Race for Institutional Tokenization Infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56OGdQUmxpYXFwU3RRX08tNC1ja1F0dVp3dEltelUwVGZWNXRqRmVXUlViaXh4ZjZyajZaRFBUeFN2QVNGa056M3FmU1dCUFBmbWhicXhPeEstc3oxNU93c2h1WERMYkhyWjZIMVZ0UHZzY2VNYXc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-10-28T10:26:00+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds \u2018Not Impacted\u2019",
-   "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-10-28T10:10:31+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Securitize Adds Stellar to Supported Blockchains, Expanding Tokenization Infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wV2llTU9TWFpESUx3bVJ0QVZ6WWhrSWowRWZnVmctcERDTUVuUE45SVVjdUdZUy00Ty1xTUp2V0YwUTEwNUZjcldNZ1NDYW9taXBNZw?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-10-28T10:02:15+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-28T09:56:00+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Reclaims $81K Ahead of FOMC Meeting, M Pumps by 12%: Market Watch",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRk9scTlfb1lHcDVoN2ZlWElmMDE1WTFrUHJDYmVhN3NreXZ6Y1o5UlN1VzFXU1lTQ3JQQVYtLU9OczB4c25sa2NZWHNxcm5sNi13cHdSSmR4dVZlMUVOOWtBdlBySERzVmhKZlR5MWhQa1YxSWdKNFFqZ2ZkTVY0YU42dndleXFIX1BaNWVfNHFQaXNrRHdBNG5ENk45VDZtSDZvTlBlUGhLam8?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-10-28T09:32:24+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ripple\u2019s RLUSD secures A2 investment-grade rating from Moody\u2019s",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1teVNFakVxYVpMYjJZTkJwT0VDSHkwT0l0NVVvXzh0Q0xOVWhQOVlVangxZTFaLWM5T3hZcUJNVDVDWGJoUGNlZXM3ZWIxc0dwcmpEMVJ1ZWp2LV84aGxDWHpPcDJjY0NUUEQ4a0tlX0wyZw?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-10-28T09:16:42+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Ripple"
-   ]
-  },
-  {
-   "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-28T09:15:22+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Moody\u2019s assigns investment-grade ratings to Ripple\u2019s RLUSD stablecoin",
-   "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-10-28T09:15:20+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ripple"
-   ]
-  },
-  {
-   "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
-   "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-10-28T09:00:00+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Jack McDonald Says Moody\u2019s Rated RLUSD A2 Long-Term and P-1 Short-Term",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0QXduZnFzN1ZLQTU3MUZmS1FPQm1iczd2Vkc3V0Y1NkVvdXVvVVk3bXRuTWEwd2hKS01ISzlRdXBHOGlfa2VQOHRpcDZJa3BNNDF5b3h2MTI?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-10-28T08:43:46+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Ripple"
-   ]
-  },
-  {
-   "title": "Ripple's RLUSD Stablecoin Receives A2 and P-1 Ratings from Moody\u2019s",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakFsQ2daVjRmNmxBXzc3LW5UTFU1MFdpR0dnVDVRQ0NGZUpURlkwNU81SEJaYXhta1ZqczJiT1dqdFI1Zy0wSklWeUl1eENEREdKZU9xcWRsZV9ibGlXMGlJTklibjFHcUZoTE1ZUXEzZ09ZLURTY0xFbWhHYUR6dERvVC1GTXJ5NEI5MmVLOGR1RFdpdzU4VmwwU3Rycm40UGc?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-10-28T08:43:11+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ripple"
-   ]
-  },
-  {
-   "title": "Coinbase Hit by Another Data Leak: Are 70,000 Users at Risk?",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzF0d3NuaXlFMjFkcmV0NU1BVXNMTmE1VHhmUzlVODA0MDVuaTRkc2tCWjcxZks0UDVIOVpQZEU4cXN2UTc1OWFQbWJlR0VFU0VHWlE0bVV6dWVrT1lfUTVaajRPa0RLWjJlMVdoSHo4ZEhiMTVmQUJLcGliREZZVWo2VG1YclFjbUVsd2hUa1ZKRklxT3ZPWmtCWQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-10-28T08:39:07+00:00",
-   "first_seen": "2026-10-29T07:03:41.184209+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "90% of Real-World Assets on XRP Ledger Remain Non-Circulating, Evernorth Analysis Finds",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByRlFhSm1MYzNyY0FlTUh0ZnRsUkI2TVJXT0NUbENvRzFxYUFGUGlsOF9FNUEtODBOZlRvQ05MYlRLbjh0bjRRYXR2X0RsVmdmcnQ5SUZlaVFSY2FwQWN0a2xlb2lpeXgxNUVEUk13OHZacDVZYlE?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-10-28T08:25:00+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-28T07:57:18+00:00",
-   "first_seen": "2026-10-28T12:05:32.884403+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Coinbase denies systems breach, says vendor exposed customer data",
-   "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-10-28T07:42:55+00:00",
-   "first_seen": "2026-10-28T17:02:41.238816+00:00",
-   "topics": [
-    "Coinbase"
-   ]
   }
  ],
  "stories": [
   {
-   "title": "Moody\u2019s Assigns Investment-Grade Rating To Ripple\u2019s Stablecoin",
-   "outlets": 26,
+   "title": "Ripple\u2019s RLUSD Earns Moody\u2019s Investment-Grade Rating in Stablecoin Milestone",
+   "outlets": 27,
    "topics": [
     "Coinbase",
     "Ripple",
@@ -2567,11 +2495,25 @@
    ],
    "items": [
     {
+     "title": "XRP News: RLUSD Secures Moody & #8217;s Top Rating as Coinbase Adds Support",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92S2thbHZIRERvSTgwaXFhUldXeFZ1WkxScHZKYzFkQm9xQUdYeHJ4aTI5SHc0U2oxRWhtTEtnbFNweWd6cWtQS3ktaXJkUWVseEZ2aEN1OWtmenZVSXNWU0tSZ2NpWkE5enVZWE9rU1g0ZjViOXJ2NUpIdk9xdw?oc=5",
+     "source": "The Market Periodical",
+     "type": "news",
+     "published": "2026-10-29T12:01:37+00:00"
+    },
+    {
      "title": "RLUSD Receives Moody's A2/P-1 Rating: First Investment-Grade Stablecoin Launched",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUFVaTi1mMG0wdmU1eHdXR3JYN3U5UDFxZVdtbzJ4bjJxbkRYNlZhaFdXX0NBd09HY0psVVFxM3JDUVVnU1pyMG9PXy13QksxRHl3eERzOTVaS0I4SWFSYk9fZE15dEJoaXc5OC1lSGZBQnhvZFBGUkJJOFNNb056blFTUDkyTXNnNUlNbEdLLUpXVkpDcjF4cGNtX01RUQ?oc=5",
      "source": "Moomoo",
      "type": "news",
      "published": "2026-10-29T07:26:34+00:00"
+    },
+    {
+     "title": "RLUSD Becomes First Stablecoin to Receive Moody\u2019s Investment-Grade Rating",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkVkQ2VIUFcxbk1ZdmxOWFFOdFQ1aWp3UnpWUGRMMTFiY3dFd1l2SzlDNWVoc21TUWRHVGQ1ZEM3cDU5TVNoV0s0bThySGRpZ0ZROFFrTzFhZUZ3YVJWVG9RN1VsZDFaNVdwVnViNkVYZ3VIUk1BblBpV29zQzVubEhlMHhyZHJjYlpTbXR3U0N3Q2hhNWF3UzF0TWNRWnJxSnJ1eVQzQl9UWDg?oc=5",
+     "source": "KuCoin",
+     "type": "news",
+     "published": "2026-10-29T06:15:27+00:00"
     },
     {
      "title": "Coinbase Adds Ripple\u2019s RLUSD Stablecoin Across Its Platforms",
@@ -2616,25 +2558,11 @@
      "published": "2026-10-29T03:15:00+00:00"
     },
     {
-     "title": "Sony Bank Gets Conditional OCC Approval for $40M US Stablecoin Trust",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlZwVnJrOTVud0k2Z0pTQ0t6Yks4Z3g2b0M1N3FJY2ZHcmNfbjE2RWJPeVVpTnJlWHR0SmpfVEdMRnJRWm9zaFRETUJOZFBLNFJnNWRJNmpfTzI3MkY1bzRucnhWS1ZrTE5NWDVja016NW45akFxeUhVTmJ6U3paWHAtcmFpdC1rVWVTV1lJd3JaZGg2QlE?oc=5",
-     "source": "CoinMarketCap",
-     "type": "news",
-     "published": "2026-10-29T02:37:03+00:00"
-    },
-    {
      "title": "Ripple Adds 'Always-On' Returns as Its Trust Bank Wins Final OCC Approval",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQai1MLTN0MFNvekVyZEYtSWZFdHluYl9YUmRxajQ2TENtbFV6OHlsQ1dXUkktZjE1bmtMRkFkWXBsakhDdF9HdERhN18xeFdCdFhXWXUwNldZRmd3YS1MUXQ0Vi1iLWJERk5GZnFCeTRnOWpmOHFPYl9ZUW1mdUxidWJaRXl1TzJHbkQ3WTJGNjR0OVNfc1dRdDYtbnJoX191UVVlZjR4NDVFejhm?oc=5",
      "source": "Blockhead",
      "type": "news",
      "published": "2026-10-29T02:07:57+00:00"
-    },
-    {
-     "title": "Ripple Partners with Coinbase to Expand Distribution of Stablecoin RLUSD",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KUUR4Ni1JMGtheTA3U2JlX1B3U0dFVm9MdzBRRkFVTEJ6ckRyTGNqYlpHalRLdVZzS3Iwc2MyUVJXLS1JQnNIajh5Uktyc1dpY3p2R2c4ZTVSbjc1MW9ERUdUMVJtU3BwM1N2UElXTHVqOGhXZFE?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-10-29T02:05:00+00:00"
     },
     {
      "title": "Ripple's RLUSD wins Moody's top short-term rating P-1",
@@ -2649,6 +2577,13 @@
      "source": "CU Today",
      "type": "news",
      "published": "2026-10-28T20:29:27+00:00"
+    },
+    {
+     "title": "Ripple lands Coinbase, Robinhood and a Moody\u2019s rating, but RLUSD trails at 1%",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmdOMFFzZ2hXYTRuUDhjQXVILS1EV1VWbVRUekxSOU8zZjd6VWprZHhZTWoyTktrbnZvamxUeXRLemp5NEctQ09CcHJaLUZyNVFENXNGZjhmSjJ2R2h2YmNDZXAtX3NJa1lWak9PNkJUdng0UXFkeURtNEJYaThXbw?oc=5",
+     "source": "Cryptopolitan",
+     "type": "news",
+     "published": "2026-10-28T19:15:00+00:00"
     },
     {
      "title": "Moody's Hands Ripple's RLUSD an A2 Investment-Grade Rating, a First for Stablecoins",
@@ -2686,13 +2621,6 @@
      "published": "2026-10-28T17:07:44+00:00"
     },
     {
-     "title": "XRP News : Ripple RLUSD Goes Live on Coinbase",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXYTlmTURUb2lKaDgzM2sxaWdkU0lLMDZnd3hEVU9XdzFobG1jUHBQNXpscTdDU19HckttZHZWeWxNcnNwV0dGT3V4TkN5RWRVY0YyNUJZa2F1MHhPdjhqSGRvOFpBTFJsaTg5akdMSEtoMkZwb0VNYWl0WdIBgAFBVV95cUxNQXdKbWZ6aDFJdEhNN09SdmNKSHFmZUpVVTJGb1lLQjUwRThrYXRpcHlIVUQyOFlxV3BncFhCUHJhMXUwYzl4RXBVby1EdVQzam5ZcElscDM4OEZURW9VejlLdmxKdGJralEyZmk3a084UE1JS3JfenBlSjV4VlBWVg?oc=5",
-     "source": "Coinpedia",
-     "type": "news",
-     "published": "2026-10-28T16:51:03+00:00"
-    },
-    {
      "title": "Coinbase adds Ripple\u2019s RLUSD stablecoin across retail, exchange and Prime platforms",
      "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
      "source": "The Block",
@@ -2714,6 +2642,41 @@
      "published": "2026-10-28T15:10:07+00:00"
     },
     {
+     "title": "Ripple\u2019s RLUSD Becomes First Stablecoin to Win Moody\u2019s Investment-Grade Rating",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjJaZTZmSGhOdWswSnJocDlRYXdhS3RPVGlfdEZqR3VobUx6eUFYS20zOVREWkRWZTdubFVxZDVTak9jLWUzSWFLZ2Z6eXlsNGFveEFXMVBCNXlHNGFlZXFwVVkzMURPd1RndEhUQXl6aU1XbVpPQ0hjUEhNQ2VWOGdzQW5xSVo2a2tPa3BJQ09WeTdVM0Q4MHhvbU10QXhJTEc1NEpZU01hR01uNUk0d0hLMA?oc=5",
+     "source": "CoinCodex",
+     "type": "news",
+     "published": "2026-10-28T14:34:00+00:00"
+    },
+    {
+     "title": "Ripple USD stablecoin earns investment-grade ra...",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2EzM2ZDWFJmeGVDNDU2SVBMWVVZWUFNT0Z0RjRFT3E5SlU5Umhoc0xwVXAydkNBRjQ4WURCYnRwS1N3dTBRMnQzMXNwc3FrRDdFRmpQUmVoYldzbS1zbU5ITEJHU1ByQmRBbFpKbE9aUHZoUmlRMDBvZTJtQ3lGN2ptd0ZqbmoxTXViVDYwS0luWTQ?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-10-28T14:06:17+00:00"
+    },
+    {
+     "title": "Moody\u2019s Gives Ripple\u2019s RLUSD Investment-Grade A2 and P-1 Ratings",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtbmhzcHZaWEgxNGduUFdraVE4VW9BWEkzVVdIUWZjaXFINkI0S3l4bmVBeG81WFpONE5hS3pXRGQ5Wkk2ZmsxX1ZVVGFGdk1nampNQXJjUDdVbnFrS2ZoTHIybjdQdUw0UUZ5QTZEcmt2bU1ma0lHc01pc0h3Zw?oc=5",
+     "source": "FinanceFeeds",
+     "type": "news",
+     "published": "2026-10-28T13:58:48+00:00"
+    },
+    {
+     "title": "Moody\u2019s assigns investment-grade ratings to Ripple\u2019s RLUSD",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWhNdk51OGlGNHVyZDV1bTZHUTFpS0h5RVRBVWxsVmRCUzhldEJCUU9qYnlqei1NaXY2SEljU09nazVtMHFrWjVQT0FKTjNfbUxtY2d1Z3VrSFp6RVVXYWRYR09Sem9pdk9pb2VCQzlvOTBvTzd4YTIxZm02c0JkZk10cw?oc=5",
+     "source": "Finbold",
+     "type": "news",
+     "published": "2026-10-28T13:45:22+00:00"
+    },
+    {
+     "title": "Moody's rates Ripple's RLUSD stablecoin investm...",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2ZNNHRTU1gwRlhFSTQ1aDZtU1FCM0Roel9sSnR0UEFwUU5LVjhNMlhMT1puVnhZZk8zbFJUZTBCUngzX0I3ZWJ4b2NQbklCZ2hUTG8yb2NBaDljUkppQUQ0NWpXUWJRaGlpYzBpMjllTTNTS3M1VU1VY3pNZ2pwVm1WZy13cDFXcmMzNnNiM0ZnSE0zMXdaa1NTX2tyUnE2Qzl2Vi1zNFk1Vm5u?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-10-28T13:31:12+00:00"
+    },
+    {
      "title": "Moody\u2019s Assigns Investment-Grade Rating To Ripple\u2019s Stablecoin",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeERKZXoyelF0ZmphMlQ2N29hTmlKTlJfRENucFVwUlRRdUJWVldHSUtSeGlVQ0t1S21ETUV0WmZlRTRqY1VLbFNlUl9Ua2k0XzQxcS1NRVVPVkJrT2xVWnpoeEplbGlhaEh6SVg1RkhLTWhNOEoyNllmUkFxZ1VpeFdUQ0ltbThOd1NITkhrM0lKNFN6UGgwVDktcGlTTUhzSUtjNQ?oc=5",
      "source": "Yahoo Finance",
@@ -2722,10 +2685,10 @@
     },
     {
      "title": "Will XRP Holders Gain From Ripple\u2019s Moody\u2019s-Rated Stablecoin?",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHI1aVQxSmJidFpwdFhzSm9wNmNXRjlrMTFZbzBCOGNBV1YzZDdrUnp4cS1SbG1BY0NQRWNDcHI3NlU2aU9HZjNHUHBMajRPWmQ2SXVpY3d6ZWMtTzhUdVkyZWtGQ29mVFZEU2Y0Tk9UQVQxN2Uxa3ZhSFJyZGVLcVJyZVNWckM1REV5cE9NeHZpb0VVSUx1RGVR?oc=5",
-     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oODhaNVhKVmVXNEpCZ1BmRGlVXy1KTXcxNEJYRmhyZl9YM1ByN1luZTNnU3hrbzVxRkFDVjBxY3BQQ1lFWm9TYmJsYkdFNGE5WGZZTlZjVGQ3U3VfUEZwYXIwT2lEMVlpVWhtbA?oc=5",
+     "source": "BeInCrypto",
      "type": "news",
-     "published": "2026-10-28T12:59:50+00:00"
+     "published": "2026-10-28T12:59:00+00:00"
     },
     {
      "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
@@ -2733,156 +2696,30 @@
      "source": "Decrypt",
      "type": "news",
      "published": "2026-10-28T12:16:30+00:00"
-    },
-    {
-     "title": "Coinbase adds Ripple's stablecoin to its exchange",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGZIUnBQejVCVjRDQzR2YnhMWEdVNndXMXdCcDh5UUs5UmZ2ZGJ1eTRnWHlhNEZqOFgzamU5MmlPdEdJcHBtR3F0TmxROUFCZE55TGdYajlaaWxUbG1YTUM5c191MllsMmRMT2ZUR1NrNFl5QzBWNjVTMmFLSFhfR2NKS0xBbzhrTU90eXQwaGtnVzVXTzZUNk5kTVB4YkdabEZN?oc=5",
-     "source": "Reuters",
-     "type": "news",
-     "published": "2026-10-28T12:02:23+00:00"
-    },
-    {
-     "title": "Ripple Brings RLUSD to Robinhood as Moody\u2019s Rates It A2: How Much of This XRP News Reaches XRP?",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TbkVOSUJZaU5yR05SYy1Ma2NuWGRhYURQRzNZZ0lmdncyZnNERi1JczR5NnRZdzhmM0twX2xHN05vVE9sTzJJdjc3T0E5ZWJIZmFjU1BXYWI1WnJHLU53RXl2SUItUzRnMmxBZ1BrSEx5SnBzRGd2WA?oc=5",
-     "source": "99Bitcoins",
-     "type": "news",
-     "published": "2026-10-28T11:28:39+00:00"
-    },
-    {
-     "title": "Ripple\u2019s RLUSD secures A2 investment-grade rating from Moody\u2019s",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1teVNFakVxYVpMYjJZTkJwT0VDSHkwT0l0NVVvXzh0Q0xOVWhQOVlVangxZTFaLWM5T3hZcUJNVDVDWGJoUGNlZXM3ZWIxc0dwcmpEMVJ1ZWp2LV84aGxDWHpPcDJjY0NUUEQ4a0tlX0wyZw?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-10-28T09:16:42+00:00"
-    },
-    {
-     "title": "Moody\u2019s assigns investment-grade ratings to Ripple\u2019s RLUSD stablecoin",
-     "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-10-28T09:15:20+00:00"
-    },
-    {
-     "title": "Ripple's RLUSD Stablecoin Receives A2 and P-1 Ratings from Moody\u2019s",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakFsQ2daVjRmNmxBXzc3LW5UTFU1MFdpR0dnVDVRQ0NGZUpURlkwNU81SEJaYXhta1ZqczJiT1dqdFI1Zy0wSklWeUl1eENEREdKZU9xcWRsZV9ibGlXMGlJTklibjFHcUZoTE1ZUXEzZ09ZLURTY0xFbWhHYUR6dERvVC1GTXJ5NEI5MmVLOGR1RFdpdzU4VmwwU3Rycm40UGc?oc=5",
-     "source": "KuCoin",
-     "type": "news",
-     "published": "2026-10-28T08:43:11+00:00"
     }
    ]
   },
   {
-   "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-   "outlets": 6,
-   "topics": [
-    "Bitcoin",
-    "Google"
-   ],
-   "items": [
-    {
-     "title": "Google Pitches Banks on Splitting Crypto Keys Across Clouds With New Custody Service",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVFCdjJBelc3VzdFd05NWXlJdHBDQ1d4NUhVOC1zRk5RZFp1ejdPcl9CQUpnSjlyS2JybXYwVThxQzBsOGdON2hwd1U0OUhlWlF2R3Bhc3VNa09xckdLcHNMYkU5MjZiYjJqWFN4YnJPWnprVGc2VC0tV3hvVlo2cDBteWgxVFU3VzhWM0gxa1A1RzhQMnI5WXlka2xqVkFSRVp6TG5zanZ4ZmlPTGRNRTlmMA?oc=5",
-     "source": "unchainedcrypto.com",
-     "type": "news",
-     "published": "2026-10-29T00:43:43+00:00"
-    },
-    {
-     "title": "Google Cloud Previews MPC Crypto Custody Service for Banks Ahead of Early 2027: how 14 outlets framed it",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZjdTYnpiU0w1WUZ0c3pxSnVTVWpQMTFfazFJQnJXZzAtMXQybnN5aDFrdk5IRGFySXplNm9UeXVUUm5xbG02bVN2MmZKRWNNZm1tR1R6SGNFeUNfWUJDY2llTEJJd1FULW1JMjdBaHI2NW45ZFM1Vy0wdjBKY2VuWGdDNHB2VVRSWmpxcncybGdiVjFoY2FmRUFUTGN3YWthcVE0QXk1bmotTFdWZ1NRZDFoWFdQVGRqX3FKUmpHU0JxWDNOREhZdFlyckFUOXV4UWlTWjc3TTAtY2YtNDJZS2FzamxIVmc?oc=5",
-     "source": "NewsCord",
-     "type": "news",
-     "published": "2026-10-28T17:19:37+00:00"
-    },
-    {
-     "title": "Google Cloud Plans Institutional Crypto Custody Service for Next Year\u2019s Launch",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3BobHhLT1JzS1NlelRfMXNvS1dxRTNyMzNldDRPa2RwVEtlNUpTRE55Nkx1akhKeGxpOTNPLXR5NDYyZ2xteU94S2hVOWh4RmZFcGRvcS1PYTM1aXhlSTVTY1c2ZXBLUzhKOWo4ZGUxWDEzSjV0cVZ6YkdrSy1vY1lmOFo1YmpvY0tGN2tBTy1PSjlkMGprYzRSVzU0aTNKWWVGenhuWXh4ZlFMdkd3cWUzSm9VX3VsNFFz?oc=5",
-     "source": "Finance Magnates",
-     "type": "news",
-     "published": "2026-10-28T16:21:00+00:00"
-    },
-    {
-     "title": "Crypto : Google Unveils its Custody Service for Banks",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzZzU2lLWFU0MW5GVTlZMnFveXY5cENhZEhxR19PYzJrYkJTUXMxczgtaHV6d2ljaXRFVTJlVzJyS1FvNUJPcW5ONTdBNUlFTG9sTU5PVHJQSzF3Rm02b3RMbjlJaUF6cjlJcGE4X0Q3RXlKd2lISU0wTGtrTk9ZUEU2VjNKOHFjZi0w?oc=5",
-     "source": "Cointribune",
-     "type": "news",
-     "published": "2026-10-28T14:47:26+00:00"
-    },
-    {
-     "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-     "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-10-28T13:47:51+00:00"
-    },
-    {
-     "title": "Google Crypto Security's MPC Service Launch for Institutions",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFWkVzMVlqQmpXN043Z0w1NGxWb294eTd4cnByVHBqUkVMeXQ1UFd4aWtpQ1JzRUlnclZiU0MxNlQtbFotV1ZESGI2S0ZWNjBlc3JOUHdMX3kyX0VlT2pSb3JHS1V1bmJDSHIwdjdUbFRmN0E?oc=5",
-     "source": "The Cryptonomist",
-     "type": "news",
-     "published": "2026-10-28T11:39:11+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin Tops $81,000 as Crypto Market Gains Amid Volatility After Fed Holds Rates Steady",
-   "outlets": 5,
-   "topics": [
-    "Bitcoin",
-    "Fed",
-    "Rate"
-   ],
-   "items": [
-    {
-     "title": "Bitcoin Returns to $81,000 After Fed Holds Rates",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzh4Ql9nb1NTdXEwd2U1SjhlSENJb05UM2ptaGNWb2Z3NjFlOTFGcEhmTlhka3doczhJckFEU1N3T3V4ZHU2LVhQanhYYXFtTkpHM1ZseGllbFpKbkZfNUhMVk1aYUs5V2tJXzVSLTA1N0EtLW5BR1ZISFhwaF9FS2dJWXBVT1U2WkRHcV9sd2FNSkhB?oc=5",
-     "source": "Moomoo",
-     "type": "news",
-     "published": "2026-10-29T01:55:06+00:00"
-    },
-    {
-     "title": "Bitcoin Tops $81,000 as Crypto Market Gains Amid Volatility After Fed Holds Rates Steady",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamVJT25NQkZpQzdXQUdJcVBBVVNLUzVDbFJ5WnVTRTdNUTdOM09hZlU2OGFrT0hhZ0lydElKLU5hZ3RLck0zMVVPMHJ5SjJtWkNaLXVKb3Z4QVI1U29QX3d5cXpta1hySUpfYmg1X0Q4d3F0TndQMUpGX21pQUxYR1dtU1dfN1IwVWlKVmsxdHNKOHB4Sm0zREQ4QVdWX3pSQlBhT014MFFPc2JHR3haZ1ZmeTFZZw?oc=5",
-     "source": "TradingKey",
-     "type": "news",
-     "published": "2026-10-29T01:43:05+00:00"
-    },
-    {
-     "title": "Bitcoin Reclaims $81,000 as Fed Rate Hold Eases Tightening Fears",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvY1BPRmVXSVllNXdMdVdFTGcwbjlTMTlkSnQ4Vl9VaTJzNjEtUUVFeHk1TUVzMDh3ZVd6akt4NUlCZy1XTmg5LUFHcW1tOFY4bEZqUzNjVlRZeUN0Y3BzXzFHemdxNDRBMUVYWEhVaE5wenlp?oc=5",
-     "source": "Businesskorea",
-     "type": "news",
-     "published": "2026-10-29T01:03:33+00:00"
-    },
-    {
-     "title": "Fed holds steady; Bitcoin rebound fizzles",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZLQnpyN1NwdnVWRlZBVG1pbmpZdGFwT1FOSDJjTl9VdTFFSWZfaVBreFpJcURvZzd1cFo0a0Fyc3VzeXpBLWQwRC1la0pEdUtjTjFRSjRrc2VDQlh2U2I0NkVSY1lWdG1UMkZiRmZIRFBfRmVqMmljZ2x0ZklfaVU3bEJxS29laE1Fdw?oc=5",
-     "source": "Moomoo",
-     "type": "news",
-     "published": "2026-10-29T00:30:17+00:00"
-    },
-    {
-     "title": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-10-28T20:03:08+00:00"
-    },
-    {
-     "title": "Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates",
-     "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-10-28T11:23:34+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Google to preview crypto custody security system as AI threats grow",
+   "title": "Google previews new security system built for banks",
    "outlets": 5,
    "topics": [
     "Google"
    ],
    "items": [
+    {
+     "title": "Google Builds Crypto Custody Security Platform for Banks",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3kwWGZJdk55a3RPYzM3VFZ2c0tfNGdaQzNLVUN5M0lUUWphX0pSR3daQXZHa0s2em1SVk9ITnhFSGtoTmtRRzUwMDZuQnNLTlA3OWlqcG5KZFRZRGwzdVNza1M0RTEyN3BNQ2d4aDJsc0VMRmVSM0tSX1VCZHoxNUtJZHBVRzNjNndTR1RMOG03bkx5UWc?oc=5",
+     "source": "Bitcoin News",
+     "type": "news",
+     "published": "2026-10-29T11:57:59+00:00"
+    },
+    {
+     "title": "Google Develops Crypto Security System to Counter Cyberattacks",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNckM1OEtsODJOWDdQRHpTMnJwRzZpTmhfUWg1Qy1tMFVCNEpPVUpTUWFGa1BqQUdMUU05Vm9WX1YxamJUVzhXUFBrSEswU052VTNTb0h6cXVqWmUzNHplZGdQa1AzdUxfd1Q0WFF6MnFoYkxncjA1TUR1LUE5MUU4Q052NlRMMkp4U2RLMXVja2FUcVowbFltbEtKVENrbUdWVk9J?oc=5",
+     "source": "Security Boulevard",
+     "type": "news",
+     "published": "2026-10-28T20:24:05+00:00"
+    },
     {
      "title": "Google Previews Institutional Crypto Custody Security System Amid Mounting AI Cybersecurity Threats",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmhGZVcwWGtJZ2F5UXc5MUM0UkhDY3NSbWJoVlRveXlFR0NaS3MwNk5CQXkwS2VTVE1SWFFESlBIYlJZTFVjblZ3TE9VVHoxYk9WeXNMcndibmlWUkY2MlFLRDYtWkZ6dS0wMlhsVXJ6ZldhVWZXb0hselBYb0stY3BWNXphSzNuVjFkaFU2SUpKV2NoeUNwbWkyZEFjNDRmWlZCNjg1X014RW91dXMwalAzMElGWFU3emowVl95dnoyV3o0dXB5S1djQlpyWDNMUEtGckRB?oc=5",
@@ -2898,70 +2735,179 @@
      "published": "2026-10-28T16:15:00+00:00"
     },
     {
-     "title": "Google to Launch Crypto Custody Security System as AI & Quantum Threats Grow",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmVId1VyR0pCUmtsdFR0WUdVaWIxV1R5aGRURXhhazlMbkprSjRvNE1YWGt1SGllZVZ1aWVpSkdaMnlJbjVSWkQ4ZTB1bEd3Y1hfS2k2TnlCdXdKYXZ0bHdOSmhzRGhKVDVTM3RHUlBjOVgyVjhCVG44V2N0M2tyS0psMkk1RUE3bmxfUC1DenhseGE2YzhjekF4RVFMQk1vQVptTw?oc=5",
-     "source": "Yahoo Finance",
+     "title": "Google previews crypto security service for financial institutions: what to know",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzdUeFJiaEFGUEludUVyeFZVa2IyOUVtdlRVSE1zWi1qbWVnckZwUHVrSm9HVlp2aGhyWXg3cU5VUzROOUVlbGFFZDdWbmtGdTY0YmZOVVkxb1ZMbEdyTWhqLVhReG8zakp5alB0NkQ4X0pXQ0MzZmRldVA1NHpEWkF2dlZpeDVUWUJLbHhzNndtWXZGSWZHVTlfSGpub2VUV3hRTkg5UnQ3My1CLUhNaEttQVd2MEh4aVR1NUpR0gG6AUFVX3lxTE5veHY2M2VtQ0x2VmV3a0pQblh0YnU4REw1QlhPeGNwZnRfby1zcEZpN2stbHAwRzZwSlFiMmVmVlMtWmJzazRCZjRqa1ZLOUR6RENEU0lKTi15NlZyU2V3VEhacS1FM0hYYnR4M3pMd09oRTNCamtGMGVGcDFFcTEtZUNnZm9ROGNRQ0J3TkRoSTMwVWVJUkFVVDczXzFvNGFBUndZSTUtbDdCWkoyQnJvOUNyWVNaRkRqUQ?oc=5",
+     "source": "The News International",
      "type": "news",
-     "published": "2026-10-28T12:47:36+00:00"
-    },
-    {
-     "title": "Google to preview a new crypto security system as private-key hacks mount",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZks2YVpRNDRuYkVwb2lnaC05RHRTczN4SUVIM00zdS1GdWdIOXpadC1KclUwa2FLTzZVMnk0b2hRMnA2V3VnVkdNdTlVSDNjQnp0Tk5jcDhGdEtlUUdEazFpMFFRaXhHUi1sbnN2Wk9mM0ZIUXBMRzA3ckZVdzZEUi05SDVGTWp2aTBMNmM5MHNmNVFKRUVfSFg3TERSRzJseS1jNHFXNk5FYm1y?oc=5",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-10-28T12:35:54+00:00"
-    },
-    {
-     "title": "Google previews crypto custody security system ahead of 2027 launch",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbGRTME5UQUpFeXp4ZkpsUU5tdEptdkpYVXBHa3B4Tng5Um9qTVlWcXhpa2E4WExfRm5FWmttMXZnTm9mRVF4RTktb0p3U0tVTUo2SjNMaWJyYzB6YTZUNE5HQXVGTm5HV0VBRw?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-10-28T12:03:44+00:00"
-    },
-    {
-     "title": "Google to preview crypto custody security system as AI threats grow",
-     "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-10-28T11:00:00+00:00"
+     "published": "2026-10-28T13:11:00+00:00"
     }
    ]
   },
   {
-   "title": "Bitcoin Analysis: What's Next for BTC After the Fed Meeting?",
+   "title": "Visa's Stablecoin Settlement Volume Hits $25 Billion Run Rate, a 10x Jump",
    "outlets": 4,
+   "topics": [
+    "Fed",
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "Visa Stablecoin Settlement Tops $25 Billion Annualized Run Rate, Up 10x Year-Over-Year",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rWkpSUHFUVWFib3RhU09wT1Rjc0ZadU9WZVVVVmxUbEF6Znk5a19LRFY5N0RkbzNLa3IzWkxDdXAzY0lmUHctYzA0RzlxX1Z0azBJdldXWTU?oc=5",
+     "source": "Cryptonews.net",
+     "type": "news",
+     "published": "2026-10-29T11:04:49+00:00"
+    },
+    {
+     "title": "Visa (V.US) Stablecoin Settlement Annualized Volume Surpasses $25 Billion",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXFoR0tnQjNXMGlQcDRjbVRpb1YzQ0VrUDN3SkNZTG9QSWVLaHZVX0t0bndxUVRyeTlsTkVJeGxzOW9fYVA1dGZOZXNBekx3bG5MaVJCTGt0VjNQeHpPNEZuZkwwbWp3cEstUi1jNllCbVZPOUlLRVhZdjJBb1B3bFhxVkt4TzBqQ19oVUd5eC0xdWNIZ183WnBER2lrT1pMZ2VQSVdJVFNoVER4UlVMY2w2bw?oc=5",
+     "source": "Moomoo",
+     "type": "news",
+     "published": "2026-10-29T07:20:36+00:00"
+    },
+    {
+     "title": "Visa's Stablecoin Settlement Volume Hits $25 Billion Run Rate, a 10x Jump",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ROW5ESW80ekNJa0I1UU5kMW14OHUySHloNFVzRGd2YUZ1MlhGR1QxZWlPRTNpRUJIVHJ2TnZ0NVZNYzVaTW1rX0QwdXhVMkFNeWx2THU2elNYa2FXbjhwNFNsWUlYTzR1cThsSHFhLXF0UUkzUHc?oc=5",
+     "source": "BigGo Finance",
+     "type": "news",
+     "published": "2026-10-29T07:06:00+00:00"
+    },
+    {
+     "title": "Visa's Stablecoin Volume Grew 10x in a Year: Which Stablecoins Benefit?",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1RJMjZWcTZUaDJqbEdDOFNVbmtqbllHNVZweWZwZldCeHc4R0Y5MTRyekFQaVUwSDAySjZGbGd6SWpLbXZiX2JNTDZHOWVhazhYZVdsVkJOc1lGbmpIak5FU2lHRHNDSm5WdWJGSmREVW9kVllGZURaQkZ2VzJSYUdTa004SkJTamw4T3lvZW5Hay1QN181Nmk3clB6UQ?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-29T04:01:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+   "outlets": 4,
+   "topics": [
+    "Bitcoin",
+    "Google"
+   ],
+   "items": [
+    {
+     "title": "Google Cloud Previews MPC Crypto Custody Service for Banks Ahead of Early 2027: how 14 outlets framed it",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZjdTYnpiU0w1WUZ0c3pxSnVTVWpQMTFfazFJQnJXZzAtMXQybnN5aDFrdk5IRGFySXplNm9UeXVUUm5xbG02bVN2MmZKRWNNZm1tR1R6SGNFeUNfWUJDY2llTEJJd1FULW1JMjdBaHI2NW45ZFM1Vy0wdjBKY2VuWGdDNHB2VVRSWmpxcncybGdiVjFoY2FmRUFUTGN3YWthcVE0QXk1bmotTFdWZ1NRZDFoWFdQVGRqX3FKUmpHU0JxWDNOREhZdFlyckFUOXV4UWlTWjc3TTAtY2YtNDJZS2FzamxIVmc?oc=5",
+     "source": "NewsCord",
+     "type": "news",
+     "published": "2026-10-28T17:19:37+00:00"
+    },
+    {
+     "title": "Google Cloud Plans Institutional Crypto Custody Service for Next Year\u2019s Launch",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3BobHhLT1JzS1NlelRfMXNvS1dxRTNyMzNldDRPa2RwVEtlNUpTRE55Nkx1akhKeGxpOTNPLXR5NDYyZ2xteU94S2hVOWh4RmZFcGRvcS1PYTM1aXhlSTVTY1c2ZXBLUzhKOWo4ZGUxWDEzSjV0cVZ6YkdrSy1vY1lmOFo1YmpvY0tGN2tBTy1PSjlkMGprYzRSVzU0aTNKWWVGenhuWXh4ZlFMdkd3cWUzSm9VX3VsNFFz?oc=5",
+     "source": "Finance Magnates",
+     "type": "news",
+     "published": "2026-10-28T16:21:00+00:00"
+    },
+    {
+     "title": "Google Cloud Details MPC Service for Bitcoin Custody",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdldKdkRqWWVVSVlPWmszN053dHYzb3FvRGZneUJwb0FGU0tQbjYySXMzZTJUN2twRk9DelppS3RfYnc2NFFwSC16c0pkWkFMREpYTkdjbUN4dW45a2JoSFVuT3ZkcGE0WXJaZzBLMHgyZmpaQ3hEWDlNWDdvSUpnV0lWZGg3Sy1CRTFveVBsX2ZHT29fV19JT2FIYzVKakIzaGxNOGE4dS1HVXNSZHZnSDlTVk9pVDBOYWk4?oc=5",
+     "source": "Finanzen.net",
+     "type": "news",
+     "published": "2026-10-28T14:00:17+00:00"
+    },
+    {
+     "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+     "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-10-28T13:47:51+00:00"
+    }
+   ]
+  },
+  {
+   "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+   "outlets": 3,
+   "topics": [
+    "Google",
+    "RWA"
+   ],
+   "items": [
+    {
+     "title": "JPMorgan, Microsoft, Google and 30 Other Companies Object to OKX-ICE Tokenized Stock Trading",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeENaUHF1RDNYM0Q5cTQzaHJCT2RXNUloUzJZeTN1SHJIOXRhZzdvbU02R0QyRkV6bWFuZWhjdE11TUJRR0Q1cEtYNEl5OVVsZThjM1JrM1hGYjJ6bUhEY2VmRHZrYWJqc3QzSjVSbUxHTVA2WDd4bDQtRDBwM2g3aVRHS01RT3h4STluYXltbUd6UlgxbUFXNnYzd3lLdkItdEpzb19WRnhCLTZMZk5NNGZBWUhnOWs?oc=5",
+     "source": "FinanceFeeds",
+     "type": "news",
+     "published": "2026-10-29T11:36:10+00:00"
+    },
+    {
+     "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+     "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-10-28T15:05:03+00:00"
+    },
+    {
+     "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
+     "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-10-28T12:59:36+00:00"
+    }
+   ]
+  },
+  {
+   "title": "The Fed Left Interest Rates Unchanged. Bitcoin Fell Below $80,000",
+   "outlets": 3,
    "topics": [
     "Bitcoin",
     "Fed"
    ],
    "items": [
     {
-     "title": "$Bitcoin (BTC.CC)$",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Zm1LU1lyUHFTX0xBUkdIdTZVOVBDdGw2WGhmQWlRaEFWaGNpZFpNeWxUUVRpaG9DOFlmMmRPUHNWOXcta3FQQS05Yk5BV3RpNjNkZnFzNzNDU2wybXlsc3lRUkNiUDRzTFZvSDU2M1FUWDRZM3VJ?oc=5",
-     "source": "Moomoo",
+     "title": "The Fed Left Interest Rates Unchanged. Bitcoin Fell Below $80,000",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1FVeTJVNFpDUjVsdm13NHMtYkFWTDZQa2JNVVdVd3VKeWJSREJsNWdJRVdRTlRPd1FYa3E1ZWVmejFTNjRJTHdycmpsdUNHQmJCZk1OVVpHSkRuQVVONjZ0QXJaMjd3Z0l4UWVCRmdNOUcycDhpbDdLMXZkZEtUTVJSdFlYaElpOC1GNU1HMlNRUQ?oc=5",
+     "source": "Incrypted",
      "type": "news",
-     "published": "2026-10-29T04:23:13+00:00"
+     "published": "2026-10-29T09:00:48+00:00"
     },
     {
-     "title": "Bitcoin Analysis: What's Next for BTC After the Fed Meeting?",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTI0eVRtLWxJWER5d3REMVQyZ3h1OUtaQ0hDVGkwbmMzUDgya3NybndfTmhoc1owYzhEcXhUV3NSQ1ZZeTFRQ2lOaVh2aU5reElRVDhLYWhBRDBidG95Zm02TV9qdXhodTRDcWt2eEM1Z0paLWdKY29IVXZTaDluNTJvSWNYUU9JZVZJLVhZamJfcW9IcnFNTWZjOXVFNDlNNF9qbHJ4Mk9OcGhPTGM0OGRUYjLSAbQBQVVfeXFMTTkyNHlUbS1sSVhEeXd0RDFUMmd4dTlLWkNIQ1RpMG5jM1A4Mmtzcm53X05oaHNaMGM4RHF4VFdzUkNWWXkxUUNpTmlYdmlOa3hJUVQ4S2FoQUQwYnRveWZtNk1fanV4aHU0Q3FrdnhDNWdKWi1nSmNvSFV2U2g5bjUyb0ljWFFPSWVWSS1YWWpiX3FvSHJxTU1mYzl1RTQ5TTRfamxyeDJPTnBoT0xjNDhkVGIy?oc=5",
-     "source": "FOREX.com",
+     "title": "Bitcoin Tests $80,000 as Fed Maintains Interest Rate",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBENGRXdUxubkJUQ1BnZ0tBbmE3d01BREFMdUtjT1k4aXh3dURJanhPSjdsRXNaMFVkOUlsNWV6ektCNzdJMGVPem02QUVIN2plQzNTV1JNSGI0QjdHTW1xRVVrOGVpSmFXSDYyN0t6dTdKMGdiMG5qRzZUaHpNNWs?oc=5",
+     "source": "ForkLog",
      "type": "news",
-     "published": "2026-10-28T17:36:12+00:00"
+     "published": "2026-10-29T06:17:56+00:00"
     },
     {
-     "title": "Bitcoin Investors Beware: Analyst Warns of BTC Price Crash After Fed Meeting",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdV9MRnhzUEJHWHA5REN3dUsxU0pNbG5lZENrZWp4c2pMbG9ISFY2bG10MFEyWEVHN2RLTU1wc21nX0J0MmhwN3NlQlJBODlKemVzVkVLMkxTRDhPODdTbms3VVotaC16aWl5YjZPNHdwbVBfUEIxZEEteEJpQXNzZFplM2JhaDUweHdfTl9jM2VvNXIyRS1CYXd4dW1oZ2doSDNlRjB2ZENhWjdoWl9ZemFYdw?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-10-28T12:04:18+00:00"
-    },
-    {
-     "title": "Dissent and more: 3 things to watch for at the Fed meeting",
-     "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+     "title": "Fed leaves interest rates unchanged, as expected",
+     "url": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
      "source": "CoinDesk",
      "type": "news",
-     "published": "2026-10-28T11:57:26+00:00"
+     "published": "2026-10-28T18:00:42+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
+   "outlets": 3,
+   "topics": [
+    "Bitcoin"
+   ],
+   "items": [
+    {
+     "title": "Bitwise Projects $1.6 Million Bitcoin by 2036. Does Gold Hold the Key?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWdJT0g4RHkzUFNlZjRtWDFTc0tpeF9WZDVvSTFvSWljOEltcV9jRDV4NXZPc2lJZzh5WlBJajhscW13clZrM1NWMTMxNUg5eGV5blA5WEtRYU9LenY5aElhdldaRTNaTzJITDBYSE9GQU0zQXBNWkQ5MXBWRDZEUU9HOVF2aTc0aklmeUFNcjNSMlViWXZmTw?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-10-29T05:42:09+00:00"
+    },
+    {
+     "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
+     "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-10-28T16:07:08+00:00"
+    },
+    {
+     "title": "Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying",
+     "url": "https://bitcoinmagazine.com/markets/bitwise-raises-bitcoin-target",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-10-28T15:07:38+00:00"
     }
    ]
   },
@@ -2994,144 +2940,46 @@
      "published": "2026-10-28T16:32:27+00:00"
     }
    ]
-  },
-  {
-   "title": "Securitize Adds Stellar Support, Accelerating Race for Institutional Tokenization Infrastructure",
-   "outlets": 3,
-   "topics": [
-    "RWA"
-   ],
-   "items": [
-    {
-     "title": "Securitize Adds Stellar Support, Accelerating Race for Institutional Tokenization Infrastructure",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56OGdQUmxpYXFwU3RRX08tNC1ja1F0dVp3dEltelUwVGZWNXRqRmVXUlViaXh4ZjZyajZaRFBUeFN2QVNGa056M3FmU1dCUFBmbWhicXhPeEstc3oxNU93c2h1WERMYkhyWjZIMVZ0UHZzY2VNYXc?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-10-28T10:26:00+00:00"
-    },
-    {
-     "title": "Securitize Adds Stellar to Supported Blockchains, Expanding Tokenization Infrastructure",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wV2llTU9TWFpESUx3bVJ0QVZ6WWhrSWowRWZnVmctcERDTUVuUE45SVVjdUdZUy00Ty1xTUp2V0YwUTEwNUZjcldNZ1NDYW9taXBNZw?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-10-28T10:02:15+00:00"
-    },
-    {
-     "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
-     "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-10-28T09:00:00+00:00"
-    }
-   ]
   }
  ],
  "events": [],
- "headlines_served": 7757,
+ "headlines_served": 7853,
  "trend_candidates": [
-  {
-   "key": "moody",
-   "term": "Moody",
-   "count": 7,
-   "sources": [
-    "24/7 Wall St.",
-    "CryptoRank",
-    "CryptoSlate",
-    "Decrypt",
-    "The Block",
-    "Yahoo Finance"
-   ],
-   "baseline": 0.48,
-   "ratio": 4.72
-  },
   {
    "key": "fed",
    "term": "Fed",
-   "count": 13,
+   "count": 14,
    "sources": [
-    "Bitcoin Foundation",
     "Bitcoin Magazine",
+    "Brave New Coin",
     "CoinDesk",
     "Cointelegraph",
-    "CryptoRank",
-    "Decrypt",
-    "Investing.com",
-    "Yahoo Finance Australia"
-   ],
-   "baseline": 3.01,
-   "ratio": 3.24
-  },
-  {
-   "key": "ripple",
-   "term": "Ripple",
-   "count": 16,
-   "sources": [
-    "24/7 Wall St.",
-    "CU Today",
-    "CryptoRank",
     "CryptoSlate",
+    "Cryptonews.net",
     "Decrypt",
-    "PYMNTS.com",
-    "Reuters",
-    "The American Bazaar",
-    "The Block",
-    "TradingView",
+    "MarketWatch",
+    "Moomoo",
     "Yahoo Finance"
    ],
-   "baseline": 4.52,
-   "ratio": 2.9
+   "baseline": 3.26,
+   "ratio": 3.28
   },
   {
-   "key": "coinbase",
-   "term": "Coinbase",
-   "count": 9,
-   "sources": [
-    "24/7 Wall St.",
-    "CoinDesk",
-    "Cointelegraph",
-    "CryptoSlate",
-    "Decrypt",
-    "PYMNTS.com",
-    "Reuters",
-    "The American Bazaar",
-    "The Block"
-   ],
-   "baseline": 2.17,
-   "ratio": 2.84
-  },
-  {
-   "key": "rlusd",
-   "term": "RLUSD",
-   "count": 7,
+   "key": "moody",
+   "term": "Moody",
+   "count": 5,
    "sources": [
     "24/7 Wall St.",
     "CryptoRank",
     "CryptoSlate",
     "Decrypt",
-    "The American Bazaar",
-    "The Block"
+    "Moomoo"
    ],
-   "baseline": 1.46,
-   "ratio": 2.84
-  },
-  {
-   "key": "rate",
-   "term": "Rate",
-   "count": 8,
-   "sources": [
-    "BigGo Finance",
-    "Bitcoin Foundation",
-    "Cointelegraph",
-    "DeFi Rate",
-    "Decrypt",
-    "Moomoo",
-    "The Block"
-   ],
-   "baseline": 2.13,
-   "ratio": 2.56
+   "baseline": 0.52,
+   "ratio": 3.28
   }
  ],
- "baseline_days": 8,
+ "baseline_days": 7,
  "sources": {
   "CoinDesk": "ok",
   "Cointelegraph": "ok",
@@ -3140,6 +2988,7 @@
   "Bitcoin Magazine": "ok",
   "CNBC": "ok",
   "MarketWatch": "ok",
-  "Google News: Ethereum": "error: Remote end closed connection without response"
+  "Google News: DEFI": "error: The read operation timed out",
+  "Google News: Robinhood": "error: Remote end closed connection without response"
  }
 }
