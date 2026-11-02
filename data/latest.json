@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T12:02:58.715322+00:00",
+ "generated_at": "2026-11-02T17:04:52.312046+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 21
+   "item_count": 27
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 14
+   "item_count": 25
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 21
+   "item_count": 26
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 50
+   "item_count": 70
   },
   {
    "name": "DEFI",
@@ -71,7 +71,18 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 13
+   "item_count": 14
+  },
+  {
+   "name": "Mercado",
+   "kind": "trend",
+   "aliases": [
+    "Mercado"
+   ],
+   "first_seen": "2026-11-02",
+   "count": 6,
+   "ratio": 6.0,
+   "item_count": 23
   },
   {
    "name": "THORChain",
@@ -93,7 +104,7 @@
    "first_seen": "2026-11-01",
    "count": 5,
    "ratio": 3.47,
-   "item_count": 11
+   "item_count": 15
   },
   {
    "name": "Binance",
@@ -105,7 +116,7 @@
    "first_seen": "2026-10-30",
    "count": 39,
    "ratio": 2.72,
-   "item_count": 110
+   "item_count": 100
   },
   {
    "name": "Safe",
@@ -116,30 +127,1276 @@
    "first_seen": "2026-10-31",
    "count": 5,
    "ratio": 3.6,
-   "item_count": 12
-  },
-  {
-   "name": "$6.3B",
-   "kind": "trend",
-   "aliases": [
-    "$6.3B"
-   ],
-   "first_seen": "2026-10-30",
-   "count": 6,
-   "ratio": 3.11,
-   "item_count": 0
+   "item_count": 10
   }
  ],
  "items": [
+  {
+   "title": "Mercado Bitcoin halts transfers as Tether freezes over 4.5M USDT",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEx3RzkzQUJYeHJnYzNWR3NvTDNOdUx1bVFfYVNvRVoyZVhXcGt5WFBmZk1ETGNsZWNwSldxbU55WHJDX05BRXJXeE9fMWhISy1Yd2R2YkZSNVR3TFdHQ1oxUGlJV2N6ZFIzbFRmVDlLTkFFY2NMUTF3X05VSnFreXpqRjQ0Zkw5NGcwWTZCdmw?oc=5",
+   "source": "AMBCrypto",
+   "type": "news",
+   "published": "2026-11-02T16:59:20+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin",
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Cathie Wood's ARK Buys, Sells These Crypto Names As Binance Bleeds",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0JiYkVpd3FRMUZHZDBwNExkcDNiYjdFb3BFLVJwN1BSWnBPbVRRWUJXbmRQVjhXZVBkQWRhSlFvS2JfR05zdVBjbnUyZDQ1clNscUZOcDVpMUVkY1l5SUpEUk9fUmtSS3VZUVVuSXV4a1J3bHFLVjN2SHJrLVVhQ1M3X0F3LXJBLV9iYy1faDNmR2dTU3NseEdRcw?oc=5",
+   "source": "Investor's Business Daily",
+   "type": "news",
+   "published": "2026-11-02T16:59:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Expert says U.S. midterm affects XRP, not Bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbUJ6N0JJWnh3MC11VXV5cVE0OXR2dWpQSndwSEFzeGlEcnBtUWJiLS1BVDZHbE9OVjJrSXZ3ZHB5S1lQNlktZGkzMEkzMFNldUtQNGwyNzA2X01NRGtDZTVCaE9rWlVTSWtsMERmX3hoVXRfTWRmOEdXTkc3aHM?oc=5",
+   "source": "roundtable.io",
+   "type": "news",
+   "published": "2026-11-02T16:58:33+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Breakingviews - COMMENTARY: Binance hack plays up crypto\u2019s trust issues",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNak0xSkdPTzNzYXpOeEhobGpPZHlwOUh1R2JWUHBjUzNuVFhjMkFOX1g3N3NUdUl2RUs3QTlSbEI1dkJqck1aT2labVdWQ2dMU0QtZm15OG5UV2t6dTRUZDYwNDdpNmk4YWNSNzh0TWdiUE1mZS1rWGFiRTEta01RVDhnS2Z5YkZGTGRkNjZZUjk4cTlxbHM0V3BMOWlvRTQ5Vm8wNkZn?oc=5",
+   "source": "Reuters",
+   "type": "news",
+   "published": "2026-11-02T16:54:43+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+   "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-02T16:52:55+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Analysis: Is the September Rally Structure in Danger as BTC Hangs by a Thread?",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYnpFckV5aEhOb2tKS1JYVkNqWldtM1d4YlZlX01qMU9oZHdnMjMzZ3dYS3ZYV1ZHOFg0WGlieXZGMjF6R1V3LWZ2TnpSUlAtWGxnenI1MzBFV1BUNUdyN2NLYTZYU2NZYW9ZR1BoY2JxVERKbTJRZ2NKbExuLXBaWDdwNVFZRElnS01nTFRoX19GRXdpSW9FaVlmdVZFdzFpY3VzWWdLeUNLQnpoQ2YwSG9XRnVLX2pUamNYejY3Z3o4MXJSdW80?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-02T16:51:25+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Mercado Bitcoin hack losses are at $46M and growing",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLemh1VFJNYjB2LVFqQmMyUkcweWt4MFVnaHc5ZjNtQldaTGcxR0VzVFFabWR2LVdOeC12ZXdXazNsVi1UNmE0MFFhQmI1am9MeEQxcTNnNnBZVjlJbTNrTFpxTVVjbmhYWkhEd082WlV6emQtYXgtY0tB?oc=5",
+   "source": "Protos | Informed crypto news",
+   "type": "news",
+   "published": "2026-11-02T16:50:55+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Bitcoin Analysis: Holders Are Selling at a Loss for the Longest Stretch Since August. What Happened Last Time?",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcWhCSkdCc3VyZ3ozWUdHaXlIZXhZa05PZVk0eS12QzJfWGlBTWZtdFVZc1lkcWxkMEppZmQwc1hicXdfVVVQV01tMmd2VUk1NkNQeTZrU3JHV3AzSUIwSFlkYkE2VmVXTGJfNjMzd1FHYTdFY1NGajZQalVRcGR4NTdaZ3hBUEdPbk1TS1RRcmxDNUNrZWRsZ0tJaVpXUmVjUTlIcFMyM2Rsd2xHM3lMa0hFSzFLTkJVVjlNX2tpd1FwQ2VUUHJVMDNPcG1lNFI5SEhVXzdUYXlLMHozZjNsRHVXNkNvVkpfUEJBcWdxbWZUanBRWTJuSktn?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-11-02T16:47:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+   "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-02T16:46:03+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks",
+   "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-02T16:41:46+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "North Korea Binance Laundering: $3B Frozen [2026]",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2MyMjRuU0tOdElfdjJ5OUhvbXRqT0R2VlVfdC1ZbG5uYzZ6WnZ1RGNqSWV2ejFTa1pteFc4Ujg2ZGFINnZ6dHFQZzFGbkoybWlSYW0wX1p4UUVjRWVHMVQyejJfSmd2WG9fUVNCOTJfZmJsdWJ2SlFaYmpSRVE2RFBRSFpXX1JKbzVFS2J3?oc=5",
+   "source": "shattered.io",
+   "type": "news",
+   "published": "2026-11-02T16:37:19+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
   {
    "title": "FBI says North Korea behind $6bn crypto theft",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FTDdDQzhpZWNUMjdJVDMwN0N2R1djaVgzRlBDZGZBbHY5M0F4NlBRN2FkQ1V5REdSaWF5a1A1Qjk5YUhKVEJ2WnJIR1RWUjlvR3c2YzF2Z21adk5wREliYWZVRjAxUk0?oc=5",
    "source": "RTE.ie",
    "type": "news",
-   "published": "2026-11-02T12:01:36+00:00",
+   "published": "2026-11-02T16:31:36+00:00",
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Binance"
+   ]
+  },
+  {
+   "title": "OKX founder says no exchange is absolutely safe",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWFrcS1nLTdzN19JVGhmMFFjV3N1dHpkMjVNNHNhWUlScWRjd2FmaEd4amxRUE83akYwUE9mT0pzVEpNWlM4THl1NmRPSWxHMVhfS1FLNjF1ZkJDRWtfTEd6QU1SNGFhRWJPRXpkZU9JeGg0dF82TDFYTmItZEg1Y0h5VDVuUjcxYWhSaGRvRzdGZw?oc=5",
+   "source": "TheStreet",
+   "type": "news",
+   "published": "2026-11-02T16:31:13+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Safe"
+   ]
+  },
+  {
+   "title": "THORChain Halts Swaps Across 10 Networks After Ethereum Reorg Exposes Bug",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0hhRlBJMjRyU09fUE12ZlpibzBZT1ZqaTdpenpxU2FBSVJVcmpycW01Q19GczU1aVFscmhheDN0WGkxanNOX0JUTG1oVHZFUXhieTdfSzNoQjhXQTdXVDZucWpYNF9waEI2S05nUnRoaTUxZzFGZTVRZGpHeV8xY0dlaDQzd1U4cVlNWHY5OVhjY2NvbjRwb01jczFtRXdR?oc=5",
+   "source": "FinanceFeeds",
+   "type": "news",
+   "published": "2026-11-02T16:25:37+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum",
+    "THORChain"
+   ]
+  },
+  {
+   "title": "Mercado Bitcoin halts deposits and withdrawals after security incident, assets safe",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFRrY1BXM3JTalRiZ1V5TzhoMVEzMWVvUFdvbTRoR2t4MWwwLXQ4dHV1ZXlLVW5CTldSNmVVRExBa1haRFB0MFU0VE5CVW1mUFBEZzN0bWpDTlpsdTFqMmhGa2ZyZTMzLVRabVVNeFFFM28tVUhudWRXSm9XOXV4RHRKdWVkd0NPUnZDTk9wTklmUGJFSmJtdURoQjBSSE1SRTM4?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-02T16:24:54+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado",
+    "Safe"
+   ]
+  },
+  {
+   "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+   "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-02T16:23:24+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Bitmine Buys Another 8,573 ETH, Pushes Ethereum Holdings Past $13.7B",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUxUaTRPa1Y0amwyeTVGeXVRSVpjY3ZVX3JsTkpjR1pfMllndXZTQmFQQjdhM1MyR0ZkNlVkYkduUUlYTkxpNDJDLTdlSEwweUpFRDZ2N0NGQ1pWYTVMN0ttNGhMVnZYdkpnQUFkUGxsa0RjSTJfZm5JZHd3NEJ0M0xjX1ptMTZJWDN5clZ2X2tyNkhYcVE?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T16:23:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin giant Strategy, unfazed by Binance hack, adds over $65 million BTC to its holdings",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzRvQVRhODNTNWE2MVE4ZEN0bk4yanR2NmVaek5IWFJFS3J5TTVqWmRqQ0VlblpwSnNGaUZDUUxDVkJpWkpKMkJiYnpxcHB0dnEweEZpMExDdEZaSWJLTjZSclByV1lReWpTQThQdVk3c2dBRjhzWjR0RWZUMDdubkdPUTVnUmNBRXRDTThsTFA?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-11-02T16:21:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Binance"
+   ]
+  },
+  {
+   "title": "FBI confirms it thinks North Korean hackers hit Binance in record cryptocurrency heist",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFVNQ3NCdGxnN01GeDdlbjNpOFExaVZWeXRkZUptdGFQSWJGdjRQblN1TjdIQlZHcXFwUjlKbjQ1cDQxTzhUZEZZZXM1NEZodlZYb0VWWlNaUXZSdWd1ZTRWWjViSElHSlFRZzVZcWptQUltN1p0czhwYUNCSGZSd0hsNm9TeU5Qay0ybWtfOFNwd2F1MVZCMURuZEI0ZDZQVXhFRWJtU1RmUmJnNkxvNExMTkNKUXhJNkNoNVFiR0tlaWM?oc=5",
+   "source": "TechRadar",
+   "type": "news",
+   "published": "2026-11-02T16:20:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "The US$6.3 billion Binance hack is the biggest heist ever \u2013 it should be a wake up call for cryptocurrency users",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN3Nib1c2OXNTZmMtQ0p2QkFFcW5zVHBHUVplbGo3SXotV2pJUnlWTzFxaFVLaUhWMXp3ZGU5QnloMklIalVHY3U0YmthTExvelNUNWlQajlyMm01N3FnRUgtQkFwaHIzc1JQQVgyb1FYQjBJRHlyNkhXZXNheW53N1FBaW5aU0c3M210OVJVT1ZMdnZURktYaS1WTXEwcEh1U2Q5ZnpyRkc3bks4TGpvV2xQLXNXTVhTeE0xTF84TDJ0WVdRUkIydEFDdHAxUXBUS0JHZ3U2cnZtaVpEN3c?oc=5",
+   "source": "The Conversation",
+   "type": "news",
+   "published": "2026-11-02T16:19:51+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Arkham Says Mercado Bitcoin Attacker Holds $46 Million",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1pfN0c4Ym5sTEpIVkhWVklSMGFraE9pV3FRUHVtVHpEc2hHZDREc1BvdnN3bzRSQ1NsbHAtdTFHV1ZMSU9ra2dLQmhGOGxUbmJ6M3B5dldQTVB4MWRvOTltREVDbmp1SmFNR25WQ2YyOUhuUmp2cmxyUThKMVdWRDVDdEg5bUJzZ1JTaWU0VQ?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-02T16:18:46+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Strive Buys 124 Bitcoin, Moves Closer to Overtaking Metaplanet",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcndVNFAyZUsweVhGMVFBd3NBNU5lUWc0YVozamh5TWMxVTM0ZkNjYno2TEs2WGpvd3gtT2hYZDAyU3o3cDhoOGpOaFd0SmU0X1pwYVkyTUV0R0U1ZS1Mb3AyX21MMG5aek4xRnFhbENXQUR5dUxNY3JPemlYWlJaeEVOQVlqd0VTZXpRTVJoaktTUzhFN3NpSFdR?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T16:16:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Mercado Bitcoin Keeps Withdrawals Suspended After Incident, Reports No Losses",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmhLdjlfdUwwdWJjVFY2WTE4em1Tc1dPclRkV0MyWXZqV1JlWXczTklUSWpaZC1kWkVOMzJtZHVILUJBR1pqdDJFSmRNYjc3d0NYbDNXVWdUeXF5R05Dbjd1NGJqMmxMZ3RtSkJnYmNpNnFmSFlUSFFOaFh6SVFVOHMzS3p5SGpic0ZxbGk0M1g5NXZsZ3piTjBVaXdlQmkxWU0xbS1ZTlJvd3k4bGcxRW1xTFVLR193UzlQQjVKYlI3eUQ4WmVNNw?oc=5",
+   "source": "Bitcoin Foundation",
+   "type": "news",
+   "published": "2026-11-02T16:12:44+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Brazil\u2019s Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million",
+   "url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-02T16:09:05+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ldjZIQkxhcjB1X0hJNVVKTHNWNTZtNXNBc0lJdllqcWZXQ0lHbFMzdWFJcnlWOU9YNl9DYmswZlJGQTAtc3ZkMXQ2bFpSV2xxQ3laRVpaNkRMUTFjM2Yzc2s3RHVnQnI0V0xPQmJ1NA?oc=5",
+   "source": "CBS News",
+   "type": "news",
+   "published": "2026-11-02T16:07:35+00:00",
+   "first_seen": "2026-11-01T12:02:58.853044+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Tether froze over 4.5M USDT after Mercado Bitco...",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDFmaExTOWs0dHdRV3NVQ3ZYeEZaQ3dLSFVQMEFISGV0Z1M5T2JlekNFdDczb01xS0RPYzJxdG9wUmJQYzBEa1VwRXJ2cDYxbC01SThkUU5nTjNlQmRlRTU3VkttRzFFTmZfWHhLckdkWmQ0eDd3OTdna1d5ZVVHdlluOWRPSkZoNnFySndqa2dvX1pSeFBYZFpNSQ?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-02T16:07:12+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Binance Outflows Hit $4.7 Billion After Record North Korea Hack",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0JDb2h4U185ZWZOYWlBWllSTE0yb0JoVmVyMGd6MVBEbGgxNUlqR055SE8yN3J4Sm9FN1hxQ2JKMlo4WGg5NldxeU43bVVsV2xTQUtGdF9LejZPNnBxN1k5eUlFb2hpMWE0alFZcnROSWZMRU1kUWxLYUdGY3lkWXNMSjlIMW9xbVFRWGd6SXMxTU5uY3MwMW5IRFh3Tms4WE1PNzFXRUdxdkxRLUhRNzNBNA?oc=5",
+   "source": "Bloomberg.com",
+   "type": "news",
+   "published": "2026-11-02T16:06:09+00:00",
+   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Strive\u2019s Bitcoin Buying Slows to 124 BTC, About 2% of the Prior Week\u2019s Total",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2NGV29VcURXbUJvQ0VZRmdGR0hvVjRqSWRVVmFlRFI2VWZxX2lGQWt5dDlQcHFOWi1lbWRKNzhReWFaM3FSMGZ0XzlBSjk0dXFZWTdvN01sc3Zuam8ybFlJeXpkS2Ntazh3YlZNSUF1aDEyNDZtSkh5Q0sxQ3ktcEpmcGxZSk1iM3pQMmtHajlJeUJyY2o0SUtiX2k?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T16:05:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Chainalysis data breach: names and emails taken",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wTE5BRFczX2JPZTBLNkVBcW5MWlhLSmlGcW9HbHNKR0pOb2g1bUZFaGstWXM2QTJlYW1jTklPQjZ4eGwzZFdmRFBmdXM1aTJCVHloQnM3NERUdU5jTkNYWm0xMlgyWFI5S1FzXw?oc=5",
+   "source": "CryptoTicker.io",
+   "type": "news",
+   "published": "2026-11-02T16:04:01+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Chainalysis"
+   ]
+  },
+  {
+   "title": "Binance customers withdraw more than $4.6 billion after crypto heist",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUVuZU1Ea0ZDdlp4bjVCbVV6MGRxcEo1TU5XR0gyRTg0VVVkaWU0WVdUVkpyWHlQcWQtcUJWTm5LVjZRNENGaXZ0eHVaN2tNdTJxbnZtSEdWWUlra0Q3U25yYXNGanM3VDFoWmU2S1dVUjB2QUJTelE0ZllZWUI0YlNHNA?oc=5",
+   "source": "CBS News",
+   "type": "news",
+   "published": "2026-11-02T16:01:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Brazil\u2019s Largest Crypto Exchange Mercado Bitcoin Hacked for Over $40M",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSThoUEpxSDU1N2dVM0VvX2NodUdYTEFpeDJsZE1IRGVnSDVIX1ptSjQtMUdsUkxIY3QxRnBYc0pyUWNzdUtjVHByQUZCZUs0REhKS2t1Z0oxdmVIX3E4MDZBUjZuZ3JzcUZQcXBYLXpqSmltVzd0TTc2ZjY2X1JGNk8xSEM4U1B2cnU4ZndCWjc4UUE?oc=5",
+   "source": "CoinGape",
+   "type": "news",
+   "published": "2026-11-02T16:00:30+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Tether freezes over $4.5m USDT linked to Mercado Bitcoin breach",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GNlBHcUw2UUNWUEM2NzJPdHh2eWQ1TzdmR1hhVGRfa3dKOUhLaUtvbWFBM19DZTJRVDgyam1VN1hFLWl6dkY4cG9Ndk9sX1U5UmlRQW53bllwYXVyVlpaTFN0bS1EUC1XTDdhbWQ1MUk?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-02T15:57:37+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin",
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnJTZlVIWE5ZYlpSOERTamhuVDktMjV6Y1lLcGRUaDFTVFZ0MkpfdEhYaEpPTWdDSDVyY3Z5MThlRHh2bDR3bUdrN01NdEl1R3gwUlJfd09faWV6WDJ2U2hKUDY5enJSdHBnVjdXR3hBcDVockZ1NjZHeXVGMzQ1TVdEUEJ1SEtSNWw2bWREanBWWjJKcy1pR3ZyRzZIaU9nMXJoUzNZbklRVFh2Q2RFeEhDTDJmdE5tSGJMWUJpeHY?oc=5",
+   "source": "Euronext Markets: Real-time Stock Market Data | live",
+   "type": "news",
+   "published": "2026-11-02T15:54:13+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Brazil\u2019s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+   "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-02T15:53:29+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "FBI links $6.43 billion Binance crypto theft to North Korea-linked hacking group",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWE2Rl9zT3ppNTFtRVJNS1VNcThoWk95TE55aWY5OVlER0prRTRMZW43b19vRmU5RWNfLWl0S3RMQ0FrbXVqT1RwSjlQVHdOODFZdUZXTUhkeUl6UURpMVBYYVQzRVp5UE1veWp0QjA5cDd6dnZhd2dvMHQwcm9JUUtOSF9NejBEcVdXTjlLejJaNFh1MHRzMnVDZHpYamQ4bE5zWlZnTGVYMEFtRF9vb053?oc=5",
+   "source": "The American Bazaar",
+   "type": "news",
+   "published": "2026-11-02T15:46:49+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Brazil\u2019s largest crypto exchange Mercado Bitcoin halts withdrawals after reported $40M hack",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEJFUi1xa1dMbnpTZXo0MDJ2SEc0X0pwLTN2YkRGZy1KbnRqLU9ueUhkZS1LNmVzRWR5V0Y3X010eDdwWjZ4UnFlZGw5dW5hNjktRGFYQWxvY1dsdWdxRWVLVmNORVltWDBudnJMQWh6dFNHS1BjcG1nOGhndlNyRzB3WUFIVXFCRktqcVg5dmhfTURscHM4QkFGVFpHeHV4cEpGNjY1TU1zZ3ZPeDFF?oc=5",
+   "source": "Finbold",
+   "type": "news",
+   "published": "2026-11-02T15:44:28+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEFEZlhWLURyQ0pldFJJVVdzUjZ4ZV9RZE5ERlNJcjZoRjEyWTZNN2NVSmtDVkRmal81ejRNQ1pWLWFHNHAwQ3NkYmJ5bmViM0pXM3dOTHQ5SkJWRWgtUUV6X2xMdVZha1E2WWdpdlU0QUJNckI1SHRxMGlVUHZFZjMwWDZSby1reEpiVG5sOF91RDRJUHpvVmR1RWlEQnVZdmxONU50UVFLaV92RWVRMlhn?oc=5",
+   "source": "Bloomberg.com",
+   "type": "news",
+   "published": "2026-11-02T15:43:22+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Lloyds and Aberdeen Pioneer Tokenized FX Trading in the UK",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNzRzZ3Y3M3ZfbDZLZDBGZms1WXJGY2tfY05vcWUtbjg1NS1EZUhtMk50MUFuN1kyc0pKWDBRampMYnp5NkZoOWQyb2FlNUlmbFhDY3hSTkNyRW9mQUtpb2lINks4MlBiOGhFcHU5TWhnTm1nZnZOUEFqU05ESVpaeks5b1ZBWHQ3QkZn?oc=5",
+   "source": "Coinfomania",
+   "type": "news",
+   "published": "2026-11-02T15:42:55+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Ethereum (ETH) Whales Buy Like \u2018Crazy:\u2019 Price Rally Incoming?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVNuN202cUlqM0lPRVI4RVFxbUxNaXRFdVFEcGQ1Ml8zTnQ5aEx4MURIZmdoZlhrMS1pYnd5Y1dxQ29HaXptYkZtLTUwQlpsSVBRRkpzc0FJMVl0WURRU2RnOUdSTngxWWIwTFFpWHlYbE1mSWdEQUtuelY2eE5TQzZzME5RX09MLWRuTzRDaFRnM0hYQ0xQWg?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-02T15:39:09+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "What Tokenization Can Learn From Binance\u2019s $6.3 Billion Hack",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmlfUE1OYUNVbnlqYnBUcUhra0JBdVJPOWRKeDJtZWEyam5uRzlfbXZoN3pKT0laT3BuR292N25Ya25iMWd3ZnRydTRxY1k2WEo3ZlRJUl9yMldRcTZYVC1WOXFOUm9lWkZfeC1NX0pkdVJmVlpUcnRyb3NLejZGblc1WjFIX2sxeGxiWnU5Rm5LajNYRnNUSENJUUhVNEUyWGFHajlBVWlzNjh1VU0xZEJESQ?oc=5",
+   "source": "Forbes",
+   "type": "news",
+   "published": "2026-11-02T15:36:18+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Binance Lost $6.3 Billion In 20 Minutes. Who Holds The Keys?",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODZ1bldEOXBId19rc0ZhTElpUVo4Z2cxazY5N05obmRmcURTZDl0ODFEdktsdXh1YTA1QTNPNXliY0JVdEN0R0pDN0xfQV91YmdFY0dVMUdfdFpRSll2bjNZVXdXZHA3SVY0SXQ1NGVkRWg3T09Tck9UbzEwU1ljQktqQ0ZoS2NIR2dLS21MV1ZxMlUtV0tsNERTVER6WHpSYkMwck5CNzQtV0h1OGNjdjRn?oc=5",
+   "source": "Forbes",
+   "type": "news",
+   "published": "2026-11-02T15:33:56+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Bitcoin Edges Up After Binance Hack, But Coinbase Keeps Falling",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjMyZURpT04xQmdZZllyUUtNTXl5cENwb3pCUlFIbXBBMFV5VTVKVk51OEk5aExqb1lUZWpxNzRGTklYTk9Nc2ZCRzAtZ3h3S2tCMHg4dURpN1gzZDJkYjFVSXFiejBSclBzS3FDYlVDb3pNdzZOVlR2aXJSYkJVcG9TWFdCcms2TlFVdA?oc=5",
+   "source": "Investor's Business Daily",
+   "type": "news",
+   "published": "2026-11-02T15:32:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Binance sees $4.7B in customer withdrawals after stunning North Korea hack",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGN6UFRrWTBIQ2ZNM2VNNmdiOXNDeVFYSGdSR3ZsYV96ZVFlT1hhZUs5Vi03RE9UV2h4dm8zelRPems5R0Z0akpjWEtmQWFOaDhTMUhtd0FPTVNSSWN2WHZ4UUZIZ2JyS213S3VGQ1pBUEVoWnR2dkJDR2dzWkpMMVdYaU5IaFBtQ1pkcjkyWXVsNXlkLW4tUmdUbGx3OXdKRGdwWEhhUXZ1VXVVYjdPVy02cw?oc=5",
+   "source": "New York Post",
+   "type": "news",
+   "published": "2026-11-02T15:31:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Nvidia, Costco and Nike join pushback against OKX\u2013ICE tokenized stock plans",
+   "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-02T15:26:43+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Nvidia (NVDA), Costco (COST), Nike (NKE) join OKX\u2013ICE tokenized stock objections, bringing total to 50",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2JRbThULWtaaVVVeGEyVlZPSTQ0alVKSk1Qc2VKRGppaHVtSFoyM3Uzam1jWE1iVXFsT0dTNmFuTWJhQ3d1ZXZ6dWc3X0RvaVBSeGV5MTNvNm9MdmtyYWVNcmlkRWNMbWttQ2JQTzdEVlZ2SW5UZDRQZnJpOWtsN0V3dmtXaVdTOEZWZm5MeGpoRXZ3NjFHOGZkWEZSc2FObEZFT2hWSk1iYmZJSWxDamlQbWxFN0ppTzRv?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-02T15:26:43+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Brazil\u2019s Largest Crypto Exchange Mercado Bitcoin Hit by Possible $40M Hack",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFRCLWtrVHdmVHhwX21NcTRSLW1zTnMxbFNEeTRfNkMxNWhMVVVUYTNwMnF4eVNXZGlFZ2E5ZW5IODJYOGQyOW5Zb3M1dlM4Tmc0amxWeVNRNEZ0YktfV3c4ckJiR2ZPazFWZWVEYzQ2elJTODNGLUxMS1NLd1lYNVhlNHU?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-02T15:17:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "$6B Binance Heist Exposes How North Korea Turned Hacking Into a State Revenue Stream",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWNPZzVIb2lzSXVEdkgtbHNuc0U2ZDRNeTJWTU1ET1lxMG02c2ctalZFQnJ3SVhwTUY2UV8telJ0NDdLTFV3TlR5THhMWmg5djNRcHVYSFJyT3JpclVKd2NUdGR2ZU96a282WnlfYkVBNHc2dXlTMnlqcFJmd1IyUlMyQm82bDFtZEtTM0ZEQ3B2VzByQ2J2b1k0cTl1RklPU1lOOWhHVERfZ3g5MEVIbFlkRDBtSnc?oc=5",
+   "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+   "type": "news",
+   "published": "2026-11-02T15:11:44+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "The \u201cWhale\u201d Buying 27,553 ETH Overnight Was a Thief: ZachXBT Ties It to a Suspected $106 Million Crypto Hack",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTVDM2pnenh5VWhqRm04aXY4RWZzNmhmbUhhWlRtWHlXN2x1ZnM5TEFSOTF6YWRCTXFBT0hWUzU2dXUxd2NydlRwWVk1c1BOVjB3YmFFc2dmOFFXeXZGc0x6ZW41Y2pnbnRzdmpYNWxlVzVING5CMFNqcTRKQl9tYmRqaXYyVWkxczdvSEt6ZHlTQQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T15:11:30+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Mercado Bitcoin Keeps Withdrawals Suspended, Identifies Incident Wallets",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeE9VOFU1WFpwMDNFMTlpeXhUWWJKU0xjZjJsbUdHVV9lX09rZUI1QmF3REpsWWduU2x1LU5SY0dYN1BfSjhWVGhadVh5SXZKS1hDTk9XcmN0Z1RNMlBacDJ6ZHJyTGZlSlVoOXZMa3Y4Z0FCZ1ZCa1lvQmpyR1BDNTBDTlUtcGNiUVdqWkdTb2FNdkpCTjF4QlJuTi1wekc4NmtvSU1Odw?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-02T15:06:56+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Tether Says It Froze Over 4.5 Million USDT Tied to Mercado Bitcoin Incident",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3BsaDhOcXpsbGxzNUZsQXlaMjZUUDVSUmYzSUN6OHhROUlLUmRPeEpIVzdvZWp5QjE4dzJSeldmc1hmZl85dS1JY3FaNTRGMmROVlhXbFpYbEJwREtNS29MWmhCQzNZNEN6T1pxS3ZIR1BVT1VISEx5YVpNRGU5ZTZaemh6NEtTYjdvd0FpTWdVbHZrWXVESTRYRUg5cGp2bUJWVlJ5eU1DMUN5?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-02T15:06:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin",
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+   "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-02T15:05:24+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Brazil's Mercado Bitcoin Halts Deposits and Withdrawals After Security Breach",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MMlloNGN4YXhDaUxablVOb2E4anVmTWxiYjNZMFVJMWtpNGVsZmM4UlRnNk1lMXJXUGVpNVhDOEttUzZLMF82YlR4U0hHY2w5VHJaalhaRnNKd0t2Ul9KNUFad2VuZG1fc1I5UmxTdW02dG9ETnc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-02T15:05:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+   "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-02T15:01:36+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "What the Binance heist reveals about how North Korea exploits the seams",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHNTcV9OM1RhZXJUd3Z6bWZGTXZQVklYWXN0NkFmWG1yNUhPVWZBZmw0ZnI4MUl3dk5VVDg1Q2JZLTJqNFp5TkhkZ3hhSll6OWx1UWliNnNxV19ZV2Y3YjR2UERKWFRxM3hzMmFzeXh4aEdWRFljdVJqbm56S1AxeU4wMHBXM09RODFoRHNLdTNjNllqVW01TzVRUkd3dkJIWFZ1aWVwdU5LUDg?oc=5",
+   "source": "SC Media",
+   "type": "news",
+   "published": "2026-11-02T15:00:16+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "XRP Drops 16% in a Month but ETF Inflows, Stablecoin Growth Signal Strength",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWmxkWU1wS2wxTEVpdjd0ZEllZk83R0pJbHIyT2gxejc5clpMdjl2bEtzRzRib1I2SHRJUDBIWjZKZV9JR1FGNFVnY1JzeWc4eTVtWGdacF8tbGpnaGU2YjV6TGhRekRQTnFSX2ZCYjZrSWFYbG9sVEs5M1pwbGFseGs3S3Q5aW02TzdfcXlkb2hNc25ITU5CdjNJTV9TRjgwU3RvUGpuUzllQURKaFZ3RG5XOVpJNG5jNEZYNkNtOTVfc0ZjQWJnVWZBUFZuSXpH?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-02T14:57:55+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
+   "url": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-02T14:57:34+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Routable Rebrands to Launch Integrated Stablecoin and Tokenized Deposit Offerings",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHpZTHVMLXhsUWlYcHUtdlpFMy1EZnlpek5LRm5uNWVmVUJzMy1WZFcwUXloNko3X0xzd3owamV3NnhrcVdQdzlSVWpFX3prMnFlWkJvLTV0c1hLOGtGUUw5UUhNNGdZVVhmRzI4eEVMbjRnTjdueGtNQzd4U0Q1bExuSWpqX3RMUlFqUGJmRW5YRHVpWVNHTFQ5S0g2TDZXelYyMmhKRWNvVjg?oc=5",
+   "source": "FF News",
+   "type": "news",
+   "published": "2026-11-02T14:53:29+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin",
+    "RWA"
+   ]
+  },
+  {
+   "title": "Why Bitcoin, XRP, Cryptos Are Shrugging Off the $6 Billion Binance Hack",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcE5kSkdFZUpEdzNfZk1zRWpSM3lVcVpyc0k5RWNuMi14YV9Pa181Zi1oUHJKNkF4R2o1dDZjektCTDEzWHlraTNPTjJDZDZJbTEzTS1hNXdmRF96ZFNGZW95VDlYZi1lcG0zMEtsR2Q5TTdYN0FqNnlpZGs2OWNVRTg1dXM2alJkX0V4Y1pDTzA4UQ?oc=5",
+   "source": "Barron's",
+   "type": "news",
+   "published": "2026-11-02T14:53:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Standard Chartered rolls out tokenised deposits",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0Jkd2NoME52X3dxNEtYR1NteW5QTkk4d1B2YzdyNjBxX0pFYlJLclo3RUFvY1ZpWWhkSDRxMmxicWdFTGotOUc4N2pZM0VlVzRJN0J6NEFoUm5hV0dCQ1B3SEhiemNhQ2JPRXJEbG1yZ3FOWGV4R3ZDTDBlNXlnVVVtU0ROcjFEZTVvelQwOV9XNmNFbUhEWWI5YXZ3aFJQQnhTcGc3dUh3T21I?oc=5",
+   "source": "The Paypers",
+   "type": "news",
+   "published": "2026-11-02T14:47:10+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "No Evidence A.I. Was Used In Binance Hack: Reports",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOclkxTHQwXy15MDJvd2p4UUVSRFdtbklMQ3NuZVBXOG5ES0I0UmNaUEJISkV3dV9KaEFydll4ZXFWVHJPOUp6eFBxdW9ES3FTR1d5OHNkTlNDdV9jWWE2NlhRcGs3aktJTzhiQk5WVWVVSGhaS2lEZ1plZjgwQUg3M3B0MGF4WTZ1SVAxaE5RR3RsLVo0TEJkWkR3?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T14:41:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+   "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-02T14:40:53+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Bitwise\u2019s Andr\u00e9 Dragosch: Bitcoin\u2019s \u201cFair Value\u201d of $197,000",
+   "url": "https://bitcoinmagazine.com/videos/bitwises-andre-dragosch-bitcoins-fair-value-of-197000",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-02T14:36:15+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "XRP Ledger Q3 Stablecoin Supply Hits $1.03B, Driven by RLUSD Growth",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZHB5NV9OVi0xWl9JUWwtLURXemxCUUdocndubHpuWlVJYUp4ZGV5MkdiMHVINm1JRTctb2NXdFcyUm1lZDJPWHJYTThiVmdMLWdhM0MtbndlLTF1Yi1aeU90VXFjYnRVU0pHU3lnSms3ZDRjelhCdjlqVHg0YXozd0ZXX0JEX0hpWGl6aGo0bDVRMVFpYlo4TWJyUGktZGY0?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-02T14:35:16+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitmine Slows to 8,573 ETH Buy as Tom Lee Downplays Binance Hack",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmZyb3YtcTNXZnNJV0JRUXA2SmlOdllMZmczWnpmekwydndVdXhuWmgzYXI2UHdSV0Q3amI4Rkd3Xy1vd1F3ckIwM1A2QzV6ci1XQlVsdkVmUXVEQ0t2TlFRbnJveGVYTndiRHJ5Y3JRc25FMWJtYVNtN2hQd1hpVkN0ZlhWR3l4V01ZcDZKdHlZdw?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T14:30:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Adam Back: Pension Funds Are Bitcoin\u2019s \u201cThird Wave\u201d of Adoption",
+   "url": "https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-02T14:29:48+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "JUST IN: \ud83c\udde7\ud83c\uddf7 Mercado Bitcoin halts deposits and withdrawals after a security incident, says no customer losses",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3hFUW5xWm1HSXozdjFUOFdfRVNUZ3Rid0dZVllLbUM1VGI4N05sM2tMU1kzQnNRcWg4OWUzUXR4N1RRWkhiMFpXS0xFNmpwQVdwbHBJYUJ3SUtSTVljdDhQYTJ4Y0JCWWFEZGkyM044MzVFQ1doMmJ2QXhkcHk0N3RPRFFrLWxkcE00MUdSUHdOT2tNUTZDUkphaU1aRi02dklZLXhPam5qNjlyZGtQZkE3akF3OVE?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-11-02T14:27:59+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Mercado Bitcoin halts deposits and withdrawals after detecting a security incident, no customer funds lost.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2FOQXdaSnZyT3ZxSWk2M2xadjhpOFkxRXdkbkRvYVRPWFhyYXdlZ2wwemFnUjUtbElhUTlYYXBtcVBFVWhzaDdrSmdrcnktS2JEQ2lzdko1U3BsU2o3Q3lYcmN1RUFJNDFzckxjRVJaQjBtVHJjbUxxS1FmeUxiWlM3WTYtNjVFZDJ3?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-02T14:26:08+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Binance Hackers Employ AI to Hunt High-Value Crypto Targets",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1cyYXhjNFh3ME5fZlRBMVVRVkFqYlV1bHZ3eW1JWEplZEhJZnBtcXNCU21ibWRhUkFhckNTQk1xZ0VXYUZuTWVQc1gxWDc0N2ZQZVlmb1VEMmpNMFRTbzFHdzNqQ1JpdWpsVnZZbnpKbk9ZUnFnM19GcDhiWHplZU93UVkxYjBHMlJhN3RrR294UlB6QzRaOUlqWGRwWWVFMkdsQkNB?oc=5",
+   "source": "PYMNTS.com",
+   "type": "news",
+   "published": "2026-11-02T14:19:43+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Brazil\u2019s Mercado Bitcoin reports security incident, freezes withdrawals",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzZCdHpPYkh2aGszTEdkNXhJMjh5OF8xWi1CYllYRlprbTNtTDA5anNRLUhiNlpuZHd2aFpYbnBlR1U2NUNDMkR4WmpNWVg0d19PS1lXeWQyeFZ5RG05NG5Qb0NUV2JjdThJX215SXhIc09oY2ZJTDdZVEcwRnhYQ2I0ZFBKNGRnYzBRS3JMSGZtNXkw?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-02T14:15:15+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "BitMine\u2019s ETH Stash Hits 6.06 Million as Tom Lee Reaffirms Crypto Bull Market Is Still Alive",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0ExXzJqV05waEZyc1ZtOWRmMG4wRXpuSU53MDZaY19MRXhTM2tMWmZsQlptTUtjelpRTDdQYlFVTGtzODY2ZE9GbDllN2NpVW5seWZSTXNSU1J4bTRFaFkwTUdqQU5YLW01WWFSUC1RT09KNEdLMlEtblctUDRmbXA2U2daTlQzNlJxdVhKYVlzUzZSd1dzS3F5TlZDdVRUZnI0NHE0QWlPUE5hdzNuZmxNa0dhLXBYanJ6eE9uQjZZZmM3OURVXw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-02T14:15:10+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "THORChain Halts Cross-Chain Swaps After Ethereum Reorganization as RUNE Drops 18%",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVGNhdl9MbEZaa0pKbzlfZXBQZ0xqRi1BXzZSdXktSm5uSDJpWmNtc0RSQTZhOWtEejhGR2dJZkJ3ZC1SdE8tN1BxTlNmd0JCVzZvYWdfYWFEaGh4MC1RNG0wLV9JYmk5aEhLNUFQbzRDM1pMRWJ1Tmt4TldES1J2amhHOWl5UnFOYjZNNC1OaDEzUmhqZ3BMTm1CenRRUElycUJKM245MnlQQ2ZMMU13MkVrQ1RLSUluTFI0?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-02T14:08:39+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum",
+    "THORChain"
+   ]
+  },
+  {
+   "title": "Over $40M in suspicious transfers flagged after Mercado Bitcoin cyberattack",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVWE2Q1UxaTAyeFYzVW1UYUxWejVwRGhIWGZjeC1wVm84c3BfMmpST1BvTlNza1Nyam52LUtTZHlkRm1vdGxqUm42cWlwQUNUTFF4c2steUZQZDNtUGdtOGVLTHp2OWNmOHBGcTIyMmpoX0pw?oc=5",
+   "source": "The Cryptonomist",
+   "type": "news",
+   "published": "2026-11-02T14:04:01+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Mercado"
+   ]
+  },
+  {
+   "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+   "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-02T14:00:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Hong Kong Advances EnsembleTX to 24/7 Settlement and Plans Stablecoin Trials",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVldLYnE2eFVqbmRxTzFZVzhzUlh2d01JVTVzdndtX1phbEpUb09GQ0VPU3dtNUpvMG00X3hWQmY0S2FNcFotV05kLWl1RDJ1NExuQTY4LW5kbW5WbkJQMFgyT0Zha2RVb1pjNnRCSG5TNUZLSV9LcktoeWhaMlQ1X2hQTE9ETHB4NGF6NjVTM3ltRDd1bzFmTVFFTmZjUkZRN05ycHVLOUNia0hLYkp5VTl4QmpSdngyVUdBUnQ1bmRmeU5sakhreWFta3JVNG8?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-02T14:00:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Strategy Resumes Bitcoin Buying, Adding 811 Tokens To Its Holdings",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnl3Z0ZWN0ttX25OMUMtbW5kMFY4UktKdnhWcVNrQ294TUhlVk1VbkEtZEt5T1l5NUpKR2ZRcTIyNlFvTmFDVnVqYUhhZGdHdGVSZzVZdTI3Vm1GaGppV0hmWlhnZ1c5N0JQejM1bFUzVU53S19VNC12T0ZRa3hIR3lYdXBVWF9lbGltS3hFT0xnaDFURGcxMkF5OVByeE5NVU1RQ3lR?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T13:59:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "North Korea's Lazarus Group has stolen $11.87 billion in crypto, equal to 45% of the country's GDP",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNk1hdEk5TkRpUlVxZk5TSG1zVlJlSUx6ZTdMbG5ObnRnMW96Nm9HZDZnQ1NLWUIzWjlSX3NWSXNVZmtIellmblBYVkpIRUpUdHZBbzRwaGlGdUpBbzhpYk1KeW04WGlqb2lKQUF5bWFVRFdCWnU4ZHRRWTBhTzNJSkNNZDJVc1pSb0I5Mno1WUt3U3dIYUV1SFJYRElWQV8wTVVzVjhQVG85MXM4VXVSQ3piXzNwakE2SmU5UXo2bzlHdjd4Qk9heVhZU2tXUTdCZTRMQlhfaHRuNXgxZEtKZk1NUHJ5a3A5RjBhTkN5a3k1dw?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-02T13:52:43+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEJpbTZXY0ZyOUlFeVlMQzJXcThlNXctOFpCcDFfYmx5bXk5UTA5bUN5OEpOQ0ZldU9wQnpFV1pBTVdpSTk5MWZlQVVBbUtiWmdNWDJjRkttV3RKZ3FlN05zeVhjamVKZGtjeE5zNDFXV1A3b25GdjJXUFNmcUNKN21OWkU2Mzd6Qm9yb0luWHVsR1VqcVQ1U2VFNXVJeDV6eHFfMzhacmpGV2lMdHBNQ0YzLXlvYXFhdWRUX0tmRXZwdExKYm9PZDVycFhpUzBvSkJiMGJjazZLQQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T13:51:17+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "THORChain Faces FBI Pressure to Block $6.3B in Binance Hack Funds",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjAwbFpMdG9LUy1qUUZCUjh6Sk9WRHVqT2QtXzJiVEdrbE5fUnA3NFJSMktyeEZZSEFpU3BuUFB5RVRUaFdDUTFNTWY4M2FVWUt4djE1bjhEaDNrUHFxaDJPSTNKa3lNVExURDVJZS00V3ZTZk96VGVyaTlUYWlwWHhLVVFlM0xfcThJQVNpbzhUYmhIZDJ5dFhCMmg5VjY2enc?oc=5",
+   "source": "CoinCodex",
+   "type": "news",
+   "published": "2026-11-02T13:51:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "THORChain",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking",
+   "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-811-bitcoin-strive-too",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-02T13:50:53+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Tokenized U.S. T-Bills on Solana Grow by $216.9M, Leading",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjd5cnJGUktlRUpTU2hqNkl5Q21UQ0pzcWlJbDduR0RQTnJoSElfWjlrc2FjNFNKMlBJQ01vOFVLQ24tSHpTRHpMVEVQbUNMYzBrQUFmdGZhUk1lTDJkdHVBRHFzZEVfdmo2TjcyWTlLZHJ1dko1dmRWZmVHTmFkWUhkaGxFdw?oc=5",
+   "source": "Coinfomania",
+   "type": "news",
+   "published": "2026-11-02T13:48:35+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+   "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-02T13:48:28+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "MicroStrategy and Strive Buy More Bitcoin, but Shareholders Could Feel the Pain",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1ltUHVELUhQMDR5b1hlZGpiNlhaYUg4bk9vRUMyVDlpb2ZjX2RrSVloX2VyUE5WYjRDWkdzelNQM0FOaVZoYk9UeU5wczJSbFFNOXZ3d3ZLTXh4X1g1c21IZ3NoMUlFVkJYRGJiRXdnOTN0X0VuaGF3MDlhazhWZ0ZjLWdtcU5TdzFUS1AwR2tRRVNiRXNiOUpvM3VuZm9pZUtzZQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T13:46:09+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Strategy Resumes Bitcoin Accumulation by Adding 810 BTC",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFB3WHQ1VDVzNU0wUXBhYm5XMUc1bVY1b2Jsai1qa3VhbjZYZGRHYlExQlU5SzV4ak80dWJvZUEyeUNkMENQZTU1NE9DcnFpRi1EcGJQRkNZRzFickMyRUg1LS16WC1od3BPNHlpSDc2cmlmV01neG5VTTVKZnpZU0ZVVDg5SG45UE01cm9PMzRSU19GeFJXZg?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-02T13:41:32+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+   "url": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-02T13:34:02+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Form 8K DeFi Development Corp For: 2 November By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmFCY21SbDVqR2ZXdk5mN213aDUxOEllWG9nNzF0VC05UFBZWkxSejUzYzBIb2p1QzJ1djZZSTBTc3RnS1U2NndFVUd2RHBFSi1VUTNxZk81ZkJYQ3dLMnBWWHkwV01tNFlVMUVpRTExTHphUGJBcWR0ME9PQVlBeW1GLVpKenBwVlhmTjQyWlNCN1ZKZ2tVYktEQUdrYlhvQW5WZTlrOEY?oc=5",
+   "source": "Investing.com India",
+   "type": "news",
+   "published": "2026-11-02T13:30:11+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.06 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $14.5 Billion",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQallCeEJOdEV3RzNESjBxQkFRNXZPV3ZnU08wTXRaajRiYTdRZHdGclpaTXJ4MnJRWEdjRy1ubGYxUmxuREtLaHM4R053MlQwZmJVamdHTjRsTXg1NmlqX2RuSGxvbjg0eWlwNUw2QWpIVVE1Vi1Sc1VFYXJDb0U0ODZabFFnem50bThnUXdTWE9hVVdtSHdNbjFDeHFxdnJQaHIwUHIzby1rdWh5bGtaR3BTYlhWTGJNSmhyM0RHUkVZbnlmYlFid01NWUFTd3R0d0w0WHZjYmxSRFk2MTlQZlRQWHphUFB1U2ZpSmNCUnZKU2VGMC1sMGthLWFwRUczX3Zxai0wQjZMTE5heWNPOHhlVkRZN1dmSmdPdEJMQ1d1a3FhR3FMZGdZRWtIRmh2RnZoRjdraEhWMEJmWDNlV1NB?oc=5",
+   "source": "PR Newswire",
+   "type": "news",
+   "published": "2026-11-02T13:30:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin\u2019s Resilience After Binance Hack Masks Market Jitters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON015ekNBYXdIZHd2dExpZHUxWW9VcTAyWDFjREtEWWRHcG5STzV5MVdkdjRqdVIyT01jak9Cek1vVE1Rb2w2QW4ydzRYak51X1J5anRfaEh3enVhVGUyZFR4emgySTBhUFJsWG84TGdlVlptanlwckdmbk9aR2cyYjlsRHBQYVRFdG1ENEFUdG1YQ3daZkxJRDB0WnNTQmpfa0ZXWlRQNTlnSGI4dmtCOA?oc=5",
+   "source": "Bloomberg.com",
+   "type": "news",
+   "published": "2026-11-02T13:29:42+00:00",
+   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "topics": [
+    "Bitcoin",
+    "Binance"
+   ]
+  },
+  {
+   "title": "\u2018Be Careful\u2019\u2014Binance Founder Issues Stark Warning As Bitcoin And Crypto Brace For \u2018Real\u2019 Price Test",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQnVCenJyZlJxek5UaDNTQzVlN05MeDh0OVhwWHhRUGs2YmpqZlNJNjJXcXA2S3RPb256dzRsVmZuSXJPNjc4aWpiWkZGY3o5RzFvak9pZElNMG81RHFLcERId0V4d29ZckRhSm5SWHFISHNhMDMxTGZxY1hQYV9lWnZ0VjkzX05ZZERRY2NCY2hwRFlTZjFwSEwweXZOa25SRUpKSEM3bTQwbDlEaThOTDJwNk5NZEp6RTN0dFFTMmN6eHR4dC0wZE1wT2FsQ1RRV2xaWjBNQQ?oc=5",
+   "source": "Forbes",
+   "type": "news",
+   "published": "2026-11-02T13:29:21+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Crypto Price Analysis, BTC, ETH, INJ, HYPE and UNI, NOV 02: Bitcoin and Ethereum Rebound as Uniswap Gains 3.4% and Injective Lags",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdVlERk9iX3hyaGRGMGRDUHE5NTdxNllTTzJrNjdqNWFPMnREN1djRk5kTElUZ0N4dkdwRGppanE3eV9Dd2tQellvTE9jdFFXeTJuQTZ3TVJzVFh2T2Z6bDZ2SkRCRExYNElkZWZhSUVwMW10Qm9aUHlLWnRJVE1rLUFzaGl1aDV3Z21ZcV9Td2IzSFdwNm1RN3FSUUlsQjN4MHlOYnY1WXpCaHEzTmpGX1piaEhLdnhNVTkwWURUTkxDSHVjWDAxTHItRmFrQ28tdGZ4a1RGNzg2S1p5UlZ6TmpCQnlnMlZvWkZuRFJ6cDI2Zw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-02T13:25:46+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "XRP Ledger to Fix Flaw Allowing Unauthorized Stablecoin Minting, Earliest Rollout Nov. 4",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sTmVmZU1sMXNTdzdOY1BSWEdSTU5pV0ZjZHZ2RkduVm1zRmZMd1dyN3pzTHlodlRwODY1cmJBb0owa2FtRHQ0cVFKQWNvX1JWdkxrcw?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-02T13:23:50+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "RedStone releases DeFi distribution playbook for RWA issuers",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeDNaclNXOVNZUDVNYktkdmZ0NEhGMEE2RHNUNWYyZElyMnVHYzJ6Q0NjZnZRMUN3QmVLYk4yeHRudWpwQmlZX1dhVkg5NXRDN2c0c3NwRS1sSEE5c3Q1aUFpd0JJT0ZIMGRkNlVTYkJ4Y0dHeFVOZDhuSHJNMGhVYw?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-02T13:22:24+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "PhotonPay raises USD 40 mln to expand stablecoin platform",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnlta3lCeklqRHpGakVxOFB0eGdyemk1akUzd0xEdzZwR21kR0JlbW1QNWZTSGJIa3FCazlHYjg2Tnh2QzZaRzJQRVVDcDVqTlI5MjFuMmhaNEY4T1JXbDZGazhSLUZLWmx6VWVQamVYNzJxeUpHcHFYaVo4ZThsSlRPc0JQU0hLR0VrZVlQcW1XcGlGWkdmbmtkYjdnN0tGRG9kNw?oc=5",
+   "source": "The Paypers",
+   "type": "news",
+   "published": "2026-11-02T13:22:18+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+   "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-02T13:21:47+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+   "url": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-02T13:19:36+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Uniswap Could Benefit From Binance Hack as Standard Chartered Eyes DEX Growth",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYThXRDhRdmtTV0hfZW55aW5QbXlQTkRYWkg0dlFySTJZQVBiUWd2bERuUWpvUVZIeDV0Qmo4Zzk1bEI3aGhfc1dxOENSaVNYcXNrMEN6MDhfeUswQXVHWVNEVzItRklwazVzZWJGWDhreTctOGxVZGs2d015dlNGZ1YxOW96VGplXzdZMWR3LW56Z3dNLXBKS0pMcWpIaUNGclNMQUx0WXVaOUpkUmREc3VPY21wQW9KV0l0My1KZER6cWJsUndXR1NKZjhPTkdNWXFiTXBsb2hqWUxpZTFuLXdtRE0tMHBhd2FWUU5veUpGazRiVTBPVkdsMk5odS1OTGtpeC0yRdIBjAJBVV95cUxQa3BUSnVJZFc5NW1QVXRncW1DREVZQ2Zsc0VYSW1MOThDUDFRNTZXTGl2MVJMTU93TEZ5VF95c2Q3V3lyay1lSUg1Nk95ZUV6eFBkNXJxc1ZBMTdrMWIwUG9zN1FiY1VhZWZ0UnQtTEQ0cG0zalUxaWtyWno0QWRpWU1oWVVReFk0eXpuU254MGtUMUdOVDYtOE1zMHlITVZWeGVEYkxGd0Zlc2ZidlNrZ3M0enpxYVdGYjVfX01iUTF2Ykp5YmRtQXBFMmR5dngyNE5nNlRweGlxT0toeTVkaEJrd040VUxhWF9kVl8wNmEtUkE4RU50aFp4Z2xiSU8xb3psTVh4bEllZmFh?oc=5",
+   "source": "Gadgets 360",
+   "type": "news",
+   "published": "2026-11-02T13:15:40+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "DEFI",
+    "Binance"
+   ]
+  },
+  {
+   "title": "DeFi Development Corp. Surpasses 2.6 Million SOL as CHAD\u2019s 14% Annualized Dividend Rate Takes Effect",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYVF6Zm9SdDRldWNBMTJXVWhIMzd6WGZkRVNWNFFzYWJHSFk3M2tiQndDY0UwX1k1TjUxSVFSVTdrMGJleWNud18tMWxfVW5UUFdoSnFyTFZpVzFmZ2FMQjBaM05sNFA2UC11c29OelYtT3VpMDdaVzBpUFVyeXZwdjZfeURCQ3ZUOUtpODh2YWFrYWkzc09zUlVxbkFlbVdKVDUxci1jYWdncnpITWZLWEs3OW52RVlrVjhVdWxVTlBISlpXRE4yNlIySGhmZEttTVo4YU4xek9hVlh4amY1NVFrYXFDbkVKMVluVlpGdWprSzNLeWNBU2xGb3ljcUF0c1FJZ9IBhAJBVV95cUxPYVF6Zm9SdDRldWNBMTJXVWhIMzd6WGZkRVNWNFFzYWJHSFk3M2tiQndDY0UwX1k1TjUxSVFSVTdrMGJleWNud18tMWxfVW5UUFdoSnFyTFZpVzFmZ2FMQjBaM05sNFA2UC11c29OelYtT3VpMDdaVzBpUFVyeXZwdjZfeURCQ3ZUOUtpODh2YWFrYWkzc09zUlVxbkFlbVdKVDUxci1jYWdncnpITWZLWEs3OW52RVlrVjhVdWxVTlBISlpXRE4yNlIySGhmZEttTVo4YU4xek9hVlh4amY1NVFrYXFDbkVKMVluVlpGdWprSzNLeWNBU2xGb3ljcUF0c1FJZw?oc=5",
+   "source": "The Manila Times",
+   "type": "news",
+   "published": "2026-11-02T13:11:45+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Crypto Hack Losses Hit $8.74 in 2026, More Than Triple 2025, Yet Without Binance the Year Ran Quieter: How Did Bitcoin and Ethereum React After Major Hacks?",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemZOSXZzeVFEZVAzSXFoY3ZnUkZ2SmxvRFl6OVBsOG9WRndNOWZ0QmVkeXFJUm91eE9FTXAzc1h2Yndvb2FLanZRclpTWE1FZTJCdUhSNHRsOFZyRG5ta0NiaWo0WERReDgwRFdkSG1vWkp4ajJVY3JTNlBRYk9ZeGxOMXNjV25GczBxdmdRcG5rcEU?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T13:10:17+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "Binance"
+   ]
+  },
+  {
+   "title": "\u2018We found room for even more orange\u2019: Michael Saylor\u2019s Strategy scoops up another 811 bitcoin for $65.5 million",
+   "url": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-02T13:09:43+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+   "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-02T12:40:45+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin",
+    "Chainalysis",
+    "Binance"
+   ]
+  },
+  {
+   "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
+   "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-02T12:37:24+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "The Morning Risk Report: Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3EwNDBrLVNaanJaY3B4NExhc0NoRjV5YUoyV3JORGtlZllPRTdLWHZWT2dkMjZaeE14blhnMFR6cXNKNEpBTHVGaU5OZjhFX1RnVlAtcFMtMDhoQXNhNHkzNnFLVW9rWThSc1FQYW1sUXBiOGFOVlNyZzJvT1lwVzkta2ltaFM1NENuQjZZcDZ4YmNJZVRCdDBfb2l2N1oxSXRRSUdVT3NLM2lEbE5HNGgzTW15ZVVmdlJqdG42cDJCSmc1RkNWRnNNNjFNT19OeVpWNWVkQ1JkTzFWVHc?oc=5",
+   "source": "WSJ",
+   "type": "news",
+   "published": "2026-11-02T12:35:19+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "StanChart-Backed Anchorpoint Taps Solana for HKD Stablecoin Issuance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mMllOc2VuM3A4eWx6MDdsYVRDRms5MGdfV1NxOUNpaWlBYk45Sk1lMnZYY3RrbGthWk1WZ0RmQWY0b1FrR3Fma2ZQT0doOHB1VjI4LVlTV3RsYzVVOEktNHBpR1RROC1fMHd6bEVJQ0N5aUNaMmc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-02T12:35:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Chainalysis Discloses AI-Linked Breach Exposing Customer Data",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN01ueW4zc0FfazdFM3VNcTJCZnlmSGdNZ1huMVVyb1g2ZGtNS3VPclFZOUZIVEg1SnNtMHpET25xb0JIeTdJb0lJXzRfQnZOc2VpXzZqaGhLcmt0Wk9mcWNXYkR5VDdzM2VKb3NRaWxuV1Mtb0t2T0pORlJ3SDFZRU45WQ?oc=5",
+   "source": "SQ Magazine",
+   "type": "news",
+   "published": "2026-11-02T12:34:24+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Chainalysis"
+   ]
+  },
+  {
+   "title": "Binance Restores Withdrawals; Crypto Sector Scrutinizes $6.3 Billion Attack",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3lMM1BXZkJMaUIyeTJ2WjZtcl9RbHQ4aWtnVmxvMTRtNmhiWkRtN3pFZi1OUXVCc0pFMDF1VWQxM2dfUWQ3Ymo4Q0VNRWUydG1SNnJjTUJGMHZ6bkx0RlZRVzZiTWdvTE1uWEhHbDRla083SVBVYlRyc1BRNGpjWE1sNGlqUnJXQUtmMkh5cVhnVDVnUjU5MjVPYzU2WmdaRE1pbk9oMmZ5QkFUN3ZGYlk3bkFzN3BfTkU0S3JYTkVDc3FL?oc=5",
+   "source": "Family Wealth Report",
+   "type": "news",
+   "published": "2026-11-02T12:32:14+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Bitcoin's 'volatility curve' has a midterm bump",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-02T12:30:17+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2ZwRjlWNks4UTJHWjhQam5LWEJ6R0lmQ2NCMGRYLXlCY0ZNNjFJSWJzTlYzT0NZczhYVExETEQyQ2JQMEFfNTJTM0NSMzVsQzFSUXd5U1VVT0RNZ2tRd2NQaThNZmxHcENvNXJnQzhmTEFiNEFMNDBYaG1ua211UDBPU0htX20wcFo0TllFcmxNTUZDZVFaTlJmaDRYSUxsUEZRUTJ1ZjFSTUdGczBaOTJCTmQtcl8y?oc=5",
+   "source": "Washington Times",
+   "type": "news",
+   "published": "2026-11-02T12:29:35+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "1inch Pushes for More Tokenization as Market Trends Evolve",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkpwWGRwV0JHbUFKMEpxRGZfeHAyRlRyOUN1SG9iYVphNXVXLVlRTDBLWXEwWTFWSWNTRTNfcno5Q2ZyUUNQZG5KNmI5UjJaQURsd1RwSThMS2otSUxBWndMMHNIWUxTM2RlV1IwQTZqNHNla0pmREdtSlNzUWZkUlU0YjF4NUI4N2Jn?oc=5",
+   "source": "Coinfomania",
+   "type": "news",
+   "published": "2026-11-02T12:25:26+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "HKMA and HKUST Launch Toolkit to Support Quantum-Safe Banking",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmFDeUYtV3dPZEVzLWxYZ1d0cVFwbUN3X25vY1ZEY29EQWJpWUprYk9nU0wwQXdZMVduZldUQjlSemJUUUlaTWFBTFFpaGlqSXZ1X29WbDcxdXk4NmY3RmFlTUJUenFyaUxsM3RSR013V1cwQ0YzaGNXajFCOEJzUWN3MDFGOWhmc2MxdFlMNA?oc=5",
+   "source": "OpenGov Asia",
+   "type": "news",
+   "published": "2026-11-02T12:10:52+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Safe"
+   ]
+  },
+  {
+   "title": "Binance customers pull $4.7-billion after hack as crypto investors weighs risk",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWZ2WmpGV3NpendZcmtfVFFOd1RLYUhIcElKSFh5NjBjUmFFODFySzloamVkVGJrSThhLTc5QTJMQ3RVczJ3Q0F6d0VSNW9rM2hjdGhKZ0sycTE2bnpXWWhHMzhZT2ZzR3FlQm9VdGFjN3pHLVF6WlZycFU1NHRBa290SERqaHVQeDRpY21CWlpYcUx6OUg2YWhuYW1qQVF0Q3hCb013?oc=5",
+   "source": "The Globe and Mail",
+   "type": "news",
+   "published": "2026-11-02T12:07:44+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Bitcoin Faces 3 Big Tests During the First Week of November",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlZnSHplaXhBYU4wS3dacDRtUGZDOGNqdkY1UnA5NDdPRHVlY0tpODV4UldkZFpBTVVEQ01BN3pNSEhtVklIZzdkRjR0MXNiUWxvQjNKTDVoZnhRRE1sUzIxdWViYzFTUGl6WVJuMzVYa2pxRGVGeXk1bXhOc204LUNNVXlCMzY3SjhtanlSWTgySU45?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-02T12:00:55+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Noble USDC Holders Face New Migration Phase as CCTP Limits Start Winding Down",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd2xGd09udnIzaW9OVHFZOVpXVnVBMFZQNUhXVWRWWU53QmxILU1rbGF2UHZFSFZubVpzNTViS1BrZ3FBdHI0RVItWFY2RHpXS0x3dzBQLUNuNDJkNVY0ekNoMy1oZ09idWRJcFVIXzVVOWIyNHNCaGppZFVtalUwY3dSdERhSW9WR1NSOC1KTUpUYk4wY1lXaXBTUjFXazQ1OF9ERWtHTFNRbWJrbmsxeVFGS21wZXp0Zm5WWWdQUjBHTTB4NHV3dUV6RW1pMEtS?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-02T12:00:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin"
    ]
   },
   {
@@ -176,7 +1433,31 @@
    ]
   },
   {
-   "title": "Current price of Ethereum for MM-DD-YYYY",
+   "title": "Bitcoin, Ether Forecast: $6B Binance Hack Rattles BTC/USD and ETH/USD",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFpSWnVjRm9SMHRGeWg1cWZQTU5TUnUyWTU3ZjdCTHV5VV9KZUt2N2VKaHBESkJkTUtiaEk2UmVvZExLY2hYa1VoX2xhUDNsdzBXalZTYnBLb0NBbVJkZElWOTJGZXhmT0phN0RKX281QzhmSXF6Qk5nVTZIZk1pUXNLcDZSbDcyRXZHNmxNeW1WWk5PaWUxX1dyelhBd1NUREVBWjhrSHJvRmF4eFJYTFFabEU?oc=5",
+   "source": "StoneX",
+   "type": "news",
+   "published": "2026-11-02T11:51:23+00:00",
+   "first_seen": "2026-11-01T07:00:55.495987+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "Binance"
+   ]
+  },
+  {
+   "title": "Binance hack: the on-chain link behind the attribution",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZF9Sajd1UmhjTXZTdlhqR0swbFVjeFQ4alNXMUZNRWRleXhGYUxUNU4yMzhSTkVTWHdRaUlkM1R0UlRRWFNJZGRNQmRVX0EySmM4a3RwVVo5VXlKTGFpMDhncF82N1U5a25VdXotV1ZUWnZFN1o5bGprTk9sU3piRV9qek1Vdw?oc=5",
+   "source": "NeoTeo",
+   "type": "news",
+   "published": "2026-11-02T11:50:31+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Current price of Ethereum for Nov. 2, 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMEpPR0c0WTFjNVF4U2oyLVlTblV5akxQUjk3QmRYWTdlZ1BEQkZocXgyS2l4TWdNNEZMcExrVnQydDAzNFdEY2JGd1prZXYzeTFaQ2NZMHRMejN1bk9jY0tCMFpScHJm?oc=5",
    "source": "Fortune",
    "type": "news",
@@ -232,17 +1513,6 @@
    ]
   },
   {
-   "title": "COIN Stock Sees Split View On Wall Street After Binance Hack Shifts Sentiment",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3daRFgySXpiRHI2RHhlSXpnVUlWNm56ckFWX0toVGhibF9fNzRiVEtNY3Z4RWw3YXFfSk1oamlEbjl2Uks0NjVPbDl3MXBndDJyd0Itakc3NnVKRGVSMzBxdkhuVGFQTnNDbDIyRHZmNTB0NEpNNEl2YmdwajVDRkxMbFppSzRVWktDeFJpUmVnQVhBRUE?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-02T11:30:57+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
    "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
    "source": "CoinDesk",
@@ -267,25 +1537,14 @@
    ]
   },
   {
-   "title": "$3.6 billion pulled from Binance as withdrawals resume after massive crypto heist",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTNyUVN0VGZBQ0VsSFFFYjRFS1F3cWVfeEhsV3dMRG14d3dUX2Z1Y094d3lHRHNYb25OZERuc0ZILXdYT0pYZGswTmlkbDNub1I3aDVfcV9SVXNNTmNOU0ZrR3dPRlR3T3dmSnVHQlItVXIwLVNkTTZrUnVKSG92V2hQQjlLUGRSNmcxR3pORlJoR0t2UjFXNHVNOU5zczN5TkdQZHlVTTY2MS05Ukl2X3lTMF85WHhJLWsya3JIZml0bHd6RFZ0MQ?oc=5",
-   "source": "CNBC",
+   "title": "Visa Stablecoin Payments Explained: Settlement, Spending and Payouts",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjY4MXlCU1FKY0hWaW1RLUF1bXZlOENfRlJXTWlRaXN1NkVTMlBXSGczdVNxaDlEUUw5eWF3NnZaVmp3el9lNmcyR2MwTlBxZE5vcDNzUFNPUFpxbW1fVjBQVGlkdGhxS2pVY05PZy05QzdBZW5OcmFUNU1ybi0zVU16cjIxYnFZeTkyc3Zaa1BZV1duUV9mRm9OTmRsSHJhWFlRcFozdk5CcTVtMUFvQmVWakxXYkk?oc=5",
+   "source": "The Defiant",
    "type": "news",
-   "published": "2026-11-02T11:27:12+00:00",
+   "published": "2026-11-02T11:28:49+00:00",
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "Wall Street Slams the Brakes: Four Days of BTC ETF Inflows Wiped Out, SOL Posts Its Worst Week Yet",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkNWM4U1gyMXFiLUM2c3VObDY4c19jLUl6ZHhxS2kxbW1IbUhjOXJSZ3hsY2dxREdGTWd5UGEyMWQ4aFhtSHdveW1yWEFIS0ZWTk4tMEJFVWp3dmpEZkdwV0V3TW9GQmEz?oc=5",
-   "source": "SoSoValue",
-   "type": "news",
-   "published": "2026-11-02T11:27:07+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
+    "Stablecoin"
    ]
   },
   {
@@ -300,15 +1559,15 @@
    ]
   },
   {
-   "title": "Crypto News: Binance Hack, DTCC Tokenization & Ripple Bank Approval",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1BpM2tRTXl5LXI0LTF4TXBtMktMcWdCUVVlTFpVWms5cXNUV2dGbUxmZzZ3MDNnREI2aFY1YWZPT1BRemZDbkNRLWJ4SjBMQVl3S0xBVUVkX2lsZFJRTkZPQXNmMDJ0NGlJNDJNdDdIVXpNemVyUzFwLUZwV2FnVlRDcWk?oc=5",
-   "source": "StealthEX",
+   "title": "News: crypto market November 2, Bitcoin rise and THORChain outage",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbnhQZjN0cW1qa2JlR3puZzhabmhRNHU3d2xUQlJ2QmZFZkxWREhaUm9zbXF3UWFqbjAzckJpOTllbWpnV1ZWa3RfYngzZjE4SDQ1Mzdwb3RfeTRVTVRqUlc5UWk5M0c4NncyWk1yb2ZTakswcFJmMHROVkMydDQxVGZ2MzhRWklMMXZoUDlFQnJCakZfaFJfVkR0Y0Nab2JEd0M4TmxrTFNfZjN3dkVnUjhqZ3NsSHFFNmxtSWw4eGw4NXJHdWt3djd6MmV4UlZnM21ySXVTdVBYSEtGMFIyUnZ3QnA0R2dEUGF3TVQ2X3I5UQ?oc=5",
+   "source": "Coinspot.io",
    "type": "news",
-   "published": "2026-11-02T11:26:15+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "published": "2026-11-02T11:25:08+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
-    "RWA",
-    "Binance"
+    "Bitcoin",
+    "THORChain"
    ]
   },
   {
@@ -323,17 +1582,6 @@
    ]
   },
   {
-   "title": "USDC is growing. How much of the income does Circle keep?",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmRPT3dKc0FLWjF5cEM4bVBXZk5UVmYyMWpTcDJvYTdVWnJ4OU9ncHJqVnk0VldXZUFYS3JjTlMtc2N5S3B1NFZ1VlFuLTRaSkJtVVI0RERvWHJSQVV2VG02RUZpUUNIOGY3eUY0aXkwMEE3bG5sUVpJdS1kYlNFTTVB?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-02T11:24:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "From Uptober to Hacktober: Are Bitcoin\u2019s seasonal patterns becoming obsolete?",
    "url": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -345,26 +1593,14 @@
    ]
   },
   {
-   "title": "Bitcoin Steadies Near $78,000 as Binance Withdrawals Resume",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUtpTU93QXFPeHVVYi1TUm1RZXl0VUlqSW11RWxQalFkZi1meF80NThrTmcyXzA4aW1LTm94SEVBdW1qTXNlM1N6LVlZLVU2R25xbEdZM1FFTFdPT3g4WlZuSHl1bFFrdng0LUFGN29zZ1h4M2pSTWRXbk83S2d2VU5DVHo0UnBJNHFGU2RGeElwNVJvZUU2SQ?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Form 4 DeFi Development Corp: Fei Han (CFO) For: 17 September",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQzlOQzNNMXZKZkJQYjZNT1pfWVh1V2UyV1VFaU1vajY4enlDaFhzQmFNV0xVMHhWaGd5Zno2SzJjam9WUDNPWmowckxuYTVrTVNscEdLRG9VWmJIOGg3R3FzQTVSSXM5ZDlPdExnWUlHek55am80Um53Z3BXUHVzcmE4WnNSeTBCR1NyUVFjOW40eTlKQmF2Ykw1bkRTS3kxd0otS3lNSkl6UTJ0alpuYl9PRzNGZ0dVWVE?oc=5",
+   "source": "Investing.com Nigeria",
    "type": "news",
-   "published": "2026-11-02T11:15:56+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "published": "2026-11-02T11:06:45+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYVczV3pHZzBMRHZwamstVEhXR3dPZlRYTjJQMUU0U2Z4WElvaGlOV2tYdng1WC1sb2hxek5PTmlxWHQ3ank5RUFfYktrQ1E0clJrSlFZZ0t1ZW9LMkxNWVE3elRqdWZULUJKTm9EQkVpbjc0NWdadzI3SlU0WFNWQkVxdW91OXo4Ym8yaWIzTDZOVTdHcWtoaGZzc2VJVmZqd0x2QlNPM2ZKN0ZfNTFFVDRFdTRfZjZXZzVsRVFRX1c5NzM2ZXB6MnFINWdFUlFZNTRQa3ctVXpaZWlXNFM5NGtYVWtpbzVfOWt5WHdn?oc=5",
-   "source": "markets.businessinsider.com",
-   "type": "news",
-   "published": "2026-11-02T11:14:08+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
+    "DEFI"
    ]
   },
   {
@@ -376,28 +1612,6 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "Strategy's Michael Saylor Blames These 3 Factors for Bitcoin's Recent Sluggish Performance. The Most Important Is Treasury Yields.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMU5CS196cnBFOThNOENDR292bmtueUxqOEZrY1p2RXBibEhoMGhlS1djRXNPTDdfeDF3UTVFUUJUMjlWd3BIX3lzTk9HZ21CS2cwcFBuQlhuZXU0ZzZKaVI3OUxrTVpyS3FNYi1rVTZVU1JBT3otYXhiNVRoMzBGYmp3RlJWQVZ4aFdCUGVtU2NBeEduR2k4dA?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-11-02T11:00:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Binance Outflows Hit $4.7 Billion After Record North Korea Hack",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0JDb2h4U185ZWZOYWlBWllSTE0yb0JoVmVyMGd6MVBEbGgxNUlqR055SE8yN3J4Sm9FN1hxQ2JKMlo4WGg5NldxeU43bVVsV2xTQUtGdF9LejZPNnBxN1k5eUlFb2hpMWE0alFZcnROSWZMRU1kUWxLYUdGY3lkWXNMSjlIMW9xbVFRWGd6SXMxTU5uY3MwMW5IRFh3Tms4WE1PNzFXRUdxdkxRLUhRNzNBNA?oc=5",
-   "source": "Bloomberg",
-   "type": "news",
-   "published": "2026-11-02T10:57:08+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
     "Binance"
    ]
   },
@@ -414,39 +1628,6 @@
    ]
   },
   {
-   "title": "Binance\u2019s record-shattering $6.3 billion hack is a gut check for crypto",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUQzNnRIb3VwZV9FczlyeWpDaU9FZlBYdVNFejQ2aXFhQVh0aldCX1VGMndkZE43ZlREamhrNTg2bk9pVEZSYy01emJlaDBXZUplUHhWTmVzRC02bjhtRVVaVWh5ZjFCZUJDQ3VKdVp6RE16eXJobXhEUVBNM0MtRWhQbFk?oc=5",
-   "source": "Yahoo Finance UK",
-   "type": "news",
-   "published": "2026-11-02T10:50:01+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "Binance's record-shattering $6.3 billion hack puts crypto's security promises under pressure",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUW1rTS00cDBOaDRRYWMxTWZOdWpMTW11VXdab2hQUlJoYnNJWXJyTkcyVl9ZTjhyM3I2X3lBUTg5dEhiZmRHdzNkXzhzUzYwNTFOU0xQUms1Zi1QdUpzWXdVaEFWQ0JXZ01tTnZjb1ZQTm9QbkU2SFktVmdyTmczSTlZZGM1U1ljU3VydHVuVHhPWkhMeVpqckF0MjA2cVQtR1dUb0pHamhDcWRjWF9JbG14ay1xZw?oc=5",
-   "source": "Business Insider",
-   "type": "news",
-   "published": "2026-11-02T10:50:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "Visa Stablecoin Payments Explained: Settlement, Spending and Payouts",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjY4MXlCU1FKY0hWaW1RLUF1bXZlOENfRlJXTWlRaXN1NkVTMlBXSGczdVNxaDlEUUw5eWF3NnZaVmp3el9lNmcyR2MwTlBxZE5vcDNzUFNPUFpxbW1fVjBQVGlkdGhxS2pVY05PZy05QzdBZW5OcmFUNU1ybi0zVU16cjIxYnFZeTkyc3Zaa1BZV1duUV9mRm9OTmRsSHJhWFlRcFozdk5CcTVtMUFvQmVWakxXYkk?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-02T10:47:34+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Why XRP May Need to Fall Against Bitcoin Before It Wins Again: Analyst",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjdDQnQtRmZncHNPdVpodDJVYVF4bjhYMVRqODZIaDh0ZVlPWlpDbk1GNXdmSVplNkxjamx5T1ZoSHJSTVJfMG5vSkFCQkpDWG1WZWFRS2ZVQnBsRHVvYVdDLXR6RHZVZ2cxNzc5N01CY3R3S25ZVFJOWTJfa2xoZVZONXZqRmIyNmoyc3oxREVBNUdQLUU2MDN0SGFCMEc1R0djdDZ4S2FDNkU?oc=5",
    "source": "CryptoRank",
@@ -459,11 +1640,11 @@
   },
   {
    "title": "Wallet-Drainer Attack on DeFi Front Ends Traces to Name.com, With Cause Still Unclear",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTlZzSXVPQS1IVk13Q2poeU5FOHNWem5ZMWlrVm9WMXVmWDR2NE8xMXdCaG9sdVpWVmFHcjJMRHo2YllSUnlkU041M29hWUZrdjVjdnRSUTZpNlV6ZXVpLWxZR25uRW55N3FaNnA3LXlyaTkzU0VYYm13Zm5kODdhT1NLWlBZWmJ0M0JnYlI2Z1FDb09SS2ZQUg?oc=5",
-   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1AtNlBJMGxjRjBTTjQxSEFFb2pjcHhjY2pIV0k4VURTSG04OGpPV2xCelBjc21rS1dlQ2k0Q3AxWjJpTktPeGRVS1JWOVZVRXdwMjBwN2hSc3RxazNiTF9pcWJkczdGb0h4YU5KZ3NoWVI0S3RucXNkcFo2MHlCc191NFNLMU5EWVV4Tmk2WVdQN2JPcXlabWxhaXhZYnMzbVdUaEhHTlA2VW1GamtwLXZ5TQ?oc=5",
+   "source": "unchainedcrypto.com",
    "type": "news",
-   "published": "2026-11-02T10:45:19+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "published": "2026-11-02T10:45:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
     "DEFI"
    ]
@@ -480,6 +1661,17 @@
    ]
   },
   {
+   "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOG1wejljZ0lkbzVPZFNIT3VmTFBtY2I4ZXpNako4d01ZRzZwVV9HdVN1WExuY1QtSnhZYjJIWnA4eHNpUFMyWU81WmJuR1YtSHo4cmYwVHpYNkZPRmY0RUxaMEpkNEhIV2U2MGUxajN6cVZsZDJkeVlVaEVLV2tlX3dDclRULWVzYXRHSDUxSi0xaWowXy1rXzJzcGcwMjU50gGgAUFVX3lxTE04bXB6OWNnSWRvNU9kU0hPdWZMUG1jYjhlek1qSjh3TVlHNnBVX0d1U3VYTG5jVC1KeFliMkhacDh4c2lQUzJZTzVaYm5HVi1IejhyZjBUelg2Rk9GZjRFTFowSmQ0SEhXZTYwZTFqM3pxVmxkMmR5WVVoRUtXa2Vfd0NyVFQtZXNhdEdINTFKLTFpajBfLWtfMnNwZzAyNTk?oc=5",
+   "source": "SecurityWeek",
+   "type": "news",
+   "published": "2026-11-02T10:36:47+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Chainalysis"
+   ]
+  },
+  {
    "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
    "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
    "source": "Decrypt",
@@ -491,48 +1683,25 @@
    ]
   },
   {
-   "title": "Chainalysis Says Agentic Attack Reached User Records, With No Sign Yet of Case Files",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVm5XTWZaUlBwbWRLeFNXMEJjbzdtd3VZZ2ZidWs0cFJtcnRvdDVXZHVOaGYyZTl5OGl2ZWRvTHctaGdxRFRmR0VUOFdvbV8teTVKNGxoSmRmVTZOOFNQek9pU2swckdpTEl0cnU5NGY5dnJjM0RUNTB0VG0xbEl5V3doZzdBWkdFZFcyN0ZiejZoMjZQR2Z5amV1cnVQUHVfLWc?oc=5",
-   "source": "Yahoo Tech",
+   "title": "Binance Crypto Heist Tops $6 Billion",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2pwWmRYVGMtTnVHVWZCazF1eDJGbF9iMUdXc2lrcm9RY2Nid1dBNGVUaDQ5QVVGQkVDYzFxWTRQUWRZS1NMbnBXLVVSOG4wM1VPS0J2UXZtejE4TFpRN1VZM2JIdWtvaHhiX0hfank1T3RCZ2RISmM0NXhZSmdzR2dMX0FkNG5JckE?oc=5",
+   "source": "WSJ",
    "type": "news",
-   "published": "2026-11-02T10:30:20+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "published": "2026-11-02T10:34:12+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Binance"
+   ]
+  },
+  {
+   "title": "Chainalysis Says Agentic Attack Reached User Records, With No Sign Yet of Case Files",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHRWS3VxWThYZDg3dlRqSFBXMFhxX3J3dDFuZ2dnOC01NnF3TUdDZjhPcFQ0cElDMFhhV2VoVU1iUFlweVh5MGdVSmthMmhNaG14dGx2S293WjBTTDBXeUZHTEZBbWduQm50WGYwTWVuaUxLVEFvUFZOQlBzSlBuYWJFYlVSbDY3eG5pOHU5RWtXMnA1ZDhqZERvazZhN0JZY2o0M3JibG9YZVBZd2JoUEd3?oc=5",
+   "source": "unchainedcrypto.com",
+   "type": "news",
+   "published": "2026-11-02T10:30:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
     "Chainalysis"
-   ]
-  },
-  {
-   "title": "Crypto News | Bitcoin Holds Near $78,000 as Markets Steady Ahead of the US Midterms; ZEC Leads Majors",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWlhDV0dQOThFZEFpdENBX1FvYXdsZ2VIS0xXU0Q4Q1pOWWcwVGpWSVU5UUtQTEtqTktNM3lJd3ZTZ1pnZFZGeHBsNFY2UExZbWpxUUk0cEJFQjZwWnJhZHlwTUw?oc=5",
-   "source": "Binance",
-   "type": "news",
-   "published": "2026-11-02T10:28:09+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ether.fi Explained: Staking, Vaults, Borrowing and Cash",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSERqb1BhdUlSZnllWm5pQ1ZxNVFJMXRZdlZnMkNiNTVhX0czNEtGa1lxV25jRks2Y3NXb2tUc0R5OWgyajlwWThlZzA5U1FrQ2lMQlNneXkyNHJsVGFaamVZYWlpUFF1V1ZzQWc3UEkwQjBIbmRxeXNfc09zeTZsdGZ5RHJSTmFSakN4Nw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-02T10:27:26+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Assessing Bitcoin, Ethereum and XRP's bottom after sharp correction",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQzJteGRIM29HLVY4c2JIbnNhejlMdjl2ZzBhVXFUNnhJcUR0RkVXMHZlR2dWVEp3X3RFSG1iRTZlRmZLUTNvbG9JM1lfVU4xQmk3ekdIRXN2OUtkTzFlR05oN1dSYlZvZXJxaWVNbHN4RkY3UGVNU2VGWUZZQmNQTHpHRFB2dmpGVEJGTHVmVUFNa2w0QlYxaVBzWHd5bDZGTjFhaWViMUEzdWl2bVlqLWZJdElIeWQ1N1l2a3VpaVEtci1YcmJRc3BMLUtacTc5VWc?oc=5",
-   "source": "FXStreet",
-   "type": "news",
-   "published": "2026-11-02T10:27:22+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
    ]
   },
   {
@@ -541,17 +1710,6 @@
    "source": "Homeland Security Today",
    "type": "news",
    "published": "2026-11-02T10:20:13+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "Binance users withdraw $3.4 billion after record crypto heist - Business",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazFuVF9Lb0RtTVBVT2NxdVFKT25IRWxtNFR1ZWEtbHVPWnh6S1JwSUpkY3dDSHRUelYzMmV6RXR6VUIyZVhRUHhTNlRlSUlOS1lpQzZyVE96WGpubXlnTWczUENwcmFPby1samp4cW1NOGIxbmRPbXVHNElQN3hhN3RpUk45NXZZSnZ1ZkNGSldpekx4elIya1kycnpPZkw1b2RFZVNsQzFyU2szdUkxcGN1bDVHZw?oc=5",
-   "source": "France 24",
-   "type": "news",
-   "published": "2026-11-02T10:18:55+00:00",
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Binance"
@@ -592,17 +1750,6 @@
    ]
   },
   {
-   "title": "Binance Hack: SOL, XRP Withdrawals Return After $6.3B Theft",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlIwdy01VTM5aXYyOWdQNXlrODV4SmdJdk5GNkFwaHRzUGU4SGgxZE5oUHhqMmd0a2drRFFRN3lPelM1aDFKWHJoMGRNQTNXSFdJT2xOa1ZNbHlyYUd4VlR0eEo4cXh2Rlc1RkVveWZoWmwya21oVE9tY2FQbjhpaFNNNEV0ekFBV3ZGT0pzeVpoWm5yY3o0ZXBn?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-02T10:13:53+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
    "title": "FBI pins $6.3 billion Binance crypto heist on North Korea while scammers circle anxious users",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MQ2V5V2J6Z1FyVmd6Uk9GLUtzbk5td0lYMjBJVUtTMTBzVFhYVW9ZTWVWa0pxUktjcjA0Zy1YeFZrZ180SFBHSktrYkpWeTRGaFpILWFtcDFjZHo2Y2JHa2ZDd2I0NDJsOFVJX1FlMXZJXzRUVm05d2lfTC0?oc=5",
    "source": "Help Net Security",
@@ -625,6 +1772,17 @@
    ]
   },
   {
+   "title": "Curve Explained: Stablecoin Pools, LP Exposure and Lending",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmJENFB6RDBaMXRnUV9wcl9WZXlrWkpLNnNhRFQ4cmIxbzd6R3l5QjkzY3VVdzZ0dVZjcjctU3JGYjBRLWtXQnloel9TN3R3VGhEQjh0Vk8yNUJXaGRScFAwOTBaVTExdkFkX2gzb3MwSVptZ3JXS3doVjZuT2dNNFlHMG12VFRfeE5yV3p1Vmg0dw?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-02T10:03:46+00:00",
+   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
    "title": "Binance users pull $5bn as crypto exchange restarts services after heist",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlloX05EbUI3SE9LYTBaVUhkdHhGaUpta09vWi1EcUdfcEFXVGJicU1uUnhrRE1qNG5Gc1JFZnV1emwwRVJMRXRvQ3lpMVJ2RGMzYjJJSEU1MllpNXE4ek5sMWg3VnE1VU1hVjk3YS1WWUExcTRaUTJNQml5YlIyeFhiNjc?oc=5",
    "source": "Financial Times",
@@ -633,6 +1791,17 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Binance"
+   ]
+  },
+  {
+   "title": "Polygon brings US banking access to Solana\u2019s $15 billion stablecoin market",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZnViV3REUzBMZnRkQVRFZTZPLXM5d29BZmlXektIZDhibXY3ZGk0OC1rXzdHWUlkdXpWZmgyNnZTa09yNExQY1RHQUxJWVpvUC1YWU9hTTNqb0RvUzh2UnZNY1RoNUxFamw4aVBYWTllY3l6MjBvVEJFTnVBZjJyVVVYbElQZ3RCZGVlLXg5R0tMNTlfSEtkRTRDUW02dw?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-11-02T10:00:53+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Stablecoin"
    ]
   },
   {
@@ -680,40 +1849,6 @@
    ]
   },
   {
-   "title": "Bitcoin Holds Its Ground After Binance Hack As Micha\u00ebl van de Poppe Says Midterms Are 'Already Priced In'",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRkZTYUVIVVJUdnRzazRUVG9JQlZwT2w4Qkt1QlotTlgzNnVDejUyYXhGOUkycG9pVGxfNXJlWU1PWU9LVDM0X1RtSEsyclVjSHU2Ulh5WUdVNjNFaEpiTllJeEN4UDk2VVZhUGlwTnd6a3hTWml6Rm05dFBUcTBrQmJfUDc4RXBJUHRVZFViMGhEMTVxWjljdExYZGoxMlllUVVtd3ZJSzljMnFGbXA4Q1FJeTNISDhKaXpycVdRTl9hc2FwRHV6MVF1S09jcDktYld4S0UySFpXZkZnalNsVDg1WFZwSGtyRU5tS0d0al9NaWhmWUwybnhqLWFQRTMzUFlqcDBpOWFUR0ZqUUVKN2Fzbw?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-11-02T09:49:43+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "Form 4 DeFi Development Corp: Fei Han (CFO) For: 17 September",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ3NVQVZXUDJFMlozM1RLTVMtcXB3eG92LXQwNUlacHcwV2laUFhlNUpsZXBQME1GeXdBaHh3TXlSVklZcmNmMHJBbV9aLWNFM2lPVmhtS2lTcmdrUGZTbll3ZDg1OUpDT2lsdVdQMVlqRXNBY3R1UjFGanZpOWJWaUNudXdHZUQwR1lSbjc3ellJb180Z2ZQVjZKR3d2ZWhNY2x5dXh5NnhneVhtTGVIeDh3LWszZnR3eWc?oc=5",
-   "source": "Investing.com Canada",
-   "type": "news",
-   "published": "2026-11-02T09:47:37+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Bitcoin Taps $78K Ahead of Big Week, NEAR Dumps 6% Again: Market Watch",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFNPU2QxdFkwVVR3alItYTN5VXlfNlZNMzJVRTFxTnVIcU1sU3J4T3FQTjR0dkVWdXliRnZkQUlta08ybXlPS20tRlRoQ0F5bVpHZVVPV2NBQnJZSXl0dUVraUpCWUZtTWdtb3RjVVVEWTdzcEpYYVlOc2xBdENQc3NRbGlEOGg4U1hLZFo0ZjJWNGZTMjBOOUk1R3c5cE5obEVqVGVjZw?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-02T09:47:04+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Dirham-backed stablecoin DDSC partners with AJMS Group for compliance",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakQyRzhrTkdfLWkwelowTnQzdWN4a0dkZkFQaXNPNmVaMUJoWGQ1OWtadlozRHhRMHBZLU56Q2ROTVBYUzIwVURwNWdEUnB6SGl4UVo4Q3dZQW51Ylhab0RWamdqX0IxQ2dXOGxWU1NCUExKUnJqS0FybGFnaWxtRTJCcko2Zk1IZE5vMF9CcVlva2F5M19ib1BHTVEyV0hzWllOYjBvRXFmQVViQTAxTE5wREFvd9IBtgFBVV95cUxQakQyRzhrTkdfLWkwelowTnQzdWN4a0dkZkFQaXNPNmVaMUJoWGQ1OWtadlozRHhRMHBZLU56Q2ROTVBYUzIwVURwNWdEUnB6SGl4UVo4Q3dZQW51Ylhab0RWamdqX0IxQ2dXOGxWU1NCUExKUnJqS0FybGFnaWxtRTJCcko2Zk1IZE5vMF9CcVlva2F5M19ib1BHTVEyV0hzWllOYjBvRXFmQVViQTAxTE5wREFvdw?oc=5",
    "source": "Consultancy-me.com",
@@ -722,17 +1857,6 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "FBI says North Korean hackers are behind the theft of $6.3B from Binance",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTlHSnNvUDR0WDd5clZqWlZmUHA3Um1LYUR4SXBGUzVpMV9UbWxoSGdvYTVpUXdTQ3MxNnFuZGhjSlJ1bTBzRzdzRnZnNHpqVWZQcUJ5ZVMxbVhTMHVUUlVPX0ExTV92WlhpY0xXdkRkcXFjYVFqMVFkRnBOSWNibGd5aUotdFVfSDB1Z21pUkZHbUJXekJaSUs4R0xuNF9yN20zUVFwNkNuLUIwWXdyRnZtSURyRnM?oc=5",
-   "source": "NPR",
-   "type": "news",
-   "published": "2026-11-02T09:42:06+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
    ]
   },
   {
@@ -782,13 +1906,15 @@
    ]
   },
   {
-   "title": "THORChain halts swaps as Binance hack loot stalls",
+   "title": "THORChain halts Bitcoin and Ether swaps: Binance loot stalls, RUNE down 18 percent",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kMElUT2xKM3psU0w4RWRzQnVJTTFKRVpWWU5TSEYxeTBMeGxUWFZpVlRUNzhJeVhLaDhFTExYU0xNN1ZlcGJITjJZOFI2QktGN1h4TmxKQS0wd2FlbVkzSGk5aVBVdmNqM3paVW94WllQMmVveElfd1ZoNlpnUQ?oc=5",
    "source": "CryptoTicker.io",
    "type": "news",
    "published": "2026-11-02T09:18:16+00:00",
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
+    "Ethereum",
+    "Bitcoin",
     "THORChain",
     "Binance"
    ]
@@ -803,17 +1929,6 @@
    "topics": [
     "Binance",
     "Safe"
-   ]
-  },
-  {
-   "title": "Curve Explained: Stablecoin Pools, LP Exposure and Lending",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmJENFB6RDBaMXRnUV9wcl9WZXlrWkpLNnNhRFQ4cmIxbzd6R3l5QjkzY3VVdzZ0dVZjcjctU3JGYjBRLWtXQnloel9TN3R3VGhEQjh0Vk8yNUJXaGRScFAwOTBaVTExdkFkX2gzb3MwSVptZ3JXS3doVjZuT2dNNFlHMG12VFRfeE5yV3p1Vmg0dw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-02T09:13:08+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -837,39 +1952,6 @@
    "topics": [
     "Ethereum",
     "THORChain"
-   ]
-  },
-  {
-   "title": "Stablecoin infrastructure firm Bloquo raises over R$20 million seed led by Crescera and Triaxis: Startupz",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rMThmUkhFN0NiWFZBRlViVmp1UnZqNkh3SGg3bVlLcmE2WE1ZckM1WGFEWGVsWGY4VWljZXFMT3Yyb3U4eUpKTGRrZ25MYndqOWRjd1lqS05RcU52VHBMSVRFWGozZ1pRaHlV?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-02T09:11:17+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Ripple Partner Reaches One Million People With Safe Water",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTFGR3JURXJsM1pfa2h6STFtT3NqdXZxT2RqdW1hcUZlZlZVUF9pZU1BelNQdnpzUnNkXzNVU01yc3oyaU96X2dSNVpTc2pUVjV1RTh2MTI2V1paZl93NTI5aURiem4zRmwxMERsbVJ2UWdiR0xvS0VhWXlkWlR2TmJ6N09jTDA?oc=5",
-   "source": "DailyCoin",
-   "type": "news",
-   "published": "2026-11-02T09:11:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Safe"
-   ]
-  },
-  {
-   "title": "A $6.3 Billion Hack Tested Bitcoin\u2019s Bull Market. 3 Signs It Passed",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenNocWNOYjBUSkFrNzZteVdUSEJTTHBKbDE1QVFkZjVEVHVsUUhfUWoyZXJyQnlGb2l2V0JwNG9uamd6VEdxZkpSQnlTVTk1WGVTNk1xc1dWNURYUHFMOURfY3JtZXNhWW1WLVVoVi04djkxY05KcjlIcWZKRkY4MnA0UWdscGkyMW83Rk9ZcXMxUQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-02T09:08:35+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -928,13 +2010,14 @@
    ]
   },
   {
-   "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+   "title": "Live updates: Bitcoin bounce fades as Binance records $6 billion outflows after starting withdrawals",
    "url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
    "source": "CoinDesk",
    "type": "news",
    "published": "2026-11-02T08:49:30+00:00",
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
+    "Bitcoin",
     "Binance"
    ]
   },
@@ -950,23 +2033,12 @@
    ]
   },
   {
-   "title": "Sahara Las Vegas Takes Bitcoin at the Casino Cage via BurraPay",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFpiTXo1V0R6UktpSGRNWktuZmlxSWJEZk1hU0ZNQzZ6dmdXU3BIUUh0LXlVRm9jWXgtZWZ1c2RhdVlCbGpkQzFVUUNzTndFQXVPVkc1SnQ4VjQzYkZOcndoM1VRRmN6N0V3UmR1NTNqV1drN3BpcEpoNTJKSXFhTlRnS0EwNm4yV0xUVFlPVnY5TnhTN3c?oc=5",
-   "source": "RG.org",
-   "type": "news",
-   "published": "2026-11-02T08:45:01+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "FBI Flags Over 600 Addresses Tied to North Korea\u2019s Binance Heist",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVdpSUZQaF8xeWN0N1B2dTNsR3Q3WGlSbDJ6V3BTU3cwS0xWQzFMT0t4cTktc0dRbEpRTEQxN0pwVGdKd3lPYnpXMEFRQzRtRTR2aHc4V2lkbkNLS2tIR2VLZlNpUzJiT3Bhdm5pX0l0YkcxUkRYVFFSVG4zUFBONGlNSmozQ2E1a1BHZm45R2pBNVFnUmpEZ0NkUG1oQdIBngFBVV95cUxNRVdpSUZQaF8xeWN0N1B2dTNsR3Q3WGlSbDJ6V3BTU3cwS0xWQzFMT0t4cTktc0dRbEpRTEQxN0pwVGdKd3lPYnpXMEFRQzRtRTR2aHc4V2lkbkNLS2tIR2VLZlNpUzJiT3Bhdm5pX0l0YkcxUkRYVFFSVG4zUFBONGlNSmozQ2E1a1BHZm45R2pBNVFnUmpEZ0NkUG1oQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUm5XSGktQzMwYzNkR3JBSFhXOHc3Vm9vX2dES1hqeXBBZ18zQUlGc2hmRUpBMDE2SS13MlhZTl9nckNCR2FOUWg5cVpfVjNnMkltRWZjMHg1V2lFMGZ4R25xRmw3ZW1xV2Y4RUZLdHRIWVdTQm1mRWhrT01Jd0pTc0RlQnpFbWp0ZmhOV1NuenI3Smt3eGN3b9IBngFBVV95cUxNRVdpSUZQaF8xeWN0N1B2dTNsR3Q3WGlSbDJ6V3BTU3cwS0xWQzFMT0t4cTktc0dRbEpRTEQxN0pwVGdKd3lPYnpXMEFRQzRtRTR2aHc4V2lkbkNLS2tIR2VLZlNpUzJiT3Bhdm5pX0l0YkcxUkRYVFFSVG4zUFBONGlNSmozQ2E1a1BHZm45R2pBNVFnUmpEZ0NkUG1oQQ?oc=5",
    "source": "SecurityWeek",
    "type": "news",
-   "published": "2026-11-02T08:44:40+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "published": "2026-11-02T08:40:36+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
     "Binance"
    ]
@@ -976,7 +2048,7 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1FqU1VTYzU4Wi1YZmtUS2pzSm9fdTVqOXczcVpBdExBVjFwZnotbmtfS3haOGxnNk9fWWpoWGJhR2d3bHF6MlpPWTVuTU5TeW9qdTA4dUxXYVRsMm02TVlCcTZia2J6UUUya1ktMVFUTWFlSXBZbnlaMlhncExMN0RfYkU3RFktRGMzSUNBSEtOWkZyS2xyckFST0NTa1o5VzNYdGZiQXJhcWJGQ09GazBaMWRmMWw1QURGNA?oc=5",
    "source": "teiss",
    "type": "news",
-   "published": "2026-11-02T08:35:01+00:00",
+   "published": "2026-11-02T08:34:30+00:00",
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Chainalysis"
@@ -1005,17 +2077,6 @@
    ]
   },
   {
-   "title": "Telkom Indonesia stock tied to Quantum-Safe Indonesia initiative",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlJaMnVEZWI1MFVkWTNGTFhMVFJZX21OcGpUNUtxbVJWWUl2U2gxem5TbURub09TRnJfdXpmRUFVTTBvaXItUzJfYlprNjBfdGQtOXBMQlpDWVRHQ3Z3aEFLd3NScjB6ME5BWEQ3SFAtdkRGSnVXNUtvTnh4aGwwbmxTSUlyVlB2SGR5ZFNhSlFQM25zZzdUTHh3bGJhZnRjR2psOG1uaUZhbEVCSVY4UVhsamZWaXV2TF9xZ3I2b3duV1JyQ3c?oc=5",
-   "source": "ad-hoc-news.de",
-   "type": "news",
-   "published": "2026-11-02T08:19:46+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Safe"
-   ]
-  },
-  {
    "title": "Blockchain Firms Link North Korea to $6.3 Billion Binance Hack",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kRnA1Tk9UT1VEZkxRT1VlbG1jaDNRMFZZVXdBYTdYVG5yUkg5M0dzQ1c2R3FjWEFqd01YeHh0d0RCcDBWWnZXQnh4VzMyMUhaMkZEN3JKb2NQOUFxTXlaUzJsRkgzSGxJTWs5OVBNRkRpbmh6Zkg5dg?oc=5",
    "source": "Bitcoin Magazine",
@@ -1027,41 +2088,6 @@
    ]
   },
   {
-   "title": "Binance\u2019s Yi He pushes back on FTX comparisons after $6.3B hack",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnp0UjAyaDZ2NHJZOHFKLWJxdVpLeG0yWW8zd3BVSVdaVHRZRHNnRnltNFgxMGFfSVFpdDNnb2JjTDl1cGU3VlZmU0M4WXhrdEZvbVJ0MGpyUmRvWXV1dVJaUlo0ZG9ObldXUGRWdmN1eUE2M1RUazdzNDZDSkJVSFBrcS1YUmZ4WWc?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-02T08:08:50+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "Bitcoin\u2019s Resilience After Binance Hack Masks Market Jitters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON015ekNBYXdIZHd2dExpZHUxWW9VcTAyWDFjREtEWWRHcG5STzV5MVdkdjRqdVIyT01jak9Cek1vVE1Rb2w2QW4ydzRYak51X1J5anRfaEh3enVhVGUyZFR4emgySTBhUFJsWG84TGdlVlptanlwckdmbk9aR2cyYjlsRHBQYVRFdG1ENEFUdG1YQ3daZkxJRDB0WnNTQmpfa0ZXWlRQNTlnSGI4dmtCOA?oc=5",
-   "source": "Bloomberg",
-   "type": "news",
-   "published": "2026-11-02T08:01:11+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "Ethereum News: Whales Buys ETH, Hacker Moves $9.2M and THORchain Halt",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFg2WEZWeEtzTFU1M25NYkJhTTVfanZXVWNNNmpPRFJGYmpZZU1HV2ZjX2RSTVBZT1BqdTFZVFlkSmZJaThDMjh4X1V3d3N2VHZPUWw0cXQ5MmNEb3FjR3h6dlZHMkxfVk9PY2ZBMTRsM3czb3dPZUY4d3VTUXR3aGVOQURaTkl5WDVCT0dvUWRRYUZhT2c?oc=5",
-   "source": "Coin Gabbar",
-   "type": "news",
-   "published": "2026-11-02T08:00:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Ethereum",
-    "THORChain"
-   ]
-  },
-  {
    "title": "HSBC sees rapid take-up for RedCoin stablecoin, unveils global AI institute",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb1Z0bl9QcGNDY1dBZXlhR20xaGRlcGhFOE14N1JLTkZBNGlQV2lWMjlMTGFReV9iT3A5Y2JyWjlIcUstM0NWcm41eFJXMXhSVFZQcEM1U3VTal9ySkQya3NBTnpNOEpIYnhUOFgzWW5sV1NuVmxoMU1YRDNuXzR2NldSSld2T0xETWVCMU1mRkdRSG5vY3NzeTRxRC02YVF5WDI2VWtWZUFGTm0zN0ZqeTktRWpFVU00RklIOVcwQjJpaEVXa1BmNFVfdGRYWWV2cXJrQm53S2IxcHNU?oc=5",
    "source": "South China Morning Post",
@@ -1070,6 +2096,18 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Stablecoin"
+   ]
+  },
+  {
+   "title": "THORChain Protocol Suspended Operations Across Ten Networks Due to an Ethereum Outage",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSWdzYTdTNjRsUFRaMlpTd2h6dmJzTm1FdVVxSFp5QTRNRlF4bnhhMmdZSmZLUkRTcDJVSjZYRmJ4ZTJHSm5ocWN2UW1lQm9PUE11UkxrV3B5SUh1SlBJUzc2aUd0T01FNjZ0Q01ralNYQzhFUVlVdm9xelhQUWMzb1NsbFdETi1iUTM5WkgtN0RKU2dVZ255cTBmM0FXQnJxU3dkLThwLTdYRzdoeHBoTg?oc=5",
+   "source": "Incrypted",
+   "type": "news",
+   "published": "2026-11-02T07:55:11+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Ethereum",
+    "THORChain"
    ]
   },
   {
@@ -1085,17 +2123,6 @@
    ]
   },
   {
-   "title": "Bitcoin Volatility Ahead: 4 Things That Could Impact Crypto This Week",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXJUalJMVFNRYnQ5amlpVERKbGNRVUYtZnM2WkRhdldLUW14YXNIMDF6R1V6STRtYU05Q1lQMEc4cFdUY0JnVEUwZ1R0c0htVlpKRXgwWW5tb2JuMHV0cXdHLUw2LXVCUGxZdzZVLVRfRGEtWnVEOFZHcXIyaXFCbV9jZndvbHhuR2NmSFFET2dCa0dxSzJVQ29ZNVJteTE1UXpxRXNjandzZw?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-02T07:50:01+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "[PRNewswire] HashKey, RD Technologies Partner on RDUSD Stablecoin",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96bmQzMWN0MWlQeXd6NFhIYzdLS0JPbmlIRTdXWWtGbDkxdjhVV1E2cW1qNzlnY2tJMGlZZzdPLWNOUklrR1JhZkJiZzJRUUZZdm95bXZock5uY0t0dTFMTjMyWmtsQXlzaGZReVhjVzQ1SG1MUHR5WEFkNWRBYzQ?oc=5",
    "source": "Yonhap News Agency",
@@ -1107,7 +2134,7 @@
    ]
   },
   {
-   "title": "Binance hack: Users withdraw $3.6bn after record crypto heist",
+   "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ?oc=5",
    "source": "BBC",
    "type": "news",
@@ -1130,37 +2157,15 @@
    ]
   },
   {
-   "title": "'Incredible' That Bitcoin Outperformed Gold Last Week Despite $6.3 Billion Binance Hack, Says Analyst",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMWl0ckVDZzlvRGdUWm95Y2o4cGZCTWxRdzZ4SGFRcWxJMGdyVXY0d3BQZGlkeHQ2SEgzbUFMbWpabk1MS2hzc1lCNG5DVGpFQUpDd1l5Y1Y0T195cENzVFFCbjU0N0xOcmxwaTJ2WHR0aEZuSzZwRXEya0lCUTRhS2NkWWIyZldnbzU4V2hfaUZuZVRGY0NySTd3YTh0TTRRcmlEQWs2TVQ5OVE5N3dJMTRUdTVQaWhWVVpDaFcxTGUyUFpvdG82STZ5WFB0VFRSaGpRLWdsVUYtQkNndHY0QW11NklfUXNzM19hYQ?oc=5",
-   "source": "TradingView",
+   "title": "Chainalysis: THORChain outage slowed laundering of funds stolen from Binance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmtLYngwOF94cThQZUNJeDFzZHFlSUdKQjd4S2FUNnZGTW5VQjlRNUx3NmlLSUV0QXZlckpJLUFjSVlJSXBkeTNlRUg5b3dMZkJiWXJKZmFTYWJYaDRQeXRWNktMZC1HbHE3a2RIOXFBN2NZcXFUM2J3SFBZclZ3ZDNyNUpEcl9xdUx3QmltNDhsZTJheW92b3VqbFItQXpK?oc=5",
+   "source": "ForkLog",
    "type": "news",
-   "published": "2026-11-02T07:29:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "published": "2026-11-02T07:08:49+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "Crypto Exchange | Bitcoin Exchange | Bitcoin Trading",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FQ2tWR0NycjRIWVhtTkVOelMzMzlWV1l5TFVGSVdMU3AzX3ktT3VVUTlRN3Vscllza1ZCdmhlSWc0QVpKTjBYcmhnTFQ5OGFZTkRlUDMzckw4aHh6MklVN0V3VS1HVGRfbjZfZTlLSjdIeEhDb2ZV?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-02T07:21:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin steadies at $78k after October losses; Binance resumes withdrawals",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFhaekVKT3V1SHZpbW4xZW42MHVaQzhpNUFIZkVSb2R5V0VDeUlhRVFZS3Z3aVE2cTA0aWxJaHF5MVRXbHJLTm1WNmpKUkVzT3hHam5Jdktfd0s4Rkg3Z2pPUUNKeDVwTUZjWjV4LXdVaVBwTm9SNjJyTDl3WW9WZDVWWnpReGhUb0UxNUtSNTYyeUNHaUdkdy1paFhWY1ZERFE?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-02T07:15:26+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
+    "THORChain",
+    "Chainalysis",
     "Binance"
    ]
   },
@@ -1187,29 +2192,6 @@
    ]
   },
   {
-   "title": "Binance Withdrawals Resume After Exchange Covers $6 Billion of $6.3 Billion Hack",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVRHMnA4MHluV0NFRWZHWmM0U0ZoOWVyV3F1YjNsX2dZaVVEMmNvWS1PNHlscVNuR01TMml3dmhCMmFWdFNFSUhBcEVJV3ZrMEFZZHhpNUVCV09yUnVNazFwQ29tQ2FhNVdNdHhqT2liWWFmX084M0JLM1FaUXFhYU05YzJXa1lFV2c?oc=5",
-   "source": "Technology Org",
-   "type": "news",
-   "published": "2026-11-02T07:00:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "After $6.3b Binance hack, bitcoin rebounds to $78,600",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92RFhMTmd6ZnpHbS1GYm1JT1VadHh6bjNYeEhMUFBUVVM3ZDQ4YVlZY2hYSFo4b0Q5WUJsWHpCTm5lWEljaUx2MXdwSGIzZG1CN0N6eFlfamQ0OFFDeXE4U1FjX0wyREJqUjZreEJBX1llR19zN093X2xEOA?oc=5",
-   "source": "Tech in Asia",
-   "type": "news",
-   "published": "2026-11-02T06:52:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
    "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
    "source": "CoinDesk",
@@ -1228,41 +2210,17 @@
    "published": "2026-11-02T06:45:45+00:00",
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin, Ether Forecast: $6B Binance Hack Rattles BTC/USD and ETH/USD",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGU1MlV4Z1VLaUVQRlpYUG9BQU15Q3djNEdoWmY1NzMwUVZLM0FVMEpGdkhud01tcXZ2d3VWMzlnWUxLaDBfSjBwTTJTcmZmNVVWUGd4aktaSktKX0NscnVhLWdPYUFmc1ZGNmVkQkpCV0g0ZFVyUFV4MTNHOVo0VEVTRFlFd1FNZUUwMGs5Z3N5MEp3bVRxOENpMUF5WUlOenNldFNzb3JGbGRkVGc?oc=5",
-   "source": "Investing.com",
-   "type": "news",
-   "published": "2026-11-02T06:37:23+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Ethereum",
     "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "THORChain Halts Trading Across 10 Networks After ETH Incident",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnhBSWltVGt1MUFKOVZ2UzJ3RkliWlp5eHpwNHVYVFlkcmVOYlpuSGFKLV85VFhHMEZmWC10a2tZN2N5WUhkRHllNEZad0g0dld0WUg5eUNLaGh6RUlGV1RyYTdCbGNaS1VCbm9URnFtdnRYeVdFVTZtVjZMOTFObGlFektfQVJlRW83Q1l6c3JGUGt6Zy1sa3l6anJjZU9IOTNR0gGoAUFVX3lxTE9qS0YyLUJLTEc5cGlVQko1MkdTdU84S2hFd0N0a1RLZGlBQnlHc3J6V1VEM3ZZVm01dDVrOUt4eUNPS095YzJBODhEMl9YU0pKM0dLa2h3Rkd3WlBTUWUwd0UzTHI5S3J2Zkd5Y2p6aG5xUFlXd3R5N3pWdE5EdkdnLTVULVBfRi1uLXZkV3NjSE9QTWZLOWJyTkotUlRKWDRnZE5qMDdxYg?oc=5",
-   "source": "CoinTrust",
-   "type": "news",
-   "published": "2026-11-02T06:32:27+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Ethereum",
-    "THORChain"
+    "Mercado"
    ]
   },
   {
    "title": "FBI confirms North Korea behind record $6.36B Binance crypto heist",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWxrUnN6RUtNZ1ozMTEzaVlpQmRZRVFYUzFRNm45QzBOaFU0NXJ1S3c3NkNMVFVycDZpYU5YVTZtRkd1a0JxT3BBZlVKSzFrdUJ6ekRLUjdHTEp0NVB0VWUwVF84emNsZnJ6VFhSa29hYUpFSkpSYVFBV183c3A5N1dLcTZQRGpoaFZsYUNXSXhRMG5FV211NQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RMS1ReXVmdmNkMGY3YmJxSVBEZ2lDZ0I5TFFNN2twRWFzZ1dOYzJhYlZ5bmdONmcxYXlvTzJyTTdlMUtRUVVKMnZsTzNJQQ?oc=5",
    "source": "NK News",
    "type": "news",
    "published": "2026-11-02T06:24:53+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
     "Binance"
    ]
@@ -1280,22 +2238,11 @@
    ]
   },
   {
-   "title": "North Korea\u2019s Hackers Supercharge Crypto Heists With AI Skills",
+   "title": "North Korean Hackers Behind Binance Crypto Heist Are Weaponizing AI",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekRBR0dKanh1bXRKMVJuNGdsODV4NUZpaDJueC1leGRvVkVUeHhhdkdzVHdzMmM2TWpwYXBfaTZ6WEdlWk92R0JROEZ5d2FfLXNqaUQ3WEJHWTJEdnZuRUN6MnhVLUw0UlFaUDRiUGJ6Z3RjWmxsWnFhWHE0cE4tblNHd2dWTHExc3NSWGZIMjlpZnpKdi1VLW0wczRtOGg5OGkzbzEtTy1pbUZPZ0RoWGZ6OA?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "type": "news",
    "published": "2026-11-02T06:22:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "Binance resumes withdrawals after billions stolen in hack",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2JVOFNWN1VweERIZkZjY19JVlZtcG9DVGlrcXFDcDM0WUw1a1Q0eE1URzhFT2dQT0lHVTlxdkNDX0NENXVrd0VldklPcGhORmFnQnhZWUg0b1EtU3Y0UVptcHVPV044MDc3b3c1eGx0RFFSUlg0VXdFWTFvUFZOQTQ5Z2JnQXB5T3dUYnlKeklHNmdDU1luLQ?oc=5",
-   "source": "Euronews.com",
-   "type": "news",
-   "published": "2026-11-02T06:10:00+00:00",
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Binance"
@@ -1324,17 +2271,6 @@
    ]
   },
   {
-   "title": "North Koreans Seen as Likely Hackers in Massive Binance Heist",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Nc1dYWEttSkwzZUNEamg0ZnlmYzBJYjRsVUFuMGZHU0czZ3BLUm84ZmVNNEVTcEZWWDIyNFdLSnRlbEwzaXdBOVJvZ2x2MEY1Q3NJSXZKSnRMUk5hMnJfS1hfWUJqd2lYNTBVczdXTjZ5ejQ?oc=5",
-   "source": "Claims Journal",
-   "type": "news",
-   "published": "2026-11-02T06:00:38+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
    "title": "REALITY CHECK | If THORChain Restricts Binance Hack Transactions, the Experiment is Over, Says Founder",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGtBRVNhYlV1ZVJ2N3F5S2wybmpyd1h3NndTWmpQWWVrWTE5aEhoMkNFdVlyYTZUSzVQOURCQ0NYWENQd1lFT0FPOHVYNXZxMGphY2VCdUhPc0x6X1laVE9fOVNtbFpMcG5kc2FQVjZ4SFhnaEZYNmM3Q2ZiVDhpWHlR?oc=5",
    "source": "BitKE",
@@ -1358,17 +2294,6 @@
    ]
   },
   {
-   "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lV1liSjZIOWF0Wm9XRGpCYlVjT2ZReV9fbFBnQkZVbHpQWko2dFk1bHhXazJYVXJISFVlMjg4Sko0bVJvTVZESHlPSVR4bU9vWjBwbjlB?oc=5",
-   "source": "\u671d\u65e5\u65b0\u805e",
-   "type": "news",
-   "published": "2026-11-02T05:55:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
    "title": "SwapSpace\u2019s Vasiliy S. on AI Agents, RWA Tokenization and the Future of Crypto Swaps",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1ZFazNhSXVCN25GOFRiX0lMNHU0ZUlMWmFmcG4tdkRFOGNMOHFVbmpseEVQS1J0cUI0NjVqN2VwaVp0V2lTbE5NN013WUljaVpPV0RwVWl2WFFSMmdPUC1JckEwRE5IZFB4S1VidHBiMjQwbkRmSUhoaFM0YUVIVDVDYkNQejBFVF94eTdSb1Ziakkyb21qcnEwa3lsQzlBcVJKbjR3?oc=5",
    "source": "CoinGape",
@@ -1377,28 +2302,6 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "DogPay Expands Stablecoin Payment Network to Over 140 Countries",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2VZZmxJUGQ4bE1EZU1xQ3BYLW1jQzR5c1g5ZV9UVF9DR1IzN3QwZ2tVMEhleTU0OEFvbHZCbVFsTXBIUGxSMFM1QWg0eUFzMDFJeDdLcE5EYjlURHBvLXE2clhsQzZXY19UYTFMQ0FLdkhwRDNncVd6bUxyOGdmUmJ6ZDVIRHJqQjdmWk1JWFRtb2VSR0VN?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-02T05:42:17+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Dollar dithers ahead of US midterms; bitcoin under pressure from crypto heist",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUkJidFFyWDhWUlZNMS05dUJuQjRUT3ZieWhaWV9SdGVUQTBELUhyVXFVeHRlMFZaRXBnRlJvUTU5eEFDX0VRXzAzZ0NUQnhnai1iTTd0b0h0NFg3Und0YWwyLVVwSy1MMlN5N0lYa2UyMzJMMzN0aGowUGQyUVdfcXd2UTM4VnFSNGR3RUdwbE8yME10QTRSVnVXUFMtQU5GdG9F?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-02T05:38:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1426,39 +2329,14 @@
    ]
   },
   {
-   "title": "Bitcoin, Ethereum, DeFi, Stocks. All in One Place",
-   "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFAwUWQ4VXhya2VKRjJRQ1RDcXBaOERyM1BGU2xqcE01ZGFwb3ZnY3UtcHBBSkdDUlR5WmdjbXlB?oc=5",
-   "source": "Paribu",
+   "title": "Ambire Ice Flags Safe Account Control Changes Before Hardware Signing",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03a0VHQXJqMXRDQ212NlBlU004aTlGMzB4VHhEc0tqVjRReFpaSzZBT3lwYWo1WGg1MUxwaWpsQzZKelRSSFVubWd6clJHdmhjWUp2RlJlQlFNNG8?oc=5",
+   "source": "TOKENPOST",
    "type": "news",
-   "published": "2026-11-02T05:09:38+00:00",
-   "first_seen": "2026-10-31T17:00:14.135710+00:00",
+   "published": "2026-11-02T05:08:26+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Crypto News: $6.3B Binance Hack Sends Bitcoin Lower as Pepeto Buyers Eye a Recovery Rally",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEJCcF81S21kdlQzeFloeEFVYThDSktseVlETU9mMDBHMVdXdmNMUjN6UEh0blBsMjRkcE9ZV2poRnNPcUx5V0YxaXZiT3FqN0YybHFCVHdjY25ST3BKOUM1cE0xcHVMdm1FVm9lbmx6UGZVSkxfQzd5WFZaQ2ZCMHgwU0RQVm9QZGtoNVVPUl9wbVRoV255LVdCQy1QenlsSVh0ZlpUVW1TOXhkUFpUN0x3?oc=5",
-   "source": "TechBullion",
-   "type": "news",
-   "published": "2026-11-02T05:05:03+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "Binance faces $3.64b net outflows after record $6.3b cyber heist",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRDZKanVjRWk1dTI5YlFtQXhWa2hkVENoVXZwbE1Xclh4NExhUUdJRDFsTUZtbjJaNzAzWWJRZlRrMUJlaUtQR25ObThwNmpwOVJMdVg0VUM1UkYyMkdxSnRocmNmNUVhZlNRWGdRVHpRcERIV1NUMXVQeDBOTlNMaDY1T1BrRGZDcXltM1JnUUswY0NpNlMwT29pNlN3TXItRExDR2dSaG1tTzNYams5dUx3aw?oc=5",
-   "source": "The Business Standard",
-   "type": "news",
-   "published": "2026-11-02T05:03:36+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
+    "Safe"
    ]
   },
   {
@@ -1496,28 +2374,6 @@
    ]
   },
   {
-   "title": "What CADC\u2019s Cross-Chain Move Means for Stablecoin Regulation",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQUd0ZldrelR2TWhVT2d4M3pUdm8tRnpldU9KZDhDN3l5Y0IyYkxUUDRxQXBTZVRJdVEwZ0F2eWhsSnZHV2s3SldZTjBUbFpiYnppU2VhU0VjbU5iTnoybnVuajRfY2EzWktVSENMZERKRUly?oc=5",
-   "source": "OneSafe.io",
-   "type": "news",
-   "published": "2026-11-02T04:37:06+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "WasabiCard Partners with Japanese Innovation Group to Advance Retail Digitalization and Stablecoin Payments",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObml1c2pzcVdHN2NyaHp2NkpsYXptQ3hrYl85eUw0MmtqQ2swekRBcVZpVTg1b05VNkRGbDFXazh4VTY4Vk04Q25zc3JrR09VNk5uQTFtV0c1UTdPNlF1MjZUalByX3RsWTNLaDF0X2JHVUN3Snk0cEpDclM4ZFpiRjJCVExESWFRMUxGMW9BN0VJSjY1Y01lVXRnRnVhTFBWclFWSWRoV3A4STJmaVhqemVTX1paOHM3R1lDNnUxaHdYUWlqOG00cWZXd0JCQ3dBTVFRb0hjaks?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-02T04:22:17+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Trezor Safe 5 Implant Claim: 1 Device, 2nd Brand [2026]",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUZmLWV4TFpjNDdkUVpzOG85ei1hQm5xR080RlVOZGNaTnR1SlFaT0dtT2NpWDNVTGZ4NTRESFF3c0hTeHBjdkplRUxVSnlVWk05QjVQRGhjM1VHeUxqbnRjeThUYlRoZk5FeFdvRWF4OVBNWnVWSUx6Nk91SjdpLXJkT0ZjVjEzUGVndjVLY1pNZGcx?oc=5",
    "source": "shattered.io",
@@ -1526,17 +2382,6 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Safe"
-   ]
-  },
-  {
-   "title": "Ethereum ETFs Log Their Worst Month for Flows Since 2024 Launch",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11b1Qzd0xwSm5JRHFrb1d5enRpNW1oLUdkTzJkdkdFcDNGRHRoZ0NIdVJmMTZ3aF9KaXl4em1FTm9RVkVCQXF6UTdveTVBWFhQeUFPRFhvZ2hvSktSSThybUlXcVRKZkE1ME52Wg?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-02T04:17:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -1571,6 +2416,17 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Chainalysis"
+   ]
+  },
+  {
+   "title": "Netpoleon India and QNu Labs Join Forces to Advance Quantum-Safe Cybersecurity Readiness Across India",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XX1QyYl96Mm9vdUJLU2lpWXJDTEk5Wm5TNW5jTW5EbTNvWFBwMWtpUFN4cjBsOXA2Rjltbkg2SkthY0dBNzdEbDlTbWVRTkhHZGJiNWxub3JFQUhiemFlRlBBOUh3VFROTUp6YlN6dEVxY21lcTRRNzk1Zlk?oc=5",
+   "source": "Electronics Media",
+   "type": "news",
+   "published": "2026-11-02T03:18:29+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
+   "topics": [
+    "Safe"
    ]
   },
   {
@@ -1618,18 +2474,6 @@
    ]
   },
   {
-   "title": "North Korea-linked hackers steal more Bitcoin than held by Tesla, El Salvador in industry's biggest heist",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjFqdkZrYmdGVDRxYU9jd3YyUE9Zb2NsaWpGVVViekcyWVMxaXhMbVNxUHlIa21mdXhVSWZ1RWZHWHU5RVo0RmxMaU5UME9Mb0lsdHlHSGJkVkhOMlA5UDF3TGowc2E2dGhUX0w3SFR2d1RrZWRoZnJYd0NOZXptbXl0Mm1lRmRZUjJVdEFKME5yS3dESU9KdmFyTkJUeTQwSHBsaVhTdjM0WGxBR1NhQ05kWXc0ZUV6WFp0VTlscGticHgwZm9WYUY5LTBYSVVpVUxMXzRUeWptMFJUOHFnREVWOTlncVk?oc=5",
-   "source": "Korea JoongAng Daily",
-   "type": "news",
-   "published": "2026-11-02T02:54:24+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
    "title": "THORChain Halts Cross-Chain Swaps Over Security Flaw, Disrupting Laundering of Binance Hack Funds",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSXl0UmJuUmdXam9BMDMxc0xGczE4T0hfaE9zVVJPZXlmUTU4T2gtWGVtQnZlQy11T2dDOWhwekNOYkhRMjYxQzlBeVpZRU1nZU5QbQ?oc=5",
    "source": "bloomingbit",
@@ -1653,23 +2497,12 @@
    ]
   },
   {
-   "title": "Crypto News Today: $6.3B Binance Hack Shakes Market as Whales Buy Dip and Pepeto Draws Buyers",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDBMUmJyZDhQeWt3UGhWYXlsMUVBc1J4czJoc1dQY3BrZ1d1emd0bTRMVVN3aTU4dlFsQzBVZG8yOTZhT3R2MlRjMzIyNWtNdXdOQ3BKQmR5SFZlYUEwcWZpMG9HLTZfVGNyai1FbUxZQmhxZmY2Z3UzQ3AyWXNGWDhnYWJCeXhTbXVPMU1WdXhSUzhPUk8yQ29ULThObEFseU85bTNFTkJoRFJtSTFOdVRXNWZ5STQ?oc=5",
-   "source": "TechBullion",
-   "type": "news",
-   "published": "2026-11-02T02:45:10+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
    "title": "THORChain Halts Trading On 10 Blockchains After Ethereum Reorg Triggers 10 ETH Overpayment",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZS1xdV9RUlVkVWthN0dyQUQyMk9BRlFMLXQxVndOY0hSNXRoc1BQdXRhQTR0SERXOHYyQkVnMGczcjc3cS15R081SWNpNFlxMXNOMkZkc1ZoNDc4WjRTTWh4aUJkWXFUampEempVQ0hyb0ZFTlJmZWM5STlxaWlkLWUtYmVLTjU2Qk05WEU2UDdQblBMU1hkM05xOXBIWTUwNlJ3aWJtVWFDeUNGb3g0dEFTQmJ0TWVSYWhndVlISE9meEdXWWFKMExR0gHPAUFVX3lxTE9hSjc0MW9TWDRKOVFnUktaQkhhSDFsMkpDQVdLVUVvNVpmRzE4eE5aOXhrWXU3bVRyRVE3UGVDU0YtQVhDYzNDQ2Noa1ZRUXZUVWVMNTFHNkNkRjJMWUh5SDR3Nnp3dFFMSlh2WGw1WTNxdFpjQllhWllIWkhpMExuV09JUm5hWUh1UFdyYWx5VFdHU3hyc1JvdG5vZTZaVFdiZElvZ2VYWHAtdk5RdHJJSHNzbmdvQkJQV2IzLXlSTElST3BKbmRsZlZGRko1Yw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZS1xdV9RUlVkVWthN0dyQUQyMk9BRlFMLXQxVndOY0hSNXRoc1BQdXRhQTR0SERXOHYyQkVnMGczcjc3cS15R081SWNpNFlxMXNOMkZkc1ZoNDc4WjRTTWh4aUJkWXFUampEempVQ0hyb0ZFTlJmZWM5STlxaWlkLWUtYmVLTjU2Qk05WEU2UDdQblBMU1hkM05xOXBIWTUwNlJ3aWJtVWFDeUNGb3g0dEFTQmJ0TWVSYWhndVlISE9meEdXWWFKMExR0gGGAkFVX3lxTE5QXzVLN0hTdE44WGFBbXlEODhmTHU5ZFp1THFlU01vU3YtOXI0My1QR3kxZTdBZW5acEtNaENVVWc4V0RrTUktU2c2SkRrYXI5TUIwT0NkemtIdGUxbkdOMEFSekJxejZDUXh5dFAtYWowUjRaLTFZYW90dzZLUUNyRFowSlJrNnA2Qnc3SWxmTWtpckhraDdwZU5ZTGJwTS1lX1NxZFdkMnBFdDc5aWFKa1lHeXktUndxUTJLd2Ntdl9NMGJLVXJ4R3ZWUWZqX2xmUzBSSEE4Y1IxcFhKbnNrUkhjQ2pEX19OSi1jcTlVejBHTFNEX3JEOU1PbmZVcm1Od3ZWRnc?oc=5",
    "source": "Coinpedia",
    "type": "news",
-   "published": "2026-11-02T02:39:26+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "published": "2026-11-02T02:40:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
     "Ethereum",
     "THORChain"
@@ -1688,18 +2521,6 @@
    ]
   },
   {
-   "title": "After Binance hack, where the industry sees a safe haven for cryptocurrencies",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnpNclc1S1hhYURkRFRLWGk1UnFRRDdUc09iZHVQNXZNalg1bHlfSmF0QlFBWmM1cTBOczNzSzVGR052bUsycXc1b3VoNXdWTzY4UVRhbXNfOEV3QnF1cExpVktHMGp1SnZONUdLSzNUQzlIeGNQZWw5ZWFXWXFHQkUyZGVXSVJqU2w2N1BTQktCV2xBb1prM1hBZjV2bURIeVduX2Z0VEZURld5NWpOcTdEcXROTm96amc?oc=5",
-   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "type": "news",
-   "published": "2026-11-02T02:08:05+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance",
-    "Safe"
-   ]
-  },
-  {
    "title": "Mercado Bitcoin Plans Sui Asset Access in Brazil With Lending and Tokenization Links",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZTZyTkpWSEhTVW9JalBBalZnMXEtRHpGSlFYLW5Wc2tzZVFzUGZJbGhqdHBBSjZRZVZSaHNLbVdFR3pHaEh2SktzWnh1LUl5VzQwakdGZDNzME9EaVk3YUZGMHFNTlRoZFZBdlh1NG9LU3lUUjhKU1M3N1ZRejFNRk5SUGkxZy1wRElES1prcDZZYVd4dVF1QXRxTEJXWDVaS281ME1MRHpPdThGcldTcWtjMVNxTHFEMzBXOUNCaWVVMTVkWldkSk9vNnlOdzNjNTRsYWVrOTh2Zw?oc=5",
    "source": "TradingView",
@@ -1708,44 +2529,12 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "RWA",
-    "Bitcoin"
+    "Bitcoin",
+    "Mercado"
    ]
   },
   {
-   "title": "Binance pledges to cover $6.3bn losses after historic crypto hack",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXFqVUNoS0pjbURtM0RKY0NQZE9mY3pETEtXV0UyTG5QZDAtSWlFY0JsNG92YU5jVHNGWkFTSHhlaUxfRTlpMEFfWlpOLUJxRlNRdXVvc1p1SGYwMVFyUC12VGtCSXNyeG54dFNHbHo3dzdPVkxTdTBaeExyWkU2Y1phOVRfdHB1VE5oS3hFQ2NaSlV0RkRzWlJHOHRkMHhxM3ZwMjhRS2VLdzg?oc=5",
-   "source": "thenational.co.za",
-   "type": "news",
-   "published": "2026-11-02T02:00:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "North Korean hackers suspected in $6.3B Binance crypto theft",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFlydExBSEhqLVJEa3JZN3BJWUsxSlVWUlltYjlucnpGWm13WEtQak5LaWVwdHRsSmYxTzVhQXF3S3J1WUh3OU5VNG0tNkxNZjItMHFJOVREcVZGaS1kTWNNdGh4bFpxWlB5UUF2dmZRQWIyRzhaTUwwSHdEVWY4Y3VpcXhURTc4YjRVZU4zQ2EyU29RY1k0eVFSY1Y5UkdzSjJRVkNqSVp4dl9leWfSAbMBQVVfeXFMT0Q3SGxXZXlsdUFMYW1wc29RQ1lHX2tWQjBfaXYwYkdzek1Sa284RG44OUJOeV9iM2YyaktzMUZNX0tDSHVXcWJvY1dmUXM5cVJXWERjZGVUdl9TVExSaXJfNDRvYjVqTHctclhIMWE1TG5qUkY1TFhnanVzR2dKajFoVC1UNHBXZXI5bWxuN3Zlb3JXeVIwUm9oNXZGdzd5THRhREJaWnNNZW8tX3pfYjZCakE?oc=5",
-   "source": "upi",
-   "type": "news",
-   "published": "2026-11-02T01:59:28+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "THORChain halts swaps after bug exposes cross-chain refund risk",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWlFN3VZMDBTY2VaaS1BclhoZ3ZOZHdpMmJuaDhWYVhzSENuUkxGVnRLWVFQNUxiMGhnSEcyVU43UUpfQlZkZzJqUnRPR1ZRV0owX2EwWm9CNHVzM1ZtMVBrZldreXcxaHVMbEEwazVzSG9NVXVyT0RsZjJKMmNhcFdIUUNNUDNmOVdvcnZrT05DcWxoeFZSLUJB?oc=5",
-   "source": "Traders Union",
-   "type": "news",
-   "published": "2026-11-02T01:57:18+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "THORChain"
-   ]
-  },
-  {
-   "title": "Binance says exit rush slowing down as users weigh security risk",
+   "title": "Binance says customers pulled net $4.7 billion after hack as crypto world weighs risk",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5",
    "source": "Reuters",
    "type": "news",
@@ -1765,29 +2554,6 @@
    "topics": [
     "THORChain",
     "Binance"
-   ]
-  },
-  {
-   "title": "Bitcoin holds up despite $6.3 billion Binance hack; why no 2018-style panic",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUGRSYThxbnBpWVB4M1ZSUThFcmtxSm51MDV1b1FjeUxwb3hIU0drbDV2VkU5ZEcwUWpRVWR6NmwzSHRJcEpfckxFakd5R3BMRmpwR1J4MmV1bE9YeG45QUZVMEs1SndHaTlnSGJDdTNGNzREM0JVQ00tdFVGWVRzMnJkYnZlTmRPZUx0eng4Nlk0dG5BdFNzNlBVUnFjRnEyeV9rSFB0bW9KQTU1d0RnS0todkpRSFlvaUFZ?oc=5",
-   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "type": "news",
-   "published": "2026-11-02T01:43:15+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "Stablecoin Regulation: Bank Disintermediation Is Here",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sYkw5N1MxZklwTjNBOUplM1dORGx0WkFfWlRmVlh1QmRLREpTdXlTTUh3OXMxTmhoZXRINm5QYnFGdFdDekNpb0V2T3EteGtLakV2VGlQR1IxbXoyMUN0N18yM0pxLUZMdnZaZE01QzNsa29HM1F4S3puZ1g?oc=5",
-   "source": "OneSafe.io",
-   "type": "news",
-   "published": "2026-11-02T01:42:03+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1815,36 +2581,14 @@
    ]
   },
   {
-   "title": "Binance Restores 95% of $6.3B Hack Losses as Withdrawals Resume in Phases",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGJuX2psUDdQeXRST0tfakZiaDc2WUZoVEU4NThVS0tzSEtrQm1JT3FQTXNWUVloR3NubkRoRHRkeTA2OUVDRHJ4S0RpUHMzamI2X280MmVIdXBBLTJPcTJsM2FsRDdLUjYxRlJtdG5rd19PbmdhRnF5SmtpcWVkYk5TbUo2d1F1U2xFZjVtVmVsNEpxUEppMlNyMldaczlsV1V5VlY4bDc?oc=5",
-   "source": "CoinMarketCap",
+   "title": "Uniswap Extends VolatilePair Hook to Robinhood Chain",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnZaajQ5NVhfN2FtQU85MGtNcTdLUUhXNi13NnJjYkIxeW1XTm11TFB0T3czdmh3ckZ1ZThHMmpQV05iakVzVWdYRWxqYWgxaV9SbWRabTdudlZwemNTeU9rUnl5NmI3Rk1idFJNX3o5cTRDdzQ3MkRtbWkyU3lsNkQyTWhXV2VOUDJxQg?oc=5",
+   "source": "The Defiant",
    "type": "news",
-   "published": "2026-11-02T01:23:48+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "DeFi Education Summary: DeFi replaces institutional trust wi",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tQ283SXdRc2dkN19WeUlBZkphYklmT3dZOGRYVm1tRS1ZX3M2eWl0R3A1X2VEWm1MQ3VDMWd4Q2dqV1Q4Z2FRRnFJbURuMnpraEsyZ1kzcTVuLWIzQVNCZDh6WHk5WHZQWGRFNVhObGpodw?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-02T01:22:25+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "published": "2026-11-02T01:33:15+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Dollar Flat at 101.94 as Bitcoin Reels From Heist [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1VrXy1YZ09GOFZjU3NtbHg3eU5OTmFCN3dYdldSaEJEWjJCWFFyLUtjWE5tb2ZLTVNfN0ROR2ZYWEJvVUdRUWQ1cXR0cS1HX3dvZzFQZ3VtZXlHa29VU1ZVWllqT3l2Y241T0FhX0NHVU1rSk1ST25mNDdNd0hCM1FHbEhyek5UTkE?oc=5",
-   "source": "https://tech-insider.org/",
-   "type": "news",
-   "published": "2026-11-02T01:20:43+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1871,17 +2615,6 @@
    ]
   },
   {
-   "title": "Dollar pulls back ahead of US midterms; bitcoin stabilises after crypto heist",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
-   "source": "Reuters",
-   "type": "news",
-   "published": "2026-11-02T00:57:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Stablecoins and the macroeconomy: Bank disintermediation versus fiscal space",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakNTOXdLeWgyMFd5NWRSclpvcW8xMGJnanU5MFFUYWJfZUU4UGkySTFiRktUX1hvVmJFT3dpc2dzZnd6bzd6ODdrbnpFSW51d01OaTBHOFJzY2EyWEQxcUtSdW9OOUZ3NWQ3RjYyVkJuNGZfTExKd1NDQ2tkcUZBS2U5OUtRS2VuSWhGR2xoeGlRcXQ2d0ZHcUR6bHk3bnVEeDJEMw?oc=5",
    "source": "CEPR",
@@ -1890,17 +2623,6 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "XRP or Ethereum: Which Is the Smarter Buy for the Next 5 Years?",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXBybDBtY2tCbnJtQ1piV1Z1TXNESkR1bjBNTUhkeENHZ3k2SjE1bzFraGp3bEtLZURQdnNjTzZrRGVxN1Nzdm9tQWxzVUJNNVdmRGNoN2VGNXlBRUJoR1RjRkdWQVdlNFg5TXUwaHdWYWZLVVYxSFdUZWRCVGQwQzQxdnBFWm1HOXhqUEVMalhHVEhBRG1EVW9adjZNY2l4ZnBId1pBa1RuWC12YW1CWGJoV0FnVkh4c3RSUg?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-11-02T00:41:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -1915,18 +2637,6 @@
    ]
   },
   {
-   "title": "Ethereum price: $4.6bn volume vs $66bn for Bitcoin",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHNidzVmdElybUdFOGREQVN2dUtHOW5sREhtNXJRWmk4czVpYTFMNVdLUm54RFluU3dVZFNBT251Rkp3Ti1WblpVdUlrS0U2b2h2ZG5keDlmRURUSEJnTUJFaE5RcFI5NG10UDNfNmR3OC13aWppbUFYX2ZZUkhRUW5Sd18?oc=5",
-   "source": "CryptoTicker.io",
-   "type": "news",
-   "published": "2026-11-02T00:18:23+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Hackers hijack 12 DeFi websites, steal $202,000",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGczUVZXdWJpdkRrVmV5dWRpNVJCUks5cElTSTVGTjJhNUpTRVc0dnFFczhIQmtvZXZwX3M0bUZlcVlIMUJBaTl3QzJ6WkhiOTZHUDRVWnJFelZfS29QVGEwZmhzdnZubXY0ZWpYNDFrN2dYMTZIa1paT1dwMVo1SVltUEY?oc=5",
    "source": "grafa.com",
@@ -1935,17 +2645,6 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Using an unused iPhone as a crypto wallet can backfire; offline is not safe",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0RWYXNHZFR4bzM2bThYUzB1RDRHb0IzbkVyY2ZGVHRmLThyYVNiRmtndllVd3lXR2o0ZE50Rkp6LTRFS0VfTlhPS01XcGEyaFhaVTRXOVFGWmphRWV0SGpKQkgyYjFpTnhqV2RwNW1CSWhERXpTN05sQXdfd25tQXNkUENGbjU3RGVVbnJtZUNvV0ZXSXZ5eA?oc=5",
-   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "type": "news",
-   "published": "2026-11-02T00:08:23+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Safe"
    ]
   },
   {
@@ -1972,18 +2671,6 @@
    ]
   },
   {
-   "title": "Thorchain Glitch Blocks Binance Hack Route as FBI Presses Nodes",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX21RTkdzLWVYQnRITG5Wc2VLNGh6R0k3U3dJdFhrbTRtZnJwTi1TUWhaS3pXek11UkVERnA2bWxnM191NHpTVTUtMHBIT3Q0OGNQVkJhVlN1VUt2RWxrTU9xeDRxNDV4Nnc0YTVDbExXYklxZlFIN3I3Szh4VVVtdkZlLWNqM21naFkzQXZOZFZGbkVLd0xzaVhPb1QtUDNGemN3?oc=5",
-   "source": "Bitcoin News",
-   "type": "news",
-   "published": "2026-11-01T23:30:37+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "THORChain",
-    "Binance"
-   ]
-  },
-  {
    "title": "Binance hack funds worth 670 billion won move to Solana after 1,000 wallets, 3,000 deposits",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWG02dVlkdDBVRHZHVE16cWFvb0p1cHFKV29XMnRrdmZDLWxEUFZqNmxnWmc3VTZIaWFLaU85NEx4dDBrVE92NXJoWEtXT3ZKOTlRbEY3NXplRHhkVmg4LTVFenJETWxDbGlqemFiYm5rRjI5TGRXR3JKSF9NWUxnZ05mYzVzWVo5MkRhcHpNOE1EUEZ5WG5VdWg5UVpKUjJzaHJaRGJTZnA3MXdVZ1RlVkNyVzJfempSV0pmQUZuMHdYczJpZHhZdVZ3?oc=5",
    "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
@@ -1991,18 +2678,6 @@
    "published": "2026-11-01T23:29:57+00:00",
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "JP Thor Opposes a Full THORChain Shutdown After FBI Alert",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mM3FNYjVwbV9zaGpzM2pjdmNYWXhHd1hGcjBfQTh5M1lCTGZNTU1JN1dsS0JBT1VEZEpkRzhkTXV1dlRrZGZYMFFnTEg1LWNoMjhWc3prekM5Tm8?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-11-01T23:26:29+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "THORChain",
     "Binance"
    ]
   },
@@ -2019,13 +2694,14 @@
    ]
   },
   {
-   "title": "North Korean Group Steals $6.3 Billion from Binance",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjFOakpGamNuXzE3TFBac1AzanJYblIxWWFXNEc2Vks1SDZGbG5nQmRDWXFmYm9DNjR2cjJhSEhfZ1NHT3VzQ3RDQlNweTBoN1hhVEFXcFVhdzd5RjZ3OHdtSkhaNnQyREUta0lPUnRSUjlwQjVuMGlBbmVPWmROLVBCSDY?oc=5",
-   "source": "\uc870\uc120\uc77c\ubcf4",
+   "title": "Binance-Hack Launderers Reach Solana After Draining $500 Million on Tron, Chainalysis Says",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0owMkFEUXMycWtTQTlKcVNNQ3J5RDZ0Y2ZRVHpTUkhyb3NJZVE1SWxXWVlINFRPTWdjU1dyQkJZVFZwX0IzMkRqLXgwS0kwUlM3MjEtVzR4NFB0YUg4R2QtUDZONHJEemtQVy0yWGRTakg0VE9neldnU19iTjgxTGY0NmRCc1dIdVZTOXBtak5FenpNQmQ3QWdBUTduZnh5d2dGR0psVHhka3RSUzlkTHhpYkVmT2VpQjVWSkdn?oc=5",
+   "source": "The Defiant",
    "type": "news",
-   "published": "2026-11-01T23:21:40+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
+   "published": "2026-11-01T23:13:38+00:00",
+   "first_seen": "2026-11-01T17:10:40.053992+00:00",
    "topics": [
+    "Chainalysis",
     "Binance"
    ]
   },
@@ -2085,17 +2761,6 @@
    ]
   },
   {
-   "title": "Binance sees spike in withdrawals as exchange returns online after $6.3B heist",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRU43RC1CVkNsLWk5VENXMVFERDVybk91bTlNNHlPWlpDLUFEbVRPaHpPWWZTZFdfR3lSR2hKbDh3Sm5RdWhyZm1OZVdjS3hvQmNDWnoxQzJTYk12bDRDQVBmVkdqdGVCTzBMSmRWTU80eHJUOXE3Nl9VOFZLTVlxOFplQ3I5aHpLWWlvSnRsbnVlY002MFhmYkF1VzFyUk04TGt4c3dn?oc=5",
-   "source": "New York Post",
-   "type": "news",
-   "published": "2026-11-01T22:02:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
    "title": "FBI Links Record $6.3 Billion Binance Crypto Heist to North Korea",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGZ1VWVhRlRPaW1vYkd3QU1nd21LeFV0bzYweXpWcnJXRUFrYXVQYTNTdXU2UzAtcG9JX0dvRGpxTUhqQjV0OXZOcXR5bVlTdGptLXdCdnpKNS1OX1VSaEZHSFhNZEREUmtKR0dHN1NmN3BWQm5HaDZGa1gwR1pSeXlaaDJhbGlGbEV3cUdPRkJ3SVEweXV5V2M2RHhtRXhHR2dkbDNoVldRUQ?oc=5",
    "source": "Inc.com",
@@ -2104,17 +2769,6 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "Binance"
-   ]
-  },
-  {
-   "title": "What Happens When a Uniswap v3 Position Goes Out of Range?",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mY242OExjYlUxZU5UR1U5d3hvMlBQVnFfMEtrOC0wbHRud1Y2WGN1bmJWcXpaTFBkbUxEbmhETFZXTDN4XzJGMFh0ZWpRWU1qZHNDTQ?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-01T21:42:36+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "DEFI"
    ]
   },
   {
@@ -2130,17 +2784,6 @@
    ]
   },
   {
-   "title": "IBM Quantum Safe Helps Firms Plan A Move To Quantum-resistant Data",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fNnZoVndMVGNwZEc3UVR6QVp2MXlqdE5McENRdHpLZXZPV2JOTUJoMmhWWWk0cWFKcjVjVlhQOGNtLUtYZU5FSEppajhmRXU1Y2trU2I2R05oSTN6WFRfa05FZEVMTnBPZlE?oc=5",
-   "source": "Quantum Zeitgeist",
-   "type": "news",
-   "published": "2026-11-01T21:36:14+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Safe"
-   ]
-  },
-  {
    "title": "Uniswap aggregator hooks: fees from outside pools",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXI0c2tJbzhwc2w2cW9LQ2UteDV0NVdDWFBlYzdla1pUVkwwdFRTSW5LWV9TUU9BdzFfYkszSkFCQWhZUUpjeDM0VndGb2NUTlUwYVplM1dPNzg3WUtpSzVBc3B4QnczRE9uMFBnX2tISFZHTWRFUWdyRU9CVC03aUZ2dFQ4Qmc?oc=5",
    "source": "CryptoTicker.io",
@@ -2152,17 +2795,6 @@
    ]
   },
   {
-   "title": "North Korea-linked hackers loot record $6.3b crypto in Binance breach",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWctbzJJQWtLSlVUOEJhXzdON1ZXOTVEcmROaEczVEx2ZGMyZ2hfek9qSm9yYzROZi04N196ZzB0ZEY1ZHFidmlJRmRhQ29FeU9ZVk5ua08wdFh6SzlHbkstUFczQVlZM2Z0eWN5TElGaHgzZjBKUDF4bTF6QllsYk02NnlRU29idFVZM016TEw2cGNZWFdFR1d3N2nSAZwBQVVfeXFMTjVnLW8ySUFrS0pVVDhCYV83TjdWVzk1RHJkTmhHM1RMdmRjMmdoX3pPakpvcmM0TmYtODdfemcwdGRGNWRxYnZpSUZkYUNvRXlPWVZObmtPMHRYeks5R25LLVBXM0FZWTNmdHljeUxJRmh4M2YwSlAxeG0xekJZbGJNNjZ5UVNvYnRVWTNNekxMNnBjWVhXRUdXdzdp?oc=5",
-   "source": "Chosunbiz",
-   "type": "news",
-   "published": "2026-11-01T21:27:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
    "title": "THORChain Glitch Disrupts Binance Hack Investigation",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxeE5telhkRE91TzFmTEpBWmlfSlVLemhQdjA5YVNSelB6WERyS25ELUY4Tmp1SjFrOWNxNU5UMGRVWW90blNtMTV2OU9JalN4c3RYN01kVmcyTGNabldDMHBDLUF5UWQya21LNV9sMXMyS2Vic2lTWFA2OA?oc=5",
    "source": "OneSafe.io",
@@ -2171,39 +2803,6 @@
    "first_seen": "2026-11-02T12:02:58.715322+00:00",
    "topics": [
     "THORChain",
-    "Binance"
-   ]
-  },
-  {
-   "title": "FBI Confirms North Korea's $6.3B Binance Hack",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3ZxM0lyQk84d19sTHVZek5QV3RIaUc1a3VqVUlwa01tUE45WWFpRmdrYWVEMTlPTGVzektDUDJ6UFZoM0l1d0E1Vk9MSjJsNGY4ZnRVRC1XeW1aOWx4aDVmTEJ1Qm1ObmJTWEFJQ3ZvTnFOOUtNZFNQdllDam1BLVBJalY?oc=5",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "type": "news",
-   "published": "2026-11-01T20:38:37+00:00",
-   "first_seen": "2026-11-01T07:00:55.495987+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0I3eG5sdzRScnpxbTZGWlVzbFBDem1aSzYxck5NelJKWUc0LTc2UVNMMTgxeXdkWUpETm9XSXI5ZzNSeENiSWlBVUhpVlJEYXgxMmctTF9rczRJT3NzUkFUZUZqcEVtMTRxeFppTEktYm52V1VINGxsV0RBS2RsNk5ZMXpyU3prUGtoZ1F1TUtQdEl0?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-01T20:15:10+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "Binance Sees $3.6B Withdrawals After $6.3B Crypto Heist, Recovers 95%",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObkFaSnpDek5EallUbVRfVTluV3NqTUdlcmVwaHVrN21HYTJNOWl0eWFTX2R1UGFTRldWMFFqa25zWW0tUWNsWDZMRGNSMmZ1QmlVMGNCOFRCZzRzYWxURmRnTEJZeUFwcmI4bTRCUlBJa1g4LUVXb241eDY5bTJDUjZnLUh0UzZCaE80aG9fUlNCQ05Qa3Q2VlRxdzJrTElONFE?oc=5",
-   "source": "Global Banking & Finance Review",
-   "type": "news",
-   "published": "2026-11-01T20:13:30+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
     "Binance"
    ]
   },
@@ -2232,28 +2831,6 @@
    ]
   },
   {
-   "title": "Inside TraderTraitor: North Korea's shadowy hacking group behind $6.3 billion crypto heist",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MYlZmVXd1aWtNckR6WFZkUzhKY3p1ZnhKa2JxbnBMRkMtUFN3clIzVnhaOEdIXy1xcVNORDhIR3JQcEN0aGotc2Z4Y1V2S04tY0VXeWY3S0tQbFVOX09rMGpLVQ?oc=5",
-   "source": "Ynetnews",
-   "type": "news",
-   "published": "2026-11-01T20:00:00+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVNPZEJkZDg1Tm9USVlOVkluQ3RzbDE1RDhOZXNYQlp2eE45c29CSm5zSExfMVV1enBZc3JqQzhBeXFWRk9aT3FTY1RISlR4OUF4SGhUMFJrSV9NenpXdVl6cHB6OTBQc2dhWjNnYmVFZlRSZEthdEJ3UkpiYzFzdFFsYUZ0V0dUeUhXLWhIYW9zSGFwby1UMDY0Vzg3M1JRbVdUMGs1TUtwTF9yMkZNSjFkaw?oc=5",
-   "source": "BleepingComputer",
-   "type": "news",
-   "published": "2026-11-01T19:57:53+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
    "title": "THORChain Pause Halts Swaps After Ethereum Reorganization",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iRzRpWGlWZjVtb3hDYTVlejlxTDR6alcyenhkWW9GRlptSUFSWTBod2djcjByWEd4endrWEZPT0Q5Uk45NkltMXZISDJnYmdyZjZyS0FMQzhDY1U?oc=5",
    "source": "TOKENPOST",
@@ -2263,52 +2840,6 @@
    "topics": [
     "Ethereum",
     "THORChain"
-   ]
-  },
-  {
-   "title": "Here\u2019s How Much Binance Users Withdrew as Bitcoin Bulls Spot an FTX-Era Signal",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTRxYVpQbFprMEZfTUdvanM1ZjRIY0p1UExLUDEyX0ZTelNSMjdZN1NvTHkwTEJZY3BUdC03ajZOcVJCUDYtYUZvdDBfYVAtenlPMXVUb3JDNmZEQWo4U3FIRnVQRkRUMXpBM1RyUFd5azlPQzhKUTJkZmR3dVQ2al8wREFhREVnTzFoWlhMSUdiMVBVdVpFSEEtZlNPTExjVWY5c290N0VsTWxlZXRTOUVOaHN1UQ?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-01T19:11:15+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "FBI points to N. Korea in $6.3B crypto heist",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0xBWFVHRWJfVDdXdjJVS05rd1pwVlppLWxyalRZajEwLWFKSVF1Y2I1VnV6Vl9jWDR4eVEwSUxDZ2Vid2RvN1JwelZWbC1ZYnotb3VsZS0yMnpCMnVlb29mY29QWHRLOS1rR3FtV1prdXg3WTNMcl9fdFl0ejdadi1ySmJEeU80MmQ4?oc=5",
-   "source": "Boston Herald",
-   "type": "news",
-   "published": "2026-11-01T18:58:02+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "$4B+ leave Binance since withdrawals resumption after the Lazarus $6.3B hack",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3lrdjRJa3NSRGlCYU9PQTVKendHY2ZpSW96SXlaeldmdnR5MlBVdWZqTHZ0OUdVTFdnbU1UWmtRMTc2U0FjMGtITFJuRUwyMnM0WG1LSU9aNW9DQk5wb292QlFmQ1YyVy0xNU5mb21zY1dRVS1sZ2lSRnZFdmdiQXVpZjM1SmlYcm5sQkkzT2hhWDlzLW5XRE1NWUFYcG9KYVIza0JOcTU5ZmJaV1VjRExmNEVOcXI4Ulc2OF8xaTJ1a0FPeUhXSjh5UGk3enhUUzRrRldHOA?oc=5",
-   "source": "CryptoQuant",
-   "type": "news",
-   "published": "2026-11-01T18:53:21+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "\u6570\u636e\uff1aWhale Alert\uff1a7,499 \u679a BTC \u4ece Binance SAFU \u8f6c\u81f3\u672a\u77e5\u94b1\u5305",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mZVB3YWdDaGZlSkJmRlVZb2plUGRvOTd0VjFWSkQ2eVl0Y0NJWW12cVE2YmJHWXF0aVE3NW5sOTZ3cGx1Mk9DT2VBbFV2d2ZYb2VWbnZNMU8?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-01T18:40:38+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
    ]
   },
   {
@@ -2324,15 +2855,14 @@
    ]
   },
   {
-   "title": "Binance-Hack Launderers Reach Solana After Draining $500 Million on Tron, Chainalysis Says",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0owMkFEUXMycWtTQTlKcVNNQ3J5RDZ0Y2ZRVHpTUkhyb3NJZVE1SWxXWVlINFRPTWdjU1dyQkJZVFZwX0IzMkRqLXgwS0kwUlM3MjEtVzR4NFB0YUg4R2QtUDZONHJEemtQVy0yWGRTakg0VE9neldnU19iTjgxTGY0NmRCc1dIdVZTOXBtak5FenpNQmQ3QWdBUTduZnh5d2dGR0psVHhka3RSUzlkTHhpYkVmT2VpQjVWSkdn?oc=5",
-   "source": "The Defiant",
+   "title": "Solana Leads RWA Inflows With $900M As SOL Price Targets $110 Recovery",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjNYVjNDanMwNEI0MEJsczdJRFJZYmZwX2tmcGN1MGdsVTNpNllYc0p4V2NDcWFxczhHSmpWQ0ptMVZ1QUJUMVk5b3RyQi0xZlQxdmlaaml4RG9LSi1HdDJFeHJQcFUxS0JycEtENHpiNUgyeWlEaW1YMnFlMmdwRkNJY2VzYzhkd3FTcmJfQWVkQlh6QkdUbDhmYnk?oc=5",
+   "source": "TronWeekly",
    "type": "news",
-   "published": "2026-11-01T18:13:38+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
+   "published": "2026-11-01T18:00:00+00:00",
+   "first_seen": "2026-11-02T17:04:52.312046+00:00",
    "topics": [
-    "Chainalysis",
-    "Binance"
+    "RWA"
    ]
   },
   {
@@ -2346,207 +2876,14 @@
     "Binance",
     "Safe"
    ]
-  },
-  {
-   "title": "Chainalysis Breach Exposed Customer Names, Emails and Roles",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVF0NFR1N0QwZVdDUDR4LXh2eTM5X2JkamhmS0R5SjFlbGNoSVE5Yks1eGNyMkdNOUhXV0d3WnAyZDEyTExUcEs5WDFlMU1wZFBEb21DbVpOVWpJeVFGcUtBREFBUDFsUlo0bWZHX1pwSTRnbW9NenlSS2xSNVh4SmxsZlRLUzVIRlF2WWF1NVFwUl9Mbkl4XzBPM0JhMzVGLU9tZFgzZjN1dFZQSkFlZ2hCMA?oc=5",
-   "source": "FinanceFeeds",
-   "type": "news",
-   "published": "2026-11-01T17:34:59+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Chainalysis"
-   ]
-  },
-  {
-   "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-   "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-01T16:32:31+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUNSTU9VSmpLOHdYajBxZ1hpTXJyOW0zSUNFQnlseE1seEFvSTBKTmNXR0dXek8yMGxyMHo3cFpBVW1lQ1BLV19wUjFqZVRwVlJ2OERUVzlzWWlHUC1iR0FoNXY0dWd6RUxXZ3BVOG1EOE1Fek41R2ZsQ2xXbWFDRWhEZWNPRndWdUtkeEN0cGRDTXBPcmtRUzB4LVdaVTdVNnJpVDNrNzJTRk5FYVFYMWtzVjRKXzRRQ1RGR01xTUxvWW4tTHfSAcsBQVVfeXFMTXNlR0FBQ2cwaTYyaU9uLUdhWjVPQnBnVGRta09veExETi12S3o4NV91cWtJbnRyQjdtajFMcVRtMHBoYjhwMDN3MEhiYzNXVk1oU2o0YUwwTGNMRExwX3dOQldha191YjJuLXVMOGdaYkxOZ3AxX1U3cmVfUV9tVHBIeHVReW5RTW95TG9yWU0yUHBPQ1QwZDlENU1SZFhfMURpRkZndXpYWERaYzROc1JJbG9HejFyZDRkQnRsYWFPWlVVWFZ0dE1IVkE?oc=5",
-   "source": "PBS",
-   "type": "news",
-   "published": "2026-11-01T16:20:20+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-   "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-01T16:01:02+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "N Korea behind US$6bn crypto theft, FBI says",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tbEFuaWo5X2djdDNfSWpUbkdxUDRTUml1VTFvWnBlejRTRW91OEJUejBkandEY2J5aldLX2RHYTlpQTUyMndpTUhnTzdweDZIMTFURmc4ZzZIV3ZZRVpJNWVrT3B6YlFPa2tTNTFYd2V3UGRiY2c?oc=5",
-   "source": "Taipei Times",
-   "type": "news",
-   "published": "2026-11-01T16:00:00+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "What Happens to Correspondent Banking If Every Country Has Its Own Stablecoin?",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1Y0U0hwZUt5a0ZPdmRQVUlHcmxmU1ZIZnhRZWQxQ0tKbjBPbElPTGN0T0hKcEhfMWV5NFRKTXI0RWRNUUh4RUhrb0tJRTRFYXVlTXFHMzM2SGIwbHNlc0oxV3JncF9IZmdzeWJtRnhsN1RtUjlFX2ctaHF0R1ZfX08waTI2WDVPS0tZcGN2LWdZV2VWd2Exd2lQeUNQdi1VQjFzTk9EU0t0Wl9zWkprU3lOTFdEdw?oc=5",
-   "source": "Financial IT",
-   "type": "news",
-   "published": "2026-11-01T15:25:07+00:00",
-   "first_seen": "2026-11-01T07:00:55.495987+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Ethereum DeFi TVL Snapshot Shows Dollar Value, Not Ether Flows",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44YXh2bkpjSC04V0tkU1lSbzRWVG5RUm5KdXdBQ2k4SjU4UUVkd1ZFSk13UjNaSFlqd3FLZC1rVE9aQVd0MWdGWFdKUkhaQlJDQnozRXk4S3IzUQ?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-11-01T15:23:34+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Ethereum",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Binance Reopens Bitcoin Withdrawals Three Days After Record Hack, With FBI Blaming North Korea",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGw2UDQ4OENOTW5YOVY2d3A0aHBlcmd0VmM5NkEzbzdSSjJkaXd5R1E2dzNGcGdCZFYwNTVTbXU3RDNrNXQ2MktyQURHaFFZcUhVd05iRVdzNzdGLTBua05CY1pPMktscVJfczY0WWM2Yld6QTVHOWFsbGVPV0gwU2liLVZFaHB5NTBZdjA4aGpEZWYyTjRiLW5mQUFvRWlVUGpHSThEOG11Zw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-01T15:04:00+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "Old iPhones May Not Be Safe as Crypto Cold Wallets, OneKey Founder Warns",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnMxWFhDbkFQdW1NY3k5RzBReXBWLW9zTnBVbHE1dC1UTUMxRV9NR0ZwYl84MTZGLWVVbWl6T2FwbUVjQzFjVl9QdzRyMmt6ZWhCbzdNYVV1ZVdFX212THU3MWhFUXlkcEFPTmgwYWcyaDdQY3hMRFdfWnRhRzJpbg?oc=5",
-   "source": "Hokanews",
-   "type": "news",
-   "published": "2026-11-01T14:19:00+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
-    "Safe"
-   ]
-  },
-  {
-   "title": "Binance to resume crypto withdrawals after $6.3B hack (BTC-USD:Cryptocurrency)",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckhOS2N5cGljY0UzS2VYMkRuZVFyaEl4YWJMZV9CaXN5X2dBVHBIeHJFa2pYVkI2bG5XVjJ5YzU3Rm52VWhGVXBRTzh0TXkzb1d2TEg4QVRiaXRlcXFrZHMwZC1xR2VFeHBUMnFXUkdFemJnNDU5RUFreDdsVHp3Nk1QYmVyMUdoX0RzZGJsT1EyaFE0?oc=5",
-   "source": "Seeking Alpha",
-   "type": "news",
-   "published": "2026-11-01T14:14:16+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance"
-   ]
-  },
-  {
-   "title": "About Flowdesk AUSD RWA Strategy",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE1DN1REUGVBS0dKR21KMEp3ZGxBUjVPaXI2SllBbjhEVmJKMzc3al9UWlR1Mktfd2JmdzdGY3psTlV3VzdLRWEtd2J2b3FVMXI4d0F5MHg3R25aenJUZzlaTlYzQ1FPakxWbE9fbkFHckNHems3OGp4VFI3aGRwQi1YOHkwWlM1cGdBWlpiOTlkOWdma3pndEo4NkxnNmdWSnpJOUprWGRZUGl1MkQ2WjRDUDFUUQ?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-11-01T14:11:55+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Gold Is Crashing, AI Stocks Are Bleeding and Crypto Is in Trouble. Is Cash the Only Safe Bet?",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XazcwUmdEWHV3dzVLNkNvZXR6LS1McjVKS1ZwQ0wxR0lVckJhcjc0X3R1dTJsVmFJdkNjU29uOUd0dGFVWEQzSGxQLXVQT3pacFVuYTEtMjY2UUFNdEpYek9kUGo5TE9RTnpsZnFKTVMyckFPcFE?oc=5",
-   "source": "Altcoin Buzz",
-   "type": "news",
-   "published": "2026-11-01T14:05:37+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
-    "Safe"
-   ]
-  },
-  {
-   "title": "Standard Chartered Predicts the Stablecoin Market Will Hit $2 Trillion by 2030. These Are the 3 Stablecoins Investors Need to Know.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGZIY0Ixd3dITXZsMGhDMXNWT0xldWR5RkF0MTZua0lWYWhEOWN0OXpleW9ORWJ1X0dSdm5ONmdVMnhVNEdZSlBqZi1JYkpuRWduc1dQOEFrUEE2aEtaNXlhcV8tZHAzVXNNeGJLUzNzN2E4bTlZQUhTRWtWWExkXzJVYkMtTm9WNEQtcGc0aVN3OUEza1JTOFgxNlZRSWVhYTFhd1dITXJOYzc3Q2Uw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-01T13:55:00+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
-   "source": "BBC",
-   "type": "news",
-   "published": "2026-11-01T13:11:37+00:00",
-   "first_seen": "2026-11-01T07:00:55.495987+00:00",
-   "topics": [
-    "Binance"
-   ]
-  },
-  {
-   "title": "Bitcoin Should Be Plunging Much Harder: So Why Is BTC Still Above $77K?",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2M3NGE3aUN1Mm5xZERmdnBuQVVKTTFneS1jNjQyMnYxUXFESTYxejNIV3YtcTBndGJhY3ZSZmdXUFVHUkd1UHFwQTlwQXFvMGI0Z1RFcjAxMEEyYnQ4OUZBeW1xcXJocXViWlc0R3FCekpNc0VSVHd3NE4zc1haMnZsSW5IMVRFbFVMMjRPc0dBTFcyRVpUR3VQVEdiM1dBMHpVYXZYQURYdw?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-01T12:57:12+00:00",
-   "first_seen": "2026-11-01T17:10:40.053992+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "FBI blames North Korea for $6 billion Binance hack, urges THORChain to block stolen funds",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORkxOSHJNc1FOOUdlVmVIOVlybVhUTXBLUHRYYVRIdWRyZkF2ZWdxRXpDcU9CR013OUlYZ0x0a0cyTWk4YUFHaEFrMDBCWi1ZQ0JBUnR0VWdMRkdOd1F4b1ZRVVRDb0x2TTJ0YW9SUlE2akFJMkQ4NXhDVk01eThHcWRGM1VkTC15aWpFV1c5VU1zS2QwZmhTeE5XeUNpeFFBR1ZtblFGUlhEbzJFZWpnbTZB?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-11-01T12:20:43+00:00",
-   "first_seen": "2026-11-02T12:02:58.715322+00:00",
-   "topics": [
-    "THORChain",
-    "Binance"
-   ]
-  },
-  {
-   "title": "DeFi Fees, Revenue and Holder Payouts: How the Money Flows",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnlveVZfaS1EcjBpTTg4eGxfMGlaUEt0eG1xZW1iNHZneDZLUXVOZ0wyWllxc2dMM1JyUGxpa0VkZEo5TkRKdi1ESUp1a1k5NUxqcjR5dG9DN2tKWi04LVlrRl9pSGJBQ0YweGR3MFVLeHNKS0E5aGdOUUs4cld2NkdRMmZUZGJNeGJKeDRHMkZvdw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-01T12:13:41+00:00",
-   "first_seen": "2026-11-01T12:02:58.853044+00:00",
-   "topics": [
-    "DEFI"
-   ]
   }
  ],
  "stories": [
   {
    "title": "FBI Links Record $6.3 Billion Binance Crypto Heist to North Korea",
-   "outlets": 36,
+   "outlets": 27,
    "topics": [
     "Binance",
-    "Bitcoin",
     "THORChain"
    ],
    "items": [
@@ -2555,7 +2892,49 @@
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FTDdDQzhpZWNUMjdJVDMwN0N2R1djaVgzRlBDZGZBbHY5M0F4NlBRN2FkQ1V5REdSaWF5a1A1Qjk5YUhKVEJ2WnJIR1RWUjlvR3c2YzF2Z21adk5wREliYWZVRjAxUk0?oc=5",
      "source": "RTE.ie",
      "type": "news",
-     "published": "2026-11-02T12:01:36+00:00"
+     "published": "2026-11-02T16:31:36+00:00"
+    },
+    {
+     "title": "FBI confirms it thinks North Korean hackers hit Binance in record cryptocurrency heist",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFVNQ3NCdGxnN01GeDdlbjNpOFExaVZWeXRkZUptdGFQSWJGdjRQblN1TjdIQlZHcXFwUjlKbjQ1cDQxTzhUZEZZZXM1NEZodlZYb0VWWlNaUXZSdWd1ZTRWWjViSElHSlFRZzVZcWptQUltN1p0czhwYUNCSGZSd0hsNm9TeU5Qay0ybWtfOFNwd2F1MVZCMURuZEI0ZDZQVXhFRWJtU1RmUmJnNkxvNExMTkNKUXhJNkNoNVFiR0tlaWM?oc=5",
+     "source": "TechRadar",
+     "type": "news",
+     "published": "2026-11-02T16:20:00+00:00"
+    },
+    {
+     "title": "The US$6.3 billion Binance hack is the biggest heist ever \u2013 it should be a wake up call for cryptocurrency users",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN3Nib1c2OXNTZmMtQ0p2QkFFcW5zVHBHUVplbGo3SXotV2pJUnlWTzFxaFVLaUhWMXp3ZGU5QnloMklIalVHY3U0YmthTExvelNUNWlQajlyMm01N3FnRUgtQkFwaHIzc1JQQVgyb1FYQjBJRHlyNkhXZXNheW53N1FBaW5aU0c3M210OVJVT1ZMdnZURktYaS1WTXEwcEh1U2Q5ZnpyRkc3bks4TGpvV2xQLXNXTVhTeE0xTF84TDJ0WVdRUkIydEFDdHAxUXBUS0JHZ3U2cnZtaVpEN3c?oc=5",
+     "source": "The Conversation",
+     "type": "news",
+     "published": "2026-11-02T16:19:51+00:00"
+    },
+    {
+     "title": "FBI links $6.43 billion Binance crypto theft to North Korea-linked hacking group",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWE2Rl9zT3ppNTFtRVJNS1VNcThoWk95TE55aWY5OVlER0prRTRMZW43b19vRmU5RWNfLWl0S3RMQ0FrbXVqT1RwSjlQVHdOODFZdUZXTUhkeUl6UURpMVBYYVQzRVp5UE1veWp0QjA5cDd6dnZhd2dvMHQwcm9JUUtOSF9NejBEcVdXTjlLejJaNFh1MHRzMnVDZHpYamQ4bE5zWlZnTGVYMEFtRF9vb053?oc=5",
+     "source": "The American Bazaar",
+     "type": "news",
+     "published": "2026-11-02T15:46:49+00:00"
+    },
+    {
+     "title": "THORChain Faces FBI Pressure to Block $6.3B in Binance Hack Funds",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjAwbFpMdG9LUy1qUUZCUjh6Sk9WRHVqT2QtXzJiVEdrbE5fUnA3NFJSMktyeEZZSEFpU3BuUFB5RVRUaFdDUTFNTWY4M2FVWUt4djE1bjhEaDNrUHFxaDJPSTNKa3lNVExURDVJZS00V3ZTZk96VGVyaTlUYWlwWHhLVVFlM0xfcThJQVNpbzhUYmhIZDJ5dFhCMmg5VjY2enc?oc=5",
+     "source": "CoinCodex",
+     "type": "news",
+     "published": "2026-11-02T13:51:00+00:00"
+    },
+    {
+     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2ZwRjlWNks4UTJHWjhQam5LWEJ6R0lmQ2NCMGRYLXlCY0ZNNjFJSWJzTlYzT0NZczhYVExETEQyQ2JQMEFfNTJTM0NSMzVsQzFSUXd5U1VVT0RNZ2tRd2NQaThNZmxHcENvNXJnQzhmTEFiNEFMNDBYaG1ua211UDBPU0htX20wcFo0TllFcmxNTUZDZVFaTlJmaDRYSUxsUEZRUTJ1ZjFSTUdGczBaOTJCTmQtcl8y?oc=5",
+     "source": "Washington Times",
+     "type": "news",
+     "published": "2026-11-02T12:29:35+00:00"
+    },
+    {
+     "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+     "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-02T11:57:45+00:00"
     },
     {
      "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
@@ -2565,32 +2944,11 @@
      "published": "2026-11-02T11:45:00+00:00"
     },
     {
-     "title": "Bitcoin holds near $78,000 as Binance reopens withdrawals: Crypto Markets Today",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWlpFWmdfRE53cTgzMmdpbDVhOXZ0c213YWpxWm1UN1hVVHZjX1NieHhsZXQ0SlFtUUgwdVRJWXBpRUdzSktmT210YUhYQlk3SVFGQUNWYU5UUVlYSk10b2hVR3pyWVFEeHF3Znd1SHZmTHpraDRGX2luMl9ZZ2FSUUZQSERyVjRlLWQtRHNvWElYaGplaERIUXdheF82X3V2dmM1bllpdmtEenJTeGNlOWlrM2NvRzl1cjgwcnBoR3h0bFB2aDJjWWtJZHgyc2YzSUE?oc=5",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-02T11:30:00+00:00"
-    },
-    {
-     "title": "Bitcoin Steadies Near $78,000 as Binance Withdrawals Resume",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUtpTU93QXFPeHVVYi1TUm1RZXl0VUlqSW11RWxQalFkZi1meF80NThrTmcyXzA4aW1LTm94SEVBdW1qTXNlM1N6LVlZLVU2R25xbEdZM1FFTFdPT3g4WlZuSHl1bFFrdng0LUFGN29zZ1h4M2pSTWRXbk83S2d2VU5DVHo0UnBJNHFGU2RGeElwNVJvZUU2SQ?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-02T11:15:56+00:00"
-    },
-    {
      "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
      "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
      "source": "Decrypt",
      "type": "news",
      "published": "2026-11-02T10:36:19+00:00"
-    },
-    {
-     "title": "Crypto News | Bitcoin Holds Near $78,000 as Markets Steady Ahead of the US Midterms; ZEC Leads Majors",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWlhDV0dQOThFZEFpdENBX1FvYXdsZ2VIS0xXU0Q4Q1pOWWcwVGpWSVU5UUtQTEtqTktNM3lJd3ZTZ1pnZFZGeHBsNFY2UExZbWpxUUk0cEJFQjZwWnJhZHlwTUw?oc=5",
-     "source": "Binance",
-     "type": "news",
-     "published": "2026-11-02T10:28:09+00:00"
     },
     {
      "title": "FBI Confirms North Korea Responsible for $6 Billion+ Binance Crypto Attack",
@@ -2621,13 +2979,6 @@
      "published": "2026-11-02T10:00:00+00:00"
     },
     {
-     "title": "FBI says North Korean hackers are behind the theft of $6.3B from Binance",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTlHSnNvUDR0WDd5clZqWlZmUHA3Um1LYUR4SXBGUzVpMV9UbWxoSGdvYTVpUXdTQ3MxNnFuZGhjSlJ1bTBzRzdzRnZnNHpqVWZQcUJ5ZVMxbVhTMHVUUlVPX0ExTV92WlhpY0xXdkRkcXFjYVFqMVFkRnBOSWNibGd5aUotdFVfSDB1Z21pUkZHbUJXekJaSUs4R0xuNF9yN20zUVFwNkNuLUIwWXdyRnZtSURyRnM?oc=5",
-     "source": "NPR",
-     "type": "news",
-     "published": "2026-11-02T09:42:06+00:00"
-    },
-    {
      "title": "FBI blames N. Korea\u2019s TraderTraitor for Binance theft, urges crypto industry to block transactions",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpcG1NSXc5SFRoZ2Z2Mk02RHpySXpZUzF0bHFsaEtkbW1fbEpvc0hXOS04S2tpSjQ4RzV0MWtJcldDREpfS25wUGFXM1pHSTk4eGFnaHV1aWgwZWtOTWFyVTBoYTE0SXNJTktiemEzMVFIY3M?oc=5",
      "source": "The Record from Recorded Future News",
@@ -2640,6 +2991,13 @@
      "source": "Techzine Global",
      "type": "news",
      "published": "2026-11-02T08:48:49+00:00"
+    },
+    {
+     "title": "FBI Flags Over 600 Addresses Tied to North Korea\u2019s Binance Heist",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUm5XSGktQzMwYzNkR3JBSFhXOHc3Vm9vX2dES1hqeXBBZ18zQUlGc2hmRUpBMDE2SS13MlhZTl9nckNCR2FOUWg5cVpfVjNnMkltRWZjMHg1V2lFMGZ4R25xRmw3ZW1xV2Y4RUZLdHRIWVdTQm1mRWhrT01Jd0pTc0RlQnpFbWp0ZmhOV1NuenI3Smt3eGN3b9IBngFBVV95cUxNRVdpSUZQaF8xeWN0N1B2dTNsR3Q3WGlSbDJ6V3BTU3cwS0xWQzFMT0t4cTktc0dRbEpRTEQxN0pwVGdKd3lPYnpXMEFRQzRtRTR2aHc4V2lkbkNLS2tIR2VLZlNpUzJiT3Bhdm5pX0l0YkcxUkRYVFFSVG4zUFBONGlNSmozQ2E1a1BHZm45R2pBNVFnUmpEZ0NkUG1oQQ?oc=5",
+     "source": "SecurityWeek",
+     "type": "news",
+     "published": "2026-11-02T08:40:36+00:00"
     },
     {
      "title": "FBI blames North Korea for $6.3 billion Binance hack, the biggest crypto theft on record",
@@ -2656,39 +3014,18 @@
      "published": "2026-11-02T08:17:20+00:00"
     },
     {
-     "title": "Bitcoin steadies at $78k after October losses; Binance resumes withdrawals",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFhaekVKT3V1SHZpbW4xZW42MHVaQzhpNUFIZkVSb2R5V0VDeUlhRVFZS3Z3aVE2cTA0aWxJaHF5MVRXbHJLTm1WNmpKUkVzT3hHam5Jdktfd0s4Rkg3Z2pPUUNKeDVwTUZjWjV4LXdVaVBwTm9SNjJyTDl3WW9WZDVWWnpReGhUb0UxNUtSNTYyeUNHaUdkdy1paFhWY1ZERFE?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-02T07:15:26+00:00"
-    },
-    {
      "title": "FBI confirms North Korea behind record $6.36B Binance crypto heist",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWxrUnN6RUtNZ1ozMTEzaVlpQmRZRVFYUzFRNm45QzBOaFU0NXJ1S3c3NkNMVFVycDZpYU5YVTZtRkd1a0JxT3BBZlVKSzFrdUJ6ekRLUjdHTEp0NVB0VWUwVF84emNsZnJ6VFhSa29hYUpFSkpSYVFBV183c3A5N1dLcTZQRGpoaFZsYUNXSXhRMG5FV211NQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RMS1ReXVmdmNkMGY3YmJxSVBEZ2lDZ0I5TFFNN2twRWFzZ1dOYzJhYlZ5bmdONmcxYXlvTzJyTTdlMUtRUVVKMnZsTzNJQQ?oc=5",
      "source": "NK News",
      "type": "news",
      "published": "2026-11-02T06:24:53+00:00"
     },
     {
-     "title": "Binance resumes withdrawals after billions stolen in hack",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2JVOFNWN1VweERIZkZjY19JVlZtcG9DVGlrcXFDcDM0WUw1a1Q0eE1URzhFT2dQT0lHVTlxdkNDX0NENXVrd0VldklPcGhORmFnQnhZWUg0b1EtU3Y0UVptcHVPV044MDc3b3c1eGx0RFFSUlg0VXdFWTFvUFZOQTQ5Z2JnQXB5T3dUYnlKeklHNmdDU1luLQ?oc=5",
-     "source": "Euronews.com",
+     "title": "North Korean Hackers Behind Binance Crypto Heist Are Weaponizing AI",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekRBR0dKanh1bXRKMVJuNGdsODV4NUZpaDJueC1leGRvVkVUeHhhdkdzVHdzMmM2TWpwYXBfaTZ6WEdlWk92R0JROEZ5d2FfLXNqaUQ3WEJHWTJEdnZuRUN6MnhVLUw0UlFaUDRiUGJ6Z3RjWmxsWnFhWHE0cE4tblNHd2dWTHExc3NSWGZIMjlpZnpKdi1VLW0wczRtOGg5OGkzbzEtTy1pbUZPZ0RoWGZ6OA?oc=5",
+     "source": "Bloomberg.com",
      "type": "news",
-     "published": "2026-11-02T06:10:00+00:00"
-    },
-    {
-     "title": "FBI Accuses NKorea of Standing Behind $6 Billion Crypto Theft from Binance",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnJybXNtT2F4TVYxT1RvZmplRGZjS2RYZ0lOU25ZR1VYR2NvdThVQzY4Mzlld3lPZGNKYkFGUzZzamdaRUV5ZFVidlVmREY5R0tPdzhHYXBCaVlXdms0VEtvelVCVFJSaHBLMnpfMWJwcFJ2dnJWRUZIX3JuT2lXaEdEc2pfRVN3S241QTBnVU1pQ2Z3MTMweEloeUQ0REJQcHRwOTk2alhiZw?oc=5",
-     "source": "ASHARQ AL-AWSAT English",
-     "type": "news",
-     "published": "2026-11-02T06:02:54+00:00"
-    },
-    {
-     "title": "North Koreans Seen as Likely Hackers in Massive Binance Heist",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Nc1dYWEttSkwzZUNEamg0ZnlmYzBJYjRsVUFuMGZHU0czZ3BLUm84ZmVNNEVTcEZWWDIyNFdLSnRlbEwzaXdBOVJvZ2x2MEY1Q3NJSXZKSnRMUk5hMnJfS1hfWUJqd2lYNTBVczdXTjZ5ejQ?oc=5",
-     "source": "Claims Journal",
-     "type": "news",
-     "published": "2026-11-02T06:00:38+00:00"
+     "published": "2026-11-02T06:22:00+00:00"
     },
     {
      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
@@ -2696,13 +3033,6 @@
      "source": "The Hacker News",
      "type": "news",
      "published": "2026-11-02T05:55:48+00:00"
-    },
-    {
-     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lV1liSjZIOWF0Wm9XRGpCYlVjT2ZReV9fbFBnQkZVbHpQWko2dFk1bHhXazJYVXJISFVlMjg4Sko0bVJvTVZESHlPSVR4bU9vWjBwbjlB?oc=5",
-     "source": "\u671d\u65e5\u65b0\u805e",
-     "type": "news",
-     "published": "2026-11-02T05:55:00+00:00"
     },
     {
      "title": "FBI Confirms North Korea Behind Largest Crypto Hack",
@@ -2726,25 +3056,11 @@
      "published": "2026-11-02T03:00:13+00:00"
     },
     {
-     "title": "North Korean hackers suspected in $6.3B Binance crypto theft",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFlydExBSEhqLVJEa3JZN3BJWUsxSlVWUlltYjlucnpGWm13WEtQak5LaWVwdHRsSmYxTzVhQXF3S3J1WUh3OU5VNG0tNkxNZjItMHFJOVREcVZGaS1kTWNNdGh4bFpxWlB5UUF2dmZRQWIyRzhaTUwwSHdEVWY4Y3VpcXhURTc4YjRVZU4zQ2EyU29RY1k0eVFSY1Y5UkdzSjJRVkNqSVp4dl9leWfSAbMBQVVfeXFMT0Q3SGxXZXlsdUFMYW1wc29RQ1lHX2tWQjBfaXYwYkdzek1Sa284RG44OUJOeV9iM2YyaktzMUZNX0tDSHVXcWJvY1dmUXM5cVJXWERjZGVUdl9TVExSaXJfNDRvYjVqTHctclhIMWE1TG5qUkY1TFhnanVzR2dKajFoVC1UNHBXZXI5bWxuN3Zlb3JXeVIwUm9oNXZGdzd5THRhREJaWnNNZW8tX3pfYjZCakE?oc=5",
-     "source": "upi",
-     "type": "news",
-     "published": "2026-11-02T01:59:28+00:00"
-    },
-    {
      "title": "FBI Urges THORChain Operators to Block Binance Hack Transfers",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TdUVCN2lGXzZianZ4akJrQUdOX2hMS3lEbXBBUU9oRnNTY0JOMTZDbllWX2NzVnpwOUo2cmZ2X0ZpZnZzMkdpbXNhYW5vMVFvSjJnQzdWMzk5S00?oc=5",
      "source": "TOKENPOST",
      "type": "news",
      "published": "2026-11-02T01:40:00+00:00"
-    },
-    {
-     "title": "North Korean Group Steals $6.3 Billion from Binance",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjFOakpGamNuXzE3TFBac1AzanJYblIxWWFXNEc2Vks1SDZGbG5nQmRDWXFmYm9DNjR2cjJhSEhfZ1NHT3VzQ3RDQlNweTBoN1hhVEFXcFVhdzd5RjZ3OHdtSkhaNnQyREUta0lPUnRSUjlwQjVuMGlBbmVPWmROLVBCSDY?oc=5",
-     "source": "\uc870\uc120\uc77c\ubcf4",
-     "type": "news",
-     "published": "2026-11-01T23:21:40+00:00"
     },
     {
      "title": "North Korea blamed for crypto heist",
@@ -2766,100 +3082,147 @@
      "source": "Inc.com",
      "type": "news",
      "published": "2026-11-01T22:00:46+00:00"
-    },
-    {
-     "title": "North Korea-linked hackers loot record $6.3b crypto in Binance breach",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWctbzJJQWtLSlVUOEJhXzdON1ZXOTVEcmROaEczVEx2ZGMyZ2hfek9qSm9yYzROZi04N196ZzB0ZEY1ZHFidmlJRmRhQ29FeU9ZVk5ua08wdFh6SzlHbkstUFczQVlZM2Z0eWN5TElGaHgzZjBKUDF4bTF6QllsYk02NnlRU29idFVZM016TEw2cGNZWFdFR1d3N2nSAZwBQVVfeXFMTjVnLW8ySUFrS0pVVDhCYV83TjdWVzk1RHJkTmhHM1RMdmRjMmdoX3pPakpvcmM0TmYtODdfemcwdGRGNWRxYnZpSUZkYUNvRXlPWVZObmtPMHRYeks5R25LLVBXM0FZWTNmdHljeUxJRmh4M2YwSlAxeG0xekJZbGJNNjZ5UVNvYnRVWTNNekxMNnBjWVhXRUdXdzdp?oc=5",
-     "source": "Chosunbiz",
-     "type": "news",
-     "published": "2026-11-01T21:27:00+00:00"
-    },
-    {
-     "title": "FBI Confirms North Korea's $6.3B Binance Hack",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3ZxM0lyQk84d19sTHVZek5QV3RIaUc1a3VqVUlwa01tUE45WWFpRmdrYWVEMTlPTGVzektDUDJ6UFZoM0l1d0E1Vk9MSjJsNGY4ZnRVRC1XeW1aOWx4aDVmTEJ1Qm1ObmJTWEFJQ3ZvTnFOOUtNZFNQdllDam1BLVBJalY?oc=5",
-     "source": "\uc870\uc120\uc77c\ubcf4",
-     "type": "news",
-     "published": "2026-11-01T20:38:37+00:00"
-    },
-    {
-     "title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0I3eG5sdzRScnpxbTZGWlVzbFBDem1aSzYxck5NelJKWUc0LTc2UVNMMTgxeXdkWUpETm9XSXI5ZzNSeENiSWlBVUhpVlJEYXgxMmctTF9rczRJT3NzUkFUZUZqcEVtMTRxeFppTEktYm52V1VINGxsV0RBS2RsNk5ZMXpyU3prUGtoZ1F1TUtQdEl0?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-11-01T20:15:10+00:00"
-    },
-    {
-     "title": "Inside TraderTraitor: North Korea's shadowy hacking group behind $6.3 billion crypto heist",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MYlZmVXd1aWtNckR6WFZkUzhKY3p1ZnhKa2JxbnBMRkMtUFN3clIzVnhaOEdIXy1xcVNORDhIR3JQcEN0aGotc2Z4Y1V2S04tY0VXeWY3S0tQbFVOX09rMGpLVQ?oc=5",
-     "source": "Ynetnews",
-     "type": "news",
-     "published": "2026-11-01T20:00:00+00:00"
-    },
-    {
-     "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVNPZEJkZDg1Tm9USVlOVkluQ3RzbDE1RDhOZXNYQlp2eE45c29CSm5zSExfMVV1enBZc3JqQzhBeXFWRk9aT3FTY1RISlR4OUF4SGhUMFJrSV9NenpXdVl6cHB6OTBQc2dhWjNnYmVFZlRSZEthdEJ3UkpiYzFzdFFsYUZ0V0dUeUhXLWhIYW9zSGFwby1UMDY0Vzg3M1JRbVdUMGs1TUtwTF9yMkZNSjFkaw?oc=5",
-     "source": "BleepingComputer",
-     "type": "news",
-     "published": "2026-11-01T19:57:53+00:00"
-    },
-    {
-     "title": "FBI points to N. Korea in $6.3B crypto heist",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0xBWFVHRWJfVDdXdjJVS05rd1pwVlppLWxyalRZajEwLWFKSVF1Y2I1VnV6Vl9jWDR4eVEwSUxDZ2Vid2RvN1JwelZWbC1ZYnotb3VsZS0yMnpCMnVlb29mY29QWHRLOS1rR3FtV1prdXg3WTNMcl9fdFl0ejdadi1ySmJEeU80MmQ4?oc=5",
-     "source": "Boston Herald",
-     "type": "news",
-     "published": "2026-11-01T18:58:02+00:00"
-    },
-    {
-     "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUNSTU9VSmpLOHdYajBxZ1hpTXJyOW0zSUNFQnlseE1seEFvSTBKTmNXR0dXek8yMGxyMHo3cFpBVW1lQ1BLV19wUjFqZVRwVlJ2OERUVzlzWWlHUC1iR0FoNXY0dWd6RUxXZ3BVOG1EOE1Fek41R2ZsQ2xXbWFDRWhEZWNPRndWdUtkeEN0cGRDTXBPcmtRUzB4LVdaVTdVNnJpVDNrNzJTRk5FYVFYMWtzVjRKXzRRQ1RGR01xTUxvWW4tTHfSAcsBQVVfeXFMTXNlR0FBQ2cwaTYyaU9uLUdhWjVPQnBnVGRta09veExETi12S3o4NV91cWtJbnRyQjdtajFMcVRtMHBoYjhwMDN3MEhiYzNXVk1oU2o0YUwwTGNMRExwX3dOQldha191YjJuLXVMOGdaYkxOZ3AxX1U3cmVfUV9tVHBIeHVReW5RTW95TG9yWU0yUHBPQ1QwZDlENU1SZFhfMURpRkZndXpYWERaYzROc1JJbG9HejFyZDRkQnRsYWFPWlVVWFZ0dE1IVkE?oc=5",
-     "source": "PBS",
-     "type": "news",
-     "published": "2026-11-01T16:20:20+00:00"
-    },
-    {
-     "title": "N Korea behind US$6bn crypto theft, FBI says",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tbEFuaWo5X2djdDNfSWpUbkdxUDRTUml1VTFvWnBlejRTRW91OEJUejBkandEY2J5aldLX2RHYTlpQTUyMndpTUhnTzdweDZIMTFURmc4ZzZIV3ZZRVpJNWVrT3B6YlFPa2tTNTFYd2V3UGRiY2c?oc=5",
-     "source": "Taipei Times",
-     "type": "news",
-     "published": "2026-11-01T16:00:00+00:00"
-    },
-    {
-     "title": "Binance Reopens Bitcoin Withdrawals Three Days After Record Hack, With FBI Blaming North Korea",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGw2UDQ4OENOTW5YOVY2d3A0aHBlcmd0VmM5NkEzbzdSSjJkaXd5R1E2dzNGcGdCZFYwNTVTbXU3RDNrNXQ2MktyQURHaFFZcUhVd05iRVdzNzdGLTBua05CY1pPMktscVJfczY0WWM2Yld6QTVHOWFsbGVPV0gwU2liLVZFaHB5NTBZdjA4aGpEZWYyTjRiLW5mQUFvRWlVUGpHSThEOG11Zw?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-01T15:04:00+00:00"
-    },
-    {
-     "title": "FBI blames North Korea for $6 billion Binance hack, urges THORChain to block stolen funds",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORkxOSHJNc1FOOUdlVmVIOVlybVhUTXBLUHRYYVRIdWRyZkF2ZWdxRXpDcU9CR013OUlYZ0x0a0cyTWk4YUFHaEFrMDBCWi1ZQ0JBUnR0VWdMRkdOd1F4b1ZRVVRDb0x2TTJ0YW9SUlE2akFJMkQ4NXhDVk01eThHcWRGM1VkTC15aWpFV1c5VU1zS2QwZmhTeE5XeUNpeFFBR1ZtblFGUlhEbzJFZWpnbTZB?oc=5",
-     "source": "CryptoSlate",
-     "type": "news",
-     "published": "2026-11-01T12:20:43+00:00"
     }
    ]
   },
   {
-   "title": "THORChain Halts Trading On 10 Blockchains After Ethereum Reorg Triggers 10 ETH Overpayment",
-   "outlets": 8,
+   "title": "Brazil's Mercado Bitcoin Halts Deposits and Withdrawals After Security Breach",
+   "outlets": 13,
    "topics": [
+    "Bitcoin",
+    "Mercado",
+    "Safe"
+   ],
+   "items": [
+    {
+     "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+     "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-11-02T16:46:03+00:00"
+    },
+    {
+     "title": "Mercado Bitcoin halts deposits and withdrawals after security incident, assets safe",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFRrY1BXM3JTalRiZ1V5TzhoMVEzMWVvUFdvbTRoR2t4MWwwLXQ4dHV1ZXlLVW5CTldSNmVVRExBa1haRFB0MFU0VE5CVW1mUFBEZzN0bWpDTlpsdTFqMmhGa2ZyZTMzLVRabVVNeFFFM28tVUhudWRXSm9XOXV4RHRKdWVkd0NPUnZDTk9wTklmUGJFSmJtdURoQjBSSE1SRTM4?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-02T16:24:54+00:00"
+    },
+    {
+     "title": "Mercado Bitcoin Keeps Withdrawals Suspended After Incident, Reports No Losses",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmhLdjlfdUwwdWJjVFY2WTE4em1Tc1dPclRkV0MyWXZqV1JlWXczTklUSWpaZC1kWkVOMzJtZHVILUJBR1pqdDJFSmRNYjc3d0NYbDNXVWdUeXF5R05Dbjd1NGJqMmxMZ3RtSkJnYmNpNnFmSFlUSFFOaFh6SVFVOHMzS3p5SGpic0ZxbGk0M1g5NXZsZ3piTjBVaXdlQmkxWU0xbS1ZTlJvd3k4bGcxRW1xTFVLR193UzlQQjVKYlI3eUQ4WmVNNw?oc=5",
+     "source": "Bitcoin Foundation",
+     "type": "news",
+     "published": "2026-11-02T16:12:44+00:00"
+    },
+    {
+     "title": "Brazil\u2019s Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million",
+     "url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-11-02T16:09:05+00:00"
+    },
+    {
+     "title": "Brazil\u2019s Largest Crypto Exchange Mercado Bitcoin Hacked for Over $40M",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSThoUEpxSDU1N2dVM0VvX2NodUdYTEFpeDJsZE1IRGVnSDVIX1ptSjQtMUdsUkxIY3QxRnBYc0pyUWNzdUtjVHByQUZCZUs0REhKS2t1Z0oxdmVIX3E4MDZBUjZuZ3JzcUZQcXBYLXpqSmltVzd0TTc2ZjY2X1JGNk8xSEM4U1B2cnU4ZndCWjc4UUE?oc=5",
+     "source": "CoinGape",
+     "type": "news",
+     "published": "2026-11-02T16:00:30+00:00"
+    },
+    {
+     "title": "Brazil\u2019s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+     "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-02T15:53:29+00:00"
+    },
+    {
+     "title": "Brazil\u2019s largest crypto exchange Mercado Bitcoin halts withdrawals after reported $40M hack",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEJFUi1xa1dMbnpTZXo0MDJ2SEc0X0pwLTN2YkRGZy1KbnRqLU9ueUhkZS1LNmVzRWR5V0Y3X010eDdwWjZ4UnFlZGw5dW5hNjktRGFYQWxvY1dsdWdxRWVLVmNORVltWDBudnJMQWh6dFNHS1BjcG1nOGhndlNyRzB3WUFIVXFCRktqcVg5dmhfTURscHM4QkFGVFpHeHV4cEpGNjY1TU1zZ3ZPeDFF?oc=5",
+     "source": "Finbold",
+     "type": "news",
+     "published": "2026-11-02T15:44:28+00:00"
+    },
+    {
+     "title": "Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEFEZlhWLURyQ0pldFJJVVdzUjZ4ZV9RZE5ERlNJcjZoRjEyWTZNN2NVSmtDVkRmal81ejRNQ1pWLWFHNHAwQ3NkYmJ5bmViM0pXM3dOTHQ5SkJWRWgtUUV6X2xMdVZha1E2WWdpdlU0QUJNckI1SHRxMGlVUHZFZjMwWDZSby1reEpiVG5sOF91RDRJUHpvVmR1RWlEQnVZdmxONU50UVFLaV92RWVRMlhn?oc=5",
+     "source": "Bloomberg.com",
+     "type": "news",
+     "published": "2026-11-02T15:43:22+00:00"
+    },
+    {
+     "title": "Brazil\u2019s Largest Crypto Exchange Mercado Bitcoin Hit by Possible $40M Hack",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFRCLWtrVHdmVHhwX21NcTRSLW1zTnMxbFNEeTRfNkMxNWhMVVVUYTNwMnF4eVNXZGlFZ2E5ZW5IODJYOGQyOW5Zb3M1dlM4Tmc0amxWeVNRNEZ0YktfV3c4ckJiR2ZPazFWZWVEYzQ2elJTODNGLUxMS1NLd1lYNVhlNHU?oc=5",
+     "source": "BeInCrypto",
+     "type": "news",
+     "published": "2026-11-02T15:17:00+00:00"
+    },
+    {
+     "title": "Mercado Bitcoin Keeps Withdrawals Suspended, Identifies Incident Wallets",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeE9VOFU1WFpwMDNFMTlpeXhUWWJKU0xjZjJsbUdHVV9lX09rZUI1QmF3REpsWWduU2x1LU5SY0dYN1BfSjhWVGhadVh5SXZKS1hDTk9XcmN0Z1RNMlBacDJ6ZHJyTGZlSlVoOXZMa3Y4Z0FCZ1ZCa1lvQmpyR1BDNTBDTlUtcGNiUVdqWkdTb2FNdkpCTjF4QlJuTi1wekc4NmtvSU1Odw?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-11-02T15:06:56+00:00"
+    },
+    {
+     "title": "Brazil's Mercado Bitcoin Halts Deposits and Withdrawals After Security Breach",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MMlloNGN4YXhDaUxablVOb2E4anVmTWxiYjNZMFVJMWtpNGVsZmM4UlRnNk1lMXJXUGVpNVhDOEttUzZLMF82YlR4U0hHY2w5VHJaalhaRnNKd0t2Ul9KNUFad2VuZG1fc1I5UmxTdW02dG9ETnc?oc=5",
+     "source": "BigGo Finance",
+     "type": "news",
+     "published": "2026-11-02T15:05:00+00:00"
+    },
+    {
+     "title": "JUST IN: \ud83c\udde7\ud83c\uddf7 Mercado Bitcoin halts deposits and withdrawals after a security incident, says no customer losses",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3hFUW5xWm1HSXozdjFUOFdfRVNUZ3Rid0dZVllLbUM1VGI4N05sM2tMU1kzQnNRcWg4OWUzUXR4N1RRWkhiMFpXS0xFNmpwQVdwbHBJYUJ3SUtSTVljdDhQYTJ4Y0JCWWFEZGkyM044MzVFQ1doMmJ2QXhkcHk0N3RPRFFrLWxkcE00MUdSUHdOT2tNUTZDUkphaU1aRi02dklZLXhPam5qNjlyZGtQZkE3akF3OVE?oc=5",
+     "source": "Moomoo",
+     "type": "news",
+     "published": "2026-11-02T14:27:59+00:00"
+    },
+    {
+     "title": "Mercado Bitcoin halts deposits and withdrawals after detecting a security incident, no customer funds lost.",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2FOQXdaSnZyT3ZxSWk2M2xadjhpOFkxRXdkbkRvYVRPWFhyYXdlZ2wwemFnUjUtbElhUTlYYXBtcVBFVWhzaDdrSmdrcnktS2JEQ2lzdko1U3BsU2o3Q3lYcmN1RUFJNDFzckxjRVJaQjBtVHJjbUxxS1FmeUxiWlM3WTYtNjVFZDJ3?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-02T14:26:08+00:00"
+    },
+    {
+     "title": "Brazil\u2019s Mercado Bitcoin reports security incident, freezes withdrawals",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzZCdHpPYkh2aGszTEdkNXhJMjh5OF8xWi1CYllYRlprbTNtTDA5anNRLUhiNlpuZHd2aFpYbnBlR1U2NUNDMkR4WmpNWVg0d19PS1lXeWQyeFZ5RG05NG5Qb0NUV2JjdThJX215SXhIc09oY2ZJTDdZVEcwRnhYQ2I0ZFBKNGRnYzBRS3JMSGZtNXkw?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-02T14:15:15+00:00"
+    }
+   ]
+  },
+  {
+   "title": "THORChain halts trading after Ethereum reorg triggers double 10 ETH refund",
+   "outlets": 10,
+   "topics": [
+    "Binance",
     "Ethereum",
     "THORChain"
    ],
    "items": [
+    {
+     "title": "THORChain Halts Swaps Across 10 Networks After Ethereum Reorg Exposes Bug",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0hhRlBJMjRyU09fUE12ZlpibzBZT1ZqaTdpenpxU2FBSVJVcmpycW01Q19GczU1aVFscmhheDN0WGkxanNOX0JUTG1oVHZFUXhieTdfSzNoQjhXQTdXVDZucWpYNF9waEI2S05nUnRoaTUxZzFGZTVRZGpHeV8xY0dlaDQzd1U4cVlNWHY5OVhjY2NvbjRwb01jczFtRXdR?oc=5",
+     "source": "FinanceFeeds",
+     "type": "news",
+     "published": "2026-11-02T16:25:37+00:00"
+    },
+    {
+     "title": "THORChain\u2019s 10 ETH refund error disrupts Binance hackers\u2019 transfers",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMTm5jNjBuRzRHVnlCM2xEYzJ5WEdNd09ycUZwZUJRc0ZKaXF6LWhOLUtIaHdad3gyQ2tZeFRJUlJwMlB0RzNsZzJ4Mmpvb2VSd1JUNjRHdXMtVl96UDJBaHNLS0N0SEJuOS1FbmFqR0w4SC1KVjFCeElrbFZtQQ?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-02T09:30:07+00:00"
+    },
     {
      "title": "THORChain halts trading after Ethereum reorg triggers double 10 ETH refund",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0llaWRpZnZHU05BZWNtSGRSRjNHNGVGekFBTWM0VVBIX0xDOUFyVVhUMHRQYVVON3U2cnZMdDdZaC1sdjB5WmxKLV96S2l6QlNyWnNmV2Q4OThlZmxjdDZpTy1IcXRVckNYVGdkTXl2Tmg1YUczYlhCU1huTlF3QWtzWEI2cS1qUTJQc0JUeS1UdDVkZFJFNjlhZmF6WndveFE?oc=5",
      "source": "CryptoDnes.bg",
      "type": "news",
      "published": "2026-11-02T09:11:32+00:00"
-    },
-    {
-     "title": "THORChain Halts Trading Across 10 Networks After ETH Incident",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnhBSWltVGt1MUFKOVZ2UzJ3RkliWlp5eHpwNHVYVFlkcmVOYlpuSGFKLV85VFhHMEZmWC10a2tZN2N5WUhkRHllNEZad0g0dld0WUg5eUNLaGh6RUlGV1RyYTdCbGNaS1VCbm9URnFtdnRYeVdFVTZtVjZMOTFObGlFektfQVJlRW83Q1l6c3JGUGt6Zy1sa3l6anJjZU9IOTNR0gGoAUFVX3lxTE9qS0YyLUJLTEc5cGlVQko1MkdTdU84S2hFd0N0a1RLZGlBQnlHc3J6V1VEM3ZZVm01dDVrOUt4eUNPS095YzJBODhEMl9YU0pKM0dLa2h3Rkd3WlBTUWUwd0UzTHI5S3J2Zkd5Y2p6aG5xUFlXd3R5N3pWdE5EdkdnLTVULVBfRi1uLXZkV3NjSE9QTWZLOWJyTkotUlRKWDRnZE5qMDdxYg?oc=5",
-     "source": "CoinTrust",
-     "type": "news",
-     "published": "2026-11-02T06:32:27+00:00"
     },
     {
      "title": "THORChain Halted Swaps After Ethereum Reorg Triggered 10 ETH Shortfall",
@@ -2870,10 +3233,10 @@
     },
     {
      "title": "THORChain Halts Trading On 10 Blockchains After Ethereum Reorg Triggers 10 ETH Overpayment",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZS1xdV9RUlVkVWthN0dyQUQyMk9BRlFMLXQxVndOY0hSNXRoc1BQdXRhQTR0SERXOHYyQkVnMGczcjc3cS15R081SWNpNFlxMXNOMkZkc1ZoNDc4WjRTTWh4aUJkWXFUampEempVQ0hyb0ZFTlJmZWM5STlxaWlkLWUtYmVLTjU2Qk05WEU2UDdQblBMU1hkM05xOXBIWTUwNlJ3aWJtVWFDeUNGb3g0dEFTQmJ0TWVSYWhndVlISE9meEdXWWFKMExR0gHPAUFVX3lxTE9hSjc0MW9TWDRKOVFnUktaQkhhSDFsMkpDQVdLVUVvNVpmRzE4eE5aOXhrWXU3bVRyRVE3UGVDU0YtQVhDYzNDQ2Noa1ZRUXZUVWVMNTFHNkNkRjJMWUh5SDR3Nnp3dFFMSlh2WGw1WTNxdFpjQllhWllIWkhpMExuV09JUm5hWUh1UFdyYWx5VFdHU3hyc1JvdG5vZTZaVFdiZElvZ2VYWHAtdk5RdHJJSHNzbmdvQkJQV2IzLXlSTElST3BKbmRsZlZGRko1Yw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZS1xdV9RUlVkVWthN0dyQUQyMk9BRlFMLXQxVndOY0hSNXRoc1BQdXRhQTR0SERXOHYyQkVnMGczcjc3cS15R081SWNpNFlxMXNOMkZkc1ZoNDc4WjRTTWh4aUJkWXFUampEempVQ0hyb0ZFTlJmZWM5STlxaWlkLWUtYmVLTjU2Qk05WEU2UDdQblBMU1hkM05xOXBIWTUwNlJ3aWJtVWFDeUNGb3g0dEFTQmJ0TWVSYWhndVlISE9meEdXWWFKMExR0gGGAkFVX3lxTE5QXzVLN0hTdE44WGFBbXlEODhmTHU5ZFp1THFlU01vU3YtOXI0My1QR3kxZTdBZW5acEtNaENVVWc4V0RrTUktU2c2SkRrYXI5TUIwT0NkemtIdGUxbkdOMEFSekJxejZDUXh5dFAtYWowUjRaLTFZYW90dzZLUUNyRFowSlJrNnA2Qnc3SWxmTWtpckhraDdwZU5ZTGJwTS1lX1NxZFdkMnBFdDc5aWFKa1lHeXktUndxUTJLd2Ntdl9NMGJLVXJ4R3ZWUWZqX2xmUzBSSEE4Y1IxcFhKbnNrUkhjQ2pEX19OSi1jcTlVejBHTFNEX3JEOU1PbmZVcm1Od3ZWRnc?oc=5",
      "source": "Coinpedia",
      "type": "news",
-     "published": "2026-11-02T02:39:26+00:00"
+     "published": "2026-11-02T02:40:00+00:00"
     },
     {
      "title": "THORChain halts ten networks after 10 ETH shortfall",
@@ -2881,6 +3244,13 @@
      "source": "grafa.com",
      "type": "news",
      "published": "2026-11-02T02:22:44+00:00"
+    },
+    {
+     "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+     "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-11-02T01:51:48+00:00"
     },
     {
      "title": "THORChain Freezes Swaps on 10 Chains After Ethereum Reorg Triggers 10 ETH Vault Payout",
@@ -2906,72 +3276,19 @@
    ]
   },
   {
-   "title": "Binance to resume crypto withdrawals after $6.3B hack (BTC-USD:Cryptocurrency)",
-   "outlets": 7,
-   "topics": [
-    "Binance",
-    "Bitcoin",
-    "Ethereum"
-   ],
-   "items": [
-    {
-     "title": "$3.6 billion pulled from Binance as withdrawals resume after massive crypto heist",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTNyUVN0VGZBQ0VsSFFFYjRFS1F3cWVfeEhsV3dMRG14d3dUX2Z1Y094d3lHRHNYb25OZERuc0ZILXdYT0pYZGswTmlkbDNub1I3aDVfcV9SVXNNTmNOU0ZrR3dPRlR3T3dmSnVHQlItVXIwLVNkTTZrUnVKSG92V2hQQjlLUGRSNmcxR3pORlJoR0t2UjFXNHVNOU5zczN5TkdQZHlVTTY2MS05Ukl2X3lTMF85WHhJLWsya3JIZml0bHd6RFZ0MQ?oc=5",
-     "source": "CNBC",
-     "type": "news",
-     "published": "2026-11-02T11:27:12+00:00"
-    },
-    {
-     "title": "Binance Withdrawals Resume After Exchange Covers $6 Billion of $6.3 Billion Hack",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVRHMnA4MHluV0NFRWZHWmM0U0ZoOWVyV3F1YjNsX2dZaVVEMmNvWS1PNHlscVNuR01TMml3dmhCMmFWdFNFSUhBcEVJV3ZrMEFZZHhpNUVCV09yUnVNazFwQ29tQ2FhNVdNdHhqT2liWWFmX084M0JLM1FaUXFhYU05YzJXa1lFV2c?oc=5",
-     "source": "Technology Org",
-     "type": "news",
-     "published": "2026-11-02T07:00:00+00:00"
-    },
-    {
-     "title": "Bitcoin, Ether Forecast: $6B Binance Hack Rattles BTC/USD and ETH/USD",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGU1MlV4Z1VLaUVQRlpYUG9BQU15Q3djNEdoWmY1NzMwUVZLM0FVMEpGdkhud01tcXZ2d3VWMzlnWUxLaDBfSjBwTTJTcmZmNVVWUGd4aktaSktKX0NscnVhLWdPYUFmc1ZGNmVkQkpCV0g0ZFVyUFV4MTNHOVo0VEVTRFlFd1FNZUUwMGs5Z3N5MEp3bVRxOENpMUF5WUlOenNldFNzb3JGbGRkVGc?oc=5",
-     "source": "Investing.com",
-     "type": "news",
-     "published": "2026-11-02T06:37:23+00:00"
-    },
-    {
-     "title": "Binance Restores 95% of $6.3B Hack Losses as Withdrawals Resume in Phases",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGJuX2psUDdQeXRST0tfakZiaDc2WUZoVEU4NThVS0tzSEtrQm1JT3FQTXNWUVloR3NubkRoRHRkeTA2OUVDRHJ4S0RpUHMzamI2X280MmVIdXBBLTJPcTJsM2FsRDdLUjYxRlJtdG5rd19PbmdhRnF5SmtpcWVkYk5TbUo2d1F1U2xFZjVtVmVsNEpxUEppMlNyMldaczlsV1V5VlY4bDc?oc=5",
-     "source": "CoinMarketCap",
-     "type": "news",
-     "published": "2026-11-02T01:23:48+00:00"
-    },
-    {
-     "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-     "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-01T23:59:27+00:00"
-    },
-    {
-     "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-     "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-01T16:32:31+00:00"
-    },
-    {
-     "title": "Binance to resume crypto withdrawals after $6.3B hack (BTC-USD:Cryptocurrency)",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckhOS2N5cGljY0UzS2VYMkRuZVFyaEl4YWJMZV9CaXN5X2dBVHBIeHJFa2pYVkI2bG5XVjJ5YzU3Rm52VWhGVXBRTzh0TXkzb1d2TEg4QVRiaXRlcXFrZHMwZC1xR2VFeHBUMnFXUkdFemJnNDU5RUFreDdsVHp3Nk1QYmVyMUdoX0RzZGJsT1EyaFE0?oc=5",
-     "source": "Seeking Alpha",
-     "type": "news",
-     "published": "2026-11-01T14:14:16+00:00"
-    }
-   ]
-  },
-  {
    "title": "Chainalysis reports security breach involving offensive agentic techniques",
-   "outlets": 6,
+   "outlets": 9,
    "topics": [
     "Chainalysis"
    ],
    "items": [
+    {
+     "title": "Chainalysis Discloses AI-Linked Breach Exposing Customer Data",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN01ueW4zc0FfazdFM3VNcTJCZnlmSGdNZ1huMVVyb1g2ZGtNS3VPclFZOUZIVEg1SnNtMHpET25xb0JIeTdJb0lJXzRfQnZOc2VpXzZqaGhLcmt0Wk9mcWNXYkR5VDdzM2VKb3NRaWxuV1Mtb0t2T0pORlJ3SDFZRU45WQ?oc=5",
+     "source": "SQ Magazine",
+     "type": "news",
+     "published": "2026-11-02T12:34:24+00:00"
+    },
     {
      "title": "Chainalysis breached using \"offensive agentic techniques\"",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWF0RmFVWEtHUHJwc0ZMckkzbXR0djlfaU4xTHQwRHRiS29qMkZwWE0zYVhKVnc1V0RFSDhVV1o3UWlGZngxZGxoU0o0WlRGVUlVVXlHNmc2UVU0UG9Yd0MwUmhTY0FfR0lSVzhid2F2RzJQNUdmRDR6R05FNTNKbXhaT1A3cy0xSHk5allNREZpRW5NOXV1eGJhSzR2R3oz?oc=5",
@@ -2985,6 +3302,13 @@
      "source": "Dataconomy",
      "type": "news",
      "published": "2026-11-02T10:39:32+00:00"
+    },
+    {
+     "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOG1wejljZ0lkbzVPZFNIT3VmTFBtY2I4ZXpNako4d01ZRzZwVV9HdVN1WExuY1QtSnhZYjJIWnA4eHNpUFMyWU81WmJuR1YtSHo4cmYwVHpYNkZPRmY0RUxaMEpkNEhIV2U2MGUxajN6cVZsZDJkeVlVaEVLV2tlX3dDclRULWVzYXRHSDUxSi0xaWowXy1rXzJzcGcwMjU50gGgAUFVX3lxTE04bXB6OWNnSWRvNU9kU0hPdWZMUG1jYjhlek1qSjh3TVlHNnBVX0d1U3VYTG5jVC1KeFliMkhacDh4c2lQUzJZTzVaYm5HVi1IejhyZjBUelg2Rk9GZjRFTFowSmQ0SEhXZTYwZTFqM3pxVmxkMmR5WVVoRUtXa2Vfd0NyVFQtZXNhdEdINTFKLTFpajBfLWtfMnNwZzAyNTk?oc=5",
+     "source": "SecurityWeek",
+     "type": "news",
+     "published": "2026-11-02T10:36:47+00:00"
     },
     {
      "title": "Chainalysis Warns Customers After \u201cOffensive Agentic\u201d Security Inciden",
@@ -3005,7 +3329,7 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1FqU1VTYzU4Wi1YZmtUS2pzSm9fdTVqOXczcVpBdExBVjFwZnotbmtfS3haOGxnNk9fWWpoWGJhR2d3bHF6MlpPWTVuTU5TeW9qdTA4dUxXYVRsMm02TVlCcTZia2J6UUUya1ktMVFUTWFlSXBZbnlaMlhncExMN0RfYkU3RFktRGMzSUNBSEtOWkZyS2xyckFST0NTa1o5VzNYdGZiQXJhcWJGQ09GazBaMWRmMWw1QURGNA?oc=5",
      "source": "teiss",
      "type": "news",
-     "published": "2026-11-02T08:35:01+00:00"
+     "published": "2026-11-02T08:34:30+00:00"
     },
     {
      "title": "Chainalysis reports security breach involving offensive agentic techniques",
@@ -3013,17 +3337,123 @@
      "source": "SC Media",
      "type": "news",
      "published": "2026-11-02T03:54:38+00:00"
+    },
+    {
+     "title": "Chainalysis discloses cybersecurity incident affecting customer data",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDlaZ0NmaUxfeDNFVUlWWEhMTGdyVHIteDZpWVN0MWcyNko1Ri1ycDZXbUVtM3pNemxUX2RNUXBieC02Uk9KYUdlRHkwWnpqRTk0ZEdHSFVqajdUZnFYSW1LOExZVU1lNC1ERy1MVElaTmNMem84Slp2c3ZPNU02Y3JVejZLTXFpREZfRGpsRHNBdy1nUjJYZDF1TWV5UnJ0Wl9j?oc=5",
+     "source": "grafa.com",
+     "type": "news",
+     "published": "2026-11-02T00:37:40+00:00"
     }
    ]
   },
   {
-   "title": "THORChain halts swaps after bug exposes cross-chain refund risk",
-   "outlets": 3,
+   "title": "Binance customers pull $4.7-billion after hack as crypto investors weighs risk",
+   "outlets": 5,
+   "topics": [
+    "Binance"
+   ],
+   "items": [
+    {
+     "title": "Binance Outflows Hit $4.7 Billion After Record North Korea Hack",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0JDb2h4U185ZWZOYWlBWllSTE0yb0JoVmVyMGd6MVBEbGgxNUlqR055SE8yN3J4Sm9FN1hxQ2JKMlo4WGg5NldxeU43bVVsV2xTQUtGdF9LejZPNnBxN1k5eUlFb2hpMWE0alFZcnROSWZMRU1kUWxLYUdGY3lkWXNMSjlIMW9xbVFRWGd6SXMxTU5uY3MwMW5IRFh3Tms4WE1PNzFXRUdxdkxRLUhRNzNBNA?oc=5",
+     "source": "Bloomberg.com",
+     "type": "news",
+     "published": "2026-11-02T16:06:09+00:00"
+    },
+    {
+     "title": "Binance sees $4.7B in customer withdrawals after stunning North Korea hack",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGN6UFRrWTBIQ2ZNM2VNNmdiOXNDeVFYSGdSR3ZsYV96ZVFlT1hhZUs5Vi03RE9UV2h4dm8zelRPems5R0Z0akpjWEtmQWFOaDhTMUhtd0FPTVNSSWN2WHZ4UUZIZ2JyS213S3VGQ1pBUEVoWnR2dkJDR2dzWkpMMVdYaU5IaFBtQ1pkcjkyWXVsNXlkLW4tUmdUbGx3OXdKRGdwWEhhUXZ1VXVVYjdPVy02cw?oc=5",
+     "source": "New York Post",
+     "type": "news",
+     "published": "2026-11-02T15:31:00+00:00"
+    },
+    {
+     "title": "Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEJpbTZXY0ZyOUlFeVlMQzJXcThlNXctOFpCcDFfYmx5bXk5UTA5bUN5OEpOQ0ZldU9wQnpFV1pBTVdpSTk5MWZlQVVBbUtiWmdNWDJjRkttV3RKZ3FlN05zeVhjamVKZGtjeE5zNDFXV1A3b25GdjJXUFNmcUNKN21OWkU2Mzd6Qm9yb0luWHVsR1VqcVQ1U2VFNXVJeDV6eHFfMzhacmpGV2lMdHBNQ0YzLXlvYXFhdWRUX0tmRXZwdExKYm9PZDVycFhpUzBvSkJiMGJjazZLQQ?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-02T13:51:17+00:00"
+    },
+    {
+     "title": "Binance customers pull $4.7-billion after hack as crypto investors weighs risk",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWZ2WmpGV3NpendZcmtfVFFOd1RLYUhIcElKSFh5NjBjUmFFODFySzloamVkVGJrSThhLTc5QTJMQ3RVczJ3Q0F6d0VSNW9rM2hjdGhKZ0sycTE2bnpXWWhHMzhZT2ZzR3FlQm9VdGFjN3pHLVF6WlZycFU1NHRBa290SERqaHVQeDRpY21CWlpYcUx6OUg2YWhuYW1qQVF0Q3hCb013?oc=5",
+     "source": "The Globe and Mail",
+     "type": "news",
+     "published": "2026-11-02T12:07:44+00:00"
+    },
+    {
+     "title": "Binance says customers pulled net $4.7 billion after hack as crypto world weighs risk",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5",
+     "source": "Reuters",
+     "type": "news",
+     "published": "2026-11-02T01:53:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Mercado Bitcoin halts transfers as Tether freezes over 4.5M USDT",
+   "outlets": 4,
+   "topics": [
+    "Bitcoin",
+    "Mercado",
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "Mercado Bitcoin halts transfers as Tether freezes over 4.5M USDT",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEx3RzkzQUJYeHJnYzNWR3NvTDNOdUx1bVFfYVNvRVoyZVhXcGt5WFBmZk1ETGNsZWNwSldxbU55WHJDX05BRXJXeE9fMWhISy1Yd2R2YkZSNVR3TFdHQ1oxUGlJV2N6ZFIzbFRmVDlLTkFFY2NMUTF3X05VSnFreXpqRjQ0Zkw5NGcwWTZCdmw?oc=5",
+     "source": "AMBCrypto",
+     "type": "news",
+     "published": "2026-11-02T16:59:20+00:00"
+    },
+    {
+     "title": "Tether froze over 4.5M USDT after Mercado Bitco...",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDFmaExTOWs0dHdRV3NVQ3ZYeEZaQ3dLSFVQMEFISGV0Z1M5T2JlekNFdDczb01xS0RPYzJxdG9wUmJQYzBEa1VwRXJ2cDYxbC01SThkUU5nTjNlQmRlRTU3VkttRzFFTmZfWHhLckdkWmQ0eDd3OTdna1d5ZVVHdlluOWRPSkZoNnFySndqa2dvX1pSeFBYZFpNSQ?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-02T16:07:12+00:00"
+    },
+    {
+     "title": "Tether freezes over $4.5m USDT linked to Mercado Bitcoin breach",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GNlBHcUw2UUNWUEM2NzJPdHh2eWQ1TzdmR1hhVGRfa3dKOUhLaUtvbWFBM19DZTJRVDgyam1VN1hFLWl6dkY4cG9Ndk9sX1U5UmlRQW53bllwYXVyVlpaTFN0bS1EUC1XTDdhbWQ1MUk?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-02T15:57:37+00:00"
+    },
+    {
+     "title": "Tether Says It Froze Over 4.5 Million USDT Tied to Mercado Bitcoin Incident",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3BsaDhOcXpsbGxzNUZsQXlaMjZUUDVSUmYzSUN6OHhROUlLUmRPeEpIVzdvZWp5QjE4dzJSeldmc1hmZl85dS1JY3FaNTRGMmROVlhXbFpYbEJwREtNS29MWmhCQzNZNEN6T1pxS3ZIR1BVT1VISEx5YVpNRGU5ZTZaemh6NEtTYjdvd0FpTWdVbHZrWXVESTRYRUg5cGp2bUJWVlJ5eU1DMUN5?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-11-02T15:06:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "THORChain Halts Cross-Chain Swaps After Ethereum Reorganization as RUNE Drops 18%",
+   "outlets": 4,
    "topics": [
     "Binance",
+    "Bitcoin",
+    "Ethereum",
     "THORChain"
    ],
    "items": [
+    {
+     "title": "THORChain Halts Cross-Chain Swaps After Ethereum Reorganization as RUNE Drops 18%",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVGNhdl9MbEZaa0pKbzlfZXBQZ0xqRi1BXzZSdXktSm5uSDJpWmNtc0RSQTZhOWtEejhGR2dJZkJ3ZC1SdE8tN1BxTlNmd0JCVzZvYWdfYWFEaGh4MC1RNG0wLV9JYmk5aEhLNUFQbzRDM1pMRWJ1Tmt4TldES1J2amhHOWl5UnFOYjZNNC1OaDEzUmhqZ3BMTm1CenRRUElycUJKM245MnlQQ2ZMMU13MkVrQ1RLSUluTFI0?oc=5",
+     "source": "CryptoRank",
+     "type": "news",
+     "published": "2026-11-02T14:08:39+00:00"
+    },
+    {
+     "title": "THORChain halts Bitcoin and Ether swaps: Binance loot stalls, RUNE down 18 percent",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kMElUT2xKM3psU0w4RWRzQnVJTTFKRVpWWU5TSEYxeTBMeGxUWFZpVlRUNzhJeVhLaDhFTExYU0xNN1ZlcGJITjJZOFI2QktGN1h4TmxKQS0wd2FlbVkzSGk5aVBVdmNqM3paVW94WllQMmVveElfd1ZoNlpnUQ?oc=5",
+     "source": "CryptoTicker.io",
+     "type": "news",
+     "published": "2026-11-02T09:18:16+00:00"
+    },
     {
      "title": "THORChain Halts Cross-Chain Swaps Over Security Flaw, Disrupting Laundering of Binance Hack Funds",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSXl0UmJuUmdXam9BMDMxc0xGczE4T0hfaE9zVVJPZXlmUTU4T2gtWGVtQnZlQy11T2dDOWhwekNOYkhRMjYxQzlBeVpZRU1nZU5QbQ?oc=5",
@@ -3032,74 +3462,114 @@
      "published": "2026-11-02T02:50:47+00:00"
     },
     {
-     "title": "THORChain halts swaps after bug exposes cross-chain refund risk",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWlFN3VZMDBTY2VaaS1BclhoZ3ZOZHdpMmJuaDhWYVhzSENuUkxGVnRLWVFQNUxiMGhnSEcyVU43UUpfQlZkZzJqUnRPR1ZRV0owX2EwWm9CNHVzM1ZtMVBrZldreXcxaHVMbEEwazVzSG9NVXVyT0RsZjJKMmNhcFdIUUNNUDNmOVdvcnZrT05DcWxoeFZSLUJB?oc=5",
-     "source": "Traders Union",
+     "title": "THORChain Pause Halts Swaps After Ethereum Reorganization",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iRzRpWGlWZjVtb3hDYTVlejlxTDR6alcyenhkWW9GRlptSUFSWTBod2djcjByWEd4endrWEZPT0Q5Uk45NkltMXZISDJnYmdyZjZyS0FMQzhDY1U?oc=5",
+     "source": "TOKENPOST",
      "type": "news",
-     "published": "2026-11-02T01:57:18+00:00"
+     "published": "2026-11-01T19:37:06+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Bitmine Slows to 8,573 ETH Buy as Tom Lee Downplays Binance Hack",
+   "outlets": 3,
+   "topics": [
+    "Binance",
+    "Ethereum"
+   ],
+   "items": [
+    {
+     "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+     "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-11-02T16:23:24+00:00"
     },
     {
-     "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-     "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+     "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-11-02T14:40:53+00:00"
+    },
+    {
+     "title": "Bitmine Slows to 8,573 ETH Buy as Tom Lee Downplays Binance Hack",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmZyb3YtcTNXZnNJV0JRUXA2SmlOdllMZmczWnpmekwydndVdXhuWmgzYXI2UHdSV0Q3amI4Rkd3Xy1vd1F3ckIwM1A2QzV6ci1XQlVsdkVmUXVEQ0t2TlFRbnJveGVYTndiRHJ5Y3JRc25FMWJtYVNtN2hQd1hpVkN0ZlhWR3l4V01ZcDZKdHlZdw?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-02T14:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+   "outlets": 3,
+   "topics": [
+    "RWA",
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "Hong Kong Advances EnsembleTX to 24/7 Settlement and Plans Stablecoin Trials",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVldLYnE2eFVqbmRxTzFZVzhzUlh2d01JVTVzdndtX1phbEpUb09GQ0VPU3dtNUpvMG00X3hWQmY0S2FNcFotV05kLWl1RDJ1NExuQTY4LW5kbW5WbkJQMFgyT0Zha2RVb1pjNnRCSG5TNUZLSV9LcktoeWhaMlQ1X2hQTE9ETHB4NGF6NjVTM3ltRDd1bzFmTVFFTmZjUkZRN05ycHVLOUNia0hLYkp5VTl4QmpSdngyVUdBUnQ1bmRmeU5sakhreWFta3JVNG8?oc=5",
+     "source": "TradingView",
+     "type": "news",
+     "published": "2026-11-02T14:00:00+00:00"
+    },
+    {
+     "title": "Hong Kong plans stablecoin trials for tokenized government debt",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95VE1yZTNJQTNrLWl5bElfTXdOSXA1QmszTXRvZHEybE9uVDZxVzBnSGE0YmlIYjRORGNmQ05kcFM3N2lEdDdmRDhFMUJFUTVpT1MwaHZFeUFrRTJwNE1MOElOVEYwd0hmdTVJU2g0S2xkOHZWU3MyeEY3QVRtelE?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-02T10:52:00+00:00"
+    },
+    {
+     "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+     "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "type": "news",
-     "published": "2026-11-02T01:51:48+00:00"
+     "published": "2026-11-02T10:14:55+00:00"
     }
    ]
   }
  ],
  "events": [],
- "headlines_served": 9113,
+ "headlines_served": 9237,
  "trend_candidates": [
+  {
+   "key": "mercado",
+   "term": "Mercado",
+   "count": 6,
+   "sources": [
+    "Bitcoin Foundation",
+    "Bitcoin Magazine",
+    "Bloomberg.com",
+    "CoinDesk",
+    "Decrypt",
+    "The Defiant"
+   ],
+   "baseline": 0.0,
+   "ratio": 6.0
+  },
   {
    "key": "fbi",
    "term": "FBI",
-   "count": 10,
+   "count": 9,
    "sources": [
     "Decrypt",
     "Inc.com",
     "Infosecurity Magazine",
-    "SecurityWeek",
     "TOKENPOST",
+    "The American Bazaar",
     "The Block",
-    "The Defiant",
-    "The Hacker News",
+    "The Register",
     "\uc870\uc120\uc77c\ubcf4"
    ],
-   "baseline": 0.88,
-   "ratio": 5.33
-  },
-  {
-   "key": "thorchain",
-   "term": "THORChain",
-   "count": 5,
-   "sources": [
-    "BitKE",
-    "Cointelegraph",
-    "CryptoTicker.io",
-    "The Block"
-   ],
-   "baseline": 0.0,
-   "ratio": 5.0
-  },
-  {
-   "key": "north korea",
-   "term": "North Korea",
-   "count": 8,
-   "sources": [
-    "Decrypt",
-    "Inc.com",
-    "Infosecurity Magazine",
-    "SecurityWeek",
-    "The Defiant",
-    "The Hacker News",
-    "\uc870\uc120\uc77c\ubcf4"
-   ],
-   "baseline": 2.08,
-   "ratio": 2.6
+   "baseline": 1.2,
+   "ratio": 4.09
   }
  ],
- "baseline_days": 8,
+ "baseline_days": 7,
  "sources": {
   "CoinDesk": "ok",
   "Cointelegraph": "ok",
