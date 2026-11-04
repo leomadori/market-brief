@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T12:04:33.709382+00:00",
+ "generated_at": "2026-11-04T17:00:05.627707+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 25
+   "item_count": 24
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 20
+   "item_count": 29
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 18
+   "item_count": 19
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 52
+   "item_count": 65
   },
   {
    "name": "DEFI",
@@ -83,18 +83,18 @@
    "first_seen": "2026-11-04",
    "count": 11,
    "ratio": 11.0,
-   "item_count": 36
+   "item_count": 46
   },
   {
-   "name": "CFTC",
+   "name": "Democratic Sweep",
    "kind": "trend",
    "aliases": [
-    "CFTC"
+    "Democratic Sweep"
    ],
    "first_seen": "2026-11-04",
-   "count": 8,
-   "ratio": 5.65,
-   "item_count": 23
+   "count": 7,
+   "ratio": 7.0,
+   "item_count": 17
   },
   {
    "name": "SEC",
@@ -119,15 +119,15 @@
    "item_count": 16
   },
   {
-   "name": "Democratic sweep",
+   "name": "Morgan Stanley",
    "kind": "trend",
    "aliases": [
-    "Democratic sweep"
+    "Morgan Stanley"
    ],
    "first_seen": "2026-11-04",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 14
+   "item_count": 21
   },
   {
    "name": "ZachXBT",
@@ -138,10 +138,1124 @@
    "first_seen": "2026-11-04",
    "count": 5,
    "ratio": 3.92,
-   "item_count": 22
+   "item_count": 23
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+   "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-04T16:49:31+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto\u2019s midterm spending spree stumbles as Democrats rack up big wins",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSm9QbjdQSHVwSVJjYUowTEFwS2dUSktPOVR5azFmelhSYi1LLUpCd2ZzMU5BQm9uYzBrMy1HQ3Y2czIyX2h0a0tmUWlnRnhPZnhzYnRhTThubnZUSTZBUEZMd1FVVjZRQW1kbUgtZnFhc091ZHVtTjdvMG9mMHgtUnkzSktldzUyRVZtZGpaS2FEV1RkaTh0aUxFX20xWTBLX3lfMGhjeW5hV3BPaGU2ZHdwME1wMlJ4VFN5cmdKTWluNm5mekVXQWh2ZUQyNktMTjkzTzRNVGFySUhQMWNQUU9FanZpdnlnNXQ0bnMwSkx0SDdCazNYWUFyLXdiMG8?oc=5",
+   "source": "The Lufkin Daily News",
+   "type": "news",
+   "published": "2026-11-04T16:47:09+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Circle\u2019s $13.9 Trillion Stablecoin Paradox: More Payments, Less Profit Per Dollar",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlo2UnIzMkl1VmVSYmN3UjdmdEJnc0oxVFpEMU40VVowbG1hdmJFTEpNWF9KcHotOTRCMmtFbnBjUDVpR3puVkZNcmRHMXpGTHlJdUZHRVEtQW5vOGgzdTN6ZnZPTklTbDNlREphNmRNOGhsc3JJenNVWXdtMU9HYWItRmxmc1BNUURLMjRXdEJFTmtGZ1ZLNWVSY0JGR0xOMC13MmxTdDlQN1o5X1JrRWRnamxYQQ?oc=5",
+   "source": "PYMNTS.com",
+   "type": "news",
+   "published": "2026-11-04T16:40:18+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "A.I. Data Centers and Labs Face a Setback After Democrats\u2019 Win",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlVDQ1NYcGJZdmNlV1d6ek1WcHpzYUtNendvZEFWVXFLbEhIYXVxZjNFSjZrZEtBSjN3VzZkQ1VCQlRUQWFFU3R4bHdTWC1TMjNuQ1FEWjN3SXNIQVNQSXlqcUxBVXNMQ2diNnlIaXJzdW9zOXNYVmtBVVktSkVkNTRGN20?oc=5",
+   "source": "www.trendingtopics.eu",
+   "type": "news",
+   "published": "2026-11-04T16:36:40+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Ethereum Foundation launches DPI initiative focused on digital sovereignty",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0xBUjB0S0s0QlJrVGpYTWlNVFE3NmhHWElqaEVJXy1PTXhMZE1HYW5fSm01Y2JGY3VaeVB1bk8yc1JYTmZMVHp1RjhTQjNRaU1UZzhYcWFBZ0d2Y245NkthUWJDTklmdUIzaE5id2dCWEtKOUdZV2VLMFNQR0czcnRicmdLNXk0dHVfaW1RTlR2M21DQ1NRZmQ5TGRTZ3RoS2N0cDVkMVlWUkZlTEFkX2FPNA?oc=5",
+   "source": "Biometric Update",
+   "type": "news",
+   "published": "2026-11-04T16:35:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Why is Bitcoin rallying while Gold recovers?",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcF9GVWRnSEloTDl4cmVVc1JQb283NmVDWHppd1RTdE9TSHRBeUdlYjczazM0QV81N3RkVmNFdnNTc1ppWXV0OXpESzRXQVJIUDUySFV0TzVKWldUZGI5elZFVmY4OUctRFc2X1NFbUJUQXpwT1F4ZExCQjI1NE1xYWpXRHFsWlR1OG85Y3I2cFd3TG9SUEFEVHh0Y2JoNVNRVUY3NzdLMFAyM002c29UVUpuV2lxQjFUZ0p2dDdlMFpZZllHZzB4RjVFWnB3WnQ4QVBkaWZpZXNBNzYxcGk2Wk5JSmJ6eFlUMlE?oc=5",
+   "source": "FXStreet",
+   "type": "news",
+   "published": "2026-11-04T16:34:51+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Riot Platforms Sold 79% of Its Bitcoin Last Quarter. Does Mining Bitcoin Still Pay?",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWFVFaEVBMEhjN2JGazZUOUxyZGtkc21jem5XaHdTczNZaVZLVGdhb3VFM3RYNHNIZTBoeGJGYldsOElQYUl6TnhnbGxJaGZQdnR6MzNUMXpQMW5aWnJXd0JFOEduc1JEQ3dodzBJdDc4akRsYUZlVFVxQzhvYk93b1FuNkRfTW9QZG9pVW5vV3ZTaWJOQUlSZWJGeVc4QVQ0a0QyRmVDNWxNMzg0Nl9LazRzTVlUUnlsSE1YX3BvTURkYkxBX0lrZFBkVFhXT1FiUnZuOXl3?oc=5",
+   "source": "24/7 Wall St.",
+   "type": "news",
+   "published": "2026-11-04T16:31:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Wall Street\u2019s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+   "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-04T16:29:36+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+   "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-04T16:27:49+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Why Would DeFi Development Corp. (NASDAQ:DFDV) Climb 19.33% Ahead of Earnings?",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaVhxOWFpQ1Qya0hYdkRqeUpOeFgzX3NDNXB0Qmk2YkJhU0UtbmtlbV9mZlB4XzZGbDRaZG0tZ0JwUm1DdHJRaXR5bEpHOWlIbFRDZzhHdmZ6c0wtbGxwcUxNYklIRXVvMVJrSjdiZU1hSkJjc0FJaHpOd0gwSmpjQTE2MG5tMlpraFZRY0RKbmpvWjluNjRJVHVCRTlCVUZFNlRFeHUxR0s?oc=5",
+   "source": "kalkine.ca",
+   "type": "news",
+   "published": "2026-11-04T16:26:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "10-year Treasury yield is little changed as traders mull over Democrats' midterm victories",
+   "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "source": "CNBC",
+   "type": "news",
+   "published": "2026-11-04T16:23:53+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Circle\u2019s Earnings Show Stablecoins Have Arrived. A Crypto Payoff Could Take Longer.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnZwVkRRZ2VyOG5YOW5zQW9QWXl2RGd0ZVYyclFFbGJia0RIVW1aX2RFZzBCZ0sxSXhPakx6eFBpQU8tLU01YmJIMlZ4M1ZiaEVwVUZ4SFJEMW9pV25mQlBoamIxUjh6TTJVamc0VmdXRWR2RVFIOE45MmdON2d2UF9haGg?oc=5",
+   "source": "Barron's",
+   "type": "news",
+   "published": "2026-11-04T16:14:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "U.S. Democratic sweep could be the final nail in the \u2018Clarity Act\u2019s coffin\u2019",
+   "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-04T16:11:29+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democratic Sweep"
+   ]
+  },
+  {
+   "title": "Democratic sweep of Congress could be final blow to Clarity Act after $170.5M crypto push",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVTFLQ0owdktZaUpZbk5BWENvUkVRamotdmdOSUhlaDkteUpQTGtOUjlTdkRiNG8yb0lGT1VreHhPVFhyOU9mTWsyazExenl1bG5PVnFvOURzQW94NTZqREFYZ1U4c2QxYXIwSGttczFPLXAtVnFsRDY5Y1F2Uzd1VnhfbnF3TEIybloxTlhFVk5CRmxhLUxmb0dNYm5tdy1pZGJkZXBOaXVjSUNZVnJVZTlIOS1HUQ?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-04T16:11:29+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democratic Sweep",
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Bitcoin Pumps to $80,000, Ethereum, XRP, Solana Surge up to 6%",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnJJOGFjcWpLNm53dXRhZlVPMWVWb3dQa1daVW53RnRsV3lZNzA5YURYZXJIYzkzYXRXZ1BjQXg3YkRCcGJLVE5xSWhBakpxMlVDSkpKcUtHQ19RczZydE4tNDZpUnBDTjBsMTdhWjlxUEhBY0dPZkt5a2pwVWE5MG9pVEdDcllldmpPWnFVUkZkbEVCNHoyeVR1UDcyUWx6ZUxTajF5V3VEdlBodGQzQk9McjBiZ2h4blE?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-04T16:09:30+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "$380M in Shorts Liqudated in an Hour as Bitcoin (BTC) Skyrockets to $81K",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFhIVjljQXBwTnQwd1h1NkFDOG5YSkZhOVpNdHN4Q3JUU3VtVklLVG5IY1FqTVFxNzJhVnVSUGpIWlJCb0dRTW1zSm9GUmpjd2hpODB6ZFVaaXBjSTVVejJDbzVNbTNfdDkycmpWRXFCaGxFSkRGdFRpUDQ3U2xzdmpMWGVkRk0yb1lvUVE4MFB5V1YyS0pmTXVzVmlVSThQczRObzZnV3c0dw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-04T16:08:49+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Wall Street cuts Bitcoin miner price targets as newly blue Texas threatens data center boom",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGNNdUdYa1JIWHZTUjNNZlR3X2YtZVhsazBIa3g1eEs2SG8xdEVmb0JnYThNaUFQNnQ5dk5RSmpfaEVuTHp0RzJ5NlN5Q1JtVG1ReEJPTGNRbGNIU080NnpLZkpFWWozZjdySWVITWhEeXNWcDJCd2pXR1ptMzV5SmJQR0F3bGFBdUhIQ182RnNfcjhxc0JrdDAtRENKU3BnMVlZaEYzZVNBOF8wU0NoazhGN1lmdXgzQjRxZDE4NXFHYkZ1RHU4MUpaU1VMSk9ZYko1UmdFU05Sck5o?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-04T16:08:14+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Rises, Crypto Miners Sharply Divided As Midterms Dampen AI Outlook",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaHFSR0duQjllMk1SU1RFTWlzdWQ5VVhRMV9Cb2hFWmJRT0p5blhvblNnalItb2dCMTdILXNGMVNyWlNoN1Y4Yll3QmdjVDdodjl0X2VIRnptMzk4aVdaSzZtT1ZRaEhVYkUxWGNpa1VtUHNYblhmLWVwZkFiTllHRjh2SnRCX0V2MGx2NnJOT2JDMkxMaWJ0eko0N0dMWU50N2ZNNGVSNzZsZzZubVllYmQyU0k1STFJWXVsYXpBdVhtXy1GNDNfaGVn?oc=5",
+   "source": "Investor's Business Daily",
+   "type": "news",
+   "published": "2026-11-04T16:07:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Rebounds to $80,500 as Stocks Rally on Democratic Sweep",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SUVI3LW53Sm9ZbzVuOVRMN0d4bTdZdWN3ZGtpRVZ2TkZEUDU0QzdIWlBBRmRBeGMwMDI0MnN3cU12Sko4ZnVKcWg0bHYxNDR5dUtvSGJFNFlNd1hXTktoMVdmdmxSb0U?oc=5",
+   "source": "Bitbo",
+   "type": "news",
+   "published": "2026-11-04T16:05:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin",
+    "Democratic Sweep"
+   ]
+  },
+  {
+   "title": "Bitcoin Surges Past $80,600 as Dollar Weakens and Democratic Midterm Sweep Lifts Risk Assets",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jRXJiNGxIQm5YcW56T29TZkxNd09nOGVPZEhqU0M0OXNTSjgtZjVXbHBlQzFnSUtpdTEwLV8ybHA3THUxeU53T3ZRWEJRS3E2MS14TEJTYjJ1aW5Fc3R1VXdmNXRISk9sQTBXaHFLZkM4aG5hdVE?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-04T16:05:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Circle Looks to Multiple Fronts for Stablecoin Expansion",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelpOT1pQa3FpaFJ4QVRFNGFhTy1feUF5S1ZZV1U2NHFkYWFpN2t0NFZNenNrSTRmQUJQZTg0bXQwdHFJYU5OQktXZFJneW9IN3FUMkh4cXMzZFBxc2I1OXBvQ1J0SlZhdDluYk9sSHJ5Qmh5dF8za0ducHdzTUFsZEVibHJ3bktVcnFFQkgxWHpaV2pfVEw0UA?oc=5",
+   "source": "Digital Transactions",
+   "type": "news",
+   "published": "2026-11-04T15:59:03+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin and Ethereum await a bounce as stocks slide",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXZ4eFhEbGFka1FJUm52aTNMVGV0WFFEa0NGblFxOU4xWUZxM2VyMk9tbmF0U21TQnZvUTBuTURYaUJPQnlpSEZYQnE3T2VSam9hZEpSZ3ZNRFpseFNHY0lNYlFIOEtQeWxiMU5lbjlhOVB6WE96ckdyWWFmOHNUVDFPRk1fa0NuUmt5SlpoTk8?oc=5",
+   "source": "Kitco",
+   "type": "news",
+   "published": "2026-11-04T15:56:41+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Jumps Back Above $80,000 After the Midterm Shock",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLXpJWXZ6cUNXQ1RSR1lZUHFSMGtmY0pZekdFaEtyYWk4cTcwNjBpRzZXcHdqU1lzdVJ6ejVyVWZrNERtWXVKTVdFNTFCSkxRaFdDNDZqUlFHN01LUFhNRUpEMTZCNlhWS3J5MFJXYWZMRTVxeEp0aW9xWQ?oc=5",
+   "source": "www.trendingtopics.eu",
+   "type": "news",
+   "published": "2026-11-04T15:55:34+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "TD Cowen: Democratic Sweep Makes a Crypto-Backed CLARITY Act \u2018Impossible\u2019",
+   "url": "https://bitcoinmagazine.com/news/td-cowen-democratic-sweep-clarity",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-04T15:51:48+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democratic Sweep"
+   ]
+  },
+  {
+   "title": "ZachXBT Links Cr\u00e9dit Mutuel Ark\u00e9a to $133M Crypto Theft",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWp3WEZtLXI2bVN6SVhudnlXbUlxS1R3MXc0WmQ0RVEzR0tYaHBtc3NBR3BqMXBnRGtMd3NiZXdKYWlmVlUySUZmYUI0U0YyRVVrTURtOFp4VkFGNTBNcWgteEFIVDR1WklYcDJNVWNyaW5jWlc5Q3Rud0IzVUl5c1dCbXROWVBYd2c?oc=5",
+   "source": "Crypto Economy",
+   "type": "news",
+   "published": "2026-11-04T15:44:02+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
+   "title": "Stablecoin Issuer Circle Cuts 5% Jobs",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHR2R1M2OVZMUlFkT3FzOVQwVW1TQTNhOVFzb0dreDBrdDhnaXRxVmJ0UHlNZ1ZCRkI0Z1FUOTBaaUJGOEpLdkp6ZUVHa1ZoQl9xbTUwbDk5VDJVS19mTF9IeTE3ZmZQUDA3dEE2TEJzTHBlZ19TVTVuM1NrcE80bkJkYw?oc=5",
+   "source": "The Information",
+   "type": "news",
+   "published": "2026-11-04T15:41:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "CLARITY Act faces new Congress after Democratic election sweep",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xLXR0QldzamRtRnhJcnpJbVJnbHVKSmlQZGpyNFZQNjVzMDFMRDNyeGxuLXhfRnQtSkRmeDBPQUZHQXpVekZYLTR2YXRvOWk1S0tNcnhjMEtSNzUxSFh5QVFNS2xobmRQNTZRTU1Id3RoQQ?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-04T15:34:16+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWg3aW5QeW04R2pKaV9WdFp4XzJZdkJnaEw1UEdLNGZINHJBZk5UYldBX1FsY1Z3eUxubmphN1hvQnJJNFdERkJOcjZPMXppclBsN2hOZGZxVUhMZGRydHYwSlVpTXcxekxDZzQ5OFVFS1h3czZwVzQ2VW94VDNLdWdsbm5heHIteUhDZ2RjaC1SWlFycGNJSklZZkVWbThkQjRJQlF5QjJfMEFNWVVLa19n?oc=5",
+   "source": "Bloomberg.com",
+   "type": "news",
+   "published": "2026-11-04T15:31:29+00:00",
+   "first_seen": "2026-11-04T07:01:43.732118+00:00",
+   "topics": [
+    "Bitcoin",
+    "Democratic Sweep"
+   ]
+  },
+  {
+   "title": "Crypto rebounds after overnight losses as Democrats take control of Congress",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVpNMVR5bWZLN0lnT1VXRkpQQkUtdE02ZGkzbkV0bjFaQi03T0R3MVh2ZlFXZmVSazJGX1RQTmN0RFN2NUYxNGQ5QjBzWUVmNUYweDA5bHU4aDRGZERZN3p5Q0w0endBcnRyX1RVeG82dGRZTTB2SEJUUmczUGE2VGZYeWx3R0FVVS1WYVhUQ2l0YVJ2?oc=5",
+   "source": "The American Bazaar",
+   "type": "news",
+   "published": "2026-11-04T15:30:37+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Cr\u00e9dit Mutuel Ark\u00e9a Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
+   "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-04T15:30:31+00:00",
+   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
+   "title": "Morgan Stanley Joins Tokenization Push as Banks Double Down on Blockchains",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFRvSEtqQ3BNWURBaDVvcmJDOXhXSFFFdHh5bjlfSk5JNnBzNDNwWElwSndtRWMwcFprbFMzZTREUEZobGF4SUh5RUFfbGI5a3p0U09LYUpoWWUxVFVnNVRkQlVScDQ0QzZGakNQcHhwYU53cFdZT25vTzc1cTAzVGs4VjZZY0MzSC1pSTE4NVFWV04wUFhnX3NtVGVuQzEzNnBwMDY2OEVNREc5YTFpM2VUNUFSQVpZMDI1TWoxVjNQNlJ3SU9DYW0wZEU2S3daUEE?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-04T15:30:20+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA",
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "'All Roads Lead To Bitcoin,' Says Bitwise Exec Matt Hougan In Light of AI Bubble",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFBNcmJEa3dfYXVyM0NQaUZYQ3pLc3Q1WDFxQmpCel9ETnpUdmFEYTNwMEFPMEYwb3NEbnVCS3NlMFljZXBMMnFuOF9EUmRNLWV2MDlWZ2w2a2Y4eERILThQTVczMktVQWtrdUFZamtfVnJKUGYtaUFmM2dxSGNycWdRbXRSMjF3WXNlT0Nqb0NYNmFfS2tiU2NaMGM?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-04T15:30:17+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-04T15:29:23+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "JUST IN: Bitcoin surges to $81,000 \ud83d\ude80",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczBVdDlTTXZFR1h0ZTU2XzhaZ0lCYzlWVGE4ZmlFczhCaUVhT2J5NjJ2Q2dLSXBkVHhrMEZMeDg0OVI4aXdWS2RPRmZRV2JIbXdMZjBhbXJaVjYxakNsWkxnSklQYmVibzFXc19PaE5MRVdBbjU3dVd0aFhNSXdlaUtZQnRSdVhsbE9YTXMwaw?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-11-04T15:27:41+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "SEC Makes Statement About an Altcoin! Will Sanctions Be Imposed? Here Are the Details",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zWHhpd3o2ZWhNNUNxTEt3YUV6T2l0TUxxMHF1VDBpQWdxUkV0Sl9kbUwwa1A0bU93czZjRmVyME9vYkhNQ1BHWTJDLWVSVmJwNG9UTjRB?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-04T15:22:40+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "SEC"
+   ]
+  },
+  {
+   "title": "Bitcoin Recovers Despite Democratic Midterm Gains",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlRUZkd1OWFvelVrRGhnS1JRZThYLVdtRWlRMEFyeExVZjZvdk1LX1dFblJZQ29yb1dMaTl2a0JiUlBjZ2xrT0JWSHIzX1IyaWRrWU8wYmloc2xoN0FheHAwUGZZLURvSkVucDAtQ2JLNXFRWFB1TmU5eVpjQlRjZXpRT1VEVFlIR2pGUTZMUDlTUGZvblhINGxKTEczX0xPT2pkWl96dUt6R28z?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-04T15:21:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks",
+   "url": "https://bitcoinmagazine.com/news/riot-and-hut-8-sell-thousands-of-bitcoin",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-04T15:17:29+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto Holds Steady as Democrats Sweep Congress",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV21YcER6MkJwQm02V0dtckhsSTBCd2duVlJyc3pIMkVlenBUZVZ6UEtEM21KQXByeERNZ2FLdFU1MzlKSTVIZjhEWFA4bVRWMlBDTmlHVmJoNjdkSHRzdGJVaWVpQXBRSTZNRjJQYUwxR2VuZF92TjBkZlYwdE4wQnlyTGZHODRLdHFDaFc0MXVjWmQtV0NmZTF4Q1FxQVBNcXc?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-04T15:16:11+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Uniswap Rises 5.13% in One Hour to $7.67 on Binance Spot Market",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOX1M3aG1IMkxlUzU1X1J5bUVoWEN4Unk2RHZHMXhwWnlwbnJUbGhySkFlNllucmF0eFJvLU9EOXlnaEZOR1dqYXJ5UmlTQzBLSGJWYnI5MHp2Zw?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-04T15:07:55+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Morgan Stanley Becomes One of the First Banks to Tokenize U.S. Stocks via DTCC",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0lUZ2pERHB2N0RKdFdSNnV2dmtkRHBfOGRiZkZwbjlheXZkaVdOSmQxQU10aHdVZDdyM21vQmFQLU40MkRETHE3SVl1OERwVjFXbGZrWmd3VmdjcnB4TFBUa05jTGEyZjBCdFJ0VTQtbGZvdTh6MVVJTzZUR2Vic0kzN1dpQThheGpqMkVNak5Ua3VUYVNWRkJfT0oydjFVOVh2ZDQxTmFsTUtyNmwzcjkxNA?oc=5",
+   "source": "CoinCodex",
+   "type": "news",
+   "published": "2026-11-04T15:01:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Most big cryptocurrencies increase as Ethereum rallies",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZzRNblZsaGkzRmRrcDBvVWJtalBsRW5QTzNRNnNOU1o4MkFqT05QX1hsX1A4bjdWZExWdVk5emtiRC14SjFibGpBdzhJcVZ2Snp6V0xsRFV2Q0hWMWRpMWloSWJLMWxNS3IwSlNmS3RwVlpEYzQta2JyOE1JVWRXNUdqeDJqYVVnYjhmUXUySy1UZzJBa2VJbjZrUUtncHVGeHBES2Z4NVVWRFdRYXMzSmNlUXM?oc=5",
+   "source": "MarketWatch",
+   "type": "news",
+   "published": "2026-11-04T15:00:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Morgan Stanley Tokenizes US Equities and Treasuries Through DTCC Service",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kQkJKSGFsVGJ3dHhmRV9wWkloNk56am04UHhEQVZSeXNRdVhvQ0tZVVE0a3h6YklJZWVDeDY1YjdwMmlPVWxkZW1xOHM3dHRrSjV6Skl6c3luVXBCN2NlUGV6SkphUXJ4bU0wd19DVXFEbWtySElZWHI0UE4xdw?oc=5",
+   "source": "FinanceFeeds",
+   "type": "news",
+   "published": "2026-11-04T14:54:52+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Stablecoin payments firm Yellow Card acquires GoMoney to establish direct operations in Brazil",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51dHctUzAwbmZ0a05vT3hBZDJyRHVNcEY1ZHdrWnhISG9zVUtJSW9ZZzZWRC1kamNqRDlDdkVQanctZldfUU1MN0NFUDRKZUYtcTdjT0cxbW4yWnNCSVVvQmtHdFo4SkJuLWFNZQ?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-04T14:54:40+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "SEC Grants Canton Coin No-Action Relief, Recognizing Token as a Digital Commodity",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzhsSVBIdlhNV2JHZWo3bUFWQ1FtQXNMN3lZWlUxYjJaclZCTmJWZmMxN0F6cENyckNZai0xT1FLa0JxUVVndXF0VnhEZjVnQnRsbzJ1Qzh2MDhhWXUyMkVXMHRJQ1VQSVQtRjByb2ZqU0o5RmE5MWhLTG11ZDlPWU5qazd1U0lpcG9fQXk2TUt2OG1Y?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-04T14:49:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "SEC"
+   ]
+  },
+  {
+   "title": "Morgan Stanley Tokenizes U.S. Equities",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWlBYmhVTXlvNkZhc1M1eGhIV3dmMVhsTGp2el8xcFhtci13UnFTemdFbEZSY1ZEaTVCWXJsajlXQXppX0E2Z0VrbERVOFJWVkVyNUVhZzN5Mno0RXN2TW5yMzhvR2xjQnR1Z0pLRDFGQXBrT21zQ1MxS2RFcFh5NFNtZmhMZXRnV0duRUlWQ0ZZQXhfVTV1M1pnakJ6NkJHU1E?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-04T14:39:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Democrats take Congress after crypto\u2019s election spending fails | CoinDesk Videos",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcERuMWgxdzZxcmtPWFg1NEFzbW13S1A0YlBkeWVxUU1hVXktOFFIN0pfclNUNFZPOTI3d3hfSFpNY1dZZk45N0hOSU9oT2QzYktpYTZSNS1yZW9kUUpYVVU4RVlnbFRLaHpQSmxFTld0TWNCV2JkbjBKS21NbXNWb1BmMURtT1gxd0tNWG9zTzhGOUtjV3VF?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-04T14:38:13+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Official Trump (TRUMP) Drops to a 3-Month Low Following the Democrats\u2019 Victory: Details",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0huNXlPVGZTcTF6akd5Ym5sUEV0N0djZnh1RW5TNUx1VGprTEZlNjR5YmNXWmVtWlBfV2l5VXh0cThxc3dBMV9yV0xtRlBBMEFhVlRFeGxDNV92bWRhODdJdUh0d1MyZGYzUEs3SjZONC1LOG1MaEVRaGhyNGRZS2NJSVkxWThCVE5Sd1I4WEMxdnRkREpoM1ZYZ1dlWndZd1poQUxnZ091WFhLRmNuV2t2dVNIZzRkczRsNU9R?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-04T14:33:35+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "The news is almost always in the chart. $Bitcoin (BTC.CC)$ perfectly retested the 50 MA on the weekly on the election drop, right before bouncing. This is the bear/bull market line. Crazy.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXRjTWc2OWJJVllKVElTb2lRdk0xMWxWN1I2akZDeVJER2dQa0gyV0V2WkJhZXJSdl9WenJ5b1dCVXlDYVVTNEIwWFAxUmh4Z2NSd1c2TUNVbzVUZWdCZmxXV21WVDJ0MHg3eUVZTndQZzlHQ3N2bDBoWGFGa0FtMlg0NDdpMUxFNlF5cE5EemZadWszRHpQTVlHZjR1LWVINlk2NV9sWQ?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-11-04T14:33:13+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Predict.fun Put Democratic Sweep Odds at 99% After North Carolina Flip",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcUFGUkpMb3R6ZXFCcXNMUkVRQ2RDWUstdDhHcVN1YUZXX2VWX2pmZXB0Q0hCYm9rOTEtTldueTVoZXJGWDNVVVB3aTNkMk9WZDVvdkpqR0JMQQ?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-04T14:26:52+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democratic Sweep"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
+   "url": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-04T14:21:35+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin",
+    "Democratic Sweep",
+    "Democrats"
+   ]
+  },
+  {
+   "title": "French Bank Cr\u00e9dit Mutuel Ark\u00e9a Hit by $133M Crypto Theft: ZachXBT",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnRPLWZfTkRPcTFUNDE0elNrQUZoYkxXYm8tRGpHUEJVUWJDRzk2TnZaUDZpWmU0S2hYSENPVlJDVFF0ZFc0MFI3OERKWlQxZno3MlFBU1RCbnptWWNpM2xfdVR5WEg1cWxsNV84VzdnMm1HTnIxZFRmV29mZEotN1hLSkVzbld4QURudzFBRU9BSjdzMnoxWWJtTkdBZEQx?oc=5",
+   "source": "CoinCodex",
+   "type": "news",
+   "published": "2026-11-04T14:15:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
+   "title": "What Happens Now That Democrats Won? Will US Crypto Regulation Change?",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEtZbmJ5M0ZJak5KcGhaRjFGaVBLY21Tb0pKazFWdlhoUmp3Y1RjZmlUM19vd0I5a1ZvTDYyc1hxZHc1b194N1JySWFILWdSQjRjYUttM2MzTW1LanhBbVNpVVM2QUg4RGIxekR5YXlDUWotdi1OZ1ZqVDNIRWM2YkVkLTBseDFySHR5RE5QZXk5U1lKa29UeEhXLVZOczlWY1dMNtIBpAFBVV95cUxPVEtZbmJ5M0ZJak5KcGhaRjFGaVBLY21Tb0pKazFWdlhoUmp3Y1RjZmlUM19vd0I5a1ZvTDYyc1hxZHc1b194N1JySWFILWdSQjRjYUttM2MzTW1LanhBbVNpVVM2QUg4RGIxekR5YXlDUWotdi1OZ1ZqVDNIRWM2YkVkLTBseDFySHR5RE5QZXk5U1lKa29UeEhXLVZOczlWY1dMNg?oc=5",
+   "source": "Coinpedia",
+   "type": "news",
+   "published": "2026-11-04T14:06:31+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Crypto Today: Why are Bitcoin, Ethereum and XRP extending gains as US Dollar falls on Democrats' US midterm win?",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTHpTS2pnaUpsc05NaTgxYnNYS0xERUs3X3cxYXplaGRhakVUb0hwMEliVklnMWR2S19SNnBndThjS2tSLTZ0UmZvVm9tZUFJTzMtX3hvaGxFbUNIbExIUTBQVDNvaE5TbHNTTXdzVkQyRU42RWtyRno5SkpqdTZOb2lPODNwRlBaeTd2QlZ3Y2FnbVdlWENSVG5ZNGxyNDA3aExSSVhWUndFR2YzdnR6VXJjOUZER05JZ0s5b0k3bkI4NkszWDY0aTlRcDg1SmNOZWNSdTMySmkzRVZBdUxKM3pzemU2anc1Q1B1ODlEckd6Mnkwa2d4UjNma1BkUQ?oc=5",
+   "source": "www.tmgm.com",
+   "type": "news",
+   "published": "2026-11-04T14:04:24+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "Democrats"
+   ]
+  },
+  {
+   "title": "ZachXBT Identifies More Than $27 Million in New Exchange Withdrawals",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TbU94UW1TX0lvcXJDNExEeUdqcHdYWmtvaUJyT0dFYjAySjJyVlRyX2c5bHN3NmEtb0lkT2I2dnl5SkFHa0JUMEY2RllxbWZpU3Z4ZUs0TXF3THc?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-04T14:01:02+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
+   "title": "SEC gives Canton crypto regulatory relief \u2013 Why CC faces a $0.10 test",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDFlbFptdWVqOWdDSUxCaWdJQld6YVJzRndOWEd4OWxWN1g5akRpaWUwRUpaSEktNGoxYlJGTDdpMFFKdXhLSEI3SUFOSHJrSURfMk1YdmJreGFMaHBnZWZTVVkyWER6RXZUODhaZFdqSEkzdURjb3IxT3JNNnhUbkk3NjJKSFNFc1czSUZITllsWmc?oc=5",
+   "source": "AMBCrypto",
+   "type": "news",
+   "published": "2026-11-04T14:00:55+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "SEC"
+   ]
+  },
+  {
+   "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+   "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-04T14:00:53+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "ZachXBT Links French Bank Cr\u00e9dit Mutuel Ark\u00e9a to Alleged $133 Million Crypto Theft",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWVfODJ5ZlN3WWhZcUc2SzV3a2tvNzNLeDlBd2FVdldCSmRucjcwaF8xR0FmR19oRkd6cklHeXRzQzUybzZnWUFpNndyLXpKbkJOYXhuTVV3S3NwVTBIT2gxVU1Kdnp4TGFWUDZEWldURnF5TWhLbXBuSndBMVVVVUdIbHU4OWV0SUZMVG13RVhDQl9MaVBUbmRvRW9uSDJTaDlzcG1FTEd4aXM?oc=5",
+   "source": "FinanceFeeds",
+   "type": "news",
+   "published": "2026-11-04T14:00:53+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
+   "title": "Walmart-Backed OnePay Opens Checking Accounts To Stablecoins, Raising Stakes For Banks And Credit Unions",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSjZ5b19PQ29rLU1RemRYZC14aFFBWmFFRE9Cb0RXRlhvN0s4ZnFPTGRmVFB2Z1dhLTFBMVNtSW1nMHB2S0ZjSGp2MktJbFBxTHVYSEctcFVheFp5S1JNNHU5cHQzU05lR0ZtMU0yV3U3ZkthSXNRc1VBZjhlY3I2MzFHLWhXSHJic3BPRGwtV1ptOGlpSnhJQWhwRF9EUGplUGl2c1lJTjhTaF9reGFFa2VFS3pWOThLbV9WYXRLeEg3eVpsZnU4U0pTQUYzNkpUUzltYVVrZw?oc=5",
+   "source": "CU Today",
+   "type": "news",
+   "published": "2026-11-04T13:58:49+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "BBVA and Santander Put Corporate Stablecoins Ahead of Tokenized Deposits",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY0RBRTNyTWJ4NWtSeVVOTTNzSWo0azZ6WTg4QTVFSlZucnAzT1JUcmVDWC1oWEFzYkdkbzQzbzBRZmN2eG1zZ1pjNTB0a0FuNHdmVV80QzI?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-04T13:55:39+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin",
+    "RWA"
+   ]
+  },
+  {
+   "title": "Wirex to Host New Stablecoin Infrastructure Conference, Full Stack London",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3RNTmYwckVFZnpsUHc5emlVeHdGZnptVkg4dmZMaUZBNVJjaE1NeXlWMDE5WUZpYVlMZVFGXzJnYU5hUTdyS0x3YVpab0RGc0xfWHNtT3RiUkhTcmZUcUJlc3lpaGl3MjNmakZRY2t4ek12MUR6bU0wZFlZR05rajhfMHJOV25zbW9MYzUtNFJKdFE?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-04T13:52:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Stablecoin Issuer Circle Cuts 5% Of Workforce",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGtNQmVOWGd0VHhLYmVWZWZEaTAxY3N3MlhlUGZQZk9Sc1JWbmZiZ1lBemNZVUlmRkc3bkxqZDAzTjRtYTQ2WEo5TlhrR2Fvakg2MU9wUTdjazRVVlV5WFY1VzZsZGMteW5sbU1feGtfMDhtZjFPMU43TnZTbzFiV1R0aHRNZDF2M3Z5N3N6SEFGVVRzc3B0Q1R5Ri0?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-04T13:43:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Ethereum's second-term surge, and how Washington's shift on crypto is changing the game",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcGtUNjNSbThCTF9mUWdUdzNscUkzdldnRmZWZ01mX3NtTjROYzhVSjktZ1ZUWERKY3h6a1d3b3ExNThmTGpnUHVjQjBzMGdLSmVSRjJXM1JDb1RaRjdCYlZQai1BVm5IZ1VIU2h1Wlg5V0NPUW45SDVHMlVtSXRNRFJCVWZwLVFoazcyZ2NYSVl4djQxMWNKaEpQbThGME05VWFVbzdMNjJUXzBKYnRrU1hGQ08tdUx2Q2dqZWNfd0VVS3JTSmp4RC1hZFdKMUdUNzRBTWRQNWpFMUtNeVdpQ015ZFRvQ1JUMUdSdjhfUkxNUU00V3lydEhsdzFuLTRSTEE?oc=5",
+   "source": "Chicago Star Media",
+   "type": "news",
+   "published": "2026-11-04T13:42:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin near $78,600, Ethereum at $2,300 as US midterm results put crypto regulation in focus",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZjVuS0hDbFlOX3gtX0hTNGxEZDNTOHpHekdPby01emJzSjE0OThrUHpkc21XdTdkRVpucFUtUEJ0QnZ0ZkY1UDJSbzhPM2dyLXhid2xGQTVBTENoNjVQQXhoRnI2QXNjNnhObGtCVm8wMlBfRzIzOFZDR1FiaDcwZGxUdFp3RXdZeER4czJCY3pYdm9pME9yelRkWk93NFFYbGdSZWNRTnVhaVItVFRGOU1idXRfVTN0aXVxZW1UZ0hTSGhtVWloZDdXMU51TUxNcnJKRFlab3J3UkN3VEFqMg?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-04T13:35:17+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Money20/20 Vegas 2026: Keyrails' Rajpal Khangura on stablecoin-powered B2B payments",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU19MX0wtbk4xUEgzcjk2NjNuTFJ1X1NILUFOR1o0TWRpZkNnNGEtMm0wOE5JYUxCTjVwVjNjQnN5d3F1NUxyak9SRXhkejNaSWlWU1pSMFByVzVrZDF3SUdVWEVBVVFIM0xXTmx4M0ZTbVROczJxY0FXbWJ6SVRDM2tBOEFQcFNCWmEtTkg1dGFkNExGa0NWUl9iREVLcmNFd0J4Z1RYMm9aTVk?oc=5",
+   "source": "FF News",
+   "type": "news",
+   "published": "2026-11-04T13:30:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Morning Bid: Pricing the Democratic sweep",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WSjlfSTJFdHkyd3ZmM0RtQ1dldzFmaFhfV0V5akhGVkE0TlBxTEN0N3hRal9DZDFCamVNTTVJMllNb2NjWXl3R0VjQkZYTVplV0lpQ3lJckR2NTRLX01vWjJFc3llblQxN1NCdzIyQ0NLcXBw?oc=5",
+   "source": "Reuters",
+   "type": "news",
+   "published": "2026-11-04T13:27:24+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democratic Sweep"
+   ]
+  },
+  {
+   "title": "ZachXBT Reports $133M Suspected Crypto Theft Involving Cr\u00e9dit Mutuel Ark\u00e9a",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDhkNnBnNjd4elpZMXZ5VUFtU09nLU51dnBVUklVR0p6ZklGcFhEYmdrR25uSUcyQmN4LUpSbGxtdnpHNmpxTlBqQlYzY2hyR3pBUUF3dkQ1TzZCdXRoWEtRTzFGb2tTOG1icFI4bTlRdkVUSkxxNnVNM05iYU5sM2l3TENJQzVWTEhFalFEeXJLcll4QWl0RklUMG9UaVE?oc=5",
+   "source": "Coin Edition",
+   "type": "news",
+   "published": "2026-11-04T13:25:01+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
+   "title": "Circle Beats Q3 Estimates on $182M ARC Token Presale as USDC Volume Jumps 49%",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0VWZtNjhLeVBsWFdnRndsZVRqanFfbFI1U2F4YVR1QTI0akJCNkNxYXFfMUljYWFoNEp6c1FyaEZEM2JCSmgxMVExOXJSalAwUHdSTjZJUWQ1S09aVGZXLVBXTU5aeXJiRmFfOXVNTjNPVkJNelE?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-04T13:25:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Strategy's CEO puts his Bitcoin company in the same league as SpaceX and Alphabet",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1N1VDZ5a3hITmdpclFkOUw1VEdSVDZ1UkR3WHJtSm9vamJWY09kNVpuakxyb2NZYl95ZnFJNkRtQ3R3c1o5bFluSHU5UElvM3U3VWc5bVVKV0hnS1kyQUxiLVV4cFRXNFhraXBSV1JkZ1lfSWZSRWpaX2xRMHFKMW9objVqdG1YNHN0X19yUzRPZmFMWHBZMWJuaV9DOEV3eVdETDBHRTd4enM?oc=5",
+   "source": "roundtable.io",
+   "type": "news",
+   "published": "2026-11-04T13:23:55+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Stablecoin Rules Under The GENIUS Act, Kick In 15 Days After New Congress Takes Over",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc1VkLTkzZXdMalVZeDlGV3lUaGoxWFlIeWZCRXFjOFVfVDdMQUNwRHB1YjB4SDFkdTFFS19lX21OVVYxcE5XdVF1QXFQZ3N3Z21VYTI1Y2RaM0k5MldBWXBWZkU0VmZJYzZYbmE1VFJnanBlYzF2WGgzSkNJY3Vnc0NuYVJ2ZGcxNXlFYWk2VFU0bHZ3cjE2aWxUTGo0bzZpQUdTSFd6X2VRcW55RVE0MThEMDJZZkxraTF3bXU1ZXJPLTFESm8xT3FuVC0?oc=5",
+   "source": "Crowdfund Insider",
+   "type": "news",
+   "published": "2026-11-04T13:22:06+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin",
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Mapping the Market: Bitcoin could extend losses",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTFllSUpWSFNoWk5IVUNWNmw4T2VBZFdpZ05aMWg2Q0ZHTVlHclJqakEyN2o1bmtnaDgwLVJ4NGlVWFdfUTBxUmdaVVVYaGRyU002cVM1NlU2NFR2VWFscTNxQlY3SkJlaHVxV3ItUDlOTU0zVDBISTdkUy1Za1FoekxkX0I5NHhyUVpvMGdTYnhrRHBfWGxvQg?oc=5",
+   "source": "Kitco",
+   "type": "news",
+   "published": "2026-11-04T13:15:45+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Morgan Stanley and Chainlink Advance Tokenization, But Demand Remains Uncertain",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjF4OU9BQ1J2NW9vajZzZ1ZObzZ6V3Z2S2htZUhXdFNaX0NTdDJRSkZxOEktbTRaZ1BYRXVsMTFHc0FjY0FLMllnRHYxSnI2QnF0d3M5b1ZpR2NZSFBid1FVRHBqVVpvSExqUjd3bWdTYUJiQlFpLXFlWTVnQ2FxWXdaeGVtTUkzb2pVcjNKSFVWX0l4WEd0WUt6TDVlUFh0aUxrZnZBRVotV1NaNjRGbUpB?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-04T13:15:22+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA",
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
+   "url": "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-04T13:13:24+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin",
+    "Democratic Sweep"
+   ]
+  },
+  {
+   "title": "ZachXBT Names Cr\u00e9dit Mutuel Ark\u00e9a in $133M Theft [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbkhxWTluc3hEUG16S0FkS3A3X3dlRzJtbEdtZG1vc1l0eXJVVEo3SXpIaHpqZ2NRVFVGY3MyaWZWeEFkbVg1b2piTTNjSzU4Y19jSEhZUnBQQVU0Rm1NcVVYdXE3YWxrMzZ3YjZaTXVFLXRxVEM1TUtRVUdKenhUSktR?oc=5",
+   "source": "https://tech-insider.org/",
+   "type": "news",
+   "published": "2026-11-04T13:12:14+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
+   "title": "Circle Q3 revenue hits $865M as Arc goes live, USDC payments grow",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SM2JDeXNTM1RUQVlNcXNva0EtbzFNTzNvV2hkeGhYQXRuNlJOdmtGT2R5T01PTUw0ajg5RjBBaUxZOGwxQXYtNnktTkwzYkhqNDFiYVRZU2ZheEF6anl3NE8wVUc4N0VJVWhNTHBId0thZw?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-04T13:06:46+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Canton CC Token Rises 4% After SEC Staff Categorizes It as Digital Commodity",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWZldGU1TEhOdVgxR2R6bzcyd0hGbTlSaGZhUy1GcC0xRkJwMEg4OU5GZE5IeXFLYVJ5MnZCeDJyN3B5YUNYb2FFRjZNOHBmWmlWTUFnczlTQUNnMTluczdRdTVFSlRCa1lNY09JblgyelI1RlI5WTlZTm5CNkZNWUhkbnFuNjZzTzNBX0xwUmw3MW96eXhFdVc1UmUzMUFHVmwxZ1llVEZoVkxLd3c?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-04T13:06:20+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "SEC"
+   ]
+  },
+  {
+   "title": "ZachXBT Names French Banking Giant in Alleged $133M Crypto Heist",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdjVHZWtRU2lyS1l6ZC01eDBwNE5uVUJna2VJdk80WlhOcVVSaUNHQmZ2VVhLMGNJTldUcFNiRUY0QkswVmllLXQzV2xUREVfT1dBb1FDeGNKVFprRlprMldqa190blRlbTJBR2hCSEtHYWw4alF4YklCUlpoU3NQZnlKdkFDYWxucmd0elo1bG1SRk40VFRVSFJ3RktmYnFtdk1B?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-04T13:05:22+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
+   "title": "Bitcoin Rebounds to $78,354 as Democrats Sweep Congress, but $1.16 Billion ETF Exodus Tests the Rally",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYVo4eHRDTUVUcWVBTDYwUWFSQ1FYdXdyZ2pheldPRUxVcTJWQXRPVzZJaDhGRF95QU13TnlZWTZmbHhWQllVRzhjbndOaXN0emVGZGtqVjVuVEg0MDFqX295NjlmT2hGYU0wdXZIempSaGpoMkE?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-04T13:05:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin",
+    "Democrats"
+   ]
+  },
+  {
+   "title": "7 Things Democrats Could Mean for Bitcoin and Crypto",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JN1V3UGowMF85UDNSdkhPczFvVTJfTEx3T3p6RTJ3NjhMMTRxT2I4NjhvVzVTMjZzYWVJMlc5S1VNT3RIWlIzVmlobU5rQ0Ffc2xrSUktMHUtVTdBeklhM2Z3dWJCLUpzMVVkQWJsejNSOHFx?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-04T13:02:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin",
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Roy Cooper Flips North Carolina Senate Seat for Democrats",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UTdYOTIzS2NZQzhnQ19kMU5DY2cwcTRKS1YtYUNWRC1yMHdSZ25CeDFYU0ZSTldUVGx2Ymd2TDZfZDVCWlBYTWxzeE0xQ1o2QkN2UnloRmR2bWM?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-04T13:01:39+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats",
+    "Senate"
+   ]
+  },
+  {
+   "title": "Morgan Stanley starts tokenizing US stocks and Treasuries through DTCC\u2019s new service",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0V2QlM3OWxnYkJmWEs5VmFmdmdfT2N4d2RadkRSNlNHUjcyRzJOeFpVUFMzNl9OQllVcnVsYjFaY2g0QkU1YWJqbkQ1dy0tbVh5RmxlR1o0cDI5dUU1cUlHbk4xVmhWcWtKc1NmdFRuZWtHMi1uNEhqSm1oa3V6YnBENl9XdURuT0R1RDU4Y0hjQTREV2NfV01CY0NIQmtqYnJ3SDdR?oc=5",
+   "source": "eGamers.io",
+   "type": "news",
+   "published": "2026-11-04T13:01:28+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Tokenization news: $1.1T Schroders brings emerging market bond fund to Solana",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdTU0YkFMQjZ5OUc1MF9sUDNRYXdFdUZvRHdMNFkxLUtyUV91V3RsQ3JBa1hBazR3OENqYmFSVnMwY0RIdFB1Z3NHcWMtNHR1TWJVWEY1TnRMQnpVU2tsN25WamVXNFQ2SUN3R21RZXBId01tQkVGVmlaZ0RZV3pDakVHNWtPcllGeXlwUmZ5NElIdUNaVWlDajFONm9oa1oyRE4tQllSZFljeXd5MUNKRnJXelVNTGtMeGc?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-04T13:00:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Yellow Card Acquires GoMoney, Expanding Stablecoin Payments Operations Into Brazil",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDdEOUg5MEFNbnFrSHF5UmRKSmVrSXhxT19SaU1qZ014SU1Gb2QyNjhXOExtdHl0QTJTaWQ4ZWlVSUlNRWdQTTZteDU0Uk5KRFFWcWlubFFuTFhjN0c3a04taXE1bXRXWlRVejB0WGNwaWUzaVdWZU95T0dFYnFUQXFhZ3cyMWZhbnZWUlRDQkI1em5tWjF4bUF4SE5aX1J1TUFkWEZ5OTl0b1VQbG94UFNlRDFoT3kxaDZTWA?oc=5",
+   "source": "citybiz",
+   "type": "news",
+   "published": "2026-11-04T12:59:12+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Russia\u2019s Moscow Exchange to Launch Bitcoin (BTC), Ethereum (ETH) and Tether (USDT) Trading Next Month",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOEtQUE1tcjByZldITk1tNnZVY0hEZy1iYUFmbHNHQk5aRXJmckI1M1U3TWlFX1RrT3BHc1N5WHFTSUlVeTZ2TVRjWUc4ZG9jbUN0UDVHYzk0QkpfZkNUYnlTZmlzZy1nV3V4U1NfOHNGNlFLTVZzRlhhbDBiSzVUSS0xVUp2aTlmRnI5QWkzZTJ4azZYRFN2RTQyN2ZUYndMMmY4NjB5Q1dwcFcxRERiUDU1NGNYdnhOT2xSR0pqSGd5UXVELVh5SnUtVU9VcGQwNW9reHIxY2NvQQ?oc=5",
+   "source": "Crowdfund Insider",
+   "type": "news",
+   "published": "2026-11-04T12:58:02+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin News | Bitcoin Rebounds to $78,300 From Midterm Dip as DeFi Tokens Lead Gains",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FTmR3U0YtUGh4SHdubEJfYTdZSVpzSVAtY0xreElvZmhuSmRNX2Y1bk84MkJqNElqOGplanFhQV9jT3ozaVE4dTRTd3FRc1l3emJRUjAwVmZlM21rTGJqLVZnVWduQUhr?oc=5",
+   "source": "Binance",
+   "type": "news",
+   "published": "2026-11-04T12:51:41+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Democrats Lead Early in House and Senate Midterm Returns",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GeF9JWFJRVi0yWFRLYUk5UFNvSDlPbGhxN2o3cDFkM05Ydm9QQ012TDlUeDVTdHRWUFdza1dkU0NkUDc4NU5rVEJBWG9QUXRWbklQVFBjTWNGblE?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-04T12:49:19+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats",
+    "Senate"
+   ]
+  },
+  {
+   "title": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
+   "url": "https://decrypt.co/382493/usdc-issuer-circle-quietly-cuts-5-of-staff-in-profitable-quarter",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-04T12:44:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Use of RWA in DeFi Sets New Record Despite Broader Market Decline",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFk1S0xHSUI2TEFhamdTQk54NklsdjdQTFdQMlNEZHROTGVoVmh0UTRIcXEyQm5nZXoxRmVPZlRXTXhCMzJyVjVURndjUUp5NFlDZkQ1aWlQTnNtbUxzSi1jek5idFdmdHNzVHM1SjUtQkV6UmgzbUNYVkdqMFUwZlF4V0FZdERQWm1wUGltMnpRLW9WcEw4SVc1WjB3c3R3UGpTSlNQZHN5QQ?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-04T12:44:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkZDN1pkXzlfcFZheDQ1LTROaVVTdDA2bGI3LVdmRmhNa3BtVnFkVGNKcWczemJEWVRDUHRlTGpJckVQZUI3YVBSU243U21ESkZ0Sng5UTFvbWwtOVdEVFBFN3I4VTZxWWdIc0dYa3hTWjN1bDhyVDByblZxZmk0TGMyZFUzVWNHempVbnNTWjZSdTJUdkM4QU9xSGxCN0lHQ2pXWGZ5TTNmUVE?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-04T12:35:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "ZachXBT Names Ark\u00e9a in $133M Crypto Theft [2026]",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWlKUGpsbm1LM0g5cXE1aE9YWHFuWnI4UllLZk5NX3JyVDZ4eEM3RXVPRVZxNWh5blJKZjlMdEZGM193MzVLVnNyRmV5eVhtU0NBakpHTUxrYWRCVWVPZ3I5MjRDOHBSZlN5M2gwVDVfUWJ6bDQwbmo2bkRrNHB6SXhxRGtHRFh2bHhBc0VDV3owRTdwdzAw?oc=5",
+   "source": "shattered.io",
+   "type": "news",
+   "published": "2026-11-04T12:32:06+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
+   "title": "DeFi Technologies Announces Shareholder Call to Discuss Q3 2026 Financial Results",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUl82a2pIZTZEdWl6dXAyWVFtNXZ2MUJtdmpJci0xWjc0d3NxcFdCbi1FbzRDRXlna29BRXdURTFoMU9UWWRqc3RiMDNablVXV0wzX0FZZFVpY01UOGZPT1BMSXpKM2Y1VEdjcllPdnlfa2dyY3FGa3d0bnIxR0hicy1iUUlLcklFV3BxVTEyN0p0djg4MVl3LXBELXZXTXdzbUFxVjRYb3RqeGdFWG4zd3RaUGcxcTdQVGhDRlRNT2ItSkJUbzJrc1U2a29FeTVROUE?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-04T12:30:55+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Bitcoin rebounds after Democratic sweep despite three days of ETF outflows",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcnZPMjJBRXFTYTgyUk9RNEoyX0ZaRllmTmd1d1hwall5SHFLM2JEYjlxNDg5b2JZbklhalAwZUp6c2dJck51WTBGSUk4TTNmMERIMkpHanR1dVozZG9yMndSYVFKeG1wQkhFMlN1cUh0ektSZ0hHM3JMb3hLbW1vZWRVbF9FTE1WSFhWcFZESTBnaXhEaUIwRnZKSEJSNU02?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-11-04T12:30:18+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin",
+    "Democratic Sweep"
+   ]
+  },
+  {
+   "title": "Current price of Ethereum for November 4, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1INHFqNEtXQVVvWkhybWViMTREWHpJTnNray1DNmJ2b0p2ckU0bGpnY0RtMUhWWkRKaVdJUlBKY0lPeHVPd2hBZF9VYzh2ajV2bDVLNUl6R0lZQm5HbU5sVTN2MF8wQ01F?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-11-04T12:15:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Current price of Bitcoin for Nov. 4, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2SWNYaTZyMG0yNGdoTE1oWGVJSEZ6a0lGQm5tSzdXNUZTTUhjVjFaWWtkWnFsQkJRUk56NjJ4QU5HZWdnamY5ZTRWZUNJdWxaTEY5X2ZBaW0yd25lV0hhenNQbE5BaGM?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-11-04T12:15:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Here's how analysts are reacting to the new blue Congress",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-04T12:14:11+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Canton\u2019s CC rises 4% as SEC staff view it as \u2018digital commodity\u2019",
+   "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-04T12:12:15+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "SEC"
+   ]
+  },
+  {
+   "title": "Earn on stablecoins: How to turn market stability into weekly rewards",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlYjgzdURmdlp6d0R4SS1HTlYtaGxlSDFzUndXRW9UTHFSbkpyS0JtdTBEaGhVeUhINmllNVg0SE5QRUtWSXFQbDJtYl80S0JFUXB3aWFFTVFpLXJHTFg0TmRIZlotMXFvZUprYg?oc=5",
+   "source": "Bitpanda",
+   "type": "news",
+   "published": "2026-11-04T12:11:46+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Hedera (HBAR) Gains 3.08% on Lloyds / abrdn Tokenization Pilot",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lZXJLdlFqb3huc1BZMXpUbml3M2FMdTJqWkNMcnNETUJ0VUVxTWU3aEZ3OXlHM3gxc2lpRXpkMEVPUWlkcUEwbXNBNHpyUGxMSDlpSE8wQk9QanpqR1lELXphY1NCamhQbVZfRUlxZDI?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-04T12:10:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Bitcoin briefly hits multi-week low as Democrats win Congress",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16MEhwTkVCMnpJNUZSOXhoN0c3Tk9faFpQSHRUYVFqTGtPZmNRRXk0alNZOTYydDYwdWZpa3I3LTE2c1RWeDgxQ2NzTXZwN1FfYzhaOG9OZW84MzlSMTZQSEFCYV9lc0piazlRVk9JSHpVUGpJMW1FY1B0WXU?oc=5",
+   "source": "The Next Web",
+   "type": "news",
+   "published": "2026-11-04T12:05:35+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin",
+    "Democrats"
+   ]
+  },
+  {
+   "title": "Solana Tokenized Stock Trading Hits $657 Million Record as Backpack Leads the Surge",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3FFMnJpT1lZemYzamZGc25VTk5KQTZ2M1J0akV3RXhrVFVfUVdaLU4wbXg1QW9Uc3FsampodHJGb3dDOEJ3QUVlTEhvY2pmc1lPWnRyalR2WkpHb05zS0V4Y2hIdnByblVyRTVLMi1jX3BLWU5mUDhJaGh6Q3lVWFhR?oc=5",
+   "source": "Altcoin Buzz",
+   "type": "news",
+   "published": "2026-11-04T12:04:47+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
   {
    "title": "A Week After Binance Hack, ZachXBT Estimates $133 Million Crypto Theft at France's Ark\u00e9a",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKc3BwODZlbHNleU1IWGhkdWthQ25wMWlfNE5kUkFWM0NNVm5FNDVVcUVfMTJKeG95UUI4UEhvcEphcEZ6ZEhBU3g3LUxGbU5reWZsdw?oc=5",
@@ -166,6 +1280,52 @@
    ]
   },
   {
+   "title": "Morgan Stanley Joined Tokenization of US Stocks and Treasury Bonds via DTCC Service",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXhPSEd5SjlkUi1jQ2c3OW1fN2NIaXlKRV9WZ2JjV0o2Q21DTGFvN0JnVU5vSE5ld3AwX2hSbHRVNW9tbjVWWl9aR2lVdFkxTWFrNzV4UUdpRmN2UnZzaFJETlZnSmhMM0FaV0kxYW1iSVpKRXFjZXV3REtXOUp1N1ZNR1BwNUNKaHNwTFlkLXVscmRPejc1T1NzUHRCWU9oZkN4djNpVC0zdWNSblE?oc=5",
+   "source": "Incrypted",
+   "type": "news",
+   "published": "2026-11-04T11:44:38+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA",
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Morgan Stanley Tokenizes US Stocks and Treasuries Through DTCC",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXlNSnJXR1VRbUVqSVQ5Y0dfaWJQLVI3TkRkdGFnSWIyV3hQT2luYmtQVS1jLVFnaWlXTHhWdU16dnlqNVF3SU9FcTZUelFZbk0yM3NxNGxvdG9ZcDdHWERnVFdTMmZmeVlsaEY5d096OVltV3Fka1hiek9uZi1JV2tEQWpNS2YyUkllTHJOS2FzS2FiUVA5RGlwMnE3TldRRHVVVXdaZ3l3alo2a2tiTTlR?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-04T11:44:14+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Morgan Stanley Plans to Adopt DTCC Tokenization Service for U.S. Securities",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ncEZRNFZZcnVDX1g0d2VQd3JBZnQwbEVvbGdzY2xOZ3Q5N2tNLXlNT1VXb0xlcC1sRThJcW9FU3VPVVdhQXBXTVVQNEVGQlNlQ0s1M1JNaFE?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-04T11:43:40+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA",
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Bitfinex Confirms DeFi Security Incident Without Disclosing Loss Figure",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDRfbzFCekdNODVydUhITUlxTlFhLWNNcHZZV2dMRzdMRW5WZ1hZTnRYUjdrS2RqTFhWOVl1QjBGS09YUXNRcm1IU1lITTNrSUx3MkdRdktVaXJiRER1YnMxUFU1eWgtbUN4T0lCalo1ckpNR1lzVzN2MU80SlVyRmVtUDVlYmVRdHltUE1Zcl9ObFBMaTlxTGZMUFkyQi1PZmdaRXhrcVFrc3F5cDdCdA?oc=5",
+   "source": "OneBullEx",
+   "type": "news",
+   "published": "2026-11-04T11:42:37+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
    "title": "Bitcoin Tops $78,000 After Democrats Win Control of Congress -- 2nd Update",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjVWeXJ6blFVVnhQM3dQQ0pTdzRpUXJJUU5RM2tBdXBlT3hEZXNmVVp1cUhlcDZvRC11T0xnZ2Q1NEtpc0tlZnNScTQzeXFWbDNMOUQzWUtqUms0eTlQNHphNzRoQlkyWkNFRUVJaGlxeVFVNTYxSjNudlJSWnNxSmVrREVidnU4Wk5vbWhUa2d5WkNxZ3hGQTh6TXdDRjA0Sy0yaWNuZ3paQTRRazNHQVBVTm5iLWRJazV4b1ppTE8?oc=5",
    "source": "www.marketscreener.com",
@@ -175,17 +1335,6 @@
    "topics": [
     "Bitcoin",
     "Democrats"
-   ]
-  },
-  {
-   "title": "Bank of England races to finish stablecoin rules before 2026 ends",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmQtcEkxekt1UHpKWlUzQkItcmYzMC1sYU13dWgyLS1aR1pOTl9wb1RqZ1F1VmdPcDdxRmpJYWpIZ2Z5OTkyTUVYSW5WOWgxYldvb0hDZy1wMkVVY1FReG8wcjFEY3lZRVV2VFp1cXkwYVQ5S1VlaW1UazlfVkU3d3k1ZjF1WXBNM3lORVhsU2dkNGJ0TUd0dg?oc=5",
-   "source": "Startup Fortune",
-   "type": "news",
-   "published": "2026-11-04T11:35:59+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -200,23 +1349,23 @@
    ]
   },
   {
-   "title": "Vitalik Buterin Warns AI Raises Crypto Security and Privacy Risks",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FWlBpNjg0V3dfNW40NEVZOEFGOERtS3h3Z1R1ODFFR2d4T3NVTGRfOWpRZmhtaDhzQWtxRTVZRXRjejRrUmJKSzBZTnJRdmpwVnNETWMyXzhYVzg?oc=5",
-   "source": "www.tokenpost.com",
+   "title": "Morgan Stanley Tokenizes U.S. Stocks and Treasuries via DTCC Service",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkNfc2FIZWQ2V1RjZ1hsZThSU3Z0Y2dHbm84U0o4M1dxZGFnUmY1aWk5NzBObFlNNnVRTmVDSzRrLVh6Tk5JUE5yS0t2Zzlyc1pxZGRmLUxHblpuYk1IZFFjdWxOWEtaR2dwdlVXem9BUUFIVU13Zi0zTzhCRUM1SzRZNVEzT3hIWVVROUU4bWY1M3lYOEE?oc=5",
+   "source": "ForkLog",
    "type": "news",
-   "published": "2026-11-04T11:32:09+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "published": "2026-11-04T11:30:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "Ethereum"
+    "Morgan Stanley"
    ]
   },
   {
    "title": "US Midterm Elections: DJT Stock, TRUMP Coin Fall While Stocks, Crypto Rally With Democrats Sweeping Congress",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYjJhOHhmNnpZQjRUdjNHeFNoQUdIcDdtU09JcHFZY0tNbzA3Qy0tQmpXVXZyNWdsMl9YZVA0Z2M0ZDdmQnY0VXN2bFIyQWNXOXlkSjVZdTc5cDR6TER2UzZWRExWdkNjS2RMVWR2dWpIc3htb0hPbUZUMjBueTBXYllDTmRDY1JPR1V3c0lvYURPLUNMVXFtczBjOUs2MXBCeWo0WEdJZWdZMkhVUkpYMWlCbGRsUTd6YlhXX05nTkJQT29iTnJtUDFnbmJFQUxqUUUyenFIbTRIUnFDcDhyUUt1Z0NibHVMNFlkZmR3Qzl1am05LWpXZTBFSk9Udw?oc=5",
-   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZkU1ZEV1YzR3VzZOVWpDdnhYejdnSFhFT3lPb2IwZFFPdk14eHUyTmNSSFBRMzdVUFhHTmJVR2VIMTFEVDdCbU9DSFQzZHREOXBxWEJwUUgtOHVaa1A1U2xzZUh2V1llYUFra1JVRzREY3NoSDJtQnJYbTlRWHF6ZFluN2ZRblMyTmhtSTVyUkhfcGhwN1BIYTh3SUNGcWhMS2JTQVBjSkg5T1F4M2NZbHkzbGpjMzlRbDRKLUlwaklIcHFmUGhjdkVKTGxCVEQzRXNOSy1odnNLTng1OXRWdkpCVlRaamZLYXhoSWxRVEk5UDFKNXVlMTVR?oc=5",
+   "source": "TradingView",
    "type": "news",
-   "published": "2026-11-04T11:30:11+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "published": "2026-11-04T11:28:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
     "Democrats"
    ]
@@ -229,29 +1378,18 @@
    "published": "2026-11-04T11:24:49+00:00",
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
-    "Democratic sweep"
+    "Democratic Sweep"
    ]
   },
   {
    "title": "ZachXBT Names French Bank Cr\u00e9dit Mutuel Ark\u00e9a as Alleged Victim of $133M Crypto Theft",
-   "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzhReHNVTFVlaF9ka0tCV2xhclRzaWR6ejdSM2Y1dnU2d0k2NHdUNnBld2R6bGhfWVo3ajNZTnVuNHVrRUhmaFVzbi1HeTktV284VDdfZU1UOHlOYTFtaUhmN0V1VV9kRTFLTjh4TFpKdFpvY3ZSX1YxQ19nbmlKSkhHXzFXWEZuNm54a2Q2MHJ3WnRBWmRFRHpsanBic29kUnZzQUVhc0ZnUHJmMUxV?oc=5",
    "source": "Decrypt",
    "type": "news",
    "published": "2026-11-04T11:20:31+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
     "ZachXBT"
-   ]
-  },
-  {
-   "title": "Justin Drake Says Ethereum Can Complete Post-Quantum And Post-AI Transition By December 2028",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd1l0a1VPLUFaRkRQYlRjaFhlZDJiNnZPTjd2LVFWWlpoWjBkSU5sTHJGUnd4N3FDSHAwdXV4TEZxOW1JdTJzTTgyRjE1UHl3cVV5bWE2XzhUSmh4RjBYU1k4c0hoS1QwcXhJemp5WjBIeFNmOW9tdlBwMW1tWWxHZzllUTdnVmFyTjhFOWhvd1U2U0pseW1NZ192UFkzbjJyNFBuS2JtaTBFcGw1V1N3ay1EcnZkam85RHI1dFdqYncwVVByMHpBcW9kWHBZVzl1LThvOGk2NmhORkpuUVJlMGg0VTdZYU1hWnc?oc=5",
-   "source": "NewsCord",
-   "type": "news",
-   "published": "2026-11-04T11:19:59+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -266,18 +1404,7 @@
    ]
   },
   {
-   "title": "The AI trade has been \u2018sold to death\u2019 but Goldman strategist highlights silver lining from Democratic sweep",
-   "url": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "type": "news",
-   "published": "2026-11-04T11:10:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Democratic sweep"
-   ]
-  },
-  {
-   "title": "Cr\u00e9dit Mutuel Ark\u00e9a Crypto Theft: ZachXBT Cites $133M",
+   "title": "ZachXBT Names Cr\u00e9dit Mutuel Ark\u00e9a in Alleged $133 Million Crypto Theft",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWJnQlB0a0JyU015eFRRWVRKaG1JSjBSMmRULXJvc3FKSkc3X281UU9Vb2JZQ1pFdUN4R05LaUdKMTl2a25rY1diSVB1SXFlamFIN2pVRXNxd3ZzUmFDdlM0QWlYRFlmYzJpMHh6UnNBUHVrZWFpZTNCOEY1LURrRlk5QVBKVkpTeDdiREVWSy03YUtPOERBRkFhT19QTWphOUp5WGp6M2FzcUVzNzFRX2wwR0g?oc=5",
    "source": "Bitcoin Foundation",
    "type": "news",
@@ -288,14 +1415,14 @@
    ]
   },
   {
-   "title": "Mapping the Market: Bitcoin could extend losses",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNm9yeUVlVkVwM3RFNm1tMGFnMEVWellmVDZQQ2lGQ2hRR3VsMUVuSFVEN29BRHZ3Wnk0b0k2SVFpUk5WcGRYRW1Kck0tR3lSeDdiTy1LdTNMZGNBcGpndUUwNkRDRl9NNmRsZFZhWkhqa3VOY3VJcGdXU0k5d2dydThGc183cGM?oc=5",
-   "source": "Reuters",
+   "title": "One of the biggest problems with bringing DeFi to another ec",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGVEhWd0Z0T1JKTzdqS1psMkl4R0toWk9XRzB3RWhkZVd5RGVGQjhQNUN0bTFrZzZPbmktdlZrRWxMVjNqUW5pVDZpcGhna0xFV2FrVGZCbXlqQXc3ZEtPeW1jbmprc3F0cGE5Tmw1Z1NPZw?oc=5",
+   "source": "KuCoin",
    "type": "news",
-   "published": "2026-11-04T11:06:09+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "published": "2026-11-04T11:08:04+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "Bitcoin"
+    "DEFI"
    ]
   },
   {
@@ -333,6 +1460,29 @@
    ]
   },
   {
+   "title": "Why Midterm Gridlock in Congress Matters for Bitcoin Regulation",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVBFVllzUkVWSnFJMFBpWGEwVGZwQkU2eFZWeTktOVdoTVF3cFgyeWttaElWdnd3T1BjcHdrU2IyN29jN05ZU1NsVktTT3l4T3F4NkVTTmREUWMteERxdi1UTy1oeEVwcE4wSHpaWGVsY0VtWklGcFNpZjJXaVN3WWtPdG9JbFdCcmxmeTR3a2dCWjJVUVFJSDhhNkhRU0VKX1JQNQ?oc=5",
+   "source": "StoneX",
+   "type": "news",
+   "published": "2026-11-04T10:52:11+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin",
+    "Democrats"
+   ]
+  },
+  {
+   "title": "ZachXBT Says Exchange Accounts Drained of Over $133 Million Belonged to Cr\u00e9dit Mutuel Ark\u00e9a",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU1RSODNhWThHbVhBT3JxbzBwcTFvNWswZ0hSalBkcFg2MjhoU2QtVFVBNExSRlhncktJS3FlLXBRZ2ZtVFBkczZDcHFhYm5iTzdwNDQ4Z3d6MmFQRXRzdjV4RnhUeWg4ajR2ZjN2NzFtWFJjM3V4WkdsY2dlR0E3WWI5ZmFPUHBCVFc0QVR5cy1JdGV2RU1LMy05SkYzeHdYb0FmUWM2OHlhUE91bmotODd4OTFUUVdna1pF?oc=5",
+   "source": "unchainedcrypto.com",
+   "type": "news",
+   "published": "2026-11-04T10:45:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "ZachXBT"
+   ]
+  },
+  {
    "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
    "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
    "source": "CoinDesk",
@@ -342,6 +1492,17 @@
    "topics": [
     "Bitcoin",
     "DEFI"
+   ]
+  },
+  {
+   "title": "8 Questions to Ask About Stablecoin Adoption in Treasury",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1FaN0czdmMxRDlsMGxjSkVHQUpaS2Zsc1NKV2xONC1FRFBLRWZabEwyUzBCcDJHcmNkQlljM3JoOFAwa0wySzNVT0pOUWl2Qjd5T3dHejU2MUlIXzJlZ3lOYjZYWG44czVtaWNoczFjVjg3d0E2ZWpDWXB0TTJUXy1kWTNCM2U4TnBTMWI0dmp2RmpxaElETWNUaGVpQkg0Zi1Z?oc=5",
+   "source": "BNY",
+   "type": "news",
+   "published": "2026-11-04T10:37:24+00:00",
+   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "topics": [
+    "Stablecoin"
    ]
   },
   {
@@ -367,18 +1528,6 @@
    ]
   },
   {
-   "title": "Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWg3aW5QeW04R2pKaV9WdFp4XzJZdkJnaEw1UEdLNGZINHJBZk5UYldBX1FsY1Z3eUxubmphN1hvQnJJNFdERkJOcjZPMXppclBsN2hOZGZxVUhMZGRydHYwSlVpTXcxekxDZzQ5OFVFS1h3czZwVzQ2VW94VDNLdWdsbm5heHIteUhDZ2RjaC1SWlFycGNJSklZZkVWbThkQjRJQlF5QjJfMEFNWVVLa19n?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-11-04T10:31:03+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Bitcoin",
-    "Democratic sweep"
-   ]
-  },
-  {
    "title": "ZachXBT names French bank Cr\u00e9dit Mutuel Ark\u00e9a as suspected victim of $133 million crypto theft",
    "url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
    "source": "CoinDesk",
@@ -390,17 +1539,6 @@
    ]
   },
   {
-   "title": "CFTC Approves Stock Perpetual Futures: Hyperliquid Explained",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1l3aFN6TkFnRl80RTlJRTJrWXhhNGlHSGlIQml1N1Zyd0Utd0JpV1diSmV6OFZpbXN6QmRjR2c0R2VVLWxEOFVXUmU5NXBsTlF0RzFIRGF2NUo3bTZGQ0pDOV9oYUZPMTBjZ0FzM25SMjhndXF1ZjdJSDJGbGtmNk9yQXI?oc=5",
-   "source": "CryptoTicker.io",
-   "type": "news",
-   "published": "2026-11-04T10:12:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
    "title": "SEC ruling lifts Canton Coin 6% as a16z sees pathway out of securities laws",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOU1tWGg4UlZGaXhGQTA2R2M1aW5CMlNlR3hmSXhsZ1VJMEpPZUFzUzhRSGdBc1l5UGlyQzl4MXYzQ1VVMGtPUFB0dmZHQU5OVjAtV1hyR0dETS1vZG12UzNQNnlpdk4wNURqT3RRZlF5MGhENnZ4SzV3dVFqV185WmFXRmkzYy1DZ0k2T1RZUXg4WldhYk9MT3FpUUpILVZk?oc=5",
    "source": "CryptoSlate",
@@ -409,6 +1547,28 @@
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
     "SEC"
+   ]
+  },
+  {
+   "title": "Morgan Stanley becomes one of first banks to tokenize U.S. stocks, Treasuries through DTCC",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zaEhyMEJncFFfNFptbFJJOFZNQWh0aXE3eVNtcDVBOG1wMXM3Y3NOWjBLNS10enNnVzdZOHdsWmhQUk9DOVZHQ2lodlA3dVZrRlJ2LVNVbUozMlNQZS1HRHNjM0s1S1BiblV1QzEtLTMzWW03b1UySjBiNA?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-04T10:07:02+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Bitcoin Is Still 38% Below Its Record. Here's What $1,000 Could Be Worth by 2036.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHhmcFNQQmdKSDhabnlKRDBvNHJfOTJXYndyU3BSeVlycFpkc2dOY0xRNzZjU2laVDdJS1hFWjE4bnpRb1cxcy0yQnJoWkRjOXA2YTRwRkpfdEgxaFR1cTZUTU05SFFocVNaN2RaNjh2R3BjYXNGNzZ3OGE3VXVXcWxTaW5HcUk0M1dWYkkzaXMxeFdmUFJxU2Nn?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-04T10:05:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
    ]
   },
   {
@@ -430,7 +1590,7 @@
    "published": "2026-11-04T10:03:33+00:00",
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
-    "Democratic sweep"
+    "Democratic Sweep"
    ]
   },
   {
@@ -447,71 +1607,14 @@
    ]
   },
   {
-   "title": "BTC USD Bounces to $78,500 After the Midterm Blue Wave",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnSlZiVzJtenhnU2I4THBuTGQyZHAyZ0ZiVXphY1VENFFJVnBkeTQyZTFLQ3BscWtHcmtOM3hRWTk5bUd2T1BpeENJV25CVGpucjkwMkpXMDkzVGJKOUs0LVJTYW1md3ZNMC1zZWl2T3Q2TVpqYmc?oc=5",
-   "source": "99Bitcoins",
-   "type": "news",
-   "published": "2026-11-04T10:00:09+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Holding Bitcoin Paid Block 4x More Than Selling It to Cash App Users",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SMGJjbjhlejR6YVZKVmtRUUNuUzk4T3pSU0s0d0Q2ci1neTFpalp3ZFN4NnhFYWhJTWdFQVpYRUpqZm9fQUpvTVhmRTZvRTJLaEtNMkNmV2FmSWRkbENGcS1odmg?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-04T09:56:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Democrats Take Control of Congress as Bitcoin and XRP Rise",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16bXF0RWhjZDExVzkxbHl1NE1ablYyMUxyLXRTNkNjTk9kNklhbEVhcllJWlZveldINm5WWVlnaUpJVlZSaklNbG9WMFpmZG1TbTBpeWxKSmtIc0k?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-11-04T09:55:51+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin",
-    "Democrats"
-   ]
-  },
-  {
-   "title": "Bitcoin whipsaws after Democrats' victory as lower Treasury yields and US dollar provide support",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEFuNmtfU1VORnFrMS02UTRiaXQxYmZNR0paTlFPRkVMT0JEcE11Tlo0QktMUzA5VDRhNGZuNzZNWWVBSFcydTVyTFFqUHhfdzR3NUhaVG9FS3E4OFduV0NGYzdfclg5QUE0dzdQMkZnOTVjSkdENFlrVEcwR2Z2dnR0NlE3M3lNYUR0R25NS29fczV5S2FxZHVYbDVMYnYyMG5wbFVOaS1rNUVJcnpBbHIwMVJnd0x5d3FuLUdWdVVsaUNEeTRHaEI5cjY3SW5sMDJR?oc=5",
-   "source": "investingLive",
-   "type": "news",
-   "published": "2026-11-04T09:54:43+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin",
-    "Democrats"
-   ]
-  },
-  {
-   "title": "Bitcoin Is Still 38% Below Its Record. Here's What $1,000 Could Be Worth by 2036.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWpNSWpkSWFJVkZPWGhTUmpQSkpvanlNX0V4OEJGdEVYcjR2bU1kQkRUOEY1dG9YY2MwakhQM2NaMGxQQl8xX3JUa0tEMngyRUJzUklDeVYzRE01a3Y0VU1BeWV1Mm8xRnA3WTlDVmxuczdjQlVqWU1zZjI1Y1NBWUlvbEJERU5ZX2FHRQ?oc=5",
-   "source": "The Motley Fool",
+   "title": "Democrats Sweep Congress as Sherrod Brown Survives Crypto\u2019s Ohio Spending Push",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXI0NTR3dko3V3dzcjRxWHVUMl9DZHpCbzhkbERNUmZkVkdGZ0s1MmRkNGhRbjFCb0dISjVMbkhudHFYbnFhMTJzTjFVU0tjV3c4RURlZXpnQnFJcnVUbXRIYkhsR29Qc19xNUxnb3JPTERUUzNvbHl6MFBMczJ5czIxRkVxbHBTaTRyUlpCcXFUOGVmdGxyLXpFYllFLXR5TnF3Z2wxZDBodw?oc=5",
+   "source": "unchainedcrypto.com",
    "type": "news",
    "published": "2026-11-04T09:45:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "ZachXBT Names Cr\u00e9dit Mutuel Ark\u00e9a In $133M Theft",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSTlFYODlyWk9mcGdiOXJRa2dMTnVBZ0wzSXowNHdoOUhlbUFwNWFONjRLOGQxMzJMMm1Ka0NhbGxkeGYzMmloN0M2VnhZMTdocDNTa3o5Z3F6ZmNNS0laME8xT01LOUlFX1E1VnNhWEh5R2xUaXBhTTlB?oc=5",
-   "source": "BlockchainReporter",
-   "type": "news",
-   "published": "2026-11-04T09:43:28+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
+    "Democrats"
    ]
   },
   {
@@ -538,6 +1641,17 @@
    ]
   },
   {
+   "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC\u2019s service",
+   "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-04T09:37:45+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Morgan Stanley"
+   ]
+  },
+  {
    "title": "US midterm elections 2026 as it happened: Democrats win control of Congress",
    "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -560,28 +1674,6 @@
    ]
   },
   {
-   "title": "Bitcoin Hits 6-Week Low: Midterms & Binance Hack [2026]",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0xaTm0wOU01Y0c0NEhZazRNZFppOHl0eFlUaXdnNnRaeThrZ2tkcXAtSzZMTFFNMmNJRHNlQmJpYTRmNmVxWnYzcDhHZGYya180WDZDSk5tMUh2a3ozRXhCTVNlSUdWekpqa29aVTNVYi1ET202T1JDc2x2cjBiNQ?oc=5",
-   "source": "shattered.io",
-   "type": "news",
-   "published": "2026-11-04T09:26:50+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "8 Questions to Ask About Stablecoin Adoption in Treasury",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1FaN0czdmMxRDlsMGxjSkVHQUpaS2Zsc1NKV2xONC1FRFBLRWZabEwyUzBCcDJHcmNkQlljM3JoOFAwa0wySzNVT0pOUWl2Qjd5T3dHejU2MUlIXzJlZ3lOYjZYWG44czVtaWNoczFjVjg3d0E2ZWpDWXB0TTJUXy1kWTNCM2U4TnBTMWI0dmp2RmpxaElETWNUaGVpQkg0Zi1Z?oc=5",
-   "source": "BNY",
-   "type": "news",
-   "published": "2026-11-04T09:24:18+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
    "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
    "source": "CoinDesk",
@@ -589,7 +1681,20 @@
    "published": "2026-11-04T09:22:58+00:00",
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
-    "RWA"
+    "RWA",
+    "Morgan Stanley"
+   ]
+  },
+  {
+   "title": "Morgan Stanley leads tokenization trend among major banks",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ2lFSVNzZktrRFJ1ZG0zX3JReHZPdnVSOTdYOElNaDA1eEwtcXBwR0pnRlFqTHRGLUJzWFFKVVBnMWhxUm1GamUxT0tyc1F4QmttSzdkLUhNWHJ5OGs4Z09YS2JOM0V1Ql96bUFYMlBJMlg0QkI5QTVZTHhGMDNYRTVpU1QwdE16UHF0M2p5dzV6SEtUN3Z5TVVXS1FwTGpQTGdWRzdVZEttQkZWa0ZwV0hNYnpmVURESU1tazdvam5VaF9ucFZIWVF0Yjd6cnVuQ1BoR0syMA?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-04T09:22:58+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA",
+    "Morgan Stanley"
    ]
   },
   {
@@ -601,7 +1706,7 @@
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
     "Bitcoin",
-    "Democratic sweep"
+    "Democratic Sweep"
    ]
   },
   {
@@ -623,30 +1728,7 @@
    "published": "2026-11-04T08:58:48+00:00",
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
-    "CFTC",
     "SEC"
-   ]
-  },
-  {
-   "title": "Bitcoin price outlook: $76,500 breakout level faces key test",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2pkZXh6YWxyem9zRTlJWkxvb04zLTRvb2t5SjlPb0ZpZXEySU41YUJoLVVqaFlzVWdQbWpybFhLWTg5WHFsY2MzbEdUaEtZejA3RE0xMl9OUWFzdzJsYklNcmFHcHJ4bUJFUVJYWUllcUN5dVRKTkhGa2Q1QUxSaTBLbWdDZDg?oc=5",
-   "source": "IG Bank",
-   "type": "news",
-   "published": "2026-11-04T08:58:42+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "US firms face 2027 scrutiny as Democrats win both chambers",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxS1l0Xy1jQ2ZvbWxpcUtab0hPOUZXWlByMGhoLVc5LVh6WXRkSFR6ejcwN1VVRjdkbWVMMGJqekp2QUdvV2MyMzhDSVJnQXJ6bWJUTnF2TndrUlFhY0lBS093QndDNjQ?oc=5",
-   "source": "Nation Thailand",
-   "type": "news",
-   "published": "2026-11-04T08:58:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Democrats"
    ]
   },
   {
@@ -669,19 +1751,7 @@
    "published": "2026-11-04T08:42:00+00:00",
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
-    "Democratic sweep"
-   ]
-  },
-  {
-   "title": "Oil, Gold and Bitcoin After the Democratic Sweep",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1l2X3ZtUEVlV0Rhamx6emJOMnlPQlFYWUJJWG5lR0Y5WHZZb3dNT2dCcGZfM3dTckUycEU1bXNjSGc4T0p5Z1AyLVlxSXJsMHk1ajEwYXRyQlBjR0p0ZTNvWXhaUDVHLTFLeWpZSW1PVTc5NlRZMlYtU1dESXVfMFdtUTJVOVpienV1cTVuVmVjbU5NMC1zd3dsRVRuYjhwNHFQX2VpYUNLUQ?oc=5",
-   "source": "Multibagg AI",
-   "type": "news",
-   "published": "2026-11-04T08:41:48+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin",
-    "Democratic sweep"
+    "Democratic Sweep"
    ]
   },
   {
@@ -708,26 +1778,25 @@
    ]
   },
   {
-   "title": "Tether freezes USD 1.5 bln in USDT after Binance hack",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmxtZ2Ixc0NuaTZSWXZPelFKSXdwUThxUlVUQi1sbFJVb0NkMlBsV3BGSG9PQTBKb2J1ZTdsbFVuM2JqdzNPUENiT2VkeVZ1ZS1ZZU9UY2JleW40Z1lnMUlSaWpySGZDTkN1amg5eEd0TklhTVBMR0cxeTd1ZFpoUUdkSUxTVWE4VDhDTnllWUNLUWJoLTJVcEtpajYwQVByM21jMHdFMnBuN0lDTGc?oc=5",
-   "source": "The Paypers",
+   "title": "ZachXBT Links $133M Crypto Theft To Cr\u00e9dit Mutuel Arkea Via On-Chain Tracing",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVl9VaFk4UUFIaURpaC13cXMxSUx2WUQteE51MXNNUFVYNzh3NkFwamFIYW42MGJ0UEhKOE9ybVJUUDMxdC00UUxHcDNkRmgwNnpMbmhzUFg2cUlUUEQ4R19ZV0FYZHZuemhQRjIzWTI0VWVYSklIbUd6bkRBbFVBWktXdFZ4ODQxY1pZbFJ5ckpLa19HWGljZXN3Z2xyMDB6em1PSk5ycXMtRUZXV3lENVZSb05Xdw?oc=5",
+   "source": "OneBullEx",
    "type": "news",
-   "published": "2026-11-04T08:20:23+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "published": "2026-11-04T08:23:58+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "Stablecoin"
+    "ZachXBT"
    ]
   },
   {
-   "title": "Bitcoin selloff eases as crypto traders absorb Democratic sweep",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWpuSTFldUdPcVloQzV3WHlnOWRjczRxS2FLXzQ4Tm9zRVh1SGpzWHBnZGExRHVYc0ttSThxOHZtaWVfXzBodHE5Qnp0Y3dVRkNKdE1uUkFtQ2ZybXptV1M2dEZ2T3BIMzFnTzlJSDJJYzNwUmVmWnQ5SExsaVpzXzdIanU1YklCcGQ0UzFqWU1HY3ZOaHh2MXRRSFlzVWoteWRhTlBFbnNnU0s4RUFWMnJLel82cGtvNUhybDZ3eFVzM3pr0gHKAUFVX3lxTFA0NnhDMVE0aFdFLUFhdmY5bElOSVRKREcyZDBIV0lPREViWE5scDU5MEJ4ZWxMRGdfbEpwWGNENTlkLUFrSjRDRkxGYXNmODZub3pmZS1XQ0NYNGdFYi16WmtOdEJWaTNJY1Y5bFA1ek12c3Uyd1gzQ205LWF6bHBJalg1czg3bm9Nd3EybWdRTWIyWHlTMndwbUVOWXdQY3RGY3hTNVRfdHhfTVE0VE54SW91ZXM3UnVidE9BTk00Tnprdm5tWTJuMkE?oc=5",
-   "source": "Moneycontrol.com",
+   "title": "CLARITY Act Faces January 3 Deadline After Democrats Win Congress",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGRkM1pMSWZvamcxTWZlNEVYLWwzTTViQnlvRmc3blNVaVVoR3pqUmxaTElJMzhqQnBsV3dOVG04VTVfSEdVUUltUGF2V1liUUxnUkR3RFhfT1ZueGRqZndpek1qRjhCT1NNQ1A4dWZMZWVLVlp5bXZjTHR4MHNTSVZpNHFvV25ZN3ZaRWpqcEdnSUpNaXZ2bVdhdTlabVZiTmRlSk9XWjczdzQtT09qUzBB?oc=5",
+   "source": "Bitcoin Foundation",
    "type": "news",
-   "published": "2026-11-04T08:14:29+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "published": "2026-11-04T08:22:42+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "Bitcoin",
-    "Democratic sweep"
+    "Democrats"
    ]
   },
   {
@@ -739,8 +1808,19 @@
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
     "Bitcoin",
-    "CFTC",
     "SEC"
+   ]
+  },
+  {
+   "title": "Morgan Stanley Joins DTCC Tokenization Service, Covering $30 Trillion in Securities",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejBIdDdaMnowVE5neEplQ0pGV1dhQTEtLUp2UkFGOUxFd3pvbHo2dERmOThhWmwzeTZiUU1pMTFldVVFUTBrMkFJSTJ4VHZNVTBVc1puanFOZGdtOGNOWmlwdWlDNkMwd3pEVlozYk91NERkUGVFQWtOd2JzeHJrNmxubUExM0JaekdrTDFGZWp0M25qdTBJSzNFUFluMGhEbjZhMVJsazFhWmc?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-04T08:06:05+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA",
+    "Morgan Stanley"
    ]
   },
   {
@@ -755,14 +1835,26 @@
    ]
   },
   {
-   "title": "Crypto to Face More Hostile Regulatory Environment Under Democrats -- Market Talk",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1dnSE9mX1VPeGpsdEtDbmlrZTluTFRBU3VHaU1GUGZ4T2FDd1VYMElrcmRtRHVKYkM5QmZPQ0hPSW9UcGxFdFdKSDlZay13VUszS2hkQTc3TC05cWMyMjBSbnJPbnMxTXRmNjdJMXUyZkFaU3U5a21WYjVDcVZtV3c4cjlndzg1UGlSSHZPdFI2NVZneHR4MDdQd0FCNFRzWDlqcnU2amdXZGxPRHh4NW1QWENxeGFQ?oc=5",
+   "title": "Canton Coin Reprices 3.15% on SEC Digital Commodity Letter",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdkdYTHdRQ0txdlBxU2RFUlVYQzFaTVRiRm4tZ05GXzJxRkdBQTdtQ3l1NS1PMjJDbi1qajlGWmNSRUVoMWVCZGs5Q3k3clIzaGVycFZvNDJ3V3ZJeHlCaXVTeExjXzVTTGVhTGo4T3E?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-04T08:05:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "SEC"
+   ]
+  },
+  {
+   "title": "Morgan Stanley (MS.US) becomes one of the first to access DTCC\u2019s tokenization service: 34 securities covering a market capitalization of $30 trillion",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2s3V1B5a2dYWm1KNjdXdHktenk1ejk5UURfZE5qRTB0dktRd0FIM3ZLem42bFpuWk80SFh2Rnpab0UzUzQzTGU4b2o3bTdfeEpEYVBEUENhc240ZThiNmhlcVk4M2VTbV9TemJQLS1QNUdudnM2X29vdUd5TmlsaFZGc2hMaUJ6Y1E3OEdwMlZVZ2NuUmMwbW0yQ3FLYUU?oc=5",
    "source": "Moomoo",
    "type": "news",
-   "published": "2026-11-04T07:52:47+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "published": "2026-11-04T07:57:29+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "Democrats"
+    "RWA",
+    "Morgan Stanley"
    ]
   },
   {
@@ -846,17 +1938,6 @@
    ]
   },
   {
-   "title": "Global Stocks Waver As US Democratic Sweep Raises AI Regulation Fears",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTltOTJfM2JPZVhSaTJWQ3BoREhSSGRCcXZZMGE4OXpjT29zWTYzVVdXUHlkajlXQm90cDgtZlM4LUU1UGZPeWNmTFVZbTdfTlZjWnJUdk8tcnVDeklFdWpZWTI2a293Y2tRRTRYNVROX280WW41N0kzSVNpTXVtZlZnZlpvUHMzMDBqY2NuWWdPV1JxZkJsR1JoamMwbEtCTkhia3R2TlBEZzYwVUF3cUEwUWw?oc=5",
-   "source": "BusinessToday Malaysia",
-   "type": "news",
-   "published": "2026-11-04T07:20:50+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Democratic sweep"
-   ]
-  },
-  {
    "title": "Crypto Commentator Says SEC Classified Canton as a Commodity",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RQmZVTTJOVnVPcmVwMFVQTS1mcUVZRmYza3M2TkU1eGVvS0pQVEVqRHFRMFZjUFBrVjRFSmZqTDZ5dzc3WnZsZTdzS18zRHNBVHVVZENHYnBqQzA?oc=5",
    "source": "www.tokenpost.com",
@@ -879,38 +1960,26 @@
    ]
   },
   {
-   "title": "Why Midterm Gridlock in Congress Matters for Bitcoin Regulation",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWU3bkF1RmJGVkRzN3ZyYVUtQnJvRjlqUFVldlM3UENWVWdlX2lQTkFWdGxDQTBHcGc1cWpWa3dQcTh1ODFJMUJ4LUhiX3IwNlNueUZodGgxYUllOGpqY2xwXzNrdHdRaWlkX05NT25sN0ZJSUZKVmI1alZwaHBzNlJUZlB1ckxrQlA4SU4tOTlHeDNsLUNiM0NUVXk4eDlXQTlGUA?oc=5",
-   "source": "StoneX",
+   "title": "Unverified claim suggests Bitcoin bull run may start in four months, but no official source named.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXFybWpUNXpOUUpjU1dMOXRDaHFId2Z2dzZSU3RoNGotek93SDRTU2QzTDlkREZhcUpibzlkb0ZRYjdDcm9zYmFaWmVQWmV6RU54R1VSUmo5U2NIbExRX0xHc05MNS1RLV8yQ0NxZjRqcVEwVG81OE1SV05uODkwLUNhX29qMnh0SXVXLQ?oc=5",
+   "source": "Pluang",
    "type": "news",
-   "published": "2026-11-04T07:05:20+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "published": "2026-11-04T07:14:24+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "Bitcoin",
-    "Democrats"
+    "Bitcoin"
    ]
   },
   {
-   "title": "Bitcoin Hovers Below $78,000 After Democrats Win Control of Congress",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3F0V09FVGxrTFBXZzA3cFphVHd0VTMySXZONzNXOU1YVmdpdmhPZWVxS3JqQkhBWnFua0hmQllIWlFPaWlBWkxvcmtIcjhSTENNeDNqRFhkbEthRlNRc2pTMzJEYnhHX3pZSFBpRTRsNjg2Q0ZJeTROWXJ3bGhyai1BOXl6OXFmRkFvTGZOQXc2dFVRQlRxYllYY1psVGR3R0lhR1oxTXVLaFhQSE16TlJGMGhRTjJlZ0F0Rw?oc=5",
-   "source": "marketscreener.com",
+   "title": "Bitcoin rebound above $78k as Democrats sweep midterm elections",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNC1JT1o3MVpMRkx6c3k3VncwMVprZ3JsQjhpM3RRUDY3bmNoXy1WNzZiOHY2S0JKVGRHNTRPZkZlX3cyM1ljS2RKRTlQZjlfZGROUE5Ka1dtOGxiX18xT2tCbXkyeldVay1jajBSRXFILUFoQTRsa0c3cHJMNlFGcV93S25Xdkp2TE5QdXpUbldhZEc3UXp0WUVpUGV3NS1qSkVJTVk0c1NmcGRPdnphLVpFLW9mWkNqRGg0amtwd25PQQ?oc=5",
+   "source": "Investing.com",
    "type": "news",
-   "published": "2026-11-04T07:05:17+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
+   "published": "2026-11-04T07:12:30+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
     "Bitcoin",
     "Democrats"
-   ]
-  },
-  {
-   "title": "CFTC faces lawsuit after allowing perpetual futures trading on U.S. stocks",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xX0ZGOXlGRzB4NUFOaC1hWmpORW1EaHktSWNQUFV0aEdBNGVhekdZamdvc0ZLTTJYQkFWbXNFR0N6d2g1eklqc2NQbXBBdTJNRmFTdFlkcVozbDBoNDh2bHZVSHIyc1pISHFQbVN4VEJ6LVVJ?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-04T07:02:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "CFTC"
    ]
   },
   {
@@ -938,28 +2007,6 @@
    ]
   },
   {
-   "title": "Shopify and Coinbase Detail Stablecoin Checkout Plans on Base",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwLUFUOTRGMGg5MmQ0VW5WSmpIWFYybUtxeU81ZmxEajVpSU9HZTI4enBtNVB3blk5bjdaZ191V2dSNVBkbmFiUjlERGRsWmhrbXNuT0NyRTI?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-11-04T06:56:16+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "LIVE \u2013 Bitcoin Price Slides, Washington\u2019s Political Balance Shifts, Trump\u2019s Crypto Agenda at Risk",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMGFnTjdnd2tlb3R5dDY2TVZraXZ0ODNPTUtnWWt0QmRnRTh6WWF4NEtra21mMXBfNXV2UkdmdnZNelRqdUV0UzA2QXM0RXRjODg5eDNGaDFGNDBraGRXMUREcEtqaDZicDlrSlVuRzdsSTVnZURrMzBUTnVINUJNLW5mQ2ZhNDRWTlRyWWpNLUdFOTJYNHlXazRzVlpMZkxsSTZsbHJXYThNX20tNW4xdFVkNHhVV1JNTXRENHkzYUo5VmI5OGpnQUNjN25EZXlyWkd0UVdoY2VFcjlVNnBiVFNEbnFjcGp1ZGc?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-04T06:43:36+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Cr\u00e9dit Mutuel Ark\u00e9a targeted in $133 million crypto-linked fraud, ZachXBT reveals",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVm9xWDJ1XzJRbk5YZmwyUU16a05qYnNlLVdPQkFsdGZxdVIxNDZ2NEVYal9DM0RoUER3UHF6enRQczlXVGtiUExDdmV4OFNTREtwNmlCcjAzenRKdmVqMWo2ZnFLWlRTUHJIUVVkWHlaRmt2azJVakd2REtqek50aUF1VEs1RGNkZm1fQkxSbEdIbDVm?oc=5",
    "source": "Traders Union",
@@ -971,30 +2018,7 @@
    ]
   },
   {
-   "title": "Democrats win the House and Senate. Here\u2019s what it means for your finances.",
-   "url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "type": "news",
-   "published": "2026-11-04T06:27:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Democrats",
-    "Senate"
-   ]
-  },
-  {
-   "title": "Strategy (MSTR) Q3 Earnings Ride Bitcoin Windfall As Funding Risks Linger",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmVsSkRRTHQzNl9jY3ItMkZZVXpvWXdsZ2tiWEd1UGtVdzVHVlhwbldaQ0RwSkpFZEVlZlNaNVVKRkZKWWtVLXRLTFByd0RyeUhKWG1oYnpfT2w0MTF3LVVrWTMwWDhQVnZYRlVOUVFUVjlMT0g1LUlXTF9xN290NHJFQ1BrX3lOdnBvTEgxT0NHUjI0T1dYZTJIdw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-04T06:19:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades",
+   "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
    "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
    "source": "CoinDesk",
    "type": "news",
@@ -1068,31 +2092,7 @@
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
     "Bitcoin",
-    "Democratic sweep"
-   ]
-  },
-  {
-   "title": "Stock Perpetual Futures Face Lawsuit Over CFTC Trading Approval",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnRzUWFKTEozTE4xVXluNkJCQXlJMUZ4LVB0YlNVUFpBQUZaVGJfZlpWMjlMMWhHNE16SE84dXBuVG1TZ1BHbGd3bXd1WUw3MzNtQlVyODFNWVJocHJnNkxIR0tObjVJMTlPeFVSclc3c1BLbFNqb2NfZURoTnpwakpCSmkyVzFVTk5pcVN1RG9nQzRJM0wzVEk1YjkxT1FGSDI0?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-04T05:56:43+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Bitcoin, Ethereum, DeFi, Stocks. All in One Place",
-   "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFAwUWQ4VXhya2VKRjJRQ1RDcXBaOERyM1BGU2xqcE01ZGFwb3ZnY3UtcHBBSkdDUlR5WmdjbXlB?oc=5",
-   "source": "Paribu",
-   "type": "news",
-   "published": "2026-11-04T05:56:42+00:00",
-   "first_seen": "2026-10-31T17:00:14.135710+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "DEFI"
+    "Democratic Sweep"
    ]
   },
   {
@@ -1140,17 +2140,6 @@
    ]
   },
   {
-   "title": "Democratic Control of Congress May Stall Crypto Bills, Clouding CLARITY Act",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JTVVENmZmOXp3dHEwMUZNaUFaVjduZnR2dmUxRGlSZmpNcWZoSEdyYWJZZ1NGMzFGbVdYWE0yY0lMdjJuWkU4d1hYMF80bkN5ZGt5Rw?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-11-04T05:41:27+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Democrats"
-   ]
-  },
-  {
    "title": "ZachXBT names French bank in alleged $133M theft",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3B2d1dkYVEtb05kUEVxbGVxbGlDN0NwV09ZMHR2LVlqUVZ3MGNqSEdQWDdwN010Q2ltNUhzOFQ2TlJMU0xjYWMzMFE0SndlSTEtd01VckVXVWo5Nk1rakk4UGI4T2FySk8yZnJGYjhNM3FTa0c3bHRUbWs5TWRHZkRzNA?oc=5",
    "source": "grafa.com",
@@ -1159,17 +2148,6 @@
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
     "ZachXBT"
-   ]
-  },
-  {
-   "title": "Kalshi And Polymarket Price Democrats Favored In US Midterms, House At 94%: 11 outlets compared",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSy1RY1Z3TGh6TEhIdkdhVjNjSll3eFlsa0lXTzVvTURIV21VX3BfeHhuVFRVei1BTzhWNHFzOGp4YTlOa204ZmRVcjJ6OHhYN3VIakZLc3M4dUZ1RXQzZHJTRWkzVGpVd2FJOWozQVZMQkJqUXRsYkU0b2NVZWYzUG1aeS11cHV1bzFnV2kyNmxrc1huN0NFSS1vVXZOZW13X3dXc1I2MFF6MDd3SF9yUXZCTzI1dGpTS0E1RWd3ZktHMHF5el9YYlpmM0ZQRXBRMWhTcVVwSUJTVTJDUTZz?oc=5",
-   "source": "NewsCord",
-   "type": "news",
-   "published": "2026-11-04T05:28:25+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Democrats"
    ]
   },
   {
@@ -1182,17 +2160,6 @@
    "topics": [
     "Democrats",
     "Senate"
-   ]
-  },
-  {
-   "title": "CFTC Chair Says Equity Perps Can Begin US Trading",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGdaQWkzVnB4QlBpNVgtWmlEV09MR3lLWi1JZGJPNzFzd3ZMdGltR1RnUEpfVDdUZjFpb0wxLXliVi11Z2tLaDhUZXcwbnJhSGV5TkRMblN0Mmc5WWFXb2lFU0hDM2ota1BaVkMyeVE2eXJ0WkdpOU9WVTFFQ3ZSaERrVlZRSWU1US1MeENuN0RJQzBLOEE?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-04T05:19:11+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "CFTC"
    ]
   },
   {
@@ -1216,6 +2183,17 @@
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
     "ZachXBT"
+   ]
+  },
+  {
+   "title": "U.S. Spot-Bitcoin ETFs See Third Straight Session of Net Outflows, Losing $115.6 Million",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FejdvaTc5MTlEUE9nQ3p3WmhyVkNSSFBxWFZBamNoZlVnWkh6Q2pQNEtKaDNyTElHaFRJTzRRVUJsUkluZ2VTOWpMTEw1eUI5MDlGZg?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-04T05:06:25+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "Bitcoin"
    ]
   },
   {
@@ -1289,17 +2267,6 @@
    ]
   },
   {
-   "title": "Ether.fi Turns Self-Custody App Into Full Neobank With Stock Trading",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDFOV3pROF9DMUZqYnhXTWt2NUNGeGlySHpRbTFfMkd5RnJ6OEdtSGEtc2NrOFlFUFpYU1NxWGZGWGlRTDVZVnU1YXN0dWNLVFd1c2paQUhRMlRnSzRBdVRqQklTcWVxaFg1LVhjc0szODNVaDBEZmk0ZlRlSEJFbVU3Tlh2Umk5a1c5RVFHNko?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-04T04:48:19+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
    "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
    "source": "CoinDesk",
@@ -1308,7 +2275,19 @@
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
     "Bitcoin",
-    "Democratic sweep"
+    "Democratic Sweep"
+   ]
+  },
+  {
+   "title": "Bullish Picks Solana, Aptos and Ethereum for Tokenized Shares",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2V4QXFnQ0hOU0xteEMybktBTXJfaGJyN1RLWWNfcVlGRi15WVdUZ2xZV1ZCVTY2bkhReFRPQUs5RzhJS0JGRE0xcWFnY0h1Z0xrbW1neWxuc3h4MHJ6dmRPUEJwb3RGeXl4alplQ04xcnRXZFEwNVY5dkJHeGlUOFZOYVZJeHgzNVYySHB4STZCaWJXR0JLY0NEMkJqQlRmdFppMU1iTjBLQndFdGlB?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-04T04:41:59+00:00",
+   "first_seen": "2026-11-04T07:01:43.732118+00:00",
+   "topics": [
+    "RWA",
+    "Ethereum"
    ]
   },
   {
@@ -1321,28 +2300,6 @@
    "topics": [
     "Democrats",
     "Senate"
-   ]
-  },
-  {
-   "title": "US midterms election 2026 live: Republican strongholds fall as Democrats gain ground",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWFxa3pvaFc3d2JIQ3hUcnJjRWk1THVTQXZ0SVVqM0FzME9teElkN0RHU0JlWFhoN0syQ1dfQzEyLU9EM19ONmFrR29vNEduWXVsLU5EOVNNdEVrRVdzbGMzZUJ6X2Rwb19wWE85UFNBY3N5eXdVT1Z6OTh1dEJ5dzVmNVJiTU9KU2NJM3hva3F5aTdRdFo1MTVKNFZxSElCQlhkRHlhMmdTS2JhUmtR?oc=5",
-   "source": "LCX Exchange",
-   "type": "news",
-   "published": "2026-11-04T04:32:08+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Democrats"
-   ]
-  },
-  {
-   "title": "The SEC has released new crypto guidance and it is bull",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JSkJzRWxob1ZVT19iMmdScDVJbVhuVGxxQ1BlMURUN1lOelNHNlZkVUs3ZURoSVcwdlJ6RWlXZUd6RTd4QzFGLVB0eEZveG8xY1YxRWtzbTdKYUhFa3ZNQlZHLUhZaERGbW5oT3k5MGJuWkE?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-04T04:29:08+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "SEC"
    ]
   },
   {
@@ -1369,17 +2326,6 @@
    ]
   },
   {
-   "title": "Maine Senate Race Results: Susan Collins vs Troy Jackson and the Republican No on the CLARITY Act",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42OVpjLW9TcVhQcDIxVWRGR09ERE1yenpraGs1N2pIMURodXlvb0tTbHVxclBkYi0tODc4RWYyNjBVOWdKeFViMUJrUFdCc1RBUzBZT3lqcGRIVFpvMVhZUkRNNVJ3dmxIWG5taHh3Yy1acHpGanYtcQ?oc=5",
-   "source": "CryptoTicker.io",
-   "type": "news",
-   "published": "2026-11-04T04:03:17+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Senate"
-   ]
-  },
-  {
    "title": "Michigan Senate Race Results: El-Sayed vs Rogers Live",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Fel95Y1VXbVFoV0VzUDJVY1ZESWJDQkhXMnowSnFNd3FMMUtiU05WVjkzZnF1MlRLSG95SVlFMkZIa2hzOG9mLWNPTTZWdkQ1NXlVZkhYeWFHdVRLakc5TlB6dFdrUHkwNkJHeEplR1ZaMGNVcmE4Yjd3bFo?oc=5",
    "source": "CryptoTicker.io",
@@ -1388,28 +2334,6 @@
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
     "Senate"
-   ]
-  },
-  {
-   "title": "Stablecoin supply falls $17B as Solana card spending hits $141M",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUVxSUN3YW5TTEJZSllnZTVEUUY0bHJmRTJBUWU4R3kxbXdyNmc5WFR1SXV6eVZPNUdha2N0bkx5bXNjRk9mVjBDMGNvVEJWVjh6U0t5dnYwZHZoWUQyQmJ4ekNuMG94TjJXVFNrZ2dYQkY3a0M4d3BQajltNGExQ05WSnl4amVsemR2Tg?oc=5",
-   "source": "AMBCrypto",
-   "type": "news",
-   "published": "2026-11-04T04:00:20+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Yardeni Analysts Warned of Stock Risk From Democratic Sweep",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rRWhkdTZsa0FJYURjQTBNbld2b3VoeE1XcnlqYnF5SFd3Z0lfaURrN3oza2ljNTNCeWJ5RllwYmRMbFZjY2RLOE92RG45c1hVUlN3dDdJYVJNUQ?oc=5",
-   "source": "www.tokenpost.com",
-   "type": "news",
-   "published": "2026-11-04T03:49:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Democratic sweep"
    ]
   },
   {
@@ -1446,51 +2370,6 @@
    ]
   },
   {
-   "title": "Bitcoin Whipsaws Near $76,000 as Democratic Sweep Bets Threaten Crypto Agenda",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jN0NzdWltdDhWeC1paloyTFVTc2U1d01salk3TlRtRmJOSGFXRG1WMnl5Z1Z0VVZ2XzNCZnFCUkJRc2d6RnlvV2x5a0l0cC1feDhqdE9kN0RSRy1IaUMtWk1Fdzd1djhHdUVoTjNIRTExdjVHQUE?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-04T03:35:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin",
-    "Democratic sweep"
-   ]
-  },
-  {
-   "title": "Name Revealed in Alleged $133 Million Crypto Theft: ZachXBT Points to French Bank",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT0RuTENGQVJmMHR5QzlobC1CYWl0c1NQWlVrNUhuakVHU2tzSVE1U2hjbHFNU2dra1EyZjNyQTBPX0pudWRPcm8yeDFRWXBNbDBPSzBtQUpvWk85ZjRWSWg3QWhaWHZ4NWhpb2tnMU9wTGl0LUVfeFpvZlBEZF94WmgzUUw3OVIzemszNFVrUENtNFhvV1RGdTh3RDdrZWpNdDEtTkxRQWRpWlFlMXNDU2tBUWV2R0Nxenc?oc=5",
-   "source": "Koin B\u00fclteni",
-   "type": "news",
-   "published": "2026-11-04T02:58:32+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
-   ]
-  },
-  {
-   "title": "ZachXBT names Cr\u00e9dit Mutuel Ark\u00e9a as suspected victim of $133M exploit",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53SXRoY1JBY0E4T3NPb3Q4Q2pocEZzTzlkWjRIY1JlXzU4NkFfdm9sR1RSYkZxVlZQYnFBS21wOHk1U3pSakVaendtZElpNGJLTlk5RFp6WTI5VWNiZTBfSVVCOTAzTTRXZmF4RTIyNzkyMjUwNElv?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-04T02:36:39+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
-   ]
-  },
-  {
-   "title": "Can a Sovereign Stablecoin Replace Cash? Lessons from Palau: By Jason Fullam",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS21VQlcyazEwaGFzZWtMbmN2UG1GTlFOa3MwN05kS2dSN1RWY2xhZnZWRW9CREZPV2ZoSDg4WFFrNEdrY3d3WlFsTjY2Wl9MT3VxdmVsRm12clJ1M2lQTGRtZWEyekpscVkycm9QM2FxYk4ySGtCb0g0dmdHOWdnQkhmUlVJc05UeHNaYXFaRzNHUzVlZEFkbFQ4UGdkbEppc1FB?oc=5",
-   "source": "Finextra Research",
-   "type": "news",
-   "published": "2026-11-04T02:30:24+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "ZachXBT Raises Suspected EU Exchange-Account Theft to $133M+",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkg2SDh3aEJWUk9uZ0d4b2xaYWs2VGVUeTFBUFZCUmMxYXpqYWsxREtndnpoOWcycTJwTmhqZWtnWjJuMnJxZC1EbmwzWHhVSGx4Q1RMMEJTOWlzTGpTdTdkc1NDVW8zY0ZvOXluOTVnNUU2a29vbzRWd3RMNVFSLXljeElFWkFkdFhkR3VYYVNIY29O?oc=5",
    "source": "CoinMarketCap",
@@ -1520,43 +2399,19 @@
    "published": "2026-11-04T02:05:00+00:00",
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
-    "CFTC",
     "SEC",
     "Democrats"
    ]
   },
   {
-   "title": "SEC staff grants Canton Coin limited minting relief",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObjNLLXFNQnJPUUxFTnpxQXQxZHZUc05id1dDM251UHhOcWlGZHpkOTI5bHhRV0ltcllOamVxVzZRMXhRYkNlSTFRRmtDS2ZfLWJMLUJKS2JRY1RKT1paOV9BdDV3QmpWbVlPSnRzZHJLNFlHbDd6cjliTWFpcUFtcE4wb0pYNlFW?oc=5",
-   "source": "grafa.com",
+   "title": "Morgan Stanley to Use DTCC Service to Tokenize US Stocks, Treasuries",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lMHBQUGlJRWtoR2tjeEZFcjlxOXBORVJhclU0TjFQMkxoVUY1NFhaN21YU2xabjlFbEQway1LdXNYcmI1ZFNaSVZocXgyaFlzNDVYaw?oc=5",
+   "source": "bloomingbit",
    "type": "news",
-   "published": "2026-11-04T01:51:05+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
+   "published": "2026-11-04T01:12:55+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "SEC"
-   ]
-  },
-  {
-   "title": "US Midterm 2026 Results: Democrats Win Congress as US Futures and BTC Whipsaw",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjF5M1lPTU5PdjZrNWZ5cFR0UTJ3d2lPOVprUEtUd1F6TGdQUm0wNFdrNUpOdXR4UGUtTWhlN3VVUXZkbmdXMjgtdnRGZVlpczhOQWx5dWpobzlJUzFDNUxJVERxZEpDa3ZFcGN0TlR6Q0phaHpfNWpPU0pVeWczYVJwb3FRR2dBRmFGWGdXTXlsZWRDQlBkVmJtRXRnQTQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-04T01:42:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin",
-    "Democrats"
-   ]
-  },
-  {
-   "title": "Taiwan restricts stablecoin issuance to bank-backed firms",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHN5NktpQnkza3F3b2lyYjlUUWZJaTc3dWYwWC1qeDJoT3RidVhKUEZNUUVCT2MtUEhFN2JQalNhbGU2ODQ4d2ZZWTBxMXA0XzVmVmJ3d3ZfTlZlU0tVbFdyd0c1UkViUUM3Vk9JN2ZjVFcwcTZua2FNSmZXb0VEUUdxUlRMN2VyVHFIZm1fUXhWWW9pR3pQdg?oc=5",
-   "source": "IntelliNews",
-   "type": "news",
-   "published": "2026-11-04T01:02:23+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin"
+    "Morgan Stanley"
    ]
   },
   {
@@ -1571,6 +2426,18 @@
    ]
   },
   {
+   "title": "Morgan Stanley Among First Banks to Use DTCC Tokenization Service",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XLVhobDM1MkR3MnBiajRNbnlTMXIwSjFIOXlaQklXUkNNZWlrWFhJSmJ6bTJMdzFtRENPZnFoT2xNSWIzWHQtZTdka2xBNi04Uk1GUlVlbXBrZWhSNFV2cmZGQVk?oc=5",
+   "source": "Binance",
+   "type": "news",
+   "published": "2026-11-04T00:58:38+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
+   "topics": [
+    "RWA",
+    "Morgan Stanley"
+   ]
+  },
+  {
    "title": "U.S. Midterm Elections: Crypto Stocks Bounce on Voting Day, but Democratic Sweep Fears Still Loom",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96M0wtdU50ck5oY1FTOEZSSVZFMEhYTF9wMU1CdzdTN3VFR0pLelN4eTYwd0dGdHlhRk04MzVRQ0swQzBZWlhPM3U4Qm9wWldBRTFxaE9yTEhBbHYxYmF4aElUMEplb1FVN29WZGFkZ1Y0NDZ2RkE?oc=5",
    "source": "BigGo Finance",
@@ -1578,40 +2445,29 @@
    "published": "2026-11-04T00:26:00+00:00",
    "first_seen": "2026-11-04T12:04:33.709382+00:00",
    "topics": [
-    "Democratic sweep"
+    "Democratic Sweep"
    ]
   },
   {
-   "title": "Uniswap Says Robinhood Chain Hit $100 Billion in Volume Fastest",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yT0lYOHVEc1Z5bHExdk0yOUZId1QyWVA0US04N3JGclRLWHVJQmNVWVRWM2Q3dWNjUmZXZG9LMFFFaXNhSmJpNWM0WXVVU3dNRkNjSjU2ZEtLZw?oc=5",
-   "source": "www.tokenpost.com",
+   "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
+   "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+   "source": "CoinDesk",
    "type": "news",
-   "published": "2026-11-04T00:13:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
+   "published": "2026-11-04T00:00:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "DEFI"
+    "Bitcoin"
    ]
   },
   {
-   "title": "Unaffiliated Governance Voters Generally Aren\u2019t a Controlling \u2018Group,\u2019 SEC Staff Say",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdERhNGs0WFZVZ05PdUFzdUFmeHp4MUhMNEU1Zk5PXzhJU2tKbzBYeDNxbnRSYnMtOE83dWpNZklwYlNWT1pBdFlqbHE1SVZRbTdpbHJRYnEybTJjV29zVGJQQmhFNWJmcUNEdnh4UnJJcV9OTncwM2YwOWVNcGpvVlZiLWFwMUh1WUdPRGtmcGUzRGhQS0xHMFZNekR3bUZIZUdmM3NiUXBVeUdUM0E?oc=5",
-   "source": "unchainedcrypto.com",
+   "title": "Current price of Ethereum for Nov. 3, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wS0hQZmlhSEFxRXBmNjhzV0ZfTndqaHdyZXpuTnNzWmVHa09BWVhYdjlFSTZYbVpfMDJmYk9kdkVmUmt3YWZLSm80dHkyRi00S3ZteDlaMzVyNklxWTRsX2JEUGpJc1Bw?oc=5",
+   "source": "Fortune",
    "type": "news",
-   "published": "2026-11-04T00:05:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
+   "published": "2026-11-03T23:52:55+00:00",
+   "first_seen": "2026-11-03T17:00:06.515516+00:00",
    "topics": [
-    "SEC"
-   ]
-  },
-  {
-   "title": "CFTC News: Commission Classifies U.S. Equity Perpetual Futures as Security Futures Products",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjVDdFNjMUh1T29RYUlDc1d4eGJkVEw1RllIZU5uU25uUDNGekdWM0JPZ1RIcVJuYjBxOFJ2eTdEbms2a2JZYWVsM003MkExd1BGeFVwWnFCS0k0UXZlTVBzajFIREtFZlJ5WmpIa3pNa3k3d05ZWWkxWWxwRjFGbDlOckJlWW9OTDktcERBTnZOUGFBV3JwQlIzTDJCZ3UzWW9XblBVUG83dDhTc1BaZFpCa3hDcFVnR0NFNm9DR05YWmVJRHc?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-03T23:54:28+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
+    "Ethereum"
    ]
   },
   {
@@ -1649,39 +2505,6 @@
    ]
   },
   {
-   "title": "CFTC Approves Stock Perpetual Futures: What Equity Perps Mean",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHVhTXlUVXdUQmR0UGNyZzRLc21HV1dtNUt4cm1ORlBNM01MOE1QWU55T0c5czhOV0tFY05OV0ZfQTA5WGdoVU5ndUJzTUJNS2dsUXZFUWhoZzRvLVNXdHhFaXh1N2NEdUctcHNtZ0hERnlWMmYwcnJCdHAtcDcyNGVJbVJqdjdabWkzaG9heUY?oc=5",
-   "source": "Crypto.com",
-   "type": "news",
-   "published": "2026-11-03T23:23:28+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Tesla, SpaceX, and Amazon Reject OKXICE Plan To List Tokenized Shares: 6 outlets compared",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaXZHeHJxaWxSWGZnMjBXbFhERmdtcTAtMGh2bUVEWldCdmpuY1E2eVd3RHVmVWhPNnRRYWR1T0h4a2gwS0JYZXZDVEdjSk42aDFETFVGZWhzak5mNFIxeFF1V1p1RWstb0ZOWU5yakhmazVmMW4zbEVXZWRnMTUteTZhVHZiUklHUHlETDRQX2hRREZVRkhRRy1xZ3E1X2xsQi1RWjAwNV91cnNMaFZZUkg5N2wtc0c1RGljYmdZWVR0ZGpGWU1GRS12V09Eb1JIS2JRSGMwcXY?oc=5",
-   "source": "NewsCord",
-   "type": "news",
-   "published": "2026-11-03T23:21:02+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Aave Founder Projects $50T Abundance Asset Market by 2050",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaENnaHhZWEFtaGxkWlh2THJ1ZTNGYjV3Y0xoYThxUXJTbUI5b0ZWN1I3TzVqN0puaG5WcEx5SWRuQ0hUelB5Nlg2RWt5U3Q3NVk5Z3NHbWZwazhlbFIyYTZoa0xoUXJxWEN4b3pJX251c21ib0phWk9EVzVNcEZPQ0RmRWwwdy1vaE1kTGJ3Q0l4YzNyWkNFNVJOXzhkY2RVUEJWVmdmNA?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-03T23:18:35+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
    "title": "OCC Opens Stablecoin Issuance Path for Community Banks",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDNoZ084VTlnU3FSdVY5QmZnWTRGdlo3aHVIUDhXalY2cHdhSkxHSDNHMmRoVnJianFQa1B1b2R3VF92YTRac1Y5cFF1bGxpQzk4bEoyZU5Ja18xRnFDTXp6THdRVXlURmhhZV9DTml1LUlQMEtjdEpBUkc4TEN2RU5qX0U1QnFQRGlDb3VWc2ZFVmFqRDlvc2Nn?oc=5",
    "source": "PYMNTS.com",
@@ -1690,18 +2513,6 @@
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bullish Expands Stock Tokenization to Solana, Aptos and Ethereum",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWhhWGgwQW1qYmw0YjhFOS14eU1mZTdRTU82TzcyRWRhWXN6MFhOR0ZOaXZKbFhXUGN1RWhKekdtamJwOV9kaWx0ZS1iSWY5QlJnV3g4Ym9QQkxuc00xYTE4WkQxcDJUNFlodTJtOGRMN19xdVdIYXp3b2pDaHQwLThxQUM3RnpfM05OanVsdVRXQVplTXlB?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-03T23:02:25+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "RWA",
-    "Ethereum"
    ]
   },
   {
@@ -1724,17 +2535,6 @@
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "ACI Worldwide and Circle Test USDC Settlement in Colombia",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnBUQTJnLUtia0ROZ053ZVZId1pIeG1MS2VkZ3NTamlJV2VaMlh5cC1XQXBPVTNYSy1DSV91MjBwREVMYU5VVEVjTmtyYmplQjA2ei14SGxCUUhpWi1jc1YycldfdFBrUld0a3hYODZuREFLNHlWeEpmSDdYdEZQTDlDQmZCVnp2WTNOQ3V0ajljTzRnMkZySjdsMG9xZjBa?oc=5",
-   "source": "Payments Industry Intelligence",
-   "type": "news",
-   "published": "2026-11-03T22:51:09+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1772,28 +2572,6 @@
    ]
   },
   {
-   "title": "Binance bStocks Reaches $1.4B Tokenized Value Capturing 38% Of Global Equities Market",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUZzeUE2RmVpQ0h3RURQdUktdzRIdXpwMUVxd0o1WVJQUkNQZDlZQkxZTGpKd0gtLTd2a0lBNEVkSHpGWHBvaVF1VjFIdnRsVkNzSkFMT0JWaDZ3YTdsank4Wjc3eWd4MmdyMDFQMkRRWWwzMEJXdG4zZ25QYjJTZTZEVU1TR2ZxV3BKWnUwZHN1MjN5cERGQ21Ga25DUExmbm9YMVExeEROTl9fVWxuWU1BWlpGa3FReHp4TEZMeW4?oc=5",
-   "source": "OneBullEx",
-   "type": "news",
-   "published": "2026-11-03T22:23:57+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
-   "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-03T22:14:44+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
    "title": "SEC division views Canton Coin as digital commodity in no-action letter",
    "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
    "source": "The Block",
@@ -1802,29 +2580,6 @@
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
     "SEC"
-   ]
-  },
-  {
-   "title": "Japan's NEC Is Exploring Stablecoin Payments on Avalanche. Could That Help AVAX Recover From a 22% Monthly Drop?",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSGRMeDQ1eHdYSjZiS2czcTNzME80RnJjWXpQVjJybVRUY2h3UGpIbEJvT2ZielcySzBXRHFxdXVOT2sweEN4N1M0bnVQS0ExaEpCME5KWFdRNXdPLUloYkFxMDFVVHZkb29raUlkQ3FhYkp2QVQzN25LMWJqQXVTdFY0Njc0b3I2NXU4V2RmYjBXVGRIdzM1dnQ4V1ljUkRyZ1VLLWdkUFhld0h6Wl9WeHVJdFBMZE5jdVJpcXNnbmtnRXgyeUp5dHBTdnpqTEFXY3FscENCUzJwZmZRYzZjLTI3OUpzYXFaM1B1dmJPb0NpX1d2QXFDUnhGZw?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-11-03T22:01:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "[Crypto Radar] Tokenized Stocks Push Deeper Into DeFi... On-Chain Expansion Picks Up Speed",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52WVVjYXNlNVRxNFV3SzktdWdBOGNaWHMyNG42aDNjYUpNSTN2cWdoLWw3RVBjZm9hTlpDa1E2RXc0ZG5Mc09aNkxJaXhyVnFxMG1tV3N6blAySEFSODh3RTBHTzM?oc=5",
-   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
-   "type": "news",
-   "published": "2026-11-03T21:50:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
    ]
   },
   {
@@ -1839,40 +2594,6 @@
    ]
   },
   {
-   "title": "Walmart-Backed OnePay Lets Customers Turn Stablecoins Into Checking Dollars",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSDBlMUFVLWlnQnd4V29WcnEzenlPQ1lHRnNvakdmdGNpS0UwV0ZRR0FfTkN5UXhGMGtzV2RUaWlPRTUycXhTVXRqZi1aMjVhdFA0Tjg2LTJ1OXpBREl6NDlQeDBydXRRTEFyOV9taTl5SkpfNVV1S1BVU29KdzlaYUFnUHdNYWZoZG1BV003MXE2QWFySUVuZFU0MnU0eGdyT19yd1ZQX2hteldRNVllTEVxSndYejFfdGc?oc=5",
-   "source": "PYMNTS.com",
-   "type": "news",
-   "published": "2026-11-03T21:40:24+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "CFTC Opens Stock Perpetual Futures Path for Kalshi",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZRFJIak5fU1M3WVBDUGpkQ3YtNzNDMDQyR1Myb0hQZWhyYVVOYXRQRGYzc1FPZEZQcWV4MU5vWjlUTUhqUE5oaDhDcEFoSG95eFRWaEhxUC1KOUc0SzZZbDN2STg2Q291N3ZnSkNSUmhDbnZO?oc=5",
-   "source": "DeFi Rate",
-   "type": "news",
-   "published": "2026-11-03T21:37:34+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Aave Submits Proposal to SEC on Existing Law for DeFi Lending",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3UDRMUDE3WVd0THRNdkU0MXBqOUtQdWNydjVWd1Q0YjhjOTZrSXpla2ozQ2lHcUIyeWVkSFJnZmVEdnFGRldFb0hFSHhyX0F0ZHU1enBXeTNZX1U?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-11-03T21:06:21+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "DEFI",
-    "SEC"
-   ]
-  },
-  {
    "title": "Pendle: Launches fixed-rate markets for real-world assets on Base - 03 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMExjSjhRNXhtaVZsNGNZbnlaNHRyc2ozY2JuNkd0S2RZU1lZV24xdXBSRlcxR29aakdVUk9BZUl0R2VPa09FclR2MWwzTWI1RGRtTEFxaW8yd21PTVdWenlmWldtRFBfakRrOU9qTF9GQ28zcTh0M1MwbVdld2lucVV4NkE3ekl4bVlaR19pTUpyai0zUUp0eWJuZHBkSW91ZEV6SjA4cEJILS14NW1hYWZ1eDgtTzcwbUJ4bS0wRWpVRXowV0pGY3V0ZENyVnAtci04bFl0cw?oc=5",
    "source": "TradingView",
@@ -1881,40 +2602,6 @@
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Stand With Crypto eyes most pro-Bitcoin Congress with 45 endorsements",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzbWt5T2NOYTNkT3pTVHBVek9IOWQwaHpZRlJKRVp1dVpLM3ZrRi1pcktIcjFNb0oxZHNsSE9Pd3pfdG5PSlBlRjZsVTFraW1pVWZzTHNIQjV1WUtVdU1WNmJFQ2xab3hJLThtbmFmRDlEQ3F0bjVhNnZNSWZqUQ?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-03T21:00:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Bitcoin",
-    "Democrats"
-   ]
-  },
-  {
-   "title": "XRP News: The XRP Ledger Is Fixing a Flaw That Could Have Let Partners Print Extra Stablecoins. How Big a Risk Was It?",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOc0lSbkdDY0R1dXp1eTk0MTY2SG9SUFgyU2NtRi1vN1k2aXZJWjdkRk1YWGtrb0lLZlp4MzNscHp1V3JrNDI0VkprNVBnb3UtaGxFQ1ZnZC1YTFBvV29JVFdnVVY3cjVmT0I4YWs3M0w0V2w3SkwydlpHRUtVM0xWRWozWG5BWDJsUHRlc1pTdWowWEVEYkZScm1PN1d0MDVrRzdPTno1S1U5TUl0dHAxWU5wLXZ3cWc3dkhkUDZ3X0IwTGY0QkRJMW9oWkNhSzZJdklqTUtwaXRkcFRFeXQtZF9JLXI5S3BORmZwZFN4WW5zaHJwcWtyTlZCeGhoamxGcmktRg?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-11-03T20:53:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Qapture Investments Ltd. Launches QHVN-USD Stablecoin Yield Vault",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjVFVllaTzhXMTZmQzI5X2Iyc0pCdlNwc3lzTFRsNWtKSjc1cjU1SE8zQm5VMGY1V3BZTm1EdXpYeHU4Tkh2S3N0VkhuWVBySFREeE0zWXFlRFNkTzlEVDRRQl8zN3A1bkh2bm5FazNiMzZ0aEVIZG9sWHphOUZuZk00ZGNFRHNJaWMyVEJPOGNOelNTZmtNQTRubVkzdnI5WFZCWmllVUd5YnBVU0JiU1JybnJPd3hRbU1xem1jbHA0aU1R?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-03T20:52:02+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1942,17 +2629,6 @@
    ]
   },
   {
-   "title": "CFTC clears stock perpetual futures for trading on US exchanges",
-   "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-03T20:24:55+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
    "title": "Binance bStocks Holds 38% Of Tokenized Equities As RWA.xyz Puts Market At $3.69B",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEJkalA3a19YTFByR0l1UXZyRHZrQTA3bFpBeGQzZkM2U1otMmdkaXVFdmJMQjJzNmI4ZUZBWmpDY0lYTjVqR0V4b3QyM0hHanR1d0lkZzhJOEtvbzBQeERWMVVWc1pXNTliTDZBbEEyRDdOV1lEcVFQVUJMSnM3YXFoYXR1dWdhR0ZBa0tXNGpBTmJ1TG5sWnBaMzE4ek1rb2FXYjRNTEE5bWVqc1ZQc0RONWp2cExOVVE?oc=5",
    "source": "OneBullEx",
@@ -1964,36 +2640,14 @@
    ]
   },
   {
-   "title": "CFTC opens U.S. stocks to crypto-style futures that never expire",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1hGY2l0cmp3ZmNvMEZwMHhGSWhVc3MxbmdXYmg2VzZhNnZ3WmswUklKTmZRMWZValAxMmVPQzRZSXZGQm1qcGhROExuXzlzbTJfajJkbmt0MzY0emdQa2ROTzFVZFY0WjlFY1ZSVUt6MU5FOE1McERMYlZQSnZMMTdaWUNncEpCbERpRlRPMExteURBRkpycjJvQllRcG9QTFVTMjBhbw?oc=5",
-   "source": "TheStreet",
+   "title": "Big Tech dreads US ballot... Morgan Stanley warning over sweeping upsets in defense, healthcare, crypto, and AI",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPc1F1U1h4RTF3enB2S2hJM21wUDBUaDZmSGlXTnQ0ZXd1VXhoRlptbk9mWUJvVlFib05IRWVmdmdlRzdKMTN5cTgwNXd4dkw2VjZzMjVtQjNoVkxweU52a3VWX1JvSjFaV0JrUm1Dd2hZQzhLdG9HZE5ZclZOVkxGdmtFTlNKdlVRYXViZUNONXVxMUd6ZXF6aDEyTVdjYnRad3lpVEtrUE55VnJWajJmOGlyZWk2VkJlS09Rd0lJdFNnOUtoMW9HUExCR1VaWkRIVjh0elhIOEdsTldLX2U3M0Zha3JQeWlzMnY0MVd1Q2NrdFZDbDlqVzRTdk8?oc=5",
+   "source": "Bankingnews",
    "type": "news",
-   "published": "2026-11-03T20:10:42+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
+   "published": "2026-11-03T19:32:59+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Cross River Bank Is Moving Its Loans Onto Arbitrum. Does That Help ARB or Ethereum More?",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPakNaMGR3eHFJZXBfLUk5SjlORWM0VEtUSWRWMEpDaXJpc1dTQ2UwXzlFYXVxdlBFMWF4azJJakFzOXQ3VzJQZlZGZHBXUHhWMGp0MUpWUGNVa1R3NDN1QVFiSC1fSENlbE1FRmttQnAzREhNNk00UXdkRXB2M2NaN1JMR2lwcy1FNXdrLWtITTE5bWtoaTIyTHozc0VVZEh1MExSY0VpVEdvdnpLakx0YUI4bERhYXpublp3V1U1VGVyS1lHZDVtc29vbEhtdm90V2ZVZXdHa3lBUEJZOXc?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-11-03T19:47:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Credit Mutuel Arkea: $133M CEX Theft Tied to ZachXBT",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlhtaTVHYXp0elJ4MEN4dlQ0QUZvOTBGVUhZbmV0OUdJaXFoYW9MekhTTUtweGF3ZVUxUWhmTDg1b212cEhIelpfalhUQm85cExjRGh5bmYyVW5UdXpqT3BiSXBfdlh6NXFJWUJIVm9nNWw0MzItVTFMbWdvQ2F4WVVRaC1CUVE3?oc=5",
-   "source": "Blockchain News",
-   "type": "news",
-   "published": "2026-11-03T19:18:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
+    "Morgan Stanley"
    ]
   },
   {
@@ -2005,17 +2659,6 @@
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
-   "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-03T19:16:02+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
    ]
   },
   {
@@ -2063,25 +2706,14 @@
    ]
   },
   {
-   "title": "The CFTC Just Cleared Stock Perpetual Futures for U.S. Exchanges. Does That Hurt Hyperliquid?",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVy1JWi1xSnhXSVc1ZUFpNm5GeFdRamoxN3B3LVdNV3lWa1VMVHZ6d3lOQUl6WWo2cnRCSWVvUXptZDNla01VeEk5S1dmYkNkRVpqYTFHMGJ2c1NYVGJKOUxHbVZFS1gtQVh5ZXF6akVHcUF4MVR6VjNmWkQ3ZXUtLUNSVUdoWXo2a3RWUWhmLVNmS29TM1g3YVZvV0ZsWFlxT0dJZTN5X1phdDRBcXRnWXhjd185WmlmZ1YwSGJqay10NVJmTTVkVmtodGREa3RHcUpiZmw2aDUwQVhvTk5ZX2Y1aw?oc=5",
-   "source": "24/7 Wall St.",
+   "title": "BlackRock-Led Exodus: Bitcoin and Ether ETFs Bleed $538 Million in a Single Session",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tb2k3MTVlQ0ZPSVp5bnZRVmdXdG00VVdLS2F0OG56ci1rVTBVQWRkUWVjVkZfcmg4QnRyeDE3aG9LdVVMRGRKTXMzQjdyZm03a2Jmd2ZYa0dXa1I1bUs1dllWWVdyVndUbXBqanV0Q0FSRVZYdnc?oc=5",
+   "source": "BigGo Finance",
    "type": "news",
-   "published": "2026-11-03T17:53:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
+   "published": "2026-11-03T18:16:00+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Tether Says It Holds 150,000 Bitcoin, 50,000 More Than Its Reserve Report Showed. What Does That Mean for BTC?",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbUJ3WndXeTJ2dE5pdVNFS3pPdE1RY0tkLU1SY2thTEtpNGhNbUtHTnZDQ0dNRGYtSmsyV1pfQnQxcVMwMDF0Wl8yLUhFWUpVY0luRHVXQ0RIZjV0TmVhOTBVc3N5aWVkNTBibXJUTnF0dFV2ZEFNSFYzS19MeHFHT09hZ3J4R3Z2OXN1ZUdwdmpDbHhHem42YkhBUDBiVHk2UVJBVzI2WXl6RUxfTGttTG5VUDJXa0VKdHY0QlR0OVZfUmotX29wZkVHOXR0ZXE3WjRVV29ZNmlfWEc4YmZqN1hVbkxRcmxGdDFrSjJwek9wbHh4dlFF?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-11-03T17:47:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin",
+    "Ethereum",
     "Bitcoin"
    ]
   },
@@ -2094,17 +2726,6 @@
    "first_seen": "2026-11-04T07:01:43.732118+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "$315B Stablecoin Supply Hits Record as USDC Gains",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdE5uMDJDWGFTVEpNWXljUEdqVTZUNzdMMDlsZFFNMS1zTzZFdmZwbngwbmo1VndJVnNtN1hHeDRlMVFUR0NLR1RPS0N6U0VLZlNZOE1DaWJaM2ctVmtZMUVCaGxJTEprLWRUS3pHcHR0NkdXR1FyVFFMQUFoajZzZm05cXEySHVKeFBkb3E1djF0MUpKNlpGeWVkQ3I?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-03T17:40:06+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -2130,382 +2751,81 @@
    ]
   },
   {
-   "title": "CFTC approves trading of single-stock perpetual futures under joint SEC oversight",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjJCS1hKdWFabVNBLTJ2STViWUxjRlZpMDNScUNiZlNNenNNRk0waW15ZXhOZVNkVjJzQjM2SkVpNThpYk1lYnMzOXpBalVFZ2hST001SlFSYVdlMzFWTlRybVhUcUlGeV9YeS1SRTNvVFVWN1VacGZxejZxc2ZVZEhzTGNPZ2NyV1pR?oc=5",
-   "source": "Yahoo Finance Australia",
-   "type": "news",
-   "published": "2026-11-03T17:34:13+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC",
-    "SEC"
-   ]
-  },
-  {
-   "title": "Bullish and Equiniti transfer 61 million tokenized shares at the NYSE, and has selected Solana, Aptos and Ethereum as its initial network partners",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNRnNtRzBDX19SZWgzOGFxbzlUVzg3N3BROFd3WDdOWkFZOVc2YTRLTU53all0cF8xWGVHa2ZKZ2xXSS1WbmljMVhNQkNEX3ptNFZfOUE5VkZPbkJOVkQwR3J1WkRaTmlicE02TW45R3VkTk4taFdPNUFfcWozcXNEb29VU1NQUWYtTGJwRlhtVVdZSjRMcThIOC1IbGNndGpIZ1NZdDZpdTdYMGdQbFVjMTlHN2tueDZxcUk2eURvTUxjSWc5XzM2TnBPb091dy1JQVpNVTVlWGFKZEw3ZVo4UGMzSnF1NTF6OGoxczVtNkZ5VTM5bndrYlZtUjdtZWdPcUFfQjN6VWVvVE9rdFNr?oc=5",
-   "source": "Bullish",
-   "type": "news",
-   "published": "2026-11-03T17:33:03+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "RWA",
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "CFTC\u2019s Selig Says Perpetual Futures on Individual Stocks Can Now Trade in the US",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlpxWUk0bUc1WVo0dWdjRVJOLXdsU3dGd09sODFSNXd4R1h5bzFhdE1BWklVRzJyMGNjc0lJTVFrVHNhWW44UTUxcWM0Um92alpEQTdLOWVZQjZoZ2JYV1k1cEVCY2ZKeEZkT29hU3RtWnZvWGhXWE9XTjYzaWpadUVMVXUweElpZFZYa3lJQlI4MFFrZEwyak15ODc3LUU3N1lQTGVfelNySlRH?oc=5",
-   "source": "unchainedcrypto.com",
-   "type": "news",
-   "published": "2026-11-03T17:20:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2hDaTdGOURHWi1EMGNYdm9GcXllTndWbWNRYXQ1YjJ6Z01vU0kyeXFtRWE0SHFSZHJSTWZNeWNiU3l0NFZSZDFOclJGS09Fb0ZXTmpadHJkajljYWNGaGxsWVFWLVhOLV9nLUVZRXU5dmpDaWdNRVozQXRVOWpXY2JzWEE1d2tXTFc3ZXp2aUN2Zw?oc=5",
+   "title": "Coinbase Falls 4% as Morgan Stanley Downgrades, Says \u201cConfidence in the Earnings Recovery Has Deteriorated\u201d",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSExuVzRUeXJoMUFhTGhRc01PNnJaRGhjZ1BDZWpkVzJqY24xbWt1X3diVmgtV1ZmTWJlalZEOVNuemJiNUxoMk9uczRlejBWVjc5dmhOejgwUDQ1RWlMSDMtVXhTVGFjV29HbFIxWFlUdkNKWHR4MTEzZ1k5RGlXcmZyTGJvbmtuQnJiUWc0TjFTS3A2cXhQX0h0X2k?oc=5",
    "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-11-03T17:00:00+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
+   "published": "2026-11-03T17:30:09+00:00",
+   "first_seen": "2026-11-04T17:00:05.627707+00:00",
    "topics": [
-    "SEC"
-   ]
-  },
-  {
-   "title": "Current price of Ethereum for November 3, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wS0hQZmlhSEFxRXBmNjhzV0ZfTndqaHdyZXpuTnNzWmVHa09BWVhYdjlFSTZYbVpfMDJmYk9kdkVmUmt3YWZLSm80dHkyRi00S3ZteDlaMzVyNklxWTRsX2JEUGpJc1Bw?oc=5",
-   "source": "Fortune",
-   "type": "news",
-   "published": "2026-11-03T16:52:55+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Wall Street killed Bitcoin\u2019s wild rallies: 10x\u2019s Markus Thielen",
-   "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-03T16:47:01+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Zachxbt Names French Bank As Alleged Victim In $133M Crypto Theft",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnVULVJyTHRMNEVILWNtSjFlN1lBVTZKYWJtWmIyTWRZZzIwTWZBOUVCMi1SWkhEVnNWOEpWclhYeF85azk1bDFUZGxlVmZEU3NieGQtOEFvN1l4NTBsRmxBZVZ3OC1IcUVMVm85dERzRXFVYkNmUzI5c3cyYjlQSkdLR2xlUDZPcEl4LUhZTHMyc3FyM1JiSEJn?oc=5",
-   "source": "Menafn",
-   "type": "news",
-   "published": "2026-11-03T16:30:57+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
-   ]
-  },
-  {
-   "title": "Amazon, Tesla and SpaceX join OKX\u2013ICE tokenized stock objections as deadline looms",
-   "url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-03T16:17:51+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
-   "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-03T16:12:35+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "OKX launches self-custodial stablecoin card on Mastercard network",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMEk0TDlSYUoyYmY2NVRqRW1aU21VUUFwWWhfYlZRUWY1eUZDTlg5ZVF1Q2RseWE0aE5GelFGRkFOZnh2Vl9zYUtGbjc3THZWSW5UcV9OdXU4b0JNRGFyT09COHZYRDNMUkdiRnRWNTc5ZXpIWUNPTE5PekljS2RRZ0twZ2EzZ1NFWDZDM3otV05aMmJlNjlGRmhMbDRMUWRpZ2x4S0REQ2lDVzMyZDRJUGFpaTY?oc=5",
-   "source": "The Paypers",
-   "type": "news",
-   "published": "2026-11-03T16:07:09+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "CFTC Allows Perpetual Futures to Expand from Bitcoin to Individual Stocks",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXBEMU9sTHJqQy0yVUlBdFRmZEI2aWdGcFV1eFc1dWdnTFhFUTZTeFhRTFlJRDJzQUpWNk1rWXh5WDhYOUpSRGo0Y0RRNlpwTGZZYU5vZFM0N1pPcVNXS0ZRSHYwX0hmeXhkYUtuZFBXR1BZZ3p4WXJWUVN5akM0VDFRZDZjbFh4Qi1XTEx2SUtMR2l3cVRXZGVOVENZMEdVSVRFTkV2MUYxUVk3UEg2aTlNakQ3bWJ6SFFhM3JlRGpmSE8w?oc=5",
-   "source": "Finance Magnates",
-   "type": "news",
-   "published": "2026-11-03T16:06:21+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "Bitcoin",
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in \u2018political gridlock\u2019",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-03T15:44:42+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
-   "url": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-03T15:37:50+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Bank and Crypto Regulation Meets Gridlock in a Split Congress",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkhuVERNM01MZ2lveDI5cXNzYkNOSFF5cmlxVUQzLTFqZWVkOGF5LTJBNG0zcVRMdTIzVDIwTnpzNC1RVGtBcDZVeWJfU1dLeXB5RWt1UnN3NDExTGRMLTNYN21CSGg2OC1FdnE3aU9qdUZXSkd1N3lwUXVCX0lmd3NFaVl6UkZsSHRkNU9lMFBpYWV1OVZaMklDNUpqQQ?oc=5",
-   "source": "StoneX",
-   "type": "news",
-   "published": "2026-11-03T15:36:47+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "Democrats"
-   ]
-  },
-  {
-   "title": "CFTC Says Stock Perpetual Futures Are Approved for US Trading, With No Launch Date",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmljVlRGVFpxMS11LUl4aWR1YzgwUEc3QnVNcnNyR2NWd3ljRlpjSDc2TDN0UU9lRXZ2ZTNZSmVmaGJ5YnJLcGU5dHREU29MUTZ4anByaXVmeUpUdUFCSThnSDdjaFc3aHZVYXcydXBhNFhWX1poZ0tfcFFkbGhPd3lpNWxfczYyTEZqTWVkRjVORzFMVnZCSTVaenJ4VlhMUDktTWZKVTR3VlFsMkMxbTdEMHEtUQ?oc=5",
-   "source": "Northeast Times",
-   "type": "news",
-   "published": "2026-11-03T15:20:58+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Andrew Hohns: Why Bitcoin Can Fix America\u2019s Debt Spiral",
-   "url": "https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-03T15:17:11+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Settle Secures Up To $100 Million as Stablecoin Liquidity Enters SMB Lending",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMTRHTFREeTJwTy1iTTJVWmxGMDBMNDA4Nk1KbjVhcy1oeXR5elZycUE0Zkczd191TnFXZDJ5TWFHQnRkZEszNlBSUHVRa1IydmpfcDR0VVFHaWN6SF9nTEtnRy02TEsweS1udkpjdmpYaXNyOVN3UUJFRkxQQWw4azluVjFWVmNfTEJmYkNhSlZvVmk1QXMyN1NfOUQwQQ?oc=5",
-   "source": "Finovate",
-   "type": "news",
-   "published": "2026-11-03T15:17:11+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "GC26/7: UK Financial Conduct Authority consults on decentralised finance (DeFi) guidance",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbDlIbmE5WmFkSGJZR1BvWTlFM3VrenJ2d1JkT2NETXZkN2pYdmw1d1FtRVl5bWNYQ1N4QVFhV0oxeWIzMVdzQ1Vfa2FkcFhNdHBOVGdtT1RBS0t4YUJTbkdla3dKRG9VR2loSHdoRUw1SXFsOE1pQnNTR3ZrTk05VVdQWldVWmZSUEIwcE5JNnRIb2FQakJPcEExaElMTlNmSFdaOUpNb0VTY2E5elY3VVQ2NVJZZGlNcGxhV1lxSnNqd0I0cW5vc2thQWJiOVJhNVRJdlFxb2JmZFIwMlo3dGxlLTg5Q0xTdXZROA?oc=5",
-   "source": "Freshfields",
-   "type": "news",
-   "published": "2026-11-03T15:11:15+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "ZachXBT says suspected $133 million crypto theft involves European firm",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUtQQy1XdDRMTUoxNkdoOGdmY29zYU9xZGRQMWQwbC1YbkpySmdUckQxZjEwSGR3VDJRNXlxRFNiZldzV1VlbmtfX1o1dEo1QmgxUjNuNXhPU255ZXhZd201SkxFbWY4dHB2blhBVjNtOTlldng5MnZqeDhybmZOMHpRVmJoWExwM2xQTVV6UjFSaF8zcFM1YUlfLU4wTXFWSXVnWWZtdTV2N3J6b0t3ME5zZXg0YXBmVnc?oc=5",
-   "source": "NewsBytes",
-   "type": "news",
-   "published": "2026-11-03T15:04:48+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
-   ]
-  },
-  {
-   "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-   "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-03T15:02:13+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "DeFi Development Corp Proposes $20M Preferred Stock Offering To Expand SOL Treasury",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTW5fWVRFeXRqeVNDa2tpOG1DaUVfeFRUV2F4VElWU3NlcXVGV2dHZFBDeXk3Wjd6bzA3a0tSZDI2ZEl0emc0ZEtzbWhJWm9URVA5WlBfM3RTVkhYaFdQaEpJdTBzTkR6enJ4TGJBR28xNE03dGZfN1V4a2VOWjRUU0xNOU1XaWt1cXVuQVd3U2FwRmhSbmM1LXJoY18?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-03T15:01:03+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "CFTC Opens U.S. Stock Market to Equity Perpetual Futures",
-   "url": "https://bitcoinmagazine.com/news/cftc-opens-equity-perpetual-futures",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-03T14:50:58+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
-   "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-03T14:01:02+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
-   "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-03T14:00:00+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-03T13:46:39+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "ZachXBT Flags Possible Cover-Up as Crypto Theft Estimates Cross $133 Million",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ2pUUmRxQnBPT0NvQXp0eXFyOWVnR1MwRTJDdVhuLXlxY1JMak5VY2VMVWpNdjBjbnFZWVY4UGlEbWZTS1BMRVdKRV9lbW5iUlBYSWJFaWFVTjFCbTlacEgwWldBbHFGQjBlSnNxWWlydGN4ZlNGN3YwWEtFVXcyWXRQZnl4bTRiODlyVDM0WnV0dFlyeUZuVnAxVTZnai04TGhVYzFOUTROOUl5UTZSckJ5djhveUV3cXFyVWx0SzZFWmRnbjhlRWpIUzdVbWl1Z2Yzcl82N0lZYW5GNnNPMW1sc2lFcExSU3Jz0gHwAUFVX3lxTE9TZmlWdy0wTGZKZXVQRE9SYi1oTTJ6U1oxV09qVF96eDJUejRfZTlZTUJjMTNmV1lJXzNZRm1mWkpreGVyaHlKblYwS2RpSGF2OUZTbFV0dzdvV2hDRWZESmV1d1BPc2hGOVdRbEw1OEYxY3IyeG9tdmR0a1g3LWFyVTczQmthNHdXeHNuUGx5N0MxelN1TTZfQ2VENF9JMUY3ZTlDOG5tazF1T2oxS0hIU0NIQ3J2VzZHU3NuN2NmT0luRFpDYzFDcjR1b0ZwYk5qNWFuN0VNaGJjamJ2ZDBCRWU2c09RdzNIa2ZHaGFXdA?oc=5",
-   "source": "Gadgets 360",
-   "type": "news",
-   "published": "2026-11-03T13:30:44+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
-   ]
-  },
-  {
-   "title": "CFTC Chairman Cites $6.3 Billion Binance Hack In Push For Federal Oversight Of Crypto Exchanges",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUHpMRVFDZUloODkxSm5ocm9HeWtSME1vdmh2V0p6QnU4M1hET2pVaXU3TEJRVHBNT1JGSERDd3JDbjY5djJFU2UybWl6VngyVmxPUmdPa3p6bUFWcFZ2eUg0UXdGZm1tYjB3VWtxNkkyVVBvWXdVVUExVGE4VDNOczZIX3B3V05rQlVSd09WVXlOeGtubV84VVJEcHdMMldLVTBJYTlvS3FNM1lhQmpCcjBuYmtaNjlGTlFaNzQ1SlhjMFBMcXdvMWE4MA?oc=5",
-   "source": "CU Today",
-   "type": "news",
-   "published": "2026-11-03T13:23:48+00:00",
-   "first_seen": "2026-11-04T07:01:43.732118+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "OKX Card brings stablecoin spending to US shoppers",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXZ3a2tUVGFZREwtc0M0dC1hZDdzSnNzVDVrZ1ZUZ2NUZHVmclREeWE5ZXNxbzE2eWFBYXhhNWRHU1VWb0R2ZVc0cWU2dkVoU3hMeFBEN3VWdmFMQ1RZTVFOVU9ETXhITUYwVmFMZDFQZHFpeVR6UW1EVjgtM3o2ODZxZWxLSnFrNkZSZ2R3?oc=5",
-   "source": "FinTech Global",
-   "type": "news",
-   "published": "2026-11-03T13:16:37+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-   "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-03T13:15:47+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
-   "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-03T13:11:47+00:00",
-   "first_seen": "2026-11-03T17:00:06.515516+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "ZachXBT Finds $27M in Extra Withdrawals, Raising Suspected EU Theft Above $133M",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhZTZYa04yUXNuY3RHa2ppRGllb1Y0RHhDN3d6NDY5RXFmeUZMZVRqNHVHSndROE1UcG10b0RXUUJURWdwdVBBc3h5eWR2bUticzhqdGNCQ24zTTdKMHpzXzQwbk9iMm1JWU9nOERZcHR5UVFV?oc=5",
-   "source": "Crypto Economy",
-   "type": "news",
-   "published": "2026-11-03T12:58:10+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
-   ]
-  },
-  {
-   "title": "Crypto Exchange Theft: ZachXBT Raises EU Loss Estimate to $133M",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2JpdmNCbURlU0pqc01RbHFfWWFFSUx1WnNQSDR1ckVJZ2hYSWhJSlpCVWVmR2psM0V2RmxaejdZbGotUjVyTzhCVG0xLWhGbVpPTHhjRjFOMEtpemh1cm8tZ2FrNnZ6QTdPSklVY2dOSDdnaGdBYVVHSWdxbV9wNA?oc=5",
-   "source": "Coin Gabbar",
-   "type": "news",
-   "published": "2026-11-03T12:40:00+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
-   ]
-  },
-  {
-   "title": "ZachXBT Claims Cover-Up Allowed $30M Crypto Laundering",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KUzdLLS00azRkZjhiNGhaVU5KY1pwd1pyMHg5LTdWN1JwYUtzVVZhYjZYbGx5QVN3NWFsZGNpVXQxNUdjdl82Y3RKYlVuVGFzY3dsWS1lYmYxVHhYaGxQRVdrWU5SNWQzcVUtdDJrRUdCRElxNHZEdWJDMmV1QQ?oc=5",
-   "source": "NameCoinNews",
-   "type": "news",
-   "published": "2026-11-03T12:13:13+00:00",
-   "first_seen": "2026-11-04T12:04:33.709382+00:00",
-   "topics": [
-    "ZachXBT"
+    "Morgan Stanley"
    ]
   }
  ],
  "stories": [
   {
    "title": "ZachXBT Names French Bank Cr\u00e9dit Mutuel Ark\u00e9a as Alleged Victim of $133M Crypto Theft",
-   "outlets": 17,
+   "outlets": 21,
    "topics": [
     "ZachXBT"
    ],
    "items": [
+    {
+     "title": "ZachXBT Links Cr\u00e9dit Mutuel Ark\u00e9a to $133M Crypto Theft",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWp3WEZtLXI2bVN6SVhudnlXbUlxS1R3MXc0WmQ0RVEzR0tYaHBtc3NBR3BqMXBnRGtMd3NiZXdKYWlmVlUySUZmYUI0U0YyRVVrTURtOFp4VkFGNTBNcWgteEFIVDR1WklYcDJNVWNyaW5jWlc5Q3Rud0IzVUl5c1dCbXROWVBYd2c?oc=5",
+     "source": "Crypto Economy",
+     "type": "news",
+     "published": "2026-11-04T15:44:02+00:00"
+    },
+    {
+     "title": "Cr\u00e9dit Mutuel Ark\u00e9a Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
+     "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-11-04T15:30:31+00:00"
+    },
+    {
+     "title": "French Bank Cr\u00e9dit Mutuel Ark\u00e9a Hit by $133M Crypto Theft: ZachXBT",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnRPLWZfTkRPcTFUNDE0elNrQUZoYkxXYm8tRGpHUEJVUWJDRzk2TnZaUDZpWmU0S2hYSENPVlJDVFF0ZFc0MFI3OERKWlQxZno3MlFBU1RCbnptWWNpM2xfdVR5WEg1cWxsNV84VzdnMm1HTnIxZFRmV29mZEotN1hLSkVzbld4QURudzFBRU9BSjdzMnoxWWJtTkdBZEQx?oc=5",
+     "source": "CoinCodex",
+     "type": "news",
+     "published": "2026-11-04T14:15:00+00:00"
+    },
+    {
+     "title": "ZachXBT Links French Bank Cr\u00e9dit Mutuel Ark\u00e9a to Alleged $133 Million Crypto Theft",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWVfODJ5ZlN3WWhZcUc2SzV3a2tvNzNLeDlBd2FVdldCSmRucjcwaF8xR0FmR19oRkd6cklHeXRzQzUybzZnWUFpNndyLXpKbkJOYXhuTVV3S3NwVTBIT2gxVU1Kdnp4TGFWUDZEWldURnF5TWhLbXBuSndBMVVVVUdIbHU4OWV0SUZMVG13RVhDQl9MaVBUbmRvRW9uSDJTaDlzcG1FTEd4aXM?oc=5",
+     "source": "FinanceFeeds",
+     "type": "news",
+     "published": "2026-11-04T14:00:53+00:00"
+    },
+    {
+     "title": "ZachXBT Reports $133M Suspected Crypto Theft Involving Cr\u00e9dit Mutuel Ark\u00e9a",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDhkNnBnNjd4elpZMXZ5VUFtU09nLU51dnBVUklVR0p6ZklGcFhEYmdrR25uSUcyQmN4LUpSbGxtdnpHNmpxTlBqQlYzY2hyR3pBUUF3dkQ1TzZCdXRoWEtRTzFGb2tTOG1icFI4bTlRdkVUSkxxNnVNM05iYU5sM2l3TENJQzVWTEhFalFEeXJLcll4QWl0RklUMG9UaVE?oc=5",
+     "source": "Coin Edition",
+     "type": "news",
+     "published": "2026-11-04T13:25:01+00:00"
+    },
+    {
+     "title": "ZachXBT Names Cr\u00e9dit Mutuel Ark\u00e9a in $133M Theft [2026]",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbkhxWTluc3hEUG16S0FkS3A3X3dlRzJtbEdtZG1vc1l0eXJVVEo3SXpIaHpqZ2NRVFVGY3MyaWZWeEFkbVg1b2piTTNjSzU4Y19jSEhZUnBQQVU0Rm1NcVVYdXE3YWxrMzZ3YjZaTXVFLXRxVEM1TUtRVUdKenhUSktR?oc=5",
+     "source": "https://tech-insider.org/",
+     "type": "news",
+     "published": "2026-11-04T13:12:14+00:00"
+    },
+    {
+     "title": "ZachXBT Names French Banking Giant in Alleged $133M Crypto Heist",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdjVHZWtRU2lyS1l6ZC01eDBwNE5uVUJna2VJdk80WlhOcVVSaUNHQmZ2VVhLMGNJTldUcFNiRUY0QkswVmllLXQzV2xUREVfT1dBb1FDeGNKVFprRlprMldqa190blRlbTJBR2hCSEtHYWw4alF4YklCUlpoU3NQZnlKdkFDYWxucmd0elo1bG1SRk40VFRVSFJ3RktmYnFtdk1B?oc=5",
+     "source": "CryptoRank",
+     "type": "news",
+     "published": "2026-11-04T13:05:22+00:00"
+    },
+    {
+     "title": "ZachXBT Names Ark\u00e9a in $133M Crypto Theft [2026]",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWlKUGpsbm1LM0g5cXE1aE9YWHFuWnI4UllLZk5NX3JyVDZ4eEM3RXVPRVZxNWh5blJKZjlMdEZGM193MzVLVnNyRmV5eVhtU0NBakpHTUxrYWRCVWVPZ3I5MjRDOHBSZlN5M2gwVDVfUWJ6bDQwbmo2bkRrNHB6SXhxRGtHRFh2bHhBc0VDV3owRTdwdzAw?oc=5",
+     "source": "shattered.io",
+     "type": "news",
+     "published": "2026-11-04T12:32:06+00:00"
+    },
     {
      "title": "A Week After Binance Hack, ZachXBT Estimates $133 Million Crypto Theft at France's Ark\u00e9a",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKc3BwODZlbHNleU1IWGhkdWthQ25wMWlfNE5kUkFWM0NNVm5FNDVVcUVfMTJKeG95UUI4UEhvcEphcEZ6ZEhBU3g3LUxGbU5reWZsdw?oc=5",
@@ -2515,17 +2835,24 @@
     },
     {
      "title": "ZachXBT Names French Bank Cr\u00e9dit Mutuel Ark\u00e9a as Alleged Victim of $133M Crypto Theft",
-     "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzhReHNVTFVlaF9ka0tCV2xhclRzaWR6ejdSM2Y1dnU2d0k2NHdUNnBld2R6bGhfWVo3ajNZTnVuNHVrRUhmaFVzbi1HeTktV284VDdfZU1UOHlOYTFtaUhmN0V1VV9kRTFLTjh4TFpKdFpvY3ZSX1YxQ19nbmlKSkhHXzFXWEZuNm54a2Q2MHJ3WnRBWmRFRHpsanBic29kUnZzQUVhc0ZnUHJmMUxV?oc=5",
      "source": "Decrypt",
      "type": "news",
      "published": "2026-11-04T11:20:31+00:00"
     },
     {
-     "title": "Cr\u00e9dit Mutuel Ark\u00e9a Crypto Theft: ZachXBT Cites $133M",
+     "title": "ZachXBT Names Cr\u00e9dit Mutuel Ark\u00e9a in Alleged $133 Million Crypto Theft",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWJnQlB0a0JyU015eFRRWVRKaG1JSjBSMmRULXJvc3FKSkc3X281UU9Vb2JZQ1pFdUN4R05LaUdKMTl2a25rY1diSVB1SXFlamFIN2pVRXNxd3ZzUmFDdlM0QWlYRFlmYzJpMHh6UnNBUHVrZWFpZTNCOEY1LURrRlk5QVBKVkpTeDdiREVWSy03YUtPOERBRkFhT19QTWphOUp5WGp6M2FzcUVzNzFRX2wwR0g?oc=5",
      "source": "Bitcoin Foundation",
      "type": "news",
      "published": "2026-11-04T11:09:37+00:00"
+    },
+    {
+     "title": "ZachXBT Says Exchange Accounts Drained of Over $133 Million Belonged to Cr\u00e9dit Mutuel Ark\u00e9a",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU1RSODNhWThHbVhBT3JxbzBwcTFvNWswZ0hSalBkcFg2MjhoU2QtVFVBNExSRlhncktJS3FlLXBRZ2ZtVFBkczZDcHFhYm5iTzdwNDQ4Z3d6MmFQRXRzdjV4RnhUeWg4ajR2ZjN2NzFtWFJjM3V4WkdsY2dlR0E3WWI5ZmFPUHBCVFc0QVR5cy1JdGV2RU1LMy05SkYzeHdYb0FmUWM2OHlhUE91bmotODd4OTFUUVdna1pF?oc=5",
+     "source": "unchainedcrypto.com",
+     "type": "news",
+     "published": "2026-11-04T10:45:00+00:00"
     },
     {
      "title": "ZachXBT names French bank Cr\u00e9dit Mutuel Ark\u00e9a as suspected victim of $133 million crypto theft",
@@ -2542,11 +2869,11 @@
      "published": "2026-11-04T10:04:34+00:00"
     },
     {
-     "title": "ZachXBT Names Cr\u00e9dit Mutuel Ark\u00e9a In $133M Theft",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSTlFYODlyWk9mcGdiOXJRa2dMTnVBZ0wzSXowNHdoOUhlbUFwNWFONjRLOGQxMzJMMm1Ka0NhbGxkeGYzMmloN0M2VnhZMTdocDNTa3o5Z3F6ZmNNS0laME8xT01LOUlFX1E1VnNhWEh5R2xUaXBhTTlB?oc=5",
-     "source": "BlockchainReporter",
+     "title": "ZachXBT Links $133M Crypto Theft To Cr\u00e9dit Mutuel Arkea Via On-Chain Tracing",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVl9VaFk4UUFIaURpaC13cXMxSUx2WUQteE51MXNNUFVYNzh3NkFwamFIYW42MGJ0UEhKOE9ybVJUUDMxdC00UUxHcDNkRmgwNnpMbmhzUFg2cUlUUEQ4R19ZV0FYZHZuemhQRjIzWTI0VWVYSklIbUd6bkRBbFVBWktXdFZ4ODQxY1pZbFJ5ckpLa19HWGljZXN3Z2xyMDB6em1PSk5ycXMtRUZXV3lENVZSb05Xdw?oc=5",
+     "source": "OneBullEx",
      "type": "news",
-     "published": "2026-11-04T09:43:28+00:00"
+     "published": "2026-11-04T08:23:58+00:00"
     },
     {
      "title": "ZachXBT Tracked a $133M Crypto Theft for Two Days. Then He Named the Victim",
@@ -2591,175 +2918,392 @@
      "published": "2026-11-04T03:35:30+00:00"
     },
     {
-     "title": "Name Revealed in Alleged $133 Million Crypto Theft: ZachXBT Points to French Bank",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT0RuTENGQVJmMHR5QzlobC1CYWl0c1NQWlVrNUhuakVHU2tzSVE1U2hjbHFNU2dra1EyZjNyQTBPX0pudWRPcm8yeDFRWXBNbDBPSzBtQUpvWk85ZjRWSWg3QWhaWHZ4NWhpb2tnMU9wTGl0LUVfeFpvZlBEZF94WmgzUUw3OVIzemszNFVrUENtNFhvV1RGdTh3RDdrZWpNdDEtTkxRQWRpWlFlMXNDU2tBUWV2R0Nxenc?oc=5",
-     "source": "Koin B\u00fclteni",
+     "title": "ZachXBT Raises Suspected EU Exchange-Account Theft to $133M+",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkg2SDh3aEJWUk9uZ0d4b2xaYWs2VGVUeTFBUFZCUmMxYXpqYWsxREtndnpoOWcycTJwTmhqZWtnWjJuMnJxZC1EbmwzWHhVSGx4Q1RMMEJTOWlzTGpTdTdkc1NDVW8zY0ZvOXluOTVnNUU2a29vbzRWd3RMNVFSLXljeElFWkFkdFhkR3VYYVNIY29O?oc=5",
+     "source": "CoinMarketCap",
      "type": "news",
-     "published": "2026-11-04T02:58:32+00:00"
-    },
-    {
-     "title": "ZachXBT names Cr\u00e9dit Mutuel Ark\u00e9a as suspected victim of $133M exploit",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53SXRoY1JBY0E4T3NPb3Q4Q2pocEZzTzlkWjRIY1JlXzU4NkFfdm9sR1RSYkZxVlZQYnFBS21wOHk1U3pSakVaendtZElpNGJLTlk5RFp6WTI5VWNiZTBfSVVCOTAzTTRXZmF4RTIyNzkyMjUwNElv?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-11-04T02:36:39+00:00"
-    },
-    {
-     "title": "Credit Mutuel Arkea: $133M CEX Theft Tied to ZachXBT",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlhtaTVHYXp0elJ4MEN4dlQ0QUZvOTBGVUhZbmV0OUdJaXFoYW9MekhTTUtweGF3ZVUxUWhmTDg1b212cEhIelpfalhUQm85cExjRGh5bmYyVW5UdXpqT3BiSXBfdlh6NXFJWUJIVm9nNWw0MzItVTFMbWdvQ2F4WVVRaC1CUVE3?oc=5",
-     "source": "Blockchain News",
-     "type": "news",
-     "published": "2026-11-03T19:18:00+00:00"
-    },
-    {
-     "title": "Zachxbt Names French Bank As Alleged Victim In $133M Crypto Theft",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnVULVJyTHRMNEVILWNtSjFlN1lBVTZKYWJtWmIyTWRZZzIwTWZBOUVCMi1SWkhEVnNWOEpWclhYeF85azk1bDFUZGxlVmZEU3NieGQtOEFvN1l4NTBsRmxBZVZ3OC1IcUVMVm85dERzRXFVYkNmUzI5c3cyYjlQSkdLR2xlUDZPcEl4LUhZTHMyc3FyM1JiSEJn?oc=5",
-     "source": "Menafn",
-     "type": "news",
-     "published": "2026-11-03T16:30:57+00:00"
-    },
-    {
-     "title": "ZachXBT Flags Possible Cover-Up as Crypto Theft Estimates Cross $133 Million",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ2pUUmRxQnBPT0NvQXp0eXFyOWVnR1MwRTJDdVhuLXlxY1JMak5VY2VMVWpNdjBjbnFZWVY4UGlEbWZTS1BMRVdKRV9lbW5iUlBYSWJFaWFVTjFCbTlacEgwWldBbHFGQjBlSnNxWWlydGN4ZlNGN3YwWEtFVXcyWXRQZnl4bTRiODlyVDM0WnV0dFlyeUZuVnAxVTZnai04TGhVYzFOUTROOUl5UTZSckJ5djhveUV3cXFyVWx0SzZFWmRnbjhlRWpIUzdVbWl1Z2Yzcl82N0lZYW5GNnNPMW1sc2lFcExSU3Jz0gHwAUFVX3lxTE9TZmlWdy0wTGZKZXVQRE9SYi1oTTJ6U1oxV09qVF96eDJUejRfZTlZTUJjMTNmV1lJXzNZRm1mWkpreGVyaHlKblYwS2RpSGF2OUZTbFV0dzdvV2hDRWZESmV1d1BPc2hGOVdRbEw1OEYxY3IyeG9tdmR0a1g3LWFyVTczQmthNHdXeHNuUGx5N0MxelN1TTZfQ2VENF9JMUY3ZTlDOG5tazF1T2oxS0hIU0NIQ3J2VzZHU3NuN2NmT0luRFpDYzFDcjR1b0ZwYk5qNWFuN0VNaGJjamJ2ZDBCRWU2c09RdzNIa2ZHaGFXdA?oc=5",
-     "source": "Gadgets 360",
-     "type": "news",
-     "published": "2026-11-03T13:30:44+00:00"
+     "published": "2026-11-04T02:15:17+00:00"
     }
    ]
   },
   {
-   "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+   "title": "Morgan Stanley Tokenizes U.S. Stocks and Treasuries via DTCC Service",
    "outlets": 16,
    "topics": [
-    "Bitcoin",
-    "CFTC",
+    "Morgan Stanley",
+    "RWA"
+   ],
+   "items": [
+    {
+     "title": "Morgan Stanley Joins Tokenization Push as Banks Double Down on Blockchains",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFRvSEtqQ3BNWURBaDVvcmJDOXhXSFFFdHh5bjlfSk5JNnBzNDNwWElwSndtRWMwcFprbFMzZTREUEZobGF4SUh5RUFfbGI5a3p0U09LYUpoWWUxVFVnNVRkQlVScDQ0QzZGakNQcHhwYU53cFdZT25vTzc1cTAzVGs4VjZZY0MzSC1pSTE4NVFWV04wUFhnX3NtVGVuQzEzNnBwMDY2OEVNREc5YTFpM2VUNUFSQVpZMDI1TWoxVjNQNlJ3SU9DYW0wZEU2S3daUEE?oc=5",
+     "source": "Benzinga",
+     "type": "news",
+     "published": "2026-11-04T15:30:20+00:00"
+    },
+    {
+     "title": "Morgan Stanley Becomes One of the First Banks to Tokenize U.S. Stocks via DTCC",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0lUZ2pERHB2N0RKdFdSNnV2dmtkRHBfOGRiZkZwbjlheXZkaVdOSmQxQU10aHdVZDdyM21vQmFQLU40MkRETHE3SVl1OERwVjFXbGZrWmd3VmdjcnB4TFBUa05jTGEyZjBCdFJ0VTQtbGZvdTh6MVVJTzZUR2Vic0kzN1dpQThheGpqMkVNak5Ua3VUYVNWRkJfT0oydjFVOVh2ZDQxTmFsTUtyNmwzcjkxNA?oc=5",
+     "source": "CoinCodex",
+     "type": "news",
+     "published": "2026-11-04T15:01:00+00:00"
+    },
+    {
+     "title": "Morgan Stanley Tokenizes US Equities and Treasuries Through DTCC Service",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kQkJKSGFsVGJ3dHhmRV9wWkloNk56am04UHhEQVZSeXNRdVhvQ0tZVVE0a3h6YklJZWVDeDY1YjdwMmlPVWxkZW1xOHM3dHRrSjV6Skl6c3luVXBCN2NlUGV6SkphUXJ4bU0wd19DVXFEbWtySElZWHI0UE4xdw?oc=5",
+     "source": "FinanceFeeds",
+     "type": "news",
+     "published": "2026-11-04T14:54:52+00:00"
+    },
+    {
+     "title": "Morgan Stanley Tokenizes U.S. Equities",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWlBYmhVTXlvNkZhc1M1eGhIV3dmMVhsTGp2el8xcFhtci13UnFTemdFbEZSY1ZEaTVCWXJsajlXQXppX0E2Z0VrbERVOFJWVkVyNUVhZzN5Mno0RXN2TW5yMzhvR2xjQnR1Z0pLRDFGQXBrT21zQ1MxS2RFcFh5NFNtZmhMZXRnV0duRUlWQ0ZZQXhfVTV1M1pnakJ6NkJHU1E?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-04T14:39:00+00:00"
+    },
+    {
+     "title": "Morgan Stanley starts tokenizing US stocks and Treasuries through DTCC\u2019s new service",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0V2QlM3OWxnYkJmWEs5VmFmdmdfT2N4d2RadkRSNlNHUjcyRzJOeFpVUFMzNl9OQllVcnVsYjFaY2g0QkU1YWJqbkQ1dy0tbVh5RmxlR1o0cDI5dUU1cUlHbk4xVmhWcWtKc1NmdFRuZWtHMi1uNEhqSm1oa3V6YnBENl9XdURuT0R1RDU4Y0hjQTREV2NfV01CY0NIQmtqYnJ3SDdR?oc=5",
+     "source": "eGamers.io",
+     "type": "news",
+     "published": "2026-11-04T13:01:28+00:00"
+    },
+    {
+     "title": "Morgan Stanley Joined Tokenization of US Stocks and Treasury Bonds via DTCC Service",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXhPSEd5SjlkUi1jQ2c3OW1fN2NIaXlKRV9WZ2JjV0o2Q21DTGFvN0JnVU5vSE5ld3AwX2hSbHRVNW9tbjVWWl9aR2lVdFkxTWFrNzV4UUdpRmN2UnZzaFJETlZnSmhMM0FaV0kxYW1iSVpKRXFjZXV3REtXOUp1N1ZNR1BwNUNKaHNwTFlkLXVscmRPejc1T1NzUHRCWU9oZkN4djNpVC0zdWNSblE?oc=5",
+     "source": "Incrypted",
+     "type": "news",
+     "published": "2026-11-04T11:44:38+00:00"
+    },
+    {
+     "title": "Morgan Stanley Tokenizes US Stocks and Treasuries Through DTCC",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXlNSnJXR1VRbUVqSVQ5Y0dfaWJQLVI3TkRkdGFnSWIyV3hQT2luYmtQVS1jLVFnaWlXTHhWdU16dnlqNVF3SU9FcTZUelFZbk0yM3NxNGxvdG9ZcDdHWERnVFdTMmZmeVlsaEY5d096OVltV3Fka1hiek9uZi1JV2tEQWpNS2YyUkllTHJOS2FzS2FiUVA5RGlwMnE3TldRRHVVVXdaZ3l3alo2a2tiTTlR?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-11-04T11:44:14+00:00"
+    },
+    {
+     "title": "Morgan Stanley Plans to Adopt DTCC Tokenization Service for U.S. Securities",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ncEZRNFZZcnVDX1g0d2VQd3JBZnQwbEVvbGdzY2xOZ3Q5N2tNLXlNT1VXb0xlcC1sRThJcW9FU3VPVVdhQXBXTVVQNEVGQlNlQ0s1M1JNaFE?oc=5",
+     "source": "www.tokenpost.com",
+     "type": "news",
+     "published": "2026-11-04T11:43:40+00:00"
+    },
+    {
+     "title": "Morgan Stanley Tokenizes U.S. Stocks and Treasuries via DTCC Service",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkNfc2FIZWQ2V1RjZ1hsZThSU3Z0Y2dHbm84U0o4M1dxZGFnUmY1aWk5NzBObFlNNnVRTmVDSzRrLVh6Tk5JUE5yS0t2Zzlyc1pxZGRmLUxHblpuYk1IZFFjdWxOWEtaR2dwdlVXem9BUUFIVU13Zi0zTzhCRUM1SzRZNVEzT3hIWVVROUU4bWY1M3lYOEE?oc=5",
+     "source": "ForkLog",
+     "type": "news",
+     "published": "2026-11-04T11:30:00+00:00"
+    },
+    {
+     "title": "Morgan Stanley becomes one of first banks to tokenize U.S. stocks, Treasuries through DTCC",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zaEhyMEJncFFfNFptbFJJOFZNQWh0aXE3eVNtcDVBOG1wMXM3Y3NOWjBLNS10enNnVzdZOHdsWmhQUk9DOVZHQ2lodlA3dVZrRlJ2LVNVbUozMlNQZS1HRHNjM0s1S1BiblV1QzEtLTMzWW03b1UySjBiNA?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-04T10:07:02+00:00"
+    },
+    {
+     "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC\u2019s service",
+     "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-11-04T09:37:45+00:00"
+    },
+    {
+     "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+     "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-04T09:22:58+00:00"
+    },
+    {
+     "title": "Morgan Stanley leads tokenization trend among major banks",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ2lFSVNzZktrRFJ1ZG0zX3JReHZPdnVSOTdYOElNaDA1eEwtcXBwR0pnRlFqTHRGLUJzWFFKVVBnMWhxUm1GamUxT0tyc1F4QmttSzdkLUhNWHJ5OGs4Z09YS2JOM0V1Ql96bUFYMlBJMlg0QkI5QTVZTHhGMDNYRTVpU1QwdE16UHF0M2p5dzV6SEtUN3Z5TVVXS1FwTGpQTGdWRzdVZEttQkZWa0ZwV0hNYnpmVURESU1tazdvam5VaF9ucFZIWVF0Yjd6cnVuQ1BoR0syMA?oc=5",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-04T09:22:58+00:00"
+    },
+    {
+     "title": "Morgan Stanley Joins DTCC Tokenization Service, Covering $30 Trillion in Securities",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejBIdDdaMnowVE5neEplQ0pGV1dhQTEtLUp2UkFGOUxFd3pvbHo2dERmOThhWmwzeTZiUU1pMTFldVVFUTBrMkFJSTJ4VHZNVTBVc1puanFOZGdtOGNOWmlwdWlDNkMwd3pEVlozYk91NERkUGVFQWtOd2JzeHJrNmxubUExM0JaekdrTDFGZWp0M25qdTBJSzNFUFluMGhEbjZhMVJsazFhWmc?oc=5",
+     "source": "KuCoin",
+     "type": "news",
+     "published": "2026-11-04T08:06:05+00:00"
+    },
+    {
+     "title": "Morgan Stanley (MS.US) becomes one of the first to access DTCC\u2019s tokenization service: 34 securities covering a market capitalization of $30 trillion",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2s3V1B5a2dYWm1KNjdXdHktenk1ejk5UURfZE5qRTB0dktRd0FIM3ZLem42bFpuWk80SFh2Rnpab0UzUzQzTGU4b2o3bTdfeEpEYVBEUENhc240ZThiNmhlcVk4M2VTbV9TemJQLS1QNUdudnM2X29vdUd5TmlsaFZGc2hMaUJ6Y1E3OEdwMlZVZ2NuUmMwbW0yQ3FLYUU?oc=5",
+     "source": "Moomoo",
+     "type": "news",
+     "published": "2026-11-04T07:57:29+00:00"
+    },
+    {
+     "title": "Morgan Stanley to Use DTCC Service to Tokenize US Stocks, Treasuries",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lMHBQUGlJRWtoR2tjeEZFcjlxOXBORVJhclU0TjFQMkxoVUY1NFhaN21YU2xabjlFbEQway1LdXNYcmI1ZFNaSVZocXgyaFlzNDVYaw?oc=5",
+     "source": "bloomingbit",
+     "type": "news",
+     "published": "2026-11-04T01:12:55+00:00"
+    },
+    {
+     "title": "Morgan Stanley Among First Banks to Use DTCC Tokenization Service",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XLVhobDM1MkR3MnBiajRNbnlTMXIwSjFIOXlaQklXUkNNZWlrWFhJSmJ6bTJMdzFtRENPZnFoT2xNSWIzWHQtZTdka2xBNi04Uk1GUlVlbXBrZWhSNFV2cmZGQVk?oc=5",
+     "source": "Binance",
+     "type": "news",
+     "published": "2026-11-04T00:58:38+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Canton CC Token Rises 4% After SEC Staff Categorizes It as Digital Commodity",
+   "outlets": 7,
+   "topics": [
     "SEC"
    ],
    "items": [
     {
-     "title": "CFTC Approves Stock Perpetual Futures: Hyperliquid Explained",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1l3aFN6TkFnRl80RTlJRTJrWXhhNGlHSGlIQml1N1Zyd0Utd0JpV1diSmV6OFZpbXN6QmRjR2c0R2VVLWxEOFVXUmU5NXBsTlF0RzFIRGF2NUo3bTZGQ0pDOV9oYUZPMTBjZ0FzM25SMjhndXF1ZjdJSDJGbGtmNk9yQXI?oc=5",
-     "source": "CryptoTicker.io",
+     "title": "SEC Grants Canton Coin No-Action Relief, Recognizing Token as a Digital Commodity",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzhsSVBIdlhNV2JHZWo3bUFWQ1FtQXNMN3lZWlUxYjJaclZCTmJWZmMxN0F6cENyckNZai0xT1FLa0JxUVVndXF0VnhEZjVnQnRsbzJ1Qzh2MDhhWXUyMkVXMHRJQ1VQSVQtRjByb2ZqU0o5RmE5MWhLTG11ZDlPWU5qazd1U0lpcG9fQXk2TUt2OG1Y?oc=5",
+     "source": "Yahoo Finance",
      "type": "news",
-     "published": "2026-11-04T10:12:00+00:00"
+     "published": "2026-11-04T14:49:00+00:00"
     },
     {
-     "title": "CFTC faces lawsuit after allowing perpetual futures trading on U.S. stocks",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xX0ZGOXlGRzB4NUFOaC1hWmpORW1EaHktSWNQUFV0aEdBNGVhekdZamdvc0ZLTTJYQkFWbXNFR0N6d2g1eklqc2NQbXBBdTJNRmFTdFlkcVozbDBoNDh2bHZVSHIyc1pISHFQbVN4VEJ6LVVJ?oc=5",
-     "source": "Crypto News",
+     "title": "Canton CC Token Rises 4% After SEC Staff Categorizes It as Digital Commodity",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWZldGU1TEhOdVgxR2R6bzcyd0hGbTlSaGZhUy1GcC0xRkJwMEg4OU5GZE5IeXFLYVJ5MnZCeDJyN3B5YUNYb2FFRjZNOHBmWmlWTUFnczlTQUNnMTluczdRdTVFSlRCa1lNY09JblgyelI1RlI5WTlZTm5CNkZNWUhkbnFuNjZzTzNBX0xwUmw3MW96eXhFdVc1UmUzMUFHVmwxZ1llVEZoVkxLd3c?oc=5",
+     "source": "KuCoin",
      "type": "news",
-     "published": "2026-11-04T07:02:00+00:00"
+     "published": "2026-11-04T13:06:20+00:00"
     },
     {
-     "title": "Stock Perpetual Futures Face Lawsuit Over CFTC Trading Approval",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnRzUWFKTEozTE4xVXluNkJCQXlJMUZ4LVB0YlNVUFpBQUZaVGJfZlpWMjlMMWhHNE16SE84dXBuVG1TZ1BHbGd3bXd1WUw3MzNtQlVyODFNWVJocHJnNkxIR0tObjVJMTlPeFVSclc3c1BLbFNqb2NfZURoTnpwakpCSmkyVzFVTk5pcVN1RG9nQzRJM0wzVEk1YjkxT1FGSDI0?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-11-04T05:56:43+00:00"
-    },
-    {
-     "title": "CFTC Chair Says Equity Perps Can Begin US Trading",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGdaQWkzVnB4QlBpNVgtWmlEV09MR3lLWi1JZGJPNzFzd3ZMdGltR1RnUEpfVDdUZjFpb0wxLXliVi11Z2tLaDhUZXcwbnJhSGV5TkRMblN0Mmc5WWFXb2lFU0hDM2ota1BaVkMyeVE2eXJ0WkdpOU9WVTFFQ3ZSaERrVlZRSWU1US1MeENuN0RJQzBLOEE?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-11-04T05:19:11+00:00"
-    },
-    {
-     "title": "CFTC News: Commission Classifies U.S. Equity Perpetual Futures as Security Futures Products",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjVDdFNjMUh1T29RYUlDc1d4eGJkVEw1RllIZU5uU25uUDNGekdWM0JPZ1RIcVJuYjBxOFJ2eTdEbms2a2JZYWVsM003MkExd1BGeFVwWnFCS0k0UXZlTVBzajFIREtFZlJ5WmpIa3pNa3k3d05ZWWkxWWxwRjFGbDlOckJlWW9OTDktcERBTnZOUGFBV3JwQlIzTDJCZ3UzWW9XblBVUG83dDhTc1BaZFpCa3hDcFVnR0NFNm9DR05YWmVJRHc?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-11-03T23:54:28+00:00"
-    },
-    {
-     "title": "CFTC Approves Stock Perpetual Futures: What Equity Perps Mean",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHVhTXlUVXdUQmR0UGNyZzRLc21HV1dtNUt4cm1ORlBNM01MOE1QWU55T0c5czhOV0tFY05OV0ZfQTA5WGdoVU5ndUJzTUJNS2dsUXZFUWhoZzRvLVNXdHhFaXh1N2NEdUctcHNtZ0hERnlWMmYwcnJCdHAtcDcyNGVJbVJqdjdabWkzaG9heUY?oc=5",
-     "source": "Crypto.com",
-     "type": "news",
-     "published": "2026-11-03T23:23:28+00:00"
-    },
-    {
-     "title": "CFTC Opens Stock Perpetual Futures Path for Kalshi",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZRFJIak5fU1M3WVBDUGpkQ3YtNzNDMDQyR1Myb0hQZWhyYVVOYXRQRGYzc1FPZEZQcWV4MU5vWjlUTUhqUE5oaDhDcEFoSG95eFRWaEhxUC1KOUc0SzZZbDN2STg2Q291N3ZnSkNSUmhDbnZO?oc=5",
-     "source": "DeFi Rate",
-     "type": "news",
-     "published": "2026-11-03T21:37:34+00:00"
-    },
-    {
-     "title": "CFTC clears stock perpetual futures for trading on US exchanges",
-     "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "title": "Canton\u2019s CC rises 4% as SEC staff view it as \u2018digital commodity\u2019",
+     "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "type": "news",
-     "published": "2026-11-03T20:24:55+00:00"
+     "published": "2026-11-04T12:12:15+00:00"
     },
     {
-     "title": "CFTC opens U.S. stocks to crypto-style futures that never expire",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1hGY2l0cmp3ZmNvMEZwMHhGSWhVc3MxbmdXYmg2VzZhNnZ3WmswUklKTmZRMWZValAxMmVPQzRZSXZGQm1qcGhROExuXzlzbTJfajJkbmt0MzY0emdQa2ROTzFVZFY0WjlFY1ZSVUt6MU5FOE1McERMYlZQSnZMMTdaWUNncEpCbERpRlRPMExteURBRkpycjJvQllRcG9QTFVTMjBhbw?oc=5",
-     "source": "TheStreet",
+     "title": "Canton Coin Reprices 3.15% on SEC Digital Commodity Letter",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdkdYTHdRQ0txdlBxU2RFUlVYQzFaTVRiRm4tZ05GXzJxRkdBQTdtQ3l1NS1PMjJDbi1qajlGWmNSRUVoMWVCZGs5Q3k3clIzaGVycFZvNDJ3V3ZJeHlCaXVTeExjXzVTTGVhTGo4T3E?oc=5",
+     "source": "CoinMarketCap",
      "type": "news",
-     "published": "2026-11-03T20:10:42+00:00"
+     "published": "2026-11-04T08:05:00+00:00"
     },
     {
-     "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
-     "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
-     "source": "Decrypt",
+     "title": "SEC says Canton Coin is a digital commodity, clears limited token issuance",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QWE5QOFAwY0tfbnpHN3ItbEdBX3RIRUVLUHFEWWUzWGtHYmpSRVk1VUVIdWRYbVpMeXFQeHNVSHIxZkhodlRDZk5OdjBCTFoyNUYzbDVnekktdTY4TzBjU3B0Zm5vamVETElOSHpKQzRnRmxKdm1jOWtqaw?oc=5",
+     "source": "Crypto News",
      "type": "news",
-     "published": "2026-11-03T19:16:02+00:00"
+     "published": "2026-11-04T07:34:00+00:00"
     },
     {
-     "title": "The CFTC Just Cleared Stock Perpetual Futures for U.S. Exchanges. Does That Hurt Hyperliquid?",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVy1JWi1xSnhXSVc1ZUFpNm5GeFdRamoxN3B3LVdNV3lWa1VMVHZ6d3lOQUl6WWo2cnRCSWVvUXptZDNla01VeEk5S1dmYkNkRVpqYTFHMGJ2c1NYVGJKOUxHbVZFS1gtQVh5ZXF6akVHcUF4MVR6VjNmWkQ3ZXUtLUNSVUdoWXo2a3RWUWhmLVNmS29TM1g3YVZvV0ZsWFlxT0dJZTN5X1phdDRBcXRnWXhjd185WmlmZ1YwSGJqay10NVJmTTVkVmtodGREa3RHcUpiZmw2aDUwQVhvTk5ZX2Y1aw?oc=5",
-     "source": "24/7 Wall St.",
+     "title": "SEC Staff Grants Canton Coin No-Action Relief for Token Minting",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0g1YnpYN2ItX0NDRnplZmZqeUNHbkdoTkxka3JrZ0w5dEJhNjZGS1hWLVd3NEhwQzctN3R2bWx2SXRyNHhieGFZRlNrVGN0NXN6X2RtNnZub0k5RGtQNTdRd254WWdYVkxzb2FZbUtCWnJpeVdpNDM1VDdRMEgzX1ExM0gtWUZqdFk4MjgtNjR3QWRQRGFGRTBlc2REYkRnNENJ?oc=5",
+     "source": "The Defiant",
      "type": "news",
-     "published": "2026-11-03T17:53:00+00:00"
+     "published": "2026-11-04T05:44:12+00:00"
     },
     {
-     "title": "CFTC approves trading of single-stock perpetual futures under joint SEC oversight",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjJCS1hKdWFabVNBLTJ2STViWUxjRlZpMDNScUNiZlNNenNNRk0waW15ZXhOZVNkVjJzQjM2SkVpNThpYk1lYnMzOXpBalVFZ2hST001SlFSYVdlMzFWTlRybVhUcUlGeV9YeS1SRTNvVFVWN1VacGZxejZxc2ZVZEhzTGNPZ2NyV1pR?oc=5",
-     "source": "Yahoo Finance Australia",
-     "type": "news",
-     "published": "2026-11-03T17:34:13+00:00"
-    },
-    {
-     "title": "CFTC\u2019s Selig Says Perpetual Futures on Individual Stocks Can Now Trade in the US",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlpxWUk0bUc1WVo0dWdjRVJOLXdsU3dGd09sODFSNXd4R1h5bzFhdE1BWklVRzJyMGNjc0lJTVFrVHNhWW44UTUxcWM0Um92alpEQTdLOWVZQjZoZ2JYV1k1cEVCY2ZKeEZkT29hU3RtWnZvWGhXWE9XTjYzaWpadUVMVXUweElpZFZYa3lJQlI4MFFrZEwyak15ODc3LUU3N1lQTGVfelNySlRH?oc=5",
-     "source": "unchainedcrypto.com",
-     "type": "news",
-     "published": "2026-11-03T17:20:00+00:00"
-    },
-    {
-     "title": "CFTC Allows Perpetual Futures to Expand from Bitcoin to Individual Stocks",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXBEMU9sTHJqQy0yVUlBdFRmZEI2aWdGcFV1eFc1dWdnTFhFUTZTeFhRTFlJRDJzQUpWNk1rWXh5WDhYOUpSRGo0Y0RRNlpwTGZZYU5vZFM0N1pPcVNXS0ZRSHYwX0hmeXhkYUtuZFBXR1BZZ3p4WXJWUVN5akM0VDFRZDZjbFh4Qi1XTEx2SUtMR2l3cVRXZGVOVENZMEdVSVRFTkV2MUYxUVk3UEg2aTlNakQ3bWJ6SFFhM3JlRGpmSE8w?oc=5",
-     "source": "Finance Magnates",
-     "type": "news",
-     "published": "2026-11-03T16:06:21+00:00"
-    },
-    {
-     "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
-     "url": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
+     "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+     "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
      "source": "The Block",
      "type": "news",
-     "published": "2026-11-03T15:37:50+00:00"
-    },
-    {
-     "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-     "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-03T15:02:13+00:00"
-    },
-    {
-     "title": "CFTC Opens U.S. Stock Market to Equity Perpetual Futures",
-     "url": "https://bitcoinmagazine.com/news/cftc-opens-equity-perpetual-futures",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-11-03T14:50:58+00:00"
+     "published": "2026-11-03T22:11:51+00:00"
     }
    ]
   },
   {
-   "title": "US midterm elections 2026 as it happened: Democrats win control of Congress",
-   "outlets": 8,
+   "title": "CLARITY Act faces new Congress after Democratic election sweep",
+   "outlets": 6,
+   "topics": [
+    "Democratic Sweep",
+    "Democrats",
+    "Senate"
+   ],
+   "items": [
+    {
+     "title": "U.S. Democratic sweep could be the final nail in the \u2018Clarity Act\u2019s coffin\u2019",
+     "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-04T16:11:29+00:00"
+    },
+    {
+     "title": "Democratic sweep of Congress could be final blow to Clarity Act after $170.5M crypto push",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVTFLQ0owdktZaUpZbk5BWENvUkVRamotdmdOSUhlaDkteUpQTGtOUjlTdkRiNG8yb0lGT1VreHhPVFhyOU9mTWsyazExenl1bG5PVnFvOURzQW94NTZqREFYZ1U4c2QxYXIwSGttczFPLXAtVnFsRDY5Y1F2Uzd1VnhfbnF3TEIybloxTlhFVk5CRmxhLUxmb0dNYm5tdy1pZGJkZXBOaXVjSUNZVnJVZTlIOS1HUQ?oc=5",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-04T16:11:29+00:00"
+    },
+    {
+     "title": "TD Cowen: Democratic Sweep Makes a Crypto-Backed CLARITY Act \u2018Impossible\u2019",
+     "url": "https://bitcoinmagazine.com/news/td-cowen-democratic-sweep-clarity",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-11-04T15:51:48+00:00"
+    },
+    {
+     "title": "CLARITY Act faces new Congress after Democratic election sweep",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xLXR0QldzamRtRnhJcnpJbVJnbHVKSmlQZGpyNFZQNjVzMDFMRDNyeGxuLXhfRnQtSkRmeDBPQUZHQXpVekZYLTR2YXRvOWk1S0tNcnhjMEtSNzUxSFh5QVFNS2xobmRQNTZRTU1Id3RoQQ?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-04T15:34:16+00:00"
+    },
+    {
+     "title": "CLARITY Act Faces January 3 Deadline After Democrats Win Congress",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGRkM1pMSWZvamcxTWZlNEVYLWwzTTViQnlvRmc3blNVaVVoR3pqUmxaTElJMzhqQnBsV3dOVG04VTVfSEdVUUltUGF2V1liUUxnUkR3RFhfT1ZueGRqZndpek1qRjhCT1NNQ1A4dWZMZWVLVlp5bXZjTHR4MHNTSVZpNHFvV25ZN3ZaRWpqcEdnSUpNaXZ2bVdhdTlabVZiTmRlSk9XWjczdzQtT09qUzBB?oc=5",
+     "source": "Bitcoin Foundation",
+     "type": "news",
+     "published": "2026-11-04T08:22:42+00:00"
+    },
+    {
+     "title": "Democrats Take Senate Majority as Iowa Win Puts Crypto Bill CLARITY Act on the Clock",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xYnh1ellIWERreHhGMW5xYlk1dDJjZVFhdmhsdS0zY1IzVFJNb29FYXVzX3hTZGlCQkJPdlRVN1laRGh6SWJ4bi1YSjZEdmVvUWZKdDFYaE1pYm1Dd1hJY0ZaUXpDMW5weTk1SmZiSTFJU0Q2Ync?oc=5",
+     "source": "BigGo Finance",
+     "type": "news",
+     "published": "2026-11-04T05:25:00+00:00"
+    },
+    {
+     "title": "Democrats Win Senate Control as CLARITY Act Remains Stalled",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVFvTWZLb08wSDNCcjNKbTFtOFpCbDU4VWd6Z3FIM1hFLWw4NEE5RTBvd3JHUXFtQW5CUzJtTlkwRXVKendXOGJ0YVNuRlFCQncybmQybVNVSFh3dXNtWWRfd2ZkSUNhSU5qdlV1cUJ2YlRsdWhsY2k5VHhPWC1OR2Z2UV9iaG0tSTAxSkxJZXRKcUZWdEdndzNNQXhKdw?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-11-04T05:04:08+00:00"
+    },
+    {
+     "title": "TD Cowen: Democratic Congress Would Sink CLARITY Act for Two Years",
+     "url": "https://bitcoinmagazine.com/news/td-cowen-democratic-congress-clarity-act",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-11-03T17:39:34+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin recovers to near $78k as Democrats sweep midterm elections",
+   "outlets": 4,
+   "topics": [
+    "Bitcoin",
+    "Democratic Sweep",
+    "Democrats"
+   ],
+   "items": [
+    {
+     "title": "Bitcoin Rebounds to $80,500 as Stocks Rally on Democratic Sweep",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SUVI3LW53Sm9ZbzVuOVRMN0d4bTdZdWN3ZGtpRVZ2TkZEUDU0QzdIWlBBRmRBeGMwMDI0MnN3cU12Sko4ZnVKcWg0bHYxNDR5dUtvSGJFNFlNd1hXTktoMVdmdmxSb0U?oc=5",
+     "source": "Bitbo",
+     "type": "news",
+     "published": "2026-11-04T16:05:00+00:00"
+    },
+    {
+     "title": "Bitcoin Recovers Despite Democratic Midterm Gains",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlRUZkd1OWFvelVrRGhnS1JRZThYLVdtRWlRMEFyeExVZjZvdk1LX1dFblJZQ29yb1dMaTl2a0JiUlBjZ2xrT0JWSHIzX1IyaWRrWU8wYmloc2xoN0FheHAwUGZZLURvSkVucDAtQ2JLNXFRWFB1TmU5eVpjQlRjZXpRT1VEVFlIR2pGUTZMUDlTUGZvblhINGxKTEczX0xPT2pkWl96dUt6R28z?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-04T15:21:00+00:00"
+    },
+    {
+     "title": "Bitcoin rebounds after Democratic sweep despite three days of ETF outflows",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcnZPMjJBRXFTYTgyUk9RNEoyX0ZaRllmTmd1d1hwall5SHFLM2JEYjlxNDg5b2JZbklhalAwZUp6c2dJck51WTBGSUk4TTNmMERIMkpHanR1dVozZG9yMndSYVFKeG1wQkhFMlN1cUh0ektSZ0hHM3JMb3hLbW1vZWRVbF9FTE1WSFhWcFZESTBnaXhEaUIwRnZKSEJSNU02?oc=5",
+     "source": "CryptoSlate",
+     "type": "news",
+     "published": "2026-11-04T12:30:18+00:00"
+    },
+    {
+     "title": "Bitcoin recovers to near $78k as Democrats sweep midterm elections",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFdTVl9LY25qQWluQ1Uxc1dQTzhZeGZubGpsRGEteE1sLTg2UnI4QzFubWV2SGtnZmNqRXFxVDUtLVlSdkFsaC0xUy1yckpGMVB4aHVNMFF5SG5CVGVsYlhhWE1EOTlyczZ3TWNKNUcyMUVsbUp1U3NEbmM0R0EtTHk5YlJPV3VrVm9LRG9iXzVMaEg5b0dyNE5IZ3NZOFFoeVE?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-04T07:40:00+00:00"
+    },
+    {
+     "title": "Bitcoin rebound above $78k as Democrats sweep midterm elections",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNC1JT1o3MVpMRkx6c3k3VncwMVprZ3JsQjhpM3RRUDY3bmNoXy1WNzZiOHY2S0JKVGRHNTRPZkZlX3cyM1ljS2RKRTlQZjlfZGROUE5Ka1dtOGxiX18xT2tCbXkyeldVay1jajBSRXFILUFoQTRsa0c3cHJMNlFGcV93S25Xdkp2TE5QdXpUbldhZEc3UXp0WUVpUGV3NS1qSkVJTVk0c1NmcGRPdnphLVpFLW9mWkNqRGg0amtwd25PQQ?oc=5",
+     "source": "Investing.com",
+     "type": "news",
+     "published": "2026-11-04T07:12:30+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Midterm Election Results 2026 Live: House, Senate, Bitcoin",
+   "outlets": 3,
+   "topics": [
+    "Bitcoin",
+    "Senate"
+   ],
+   "items": [
+    {
+     "title": "Bitcoin Jumps Back Above $80,000 After the Midterm Shock",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLXpJWXZ6cUNXQ1RSR1lZUHFSMGtmY0pZekdFaEtyYWk4cTcwNjBpRzZXcHdqU1lzdVJ6ejVyVWZrNERtWXVKTVdFNTFCSkxRaFdDNDZqUlFHN01LUFhNRUpEMTZCNlhWS3J5MFJXYWZMRTVxeEp0aW9xWQ?oc=5",
+     "source": "www.trendingtopics.eu",
+     "type": "news",
+     "published": "2026-11-04T15:55:34+00:00"
+    },
+    {
+     "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-11-04T15:29:23+00:00"
+    },
+    {
+     "title": "Kansas Election Results 2026: Hamilton Wins the Senate Seat",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JQmZlbjRSSGhhaTlvSElKakdjQ3JVdFRQRktJeWdqRjZqUlU4UHlXR2QwZENtWjlDTlc3T1pYeTh3VTRLczdxYnZWV3dvOUtqT3NObFAxUWdvN2V6cUdUd0lPYkhBTy1vLUhRTDByYW5mNEpqQzRUYjJUMHo?oc=5",
+     "source": "CryptoTicker.io",
+     "type": "news",
+     "published": "2026-11-04T06:11:23+00:00"
+    },
+    {
+     "title": "Iowa Election Results 2026: Turek Wins Senate, Sand Governor",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXZExmMXM4NWZaOFZ5bEo5M2o3ZU84c3hTQkNrQ1BoUXdiOFJGUFVMNWZJQjJ1eXBudUVITVo2Z1FiSmVfYlFXdzc4V0Jjb1VBMGgxNWRaVVU5ZklEZTJ4Q1REcEJuVVJFejRsSXRkaWY2Y2ZvSE16LUFILUprMUk?oc=5",
+     "source": "CryptoTicker.io",
+     "type": "news",
+     "published": "2026-11-04T06:10:21+00:00"
+    },
+    {
+     "title": "Midterm Election Results 2026 Live: House, Senate, Bitcoin",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obHZLd3B2eXJEdmlfbllza0RLM3pMMTY5aWhZSEwtSWNBTUhtOWpYZF9GOEphSFlUMk1wdElkQy1Oc2YtMnNCeUhId0MyN1V2enFnckhNcDE4b3VnV1ZkY0VvdFYxUmNWY3AyZFh2TQ?oc=5",
+     "source": "CryptoTicker.io",
+     "type": "news",
+     "published": "2026-11-03T23:46:23+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Stablecoin Issuer Circle Cuts 5% Jobs",
+   "outlets": 3,
+   "topics": [
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "Stablecoin Issuer Circle Cuts 5% Jobs",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHR2R1M2OVZMUlFkT3FzOVQwVW1TQTNhOVFzb0dreDBrdDhnaXRxVmJ0UHlNZ1ZCRkI0Z1FUOTBaaUJGOEpLdkp6ZUVHa1ZoQl9xbTUwbDk5VDJVS19mTF9IeTE3ZmZQUDA3dEE2TEJzTHBlZ19TVTVuM1NrcE80bkJkYw?oc=5",
+     "source": "The Information",
+     "type": "news",
+     "published": "2026-11-04T15:41:00+00:00"
+    },
+    {
+     "title": "Stablecoin Issuer Circle Cuts 5% Of Workforce",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGtNQmVOWGd0VHhLYmVWZWZEaTAxY3N3MlhlUGZQZk9Sc1JWbmZiZ1lBemNZVUlmRkc3bkxqZDAzTjRtYTQ2WEo5TlhrR2Fvakg2MU9wUTdjazRVVlV5WFY1VzZsZGMteW5sbU1feGtfMDhtZjFPMU43TnZTbzFiV1R0aHRNZDF2M3Z5N3N6SEFGVVRzc3B0Q1R5Ri0?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-04T13:43:00+00:00"
+    },
+    {
+     "title": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
+     "url": "https://decrypt.co/382493/usdc-issuer-circle-quietly-cuts-5-of-staff-in-profitable-quarter",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-11-04T12:44:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "POLITICS | Bitcoin Rebounds as Democrats Take Control of Senate and Congress",
+   "outlets": 3,
    "topics": [
     "Bitcoin",
     "Democrats",
@@ -2767,53 +3311,11 @@
    ],
    "items": [
     {
-     "title": "Bitcoin Tops $78,000 After Democrats Win Control of Congress -- 2nd Update",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjVWeXJ6blFVVnhQM3dQQ0pTdzRpUXJJUU5RM2tBdXBlT3hEZXNmVVp1cUhlcDZvRC11T0xnZ2Q1NEtpc0tlZnNScTQzeXFWbDNMOUQzWUtqUms0eTlQNHphNzRoQlkyWkNFRUVJaGlxeVFVNTYxSjNudlJSWnNxSmVrREVidnU4Wk5vbWhUa2d5WkNxZ3hGQTh6TXdDRjA0Sy0yaWNuZ3paQTRRazNHQVBVTm5iLWRJazV4b1ppTE8?oc=5",
-     "source": "www.marketscreener.com",
+     "title": "Crypto rebounds after overnight losses as Democrats take control of Congress",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVpNMVR5bWZLN0lnT1VXRkpQQkUtdE02ZGkzbkV0bjFaQi03T0R3MVh2ZlFXZmVSazJGX1RQTmN0RFN2NUYxNGQ5QjBzWUVmNUYweDA5bHU4aDRGZERZN3p5Q0w0endBcnRyX1RVeG82dGRZTTB2SEJUUmczUGE2VGZYeWx3R0FVVS1WYVhUQ2l0YVJ2?oc=5",
+     "source": "The American Bazaar",
      "type": "news",
-     "published": "2026-11-04T11:37:28+00:00"
-    },
-    {
-     "title": "US Midterm Elections: DJT Stock, TRUMP Coin Fall While Stocks, Crypto Rally With Democrats Sweeping Congress",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYjJhOHhmNnpZQjRUdjNHeFNoQUdIcDdtU09JcHFZY0tNbzA3Qy0tQmpXVXZyNWdsMl9YZVA0Z2M0ZDdmQnY0VXN2bFIyQWNXOXlkSjVZdTc5cDR6TER2UzZWRExWdkNjS2RMVWR2dWpIc3htb0hPbUZUMjBueTBXYllDTmRDY1JPR1V3c0lvYURPLUNMVXFtczBjOUs2MXBCeWo0WEdJZWdZMkhVUkpYMWlCbGRsUTd6YlhXX05nTkJQT29iTnJtUDFnbmJFQUxqUUUyenFIbTRIUnFDcDhyUUt1Z0NibHVMNFlkZmR3Qzl1am05LWpXZTBFSk9Udw?oc=5",
-     "source": "Stocktwits",
-     "type": "news",
-     "published": "2026-11-04T11:30:11+00:00"
-    },
-    {
-     "title": "Democrats Take Control of Congress as Bitcoin and XRP Rise",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16bXF0RWhjZDExVzkxbHl1NE1ablYyMUxyLXRTNkNjTk9kNklhbEVhcllJWlZveldINm5WWVlnaUpJVlZSaklNbG9WMFpmZG1TbTBpeWxKSmtIc0k?oc=5",
-     "source": "www.tokenpost.com",
-     "type": "news",
-     "published": "2026-11-04T09:55:51+00:00"
-    },
-    {
-     "title": "US midterm elections 2026 as it happened: Democrats win control of Congress",
-     "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-04T09:27:34+00:00"
-    },
-    {
-     "title": "US midterm elections 2026 live: Democrats win House, securing control of Congress",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdFZESzdwQTlqSU9LM0dvczVqV2hNcTlyRVpPM2JQQnlWeHNwZWtpeWI2MnZTM2Z5dDRlbjktNFBYZUI2aGE2bXFLQXFwMEV3eEJ5YXRyT2EwLWFTY3k2SkVDd1FkN3p3LU1DRDZkaTlWVXV5TXRoeWVaNmdSZUFFYjR5RE9RNUVBT0VJMGVicUF4V1djS09iOHI2WFZIOVFtT3dyd2dTMkZhNDJFdnN5b1F1bnN5d196eFUxVU1iWEpKOFVETnprYzFlYmF5MlJEQk1iUG43c084azg?oc=5",
-     "source": "TradingView",
-     "type": "news",
-     "published": "2026-11-04T09:27:34+00:00"
-    },
-    {
-     "title": "Democrats win US House to secure control of Congress in midterms",
-     "url": "https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-04T07:50:27+00:00"
-    },
-    {
-     "title": "Bitcoin Hovers Below $78,000 After Democrats Win Control of Congress",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3F0V09FVGxrTFBXZzA3cFphVHd0VTMySXZONzNXOU1YVmdpdmhPZWVxS3JqQkhBWnFua0hmQllIWlFPaWlBWkxvcmtIcjhSTENNeDNqRFhkbEthRlNRc2pTMzJEYnhHX3pZSFBpRTRsNjg2Q0ZJeTROWXJ3bGhyai1BOXl6OXFmRkFvTGZOQXc2dFVRQlRxYllYY1psVGR3R0lhR1oxTXVLaFhQSE16TlJGMGhRTjJlZ0F0Rw?oc=5",
-     "source": "marketscreener.com",
-     "type": "news",
-     "published": "2026-11-04T07:05:17+00:00"
+     "published": "2026-11-04T15:30:37+00:00"
     },
     {
      "title": "POLITICS | Bitcoin Rebounds as Democrats Take Control of Senate and Congress",
@@ -2828,55 +3330,11 @@
      "source": "Cointelegraph",
      "type": "news",
      "published": "2026-11-04T04:40:44+00:00"
-    },
-    {
-     "title": "US Midterm 2026 Results: Democrats Win Congress as US Futures and BTC Whipsaw",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjF5M1lPTU5PdjZrNWZ5cFR0UTJ3d2lPOVprUEtUd1F6TGdQUm0wNFdrNUpOdXR4UGUtTWhlN3VVUXZkbmdXMjgtdnRGZVlpczhOQWx5dWpobzlJUzFDNUxJVERxZEpDa3ZFcGN0TlR6Q0phaHpfNWpPU0pVeWczYVJwb3FRR2dBRmFGWGdXTXlsZWRDQlBkVmJtRXRnQTQ?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-04T01:42:00+00:00"
     }
    ]
   },
   {
-   "title": "SEC says Canton Coin is a digital commodity, clears limited token issuance",
-   "outlets": 4,
-   "topics": [
-    "SEC"
-   ],
-   "items": [
-    {
-     "title": "SEC says Canton Coin is a digital commodity, clears limited token issuance",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QWE5QOFAwY0tfbnpHN3ItbEdBX3RIRUVLUHFEWWUzWGtHYmpSRVk1VUVIdWRYbVpMeXFQeHNVSHIxZkhodlRDZk5OdjBCTFoyNUYzbDVnekktdTY4TzBjU3B0Zm5vamVETElOSHpKQzRnRmxKdm1jOWtqaw?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-04T07:34:00+00:00"
-    },
-    {
-     "title": "Crypto Commentator Says SEC Classified Canton as a Commodity",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RQmZVTTJOVnVPcmVwMFVQTS1mcUVZRmYza3M2TkU1eGVvS0pQVEVqRHFRMFZjUFBrVjRFSmZqTDZ5dzc3WnZsZTdzS18zRHNBVHVVZENHYnBqQzA?oc=5",
-     "source": "www.tokenpost.com",
-     "type": "news",
-     "published": "2026-11-04T07:15:55+00:00"
-    },
-    {
-     "title": "US SEC Deems Canton Coin a \"Digital Commodity,\" Avoiding Securities Law Application",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDczVKSExYSUl1V1JlaW94NTNlQ0N6ZTNfR01OZjd0WWwzTk9KS21WY1QtNGo0aHV6T3NPM0FfeC10czNrVzJITDBzVERoZU1zRUxSeXU0UzQ0V3htU3pJRnE3OGZfa3NDWWdBUm9fT2RvSFNQS2c?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-11-04T03:35:00+00:00"
-    },
-    {
-     "title": "SEC division views Canton Coin as digital commodity in no-action letter",
-     "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-03T22:11:51+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+   "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether\u2019s USDT in December",
    "outlets": 3,
    "topics": [
     "Bitcoin",
@@ -2884,6 +3342,13 @@
     "Stablecoin"
    ],
    "items": [
+    {
+     "title": "Russia\u2019s Moscow Exchange to Launch Bitcoin (BTC), Ethereum (ETH) and Tether (USDT) Trading Next Month",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOEtQUE1tcjByZldITk1tNnZVY0hEZy1iYUFmbHNHQk5aRXJmckI1M1U3TWlFX1RrT3BHc1N5WHFTSUlVeTZ2TVRjWUc4ZG9jbUN0UDVHYzk0QkpfZkNUYnlTZmlzZy1nV3V4U1NfOHNGNlFLTVZzRlhhbDBiSzVUSS0xVUp2aTlmRnI5QWkzZTJ4azZYRFN2RTQyN2ZUYndMMmY4NjB5Q1dwcFcxRERiUDU1NGNYdnhOT2xSR0pqSGd5UXVELVh5SnUtVU9VcGQwNW9reHIxY2NvQQ?oc=5",
+     "source": "Crowdfund Insider",
+     "type": "news",
+     "published": "2026-11-04T12:58:02+00:00"
+    },
     {
      "title": "Moscow Exchange Details Clearing and Settlement for Bitcoin, Ether and USDT Trades",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc29jbXZWN1VjLUdDMjlHdUdwODkwVWYzaEFRSUxzR1BfYXFYTFA1UFdEQmNKX1M2amtzQ3YyZHJpU0djQmhxQTlLOEdGcnB5Q3dDUDZCRlpCRlJYMFpXblpJMk15dURad0YxeE9oRTVtVEdfc1RoWHlqR2Y3anhuMUZDbmNzeldpQ3d3VW5zSzNfYUYxU3ZyWElCcS1JaGVOMFJEcDlMdHFMdTVi?oc=5",
@@ -2897,145 +3362,97 @@
      "source": "CoinDesk",
      "type": "news",
      "published": "2026-11-04T05:14:12+00:00"
-    },
-    {
-     "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-     "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-03T13:15:47+00:00"
     }
    ]
   }
  ],
  "events": [],
- "headlines_served": 9843,
+ "headlines_served": 9969,
  "trend_candidates": [
   {
    "key": "democrats",
    "term": "Democrats",
    "count": 11,
    "sources": [
-    "Bloomberg.com",
+    "CNBC",
     "CoinDesk",
     "Cointelegraph",
     "CryptoRank",
-    "CryptoTicker.io",
-    "MarketWatch",
-    "Yahoo Finance"
+    "The Next Web",
+    "Yahoo Finance",
+    "www.tmgm.com"
    ],
    "baseline": 0.0,
    "ratio": 11.0
   },
   {
-   "key": "cftc",
-   "term": "CFTC",
-   "count": 8,
-   "sources": [
-    "Bitcoin Magazine",
-    "CoinDesk",
-    "CoinMarketCap",
-    "Cointelegraph",
-    "CryptoRank",
-    "Decrypt",
-    "The Block"
-   ],
-   "baseline": 0.42,
-   "ratio": 5.65
-  },
-  {
-   "key": "sec",
-   "term": "SEC",
-   "count": 7,
-   "sources": [
-    "24/7 Wall St.",
-    "CoinMarketCap",
-    "CryptoRank",
-    "KuCoin",
-    "TOKENPOST",
-    "The Block",
-    "www.tokenpost.com"
-   ],
-   "baseline": 0.28,
-   "ratio": 5.48
-  },
-  {
-   "key": "democratic sweep",
-   "term": "Democratic sweep",
-   "count": 5,
-   "sources": [
-    "Bloomberg.com",
-    "CoinDesk",
-    "CryptoRank",
-    "MarketWatch"
-   ],
-   "baseline": 0.0,
-   "ratio": 5.0
-  },
-  {
-   "key": "senate",
-   "term": "Senate",
-   "count": 5,
-   "sources": [
-    "CoinDesk",
-    "CoinMarketCap",
-    "Cointelegraph",
-    "CryptoTicker.io",
-    "MarketWatch"
-   ],
-   "baseline": 0.0,
-   "ratio": 5.0
-  },
-  {
-   "key": "democrats win",
-   "term": "Democrats win",
-   "count": 5,
-   "sources": [
-    "Bloomberg.com",
-    "Cointelegraph",
-    "CryptoTicker.io",
-    "MarketWatch"
-   ],
-   "baseline": 0.0,
-   "ratio": 5.0
-  },
-  {
    "key": "congress",
    "term": "Congress",
-   "count": 5,
+   "count": 10,
    "sources": [
     "Bitcoin Magazine",
+    "CoinDesk",
     "Cointelegraph",
+    "Crowdfund Insider",
+    "StoneX",
+    "The Next Web",
     "Yahoo Finance"
    ],
    "baseline": 0.0,
+   "ratio": 10.0
+  },
+  {
+   "key": "democratic sweep",
+   "term": "Democratic Sweep",
+   "count": 7,
+   "sources": [
+    "Bitcoin Magazine",
+    "Bloomberg.com",
+    "CoinDesk",
+    "Decrypt"
+   ],
+   "baseline": 0.0,
+   "ratio": 7.0
+  },
+  {
+   "key": "morgan stanley",
+   "term": "Morgan Stanley",
+   "count": 5,
+   "sources": [
+    "CoinDesk",
+    "Decrypt",
+    "The Block",
+    "bloomingbit"
+   ],
+   "baseline": 0.0,
    "ratio": 5.0
   },
   {
-   "key": "zachxbt",
-   "term": "ZachXBT",
-   "count": 5,
+   "key": "act",
+   "term": "Act",
+   "count": 6,
    "sources": [
-    "Bitcoin Foundation",
+    "Bitcoin Magazine",
     "CoinDesk",
-    "Cointelegraph",
-    "Decrypt",
-    "The Block"
+    "CoinMarketCap",
+    "Crowdfund Insider",
+    "Davis Wright Tremaine"
    ],
-   "baseline": 0.28,
-   "ratio": 3.92
+   "baseline": 0.57,
+   "ratio": 3.83
   },
   {
-   "key": "south korea",
-   "term": "South Korea",
+   "key": "cftc",
+   "term": "CFTC",
    "count": 5,
    "sources": [
     "CoinDesk",
+    "Cointelegraph",
     "CryptoRank",
-    "The Block"
+    "Decrypt"
    ],
-   "baseline": 0.55,
-   "ratio": 3.22
+   "baseline": 0.43,
+   "ratio": 3.5
   },
   {
    "key": "midterm elections",
@@ -3045,38 +3462,24 @@
     "CNBC",
     "Cointelegraph",
     "CryptoRank",
+    "MarketWatch",
     "Yahoo Finance"
    ],
-   "baseline": 0.55,
-   "ratio": 3.22
+   "baseline": 0.57,
+   "ratio": 3.18
   },
   {
-   "key": "world",
-   "term": "World",
+   "key": "fund",
+   "term": "Fund",
    "count": 5,
-   "sources": [
-    "CoinDesk",
-    "Cointelegraph",
-    "Decrypt",
-    "The Block"
-   ],
-   "baseline": 0.6,
-   "ratio": 3.13
-  },
-  {
-   "key": "perpetual futures",
-   "term": "Perpetual Futures",
-   "count": 6,
    "sources": [
     "Bitcoin Magazine",
     "CoinDesk",
-    "Cointelegraph",
-    "CryptoRank",
-    "Decrypt",
+    "Investing.com South Africa",
     "The Block"
    ],
-   "baseline": 0.99,
-   "ratio": 3.02
+   "baseline": 0.79,
+   "ratio": 2.79
   }
  ],
  "baseline_days": 7,
