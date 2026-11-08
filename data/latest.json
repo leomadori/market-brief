@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T12:00:06.371259+00:00",
+ "generated_at": "2026-11-08T17:00:05.870795+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 39
+   "item_count": 42
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 5
+   "item_count": 11
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 21
+   "item_count": 43
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 38
+   "item_count": 40
   },
   {
    "name": "DEFI",
@@ -71,6 +71,28 @@
     "yield farming",
     "lending protocol"
    ],
+   "item_count": 23
+  },
+  {
+   "name": "Buterin",
+   "kind": "trend",
+   "aliases": [
+    "Buterin"
+   ],
+   "first_seen": "2026-11-08",
+   "count": 6,
+   "ratio": 6.0,
+   "item_count": 20
+  },
+  {
+   "name": "Remittix Earn",
+   "kind": "trend",
+   "aliases": [
+    "Remittix Earn"
+   ],
+   "first_seen": "2026-11-08",
+   "count": 5,
+   "ratio": 3.02,
    "item_count": 21
   },
   {
@@ -82,7 +104,7 @@
    "first_seen": "2026-11-07",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 25
+   "item_count": 21
   },
   {
    "name": "Nigeria",
@@ -93,7 +115,7 @@
    "first_seen": "2026-11-07",
    "count": 6,
    "ratio": 3.86,
-   "item_count": 13
+   "item_count": 16
   },
   {
    "name": "NU7",
@@ -104,7 +126,7 @@
    "first_seen": "2026-11-07",
    "count": 5,
    "ratio": 3.47,
-   "item_count": 7
+   "item_count": 5
   },
   {
    "name": "Russia",
@@ -115,7 +137,7 @@
    "first_seen": "2026-11-07",
    "count": 5,
    "ratio": 3.31,
-   "item_count": 9
+   "item_count": 10
   },
   {
    "name": "Pay",
@@ -137,32 +159,541 @@
    "first_seen": "2026-11-06",
    "count": 6,
    "ratio": 4.28,
-   "item_count": 5
-  },
-  {
-   "name": "World Liberty",
-   "kind": "trend",
-   "aliases": [
-    "World Liberty"
-   ],
-   "first_seen": "2026-11-06",
-   "count": 5,
-   "ratio": 3.94,
    "item_count": 3
-  },
-  {
-   "name": "Kraken Parent",
-   "kind": "trend",
-   "aliases": [
-    "Kraken Parent"
-   ],
-   "first_seen": "2026-11-06",
-   "count": 5,
-   "ratio": 3.32,
-   "item_count": 1
   }
  ],
  "items": [
+  {
+   "title": "Bridge\u2019s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGstd2JPa2ZsbjRsUGJsNmFnT2ZlVlphRU1aQjBQRHhVb2ZkVmVJRmFjX3cwME9mb0xiSWpzS1Nha3BNNkc4d2Z0bDBWeVpqX3U3UEpyYXVhRkhlWGx3a19xWEtXVG1RNUE1emJQOVVMQVdEcVRGLU9vbHRBcDgzWk9SUmNmSnNobDAxZ2l3c3VlSFJPZm1lU2xmOUl5Q3JpS2owZ0R3VFhGcGs?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-08T16:46:06+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Solana (SOL) Price News Today: SOL Near $90 as Remittix Earn Reports $1.3M TVL in Its First Four Days",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVZnVFJjOFUtOHpqdHFzYjg2TFpyMDhXY21xaW45b3A3NWlRNjV0MlkzZmRkSFJKeEQtbVB1OTVOUXBjMUZRb0FwWElVR3RGRzU4c2tlUzRGUUk1Um1XSkUzR05pNExEdDVPZS1VZXFXMloxMm05T244alpVTEs1Z0M2bExsYkpnVmhpQnBvRlIyLTdUQS1IMmFOeVdoYXF0VFZ2aWlSbVdVSXFkQVhQTWxhS0lXWk1hODVLTklB?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-11-08T16:30:03+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "JPMorgan Stock Slides on Epstein Probe Fears: Bitcoin Has No CEO to Drag Into the Scandal",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNblE2eENzZ2lta3NMQXBId1J3bEdEeHl4bDUtcjF2TFA0bnR5ejFkRkpYbHVPcnZNOEpwLUZtRHp1VkVlZ0I1VHRGN1Vrb244N014WW9peHBiUW9HNnhxTEFsRDBFM1l6bkdjNy12RWdmUS0zc2hrd1NrVXpVSmpUUnNKb0JLSXpPWkl5TGlkcWV0Rmp2bkNaWVVkQnRUM1VwS0VuZWVmdmtzU2ZxamQ3bGRwUERpTXl5eEZPY3lGRDlmTXc0?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-08T16:21:59+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "How a Big Rapids banker stopped a $36,000 Bitcoin ATM scam",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGo4bnhnRi0yM19RT1hRWGpJSzZYOVVseGw3LVgyODlvcXJidWlMN3hzSkRDNkJBRVZuR0JMNmNWcmMwekNEam9JS2hETkdPNWdCR1FTM05sOFpDNlNOUkNHMkRBbkpaT0phellmalY1eHAxMmtMbl84ODFjYnc3ZVVZN0E3QkZhQkI3NkFBeHlod1VDc2otdE5hcjMwcVB0YjZaeXFB?oc=5",
+   "source": "Big Rapids Pioneer",
+   "type": "news",
+   "published": "2026-11-08T16:09:20+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-08T15:52:17+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Michael Saylor hints at buying more Bitcoin. \u201cConnecting the dots.\u201d",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVN1dnE1S2R5dFBaQm5jWWlSRV9YUzdhRzI5bjlCelRNRmJIRWtlRmJsejJyQ3Z0bHVRNXJvYmhlY3lrTnBZZnMxc1NKazhpT2JRR1ppd29sQTU1RktmeWZPdVEtcDdEYTlmNmEtYjZPZ3dFNGt1YnNHd29EYzZJV3NjdktOYlBjQ3drRFc4T2NnQzlUMFJQRmxCckxOdEdsR253cy1faEhlWXVMOHRYRlc4REdoSVR2?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-11-08T15:48:46+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Wema Bank in Nigeria enables Google Pay for Mastercard customers \u2014 The Rio Times",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTVtMTgxaXBVRzk1MWJtTE9MSHhkQWs1alljX3pRSzBaeVJkemwzSE52NVBiUGM0ajJBS0xVQUlZTklYa09VekJIdlZSZ1hna0tzaGpNWERJNFMySHREMmxuMDBpcDBsMUJMUzNmcG00VmRKX0I4ak5YeUhxTmE2Wm1zTGpLZjF5dEN5YThMOG14NTZ3cXRwaFV4M2Zla1EtVHo3NmZvdjFvRDlvcmVoYU9lMzAydm8?oc=5",
+   "source": "UA.NEWS",
+   "type": "news",
+   "published": "2026-11-08T15:41:25+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Nigeria",
+    "Pay"
+   ]
+  },
+  {
+   "title": "Crypto Overview: $76K Bitcoin Meets Remittix Earn's Live Pools From Morpho, Fluid and Maple Finance",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOREdjYmpLaC1iNUZubFBoeGI0SHg3bkQyNG5VRmc0ZVVfYkw1V3ZlMXJRM1ZBcWd5ZVp1SlR2NXFLN1N5YlBzQklQemtzOUxMVERuWlhsbDV4dlY0TDdsSWxoeS04OW54VWpEckZIM0JUR0RJdE92YzI2dHhQS1RYUFVCYmhCenlUbk1vRkNEcDk1aWRRZ2N5aThWZDNKbWNpVlc4eEZHMFpCWEVFT1M3QUZHVVNRcl9jVnpsSQ?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-11-08T15:25:02+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin",
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "Saylor Hints at Fresh Bitcoin Buy as Strategy's STRC Preferred Returns to Par",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbFNSY3k1emk3Tkd5bVF3VzVPWmxlU190ZkdlaHl5Mm5PUjNIY0p4YjliVFg1b2gyVUZqUkt5MmxWSU1WNnE5YVpvLUJrZHNoMU1CcWVkUGVGemtLcHRSZTJOczQ4VFNvVnJ3cVVHYmV6anV1THc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-08T15:25:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Nigeria\u2019s New Stablecoin Rules Demand N10 Billion Capital, One-to-One Backing and Next-Day Redemption",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVFV0UER1ZnZncFdyeEpuQXU3cDhpSkUyLUZleE1UMDVsMEdJX1ZyZ09rQUF4U19wQlN0cnlVM2JiTGttQ0ZqNDFOYmRERWZqc3pSRE1SVUlZbVE1enVNQ0RvbmVISnE3TXlMSy1reFJJRjVMdU1odFFvZVZMTDJ1aFJZSjk3cDFlVENpOTByaElyMTZXMG9naDhnQVdUYl94SDl4VHpXTW10azNuOWhyekxvU3E4SENQMmlKUkFveGVXdmlyME54Mjh6cEtzTVFUZ0pha21OZUFQQW1wSzdqWVpDekFmNWpQUHVDeldsZGExa1U5TXZtM1M3WHpteXV0N2FUZDE0akxnb3BJbFNyb05wWUk0aElxWGM1a2MzTnh5Q3lwdG1GbFQycGprZw?oc=5",
+   "source": "Proshare",
+   "type": "news",
+   "published": "2026-11-08T15:04:17+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin",
+    "Nigeria"
+   ]
+  },
+  {
+   "title": "Gnosis Pay Confirms Customer Data Exposure After Unauthorized System Access",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzcnkwakc3T2UxWkdzX1F4TGhFQVJyXzIzVFp0S1JpZ0JpLWdPQkh1MS03RjkwcUkzam1iTHBaQlNHQUgzUmR4Qm5tSy1LdVUwRFlJZlpLWkdtZVVyTE9DQ0xMRUVnSmU0TUktOTk4MU5BYWFsYVFoLXhBQQ?oc=5",
+   "source": "Hokanews",
+   "type": "news",
+   "published": "2026-11-08T15:01:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Pay"
+   ]
+  },
+  {
+   "title": "Quant snapshot: Aveanna Healthcare and Fossil lead top-rated names, as KBC Group and DeFi Development lag",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYkNkOURvZy1BczJLNERFcV9Lb2M4d0VRTlRyaXBRZGRBZFBvRUFrQTBIOEpKX1Jmbm0yNzNvN1VUZXZ3MHB1UGJxLUxoZjJyeDdGbUc3Q2NmalIyZWJpUGNfSDZpcWExbmtvLXctRFpwMy00UF9NbXRVdndqU3U3dlNsNFFJVmswMUVqTW1qLXBDQjZYWlFNeU91Vi03WGhDNGlMWFUzMzVtTmtBdjkxcFpNeW1wcERQY0V4ay1iVTVGbnd0cWxZTm41ajlHUTd1dXNqV3Bxa0hSbVM3cVpkcC1RQmo0MndQdWFmckRnS2dfVUtwRFlRN0dqMkFkN3NnOUtSanE1Sk1PZXlpTlhZZUo2QQ?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-08T15:00:54+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin says ETH's value lies in decent...",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFpmcmcwZ3kwTlZYeF8xY1U1THZDRVlNU1dXblNwSWRWU0pHdTZxRGM4dEJDSFpYYUNZczZvWG1LRVdkUkFvWThnaWthU1R6UU1oc2gxeDlxSmJxN3lXaFhyMVd2TGdlMmltV0pfS2tFbWtFQ1BCZnVOTWJzYkp2MTctaFkyMzZjbEhkWjlLS3NRZUd0M3hVQjhsSXZHRnFOb1JIeVZR?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-08T14:55:01+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "WILL BITCOIN PUMP OR DUMP THIS WEEK? for BINANCE:BTCUSDT by forexcitypro_leemeenal",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXFDd2VUakZBTnUwV0NRTTZQZy1GazYwd2ZGaDhDQjBQMHpiWXNhR0tlYjcwMVV0bzdHMTJyTDJ0VVdBcTFwQ1RSdHUtNlpQamVfdVFIQW95VlBfOWhmT3NzdVk3Q0JQcDY4N0FBTFdITDY4cVVZQ0V1WWlmc2FpY3paTlJ4Q0EtaXlkRkRMRVI?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-08T14:48:27+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Gnosis Pay detects unauthorized access to consu...",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWNVRVFxeXRpZkNyck9RWGdya1BRdEEwTXlIRTlyOU5yVzhzajh5Vlk1dVJ1eGpINDdCc3lMdWJRektpZU1jallwQ0FFWUoyU21XZFFQcGhfOHNqQXRxNmk2Z2xsa1FJOVhDN2xhVnFkOFNxZlN6U1p2WG9QX0xmaWptR25aWU5HZUR2cDA0UDRFWHRLeGF5X2ZxTmEtLVU?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-08T14:45:05+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Pay"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Holds Near $75K as Arthur Hayes Warns of Near-Term Pressure While Grayscale Sees Institutional BTC Demand Holding",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbmdzLUxFZTJOTzMxZGFXenBlQUlzVGFQNTJTV2tHN2UwT19VTUxybDk0UjU4Q2hadHJhV0RwNVpiYUFMTl9iUDNMZWNyZ05lT25EWDBqUkwxU05OWGxpYmdHcWo3SVpyMng4UE1vSU4yU1dhdEJyZlpkSUdreDI2RVNhSlVJQS15V3hJMDQxSGdtaXMxNWdkcVRtM3FGaldERGd4b2IxYTBiSVBSOXAwanRNMW8tajBxU3E0QzJLNDd3NGt3NmtrUjJZSEdtbWFyZzhURkt2UXZBLUdvQ0tDbWJ6ZGRiQTdzWUYxX00wM1dWSU1kUjlUaGRGTDE4dGlBY08xNFpn?oc=5",
+   "source": "Crowdfund Insider",
+   "type": "news",
+   "published": "2026-11-08T14:42:15+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Gnosis Pay Breach Exposes Customer Data, Prompts Phishing Warning",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXUjh3Rno2NktzX01VYzFlOGZkUGlIXzQ5Vmlzb0tVbTdGZ3kxU3g5TVNMYVFTMzlCdzRvSEtpWTJPdi0tZ1lxdDJjV1FjT1ZfTWVFcl9rOUVPNm8?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-11-08T14:26:30+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Pay"
+   ]
+  },
+  {
+   "title": "Next Crypto Yield Platform to Watch: Remittix Earn Is Live With Pools From Aave, Morpho and Fluid",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUhmOHpqSWhjd1NVbEpfNS1PczVST0lMUERDRDdhLVQwWDBZLTYyOHJ6WWFLOXNwVllidHI3YkVkaHFseTNxdm1IS0RWalRtdDNSczlkOFBramNUZ1hlaml2TkZXbzdDaEJsUHFRUmJWUjd3b3U2c2dMREE2VVMxT1UxM0ZOVjR0SDRCaUpXM19pYl9fWndZNHRJXzYwaGJSeXpydEQ2aEt1NmJGSktxNnVDVUNCbzg0ZFJKcg?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-11-08T14:20:02+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "DEFI",
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "WLFI Buyback 2026: What USD1 Fees Can Really Pay For",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYbEFqck43dUpEajNTdkx6ZF9XV0t3MHZhV2NGbTBBZ2h6QmFGZ0F5cDJTY250RlZxcGxyLUttc0p2eGxGUnFNMFVnOGdPNDZhRkgzQjJ1dVFWNXRuRDFjSW85NW05bEllS0w0Nw?oc=5",
+   "source": "Memeburn",
+   "type": "news",
+   "published": "2026-11-08T14:15:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Pay"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin Estimates Ethereum (ETH) Needs 700,000 ETH in Annual Subsidies",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ValVES3JQb0xoTjAwNFBQQWZTN2lCQWhJaFEtTUdoejgxWElKQUZRMVdKN2dRSkx1ZklYUEZQYXpOUjhpVFByVHZuVm05YmpWRWNFelFYeFhEdw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-08T14:13:57+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin Says AI Data Center Buildout Could Wait Four Years",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52VzNvemhDLUd5YWY0U3hBeDZFektXQlViTllnN1FWdUJwZnFrbUEwdVhPQWM0eWFvVHhKbUpiTzcwLWdERnFhdmpreWY3SDFkTVVidUI4T0RPQTQ?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-08T14:13:57+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Samsung Enables USDC on Solana\u2019s Network, 82M Devices Now",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONk5iX0hTRVZES3V0eHQtYU5rWmM1SXN2eVJESjBUTUNaSFU0N1c0bGJXMzFnQmNoLXFZSWJNZEdwWmN4NVkxVlUtOS1BTVFWX3VUTkxiSUFtY2VwY2diNjZyY3V6NXlfVkVnTlpOWkh4RmxDN01JQkZRWjZLcXNpZXFPWGY5eFU?oc=5",
+   "source": "Coinfomania",
+   "type": "news",
+   "published": "2026-11-08T14:13:34+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin Backs ETH as a Store of Value Over Fee Burning in the AI Era",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUhxTHNPeTU4NWtRLTBvY1RPUHFIZ3RXVTctR3pXaEZCOGtRUnA4UFUxV1pJc0lJbDdHNFNRcFNrOGwzME5ucDVLN3FFV3NyNDBwUEhTTlc3U0pOUXpfX1lKT0hRZm42U09UVzZlZk9mM3RpOHBSZXlWSzlXU3k4TDBscDNpN0xELWlsdmRLVUdkejYzTHNhcVJEb0VucjFseUE?oc=5",
+   "source": "Blockonomi",
+   "type": "news",
+   "published": "2026-11-08T14:10:41+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "OKX Founder Star Warns Users Against Direct Transfers From MEXC",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xLXgwcWlZZHl3Yk5HeDg4ZnZDLXQtdUxpLUtKMXpmV3E4b0ZLUDBZSGl2LUJtcE1WZzJKLXBKNmItaUMzQUh2cC03UXN5Yy10ZThvOWNQd3o5UTc2c3E1SGpYc3F2dmo0Yk1sRklabUp0dXJzcG43MVJjUFdiZzQ?oc=5",
+   "source": "Hokanews",
+   "type": "news",
+   "published": "2026-11-08T14:07:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "MEXC"
+   ]
+  },
+  {
+   "title": "Nigeria Stablecoin Rules: \u20a615 Billion For Issuers",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNGwyeVQzeEJlcWxhSnhFZkZFVlgzTEdWT0h0SVpzYm1CODRtd1NxSWxjQTVLamp0ZnBnZWVpUHlnZEJkRzI0RlptLTMwZkVDamZfdENvUExYdkFwWnJpQnFfbFVfcFpCV0FqTjhHdUQyRDJJOXFuT0p0dGdqMzhYVA?oc=5",
+   "source": "BlockchainReporter",
+   "type": "news",
+   "published": "2026-11-08T14:01:31+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin",
+    "Nigeria"
+   ]
+  },
+  {
+   "title": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
+   "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-08T14:01:03+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Buterin Recasts ETH's Investment Case Around Scarcity, Not Token Burns",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DSkFkeXN6VmJzTzFfNXZ4N2lkSXRzQVMzcGhvdU9FOVhqOTNGTWY2ZTk5czdnWlNyTlpkX29JQW5rZ0NTSjJ1NVhHOVB3LU1hZG1aenhxRTdjd0NBbXF4ZDR3ZkFxbVBBZ0ZZRWw4V3FNdzluZ1E?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-08T13:55:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin urges Ethereum to focus on secu...",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRE4tUjNSai1hOFhqaHJsdWI1NUZLMzZTck9OeVUyQnJUOGlXSEU0Q2tXMm1NbUc4S2FPekhfUlNwdXg0QTB5anVjOHJ2M1A2TVlPOE1FcDFjaXowTkNUSGdFQ3RLQ3ZRb2l2NUxDdFFqUWxENUJiOVUtb0EwSTV0X25SbkVuaDFId3hESzRkdXB4ZEJDcmtyZTJQOEJNOW1ZaC1RRzFR?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-08T13:50:58+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Mercado Bitcoin Sustains Over $40 Million Crypto Loss This Week",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEFoc3Y4dzdyajNsTW1VVzlYYXRSLThURGtRaTFXb0I5Q3E1R2lxeVNBZGdhWHhxVV8zUmZxcnl6Y2gySWUtaFlLOWtSanBldUhoSmhZSUlLUHBFWjNuZ1N3Vm5CRkRubXpmVDZNNFVGZVBYc1prZUlxMVZyc3RqNVhzUXNtQVJUVEtRTEk3eGc3Rk0?oc=5",
+   "source": "Altcoin Buzz",
+   "type": "news",
+   "published": "2026-11-08T13:50:17+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin Says Ethereum Should Prioritize ETH as a Store of Value Over Fee Burning",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRNW9FQXdVekZ2b0tyVl8wLWcwN2dXODI4M3R2V2JuYlJRZ0xpY2dGT2tpVGx0Z09GZ0I2QmN5R3hyaWp2OW16YU9HNXNKU2duN2lqTm5JbEtXQm9VcmliRHQtTnNQRE1QdzNOUjE1alNUWGJIZUpYbkZpeThjbWc?oc=5",
+   "source": "Hokanews",
+   "type": "news",
+   "published": "2026-11-08T13:40:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Real World Assets (RWA): Top Tokenized Assets by Market Cap",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ydkViTHdfSkhRYkJuWEJqcXlzdjl2MjNoZ0M3WnF0WU9WRGZrVENuY2FkSU5fZERvbGVoNVpvQ183RWE1aFdR?oc=5",
+   "source": "CoinGecko",
+   "type": "news",
+   "published": "2026-11-08T13:31:02+00:00",
+   "first_seen": "2026-11-05T07:00:04.327311+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Crypto Market News: Bitcoin Near $76K After Tech Selloff as Remittix Earn Reports $1.3M TVL in Its First Four Days",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPN2FQaDduNjRHVFdCSGlLcy1zdEw3cGlPY3pXcl9kNVBTby02SGVvbDhYcWVrelhJYXh6OGRaWGNLbWFpNXRnNTNvQTQ0SGJIcUFOSVJ3UGVCdDBsWTJPR1YxSGo5cWk2LVdiSEstQlh2LU5CNWZYM3RBYW53Mmh1Nkd1UlJYY2x5cW1LdFIxMnRFQmlVWUpFODhkWVhIejk1dUhINk9nck9wa0tOSnhQSWlaRlZSODN4R0lHSi1XalpPTWtrak1EcGRzODdaZVFyRk9LRHNMUGpka01LLWF2cTVGS1o2UmJTZWc3MkxNLWNkVEFySldKa21iUllsYlNVZExwRno0N3lvM3Rn?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-08T13:30:44+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin",
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "Ethereum ETFs lose $365 million in a sixth straight week of outflows",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVc0YmdwLWVqVXlVSzVsYUJRdFlQLVNnNG1MZUdsbkUybVRBOEZIV210VllZd1ZpSUhSamFabEJ2SG5JMlpidjBMbEJWX25LX1dTMWtkMG1qNGZMSmFyZlBVM183RVhOMW0tUHp3MHNFWGw4OFdUZUgwbGNSa21PQTVZSDBSUUdrVHpjUG1hNF9qNEo0N3UwV3RGZw?oc=5",
+   "source": "Startup Fortune",
+   "type": "news",
+   "published": "2026-11-08T13:24:37+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin Shifts ETH Valuation Focus to Store-of-Value Role",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkJzVG5JZERtNmtTS3dQNWdURW1CNmxOQXkwY0JQVWhKR3pXckh6ZGN6SHlyWjIxeUZnOTJuclRUVVRmS1NpVVVXR3JfejVURld0bFRBOFEwZ0NZdVN4MEJDaFhjVU4ycGFhdTJoTFpDdjhRNmpsbVItcE0tR0E5Uk5SVjhsTV9VdWZwVGxRUnZKVzVGc0IwV3AyeW1tZXot?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-08T13:23:53+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Cardano Price Today: ADA Near $0.183 as Remittix Earn Gives Crypto Holders a Weekly Payout Option",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSC1EYzRJVWRYS25laDVVZmpZZFJSMUFxUEdVVnlNWGxDeWRYTk8xRkpLeTlZMk5GUVlLdzMxeGQ5ejJCUEI4RFhwUmRUY0xSbWxHaUtPSkZmTDlBNzRSNVhWaElkSi1kN0pjR2dZLVVPbU1jX1EwcldyRWdHRlhscFg4ZzlEVVVUd3FsUlBFX1U5czN1cldQTVJicnNrYkJfRTVQQXhxVUlqdWlWRlFHOS1fSWNYZU4zSUpQdw?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-11-08T13:15:03+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin statement on ethereum supports long term case but sellers dominate",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlpXajZzSVpPMlpQeWxCaHIwczFUUXFORWd1TlJteFNSZ2E4b1hnV21xYjdjSEN2OWNJVWdBVmtrTF93UHdxc21JZHZ5YlVESTNmcjFZd3Q0RUhvMlhkZzVKMnZXeVFmSmF3b3BpWTZHN0xYbzYybmJBanItMk5kUXJnQVY1SGdXVGtLQTJSRzdVZGRKYmRHbEd1Y3lLZjhX?oc=5",
+   "source": "Traders Union",
+   "type": "news",
+   "published": "2026-11-08T13:02:19+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Bitcoin Could See Another Decline, Core Scientific's Mining Exit and More: This Week in Crypto",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmN3TjN0b25OSE9HNkc4MmxvVE5acWp4a0dNc01OTTRCeG45WmM0RU5qTXd4RXJWUk4weWJpUGV3ckZxbGpEbmZVN3kzb292bFMweUpwNGdJQ3VPeWhQYjFyUnlpUHpNMUhYY1RxS3VPZmJSbDlLTE5VM2FxNHZBaDY2Tjcwd0FKdWJyZ0dWazh6eGNKTFprS3dxMUNXeEpl?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-08T13:00:07+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+   "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-08T12:55:59+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ethereum co-founder Vitalik Buterin backs ETH as store of value over fee burns",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zV3RreEp2R1lBUWF2TVU1TWxBeV9YVnVkQ21YbUNMdWhTQnlmNDA5eTY5Vi1MVnQya2p6ajRnM3ZseUdwS1hSMkZBTWU2SGc5M05sTDZWTldmT1hhUFFzQzY1YmRoSmY4ZV93M0dEMHBjTkQxMVRTMnl5Vy14dw?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-08T12:54:31+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin Advocates for ETH as a Store of Value",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjlUaDdKMDJROHI1VDdwTEVLQlFzSzM4QzRRWVJaM013QXpyakJ4UEhvWkwyY3VVcUVFS2Vpb2lUSmtpSkZ4UjBfdlF3c1RORm1naktYak40am1JMDR0T2dFQlFTQjBKejJtVmllVGRxaEs1NmhmSE01UlpPNU5ua05CSjY?oc=5",
+   "source": "Coinfomania",
+   "type": "news",
+   "published": "2026-11-08T12:53:49+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin wants ETH to be a store of value, not a fee-burning token",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yMUtTSkJaaWlUYm9TVzBEOXM1RGx1NVdPa2FGWnFnZHQxeG0weUw0T1pjblpWNW1ucEtELVk3ZG1EMDNnV0VjZ3ZmazJUNkV3SkRYSWlDWWI0RkxjNnRoNFpta0c4dWJOcHFLVDVHMA?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-08T12:49:20+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin Supports Anti-Data-Center Slowdown Amid Bitcoin Miners' AI Hosting Shift",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZlYtTlRCUDhaMHdqeHVZc3dsZ3ZtZU1PNEJQcEZUSWRWQ3FZbFVvR3dTQnRzWFhIZkwwWXdGM1M3NHJxRmVuMWo5RWQzT1NBaU9XeVdpTllRd2NSbEVUUzlORnJnR0ZHeXBjbGxDYjVzRkYzeENqNmtTaC05aG9qSnJ5N1V4LVVHa19GNnJHVzBqb1R2UVk2QWVqLThUZjRvZU1iZ1FXVnIwTUZ4X19KR1VSWUJVSHhrbEJ6aHpR?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-08T12:43:13+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "XRP Price Today: XRP Near $1.17 as Remittix Earn Supports ETH, USDT and USDC Deposits With Weekly Payouts",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVnNralFSRXlzUGp6dFpLRUZuTGdZUGd2anR2YngxVWFhSkxydEdzOGJXRVVNYXY1QjZvaFJfTE9sZ0ZtVXUzSHhISWdZelJ0ZE5FM1FSMEJ3T1c1R25zU3JFRE55aE9GMS1kS1hrUGgzTzc0aUdSWGtoRFprcG5Zc2pJdXUtVS1QRWxKVVpkMUloZkFndHRfaGtFMHNEcXp3bTBjb3RFbGFwOXhkMlVNWlQxMTBUbFZHYmZwWHZ6dG9kSDV2T1E?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-11-08T12:10:01+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ethereum",
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "EU Crypto Sanctions Task Force Targets Russia",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xXzB4Z3lSZ3lKOVhsZURtUkRxbW8xa2EyRWlCa2pseUNrNDRoaXY5NnV5S1NmNUcycnk2czhlMVppd09IMG0zLVdLQmN1UkdUeHBPMy16VWhPQzk3enJNQkh6MmxvOG8zaHJZSTdtUQ?oc=5",
+   "source": "BlockchainReporter",
+   "type": "news",
+   "published": "2026-11-08T12:06:16+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Russia"
+   ]
+  },
+  {
+   "title": "Tether USDt price stays near peg as Russia approves USDT trading",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLURVeUhwM3dldzJOM1JhVk1GbktnREJkRm9LemdOV3ZkcnY2LWdqQnFqck82c0JjT3BzUFoxNjFOYlljRHh2RTZ2TVpLNGhLREQxN1VpaGFGY241bG8tOGh1OEh5M1RYS0t4QnVSMkJiVmU2Qk8wLVFEcFoteG12dUY2QUdUTVRfZzV6OTBpOFVuWk1neDE5MUdncGpoTnZ3bjcxc0xuVDN3dGhNZnVMbDFSYmNHN2NOQ0RRajExYmVrNTVl?oc=5",
+   "source": "ad-hoc-news.de",
+   "type": "news",
+   "published": "2026-11-08T12:04:16+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin",
+    "Russia"
+   ]
+  },
+  {
+   "title": "Bitcoin, Ether Forecast: $6B Binance Hack Rattles BTC/USD and ETH/USD",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFpSWnVjRm9SMHRGeWg1cWZQTU5TUnUyWTU3ZjdCTHV5VV9KZUt2N2VKaHBESkJkTUtiaEk2UmVvZExLY2hYa1VoX2xhUDNsdzBXalZTYnBLb0NBbVJkZElWOTJGZXhmT0phN0RKX281QzhmSXF6Qk5nVTZIZk1pUXNLcDZSbDcyRXZHNmxNeW1WWk5PaWUxX1dyelhBd1NUREVBWjhrSHJvRmF4eFJYTFFabEU?oc=5",
+   "source": "StoneX",
+   "type": "news",
+   "published": "2026-11-08T12:02:19+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
   {
    "title": "Real-world assets on Solana hit $5B in October; decentralized exchange volume reached $60B.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeGpkLWR4R1hRaFZQNGJ6SVlyOGQyVVJ0UUp5Sk5SSkVvUUpjTkxCMF8yRDRtSjBzRE9uaDhpMHJLV25Wb0puVDZ6ZGJqN0RJdVk1NWFwNmhuUW9YSzRxMjVpcGd0SmR4RldNS0gwclhmdkdhZjNYdXJtdDJ3MWlMV2pWY01pTWdtYzRIai03VQ?oc=5",
@@ -186,7 +717,19 @@
    ]
   },
   {
-   "title": "Bitcoin Mining Difficulty Below Record for Over a Year",
+   "title": "TRON Tops Ethereum in USDT With $92.25B Stablecoin Supply and $2.18T Q3 Transfers",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMW9nanc0dUxtM0hEZVJMYmFQN3pGTFJHeHRRVW9hbE5Mc3ZzazZVRzBxaF9XcWQ4WloxUEc0TERYc3djZUxTN09wRlVDUlhmUVJzblVmazc4WDJqQVRaSExLcG9BY2RzNVJ6alJDUHBhbEs5czFLUWpoWUIzb0NMaUI4ZnR5N3VXRnV2XzF6cXNvZjZXSDJHam5TWmEyZVpKU3hOWHVGM2xMejNLeFl1NG8xYzHSAboBQVVfeXFMTW5Ib05xN1BkeGluRW9HVi10bVNVcUc4RXMySXVSeFZSZWRJb0NpZU45VnJkSEdDUHNRX0Z1NENuQzZ5YV9TLWNRR18yY3UxaVZQdjJReDJzY3JTanV3bmVwQ3RCUW84OFVFTXc1ajZGcEozZ2VoWXZSeGRfZFltWXl5TlMzYWRjTEh1X0N4cHUzV0JwX2J5LU1Kc1lIRnRnVWJreHJmYzdWWW9iRURIdTdxOXpVSGpSTHN3?oc=5",
+   "source": "CryptoNinjas",
+   "type": "news",
+   "published": "2026-11-08T11:39:57+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin Mining Difficulty Stays 5% Below Peak for Over a Year",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVpSYUViVjNUYjJIME1SZzY4dEk0VkllYk9WQVNmSzZVRXFhcmFVbXF1ZmVNQ0N4bTFBcUNQR2FMMW05c20tUVVGdkYxeU1IanpoSVNVSk1QQklObEdXeC1QY3RIaXp0ZGp4THU1OG9Ebm5jZFBBN2lEYzZWOEdoTVZYblVONDJzSUVSUEJ6czBuRTNDV0U3TXFsNVRCdzZFN0RlNWY3UQ?oc=5",
    "source": "Bitcoin Foundation",
    "type": "news",
@@ -194,6 +737,18 @@
    "first_seen": "2026-11-08T12:00:06.371259+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin says slowing AI data center growth could buy time for security",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmlSMGViZXVxMFd4U1FWcXFlUWRneVpreGJFNjdiS1N6azhYNDBjdk81QmZ4QkFyWnZVMGlIY0U4UVhhWDE5OXJxYnB3THB3TzBPRTlwQmx5a2dFQmNnRmhJWDZ4ZDJJdWwzd3RRLUUwOFVKS0tQUFl2V1hYd3JZM3pB?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-08T11:34:13+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
    ]
   },
   {
@@ -205,6 +760,30 @@
    "first_seen": "2026-11-08T12:00:06.371259+00:00",
    "topics": [
     "DEFI"
+   ]
+  },
+  {
+   "title": "Bitcoin ETFs Lose $412M as Ethereum ETFs See $93M in Outflows",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUE14dDlGRmtHMXFVNXFFR1MySk1uNkh6T21tVHJhTFEyRU4zd0ZIc0JXRTJpVFA3SjRNaHNjM0JBU1ZUVzRHbDNzTVA1bGktVmVGdkJxZDNqZkxMNU5ac0pWaTU1RFl3NlllYXhzRUY5ZlRIc3FiTFQ2dVRMYjhEbDFoc2dXZEptR1JDY3ZPUVd0N1N1cFhyQkR0bHZBdw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-08T11:29:40+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin supports slower AI data center growth to manage risks without halting progress.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTG9rVWtCbm9lZjBiY0dzMlJUcFpBeG1YUG85dGFQazhOYzk1YWdtWUU0aTZOcGpnWExXYmczWEE1dm93M0oyM0dzRWh0LW9EdkdZcEVzdUpSUHZidHZKTjY5ZGcxRjk4TTY4X3dlOWRYUTF3UktuTUtENktqY3J2djUwUzlPQmZkSWluMndacjIwTUFEdzJjaUdn?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-08T11:24:31+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
    ]
   },
   {
@@ -230,15 +809,14 @@
    ]
   },
   {
-   "title": "Bitcoin ETFs Lose $412M as Ethereum ETFs See $93M in Outflows",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkhCRUdfZTc2V0JDbE9SaHNMeUNhNEpDVGRpMTJxeXZwTllVOVB5ckRmbmpTalBGLUVEV21TRHNUTHJQNXNfX1dBR2x2QUxrMWI5TUUyS0s1bkhXQk1iM252REZnQzJFVDhkMnlEeWpjQ3p3NV9MajlIcmdjZGNOajdNUVZBZzN4dEU5V3RtaVBHdVNTVmtpUQ?oc=5",
-   "source": "KuCoin",
+   "title": "Crypto Update: WLFI Unveils Buyback Plan as Remittix Earn Reports $1.3M TVL Within Four Days of Going Live",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkVtU3JsbnpRX2lnYXJEY0dNQzg5V3kwTElMbmZiNWkyb254U2FwV0xObUE2RUpBc1ZKTjJXc1A4c2dDZW5hTEl6Z3drZkJ1cjdPSlRNY2x2VU9VVENxZTB0WEI3LTVhUFFnTC1UNmd0bVBVZXNLWUNINWQwcmJsQmZCTDc4dWJPcm9xZWt0RFpIOUVKcjhBUzRlWHZ1SlFjekI1TnN4X1hjdVM0NHlaV1F0Vk5oY3VBSmVHNU14RVFiMlllcGlkNg?oc=5",
+   "source": "TechBullion",
    "type": "news",
-   "published": "2026-11-08T11:14:31+00:00",
-   "first_seen": "2026-11-08T12:00:06.371259+00:00",
+   "published": "2026-11-08T11:05:02+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
-    "Ethereum",
-    "Bitcoin"
+    "Remittix Earn"
    ]
   },
   {
@@ -249,7 +827,8 @@
    "published": "2026-11-08T11:04:22+00:00",
    "first_seen": "2026-11-08T12:00:06.371259+00:00",
    "topics": [
-    "Ethereum"
+    "Ethereum",
+    "Buterin"
    ]
   },
   {
@@ -275,6 +854,29 @@
    ]
   },
   {
+   "title": "Nigeria Sets 40% Liquid-Reserve Floor for Stablecoin Issuers",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54SGxHUE5nRFl5bjJBR0ktYVl6S01xYndrZVJHU0doT1ZYU0k4NGpRZm11eWZfbWZZRDdOMkNlMGs3WWpkQmZFakMyTUUwR05lVEFmZVpPazNlZ1E?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-11-08T10:00:15+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin",
+    "Nigeria"
+   ]
+  },
+  {
+   "title": "Crypto News: Hypercall Plans Anthropic-Linked Options for November 9 as Remittix Earn Offers Weekly Payouts",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3lPM0l5V0pNOTdnNGFlcE1kQ2s0YlFmOWw2a1NTd2dZZ2thaDdFMGhZZHBuNG1PeHhaaDBIX2VqcWFoSzRmSDhzLTdjVzhWejR6MlR3akF0SXhnZUp2UjJiVjZic2FGLVlTM29yNWFqdzdNYWhtb29aak1OaG41Y1ZjRnZHZExjcGtqa1MtYkVYWFpUZV9IZGE3U2FldWhrTEtnTFZLSDVhcmlSNk5ZRFlCYWw2NlBFTk95bmthLXdGRi1xMFFqTHpEcw?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-11-08T10:00:01+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Remittix Earn"
+   ]
+  },
+  {
    "title": "Bitcoin Mining Enters a New Reality: Even the China Ban Wasn\u2019t This Bad",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnptRW5IekxxWjdqbE1iZWhVd19VSVhzVUZzTVctOElrSFdabDQ5RndkS29NRmlwTXY3S3U1MVFKV0ZhdEIyUXk3Q3ZtY0lQY1BtMXdsTU02VW1EYzBudjBRd3k3QkN0YjR2MkFsZWZyZkstVk9lalBRUXFLTVE3cjlCSFVlY2xKOXNVVXRYRnA1bV9DZF9HX19sbC0xR0V1eHJ1TXJEUklsdFE?oc=5",
    "source": "CryptoRank",
@@ -283,6 +885,32 @@
    "first_seen": "2026-11-08T12:00:06.371259+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Russia\u2019s Central Bank Opens Bitcoin, Ethereum, and USDT to Retail Investors",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRU5tRG1QUGJiMHVucnVhc21TZHlOUXZfWmhPakdiTTF2Q2NwYWNxMW1pS2lZYzdCMjhrSVR5UFNwVzNmUGdwejRnWnY4UXVzRUVWeUotVl9pUXpUTGlCOXJQczRZNEprNVVNREZFd3NqUGFQbV82bWVZVzlzdmRfbDNqT1I2MVJ4WEJRV1Vnekd5UDh4d0k5dVk0aWRaZGtka1hvV3JrLVNUa2lyTERGRw?oc=5",
+   "source": "Koin B\u00fclteni",
+   "type": "news",
+   "published": "2026-11-08T09:25:55+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ethereum",
+    "Bitcoin",
+    "Russia"
+   ]
+  },
+  {
+   "title": "Best Crypto Yield Platform? Aave Adds Avon Team as Remittix Earn Opens Pools From Morpho, Fluid and Maple Finance",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORXpOeFBWanBITVVoZHIxNWRZZDNwYnhQRUctcUpLWUFtdEpiWkNzd1dTQkFveGpLQllvZUprdF9CNzVVLVBDQjJEWlI1QzFWZWh3enp0aC1yWVMtMjdlS0hGUkVpdEpZc1ZvVm9SaGY0SGdJUVdpRzQxVVMwaVhmYURGN3JvLWFzNERld09qRFlhY1JrRzh2bHcwczlJSno2TmNlWkh5aDQ3RmZ2bWdTM0ExdWdoV0VVMmVFUWhsWWk5SXdpUGJ5RHpLdkJTQTFPYnc?oc=5",
+   "source": "TechBullion",
+   "type": "news",
+   "published": "2026-11-08T08:55:03+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "DEFI",
+    "Remittix Earn"
    ]
   },
   {
@@ -297,6 +925,51 @@
    ]
   },
   {
+   "title": "OKX Founder Star Xu Warns Users Against Direct MEXC Transfers Amid USDT Deposit Freezes",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjFYdVBZeW9QQUNHRjhtcFFKRkQtc0FsQWl1WTdHcjlrUFY2M0h6b3dKWlFSRE9rWHRjcmM1NEdiYXNUSkJ6UGhlNXdYck5kZmZ3TFk3eHA5NGpXRVRLNEJlUk5fRHU5eTBHbUZfUnVWWTEweW80d1liaVVTZThzX3NxZVg2MEZhb1ViUzZBVlY3Zw?oc=5",
+   "source": "Hokanews",
+   "type": "news",
+   "published": "2026-11-08T08:43:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin",
+    "MEXC"
+   ]
+  },
+  {
+   "title": "New Crypto News: Hyperliquid Strategies Reports $620M Quarterly Profit as Remittix Earn Opens Pools From Morpho, Fluid and Maple Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNjI3ZjRIaDNZR0hEdno5V284VnhvTTdHV2pQaUxhWDVnbjZBaVMxZlFvU2NQV1ZxcnVDdmJkcmxvWEFkTEtpQ0V1dUtVN25Vam1RNHVrV1dxcU1TZUJKY01vbV9wM0Rxbl8yeC1kOUx0clRrN0pZWkEtNGc4LUFzX0l5WTVVdF9sejM2Z20yUG96UkcwS3M3cXl0clNjdHZPVVRvVzVjMW05N3NfTTd1ZW1qeW1tMXVzRjBYY2JCOHVCLW5DWkVIS0I5ZUJZTGxOVUxaQ3JWTlJJSkM3cEJubEx2V05xVkNGdnZUaDlhUUdaT0UxVGZkRVNqZkgxTUE2a3hIUnNfUkFKMGdLdVVmOVBZQ3E0VjlGaWZHdnJoQW5idkFmLS04N2F3?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-08T08:26:36+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "Remittix Earn, NEAR or SUI? Injective\u2019s Nasdaq Debut Meets a Platform That Reached $1.3M TVL in Four Days",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZ0x0Vk1HZ2pqZTIzXzBKdjVKUVg5bEJJMENEaTMzbkJPQS1WclZ1LUYxcEctSm1fcVF0U2c5TDlSWFZQaV92MWY4SXlKV0xaeEp3R1Bvb3RoSEdoWTN6M3V1UTgwdG4xdU5Bb1A0VWpfaDdvcllZbEhWeWo5MGZwczBJTTB0RGhPeUJaOUJyTGZaZm82RmNqRFRHSkw4RGJoRW5XUVk0Vm5qZzBMUjRLU0xDT1ZnZTBWY1FOVnJBSy1LU2lBY1pvTV82bWtNQlNiblZ3VFNSMFNvdXBvYjhxNFpmbUxUMnhEVGtMYWtxNTJ1eWNYQVZDcDVueS1mSVRrQzA3Qk5zMA?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-08T08:26:36+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "Best Crypto Portfolio: Kiyosaki Buys the Dip as Remittix Earn Adds Weekly Payouts to the LTC and BCH Debate",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQi0yY2pEUFVCWkctMmQxU3VUdXFIVlg3YnlUVHBMYzlwblAwMUR4XzFYbEYxNlZEaEZ3MDF2VHI5RGpJZm1zTFNOVnRkT3dLWWRoU0ZnaFN4dGg2clprRjB2cjluQ2tKU0FFeXVrOGJSQllzbldGTEltU0Z6SGFRQTcyMjlaVEhqQzhOTUtsY3ZpM2Q4cG5xTU0zQnlCX0U1V2dLWHRKVkZLdl9DMXNHSy1TUkVJNU9vRTluLWNONm1jNkdfcTFoS3pLTzlxempBRUVOaUxHQUJaeHZkVV9WQkFSNGN0N2w1R01BRnJxalQxNi0zS2ZUZHZyZTUyQQ?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-08T08:24:46+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Remittix Earn"
+   ]
+  },
+  {
    "title": "Russia's central bank reportedly approves publi...",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUlJUR3pIMW84eHZLR2tSWDdlWFFJQVByU0pDS2FVcVJPTEYtRVJBMEJ5Y2tpNHpIRzZTa2JYa2c3MXU4cHZjbU9qMkctNjRTeHdJMkx2QUpiczFzZEl5MmFESXZUSnBXaTdiT0JBT3VfV0pHdXVDVlVEMThmbnhvWHB5Sngxa243?oc=5",
    "source": "Pluang",
@@ -308,14 +981,15 @@
    ]
   },
   {
-   "title": "AAVE se mant\u00e9m em US$ 130 enquanto as altcoins perdem US$ 200 bi \u2014 a aposta da Aave em taxas fixas",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNcmIxNDR4UDMwYkRGUndGZ3puN3NwRWp4cy1DNXNyQ1RUaFBKcTJGZklTUXB1LW5MeldpbGZzNnhBalFGY0F1RFVHQlcwakRFX3dVSG5DMTFoX09mLWJnZURvdWN3VWhC?oc=5",
-   "source": "Binance",
+   "title": "Post Claims Russia Approved Public Bitcoin Trading in November",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVG81XzAtRWRWOG52NG9FSzVxdm9SXy16Y3JkaE4waFJpa3lrb3ZqczhTeG1vVWRLUmxNdGUxWnhqRy1hR1NJVWJGWXFxdkJ1YV9LcnVXejEyU2M?oc=5",
+   "source": "TOKENPOST",
    "type": "news",
-   "published": "2026-11-08T08:09:38+00:00",
-   "first_seen": "2026-11-08T12:00:06.371259+00:00",
+   "published": "2026-11-08T08:13:37+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
-    "DEFI"
+    "Bitcoin",
+    "Russia"
    ]
   },
   {
@@ -407,20 +1081,7 @@
    "published": "2026-11-08T07:00:00+00:00",
    "first_seen": "2026-11-08T12:00:06.371259+00:00",
    "topics": [
-    "DEFI",
-    "Kraken Parent"
-   ]
-  },
-  {
-   "title": "Tornado Cash-Funded Wallet Builds $26 Million Bitcoin-Ether Trade",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnBtQzBwS2pzWUtCaTNKelBGSE83M1Rka09SY1UxZmo5SmxBRXRud0FHaFJVRU5mX2d0YnFzQzVRR3F0VWwyTl9HRVZqUkc2aGdzX0RiY05fOUxlbl9zeXBxLXhEcEZvd21QQXdHQzhLcWNiNlkyYnFsUEJDX0E1UkpYX284V0lQcHN2dW1uUWxObEp2SEN5NW5talgxdw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-08T06:56:14+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
+    "DEFI"
    ]
   },
   {
@@ -435,6 +1096,17 @@
    ]
   },
   {
+   "title": "Remittix Earn, Zcash or Solana? $1.3M TVL in Four Days Makes a New Yield Story Hard to Ignore",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa0RrSDBsSFRMYTllcEw3UjU1VjJZdzYzMEFoaWFvQS1yUnZKaE03SHpIdENiVWYyZnNmdHdxdXc5YU1UOWFNc0ZGOGd6dzZndElDSWlBV3UxQmZrSVFScmRwdDBCUm5IMGpNbjFITkxXVUpxblM3d0I3YXpUTWNkOS1PX0ZFdmNYUE9Zem0yV0dIaG11cXlsTTRRMmxIdzBUSndvX3UwUnFqRUQxMlFzc3hHOHUxNG9Lc1ltRHlfX01DTkJJUmlIVndJaHpwVGpJV0p4Mm4zMkVpTDJBUnEwVWpXT2JKQlBXcWN2Tw?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-08T06:52:36+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Remittix Earn"
+   ]
+  },
+  {
    "title": "Bitcoin News: Developer Proposes Quantum Theft Traps as Remittix Earn Brings Weekly Payouts to ETH, USDT and USDC",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbW9rTkYweFZaQ2lxMGhjTDdMS3NVeXprNEZXcTM4ZlZ6N2RuOWZwNzE0c3doRjFXX2hBeXNFRU1ZbmtXUk1tSFZpM1RNUkhIZTBwa3ZVbWlpYno5QUNTcEx6VUFPa2s5dldDeGVqLU5ESE5TRmg5dVB2bkZLZS1hM1BMd0hGUHhjMGNlZlE5VDhKS2h1Szg1T0FhcGtZMWo3eGZXclJwMVdyUkI3RTYtU2FXVGxTaHAxbW9LeEwyT0pGY0UxNmVlRGZ3YWM4TGZvaHJtRnIzNFNjSVI0aGVraEJnUjhIOVhjRENkQlBDTGh1Q0V5SmdfSGl5RDVldExZMEk5VlZaWDM?oc=5",
    "source": "StreetInsider",
@@ -444,7 +1116,8 @@
    "topics": [
     "Stablecoin",
     "Ethereum",
-    "Bitcoin"
+    "Bitcoin",
+    "Remittix Earn"
    ]
   },
   {
@@ -459,6 +1132,18 @@
    ]
   },
   {
+   "title": "Remittix Earn, Aave or Stellar? Live Pools From Morpho, Fluid and Maple Finance Add a New Weekly Payout Angle",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDBQanZVN2Yxd1JEdjctdkU1ZHF0SDVCaDdCZGFFcmFMLTlTRVd3WFNWdm5vSC0yVDIybUIwT3R2LVdid3NlUjlweWJJWGNxWGVWeE0zT05USWZZc2Iyd1JrcHhWZ1FHRlpoVDVNdjRXQVI3X2FUdzVtRmV4Y0VTbno4cWRSNlFMbUNWb3Vpc2NGLVhaQkcwaHZrLTVqQ2hENkJCd0x3SnVXTjVkQzZCcHRKem9hc2o3SEgwOWdCSWUyNE5SZmJSU0s4eGVQNzlrV0JoNk1BNUN1SU5tdkZMaGM5eC11aG4yWW5tdE1WUFB4R0FMb2lDUzBfbmhlcWRIRUE?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-08T06:12:36+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "DEFI",
+    "Remittix Earn"
+   ]
+  },
+  {
    "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORzZWNlIxdzZIdzJibzk3dHBhalE3b1VRU0p4aGZOTDA4eHA3RzlVMlAxM3QxQTlSSzN1ZFNhelZHWk5sMHU4d3R1RjhZUUxPZzRsNzg5YTNFX0VKT29ZaGdjLXd5T1pqVzZMYTdCMU16Y3RpbFVPbkxnQWxNZ0xMSWh1TFYxT0g4TC00NlROaW5rNTNIZGNhb2JMS1BJdGFVQ1E3d2tSUXhHZDdoeUFvaWVKRVo5TWZNczhrVE5MTldCU1RSNG5USTdVclZ4SFEt?oc=5",
    "source": "Investing.com",
@@ -470,6 +1155,18 @@
    ]
   },
   {
+   "title": "Chainlink price in focus as 24/ 7 RWA data reaches Aave",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUpqN2t1RHJ0aFV6WkRBbXNMVWN3UjMxeHh2Sy0ySkJrQ05pVE56dXlOT1FoUkVLMDVtOGdVdzZxbGFQYlRYWjFHb1hlSFhlZnF0Tm5DQkZFVG1ZdjVPUnhwMHZ2YjZMdzNuSHpfajZROXY5S25TSkt4S2tjempSRXl2cFlSNVRTeTlQS2JlNHVjX3hySktKbFZPZm83cEcxM0ZjN3VkcTRUOTA3dWxfOFMybkVDdUU?oc=5",
+   "source": "ad-hoc-news.de",
+   "type": "news",
+   "published": "2026-11-08T06:02:24+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
+   ]
+  },
+  {
    "title": "Ethereum News: Developers Review Eight Glamsterdam Assumptions as Remittix Earn Opens ETH, USDT and USDC Deposits",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPa2s2V0NobDQzVm55dV9DZE9yOE5DcW5ydzUtQlJRRDhWaUlHYkJtdlJlQXM1RWpSbW5JUURuSUpkRk9hMVhSM1VycjlRdElJRjEteGlrZThmbUREbml5WWxwaXlERFJJLTB4YWFXRWstcDdOZjU1bXdtMVYxTV9tU3FEUmRJSzFZS2tHcEVLNTV4YWdqOEpGQXc4eXFLSDlxTWFyTGNLMTlldGVnUWlDcEpRS0h4NmpPYmZjTGhwcjN4TENLS3kxUWdCTzZGVmRBb3lfd2ZLMHlFTDYxT01NNGJKN1IxX0Fjd19mQWdkaUdJVy1BWGQzQzZxUFRwMkgxZE56dmpHUzM?oc=5",
    "source": "StreetInsider",
@@ -478,7 +1175,8 @@
    "first_seen": "2026-11-08T07:00:05.518244+00:00",
    "topics": [
     "Stablecoin",
-    "Ethereum"
+    "Ethereum",
+    "Remittix Earn"
    ]
   },
   {
@@ -538,17 +1236,6 @@
    ]
   },
   {
-   "title": "Bitcoin Price $75,800: Fifth Losing Week Looms",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Sc1ZQeElwZGo2NEV4Z0dOWEdjckJjY1NwSk5adDBXS05taV9ZbGRYVmcyNnc0LTBEN2tIakNpN0txZmNobTg4LXB2MmlNVzZfdGtRMVFGaDdIT19KaThCOUtfMml4SkNmR0U0QlRwN2NpVEpxalduVTY3Y1E?oc=5",
-   "source": "CryptoTicker.io",
-   "type": "news",
-   "published": "2026-11-08T05:12:40+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Bitget and Merkl partner to enable dividend pay...",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjVOX2lFNS1QaHg2YVVHWVk0blUyR1hILUhrUW5MbnFvNzhlenM4ZzlPcGFLcjh3UGt2Y2NTbTRLQkx4bVpXVjJRR2tFbzN2VnRmSF8wS1huWTczeGRhQWp4dmkwc2V0cFpaNWNSVGlWckdMYUp0STZheHFHSEQ3VVJoZUdwMVVEUHc?oc=5",
    "source": "Pluang",
@@ -571,6 +1258,19 @@
    ]
   },
   {
+   "title": "Dogecoin News: DOGE Near $0.072 as Remittix Earn Goes Live With ETH, USDT and USDC Deposits",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV2pjYUl6SFFNV3dFQkRiZUpjVGFtRWpPenBJZ1ZjcU8zdTNOYzdnNENWTjdPQ09aQXVsX0tRM09oNF9WalhjZzBVQzhDUFJaOG12TWxzOG5hZGJuQjMza3lNQnNnWUJfYzhYOVp3elU5ak9ObGRkclAydU9qd0FicDlZendPLUdHRTB0ZlFFWUd4emcxTkJyQ0xldlNCbF9nbGNpb1hQYVRMVHVaRGpYUk5KWG5oSzZlOFRuYWUybnloZ1NLak5haGh5a2xvNTZ6UlVQalRaNFJ0bGh2ejZkUEFlcUJ3em9Fc1ItaW9n?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-08T04:46:36+00:00",
+   "first_seen": "2026-11-08T07:00:05.518244+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ethereum",
+    "Remittix Earn"
+   ]
+  },
+  {
    "title": "Stablecoins Shed $6.7B In Sharpest Week Of 2026",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KcE9qNW1nOFgzZUNYZnVEZGgzaWhCcnpvRVRacWVJZU1BQW1MOGZJckNHQkljS3ZoRElycl9UQ2ZMMTdGeEJCbUpZNHpSQnBzUk1DY19WTEpTbjhySlBtZTh6OUNFQ3FUWkUzek90Yll5UnV1U1JB?oc=5",
    "source": "BlockchainReporter",
@@ -582,7 +1282,7 @@
    ]
   },
   {
-   "title": "Coinbase Bitcoin Discount Is Mostly The USDT Basis",
+   "title": "Bitcoin\u2019s 64-Day Coinbase Discount Is Mostly a USDT Basis, Not US Selling",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kYkhITXIxZTNJLW1kQ18xcUZUbkQtN3I2QjR6ZTd5bmNfTFFENHRnRVljNG12bHA4em5zbFI3SUVIZklmSHo4dWJORGhIWXNLTjhqcV9SaFpBU3NNV2lRRnZJZ3pZZUp3dS15RTEtV2pxNldsYmpN?oc=5",
    "source": "BlockchainReporter",
    "type": "news",
@@ -617,25 +1317,25 @@
    ]
   },
   {
+   "title": "Cryptocurrency News: Injective\u2019s Nasdaq Fund Debuts as Remittix Earn Reaches $1.3M TVL in Four Days",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUTJQajRxbGRXNEpZU3Vydzc3SFdnaWx3cWVjR1o2dmpadmd6X01ob252VF9BTEFCNVVNNkpmYXR6bzl2Qlp2NU5DRU5lZWFHUm5BX3liUnJWVzJySHloSDJqN1ZIeDh6UUwzV0RLY1NESU1Td3JtWU83SVJfNzhKYzhmR1I2UURyc2tiNUE0UnFvWlFPOThtRlhPREtsT3AwNWY1Q2EyVFZZT3A1NTgxT25jYzR3ekY5cEVTVGR5NHAxeEMzLUgtMU1LV19MY0s4a0czZE82NlVGQUU5X1R5MWJCOU5qOEdLUWNGWWNNNmUzbW1mSjFqcGxxWFZUZjM3?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-08T04:20:36+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Remittix Earn"
+   ]
+  },
+  {
    "title": "Is MEXC Banned in the U.S.? What the FinCEN Order Covers and When It Bites",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wVUtJaENNQlY4SXdOY3R6Qm9CbGdHb19oVEFFcU16REhnamhrUDZBaVV3SjRFWE9reVRsLXNQdDNXejZDZUhtWVZadkZldHdWc0JZQmVvWQ?oc=5",
    "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-11-08T04:02:42+00:00",
+   "published": "2026-11-08T04:02:14+00:00",
    "first_seen": "2026-11-08T07:00:05.518244+00:00",
    "topics": [
     "MEXC"
-   ]
-  },
-  {
-   "title": "Uniswap Price Today: UNI to IDR = Rp128,061",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxaFRObGlBWUJ3RFFBRDctam5lTm1CZkNWd2RXdG1JNEdGTVZuODFYN1JNZlVELXY1RWFfbWJOT19OaVBteHZzWkVqbmVWOXdDV1RyakhuYw?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-08T03:56:11+00:00",
-   "first_seen": "2026-11-08T12:00:06.371259+00:00",
-   "topics": [
-    "DEFI"
    ]
   },
   {
@@ -683,14 +1383,37 @@
    ]
   },
   {
-   "title": "Stablecoin Regulation Under Trump: What Businesses Must Do Now",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGhNQ181cUpkRTlwRFdDSjV0YzB0X1VoRm9wTlVjMldXOUxBQXhsWUZ4d01JYlFTbF9aYVlZWVdwdUFKU2VBVlRGR3NBT0RXT1VrZmhlUmRTNHJzT1JyRmRZcFV4YnR3NEpNblN5b2R4RzgxY3FSSWpncHJWalYxZzJ1UURTRjQ?oc=5",
-   "source": "OneSafe",
+   "title": "Crypto Bull Run Signal: Bitcoin Near $76K as Remittix Earn Makes Weekly Payouts Available Now",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUEpIbkxWT3drUm1JSTB6WExtUEtDdm5mTk5RRkJWRXByclRBYnRWTUFyWUY3QWxwV1pNTkk5bnRLU0ZYYWY3b2hEVzhCNEVzamVlUHdXcG1VNkY2NXlTZnA0aUNsdTVGY2UzSEFxNVFlRkJJUzlsT3E4YWtqS3JKeXROU0I3S3A5R1pIMVNuSm5DM0VQMHVpRmU2VDM0NDlVSWZESWJfc1RSdl81N3BMTDNGekpNU0QtSXd1clAtd0I3eE5MbkpHbnoxTTliakh5ZDc1ZEtZWWlQUHI4UlZpNThESzUxLXNFQURBRWtn?oc=5",
+   "source": "StreetInsider",
    "type": "news",
-   "published": "2026-11-08T02:41:11+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
+   "published": "2026-11-08T03:20:36+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
-    "Stablecoin"
+    "Bitcoin",
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "Russia\u2019s Investigative Committee Proposes Adding Crypto Assets to AML System",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1aE1TZnczaUhlRG93U3JIcngzbU42WlNTVWdNZWVpV3lmdV9IUldJdmpiYk52R1RqemxQbGIyMVpKRjY4MFZMTUJuT0Q4dEk3TmU2Y3RscU0tM2M?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-11-08T03:16:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Russia"
+   ]
+  },
+  {
+   "title": "Next Crypto Yield Play: PEPE Pulls Back as Remittix Earn Reports $1.3M TVL Within Four Days of Going Live",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYTRsY1FOQWhWYkZzUlZDalhuamRTNnhjS05kcEp4ZWV4SWtXLVVwSWxKQmRZUy1VaDgxbllUZDVlYVpIZXpIZFQ0emxUMDIwb09OWmFBUVRNcU82RGR6SWowR1NwYlRTNzRzRFF6dC16clM1NF9TUFBXM0pHMTFleHQ2NDFsMk9WV0U3SjRsa0hHU1hCU3g2WW52VTEtUmpTbVR2NjliR2xjaEc2QWd6MTNMMEtSNGlLWDlfSXJXcTkzMWFlSUx3elJ4U09mU0IyWE9RUkhBVm1ReHVhaGFpTTA0YU96Y2pHOFdJMzA3SERZUDRBREJoaUNid3F0QQ?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-08T03:06:36+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Remittix Earn"
    ]
   },
   {
@@ -786,14 +1509,26 @@
    ]
   },
   {
-   "title": "Real World Assets (RWA): Top Tokenized Assets by Market Cap",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ydkViTHdfSkhRYkJuWEJqcXlzdjl2MjNoZ0M3WnF0WU9WRGZrVENuY2FkSU5fZERvbGVoNVpvQ183RWE1aFdR?oc=5",
-   "source": "CoinGecko",
+   "title": "Bitcoin ETH (BTC-ETH) Seasonal returns chart - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sSldhc0ZrRURJRDRLZHE1ZzRfYnZRRXBRVkdyVlVMR1lFRFpGV0JycDZSTEhTWHRaVG5QUENMbjE1aFJsRzY3ODAxY0hRYURHLXh1VDlRUzZ5dzBGcEJuSmRCOHJydw?oc=5",
+   "source": "Yahoo Finance Singapore",
    "type": "news",
-   "published": "2026-11-08T01:54:02+00:00",
-   "first_seen": "2026-11-05T07:00:04.327311+00:00",
+   "published": "2026-11-08T02:01:35+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
-    "RWA"
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Compliance Measures Prompt OKX to Warn Against MEXC Fund",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnBUVFEzaU04eGtQczctdlVGR3N1M1ZXWVJZSV9jY0dKbDR6aFBIVm0tWEFRQ3dEV01aR3lIT3d6eWdzNFF4M2FVQVNLcjRWU3dRZ0JLaHdrUHhKNWp5bFhCY24tTWJSWWpmRzRxNjZ0UDQySjRkRXk1STFaQzh1YU5IZXZ6N3pz?oc=5",
+   "source": "Coinfomania",
+   "type": "news",
+   "published": "2026-11-08T01:53:39+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "MEXC"
    ]
   },
   {
@@ -819,6 +1554,18 @@
    ]
   },
   {
+   "title": "Your Easiest Way to Crypto - Trade Bitcoin, Ethereum &Most Trending Tokens",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTGVwcC1fZWRheGpIZEFfZTM0RHp2cU1acUNZTEJMMWJSVFVsdjVZSml2OVBCSC1fX0taWXZXTHZzbk12a0pVR2FScmpmbFJjYkFYdDd3TWYyb1hVQ1Zpc29zOGowU3ozWHQwVUxUYjBiTzhDd1lqbW1jSVZlS053T1JLaXdTSF9JWlluY1FwcEVRMUhSRjFJZmREdWlkMkU?oc=5",
+   "source": "MEXC",
+   "type": "news",
+   "published": "2026-11-08T01:23:07+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Vitalik Buterin: Ethereum co-founder, net worth, roadmap",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3OU9nWlA3X3lQSFF5WlRzdTc0MlFocWpCdjItV0RpdlBDRlBMV2VTLU1GZW8xVDBOaGFHY2tiaVhkY1FpZk9KQlNzY3hHQ1dBR1pWQXJFUjFjbVE4U1dqWQ?oc=5",
    "source": "CryptoTicker.io",
@@ -826,7 +1573,8 @@
    "published": "2026-11-08T01:13:16+00:00",
    "first_seen": "2026-11-08T07:00:05.518244+00:00",
    "topics": [
-    "Ethereum"
+    "Ethereum",
+    "Buterin"
    ]
   },
   {
@@ -844,7 +1592,7 @@
   {
    "title": "Whale: Withdraws 13.4M USDT to Multisig Amid MEXC Fears",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcENOTkpUamktSlZsRExWVHFZcndZYWRQblh5Y2xsWVo0eFpTa0tUSTgtUmZjU3djVm5nd19HMnlBVkZ5RjhmS1ZyUEIzbEV3d1lIZGlEbDVlSnI3UkJaUi1aekVrR0FVN3NCSmhpYUVMeVByOE5Cc09FQURiWDJqaTJIOHcwcVNOT1N2QXhn?oc=5",
-   "source": "blockchain.news",
+   "source": "Blockchain News",
    "type": "news",
    "published": "2026-11-08T01:07:00+00:00",
    "first_seen": "2026-11-08T12:00:06.371259+00:00",
@@ -898,14 +1646,26 @@
    ]
   },
   {
-   "title": "World Liberty Launches Token Buyback as Sun Seeks Sanctions",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0FnQ3Ywb0tUSjl0LXNMTEhjVVgtakhfa3BGN0s2ZkZuSVlRN3FFSWRPZVdZOTZFSU9rQ3Y5RmhVMlk5bldvblp1b0NVS2pXOWV2UzVYNHpiUUVNZXlpUlhXZUxkVDBKaWgtQl9BZ1JnSnNzV1BqaXFOdDdSY1lMQ1MtQjM4N0l4UFlqeU91RFM3QldOV3hsbm93ZDNMUQ?oc=5",
+   "title": "Crypto\u2019s Next Two Years Should Be About Survival, Not Competition: Vitalik Buterin",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjBBSTM1cGY1azJJNjM3S25iU2JPYWlEcGR5Y1RqNzZjdDd6OGV3ajk3bXJhQ2VkZ3FxZG5hNzVtNWhENDh6TEF6NndsUkl6UkRuYjdlcnRUUDNYSC0xWWkwS1RScUh0cWJsYTZDZE83WmRIbXF4aUpEN3U0VnJMRDRyLXNJYWQzYUJ4UmNSTnlFOEV2Y2hMNlFjWE9qdUJGa3hIM0F5Y2xxU1ZySkxGUlZET1pNRVA0?oc=5",
    "source": "CryptoRank",
    "type": "news",
-   "published": "2026-11-08T00:49:09+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
+   "published": "2026-11-08T00:51:33+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
-    "World Liberty"
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
+   "title": "OKX founder Star Xu advises users to avoid direct MEXC transfers",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DTGNkMUMzS3I0bExZQTl5YVV2N0ZjaGgwd3VNRWZMVVZOMTd2VVBzSTNHOHBFRGNSazltaENPRWdYaU9YUXlkNHpqYUF4T2lTNkg0SVJfWjNwempLTm40b1JpS0lKOFplT2dJMg?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-08T00:48:59+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "MEXC"
    ]
   },
   {
@@ -921,12 +1681,23 @@
    ]
   },
   {
-   "title": "Reality Partners with Merkl to Support rToken Dividend Distribution Across DeFi",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaUxUUzB1aEhwOVpzV1gwRWRJY2RJdlFsaGJ3TmozajdKcWE5SVRKQkhaT2JPNDFLaTNQT3hFenhDSFNBVmo4XzRzd3hzY3NiaXVnNmN4aTJlVFBTQ3JKN2hKWlNqTVB0V2p1eEYzblVYckxiTE9Od003WUJXNUdldmNkVl9sYUR3clVJUGZMbW1jU3ZaZVExNUJ3YTBmRjJvaGNJWkNIdWF1Y3psc2hoWHJZQ3dla2dvbEI4?oc=5",
-   "source": "Indovizka.com",
+   "title": "What Is a DeFi App? From Wallet Connection to Lending Deposit",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa2lueTNvV0d0RFNIb3ptZjNBODNDYnFkTUpWcTQyV1dMTWl1NXhzemowWmVnQzlRN0pEdllici1lbTI2RENIbUpNaXpZZlFBYkRaOUJLeDdnX0lRTGFjWVk3dktJR2xoVHF5VVpNQmN4ejEyeHh0Q0c3WHlHR0lLVGsxU3YtbVNxaUpFTXVwSzh1bFVEV3Aw?oc=5",
+   "source": "The Defiant",
    "type": "news",
-   "published": "2026-11-08T00:30:19+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
+   "published": "2026-11-08T00:31:52+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Reality Partners with Merkl to Support rToken Dividend Distribution Across DeFi",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjNPYWFnR2RFREZGQVdudFNxZTV4a2ZDUDN6OC1vVzJnZm5DaHJOSWNydXhMM1pFTkY0bEkydkJ4R2tDUGk1Ml9aNE9aUm9HNkRHSFlfRkI2SjJISDBIM1ViakZCeUU1aXFlVEppVC1LZlpPck5xZUNBdzZMc2s1WkU5c3lqcGNTSVhNTERzSW1GQVFBUG9WZUpMSU01WEtBQWlkTGNCTTA1VER5dFZz?oc=5",
+   "source": "riauone.com",
+   "type": "news",
+   "published": "2026-11-08T00:29:12+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
     "DEFI"
    ]
@@ -1001,6 +1772,17 @@
    ]
   },
   {
+   "title": "Convert 500 EUR (EUR) to USDC (USD Coin)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ea2stS09lR3FoRHlSUWktTTJWU3FPUFlDRzhsNVJhZ3dOQm5mdklMMFpxQWNGVXBGZXVFeHM1SVVoRG9QUVdRVVY3TzF3UlRKUTItalp1RHcyNjJzUEE?oc=5",
+   "source": "Bybit",
+   "type": "news",
+   "published": "2026-11-08T00:00:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
    "title": "Samsung Wallet USDC Transfers on Sui Expected for November 2026",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4d3g4VHRidVdaXzdqaFdOZFdBbC1ielZDNDBhUk04T29jMkJ3V01sWkJaelI0TGpzU3ZmczVwdTc4ZVl3X0Z3VXlBX2h4ZEhNenByTWQ1TlU?oc=5",
    "source": "TOKENPOST",
@@ -1010,6 +1792,19 @@
    "topics": [
     "Stablecoin",
     "Samsung Wallet"
+   ]
+  },
+  {
+   "title": "Grayscale says Ethereum leads smart contract platforms in stablecoins and tokenized assets",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2ek1sY0t5RjkxMzhiMG5falNLX29xQXMzbHhTVWRZTjFUVE5pemExX2VTV19PNU04WWVzU29WT1dYTG8xdnluNHg1SzBwX2JpRHJ3YkpnTl9Ndw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-07T23:26:50+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Stablecoin",
+    "RWA",
+    "Ethereum"
    ]
   },
   {
@@ -1024,26 +1819,48 @@
    ]
   },
   {
-   "title": "Will Bitcoin Go Back Up? Three Scenarios to Year-End: $70,000, $80,000 or $100,000",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wYWJ1V2pza1pKdWdqS1lSVU9pUmFfSjJQUDFzSkNmNThRb2hGNnlfZTB3SmRZMko2SVJTXzMzRWY1eERfX0tsODE0QUJlUjBaSjJMSW1zMkM1X3M0SVJPNGpfSEhycnFzRVZscjd4XzZfbDRZcDAwMXh3?oc=5",
-   "source": "CryptoTicker.io",
+   "title": "Tokenized assets with fewer than five holders now make up 13.6% of the market",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiSUd4LURZZkdkSTRCV2Z6ay1uZVRKN2k1Rjg0SVpqcThKZVBEZGNtajdwai1ZRU5ETjBkdU1jYk5aWERVeXQtUUQ5OXR5MkdBSVgyRDVFaHM?oc=5",
+   "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-11-07T22:59:48+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
+   "published": "2026-11-07T23:26:50+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
-    "Bitcoin"
+    "RWA"
    ]
   },
   {
-   "title": "Bitcoin, Ether Forecast: $6B Binance Hack Rattles BTC/USD and ETH/USD",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFpSWnVjRm9SMHRGeWg1cWZQTU5TUnUyWTU3ZjdCTHV5VV9KZUt2N2VKaHBESkJkTUtiaEk2UmVvZExLY2hYa1VoX2xhUDNsdzBXalZTYnBLb0NBbVJkZElWOTJGZXhmT0phN0RKX281QzhmSXF6Qk5nVTZIZk1pUXNLcDZSbDcyRXZHNmxNeW1WWk5PaWUxX1dyelhBd1NUREVBWjhrSHJvRmF4eFJYTFFabEU?oc=5",
-   "source": "StoneX",
+   "title": "Stacks leads Bitcoin layers in Q3 DeFi TVL at $88.9 million",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJNl9QQzYtLTJVT3pyQWV5VFVyMjJSbFJwbURxRG5DeEhRYk5yMC15N2hXYjVlYXZaWFlSREYyRnVhZ3RncW9EaWxWRkhySVdNU3dCZQ?oc=5",
+   "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-11-07T22:59:29+00:00",
-   "first_seen": "2026-11-01T07:00:55.495987+00:00",
+   "published": "2026-11-07T23:26:50+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
-    "Ethereum",
-    "Bitcoin"
+    "Bitcoin",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Crypto Privacy Fight: Banks Want DeFi in the Reporting Net",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95R0FvOTZYRVJ4N29rd3JVRnJrMDZsTFNadmMySWo3c3o0OU94ZUgzbjl2cUhLRk1rRXE2ZmFXUnlxY29qMTFfbTdvSWNhamp6QWNuN09GcllGSUFCQXpqYVlvXzBZM2xNZ1FnbWhaLS1PT2ExbFpVSUNjZw?oc=5",
+   "source": "Coindoo",
+   "type": "news",
+   "published": "2026-11-07T23:07:39+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Zcash Activates NU7 With 25-Second Block Target and New Fee Reserve",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeE5tdUJfSDFWZmI0VnJfbExHemVCZm1YOVVCRXA1UXJkSzZhQ2FmVENtVmNEUDAwbU5OTGVUbTZpODVrbV9XT3N5c2lzdWE5WFdGWm9zTVY5WlZPVzVDZUhZS1pLWHcxOFNpeHVHV0FlV2I2Yi0wMlJ3SElBUy1XSTZmU3Q4cVQwb29iX1BFWTE5b2hCc2Z0UDViTndnNG5JUGfSAacBQVVfeXFMT3hkVzFTVDNhdmFKTGdVRHU3cGE5ZElzQW11b2J3ZDNWLS1NV185UkJjdC0zNTNTNi1CU3hqUDhwc3NuZFZzWVFHZUZ0OFJuQ0cwclV1OG1mX3BKby1qVXNOUlVoaW92bU0wb1RkeXE5Ujd2SHBuLWpmMXdwTzlpcVFEclVXX1JyclhGY2pXU2hyX1lnTGFxdnRDVGRhaWJVZXp5X09ZWkk?oc=5",
+   "source": "NewsBTC",
+   "type": "news",
+   "published": "2026-11-07T23:00:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "NU7"
    ]
   },
   {
@@ -1087,28 +1904,6 @@
    "source": "24/7 Wall St.",
    "type": "news",
    "published": "2026-11-07T22:37:00+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Robert Kiyosaki Says 'Why Worry?' as He Eyes Buying Bitcoin, Gold, Silver in Next Crash",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlQ3N2E4V0oyWDhkMFNGYXp3X3BXQnBwcjZLME5aUnJuZDNpN3kyNkNmVTF6cklDUnRRVHN5ZVNyb2pGaTdDLUU2OGl3cGhPdFA2eHZtdVJyNy0yX21NMmVuTkdZNG5zNnRRd0l5RHZOSFZyVGVadnMwd2tFV051X1Vac3ZnTEFGNVBWbEhlb3hVR1hqMnRNdng2RQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-07T22:30:09+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Mercado Bitcoin Is Reopening After a Cyberattack Froze Withdrawals for a Week. What Happens to Your Crypto When an Exchange Goes Dark?",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONnNLMG1yMmRkaWtmZ1JEM0R0bkRJdFRNQk1zcHlSc2k2bzVYcUtHU1JXS09iT2N5WnhTWVE3UFdVNnhFa0M0NjJVQU5xNC03RTdGYi03Z25TSTMzOE1BazlJelRzT2Z4OW5xSy10RGNVTUNOb2F6emx6eTRod2t2S2R6cXI2UTZOY2lkMzdsdkFBcXZEZWN3Y08wQ1RJSU1Pd0w1aHdaa3hJazV0MzNCWUFER0o0MWdScXpUTzQ1WERzdlBJWWZicTY5TEpEb1FDMk5taUJoVUhtQVIxc0RqODFIWEJwQUwzY1B3eUxoWVliUkMtUy1PdE5ZRkdrNF8tclF5YXY5Ny1wWXF0YlJkSmlqSUJnMngwQnNN?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-11-07T22:13:00+00:00",
    "first_seen": "2026-11-08T07:00:05.518244+00:00",
    "topics": [
     "Bitcoin"
@@ -1180,7 +1975,19 @@
    "topics": [
     "Stablecoin",
     "Ethereum",
-    "DEFI"
+    "DEFI",
+    "Remittix Earn"
+   ]
+  },
+  {
+   "title": "Ethereum: J* upgrade targets completion of post-quantum and post-AI transition - Dec 2028",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLXFkbDRTYkNRQ0ZKalJVN0FPWklwZTYzTlpvSHRSemhULTE1c0pIdTBxeU1rc2ZlanJwekxhS2ZqYWJyYzd5eU1HbTNTS3VqZVh2TzU3ZUdwUE1xODc1MmtGVEZVWmd5MFJFT3p0ZFdMb3dUdHlvRWNHZXJnMjZiRkFSY21DWHg1NW1DQlVfYWpEbW1ZLXQ4ZFVkVkVWUng2ZFpOb3MzTnF3US1LUDVQS2N3YXZ3Z2JFeF9fQTlpUDdNQmVlOFJQOUIyZTdxa2JkdkdUNUJxdGxERU01bEhNX3RTSQ?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-07T21:00:48+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum"
    ]
   },
   {
@@ -1203,6 +2010,17 @@
    "first_seen": "2026-11-08T07:00:05.518244+00:00",
    "topics": [
     "Nigeria"
+   ]
+  },
+  {
+   "title": "Stellar Reaches $5B In Real-World Assets As XLM Price Draws Attention",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jZnFfNWVFaFRDNHRHVDRndU5XLVYtcFZPMDlEYldxZG0zTkxlX09MU0ZKRmlwWG1JaWFlVzRHd1U1WlBETGxpVWxOUUQ5dk1USWROSXp0VUVMYk5UNFA0MEdSbkl0dGU4Z3U3MHJEalpTNHl6dHJscHN3?oc=5",
+   "source": "TronWeekly",
+   "type": "news",
+   "published": "2026-11-07T20:30:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -1240,6 +2058,18 @@
    ]
   },
   {
+   "title": "Confessions from Vitalik Buterin: \u201cIf I Had Known It Would Turn Out This Way, I Would Have Handled This Altcoin Very Differently\u201d",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBeEEwOWRoZE9jSXM1b0ZPQ2dZQzkxOURHMW5fN0hDRkplVE84bGUxV0t4UG9vT2F6SkZZX2o3R2gtbi1LaFk4TWo4UUM3VHFpYlRzbDlvbjdKQQ?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-07T20:00:37+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Ethereum",
+    "Buterin"
+   ]
+  },
+  {
    "title": "Defi App Price Today: HOME to IDR = Rp97.13",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SVBmTzVacl9yN2FEc2lCY3Jpa3h4MFlHRU1GV0ljUGRPU0ZmZXM3ZnZmalNRcTBmSDlZREpERHJuTkNwUGNfY0lWOFdtOUdmUFFIV3hGekI?oc=5",
    "source": "Pluang",
@@ -1248,17 +2078,6 @@
    "first_seen": "2026-11-08T07:00:05.518244+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Renting to AI Customers",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1N0SUFaeEc4TnJSYlZMRTh1WkdkSUE5QlhWTmFlMThNQm1uMVVYbUFWdnpiajVVX1RVdExpMFFCQTNKMXlTMmlPT016M3Y2NGlBbzdRcEZUMWoxdTRkT1ZwcTMwNmJTRUJpbVRPZTR1RzF0ZVlaLU5NWXZDbS1iTlJRYmdVRjNhRWMyWUdqenZBMl9tcXFFTk93Q3FLWTFfc2NIR1RfTQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-07T19:52:50+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1295,6 +2114,18 @@
    ]
   },
   {
+   "title": "Cardano Pushes DeFi and Real-World Assets With 120M ADA Program and Copper Proposal",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzRTMFBUR2U0QklZTUs1UkRjM3hYVW1TUE51SW1kM0ZWMnlOM3RBSFNzT2dXMnI3Ullkb3EzRWhxbEp0NHAtbGFqaUxBOVFKUGRiOFpOMHZ0QXh3WmloRG1kZHBvQnhyaXFtWjRFUWJWSG05WU55UUlLaG9sdU9EOEdZMEE5S1NHQVRWMVl4N251M2hfMldta21veDF3ZXJvakw0Q0tJTmpGZDZWQzBxOA?oc=5",
+   "source": "CaptainAltcoin",
+   "type": "news",
+   "published": "2026-11-07T19:33:03+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
+   ]
+  },
+  {
    "title": "Justice Ministry Registers Bank of Russia Directive on Cryptocurrencies for Non-Qualified Investors",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWnVLR2NBNU1UYWVWREREdjFISXNYajByWF9XZVNxcExqOVg1SHZ4UTJpVVV0WXhFbk9YdDJUSzNmZ3NZaktTcl9NUG41aXJsbFBCanJEUHhDM21NOXBWTHc1UWVCSEJEMGtkUFA3TEYteDVyanV2aW9UR2RxalBUVVR3T1lRMmI1a285bFZQMWdqcEx1bFFzV2hIUk9XNS1BcDlLZzExaGo0TzhCYjNJUUc4QWFEQURySjNpWmM2cHNJMFJudV91V1EwMy1uSjA?oc=5",
    "source": "Coinspot.io",
@@ -1317,6 +2148,28 @@
    ]
   },
   {
+   "title": "Solana\u2019s Real-World Assets Surge, Highlighting Market Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3BzLTNLWFdVV0hmcDJsamVzN3JSV21pai1vQWtOeUs4S25TQndQdDFlb1N0Zm1LRElNQzJDMm5EZWFpMEdwRVZPcGN3WFNVaHZLaTlnVzdQaE1fbjlVdzc0LU5JYUNHcmtGV3o4S2ZOOFc4WDY2THM5QmtKLUxVZGFaUHVoYU9qYTl3V21R?oc=5",
+   "source": "Coinfomania",
+   "type": "news",
+   "published": "2026-11-07T19:04:49+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Binance, OKX Users Report Frozen MEXC Deposits After U.S. Treasury Action",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUcxUUJQS1RqM2hwMzZTbElkOEJEWHRwNVR3LUR1MHJVQVdlbk5fcVdNZWlId3JaeHBrVmZHUldRaFA0NjRzYVdvTHE0Tks4WjVTdWxwZFFhRnNXMDlqNFlTcFRlaWZwdnRGd0FoN2dOdEkzbmVsb1VHVWNjUnNPT0lwVzdoNVRJSkw4ajR3ZVZSTFNiUm1QOEk3aw?oc=5",
+   "source": "Blockonomi",
+   "type": "news",
+   "published": "2026-11-07T19:01:10+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "MEXC"
+   ]
+  },
+  {
    "title": "Wall Street\u2019s Stunning Post-Election Rebound Puts Bitcoin and Crypto Markets in Focus",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTVtazZmY3JKMnNxWlVfVjBiMkYtR1Vzc0dPeU1jVVg5QUszemp3aWxrQlNJdmlVSHhvTHNzeDZENmNZU29LaHJwY3JLSll1eUIyWGozeUF0ZGtKcThST3I3Qm1aUnU0SmpPMkFGNlYxMXRQTDVQMWFXQmhPb0I4eGIwZ3JoU0R5dHgxMXhFMzhMZzV2aXc5NlpmZlF0d0FzVHJ1NE9rN0VvTm01ZXdZUm1EM3VYOXFqQ0tPODhBTQ?oc=5",
    "source": "CryptoRank",
@@ -1325,17 +2178,6 @@
    "first_seen": "2026-11-08T07:00:05.518244+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "MEXC VVIP Futures Loss Protection | Recover Crypto Futures Trading Losses | MEXC",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MV04zc01UN05ZUHZ1VVZpNDR4NmZWZVNMcWZPXzV1VkZkOGFzem93XzRLVjZiaG5sNndoTFRmUTQ2WDRQd05WbmZEa21NXzR0eG0xTkg3cjdlX25sSDRsX0sxMHhySjZjSEdJQy1zaw?oc=5",
-   "source": "MEXC",
-   "type": "news",
-   "published": "2026-11-07T18:16:23+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "MEXC"
    ]
   },
   {
@@ -1350,58 +2192,14 @@
    ]
   },
   {
-   "title": "World Liberty Financial launches WLFI token buy...",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjhJTWFFbXlmN1dpZWRBT1Vvb0dxdmRuVGJna1JuVllUM0xZSVhsRHJTdGQ3YnJSRVJsajB5ek1qcC1IV3dIZUxoUlhZWXI2NG1sYWlIeDV6OFVoeVlfQUxCeThmNzBlYjAyOEh1aV9HZkE4TDNuV2I1bHBHRklwV2tPZElsZzBubS1rdEpjV0JaNkJQWno3Z0F2WHhqV256UzdiMHZvMmV6UEItZUxybg?oc=5",
-   "source": "Pluang",
+   "title": "Solana\u2019s October Upgrade Review Puts 200ms Slots and $5B in Tokenized Assets in Focus",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZk9XbTVwcVN6Sl8xR1FxeTZkeG5VWWRMcE5ncVdqXzJXcU9JRWZPTmFVYXVzV2VydmZlaWpPZjZzaGlrb1ZINThqZTlDd2xwMUhhZW9Ma2hLNmpOWUZHN1Z6NkJVcWZXWXFNSXpJSmsyMWs2cnlGdERBQy1hT0poczlTRTdCUm1sWjk5clFOY0RFMDcya0RfWC12N3dSdTkzQVFIUUN1Z3BjUEp3OWE5VG5DbGVuU2Y0d1NndTBiZWZjWTM3QUFQUzZod05nd3FwRVZjRXpTaTFhUQ?oc=5",
+   "source": "TradingView",
    "type": "news",
-   "published": "2026-11-07T18:12:56+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
+   "published": "2026-11-07T18:00:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
-    "World Liberty"
-   ]
-  },
-  {
-   "title": "Aave acquires Avon to add fixed-rate lending as deposits top $33B",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHJlTG1jd1VsRENGUWJBSFMyc0tUOVoxeUtEMVF0UTRFV2ZHNlVqUDZTRmdkN1g0ZzlsM1lrTDRkb0x0MkFPMXVpejRlNlhPTE5vSXJpOFI2UUMyc0xrTUpSSEEteGR5ZGo2WGJKNUhCYTdOMnFwR0RFenU4b1A1ZmhwVlphLVg0dHhZeEJnSFlDeG5EazFRY0o2S2ZqTVRYTUUtNnJyUQ?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-07T18:12:56+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Aave Labs Buys Fixed-Rate Startup Avon as Network Deposits Top $33 Billion",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jZVdSUmhkVU5MdUEtdjhBNmdOMWxFYkZzMWtZbnBBbmk2cExOODVvanF2azdEUU1GQXNCSHZ3MG8wWjZNVkRjaHlTc3VqcDdmb1J4ZDRUamdTMmFFOGo3SlY2ZGlkelMwZjJMa2hjMGpSejdfekE?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-07T18:05:00+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "CBN Raises Capital Requirements for Stablecoin Operators: What Nigerian Fintech SMEs Should Know",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOenpFal96RE0yM1g2WEpJRjRvdHRTbXJSYUs1TU5UQ0hxdDZfX2VvNUQtcnFJWXRxaDI1Z3BqckZ0eGNRSnBnRUlNNF9TeVpzZ1ZJTVFXdTJway1hRS1ORGRJSmdZTlNYUnpuMGkxeV9Qc1hfUm5qYTB3VWtZTGdzRmZFaEZuSGtYaEpOeTNGOGR6ZWk3X0xVNHlrOWJmeFVYNU84NzlwQVJpckF3NFcxS3NFa0FkV3VOcGt1TmpOTl8zN1k?oc=5",
-   "source": "MSME Africa",
-   "type": "news",
-   "published": "2026-11-07T18:01:51+00:00",
-   "first_seen": "2026-11-08T12:00:06.371259+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "World Liberty Financial Plans WLFI Buybacks, Eyes USD1 Reserve Fee Income",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4bFZLTmtncjYwNmpabHRmeGtrb1RCdElOQ2R2RUhRMEs1VXVvSGVHY2daTTlmQ2o1ZkJ6UHh4M1BtLVhhYXBIN0hPakxRRUk0clUzWVdscTU?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-11-07T17:57:55+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "World Liberty"
+    "RWA"
    ]
   },
   {
@@ -1449,6 +2247,17 @@
    ]
   },
   {
+   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fYk5XUHhrb19HQzZsbTdkNnF1M0V0ZTlYdFFjd09ETFJDTktod3VPbnNBVTNPTHV6cGVtdGRJZXFpV25kRDNuczlDNkNrVXdjMC02d2l3Sl9pZw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-07T17:25:16+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
+   "topics": [
+    "Pay"
+   ]
+  },
+  {
    "title": "FinCEN Cuts Off MEXC Global From U.S. Financial System Over $16 Billion Illicit Flows: how 7 outlets framed it",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSlNXY2gtVVlmalB5aURCZWNZMWVLekNHNUE2bWZQTDJSQ190Q0R2QmV6NUFkMW5RbHczT0RBanZfQmtrclZmUnprSUNZemluWUhOeUI0R2JGVDFyWGJtVHJnSWNHZWNBZ1U2NUZUZDN6bmo2a1hSSzJGcmc1NmRrTk1ZSFl6MHRvNUpJMVJqVGNIT3A1cjVtSDFoOEhsYW16ZWJQYzdYZ0J0UURaMGRDT1N4NmZ3dnVEWmJRM05Sb1VtZnVhS0kyelVSdFBGM3pSQW5ra1lKejhOSFNVR1k1akJHZ2RtQ2dnNnc?oc=5",
    "source": "NewsCord",
@@ -1460,464 +2269,23 @@
    ]
   },
   {
-   "title": "Samsung Wallet\u2019s USDC on Solana Is Live \u2014 Here\u2019s What the Rollout Actually Covers",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNlZTUDZWSzVXZGZ2VHR2Umh1dWpuWjN4ZXktd3FtSEE5YVJSa1NuU01WcTVVdnhOM29TUUs3TjIxY1NxbmMwbFNwMUI4RW9MYjl4WmVEWllYWWhqSHdGd1lGdHdvcVBsMW94M3hsZTRaM3JYVjVWVGtFZTdTWXhNSW5Nd3YtLTE3aDB4SDEyLU90SDkwQXljYU42a3R2UnZ4QWpnemZxY3FCRlRxdEphYWhPYzFKYmZ1Rk9ZX1BkNDhmd0NGTFFVTGc0UWZ3TzdXYUlN?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-07T17:00:00+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Stablecoin",
-    "Samsung Wallet"
-   ]
-  },
-  {
-   "title": "Gnosis Pay discloses data breach affecting crypto card customer information",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjZ2NUNJaTNDQ2VUYlVpdzZnRnFJcHprcklmVC1PZHRFeXZWT05oSUJpUkd1RzBNU2o1WTc2M2RGdlF6ZUg5VEV0eGZBMVlmV053dXJMMXVqc2tBSVRody1BNzZjSDNiVmhydlB2ZExQUXhkdFlQT3NocS05UDdRUmF6bXJ2dDlVdDQ1M0E1WG1ZbnVXQWcxOTJ3czRpOFU?oc=5",
-   "source": "Traders Union",
-   "type": "news",
-   "published": "2026-11-07T16:54:22+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Pay"
-   ]
-  },
-  {
-   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-   "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-07T16:51:00+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Pay"
-   ]
-  },
-  {
-   "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-   "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-07T16:46:02+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Zcash News: NU7 Goes Live and Zcash Blocks Now Land Every 25 Seconds While AlphaPepe Rockets Past $3.31M",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjZ2UnZJcnhoY21UY3lvWHdyRmNxZnFOeU1rVWFPNEZsaUR6ZHhGdzEzZm5xbFIybExERVBLOEpxUVMwbWRVZjUtWDlLODdQMzRHTUx5c0VzWU1sZ05ZaFFOSDhNNU85OHhHSWVlM2c3Y2lQQ1RRQXE2UnEzc01JUVVUcDZONUIwNVlldmhJcGpGa0xvNERhVU4zcw?oc=5",
-   "source": "openPR.com",
-   "type": "news",
-   "published": "2026-11-07T16:41:01+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "NU7"
-   ]
-  },
-  {
-   "title": "US Treasury targets crypto exchange MEXC for $1...",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTF96N2d3SFp3c01iYkFsbnJNcXIwN1dGSmdFaWNNeDBtNGtFZFMxc1lkcTNBZkotem9wSmZGTWs0MzBJc3dTaWNnM3dZdkQ3VG5mc1RXdE5IUTYyWmxpdHI1U1hEZndZczBOZF9kaWl3aFA1VF91dEJfMFRSU09IdFJ0ZnktWGpSczlpcmFTWHFvbENUYy1kZGdhOV9iaFBfOTZfZVo0cEVvZw?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-07T16:34:44+00:00",
-   "first_seen": "2026-11-08T12:00:06.371259+00:00",
-   "topics": [
-    "MEXC"
-   ]
-  },
-  {
-   "title": "Bitcoin Doesn't Need a Bank, Yet MicroStrategy Wants to Become One",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMU16UTdka2Npc3UxLTdHaC1oTEs0R1Q5dTdGem5GeHlNcFE1MjJ2MVBqSURrNDBxRndVelJ6Zk1wTW5JS1pucGlWa1FyU01yRkFYYzgxVU9tTGJ5RllUZ2pyeTJhOXM2Szd0RXZ3WGlNNi10QXZabFRjWlFSc0RZdHpuYU5MdDFxeGRsRVhxaTFMN0pDbEZjeTUzUmZQR253MWJUYQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-07T16:30:40+00:00",
-   "first_seen": "2026-11-08T12:00:06.371259+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Treasury Says Crypto Exchange MEXC Moved at Least $16 Billion Tied to Illicit Activity",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3lpdjFYZlowQjJFbFdFeHB3QlpkcmFzSVhveWg5azhTOEVVRDVVT1JNaVF0QkJrVTBwTHFiaTdVekZKc1BfeThoUWU3cUJsTW5OU3FQZ05lLVpKcXdmeTlacW9xZVdIbmhoNDVXbU5tcFNHNGh5X25Pc2RkaGZUenRRblZ5Rm01SC05LUV1WnhDX2ZsVVplLWxyUDhsY3lz?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-07T16:18:55+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "MEXC"
-   ]
-  },
-  {
-   "title": "The US bans MEXC from its financial system",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YNGhFeUsyVG9RQTNSZ1YxNEQyRGRJbHA1b2xOWm9qSUp0SmJrQjBsU0Qwb0phZllkcE5pWEI1TTRtRlQ3ODBHRUhHOGZRMjRRWndjeVpxMEswanJDQUZuOWVuWk1IbUl5NE9NMHVsZEptdzVldUg4Mw?oc=5",
-   "source": "Bit2Me News",
-   "type": "news",
-   "published": "2026-11-07T16:00:16+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "MEXC"
-   ]
-  },
-  {
-   "title": "Gnosis Pay Data Breach: What Was Taken and What Comes Next?",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZHBDQjRsQW83U0FXcEZ6WndCekVRUnhfV2xudURYMmtlUUNYZ0pUWEIyQ2Fqc2dOLTRXSExQR1lpcy12dGNTZHhjUVFzOUtxd3FsQ0VRZndWNU1oc3N3WEJwZTRrYlJNQ0R3NlZDbXFZN1RNRjN6YXFzemhnVDQ5TERlcnNCTmRZRU4yTlgtTXU?oc=5",
-   "source": "Coin Gabbar",
-   "type": "news",
-   "published": "2026-11-07T16:00:00+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Pay"
-   ]
-  },
-  {
-   "title": "Bank of Russia releases BTC, ETH, and USDT to the public",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnIySnZIc19MUmF4Qzdva2pWcWhQVG9ycjQzMHppRms1eXVPLTNjLUpEal9KNzB3X1RXekRiNi1TVUFJUkNac0JwdHM5TjRJS2EtYmNNNkhzOXBsaU9KZm51TC1PSEoxV056SE9CUWhaai1hSHhLY29pMUNITDJpN2JuMFNTUlVGNlFrcS1n?oc=5",
-   "source": "portalcripto.com.br",
-   "type": "news",
-   "published": "2026-11-07T15:49:17+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ethereum",
-    "Bitcoin",
-    "Russia"
-   ]
-  },
-  {
-   "title": "Robinhood and Chainlink Discuss Tokenization\u2019s Impact",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb044WmFhWGZaRzhTbVZ1Q2ZubzVrZUhfbGQyRmlaRWFnb3hJZ1FZOEtwTW84bDZMVkpLNzVQRzVvZVlReG1RVFdSTFh5NVBHSmtNdU1rZHllbDRadGVYNUVWbWtxMldsclFwUGdUT0JOTGlCNE53blRxZnduengxdFRWUQ?oc=5",
+   "title": "Deposit Delays Hit OKX After FinCEN Targets MEXC Global",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZktoOW91MzRpcENwT2JGbW5QX1NFY1FyOVFvb08wWFptdDRXcUR4R2pFSnFTNTZ2Tl9zTXI1VnNVck01M3ByV3k4R1pNWmpNaXlXcGZFR1Qwa1MzVlJvWnkxd3puemlxVVJQck9UV0lsa3Y5RUZJTlE2dXpibDVCclRHQkJnVFU?oc=5",
    "source": "Coinfomania",
    "type": "news",
-   "published": "2026-11-07T15:44:00+00:00",
-   "first_seen": "2026-11-08T12:00:06.371259+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Sui Network Stablecoin Supply Tops $500 Million as USDC Share Reaches Roughly 65%",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56MWNlUmlodjVSZHVscEFhbFB0cWtOUFNlaTRNV2RKTTljWkc4Q2FXX3V3VUstcFZNVkl3eU00ZEljU082Y1hBaS0yQU9Lb2J0OGlNclNoTG5tUQ?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-07T15:40:29+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "How Low Could Bitcoin, Ethereum, and XRP Go If Crypto Keeps Dumping?",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX3pCc0Q3Q3lWN2o0bVdUeW1tbkNjNzB0MlZ5Vm94U2NVajF5XzFVOFRTNDlQd0J0NGtwdnF2MGFkU3dfdmxpVWxhcmZJLU5NYjB6WHVBWmNOZXJjRGlkY3NfOHNXLUJQaGt0dVhfMXllcmc5ZXlKX1lwQXhLYU10M2E1aXBES2lmbERxTDlEdU84VXR5dWo0VXc1T0ktZ29HSTlRRDl3?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-07T15:39:27+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Apple Pay might seem like a small feature for a crypto app.",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5Mnktem12T3lJeEc2Z0h2cURqUnFaRk9FX0h4cjZTNHN5TUhZRS05UjJvSDA0LXU4bERWNlRSWXRxbXJ2NGJjRVlJQjNSaWRyVmlfWGR4aUVrTl9ZS09ueTBuY3JOWEdDNDh3a3lIR2lZckk?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-07T15:31:13+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Pay"
-   ]
-  },
-  {
-   "title": "The Composability Problem @fhenix In DeFi lending today, ev",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlZl90dnFXcHpHYmRYV3N5OE5LcGdtc2FMcTJENGJXRTh4ckJFNnktWG5rNXJKU3RTX1c3OXpZUmNELU54cDF1ekVpbnhIMjlrb3RkS2phXzV0cFg5TkxFVkMxVW55RjZKVzk2QWNwalgtUQ?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-07T15:31:12+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Gnosis Pay Data Breach: 3D Secure Required Until Dec 20",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREtkaXpQQThZVzEzWDZWb2JaYkpGVlNxbGN1SjlOV0dCTFZLSEE1TU9hTWk1Y0x1RzByaGxqQThzSmRaTjQ0c1VUQVBkMGFtM2dlSnI4NjRUNklxR3VvX3I1MnhjZTFFVEhNR2VUa1RyVjkwMks5NlZfSG1zRUdVMEY4SnZoTFNBbUQtcDFaUHJPdWp3VjJiQjBOZXJmMGhjYVE?oc=5",
-   "source": "FinanceFeeds",
-   "type": "news",
-   "published": "2026-11-07T15:29:51+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Pay"
-   ]
-  },
-  {
-   "title": "Stacks tops Bitcoin layers in Q3 2026 with $88....",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcW04VWtMa1JlSmhobDRQeXZRb1RmaU9uRWFfNU9pLU1QSjZvZFhvVV91UERndWYwQ0FZOFllam1FLTRKRUl5ZFZFWmE3eGpSbUd2NHc3N1R3YUpiRVkzLWJreXZJamVFVExiZmd1RG9yM2ktNzFSRm5ERUc0MDBrQnBBVzVtU2c?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-07T15:16:10+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "MEXC sees $126 million outflows as US targets exchange over $16.7 billion in suspected illicit transactions",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVVwTnZuZ01CX1VmNHM5NHlQTWhOdFZZN3ktMnNJVXAzcGFUdHhaSk5RN2YtUjJ5UDFLZXVEYUNfemZTYXhrMVV4QmJOcndiTlA4ZHJJTmVEdUJ4REhuVFhZQXNpSzlpVkR6eS03QUxHckZZck5BZW1TQ1haY2l5aVNzYU9zZTllY3QxWTc5RnpseE5vX2loSmVMX1UtWERxbFFMaDBmR0pwY1ZReE9sNWdBS1UteFpud19BM2ZZLThQLVo3ME1TOG5R?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-11-07T15:10:42+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
+   "published": "2026-11-07T17:24:27+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
     "MEXC"
    ]
   },
   {
-   "title": "Block Just Agreed to Pay $764 Million to the DOJ, More than an Entire Quarter of Earnings...",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVG1CRzQ5TGdzNk5Wa3lyVWhtanhBZ1pzcS12aEg4NXQzV3lUSVRiVWo2UUF1RlVDZXR1Q2wxWDdRMVB3TDlnaFlPVTJDTzd6dXYzaVdibHFhOTZtUGwyNGtwaDdNbk5ZN1FCbk1FSUdqcWhtVk5tLU9VZnM5MjRHcnFHMDJsS2FJRFBkQ2h6bw?oc=5",
-   "source": "Global Crypto Press",
+   "title": "US Treasury Restricts MEXC Global Over Alleged $16 Billion in Sanctions-Linked Transactions",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2xta3otNVF6YUtBcm5UYkhxelFFMmlCVEZzV1dwQm9Sc2pYUklMVm5KbjczSDZWSzV3TUpsa1N4dXpuQnhIRG9VZ2pSdmhmc0FGSm9ST3JzdGhUV1ZSUUhEWTRJT3F1QWdhWFI0c3V2TkVLdWZwZlg1YXhvRXJsaEdB?oc=5",
+   "source": "Hokanews",
    "type": "news",
-   "published": "2026-11-07T15:03:00+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Pay"
-   ]
-  },
-  {
-   "title": "MEXC Cut Off by FinCEN: What European Users Should Do",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TTVZHWDI3T2ZDMWs4QzBwdjdtZHJpUFQzYms1NFVYV0dfMWJQVEdadDVlR3hZaFZVckItdnZkb3FhQ0U5OUY0TkpoYm5qbjVOekpnYUxJLUw0ekcySVhyalFMN2JsS1dlTXRXX28tc0dCdjl4T1hqMVBuRmowQQ?oc=5",
-   "source": "CryptoTicker.io",
-   "type": "news",
-   "published": "2026-11-07T15:00:00+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "MEXC"
-   ]
-  },
-  {
-   "title": "4 Next Crypto To Explode Options as ZEC Holds Up While NU7 Goes Live and Majors Slide",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdENpTnNENlJOenVjdUpsT0xGd25ydV9VNnBrVUJjdkxkWUFfeUxjOUo2NmV2cmpLMmZ5aFVsd0ZEZkpiZGpUSVI1aTYyaS1RTUZTcDNOZllGX1NaOElUeVczTm9rSmFqUFEyaHZCc2g4d3lkRmt1d1NuZWp4NzNWUF80NFFxTmFQSEFxVnAwVUpCQ1V5ZGYzSkFNMmVSWXlGRXNXOThSVQ?oc=5",
-   "source": "openPR.com",
-   "type": "news",
-   "published": "2026-11-07T14:43:34+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "NU7"
-   ]
-  },
-  {
-   "title": "Treasury cuts MEXC off from U.S. banks over at least $16 billion in transactions tied to Iran, Russia and North Korea",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYVZuVkVqeWpKVUZhYmtXRGtYbzNqbjg0VVk3Y2czNmdVQkJkV003QzdzMmR1UldTa2lhaGhGdGU5MnpMYW94MmdUYmdBMmc4SXVmMUFWbS1LVFoyYzNZTGtOLUxzbVZuRE9sQ0NzTTY2MUg1NlVUcm1xX3h5VE5BV2l4dFN5dEhaV3BOMzAyYzZIMXlKeW5YV1I4czRmYS1GSWMwSHRnaEt2eFpTX0xISkIybDlZLUllVG5WdkpsY3l5T0JoWTloWExnYVBPc1k?oc=5",
-   "source": "MLQ.ai",
-   "type": "news",
-   "published": "2026-11-07T14:38:22+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "MEXC",
-    "Russia"
-   ]
-  },
-  {
-   "title": "Uniswap Whale Dumps 1 Million UNI as Futures Interest Shrinks 10.8%",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SHBmX0h5UW5hUzd4aFllb3dYekgzRndpN1BodE1SWE40V09pcVhmdzBQSlViWEpSTUMyMGRjNWIxQndWNWNWUFdncGxuV2FlUGhCblJoanotMmVCQVRDcEw4bl9GbmgwYlVpbnZhR2RaVDRlbmc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-07T14:35:00+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "CBN Sets N15bn Capital Requirement For Foreign Stablecoin Issuers, Tightens Dollar Token Rules",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnMyS2RzMjhIQjhFNldvMjNIX2Q5RjdKVUliamRsNHpWd3VkRm5MRjNaNXBBeW5CM1gxRnNhel9fV1hGczVfdE1hRVl4ZE9jMEFVNmtYQ1dTelJRdzRsOHprY1pidFZhQ2xmRjM0c2tIVElVVEloZkNRU2lNaTlzQThPTWFWVHZYYnkxU2Vlc1k2NWxlNmFnRTZrSEo5a1lLTmhmMXQ1Sk52LTIxdFBmVTNsUURGdw?oc=5",
-   "source": "Arise News",
-   "type": "news",
-   "published": "2026-11-07T14:21:28+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Lightning Network Casinos: How Deposits and Withdrawals Work |",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWh5Ynk4WGhQQ3ZaX2ZsMDdQUnJsVll3TmI2bkUtdGZwQ29RV3pNNUNWVUhfZ0p3ZTMydDJJMXlaWFdKUWZYdGQ0ZGhuLU56Ym5EYWtsUy1kWERVWG4za25ibGxLR2lVNW9LQ0I5bURvNUpqUFdZWnZQc2lFUzFIMzhoWWNyTlU1emF0WFZack1Pd1hqWTNhYjRIUnIwTkdtbUE?oc=5",
-   "source": "Business Post Nigeria",
-   "type": "news",
-   "published": "2026-11-07T14:07:56+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Circle, Coinbase Stocks Slide As US Banks Step Up Stablecoin Push Ahead Of CLARITY Act",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMzI4UDNrR1lnT0wyVEJEZnppMWQzbjJOc010dVhoNGU1Y1I4M2lCMXJUc2JRN1FDa0RTVHYtRUplbk4xcC0xam1ZZW5JOWV5ajhiUlZpSEphdTVGTHJFcHd4UlJ4dmpRbjNOQV9fUnhpc2VNdGU2UEg0RUczeVE1OTczbU1EN1lpOHNlbTE4V2pDTWhmWlNBaXZLcEtSUmRfMUNwdE1jdFAwMDBjNDlXM09GczZHNVFxY2ZiNjdPWFZwZw?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-11-07T14:00:33+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "US Treasury Cuts MEXC Off From Financial System Over $16B In Illicit Transactions",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3kya2Y2anF6VnBUck9tUUNPeHd3MDhSemdsYnNSbkNKeGpOYVI4UjlTYXpXblJCcEx1UlhDYThNSi16XzRYVDNhTGFod2hkaW9CcE5nVjFOblpZVk13VTRCd2N5T1dVRVNPM0wzSFJYeTIweU9xdTN5X3d3MXVLZw?oc=5",
-   "source": "TronWeekly",
-   "type": "news",
-   "published": "2026-11-07T14:00:00+00:00",
-   "first_seen": "2026-11-08T12:00:06.371259+00:00",
-   "topics": [
-    "MEXC"
-   ]
-  },
-  {
-   "title": "Ethereum Price Today | Live ETH Price, Chart & Market Data",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DRk8zV1BSUDNVbWlxSDA1QVA1SF9YMHM2RFlfbHZKYVdXTVdrbnBFbm1aQ0Z0NU56all5ZHVYY1pCaEtpWnM4eTRhbkVLV1VoZnlrRXAzUQ?oc=5",
-   "source": "Binance",
-   "type": "news",
-   "published": "2026-11-07T13:59:00+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Next Crypto to Explode: Pepeto, Telcoin and Tezos in Focus as Russia Clears Retail Bitcoin Buying From November 17",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjdoZVVxQWRHaHNEOHJyWGFfUVdvNkhxME9MenpkOHNGa2JVTDZjSUctOHk0b3pzZURuSWktY1phQlVJYVNldXhWNEV3VWdBTU9ONG40dVMwVlZrMTRxNnlrbGp3RTl3d09uUTdxbGRBRTU4dmh5b21pOHRPMHgwV3g3RTVHSnBkQUo3QXV2RTNmTXVBcWEydDl4SQ?oc=5",
-   "source": "openPR.com",
-   "type": "news",
-   "published": "2026-11-07T13:35:10+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Bitcoin",
-    "Russia"
-   ]
-  },
-  {
-   "title": "Putin Expands Control Over Japan Tobacco Assets in Russia",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkFCSk9PaklXeElFNXg2NW9SZ3hSWnpBaFhFUHE3ZV82MUNrYXpWeHFINGh0RFEzSy1tX1V3ek1va1Q3YVZYU1ZXdkM5b1diRUpydzBsS0hCLTNRVWdEWkNZTk1uSmxBem1xeFlOR2M2SjIyQjByU2VpTGRLeGxzS2RGa09saXNYeVFGTjVOYmhrV2twMFhMY2laQTZIZVpsMVE?oc=5",
-   "source": "Global Banking & Finance Review",
-   "type": "news",
-   "published": "2026-11-07T13:33:51+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Russia"
-   ]
-  },
-  {
-   "title": "Bitcoin holders have received eCash \u2014 What can you do with it?",
-   "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-07T13:30:00+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "BTC, ETH or Pepeto: Which Is the Best Crypto to Buy in 2026 After Kraken's Parent Bought AAVE?",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzFYR2cyS01HeVJiRUNXOVczQVpEaGdFc2ZfV0oxWllicmlMTzJ5eFpJMHRoLURjTTZmdHBUVVpXa0x6Q05TZjBYSDEwNG5kS1dDMzQ4WFF5VDd6M1laZ0xTXzN1cXdCaE9fS0VSVHdkZGxMR0JsTnB3LWlkOTVGYm55U1ZEYmg1TWNVNFJBeGdTZi0tNGZhd2ktbG1YZkR3?oc=5",
-   "source": "openPR.com",
-   "type": "news",
-   "published": "2026-11-07T13:14:27+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Nigeria Lays Down The Law On Stablecoins And It Means Business",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41LW9oRTFrSWF3NUJ1NDlDUmtXMWlmVXBIMV9wUmpuMl9OdGpZbUpRMGxwQnJDWDZXMmZYZ0YwdGNlQ2l4RFlkR3paMGpUMkFLa2pqelhpMTE4MXpLb2t2QmRRNUEyNFlRSUF4emFYalFTT0JKRXE2cXk0VQ?oc=5",
-   "source": "Tech Build Africa",
-   "type": "news",
-   "published": "2026-11-07T13:12:16+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Stablecoin",
-    "Nigeria"
-   ]
-  },
-  {
-   "title": "FinCEN Order MEXC Global Crypto: $16B Allegations",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWxrRmliSkVhOWx6WkxDQmpaMnR6a3JucFUyN3VtN2FuYWRjVm90TkF3cXZibllTcjlNVWUweXE0ZjA2S3h6U2ZDaXNSOXltemdKS01yNjlCUFdsNmFReHdSSDZqTDlWUW1tX2pjSHFKT2N0b3otYTRBbU1BY3pJNHp5Qkk3VTRtVnZGeXItNllSZlBUU2RHdVlERFVHdjNldG5FUzVCMUV5a3ViTERxZnItWHZXMGJrQ0Z6NC1UNHdSbWNf?oc=5",
-   "source": "Bitcoin Foundation",
-   "type": "news",
-   "published": "2026-11-07T13:10:50+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "MEXC"
-   ]
-  },
-  {
-   "title": "MEXC Exchange Faces US Treasury Order Over $16B in Illicit Transactions",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSE1vNWhiM3BuSk5uMGNWRzB0LUU3MEY4czd2dXgzck9VZmFMMnRhQXRqalU5c0VHMzV3ZXhfaTB5NG5QNXBVX1JuaGpoam11YXB4aFZTYllZMktqcEdKczM1U0ZMTW81S1psREpXdnlTUHNSTjRtb2Qxam95OXBITXlRV3FlSnFBWHgtT1lKbEFBaHotcGxQMEdxX3g2SFp1WVVac3NNOVdsdS1a?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-07T13:08:48+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "MEXC"
-   ]
-  },
-  {
-   "title": "Zcash Activates NU7, Targets 25-Second Block Time",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXROeTRkbmtmTGs5b2lxODJwQUpCVDA5U3JCNU9vQ1cteF92SkZRVUltZ3dpN1laLWM2LVRjVlN2NXpoOERGUW0xNHJpWGpNajRxWExnVDh2bEpNN0h1YjFIRTc0dklXeFctSW5DWW12bTh3TnFFRm9QT213M2lUNWpueWRubHVERDZTQk1SR2g0d0pMRW1oQTFidUJMNGM?oc=5",
-   "source": "IDNFinancials",
-   "type": "news",
-   "published": "2026-11-07T13:00:00+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "NU7"
-   ]
-  },
-  {
-   "title": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMUNZS2pQNmVYM0oxWGhnckFuT3cwak5NejNESlBNNDcyYkE5QjNORkQzVmk4YTBMc0s2WEFDbW1OLUFUTnVtMjZZNzBrZXQtaWhnQXZEbnkwSGVjTVJ4RmR4OG1USzJMNWJPak9oV3N1SHJITVR3NE9qS2pGRVBTdTNCbEZtVENEWFhJSjJua1hzQzk1dTZMNg?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-11-07T12:40:07+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Stablecoin",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0o0UmFFWlRiWDFHSE5LVG4zNUw1amJaM1c1czBrNG43OEJKS3RIcEpTaTAtRUdCcHNhNnZtY21RUlBpWFpyVXgyamxXT21kWWloamlrNndRZi1wemR5anJGand4cVVwOUoxNXowazl0R2pCNVQzM1JVbXNiNFVJMm5qbDllcEFKQWZ5VUxrMnVCNmZIOFZv?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-11-07T12:25:00+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Samsung Wallet\u2019s USDC Expansion, Bank of England Rate Hike and CFTC Legal Challenge Reshape Financial Markets",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOW5qRDZwRmR2WXdabDFuWkNETEhuaVVWMHg3M1NpQi1jRjhRWUtFZjRUSVhuVHBvVWZYXzl4RElGZGdRMWpLYl91b1RLam82eTFQTC1veGIxQnVXTXBUZnZPSlQ5X2RWQURyV092TGxsNUJPWlBZRXJMbmc1d3A0X1hYb3FIVUE0VGg2NUtLb3d5cHRWVjlpcUxqaUtfZ1VDYnMyb1Y0ZjNFV3NadTF6SkVjYUlSdUNCVjgxZHpGUWlkUjlzUnFXTWt4Wks?oc=5",
-   "source": "Tekedia",
-   "type": "news",
-   "published": "2026-11-07T12:03:18+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Stablecoin",
-    "Samsung Wallet"
-   ]
-  },
-  {
-   "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWU1KREZXemdTc3lQTjBDSXZIbk5IbWRwOHhDUE1FTi1NeS1WcWFmRGRULVNnN0lMQ2Z2eHluX3N3ZGNZZFZwa2I0UDJjRjQtZVJQbUhmaHZfQXRBSFhEbWJhaUoyQ2lCNlltVDBJaGR1U1dSc1prLWo0VDd5NzBreUxIcllweFRIRllwNGFWQVczLS13Wm5rZmFocmFaaURh?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-07T12:01:25+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
+   "published": "2026-11-07T17:21:00+00:00",
+   "first_seen": "2026-11-08T17:00:05.870795+00:00",
    "topics": [
     "MEXC"
    ]
@@ -1925,129 +2293,100 @@
  ],
  "stories": [
   {
-   "title": "US Treasury Cuts MEXC Off From Financial System Over $16B In Illicit Transactions",
+   "title": "Vitalik Buterin wants ETH to be a store of value, not a fee-burning token",
    "outlets": 8,
    "topics": [
-    "MEXC"
+    "Buterin",
+    "Ethereum"
    ],
    "items": [
     {
-     "title": "MEXC FinCEN Order Cuts Exchange Off From US Banks Over $16B",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ycy1POVNZM3dTSTRWY1VSYWY3bHRuUVlJQmhIRnhMblduQ180eVF1RWtQLWF4LWFEQWZpbnlhZ0tWTWVIdVBDWjlob1QxalU?oc=5",
-     "source": "ShiftDelete.Net",
+     "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+     "source": "The Block",
      "type": "news",
-     "published": "2026-11-08T05:32:24+00:00"
+     "published": "2026-11-08T15:52:17+00:00"
     },
     {
-     "title": "Crypto Overview: FinCEN Cuts MEXC Off From US Banks Over $16B as Pepe\u2019s Cofounder Builds Pepeto",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXdYZ1NvRmhadUZJal9BWjRIU1p1OWRUcDlaay1SMjNVcUdpSVg4SFlfRXJvT2xYb2hXQUV0WVkzaGw4ZGVXNnQ2c2pEN0tGZmFvdmtDcllhZlY3ZUNxcEJUUnE0dEVTMzl2SHZUYlF6QTdiaWk5ak5zTU5pRXB3Xy1Sc0JQNjBudkFyN1hHa1ZvbDdqaEg3clNLMG45dkZNZXRkdkhSQmx2RzJUWTRuUmNkUlB6YW5y?oc=5",
-     "source": "TechBullion",
-     "type": "news",
-     "published": "2026-11-08T01:00:47+00:00"
-    },
-    {
-     "title": "Treasury Is Cutting MEXC Off From U.S. Banks Over $16 Billion in Illicit Transactions. What Happens to the Crypto Held There?",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZjRKeFd2N21QTnpwbF8wZ2xoaDlUQ3hoTVk4OGdjS3h0S0t5MVUzUURCRmpvck0tLXRuRENFMFJYY0RaUzJRUUFETWpGWVFaOTFrQ1ZBSVhRcEVLWmQ4Xy1FOUFCdlBPNnZacFNvZEpDVkpqNFh1dThKanJlLTY4UmM1Vkc0QVVwX0xMN0lyU1dPN28wMnNwR3RqNXEwR09ZcjVuZWswaFJNZ0ViZHdSWVB6UG54OHNCT1VpSk9aekZ2ZzQ5d05QTzZFSDZTODBlbk16Wjl0bzhLU2VCLVN5bHE1TmpQNWVlRlM0WTFaTUVkNkNvTnlJRVplRWtMVHFNUFdyUXpIT1g0ZElq?oc=5",
-     "source": "24/7 Wall St.",
-     "type": "news",
-     "published": "2026-11-07T20:21:00+00:00"
-    },
-    {
-     "title": "FinCEN Cuts Off MEXC Global From U.S. Financial System Over $16 Billion Illicit Flows: how 7 outlets framed it",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSlNXY2gtVVlmalB5aURCZWNZMWVLekNHNUE2bWZQTDJSQ190Q0R2QmV6NUFkMW5RbHczT0RBanZfQmtrclZmUnprSUNZemluWUhOeUI0R2JGVDFyWGJtVHJnSWNHZWNBZ1U2NUZUZDN6bmo2a1hSSzJGcmc1NmRrTk1ZSFl6MHRvNUpJMVJqVGNIT3A1cjVtSDFoOEhsYW16ZWJQYzdYZ0J0UURaMGRDT1N4NmZ3dnVEWmJRM05Sb1VtZnVhS0kyelVSdFBGM3pSQW5ra1lKejhOSFNVR1k1akJHZ2RtQ2dnNnc?oc=5",
-     "source": "NewsCord",
-     "type": "news",
-     "published": "2026-11-07T17:24:50+00:00"
-    },
-    {
-     "title": "The US bans MEXC from its financial system",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YNGhFeUsyVG9RQTNSZ1YxNEQyRGRJbHA1b2xOWm9qSUp0SmJrQjBsU0Qwb0phZllkcE5pWEI1TTRtRlQ3ODBHRUhHOGZRMjRRWndjeVpxMEswanJDQUZuOWVuWk1IbUl5NE9NMHVsZEptdzVldUg4Mw?oc=5",
-     "source": "Bit2Me News",
-     "type": "news",
-     "published": "2026-11-07T16:00:16+00:00"
-    },
-    {
-     "title": "US Treasury Cuts MEXC Off From Financial System Over $16B In Illicit Transactions",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3kya2Y2anF6VnBUck9tUUNPeHd3MDhSemdsYnNSbkNKeGpOYVI4UjlTYXpXblJCcEx1UlhDYThNSi16XzRYVDNhTGFod2hkaW9CcE5nVjFOblpZVk13VTRCd2N5T1dVRVNPM0wzSFJYeTIweU9xdTN5X3d3MXVLZw?oc=5",
-     "source": "TronWeekly",
-     "type": "news",
-     "published": "2026-11-07T14:00:00+00:00"
-    },
-    {
-     "title": "FinCEN Order MEXC Global Crypto: $16B Allegations",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWxrRmliSkVhOWx6WkxDQmpaMnR6a3JucFUyN3VtN2FuYWRjVm90TkF3cXZibllTcjlNVWUweXE0ZjA2S3h6U2ZDaXNSOXltemdKS01yNjlCUFdsNmFReHdSSDZqTDlWUW1tX2pjSHFKT2N0b3otYTRBbU1BY3pJNHp5Qkk3VTRtVnZGeXItNllSZlBUU2RHdVlERFVHdjNldG5FUzVCMUV5a3ViTERxZnItWHZXMGJrQ0Z6NC1UNHdSbWNf?oc=5",
-     "source": "Bitcoin Foundation",
-     "type": "news",
-     "published": "2026-11-07T13:10:50+00:00"
-    },
-    {
-     "title": "MEXC Exchange Faces US Treasury Order Over $16B in Illicit Transactions",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSE1vNWhiM3BuSk5uMGNWRzB0LUU3MEY4czd2dXgzck9VZmFMMnRhQXRqalU5c0VHMzV3ZXhfaTB5NG5QNXBVX1JuaGpoam11YXB4aFZTYllZMktqcEdKczM1U0ZMTW81S1psREpXdnlTUHNSTjRtb2Qxam95OXBITXlRV3FlSnFBWHgtT1lKbEFBaHotcGxQMEdxX3g2SFp1WVVac3NNOVdsdS1a?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-11-07T13:08:48+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Gnosis Pay data breach exposes customer info in...",
-   "outlets": 6,
-   "topics": [
-    "Pay"
-   ],
-   "items": [
-    {
-     "title": "Gnosis Pay Data Breach Exposes Sensitive Customer Records",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblVEMVAweEdvcUMtYmtPaHV3eHJpaXpSaVBhUzVJaC15NDhxb3cyRDJUaTN6bUE3bnQ4R3VYSVl6UUFaMzJpcDF2cFMzcmZLaTZ6QnMwQXdBVlZXbjI3YzQ1Rlp1RkFMY1FSMmxSbmtQNThzc3hmRzNrLVRhVUxpMjV6YlYxODlub0prTDdVNG5QZWVzcWJJ?oc=5",
-     "source": "Bitcoin News",
-     "type": "news",
-     "published": "2026-11-08T02:35:21+00:00"
-    },
-    {
-     "title": "Gnosis Pay data breach exposes customer info in...",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMEtUbmZiZWt6emplU1A1NEE3NUdsLWRRbUs5Q1R4MGJ5YU1Kbm43YzYyMThXVG0ydmhZU2x0VEdzY2lDY1pEYnNZVXQ1a29EWXZxYmtRWHJiUHFtS1Z3cHdpMDNFNkR6bFcyZzdLOFM2eVRLSUFHVm0xZHpyaWxGSFpoUUFyajhrUXBraml2cHpHWUotZEdPb0xBMldTdw?oc=5",
+     "title": "Vitalik Buterin says ETH's value lies in decent...",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFpmcmcwZ3kwTlZYeF8xY1U1THZDRVlNU1dXblNwSWRWU0pHdTZxRGM4dEJDSFpYYUNZczZvWG1LRVdkUkFvWThnaWthU1R6UU1oc2gxeDlxSmJxN3lXaFhyMVd2TGdlMmltV0pfS2tFbWtFQ1BCZnVOTWJzYkp2MTctaFkyMzZjbEhkWjlLS3NRZUd0M3hVQjhsSXZHRnFOb1JIeVZR?oc=5",
      "source": "Pluang",
      "type": "news",
-     "published": "2026-11-07T21:55:42+00:00"
+     "published": "2026-11-08T14:55:01+00:00"
     },
     {
-     "title": "Cryptocurrency News: Gnosis Pay to Shut Breached Card System Dec 20 as Buyers Back Pepeto",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmFzYVQ1NU1QVnlLRnZQelB0T1hLaWx3dzJWYUZZanhHMlp4azlmODBJNE5DTGVTakVJd1h6Y2tXbnJsNVVGM3R6d0JiZmpQaGkxdDlBek1XZFlOUkw2S0FLVWdJYUxjY09FRWpSM1hKMFVpT1JEQ2tXQWdHTTRLQUhFQmt5VElmUE5ocS1BQmQ2bUJ3Si1aV1RKcFFDOEhiZUJ0M2Z5NlZvMkd6UmJQZ2E3UQ?oc=5",
-     "source": "TechBullion",
+     "title": "Vitalik Buterin Backs ETH as a Store of Value Over Fee Burning in the AI Era",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUhxTHNPeTU4NWtRLTBvY1RPUHFIZ3RXVTctR3pXaEZCOGtRUnA4UFUxV1pJc0lJbDdHNFNRcFNrOGwzME5ucDVLN3FFV3NyNDBwUEhTTlc3U0pOUXpfX1lKT0hRZm42U09UVzZlZk9mM3RpOHBSZXlWSzlXU3k4TDBscDNpN0xELWlsdmRLVUdkejYzTHNhcVJEb0VucjFseUE?oc=5",
+     "source": "Blockonomi",
      "type": "news",
-     "published": "2026-11-07T21:00:10+00:00"
+     "published": "2026-11-08T14:10:41+00:00"
     },
     {
-     "title": "Gnosis Pay discloses data breach affecting crypto card customer information",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjZ2NUNJaTNDQ2VUYlVpdzZnRnFJcHprcklmVC1PZHRFeXZWT05oSUJpUkd1RzBNU2o1WTc2M2RGdlF6ZUg5VEV0eGZBMVlmV053dXJMMXVqc2tBSVRody1BNzZjSDNiVmhydlB2ZExQUXhkdFlQT3NocS05UDdRUmF6bXJ2dDlVdDQ1M0E1WG1ZbnVXQWcxOTJ3czRpOFU?oc=5",
-     "source": "Traders Union",
+     "title": "Vitalik Buterin Says Ethereum Should Prioritize ETH as a Store of Value Over Fee Burning",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRNW9FQXdVekZ2b0tyVl8wLWcwN2dXODI4M3R2V2JuYlJRZ0xpY2dGT2tpVGx0Z09GZ0I2QmN5R3hyaWp2OW16YU9HNXNKU2duN2lqTm5JbEtXQm9VcmliRHQtTnNQRE1QdzNOUjE1alNUWGJIZUpYbkZpeThjbWc?oc=5",
+     "source": "Hokanews",
      "type": "news",
-     "published": "2026-11-07T16:54:22+00:00"
+     "published": "2026-11-08T13:40:00+00:00"
     },
     {
-     "title": "Gnosis Pay Data Breach: What Was Taken and What Comes Next?",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZHBDQjRsQW83U0FXcEZ6WndCekVRUnhfV2xudURYMmtlUUNYZ0pUWEIyQ2Fqc2dOLTRXSExQR1lpcy12dGNTZHhjUVFzOUtxd3FsQ0VRZndWNU1oc3N3WEJwZTRrYlJNQ0R3NlZDbXFZN1RNRjN6YXFzemhnVDQ5TERlcnNCTmRZRU4yTlgtTXU?oc=5",
-     "source": "Coin Gabbar",
+     "title": "Vitalik Buterin Shifts ETH Valuation Focus to Store-of-Value Role",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkJzVG5JZERtNmtTS3dQNWdURW1CNmxOQXkwY0JQVWhKR3pXckh6ZGN6SHlyWjIxeUZnOTJuclRUVVRmS1NpVVVXR3JfejVURld0bFRBOFEwZ0NZdVN4MEJDaFhjVU4ycGFhdTJoTFpDdjhRNmpsbVItcE0tR0E5Uk5SVjhsTV9VdWZwVGxRUnZKVzVGc0IwV3AyeW1tZXot?oc=5",
+     "source": "KuCoin",
      "type": "news",
-     "published": "2026-11-07T16:00:00+00:00"
+     "published": "2026-11-08T13:23:53+00:00"
     },
     {
-     "title": "Gnosis Pay Data Breach: 3D Secure Required Until Dec 20",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREtkaXpQQThZVzEzWDZWb2JaYkpGVlNxbGN1SjlOV0dCTFZLSEE1TU9hTWk1Y0x1RzByaGxqQThzSmRaTjQ0c1VUQVBkMGFtM2dlSnI4NjRUNklxR3VvX3I1MnhjZTFFVEhNR2VUa1RyVjkwMks5NlZfSG1zRUdVMEY4SnZoTFNBbUQtcDFaUHJPdWp3VjJiQjBOZXJmMGhjYVE?oc=5",
-     "source": "FinanceFeeds",
+     "title": "Ethereum co-founder Vitalik Buterin backs ETH as store of value over fee burns",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zV3RreEp2R1lBUWF2TVU1TWxBeV9YVnVkQ21YbUNMdWhTQnlmNDA5eTY5Vi1MVnQya2p6ajRnM3ZseUdwS1hSMkZBTWU2SGc5M05sTDZWTldmT1hhUFFzQzY1YmRoSmY4ZV93M0dEMHBjTkQxMVRTMnl5Vy14dw?oc=5",
+     "source": "Crypto News",
      "type": "news",
-     "published": "2026-11-07T15:29:51+00:00"
+     "published": "2026-11-08T12:54:31+00:00"
+    },
+    {
+     "title": "Vitalik Buterin Advocates for ETH as a Store of Value",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjlUaDdKMDJROHI1VDdwTEVLQlFzSzM4QzRRWVJaM013QXpyakJ4UEhvWkwyY3VVcUVFS2Vpb2lUSmtpSkZ4UjBfdlF3c1RORm1naktYak40am1JMDR0T2dFQlFTQjBKejJtVmllVGRxaEs1NmhmSE01UlpPNU5ua05CSjY?oc=5",
+     "source": "Coinfomania",
+     "type": "news",
+     "published": "2026-11-08T12:53:49+00:00"
+    },
+    {
+     "title": "Vitalik Buterin wants ETH to be a store of value, not a fee-burning token",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yMUtTSkJaaWlUYm9TVzBEOXM1RGx1NVdPa2FGWnFnZHQxeG0weUw0T1pjblpWNW1ucEtELVk3ZG1EMDNnV0VjZ3ZmazJUNkV3SkRYSWlDWWI0RkxjNnRoNFpta0c4dWJOcHFLVDVHMA?oc=5",
+     "source": "Crypto Briefing",
+     "type": "news",
+     "published": "2026-11-08T12:49:20+00:00"
     }
    ]
   },
   {
-   "title": "Nigeria's Central Bank sets 15bn naira capital minimum for foreign-currency stablecoin issuers.",
-   "outlets": 5,
+   "title": "Nigeria Stablecoin Rules: \u20a615 Billion For Issuers",
+   "outlets": 7,
    "topics": [
     "Nigeria",
     "Stablecoin"
    ],
    "items": [
+    {
+     "title": "Nigeria\u2019s New Stablecoin Rules Demand N10 Billion Capital, One-to-One Backing and Next-Day Redemption",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVFV0UER1ZnZncFdyeEpuQXU3cDhpSkUyLUZleE1UMDVsMEdJX1ZyZ09rQUF4U19wQlN0cnlVM2JiTGttQ0ZqNDFOYmRERWZqc3pSRE1SVUlZbVE1enVNQ0RvbmVISnE3TXlMSy1reFJJRjVMdU1odFFvZVZMTDJ1aFJZSjk3cDFlVENpOTByaElyMTZXMG9naDhnQVdUYl94SDl4VHpXTW10azNuOWhyekxvU3E4SENQMmlKUkFveGVXdmlyME54Mjh6cEtzTVFUZ0pha21OZUFQQW1wSzdqWVpDekFmNWpQUHVDeldsZGExa1U5TXZtM1M3WHpteXV0N2FUZDE0akxnb3BJbFNyb05wWUk0aElxWGM1a2MzTnh5Q3lwdG1GbFQycGprZw?oc=5",
+     "source": "Proshare",
+     "type": "news",
+     "published": "2026-11-08T15:04:17+00:00"
+    },
+    {
+     "title": "Nigeria Stablecoin Rules: \u20a615 Billion For Issuers",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNGwyeVQzeEJlcWxhSnhFZkZFVlgzTEdWT0h0SVpzYm1CODRtd1NxSWxjQTVLamp0ZnBnZWVpUHlnZEJkRzI0RlptLTMwZkVDamZfdENvUExYdkFwWnJpQnFfbFVfcFpCV0FqTjhHdUQyRDJJOXFuT0p0dGdqMzhYVA?oc=5",
+     "source": "BlockchainReporter",
+     "type": "news",
+     "published": "2026-11-08T14:01:31+00:00"
+    },
+    {
+     "title": "Nigeria Sets 40% Liquid-Reserve Floor for Stablecoin Issuers",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54SGxHUE5nRFl5bjJBR0ktYVl6S01xYndrZVJHU0doT1ZYU0k4NGpRZm11eWZfbWZZRDdOMkNlMGs3WWpkQmZFakMyTUUwR05lVEFmZVpPazNlZ1E?oc=5",
+     "source": "TOKENPOST",
+     "type": "news",
+     "published": "2026-11-08T10:00:15+00:00"
+    },
     {
      "title": "CBN Sets $11.12M Capital Floor For Dollar Stablecoin Issuers In Nigeria",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeThtMEdwNjNRSTdVUWJqbHlLTWFuXzd6SEhDUHl5blBBQ1pqcTVqOWlQZDV1dVV5ZnZnR1huVnozY0FhLTVmeUVscm9zMHQ2WnF0WExiQjk4VkdlcENRWkZMU09Wb1EzWUl4RTlrWFVQbXE5X3J0dFJGdWwyTVdWU3RFTENLQndVM0pXT3p0dTNRa2lDdzRURWEwLTAxME9HVVkyY3Q4TXNmRTRFeUJZ?oc=5",
@@ -2084,29 +2423,178 @@
      "published": "2026-11-08T02:14:00+00:00"
     },
     {
-     "title": "CBN Tightens Crypto Regulations, Sets N15bn Minimum Capital for Dollar Stablecoins",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjhIRVdxYkNpQTdoMl96b3JMSEdGLVJQeVBjbjdoODdnak9qTGVDbkY4bEZnV1A4ZGZHYTJoUlNVVmc0RjdxRGItdXU4ZlExY01rYTZJeWNDNzV5VmRKR0lmb1c4ZjU4WTVCbzhSa19aRUNjU0ZsNUlvZXc4b1ZlaWU2U2pFU0k?oc=5",
-     "source": "Brand Icon Image",
+     "title": "Stablecoin Payments: Nigeria's New Licensing Rules",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUcHlkLVNoNElPeDFpZThMYXdva2Fkc1lXWml0UXNJT1lfTXRFSzB5eG1OMGRlbGtJOXhFa25FWld1cTFITENldDdXNnJXdkZRWnpYeGZwbWxrYlVMSDhmVC1wQ2k1QmtkSXd6UHN0WmpPUnM?oc=5",
+     "source": "OneSafe",
      "type": "news",
-     "published": "2026-11-07T17:26:00+00:00"
+     "published": "2026-11-08T00:39:45+00:00"
     },
     {
-     "title": "CBN Sets N15bn Capital Requirement For Foreign Stablecoin Issuers, Tightens Dollar Token Rules",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnMyS2RzMjhIQjhFNldvMjNIX2Q5RjdKVUliamRsNHpWd3VkRm5MRjNaNXBBeW5CM1gxRnNhel9fV1hGczVfdE1hRVl4ZE9jMEFVNmtYQ1dTelJRdzRsOHprY1pidFZhQ2xmRjM0c2tIVElVVEloZkNRU2lNaTlzQThPTWFWVHZYYnkxU2Vlc1k2NWxlNmFnRTZrSEo5a1lLTmhmMXQ1Sk52LTIxdFBmVTNsUURGdw?oc=5",
-     "source": "Arise News",
+     "title": "Nigeria Stablecoin Regulation: Inside the New Capital Rules",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXJqdzdEUFBWWGdkRk8xanFLb1ZTWm1QM05PbDNLZC04YlhXRmtLN1dOb19Gb01ZV2tiRzFqVUo4Rzlyd3ZodnBuZkFoVnRETUgzbWJtZzRKRHdTcmhxbUdBaERhaWp2WS1JNzh0N0FYU2NiRW93djdFM3BlU09yTi13Qjc?oc=5",
+     "source": "OneSafe",
      "type": "news",
-     "published": "2026-11-07T14:21:28+00:00"
+     "published": "2026-11-08T00:24:09+00:00"
+    },
+    {
+     "title": "Nigeria Sets New Stablecoin Licensing Rules and Capital Requirements",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcThiLVA5MjFON2EzenZ2NXZ3RkZUSEVDNTQ5OHl5M2RPSzdKMWlsWmxjZ080UHFRWXZoR2ZZeHhpdXFLX2M3emFLeFBnZ25oaUZraEpDclotYnZtMWhnbEgydGRCN2l6dFF5VmlmSXdDY1Jhai1VR3JHX2tWWER4RHdyX0NkQjNIQ05BaVhNLW9JSUViVENTa2ROUUJ0VjFFd3pZRThlZm5qeHFfc3AwR3kzZlpOeDRwSEVqWkFRMzBvX2Yz?oc=5",
+     "source": "TradingView",
+     "type": "news",
+     "published": "2026-11-07T22:00:00+00:00"
     }
    ]
   },
   {
-   "title": "Samsung Wallet now supports USDC on Solana.",
+   "title": "Vitalik Buterin says slowing AI data center growth could buy time for security",
+   "outlets": 5,
+   "topics": [
+    "Bitcoin",
+    "Buterin",
+    "Ethereum"
+   ],
+   "items": [
+    {
+     "title": "Vitalik Buterin Says AI Data Center Buildout Could Wait Four Years",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52VzNvemhDLUd5YWY0U3hBeDZFektXQlViTllnN1FWdUJwZnFrbUEwdVhPQWM0eWFvVHhKbUpiTzcwLWdERnFhdmpreWY3SDFkTVVidUI4T0RPQTQ?oc=5",
+     "source": "Cryptonews.net",
+     "type": "news",
+     "published": "2026-11-08T14:13:57+00:00"
+    },
+    {
+     "title": "Vitalik Buterin Supports Anti-Data-Center Slowdown Amid Bitcoin Miners' AI Hosting Shift",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZlYtTlRCUDhaMHdqeHVZc3dsZ3ZtZU1PNEJQcEZUSWRWQ3FZbFVvR3dTQnRzWFhIZkwwWXdGM1M3NHJxRmVuMWo5RWQzT1NBaU9XeVdpTllRd2NSbEVUUzlORnJnR0ZHeXBjbGxDYjVzRkYzeENqNmtTaC05aG9qSnJ5N1V4LVVHa19GNnJHVzBqb1R2UVk2QWVqLThUZjRvZU1iZ1FXVnIwTUZ4X19KR1VSWUJVSHhrbEJ6aHpR?oc=5",
+     "source": "KuCoin",
+     "type": "news",
+     "published": "2026-11-08T12:43:13+00:00"
+    },
+    {
+     "title": "Vitalik Buterin says slowing AI data center growth could buy time for security",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmlSMGViZXVxMFd4U1FWcXFlUWRneVpreGJFNjdiS1N6azhYNDBjdk81QmZ4QkFyWnZVMGlIY0U4UVhhWDE5OXJxYnB3THB3TzBPRTlwQmx5a2dFQmNnRmhJWDZ4ZDJJdWwzd3RRLUUwOFVKS0tQUFl2V1hYd3JZM3pB?oc=5",
+     "source": "Crypto Briefing",
+     "type": "news",
+     "published": "2026-11-08T11:34:13+00:00"
+    },
+    {
+     "title": "Vitalik Buterin supports slower AI data center growth to manage risks without halting progress.",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTG9rVWtCbm9lZjBiY0dzMlJUcFpBeG1YUG85dGFQazhOYzk1YWdtWUU0aTZOcGpnWExXYmczWEE1dm93M0oyM0dzRWh0LW9EdkdZcEVzdUpSUHZidHZKTjY5ZGcxRjk4TTY4X3dlOWRYUTF3UktuTUtENktqY3J2djUwUzlPQmZkSWluMndacjIwTUFEdzJjaUdn?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-08T11:24:31+00:00"
+    },
+    {
+     "title": "Ethereum co-founder Vitalik Buterin defends anti-data center movements",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zcTh6ZFdZZmI1Z0xQUllSaG1mblZrbWltamxveUd3V3lkSVNPamlHVlhrdVdxMURneklIeXdTRDFxSzhkWUp5R0tJMHc5ak8xWG81UTE2VnI4azViWlFBVWQyeUMyOGQ0aVNITXFNQWpjTXFRX2V1MmVMUFVCZw?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-08T11:04:22+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Gnosis Pay data breach exposes customer info in...",
+   "outlets": 4,
+   "topics": [
+    "Pay"
+   ],
+   "items": [
+    {
+     "title": "Gnosis Pay Confirms Customer Data Exposure After Unauthorized System Access",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzcnkwakc3T2UxWkdzX1F4TGhFQVJyXzIzVFp0S1JpZ0JpLWdPQkh1MS03RjkwcUkzam1iTHBaQlNHQUgzUmR4Qm5tSy1LdVUwRFlJZlpLWkdtZVVyTE9DQ0xMRUVnSmU0TUktOTk4MU5BYWFsYVFoLXhBQQ?oc=5",
+     "source": "Hokanews",
+     "type": "news",
+     "published": "2026-11-08T15:01:00+00:00"
+    },
+    {
+     "title": "Gnosis Pay detects unauthorized access to consu...",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWNVRVFxeXRpZkNyck9RWGdya1BRdEEwTXlIRTlyOU5yVzhzajh5Vlk1dVJ1eGpINDdCc3lMdWJRektpZU1jallwQ0FFWUoyU21XZFFQcGhfOHNqQXRxNmk2Z2xsa1FJOVhDN2xhVnFkOFNxZlN6U1p2WG9QX0xmaWptR25aWU5HZUR2cDA0UDRFWHRLeGF5X2ZxTmEtLVU?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-08T14:45:05+00:00"
+    },
+    {
+     "title": "Gnosis Pay Breach Exposes Customer Data, Prompts Phishing Warning",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXUjh3Rno2NktzX01VYzFlOGZkUGlIXzQ5Vmlzb0tVbTdGZ3kxU3g5TVNMYVFTMzlCdzRvSEtpWTJPdi0tZ1lxdDJjV1FjT1ZfTWVFcl9rOUVPNm8?oc=5",
+     "source": "TOKENPOST",
+     "type": "news",
+     "published": "2026-11-08T14:26:30+00:00"
+    },
+    {
+     "title": "Gnosis Pay Data Breach Exposes Sensitive Customer Records",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblVEMVAweEdvcUMtYmtPaHV3eHJpaXpSaVBhUzVJaC15NDhxb3cyRDJUaTN6bUE3bnQ4R3VYSVl6UUFaMzJpcDF2cFMzcmZLaTZ6QnMwQXdBVlZXbjI3YzQ1Rlp1RkFMY1FSMmxSbmtQNThzc3hmRzNrLVRhVUxpMjV6YlYxODlub0prTDdVNG5QZWVzcWJJ?oc=5",
+     "source": "Bitcoin News",
+     "type": "news",
+     "published": "2026-11-08T02:35:21+00:00"
+    },
+    {
+     "title": "Gnosis Pay data breach exposes customer info in...",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMEtUbmZiZWt6emplU1A1NEE3NUdsLWRRbUs5Q1R4MGJ5YU1Kbm43YzYyMThXVG0ydmhZU2x0VEdzY2lDY1pEYnNZVXQ1a29EWXZxYmtRWHJiUHFtS1Z3cHdpMDNFNkR6bFcyZzdLOFM2eVRLSUFHVm0xZHpyaWxGSFpoUUFyajhrUXBraml2cHpHWUotZEdPb0xBMldTdw?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-07T21:55:42+00:00"
+    }
+   ]
+  },
+  {
+   "title": "OKX Founder Star Xu Warns Users Against Direct MEXC Transfers Amid USDT Deposit Freezes",
+   "outlets": 4,
+   "topics": [
+    "MEXC",
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "OKX Founder Star Warns Users Against Direct Transfers From MEXC",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xLXgwcWlZZHl3Yk5HeDg4ZnZDLXQtdUxpLUtKMXpmV3E4b0ZLUDBZSGl2LUJtcE1WZzJKLXBKNmItaUMzQUh2cC03UXN5Yy10ZThvOWNQd3o5UTc2c3E1SGpYc3F2dmo0Yk1sRklabUp0dXJzcG43MVJjUFdiZzQ?oc=5",
+     "source": "Hokanews",
+     "type": "news",
+     "published": "2026-11-08T14:07:00+00:00"
+    },
+    {
+     "title": "OKX Founder Star Xu Warns Users Against Direct MEXC Transfers Amid USDT Deposit Freezes",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjFYdVBZeW9QQUNHRjhtcFFKRkQtc0FsQWl1WTdHcjlrUFY2M0h6b3dKWlFSRE9rWHRjcmM1NEdiYXNUSkJ6UGhlNXdYck5kZmZ3TFk3eHA5NGpXRVRLNEJlUk5fRHU5eTBHbUZfUnVWWTEweW80d1liaVVTZThzX3NxZVg2MEZhb1ViUzZBVlY3Zw?oc=5",
+     "source": "Hokanews",
+     "type": "news",
+     "published": "2026-11-08T08:43:00+00:00"
+    },
+    {
+     "title": "OKX founder Star Xu advises users to avoid direct MEXC transfers",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DTGNkMUMzS3I0bExZQTl5YVV2N0ZjaGgwd3VNRWZMVVZOMTd2VVBzSTNHOHBFRGNSazltaENPRWdYaU9YUXlkNHpqYUF4T2lTNkg0SVJfWjNwempLTm40b1JpS0lKOFplT2dJMg?oc=5",
+     "source": "Crypto Briefing",
+     "type": "news",
+     "published": "2026-11-08T00:48:59+00:00"
+    },
+    {
+     "title": "OKX Warns MEXC Users of Deposit Freezes Ahead of FinCEN Cutoff",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEhROWVXVXQ5VkV1Wllqa0xKb04xN19kNnhGeWthTE1uZEFFb3Q2ZF8xaHdQR0U4SHlpeEhzb2txMllOVlh4VnVDeXBnUlNrM2VUNFRYcFp5MVpaQTlPQzhacGxWY0NwcGRJWGs1cjlrMzhoVk9DLW9VbVV5MTFicVczR2RjZ1Z6QVo5X21PSm51aFpBdFJZdG1n?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-11-08T00:10:54+00:00"
+    },
+    {
+     "title": "Deposit Delays Hit OKX After FinCEN Targets MEXC Global",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZktoOW91MzRpcENwT2JGbW5QX1NFY1FyOVFvb08wWFptdDRXcUR4R2pFSnFTNTZ2Tl9zTXI1VnNVck01M3ByV3k4R1pNWmpNaXlXcGZFR1Qwa1MzVlJvWnkxd3puemlxVVJQck9UV0lsa3Y5RUZJTlE2dXpibDVCclRHQkJnVFU?oc=5",
+     "source": "Coinfomania",
+     "type": "news",
+     "published": "2026-11-07T17:24:27+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Samsung Wallet USDC Transfers on Sui Expected for November 2026",
    "outlets": 4,
    "topics": [
     "Samsung Wallet",
     "Stablecoin"
    ],
    "items": [
+    {
+     "title": "Samsung Enables USDC on Solana\u2019s Network, 82M Devices Now",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONk5iX0hTRVZES3V0eHQtYU5rWmM1SXN2eVJESjBUTUNaSFU0N1c0bGJXMzFnQmNoLXFZSWJNZEdwWmN4NVkxVlUtOS1BTVFWX3VUTkxiSUFtY2VwY2diNjZyY3V6NXlfVkVnTlpOWkh4RmxDN01JQkZRWjZLcXNpZXFPWGY5eFU?oc=5",
+     "source": "Coinfomania",
+     "type": "news",
+     "published": "2026-11-08T14:13:34+00:00"
+    },
     {
      "title": "Samsung Wallet now supports USDC on Solana.",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zLWNxOWpRUFdrdDlEYkZ6RE02SGFZdUlsTE5UbVFYcVk1YWlLblJuV0JyX2VuNEU5VGFwVFJYNV9ocmNzOFFZVUowbUJHeVpmWFhONFVnZlVfZXZ5UUs2YzByTnk?oc=5",
@@ -2127,118 +2615,69 @@
      "source": "TOKENPOST",
      "type": "news",
      "published": "2026-11-07T23:36:52+00:00"
-    },
-    {
-     "title": "Samsung Wallet\u2019s USDC on Solana Is Live \u2014 Here\u2019s What the Rollout Actually Covers",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNlZTUDZWSzVXZGZ2VHR2Umh1dWpuWjN4ZXktd3FtSEE5YVJSa1NuU01WcTVVdnhOM29TUUs3TjIxY1NxbmMwbFNwMUI4RW9MYjl4WmVEWllYWWhqSHdGd1lGdHdvcVBsMW94M3hsZTRaM3JYVjVWVGtFZTdTWXhNSW5Nd3YtLTE3aDB4SDEyLU90SDkwQXljYU42a3R2UnZ4QWpnemZxY3FCRlRxdEphYWhPYzFKYmZ1Rk9ZX1BkNDhmd0NGTFFVTGc0UWZ3TzdXYUlN?oc=5",
-     "source": "TradingView",
-     "type": "news",
-     "published": "2026-11-07T17:00:00+00:00"
     }
    ]
   },
   {
-   "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-   "outlets": 4,
-   "topics": [
-    "MEXC",
-    "Russia"
-   ],
-   "items": [
-    {
-     "title": "US Treasury moves to restrict MEXC over alleged $16b flows",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEE0LXNQLWlaR2xtM0k0X2lFMVZrZVJMLVRidkExNi1aYWw3aDdNN2tBLWJzVHBHaXdSZnlsY25jX0JXMEJKdXJVak84OHk1dmlSSTZFX1BndUZOdjYyODl1SGhURFpiSllrMDhRNFlFYTVaeDZyaHA4RElacXEzcWlUYUI?oc=5",
-     "source": "Tech in Asia",
-     "type": "news",
-     "published": "2026-11-08T01:02:00+00:00"
-    },
-    {
-     "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-     "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-07T17:36:46+00:00"
-    },
-    {
-     "title": "Treasury Says Crypto Exchange MEXC Moved at Least $16 Billion Tied to Illicit Activity",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3lpdjFYZlowQjJFbFdFeHB3QlpkcmFzSVhveWg5azhTOEVVRDVVT1JNaVF0QkJrVTBwTHFiaTdVekZKc1BfeThoUWU3cUJsTW5OU3FQZ05lLVpKcXdmeTlacW9xZVdIbmhoNDVXbU5tcFNHNGh5X25Pc2RkaGZUenRRblZ5Rm01SC05LUV1WnhDX2ZsVVplLWxyUDhsY3lz?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-07T16:18:55+00:00"
-    },
-    {
-     "title": "Treasury cuts MEXC off from U.S. banks over at least $16 billion in transactions tied to Iran, Russia and North Korea",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYVZuVkVqeWpKVUZhYmtXRGtYbzNqbjg0VVk3Y2czNmdVQkJkV003QzdzMmR1UldTa2lhaGhGdGU5MnpMYW94MmdUYmdBMmc4SXVmMUFWbS1LVFoyYzNZTGtOLUxzbVZuRE9sQ0NzTTY2MUg1NlVUcm1xX3h5VE5BV2l4dFN5dEhaV3BOMzAyYzZIMXlKeW5YV1I4czRmYS1GSWMwSHRnaEt2eFpTX0xISkIybDlZLUllVG5WdkpsY3l5T0JoWTloWExnYVBPc1k?oc=5",
-     "source": "MLQ.ai",
-     "type": "news",
-     "published": "2026-11-07T14:38:22+00:00"
-    }
-   ]
-  },
-  {
-   "title": "World Liberty Financial launches WLFI token buy...",
+   "title": "Solana\u2019s Real-World Assets Surge, Highlighting Market Dynamics",
    "outlets": 3,
    "topics": [
-    "World Liberty"
+    "RWA"
    ],
    "items": [
     {
-     "title": "World Liberty Launches Token Buyback as Sun Seeks Sanctions",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0FnQ3Ywb0tUSjl0LXNMTEhjVVgtakhfa3BGN0s2ZkZuSVlRN3FFSWRPZVdZOTZFSU9rQ3Y5RmhVMlk5bldvblp1b0NVS2pXOWV2UzVYNHpiUUVNZXlpUlhXZUxkVDBKaWgtQl9BZ1JnSnNzV1BqaXFOdDdSY1lMQ1MtQjM4N0l4UFlqeU91RFM3QldOV3hsbm93ZDNMUQ?oc=5",
-     "source": "CryptoRank",
+     "title": "Real World Assets (RWA): Top Tokenized Assets by Market Cap",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ydkViTHdfSkhRYkJuWEJqcXlzdjl2MjNoZ0M3WnF0WU9WRGZrVENuY2FkSU5fZERvbGVoNVpvQ183RWE1aFdR?oc=5",
+     "source": "CoinGecko",
      "type": "news",
-     "published": "2026-11-08T00:49:09+00:00"
+     "published": "2026-11-08T13:31:02+00:00"
     },
     {
-     "title": "World Liberty Financial launches WLFI token buy...",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjhJTWFFbXlmN1dpZWRBT1Vvb0dxdmRuVGJna1JuVllUM0xZSVhsRHJTdGQ3YnJSRVJsajB5ek1qcC1IV3dIZUxoUlhZWXI2NG1sYWlIeDV6OFVoeVlfQUxCeThmNzBlYjAyOEh1aV9HZkE4TDNuV2I1bHBHRklwV2tPZElsZzBubS1rdEpjV0JaNkJQWno3Z0F2WHhqV256UzdiMHZvMmV6UEItZUxybg?oc=5",
+     "title": "Real-world assets on Solana hit $5B in October; decentralized exchange volume reached $60B.",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeGpkLWR4R1hRaFZQNGJ6SVlyOGQyVVJ0UUp5Sk5SSkVvUUpjTkxCMF8yRDRtSjBzRE9uaDhpMHJLV25Wb0puVDZ6ZGJqN0RJdVk1NWFwNmhuUW9YSzRxMjVpcGd0SmR4RldNS0gwclhmdkdhZjNYdXJtdDJ3MWlMV2pWY01pTWdtYzRIai03VQ?oc=5",
      "source": "Pluang",
      "type": "news",
-     "published": "2026-11-07T18:12:56+00:00"
+     "published": "2026-11-08T11:56:33+00:00"
     },
     {
-     "title": "World Liberty Financial Plans WLFI Buybacks, Eyes USD1 Reserve Fee Income",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4bFZLTmtncjYwNmpabHRmeGtrb1RCdElOQ2R2RUhRMEs1VXVvSGVHY2daTTlmQ2o1ZkJ6UHh4M1BtLVhhYXBIN0hPakxRRUk0clUzWVdscTU?oc=5",
-     "source": "TOKENPOST",
+     "title": "Solana\u2019s Real-World Assets Surge, Highlighting Market Dynamics",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3BzLTNLWFdVV0hmcDJsamVzN3JSV21pai1vQWtOeUs4S25TQndQdDFlb1N0Zm1LRElNQzJDMm5EZWFpMEdwRVZPcGN3WFNVaHZLaTlnVzdQaE1fbjlVdzc0LU5JYUNHcmtGV3o4S2ZOOFc4WDY2THM5QmtKLUxVZGFaUHVoYU9qYTl3V21R?oc=5",
+     "source": "Coinfomania",
      "type": "news",
-     "published": "2026-11-07T17:57:55+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Aave Acquires Fixed-Rate Lending Startup as DeFi Deposits Exceed $33 Billion",
-   "outlets": 3,
-   "topics": [
-    "DEFI"
-   ],
-   "items": [
-    {
-     "title": "Aave acquires Avon to add fixed-rate lending as deposits top $33B",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHJlTG1jd1VsRENGUWJBSFMyc0tUOVoxeUtEMVF0UTRFV2ZHNlVqUDZTRmdkN1g0ZzlsM1lrTDRkb0x0MkFPMXVpejRlNlhPTE5vSXJpOFI2UUMyc0xrTUpSSEEteGR5ZGo2WGJKNUhCYTdOMnFwR0RFenU4b1A1ZmhwVlphLVg0dHhZeEJnSFlDeG5EazFRY0o2S2ZqTVRYTUUtNnJyUQ?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-07T18:12:56+00:00"
-    },
-    {
-     "title": "Aave Labs Buys Fixed-Rate Startup Avon as Network Deposits Top $33 Billion",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jZVdSUmhkVU5MdUEtdjhBNmdOMWxFYkZzMWtZbnBBbmk2cExOODVvanF2azdEUU1GQXNCSHZ3MG8wWjZNVkRjaHlTc3VqcDdmb1J4ZDRUamdTMmFFOGo3SlY2ZGlkelMwZjJMa2hjMGpSejdfekE?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-11-07T18:05:00+00:00"
-    },
-    {
-     "title": "Aave Acquires Fixed-Rate Lending Startup as DeFi Deposits Exceed $33 Billion",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0dYbXBoc3JHbHRZZ2JxbklRV3cwal9SNm8wclJxWmhLSldad2lxdzRlVk5hNER1Qm9sVnYzaEtsY3hPdnVWMGI2OF91ZHhaMU5sLUdKVF9KSU5VMkhNdWhyZ09SQTJYOHJoU1o0ckw5bkhodGpaYkg5TkJSQjdXODhzNzgwUDJhMUNWdHNLMzRRSGp1WXphRG9ZMW95bjRSSUgwMXlocw?oc=5",
-     "source": "Coinpaper",
-     "type": "news",
-     "published": "2026-11-07T17:37:22+00:00"
+     "published": "2026-11-07T19:04:49+00:00"
     }
    ]
   }
  ],
  "events": [],
- "headlines_served": 11115,
- "trend_candidates": [],
+ "headlines_served": 11204,
+ "trend_candidates": [
+  {
+   "key": "buterin",
+   "term": "Buterin",
+   "count": 6,
+   "sources": [
+    "BigGo Finance",
+    "Crypto News",
+    "CryptoTicker.io",
+    "Cryptonews.net",
+    "The Block"
+   ],
+   "baseline": 0.0,
+   "ratio": 6.0
+  },
+  {
+   "key": "remittix earn",
+   "term": "Remittix Earn",
+   "count": 5,
+   "sources": [
+    "StreetInsider",
+    "TechBullion"
+   ],
+   "baseline": 0.66,
+   "ratio": 3.02
+  }
+ ],
  "baseline_days": 7,
  "sources": {
   "CoinDesk": "ok",
