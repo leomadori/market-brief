@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:00:03.780163+00:00",
+ "generated_at": "2026-11-10T12:00:05.269888+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 42
+   "item_count": 41
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 43
+   "item_count": 41
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 29
+   "item_count": 27
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 91
+   "item_count": 100
   },
   {
    "name": "DEFI",
@@ -71,7 +71,7 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 21
+   "item_count": 19
   },
   {
    "name": "MARA",
@@ -82,7 +82,7 @@
    "first_seen": "2026-11-10",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 23
+   "item_count": 20
   },
   {
    "name": "PNC",
@@ -91,20 +91,20 @@
     "PNC"
    ],
    "first_seen": "2026-11-10",
-   "count": 8,
-   "ratio": 4.18,
-   "item_count": 24
+   "count": 10,
+   "ratio": 4.86,
+   "item_count": 23
   },
   {
-   "name": "Avalanche",
+   "name": "Fed",
    "kind": "trend",
    "aliases": [
-    "Avalanche"
+    "Fed"
    ],
    "first_seen": "2026-11-10",
-   "count": 6,
-   "ratio": 3.52,
-   "item_count": 30
+   "count": 9,
+   "ratio": 4.38,
+   "item_count": 26
   },
   {
    "name": "Nvidia",
@@ -115,7 +115,7 @@
    "first_seen": "2026-11-09",
    "count": 11,
    "ratio": 3.39,
-   "item_count": 28
+   "item_count": 26
   },
   {
    "name": "Strategy",
@@ -124,23 +124,839 @@
     "Strategy"
    ],
    "first_seen": "2026-11-09",
-   "count": 11,
-   "ratio": 5.08,
-   "item_count": 25
+   "count": 9,
+   "ratio": 2.79,
+   "item_count": 27
   },
   {
-   "name": "Coinbase",
+   "name": "Avalanche",
    "kind": "trend",
    "aliases": [
-    "Coinbase"
+    "Avalanche"
    ],
-   "first_seen": "2026-11-09",
-   "count": 12,
-   "ratio": 4.01,
-   "item_count": 42
+   "first_seen": "2026-11-10",
+   "count": 5,
+   "ratio": 2.75,
+   "item_count": 33
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin Price Forecast: Can US Inflation Prevent BTC from Falling Below $75,000?",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ1N6VEQ5eXU5Q3ZyTFhxTEhhT056Q2N4bVhzNzU3S1JhdkZJRDg4NS1ZWTVkbm0tYU55WDZvUXhGdkVyTUpxYmpKNTY3Y2hmLVRqcWVCLTYtb013LXFKY3Ftbm9sSUtoellLLURxV0VUZlNnNEZCdkNleVJjbGVpY0oyVm00VVBybXlpUlB5N0hoLWhjYlJmeWtLcTN6VkFBUmd4MVBaVWNBSXFTdTJxaDM5Wk9lUzF3dE16QnFn?oc=5",
+   "source": "Investing.com",
+   "type": "news",
+   "published": "2026-11-10T11:56:37+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bybit RWA Earn Adds JPE, Tokenized SBI Japan High-Dividend Equity Strategy Built on Plume",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OX3cxTFo2aU5IZTl2WUxwamMyRWdKcEtpMGJfeTNwb3B3Qk8wM3FVNFdEcjhyRjRzZF8yY1ZyR0REenA4NEhSUHdNMUxZZ3hET08xWW91OA?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-10T11:55:32+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "RWA",
+    "Strategy"
+   ]
+  },
+  {
+   "title": "USDC sets a new annual transaction record on Algorand in 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hSHN4VHpCU1BJMmp0dlNCd1Z5MURrWkpWTlZFTURhZFAzb2M5VVIzLTRaQnJ1ZnVwSE9mam5uMWFhWUdGQXF1T2pfeG5INGdTMHJCeGtVb1BwZw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-10T11:55:29+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
+   "url": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-10T11:52:16+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Hyperscale Data sells remaining bitcoin reserves for $16M",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdHFiMEczTkFIV1IxcXM5WVBpSk9lQ2FRX3ZGaTRQLWo1RHdmanpjWTlzUjNyUl9VTjFBR3RtMGFJYXBETDZsdElseGxjNmFuMlhBRnpYV1ZhY1JOcHU3eVZKOXpGd1BnVFJWZjZmbV9fRjB0Y290ZjFBeXY3UE9peTVMaVB4Z3g3YzhJR19GeWRuOVFYQVNsZEk1cjNmeEl2OW1ZNDYxTHVRWTZwNUpqSmhrbw?oc=5",
+   "source": "Investing.com",
+   "type": "news",
+   "published": "2026-11-10T11:51:46+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Jensen Huang Prenup Question: Could Lori Huang Claim Half Of His Nvidia Fortune?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNlJoYjU1c21FUmNpNUVRS1NDbkdRRE92elA1NEVSekxUZ2Eyb1A0Wms5NXlwcEZqZUlpeDlKQUJIVjNHTk9aSktXbVlEUjJqSENxa0dqMWo0OVh6cExpNjRLczYyTTRZc21wbWdnaVBCbGVOMUZ2cTlocUR0VVFkb0NQak94em83UDdYbWRrLWQ3c18zb0NaRm1aS28xeVItVFc3SFk3V2REdmUtcWhXT0c5ampnTTFLRHlUVmtPa9IBvwFBVV95cUxPNlJoYjU1c21FUmNpNUVRS1NDbkdRRE92elA1NEVSekxUZ2Eyb1A0Wms5NXlwcEZqZUlpeDlKQUJIVjNHTk9aSktXbVlEUjJqSENxa0dqMWo0OVh6cExpNjRLczYyTTRZc21wbWdnaVBCbGVOMUZ2cTlocUR0VVFkb0NQak94em83UDdYbWRrLWQ3c18zb0NaRm1aS28xeVItVFc3SFk3V2REdmUtcWhXT0c5ampnTTFLRHlUVmtPaw?oc=5",
+   "source": "Coinpedia",
+   "type": "news",
+   "published": "2026-11-10T11:46:57+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Nvidia"
+   ]
+  },
+  {
+   "title": "Virtual fruit fly brains can play Doom and trade bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOem1ydVlYVUJoT2MzZGNWUFU1S3lscXJrQzFFUnpvZWRSdDg2ZFJvT1BNNlNONjQxeTJaMElDeGpWS2xwTldnQkNTYnpSUXJxOEhRN19Gd3h1UExEMjFKY2JqUUE2bHZZdUJ1bTh3a1dXOElWNGVtS0pLcC0yMlVBdGo0a2VIekxsaHNWT3BBTjdNeTFVZEY0Szh2WThpSkdUaXc?oc=5",
+   "source": "Scientific American",
+   "type": "news",
+   "published": "2026-11-10T11:45:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin, Gold Fall More Than 1% as December Fed Rate-Hike Odds Strengthen",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pNkZMRGp2RzUxUnRGamZnaE9WVUJYWlZkUWdnZ0JSQ3kyaG5ZdWlSdUVrbHV3X2hKaFlicWRweV9DUWFjTFlCZ0xrYmtaTWs1Q0l5Tw?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-10T11:40:05+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "DeFi\u2019s Revenue Boom Is Exposing a New Problem for Crypto Investors",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGJhVEN5TWdEelBSamlBMWdoU3k4bXFsQjM1UllHNHVuOElBTk10SDF5RmNGYnpoUkJHSF8zeWd6R0cyM3BaVjAxYUtNNjNPdHZyVDVYUnpMd2ZMdVMtZmZ3dGQxU0tZYW03eV9ycnk2MkpmOTZEY21udjdoYS0tdVN5c1huMjZyYmVEQzdBNmxzblhiUFNHcHdEY0k0MWxEVy1yTExMdS1lcUJpa0ptWi05MA?oc=5",
+   "source": "LeapRate",
+   "type": "news",
+   "published": "2026-11-10T11:38:08+00:00",
+   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Hyperscale Data Sells Remaining Bitcoin Reserves to Reduce Debt and Fund Michigan AI Data Center",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0dCQzZwamZOSDFQRFFheTZDM0lOZTVpYVU2ZE1qalMxcjhobm0wdmg5eEY1ZHIyZTZ2cURORjhEU2ZQUHhuZUFvRUFFak5xNWljdjBwRTlRdEUzMHg4VTF0Y1FMbWpLRWNMVTlBZk0weW1lY05DVHdBWlZ6RnpaUEg2TWl0V1JKZ3NobTJPMXZVQzZvTUJTenF5MlpzSVhOUGtjVUZyRG5DNDRUQUxLUQ?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-11-10T11:30:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Sono Group N.V. Reports Third Quarter 2026 Results: Swings to Net Income in First Full Quarter as Only a Bitcoin Treasury Company",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNek5LRXoxWTJPSS0tdmZDa1ZZcTFINm81eWRCMW9nQ2xIS3l4c0hiYTRaVzZrekZIQ0dST0ItemluZEFkUDV3eTZDNkJRdk5zSlJaQVMtUFB0dXZuQmpBTmdQNnFNT0FhdE5CaGkxWnhHQjdZRWhSWF83RQ?oc=5",
+   "source": "Yahoo Finance UK",
+   "type": "news",
+   "published": "2026-11-10T11:30:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
+   "url": "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-10T11:26:56+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Nvidia"
+   ]
+  },
+  {
+   "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+   "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-10T11:24:10+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin (BTC) price slips as ETF outflows mount ahead of U.S. CPI data: Crypto Markets Today",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUNGeTZzR0JTUjFjc3FxVENCUUpCTDM1Z19fX0tFejdLMno0aFN1SS04SEh0bG9IN3F0cWpBMUpYTEYwWDNjUG56c2NLclNncTFjYmRIMGg5M3QxcTd2Y2U5Y3p2UmJoNnJyOUZ1cXRtQTc0SFdTU2RSZG92a1dyRDJHY3h3WXR3c0xFNWNqaW02ejVOYkg5VllvUmo1dUVvS2xNNUxtYjI?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-10T11:24:10+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "DFDV: DeFi Development Corp. filed SEC Form 8-K: Other Events, Financial Statements and Exhibits",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObllIZkxadkpBTkxjcnVlejIxZ09uRDJ0cGJmVl9wSEJSQUtPcGE2alMtOXRIQXVSZUZ0M1ZuZVVmaXhscjduS1h2clRJOWE2Y2JZUzVtZ1RIR0JaQ2JkbDdtZ1hJLXc5aDVPZldaaDhHR0JuZDFDMU5wRmMxOVNsNUtIbURId19LTjJNRW00OFhGY0RjQ0FjbHBuWmJjWDZfTGlPbWd3VEFLUQ?oc=5",
+   "source": "Quantisnow",
+   "type": "news",
+   "published": "2026-11-10T11:21:44+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Mara Holdings sells 13,597 BTC after Q3, still holds 34,012 BTC",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTVUN283UXVYVFFoaWctZEdZNG1uWmEyeWF0ZURpcUoxV0g4bVA3NExCYWVZYXRNOThQNlBGZ1Rmbm90Qkp0VUx2bDlMWGhERlhRSHFoYnA2TlRidzBpdU5Jc0xlYlNGNFpsXzdSZjQ1NXVRNjlhdGN4alVGOGljdlBHWTM5S0RsZFJlSzhmakpkelBKSDVSZmo1Q1NJa0ozS3dKQ21ZX24yM2NMREUxYk1qRFkwVU9rZWlQTlBaVUtMc01pcEE?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-10T11:14:40+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ethereum \u2013 Will ETH\u2019s $432M liquidation shock put $2K support at risk?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZE9iX09OTldxQmJ1Q09vbjItSlZmb1FubFBLRkRkbUpmaEVDYm5YOHBmbjY1VVRxYlp0U3lOemFvN2xUV3puR0gxZi1KTUFKd19ILTl6bmk4WjZub19STm9Sd2RIX1VnSmVyaHJTU0JHYkg4ekpYcWVzcDlTNkFVaTRvQl9KMmV0T2FfZHltazc?oc=5",
+   "source": "AMBCrypto",
+   "type": "news",
+   "published": "2026-11-10T11:00:24+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+   "url": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-10T10:56:51+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Schwab adds Solana, Avalanche and Chainlink as crypto trading slows",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXJHaVNmN1h4TjBMcmtyZDJVTlMzSGltVkwwZVhQVnlnc0dnVFY0Zk1YeExiUVd5UHJjUVJaT1Q1eF9nd1lQdGdZX2pkaGRjVlBJLXp5R0t5U3RyLS1WWGFDWmZjcFczYV92YU9vdEdTZk1udGRzZWx5bjkxazgta1lTUVNYOWd5dEZlWkZpZzRmVVRVaUE?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-11-10T10:49:40+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Avalanche"
+   ]
+  },
+  {
+   "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+   "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-10T10:48:37+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Bitcoin (BTC) price falls as Fed rate-hike bets build ahead of U.S. CPI report",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzc4R3R1MGRYNW9BMkFIWlN4YjlEdHdDSnlJMjdnMlB0NmFxLTJCWXBaQ1R3ZS1WZEJrOFh2Q3hFcGRhZUJpNTZaZ3Nxb21Sa3VyWnY3MHEzaG9KMkNsd05XMTdDQjJUMi1sS3NjdXN5M3VpTmJsVWxLN2FKMkhiQ19TYkg0SFBsM284YkNuQ05EUG5PWGlIaG5RM1FnbTVGMms1ZFd6YmhmOTJqX0x3NkxkQVRTV0k0QWR1SlF5RlY?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-10T10:48:37+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Fed\u2019s Chris Waller Backs December Rate Hike Over Inflation Concerns",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0gyTWZCbV82Z09XYThNcUpZVGJGRDRqbk15NHoybEpNSVQ5Z3pIRC0yeXhwallWMmk4WHpsRTMxMXdyVVVWcHlNZlNncUJZU0FsLXZEb0w0X1prMnFibm00Zk5FcllDa3BEcmFjVWtfSkFYZ1FYdEJiX2ZLNnpSeDNKUEY3ZlEtMG96YzlKeHFFdw?oc=5",
+   "source": "CoinGape",
+   "type": "news",
+   "published": "2026-11-10T10:45:47+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "Charles Schwab opens Solana, Avalanche and Chainlink trading to Schwab Crypto clients",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVdsTF9lQjlaWkhPLWxVOS1naEVPM253R3BtQVZqV1VwaGl4Z2hXVkd4VVVtQTZhUXdhUnI5WjJHaWF6cGtnd1VPWDNFWi0xWVFFdTE2YTRSb2FWczAycGlaREZ5T3BJcnpET0VDNlhSYXZ3QXF6X2loR0Itb3VzRExXOXFkeGtMTXlPSk84MjFZVzNLU2JWMVdsTXV1UDRXOUZjMFpBN3g?oc=5",
+   "source": "MLQ.ai",
+   "type": "news",
+   "published": "2026-11-10T10:43:56+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Avalanche"
+   ]
+  },
+  {
+   "title": "Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat",
+   "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-10T10:41:45+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
+   "url": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-10T10:36:53+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Nvidia"
+   ]
+  },
+  {
+   "title": "Here's why Bitcoin, Ethereum and XRP are falling?",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSVFWOEZxd0YwblBkZVRmU2dOOFA0REtvRExBTDU4QmxreEw5c05iUGFYSkVPcXpyMmJfMWFVVW5uZXdfb1JSakZOZGJRT01VVmtpWG1WcWNLTUV6ZmlFM3hLcXVxRHNmclBlRDVIZnZhNkVvOWJ4bmoyRGtKcFd2WGlReXBlTzZvY0Q2ZjhKTEpORWxWaGF4dnJQMmZZV0ZjUnlYbE1PT3loSWd1RUpIM0t1MDZnOTVRSWZEZThSdlZLRDR1X0swaw?oc=5",
+   "source": "FXStreet",
+   "type": "news",
+   "published": "2026-11-10T10:32:32+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin to $2M? Investment Firm Backs Huge Target but Warns of $30K Crash First",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXJZYXJqVkQwTm5rb2QzUGVMQjJIMDVGRE1RdnRuTmxKS2t2QTUxSUFJa1ZxVFNQZ3RVM3hFMmJoSVFTaXlpVFY3c2xZZnRBb2dVSkpfSVNtTksyTFE2cVVJNmpscHpiNElybGRKRUIwSHRaOHhzQXREZWZlR1RfbUlSWmFvM09sbm45dGt0SDg3aDBBNzBwRG41Ulc3UQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-10T10:24:47+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin slides toward $74K as Fed's Waller backs a December rate hike",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeFFQR0cxMGJHTHRjVE9vQUcxcGxDdDkwT0RlSEpkTXdiM0NQT25hUVBWZ01SaW43Z2FIMVU0OGJ1YjRteDdhNmVkVTlRZzU0UVlTai1HX2NTQWV6Yzkxc0E1dDdEZWZ1d1hVbGN5ZXpBOS1KOTZFNzZMYWc1TEhQY20xNVJoMlAxVENFZ3R0aENUNWd4aDMwbXRNandUVVhRRjc1QWZ4bWlGU0h3NHBMam8zbERfbEJ1WFR5WjR6TmdUU2pITEZ4M0w3UjNmdw?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-10T10:22:21+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Public companies have sold $8.08 billion in Bitcoin in 2026: Lookonchain",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3Vma2JzTVpKZk05V3FwdGFJXzd6QlNTRUhIQ0p0enk0aDRuUUdpdXFlaGNPRDdPbzZ5Uy1JcG8xMjlsSVFuTkRwSE9BNDRyckpoazN4MFVUWW9XODFZTFN5WmtzMWtZRXJzR1RiNklvWW5SaTMxdmEwYmZzQ01ETERUNmI3Nmh6UkYwQ3VqdG9OeUx5bHc?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-10T10:20:19+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "NYSE Selects Avalanche Blockchain to Settle Tokenized Stocks on Upcoming Trading Platform \u2014 AVAX Jumps 5%",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNY281U043TTR0dEZBcVhGNXAtUjVxaEE1NEtpNXZKQkJ5eTZtREZ2ODhyZmQ1QzQ4cG1UQ2tBQnNOUjM2Sm9yR0ZuVTQ1d2lnYWVwRXRxVnc2aE12UmUydXpoZzEzYVNxVkF6NmpZTGNvV1U2Z2l5Y0dDNm9PSkxzSHYxVDVHMmdSTGp4Q2pfWlc3X0N6Z2U4c3FKU05SR2pITDdHRUxpRFF4ZWdyVlpTMFFLaXRJNllwQzJOdk9DcktNVFJSSVMtRy1Pd3JDNHdRZzE2cEg5YmkzUFZ0aDVicDlQZkd1TnFkYmFOalJkbkxYZEE1YkdN?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-10T10:16:14+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "RWA",
+    "Avalanche"
+   ]
+  },
+  {
+   "title": "Bitcoin Stuck Below $75K as Fed's Waller Floats 50bp Rate Hike",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96bHZKNlo5MzJENUhUeFQxWlQwUkt1ZjZUVG45UHA0V09OSlNVai1KeENaZHpBOFJXbzlCNzZjTVJiR1RjU1AybFc0VFlKeXR5aHMzdXNUdWNkcVotWUwzVWdB?oc=5",
+   "source": "Bitbo",
+   "type": "news",
+   "published": "2026-11-10T10:15:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-10T10:08:22+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "US CPI, PPI and Fed Speeches: 5 Events That Could Move Crypto This Week",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYlhKaHZyT1VjN1JGeFcxUkxNcTNxVUg0dkJpSHNFa19kaWU0aDdTUjBUOEU4bXFVRGlNTTN1WDJFNDVHdHgxcW9JajhXZzdyUWszSlFOYzc2MmlfUkxjV2VWaThTQUdVVndYTFk0VnlmbUpFaG12ODF0Q2VzRU85NWFR?oc=5",
+   "source": "Altcoin Buzz",
+   "type": "news",
+   "published": "2026-11-10T10:05:50+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "American Bitcoin Says Q3 Net Income Reached $126M as BTC Reserve Grew",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3MxdDNxbjJlUVgwTl9LSTFpTEpuX28tdWtod09fQVZER3JPUS05UUdZV1cta0JoaE90UEdHa1ZlNWhjNXVFYzJYWk15WGI0UV9TUTFkV0l0dkF3Y0JJbGZIV1dVYkswRUdGLUtyVFBRdHlMNXFERE5nWHowa3dZai00dkFWZEVwejBmOWstVGZkYUVobExtRVMtZ2dLcVZqWU5EZmF3MkVnbXRZYmhoN3JTal9OOVRHNmZrNzNLV2Fnb2hk?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-10T10:00:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Coinbase and PNC pilot USDC payments for corporates",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEROQkZkbTZDWl9IMlNEVHBpamhTZGRfd3lfNkhadlppM09fZml1OFBJTGV0d2lrWTVXaDRMamZ4S21pV044SFVPYXpIRDFTWjlPcldHMlU4Mzdhbm40MG9kUGtNSy11SzR5Y1NHbzl4WEJsVmZ2aUpqRllXb1hHMktvNVUtTHp0SElsUTI1RUtGOTdISVZsMGdleXEwaGlQUG5UTzJTSF9sb1FqSHc?oc=5",
+   "source": "The Paypers",
+   "type": "news",
+   "published": "2026-11-10T09:53:32+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin",
+    "PNC"
+   ]
+  },
+  {
+   "title": "Nvidia Stock Premarket Today: NVDA Gains 2% As Investors Look Past Huang Scandal",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLWs4c3BKR0YzMjBaSXNsMzBZRmVjaGdsQ3BId19EajdodTI0ckZwREt4aU42MVFnQm5DNWI0TkRDdkljT3hJb0hBaVRsbFdSaWVmVWRjbTF3ekF6dnIxMzdfaVZ5blhMdG53UjdxX1hXLURxRkdfTkFvM2ZmMzhuZElQbFN6a3hUTzBmblJsczV1ZWl1MnVwcXdOWTR1a3d2Y3BpY2xHS3RncS1LaVBKOC1sOFZLby1MLVHSAb8BQVVfeXFMTnZfVGJXWGpVdExaQ3BuelZycHdSam9UTEYyWW8wMmZJalVKNkdRTGo2U3d2azRzNGJ4NTRXOUhfcGFBVDNrZEh5NEVNaWctbmN6Wl9GVnJ6bVgzWG5sLVdRYWZ1LW43MjFudy00X19zRTlaV1pDeHZ3aXJoTXNuU0lBNXVxOGRnTzIwSWl0eGtzU0lDWXBNTzlkcnNWYXFnelA2SlhvLVp6azVicS1CTDBHLVBxUkc4VWJqTHBXNE0?oc=5",
+   "source": "Coinpedia",
+   "type": "news",
+   "published": "2026-11-10T09:51:28+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Nvidia"
+   ]
+  },
+  {
+   "title": "Fed\u2019s Waller puts half-point rate hike into the mix for December",
+   "url": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "type": "news",
+   "published": "2026-11-10T09:45:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "Trump Media Adds 1,510 BTC as Noteholders Near $1B Repayment Option",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzFWOXhkUXNOMjRJQVpocXZVQzR4ZHhuT0Y4QWJnakZFZk00WTBPSWUwem5FVXhZQ192aGhITDk1TnhnOFBKYXExVmNzS0tTSHBYdXpNWTVuTkp6Z0poWnJBY1lJUWpBSHdoTjBZRGN4MzBkdmtGMGFEVFhhZWRsWGhtb2RaUmtEV19qQkswQWV1Rlp0U3hQS09YMTM4LWtsdkthZmJoeWdlMHFMODdR?oc=5",
+   "source": "Bitcoin Foundation",
+   "type": "news",
+   "published": "2026-11-10T09:40:34+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Eight Used Nvidia V100 GPUs Power a Lawyer\u2019s Private AI Server",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXVQQlMzUmJaMXpfNUZTLVhaU3ROZVE0WTdZRVBUU0duVGQyYTdSOUc3TktRYlpiVE5sSjZBRXM4UVRTTGNWUmQ0MFY5WGtXY1A0bGpGMEhVUlRNdHBSNm1iLWVRS0piTEZJcHp4Vy1FcF82R0h5RFJMdXRWR1N4enZnTG4xbnE1cXJSOU40bFlZZi1oVDJWZ1JpNjBRSUpwMnc?oc=5",
+   "source": "Bitcoin Foundation",
+   "type": "news",
+   "published": "2026-11-10T09:40:34+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Nvidia"
+   ]
+  },
+  {
+   "title": "Uniswap V4 (Elysium) Statistics: Markets, Trading Volume & Trust Score",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDVVFrMTFsZDF0elhnUkFKd004WmVwTDcwemhvSDZMZ19jVFdxNGNnZ09Ob1RaNTlqRkotRWJzTWtJMVNXV0VRQnRWVDJzQUwxUGR3anBRM1lMekpzcGZvTURIc2t4ZWJ0?oc=5",
+   "source": "CoinGecko",
+   "type": "news",
+   "published": "2026-11-10T09:36:13+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Safeheron on Institutional Crypto Custody and Stablecoins",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPel9SNmpSbU5STWlxaVlUblVLWWdKcDI1QUppcVVpcnlVc3dFNm1ZMzk3Y2tnSVE1ZkRjWU1LQlZrVjVteWhqZ05IRmhPNHlEOXh6Nl9qM3YwdFI3YmxDMjlQMlRQbHVPUEhCcG1TeUJyUDhfUHNhTGFPaWM5bmJ3cENLVWxRYlU1V2tjQTFmVENTUURYYVQ3MFY3Ri1iYW5PYllWYTJOaVhnc0NuM01Hd20zT2tGX0tPZnJxNnBmV3VKNEFVS2RvdzRuSXhnN2dyVmc?oc=5",
+   "source": "Finance Magnates",
+   "type": "news",
+   "published": "2026-11-10T09:34:05+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "MARA Sells $1.1 Billion in Bitcoin, Repays $750 Million in Loans",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ueVpHb2pRV3lvTmExbjJRcVRFLWNpVUFwazNNOWs4UF9MNFdIR2lHVXF6WHVBbFp6WElQMUM3ZkZVQjFvMmVmeUhFTkhabDhlWkdpTERRU0I?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-10T09:29:57+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "MARA"
+   ]
+  },
+  {
+   "title": "Trump Media adds 1,510 Bitcoin in Q3 as treasury reaches $1.17B",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sdmhrNHlxbnBsd2xYa0dnT05ncG53ZHZBQk9KOXIyakVLZGQxWXgzaFVfdi1lTWtMamp1dzFWTDdrQUhKRW1rUGpEUWxfMGNmQV9aVlB5YjZwWGdieVpHTmw0OVBXWlVO?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-10T09:20:06+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "How Does PNC Bank's USDC Payment Pilot Convert Stablecoin Transactions Into Dollar Deposits?",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1phVDljdEtNb1dnMXJZMFpPcXNIaHdpbDh1WjJ2cnFYWnQ2dFZzeHZIVWlGckNXbzlVWGVfM1d5SWIxa0JqSGdNd2p1QW1qbzZFRWlJQTNfYjR2aUViYmtXV3ZKUDU3enhoeXBRa3ZSMFJNTENidV9GalY0bUNZODBvOUhFdS1zM0dXb2ZsYldZVm9XWThwSVhnWXlORjZ2LWlRTXVYbDFPdUhNMEhnc2s5NmI4V1Qx?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-10T09:14:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin",
+    "PNC"
+   ]
+  },
+  {
+   "title": "Fed\u2019s Waller open to delaying rate hikes, emphasizes timely delivery",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2V3SFN5MldFdjljVS14SDRscGRnUWh1aV80LVduVC14RFE1VlhvVmgzRUk5cXFZellxbWl5X1NDWnNsLURGcTY2bHV1eU5iRHRvM1RXTGplXzZGY1lJTTdVN2QybUVrMEl3bGQtUXdCa09qQU1LblVHWXBtNVhpRTlqTUNnS0xCYXJkZ3lNRjh3emlISjBnQWF3?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-10T09:10:12+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "Fed\u2019s Waller warns of widespread inflation, hints at tighter policy",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjIxS0xBYTZVSXNTVlpYVDlZVVBIM3YzZ1B2VEVRMF9RQndkTWNGSHNtQWx5dmIzcDUyNjNWZmg5bkFsbEx5ZEp4TURwQkRwM1lXWXJkcjl4QTZycGdWOXJjVkhZM09rSVNHQUJZVGpSdGdPRWh6NEFKbnQxZ3JJQlQ3aHhzZ0w5bWgzVUJaNWZ1dGJJUzM4Tw?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-10T09:08:14+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "Strategy's Bitcoin Underwater the Day Before MSCI Names Who Is Out",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWZBQWg0cjZKNVl3TlBRak9KQ1NaUUdveFNpenRmSFFTNmNnQS1Kd2FWWU1NMllUMmFRLTF3MGNOQkNOSjNySGN5eC15UlZFeDNkTkNGSjdsbFhZa3ItQ0U0SUt3emZkYjNZc0VNT3hQVVN4QkdKLXBIdEI1Rzg5Z1N2R0J2czRoNVpWanhNUkdWWXdORWpvQkxELTh6MVpmMUFBMA?oc=5",
+   "source": "Blockhead",
+   "type": "news",
+   "published": "2026-11-10T09:02:54+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
+   ]
+  },
+  {
+   "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+   "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+   "source": "CNBC",
+   "type": "news",
+   "published": "2026-11-10T09:00:01+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "BlackRock Bitcoin ETF Sees $213M Outflow as CPI Report Tests Crypto Markets",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVThXcE9QdlR0V2hZdXl0VE9Db25PWmVrT25IblduYlJsdUhMNlNDM3RGcTdqOXBEVlhoMDJWLXdXNnQyX0hmNEdTTVpJbEpuSW05WE5TWUthcE5LVnZ5d2ZLUEFheXQ5MXJIRkFLSUZYUVhCVHhBaThYV2k4RWNrbk9ROEg3dnFhcDBSV3ZWcmRNNlU3YllnaGVVcFU?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-10T08:55:54+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Sits Out Equity Fund Rush as Fed Hike Odds Reach 84%",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHBTMF85dkh3NGdOdFBmRTdZLXgtdnkyWVY5YkNKOVZ4MWZwbkZJOXJmTXYydDNJZGJLeE8zWnU2Y0pvVy1CdDVmZFhDRWZGM1BfT3hmMVp6NlpxcU8xcU1mdXhMOEJyQkg1TE5XblhvNXRxZnplVUtGSFFrSDNMQU5PbGNMemw5eXB0V0czNDRrMDZfSFFmU2xB?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-10T08:51:47+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "MARA Sold 13,597 Bitcoin After Q3, and It Isn't Done Selling",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2ZmdwVkE1UGc5Nl9kWHJTOG9hREFiT19XV0NwVlRTOWtYNy1IQkdweERHaVlqZ1EtZm85dGhWY3ZZWkpIMWYwaWZxeTNianpILWpGUmNCcXo4Y2VJYUgtelZYaTQ3LS1f?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-10T08:51:47+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "MARA"
+   ]
+  },
+  {
+   "title": "Bitcoin Holders Split in Two as Retail Leaves and Smart Money Keeps Buying",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdGRxQk1qZGtFRnBVRDNiWVZVUEFiSUJBRlJybGhEY0hxUHR6dU9SdTl3MTI0a0Y3UVdzanM0dFFtRkNwdDlfTDJPN2xOMXBHNDI5YXI3ZzBIeW1VYmNLVlhCN3pEUHpjalhSYW5BSlpOT3dJUnpWdmVKd1NEdk5DRkFwdmlYVHBMUWllRWVJemx2YWlPVDlDWmRxR0ZtUQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-10T08:41:55+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "NYSE's Tokenized Equity Market Adopts Avalanche for Clearing Infrastructure, Sending AVAX Soaring",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCRU9tbWxJQjdxSFBWMXRJUzM0cEdXX19XTU0xSURLamlyOXRxU1p4eG91MEtoeDMxaHI1LWxnSVB4dTQyN1d1MFh1bVlqS1J2Q2MzbFloQk5xS2kzbGY3SS10Z3Zkb3hteGVLUWd4QWFOVUM5eXc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-10T08:35:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "RWA",
+    "Avalanche"
+   ]
+  },
+  {
+   "title": "Cardano Price Today: DeFi Deposits Drop to $48.9M, and Pepeto Looks Set to Outpace ADA This Cycle",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdEFreTRCb2pxNlZOZkpzd2JCSzQ1YVluaU04UlZqYUNGOG9rRThZNU9PaFBpRDdCakpGNEhfLU9KVzk4WlFsVlJmZlhrYm94LVR5ckhaajBmYzFDLXFiT1FxNWE0S2NlejdORXZpaFVBZEc2ZUFHYUpqVmphcWtIcWtrcVZrWWNxY1NxdlVyWVZfa0RZVG1TM2lFc2h1dkJ5b21VUkxMbWZkNm9LT2tWallGOW5fNVJCQndUSzVMR3pMbW5UVllHS0JDLU1KOTZOM25yRDU2bGNCQjYtVWdkXzNTSlJRdEFxZFlJN3FjZVh0WkNUcXc?oc=5",
+   "source": "StreetInsider",
+   "type": "news",
+   "published": "2026-11-10T08:29:05+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Shinhan Card Says Stablecoin Payments May Initially Use Existing Card Networks",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZdG9vUWRyblYwUUw4YUc5b2o1aDBHYmxjVDZQMGNMY0I4TW9YT2pZOHdvY2ZpdjNrSC1tZlRPZFdhM1dVRXdubjExX21QZjY2Z2Z4QQ?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-10T08:21:36+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Toss Says It Is Building Stablecoin Infrastructure, Targets Service Completion by Early Next Year",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGemZuVG9ack95OTVyaFpLVkpyUkRjZWRNWlllR1ZpNTZ1NER0eWxnYS1RdFdkU0NDSjN3ZU1zaENPWGdRTlBCZFJsN2xQdC1fQnZHdQ?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-10T08:09:17+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Tesla, Apple and NVIDIA rejected Wall Street\u2019s crypto plan. Then NYSE dropped a bombshell",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDQ5cjVvXzY4NDFPSmhRbHBwYVkydlU0c2QzdlM4NkhMdlNiR3phLUQ3RFc2OURkZFQwYnBXZ2V1NURjbzJLT1NqOE5oRkJOQ000cWxLTUQwQWFEYkRQamtEaHZHUUZfM1hjb2M1eFBFSTZlOXJMbFdzb2JDSDQzVDk4VUp1dWVrckUwNlBJX3RKb085eXQzeFpQNzROVjdaSGVGRTRtUEoyVVNQVm1lbw?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-11-10T08:08:58+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Nvidia",
+    "Avalanche"
+   ]
+  },
+  {
+   "title": "AVAX NYSE Deal Sparks 10% Rally: Avalanche Wins Tokenized Stock Role",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BUGp6MmJVUG05dUFJbkRselg3bTlYa29SekNiaEdvV0ljVmVzaXBDQ2h6d3YydnRWTFA3aHNxYjBBalBLMS1HOEQtSFJRTFphWHpIMzRha0FMbEZSVGtfTVNQd1RlWGI3OXlPNE1mc05fNFBITXc?oc=5",
+   "source": "Cryptonews",
+   "type": "news",
+   "published": "2026-11-10T08:06:22+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "RWA",
+    "Avalanche"
+   ]
+  },
+  {
+   "title": "PNC Bank: USDC Stablecoin Payments Launched For Corporate And Institutional Clients Through Coinbase",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVhWUlFVYzZ2Qm40UmhqeEZjVllRZi1IVURVY0hRQ0F5YWk5TGhKYV9kbG5BcXpHd2QxdWMxVVhQeDVlNmdZVWtUR3FwRDZqMzRkX0NFdzRlX05CdXp3bTZ5dEFCTkdGQnVBZm9RQ0VuUDJVWWlrVWNDX1c3R2JsZ0V3LVpIT0lSMkdieFZWb3pLcWNzRF83cnNtWUNFSTZPUGNXUFpTOEQ1OUV1ay1CUGVHb0VwaXFoRXk0?oc=5",
+   "source": "Pulse 2.0",
+   "type": "news",
+   "published": "2026-11-10T08:06:13+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin",
+    "PNC"
+   ]
+  },
+  {
+   "title": "New Message from the Fed on Interest Rates \u2013 Barkin Speaks",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclhPQW9meXp5MFN5cDFSLS1HSm1PV1ZYRjNOR0dqcGt6OUs2eEZpczU1NUx5dnd2SWZLUk1jLXNlTy1XcHc4MmFPVm5faXNxM2JCNi1OS01pUDdFelZ1R2pyeGhFd0l3NExTV0FFcC1UQ05rNlQzSkNRMklBS2JPMDV2NVFsYV93dTJJM2pPc0I?oc=5",
+   "source": "Bitcoin Sistemi",
+   "type": "news",
+   "published": "2026-11-10T08:03:23+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+   "url": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-10T08:02:05+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Key facts: MARA Revenue Falls 35%, Capacity 1.9 GW; FERC Clears Plant",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE5mLThXSUdMd3FhbkVTZ3pmaWVoSE85Z2x0NXRqZHVwSUN4SmJVdEZKS3dGdWI0RGVPV3U0RVhpMkNkZGw2N2tnX3YzNUVUTGpJU1dzNHliQk1KSEp2TWZWTGVfbUsxWFVObDJvLUtKNkEyYURsVFVqOUdtdUpIWTZpWFgxVU04MFFkeHgyZnd4el85YUs4Um0zTWtpcW5GQ0tCVGZ5LWlkX29LNnlzWmF2WmV0NG5JWGJIcHhETW9LQXhUQmc?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-10T08:00:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "MARA"
+   ]
+  },
+  {
+   "title": "South Korea's Min Byung-duk Slams Bank-Only Won Stablecoin Plan, Urges Passage of Digital Asset Framework Act by January",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LS3dYWXYzdUtLdE1SaEE2bDR1T3NxWmVZRHpNY25MQ2xlcmhaaW9TUUU4amJFMnpYek1UZ0pCVXdYamU1VzZ1bEVTOFZBaGxTSTZKNXpfTEl6eDNBRFV6WWF3WnpRRUpnNkxkTlhmcXJMdmZWSWc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-10T07:59:32+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "BOK Says Bank-Led Stablecoin Issuance Is Second-Best Option to Minimize Regulatory Conflict",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBbWxhQWpmZzFIQWdSc3JqRllxZWQ5TFVvUGs0UDlXc3FsVUNwWUplQU9KNWtlMUQ0bmpZN25UQmlEd0FnRzlrLWNVVVpvVW9uLVI5aA?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-10T07:36:11+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "FinCEN and Fed Withdraw 2020 Crypto Transfer Rule Proposal",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMWtzWWdSUHluV08zSC1QNGVwVV90SV95aGJKekRxU1JJdUhSME1XbmpJeUIxOElaZjhXZFNNbFpTbjh4RHBYMUFxZUowNDBIQTYwYzNRZGJpakE?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-11-10T07:31:10+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "24X Bermuda Limited Adds Bitcoin And Ethereum Trading With Standard Chartered",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORUtzRVllWjNocmt6SUVzbTRIWXRtWHZWeVRnQUJVZnZONmFqQ2VGQXBocU1XU0JzUmRCZVRIWkYwX3k2eFFlLU5yQXU2R3oyalJhMlZPazBoclBUYnV0N3duU2E5MmVvMGNOdkJtMWdsUzdQU3B3Y091Ry0wSkVhNmJWeXk4SzlkYnZFNWlpUWpobjg2VzM3T0dNazd3M1UxR0xueXJiSU9sbEFuRDViWWx4ZTB2eWtqbWpTcHdYNUV1RGlCbkY2Um9XLTVnSnZfUVFUcThn?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-10T07:26:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin\u2019s $75K Selloff Isn\u2019t Scaring These Holders, They\u2019re Buying More BTC",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUTh2anhLdTFuQUVqSlNRNjNYbFZKWDRaVmRlOXdvNHhoQWVPOXE4UXVQd0dSTmgtdnRnQ05FSXI4ckpSTnZuVWVnWGdvZXZ6cEhGQnJ0SF9EdGpPZDRXUDFGZ1BEeTZQNTNfWUdIckhuRVRJV2JHdVpWdW5WVklrdTdXQzY5N0lRaFNtaHBmb0lkZ0w1VldnVjQ2Zi1DelpGYkotaXJrS3Y5ak1D?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-10T07:24:43+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "AI infrastructure boom adds to US inflation risks, warns former Fed\u2019s Evans",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1hXLVBWS3BUWXE0dUxBa1BLRXhROUVSRHdkdERJN0Z3anBFY3VZckJIV2Itck1DeWJlRURhZ1RiVGIwMFZqb1FoQktrb3lPSzBHUTF4cWtzU1Z6NnZXZXhibjNZd3hoc0hORFFQTUNFcHd4MUxuenBLdUFtNXkzRU5pRE9iV2JNUmtTNVMtZUFnN3RVZ1VCU2ZCbER1YjZRclBJ?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-10T07:21:23+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "NYSE brings stocks to Avalanche, but bans direct wallets",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjVtTVhFLXBjRFpIZ1UzdzhGUU5vVVA1SmE3NUctdDhwWWVxU2JXSnJ5ZUpvQnB1eHNFYXZGNU5lV2ktaWxnUG1MaC01RWlTQ0dwa0ZMcU14QXlVQ2pUWTNfbjhOd1dIWHVaUHp0YlIxd0QzR3ZSUlNKSUVnM2Vfc0cyZFJEOUU?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-11-10T07:10:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Avalanche"
+   ]
+  },
+  {
+   "title": "LIVE \u2013 Will CPI Cause a Sell-Off? Asian Stocks and Bitcoin Face Fresh Test as NVIDIA Anxiety Grows",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeFo1NGx2X1pBb29wLW1qWjlOSC15a2NjN1U3MWRIVFZwQUVKdnZkZ1dZWEhoU0s1dG03VVY4bmNIRV92ODFRRTRIbmdEYTRuRGxJQkduWXluUy0zMHpNcXBoeWp5aGFkZl83RnFNTW1pRHpLbEdCMXBPdFlpTUJ1MWZ1RmhuZFB6QnRpSndYSk40aWVxcEVsUFpFaEwxV29Jc3JhcXN4X3dXSjlvNmNTc3RqMzNmeUx6bnUycWVPb3haa1VoWFVrSWxWZ3Y5ekxVVG5lTWpfdFN5blZyZnZ0M1pEX3F4WTlmem0zUA?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-10T07:07:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Nvidia"
+   ]
+  },
+  {
+   "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+   "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-10T07:01:06+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "MARA Holdings Touts Exploding AI Demand, Targets 4 GW Power Portfolio With Bitcoin Mining as Its 'Foundat",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDNkTWNad3l5QjFWLWM4X1BvMnUyQTVZT0JyaUkydmRjRVdQNXlGWGZLTmM1T2JwTjI3M1Z0S2pCaWZfQ1Rac054ZHIzOHJINmE4RF9yX0hOanA1ci1BbTM2TkVkT1lwUVZsQmdESVQ4cjNSU1cwN1pGTVQ4YkVkOHMtWmI4YnMzNl9VQUw4NzQtVmhxLVZ0Q3BmcmcwaWU5bFhtSFJ0NHhDelNDMnUw?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-10T06:55:09+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "MARA"
+   ]
+  },
   {
    "title": "Crypto Bull Run Watch: BTC Under $75K as ETH and ARB Face Pressure and Remittix Earn Opens to the Public",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeVYwbGl4UURVbVF4RkZwZzZLMnd2YXFUVDZGcWxaUmZqNzJLd3ZMb1FMa295b1BGOXBNNVNNeGZwTXBCWUZrS2VjRlBMSmllSlE2YW9QWnJYRmZaeUxKVXNPVUhPMWlYVzk0VXZ4cVV1clZhSVZ3Q2lQektoUXR2Q085eFB4UXF3R2g1elNRbDZjdDBCLVZtN1pvQkp1TWpJNW03Ym45QWQ1c2FiWW5NVWdpc0I2UWgwNl9mTjhVdFlTMkpoalNJVmdyT3FHNzdBWmtqbEsxWWE3dHpIMzVZcUNmeEVDN3gzV0lrVkxnbWtueVVzcDdpWXJvcTg?oc=5",
@@ -154,14 +970,25 @@
    ]
   },
   {
-   "title": "Stablecoin Legislation Needs Clear AML Rules and Other Regulations for Broader Adoption",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JQ3Fobi1UaTQwdnJaaHZNMEhEb0JsWXVCdDRQMWNkTVloNUhkdzY2dXMtYi1jZ3RLTWppbVJEWlB1Wkx6Nk5MMlFWZnZWenJfRVBWZw?oc=5",
-   "source": "bloomingbit",
+   "title": "Unicoin Takes Uniswap Labs to Court Over 'UNI' Trademark",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFBtbTVhMjdXWWNjc2JSTUVuTmlGTVYzc1p0MUFpcFhBa3g1Z2E0V0ZzWEt1NHFWTC1UZ3o4VEdKUy1NZTZJSjJ3ZlBZN0U4bUk1VG44VjRpWjM0WE5jRk42MWZZMmpYVy00WDBLeDFrekFmaGlRdW9uQUJwMS1aRHhkLXBrQktVcVRMaGIyOHhUaUgyUENDbkw1bFA?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-11-10T06:30:58+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-10T06:40:07+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "Stablecoin"
+    "DEFI"
+   ]
+  },
+  {
+   "title": "North Korea Uses DeFi Liquidity Pools and Fake Tokens to Move Stolen Binance Cryptocurrency",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81V2FnR21MMHZjZkNhX0NBR09nM3lDVkx2ekFsaXJCYnNabnhRSmNYZXhnZFJoalZERHlUVEE3R09jUVF4cGY1RjJ1MjhiQWxaU3JsU0xn0gFbQVVfeXFMTTlNOG1oZVBKYUpweHNsVndwSGVDaVRuY0FCZHFPcHF2Y0szVnd2Z3ZxOG9LSldZQW9wT2Jqcm00R0RwMDVwOWpFZHFGcXJ0czNSYlRsQWZZVlNHNA?oc=5",
+   "source": "GBHackers News",
+   "type": "news",
+   "published": "2026-11-10T06:21:14+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "DEFI"
    ]
   },
   {
@@ -189,25 +1016,25 @@
    ]
   },
   {
-   "title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
-   "url": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
-   "source": "The Block",
+   "title": "Ethereum price falls despite BitMine buying another 9,587 ETH",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oZzZmbUVZQ0J5RG9VWXdpVzRDQmZpeW9xbklMYlNJYl9zS3BlazVacmRYZHpZUTdfQVM2V2NMZHB5dUtadkd1N1Y4bDNYWTFPTkFhZUFwd2ZoRHY4M1BBWFJTQUJPUEZXU2liWTh0eXlKcnhLckY5dEFB?oc=5",
+   "source": "Crypto News",
    "type": "news",
-   "published": "2026-11-10T06:19:10+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-10T06:09:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "Coinbase"
+    "Ethereum"
    ]
   },
   {
-   "title": "Bitcoin pinned below $75k as regulatory uncertainty, ETF outflows persist",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0JNdGZxaFMzMWh6VmdJcHRYNEt6Ql9iVmY5eDNpZHMwQlF6MlFJN29zOU9wbERfQzFDUmV3d2x1dllucEE4c2JmWnF1NHBIZ0ZZcUhIaEV0MExRTmlVWHQ5MzV3V21hV211Q183Y1VzODJvcjloTlBsanBFYnhISE1vOEZUVE9WZmNTa2pEbFRzek9ZM1g0ODZLSnJWSXVWZXNRb3F4dUNOQnVJQktWdXNwV2xuSHV2R0pidFZiajl0anhTc2tPaVdn?oc=5",
-   "source": "Investing.com",
+   "title": "Nvidia CEO Probe Hit Binance Stock Perps While Wall Street Was Closed",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pTktKUnBYZlFNbm91NDg3YzBEcGh0YXRRRG1YTlg2MVFNMUJOQmhyWE83X0t6SXdfbUd3SHlRdVRNaDVCWHlQNG50bkVJclQ2aWF1eVV6Q3IwbnBJV01KQm9iNkd4cGhuNWpIQg?oc=5",
+   "source": "BeInCrypto",
    "type": "news",
-   "published": "2026-11-10T06:05:57+00:00",
+   "published": "2026-11-10T06:05:12+00:00",
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
-    "Bitcoin"
+    "Nvidia"
    ]
   },
   {
@@ -233,6 +1060,17 @@
    ]
   },
   {
+   "title": "CASE STUDY | Why This Top 10 U.S Bank Pilot Demonstrates Stablecoins Might Not Replace Bank Deposits",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jSlhhSXFJemJPYWt3YlJ3bUVGd2swOUdHY2tMTk03NlVwUlI1emhuZ29fTXRkcXRTdXNBSUR5dWZzbmpJbC1NN1I0UkZoZUNlNnpQNS01NDlWWG9YVzZYSmlqRQ?oc=5",
+   "source": "BitKE",
+   "type": "news",
+   "published": "2026-11-10T06:00:21+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
    "title": "Euro-denominated stablecoin supply surpasses \u20ac750 million; Circle (CRCL.US) and Soci\u00e9t\u00e9 G\u00e9n\u00e9rale form a duopoly.",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd2prR3JxeVNZdVRKQy1zTDM2RUxqdUZabm94cFBqYnpReHc3czFtNjEwSTkxTk5YLTBOZ1pIMllYN0FYVlJjQ00zZUpfRlJLUEdxUm1teXI2bm5STldfVzNmaU5kbm11RmRQeVgtWHpTdHAyVUYzNVRpcU9Oa0JoV2lGaTduRWFBOFNFWi1RSFZZZUVWZ3NWdW5kaTN3emxaSk5Ud1FPNlBXRXlkZmxWSmdXVV8xU1UxTXc?oc=5",
    "source": "Moomoo",
@@ -244,81 +1082,27 @@
    ]
   },
   {
-   "title": "Why is Bitcoin price stuck below $75,000?",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xNEFDZ1dhQUZHcjltMm40YmZveHZTMzkxS2hxdGF2RDBzNmhHay0zY1d0cmpYbEJhOURuTGdOc1d6ZVFRT05xdVFyX2JYNE1HNlhDN0NnYzQ0dVVDZUUwaW9LVFVYblU0WHA4?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-10T05:54:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Fed Hike Odds Hit 84% After Bitcoin ETFs Lose $1.28 Billion",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1RHUkV3SllTcDBQWC15aDZLR3FTZVNIaXFERWpEeWVfaWdtb0M4c2c2MW1JbEFGY2RueU1iQ0tONENOMmdjdVZDRUZwa25WdXc5Y2gzRkZWUjZRYVEySl9EUWxZSlc0cVRjdzE3OU9SZG9GaDhGREpEcG1ReE5vMmlTMkw5dXBIRGdYRHBn?oc=5",
    "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-11-10T05:49:21+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Loses 109K Wallets As Retail is Giving Up!",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjRGZUF2ckhNSEFlazFVbU5IeURfbzZBV3hBY1dkU3ZhS1hWb0dfVEtkUktweDFESGx1aFk3OGFDdy1TZUY2RkF4TzlwUmpmVTY1RkVCUzNYcEU4R3l0MVNUV2ZsYWhwdm0tR2JYcDRDclpDdUtDelZvS2pLcHNpYUhHanN6UDdnQXMzUXhCc1JmZXRSU1dFQzJKdw?oc=5",
-   "source": "Santiment",
-   "type": "news",
-   "published": "2026-11-10T05:46:35+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Miner MARA Sells 13,597 BTC for $1.1 Billion in Six Weeks",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlhvVDlWMVBZY2gzMHZBQm5tU1M4dDlxNThDME40cm4tU0x5ODNHQTlqelBJWTJPS1FsSElLMjRFNXBVSlZ5WGZRcWZMRjhfdUM1dkVFV21EVF9MeVEzRTU0UU1fX1RmYWJ5bVZlbnVFTkE3R0tmOUxGbUZEWDlsWnNKaFExUDFnNEhEQjFNS095VW9zWFFmYi1UcUo3ejg?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-10T05:44:00+00:00",
+   "published": "2026-11-10T05:29:00+00:00",
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Bitcoin",
-    "MARA"
+    "Fed"
    ]
   },
   {
-   "title": "Coinbase Wallet setup guide after the Base App rename",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZWUo2VFZuRDNmUHNfdjJzcFNBTkQzdjA5eGNuTFV2NDZmdF9GZ3ZyLUFUZWdjRzhYSjBZSm5INTQxd0ZlWG9VVUVrOUl0eDktVWtnanpDZ3ZoMElVVXpQUzBySVJXQQ?oc=5",
-   "source": "CryptoTicker.io",
+   "title": "AVAX Rises 12.7% After NYSE Chooses Avalanche for Tokenized Stock Settlement",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnBjekNiOFd1S0NvOVB6dU9qaGx0ODA5VFhDcldFeHppdmtGRjJ1MUdQem85MlY5MnNqclkydTVLa1JGZUh6c0hBZWlDM2piOEZ0Z3RqbDNGM1lIMlRaVDhwRnl6MDFmSHZHUl9HRTVxWkhJTlk1OWY2SjlVeDQ2cHZTUl9FNDNkS2ktaFROV09tNldWenBOTEoyV2JzTUJIdWdZSzZCQzFSRWttZkE?oc=5",
+   "source": "KuCoin",
    "type": "news",
-   "published": "2026-11-10T05:30:28+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-10T05:23:40+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Nvidia Enters Bear Market As Google Strikes Amid Jensen Huang's China Spy Woes",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kSnRtWnFibHNqRFlUTm9sOGtSSjJ2V19CNnlaWGpycnBQdTlNcGxZX0pVZVB6SldCRW5FS3BSclpMeDNBMzhNOThUR2xwamNiS3dlaUxVTHVvXzhZREpLbWZhZEpIQkkzOW9z?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-10T05:25:27+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "Bitcoin price $74,600: US CPI without an annual rate",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtNW9Bak5xRnJmcVhpRUZSaEd3akFrTHNsbE1aU0UxSkd2OFQ2NHNMb0d6ZENTWkNUaGFaeUxoSTBORThxTW5OdkVJWTNzSDJUMkFBMWVBUldidFVvay1GNHViUDV4LUpNbExXQ21kNDQ?oc=5",
-   "source": "CryptoTicker.io",
-   "type": "news",
-   "published": "2026-11-10T05:21:40+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
+    "RWA",
+    "Avalanche"
    ]
   },
   {
@@ -346,75 +1130,37 @@
    ]
   },
   {
-   "title": "Avalanche chosen by NYSE for clearing and settlement of tokenised securities",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXhTTGNFaXJRQmU5S29IWlE4X0tLcUZVaGFlLTdJMlZ6U2FMU3NscXVFazRxTWtWY0JmQVFXdzF6UVl2V3lRcU5Gck01d2Z0MzRTTFV5Ti1iTl9uSl9YVWo3WFpoZkZ6MEI5S1hHb2RWTE40YU5VQ205RndmVFNaSlJUOUZnMnEyUEZZX3B0S013SWg3VUVBZ0ZsQVU3V2tJUTYxWGNySUxhaGFwcHRBT0J5V1RKTmhoVk5kM3VVblBXUmgtdnd4QW5WTms5dUJ2bjB0bA?oc=5",
-   "source": "www.tmgm.com",
+   "title": "Franklin Templeton sees Fed pause as AI spending slows",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdE9ZMEh4YkxDbkpOSEVTTTRyM2Z0aDgtRE16cmZRcWloTWl2SWJMS25iWjhPNmw1cnVKQU1SSEt2QzlPSmU4TXhlbEhqV3dSRVdIR1JJNGM1ZFN3UEZUdzdNUHhORkU0RjMzWlhDZFFuQzFSaGlaRTJFR0RyNnRVU3JSVnBzSUxSc1E?oc=5",
+   "source": "Crypto Briefing",
    "type": "news",
-   "published": "2026-11-10T05:18:29+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-10T05:08:21+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "RWA",
-    "Avalanche"
+    "Fed"
    ]
   },
   {
-   "title": "BlackRock moves $213M in Bitcoin and $118M in Ethereum as ETF redemptions bite",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOF9QeFVmZDUxbVlib2NyTUJIck9pWFlpQm02LWhSV1dUNWNNaTVTbWZ5YlJuUjBSeUU4UURWQ214eTJPWkpHSkRJUk5uc2RpRUlWRlBOblBhZU1lSEdlSHlQTmFFS2xEM3J3VzJPTDNWQTd0SXM4OVNuQjRsRE5zbEplVjdfbEtGaEdBSW11WTBJQkI3RFFRa2J4SkJvb1dkRnA5RGx4UzFMWUJlZG9wbmVRV01hUllkNGZoaGhneUdnb1Nqakx4Sml3X0RVRTVVZjdSbnlGSkM?oc=5",
-   "source": "TradingView",
+   "title": "Pyth Network Surges 6.5% on Strong Fundamentals and RWA Growth",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFTjVKcUd3ZVNodUZ6ME9ZcV9jU1FQTFZoN2RTdEVOOGV2dU92THRQLUtndk53N2NCekR4Yi0zQVB4eVZBWWFZWF9RbVhYdTRZT2xLcFgtYmNxdndNRHEyeXN2akpCbGQtYkh6ZjVleFQ?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-11-10T05:11:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-10T05:05:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Ethereum, Solana, Avalanche Are Booming, so Why Are Prices Down 50%?",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUdvMkx4V3VJcWNWb0dLcVBvc2NsWG96OFl3SXZvbTJoVEhaTElSS25UcnlZem4tR25adUV4aE0yUDhQcDNjS3JwOERtYmpMN045X1hFNkpxVEJhLTJ5N0gtNEYwZTRfZm5hczlQMklDdkJfaEZaOFlDNW16alJVbXFWOTl0NVpFcjAwRDEyR3BEUEpjNklld2txdnBEM1ROSVE?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-10T04:46:42+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
     "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "MARA Sold 13,597 Bitcoin After Q3, and It Isn't Done Selling",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5teFRNaS04S21Hd3BqWC1jTzJmSVp2S1hQenRVd3pFdUdKZlRGNnVjSFNFQXVwcTYxcGJ1TWZkcEZKb3dCTDgyLXlqYnNlbm1JdzZESVh1a3JZQ19KNXFhNy1SMzNDRVo2dzRuS1NHVWJjSGhpbGxhLV9R?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-10T05:03:08+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin",
-    "MARA"
-   ]
-  },
-  {
-   "title": "AVAX jumps 12.7% after NYSE picks Avalanche to settle tokenized stocks \u2014 Details",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmtpQ0hwV0tuMERUV2RKTE9rMXIzSXdNUjU3Vy14cXFVM1FpNVVVdXdYbVdZaUFGNXRPVGFqVHRzWGZYUUdJRHRKWjFCa29ybGVYM0s1UjNhZnlxMkZuY0M3Q0d6X29RM29JbGJnMThHZlI5NmpuREM5TFFCYkVNajJKdDNObXBjT3ZyaTVaem9nM2I4aHlJWnNVS0VwVjZQd0E?oc=5",
-   "source": "AMBCrypto",
-   "type": "news",
-   "published": "2026-11-10T05:00:34+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "RWA",
     "Avalanche"
-   ]
-  },
-  {
-   "title": "Next Crypto Yield Story: AAVE and TEL in Focus as Remittix Earn Opens ETH, USDT and USDC Deposits to the Public",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMHRadzlWNGI2cVB3S1pYSi1TWFNUbkdzY1JxUVZsb3BDNnRGVTVweEJnVHJPbk9nN0ZsMVNxYUNMdDY3UW5PQlJ3YjZ5R3VkZWpKOGlYaHN2R1lyWGFOQ2EyakV0S2xQR1hjektocC1FUUF6ZHJ5cWZxbU1VbWNULUVkeVJ1eFdHWmZZbUpRZ2l3QWFFY01HNHJUSWlxOVNzV3FiVkxoV1U1NFhuYzFOMFY4WFBtbUhQTWkxRm01UElOeE5ISUtkUlg1S1pGX1RFTWFiUU9aOEwyNjllRExySmc4cW5JVGJnaEdXQ0R2MjlYR2tpRnE3SnJwU0o5aVJGN2Uzejdn?oc=5",
-   "source": "StreetInsider",
-   "type": "news",
-   "published": "2026-11-10T04:41:10+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ethereum",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Bitcoin Stays Under Pressure Below $75,000 -- Market Talk",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazdXU1FTT1I3ckdHQ1B2SHlwd0tEU0RSMzRsbTFYS252TXcteGY3dVUzWi1OMGJyQlZWWm5GVlU3WFFWeHhpRGFoZGtPaS1zSEhxS19QS1VhdW9SbnJ0QTVxVUZlZ3FHMmVVWTZyRFpNYU5ONXVjck1NNldFcTVKeFc3V0JHSnVCdHBqWDYtWkE0WEQ4U0R2eXN5OWU?oc=5",
-   "source": "Moomoo",
-   "type": "news",
-   "published": "2026-11-10T04:31:27+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -422,23 +1168,11 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3pKbU1ObEQ3NXhUQUR5TDcxdUY5SV80TmRoMTU2dXM3bzY1ZlFPajZMWmhJa1RVQmMzbTZNbFQ0aURzUGZaYlhneHU0WmpxdFRSczlwd0pnYUppbkJhOU8xRHllTlBPcVNvbkJad21iTjd6c2RIOTIwRVpLR3JSODVkSlJlODA?oc=5",
    "source": "grafa.com",
    "type": "news",
-   "published": "2026-11-10T04:30:00+00:00",
+   "published": "2026-11-10T04:32:35+00:00",
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Bitcoin",
     "MARA"
-   ]
-  },
-  {
-   "title": "Elliott Wave Live: Stocks Sell-Off, NVIDIA in Focus and Bitcoin Testing Support",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaUtlODQ3aVRucHdlLUZiV1c4MW1kT0lCemZCYThRemtuME1nS0hxUWhZYS1qME8tNG5VeXZqNG91cTM4NVFyeVNMUTN3T1hHQU5yWl9kbVQ4X0ZIMFJMaEhfeHpzRUVMQ1BGOWxkczhWaUVLUVJ0X3JrRG9LYVJHa2tGbGRQbVY1MjFIb3N0U3NiYW5mckpQakVtM2hYb1VTbkJCRi1PSWdoVkI3MXM1dnlSN19DMk1PUE5QcWNRZGtTVFIzVmwxR0JxcnBaQzAzSWR3S1NUZG9vbG9aeHRrTTBKR3V3ODQtOHlxcVJyenlncGkwUVE?oc=5",
-   "source": "The Globe and Mail",
-   "type": "news",
-   "published": "2026-11-10T04:29:43+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin",
-    "Nvidia"
    ]
   },
   {
@@ -454,51 +1188,14 @@
    ]
   },
   {
-   "title": "MARA Sells 13,597 BTC for $1.1 Billion, Plans Further Sales",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWlh6LXhUQmFXTTdEbzE5ZEt2OHhPdFIyRnFGTUtfdU9KT1pkZXdMeVhUVmE0ek1kS0UxMUNxX2dwMGt5SDJyLW1naWJ3Yy1aTW4zWTVTZ3BndGFTTG9kdmRJQ3JxQ0UtbXR0M0EzeWY3MDh4RmN1NEJnWmREaXljVEx0SWlfUHdaX3g1dzZUdlU0eHl2dWc?oc=5",
-   "source": "KuCoin",
+   "title": "Stablecoin Demand Can Weaken Local Currencies, Bank of Korea Study Finds",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZS1jVzhCR0xxMUxzakxGVW5wVmcyNERiM3paY014OXpTWWRqM1lISjRaZFNxaHYyZmZVc1NlaDJ2cU52VUFzVnY0NnRncWJlRDRFaGxWQjdTVkFSLW1vaG1pRGpWblpvNE9iZ1JRLXVsNFJobGxhVC1kdXNKN1FJSi1tbF93aUVsQUl3NHlfUm5maF9NRkxuWDRxUXo?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-11-10T04:13:40+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-10T04:07:24+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "Bitcoin",
-    "MARA"
-   ]
-  },
-  {
-   "title": "Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzRKQWR4a1hiUnpZVVRzX1UzTi1mdzNUMmd5Vlh5TEtfejNvS21rZDgwamZuWDJqZ3lmbUplWkdqMV9oR0hHTUlHS0NsYXhtWVBOYi0zQ294bFFvemJOUmI2bFJvWUF0T3BpeVdBeXc3cU5rZnlrRzJHMjVTUWdBaGl2dGdGOUJ5UGxYVDh5WGRZVDQ4THZqcEJVVGk3SHN6YkdUdUtsSTA0ZlV4NDdBYW5kNkJCMDdnanJEV25uUDhOYTU1Zk9Fd0lhSkk?oc=5",
-   "source": "Stocktwits",
-   "type": "news",
-   "published": "2026-11-10T04:12:29+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "MARA Revenue Falls 35% as Bitcoin Prices Weigh; CEO Says AI Financing Market Is Getting Pickier",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01eFB1NHVZTW5TamVYMEN3YTRZcmExXzIxTmxaNmcwN1JhelR1WFNaRHBkWXNGX0FlUm5lcVhQeFdGeGFsUmhjcXBodmhsbkJsR0JFODJZQjZBOWEwcnhoOUdNQlNXWW1qakVqUFRMSjY4a3RHalE?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-10T04:06:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin",
-    "MARA"
-   ]
-  },
-  {
-   "title": "Coinbase wins final OCC approval \u2013 Why COIN stock remains under pressure",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3FucVotTHhqYVFPb240U291a09zcHZ6TU51Q3pCM2REMVZKSjUwUnFGZUNLQUttSC1pZnlvN2ZwMzVTMEdOdjhOcTlfMXNyY3lxTmRMcDJZOVlpMDh2OHFFU3R2Y1hkdUduWEh1UC1Xd0JVRjVZNjFrV1hRNGlKUzhpUWRNMjgtSzRDTUk1aE9jVWdkZnBXYw?oc=5",
-   "source": "AMBCrypto",
-   "type": "news",
-   "published": "2026-11-10T04:00:55+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
+    "Stablecoin"
    ]
   },
   {
@@ -513,36 +1210,26 @@
    ]
   },
   {
-   "title": "DeFi\u2019s Revenue Boom Is Exposing a New Problem for Crypto Investors",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGJhVEN5TWdEelBSamlBMWdoU3k4bXFsQjM1UllHNHVuOElBTk10SDF5RmNGYnpoUkJHSF8zeWd6R0cyM3BaVjAxYUtNNjNPdHZyVDVYUnpMd2ZMdVMtZmZ3dGQxU0tZYW03eV9ycnk2MkpmOTZEY21udjdoYS0tdVN5c1huMjZyYmVEQzdBNmxzblhiUFNHcHdEY0k0MWxEVy1yTExMdS1lcUJpa0ptWi05MA?oc=5",
-   "source": "LeapRate",
+   "title": "Tokenized Treasurys Top $10.8B as Institutional Interest Grows",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVk2NFZjeUo5MjlOVkNMTm50WFExWTBMTUdxelp6dEg2ZGsxY0xDTjBVQXA1VDRwUWgtUUYzRkRxM3JteEwyQzB5QTRoNHR0T2dQcGZiOGEwUGFWdkNyd0Y3V0VDOXFHdG95dzdUYzRvRkFCZVlkRXJlNWo2MzdPUS1HeHVZMFNZYzI4Nl81S1l6YWtSZVpvUUt5Sk9MT3Fsc3dXX3hFTGRrNWxu?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-11-10T03:41:05+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-10T03:48:38+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "DEFI"
+    "RWA"
    ]
   },
   {
-   "title": "Spot Ethereum ETF Volumes as Share of Total ETH Spot Market Volume (7DMA)",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTHZaajRIeVZPZUhQZ2pTMmZicjJKU0JNdzVuTVdkRGZqWWp4OUdVLWctMURtRkhyYzctb1I0SDdGQm9TS0hiWm5aMDd0MEZVSXdGSDhNRG1LeERkY3JsRWdtTlhUaDNvbDlwMGtjUEZjbGljMjRWNVBGYXBsbUttNU1KTnJmR2kzSFVjSW5tLVVrUmw4WHZFY1A4UDhOR2JTajdwaUd2dnc?oc=5",
-   "source": "The Block",
+   "title": "MARA Sells 15,133 BTC for $1.1B To Reduce Convertible Debt",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUNQbFEwTHcxdERud0I0TGtkVTFoSjB4OEZ6cTlJSTNsbDVscmJHRnpaWW4zU3hJMjM2UXJ6bTlfM1FVWlYtQzhBSkNVZjl3T1REWWQ0SHlxYXpmU3c1RTRvMzhfVTN6WTNKTDVnZ2h6bEFzVEZyeXBGV0daV2dYdnNDZ3paRFM3bzY1c1RSSnRpdGNKNzE2RzFuM18zeHZyTGlyc3ZB?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-11-10T03:35:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-10T03:42:17+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "DeFi TVL Share by Smart Contract Language",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSExLbkg3d3VoUlVMY2xqVFd4TDhodzAxMUEzUDZwQTZVLXdSNEZ5akI5NXFGSHVyUWU5VFNPWmRVVXhKUUVLdGRSZjBpcGlqaUZ6WXpSbEFSSm1UMDhRSWFnU1N0b3NOcjV5bWRGQ1FkaGlsN2F4SW96X21xTm9pOGZvektSTUxPQjFkOEUtSTh5Z0s0c1kzc25oR1h2NHJ6SU41Uw?oc=5",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-10T03:35:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "DEFI"
+    "Bitcoin",
+    "MARA"
    ]
   },
   {
@@ -602,17 +1289,6 @@
    ]
   },
   {
-   "title": "Nvidia CEO Probe Hit Binance Stock Perps While Wall Street Was Closed",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pTktKUnBYZlFNbm91NDg3YzBEcGh0YXRRRG1YTlg2MVFNMUJOQmhyWE83X0t6SXdfbUd3SHlRdVRNaDVCWHlQNG50bkVJclQ2aWF1eVV6Q3IwbnBJV01KQm9iNkd4cGhuNWpIQg?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-10T03:33:13+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Nvidia"
-   ]
-  },
-  {
    "title": "Miami-Dade property owners can now pay their property taxes with Bitcoin, tax collector says",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSWRjUEZydnI3TjNLY0htODljN184QXB6c0NFc21RZmlfQm4xWGhFd2xIc1BLTnRPQmwyc2tPVGFoSzBjNXp3WlJnS0FDSkIxVm9ROGNHakZwTDZBVl9BQnpwV0cySUdxNmtuTE93WW1Ld25aTHZ6a01Ub1RCYUxNbGdQeVlrVWJvRXhQc21hbWhCYVJLNEE?oc=5",
    "source": "CBS News",
@@ -621,28 +1297,6 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Altcoin Speculation Peaked With Bitcoin Near $87,000, but Recent Buyers Now Sell at Losses",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDhyVzFsNHpSVkpEN2pzWlpjdFMxNUJOa29tMzQ3dHBUU1FZUUgxNXdiOHhIdEJROVhwZkRWRkdrRzNITVBNT1ZGSWdiTFVlVWs5bFVMbl8zeDFEWEdrM2FKOGY5Qzl2RTRpWE45UVJIN3IwbWRSeFhXYkx5SGxoc1lsdF95WmZpbW1LYkZQU052MENxZlVrVzJvWmwtUXlRZ0xsbFhMTQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-10T03:30:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Coinbase Gets Final OCC OK For Custody-Focused Trust",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhLMXo4bTZnQkdxMFJHNFh1RXdmWkZEMWxlUzFFWjZrS2hHM2k4OC14R0pvYUQwLUFSQ3QxUUlfZ3hBcWtKcXdJa1J5aGozcmNpWHZWTXQ1enpnTzNLOHgzNTl0X0NjUzZoWXpCaXN2dl9scjdkQVhLalZVM1k4Q0J2dVl0Y3oxTElfYlN6czZ5R2RCQXluS9IBVkFVX3lxTE1tQjh2RHBmREFVU3h2Y214bFJyT0t6NmVsVzJfUFpoVzdyZFZLOGlkSWQ2TkFReWdYdWFGVE1KemhGTnF2MGoza1pfcDU1eE5Ka3g5bTl3?oc=5",
-   "source": "Law360",
-   "type": "news",
-   "published": "2026-11-10T03:28:18+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
    ]
   },
   {
@@ -665,6 +1319,18 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "MARA"
+   ]
+  },
+  {
+   "title": "PNC Bank to Pilot USDC Deposits for Corporate Clients, Converting to Dollars Instantly via Coinbase Platform",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSU9VV3RraHVfNVctN3dabmhGM0tyUURtWlc3V0FkY3F1UVFWWkh3N2tGTHFlVThmcGlCT2E2NGVoVlNfVU1RRHpmMkVMOVp2eUY3QVVsQlllUzNhNGI4UGhWeDVYaTNaUmtYZ2hXNjkyRmFGZHc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-10T03:15:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin",
+    "PNC"
    ]
   },
   {
@@ -692,6 +1358,18 @@
    ]
   },
   {
+   "title": "Bitcoin Trades Fed Rate Path, Faces $80K Ceiling: CoinShares",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTNIR3JpSkIzZzJCTjA5T0owYmVVdzNrRmNlaHNSTlJDTnFwbmNyM0o3ZEoyNm9sUmxyVVhJWGIwc1FGNTNBRHhJRjNtNDVNOTBGMFRkRUhxYVNBYWJQNi1BSXNTZFJOWngxeFliRDZ4UWlLd3A5TXUtLTdLaHNPcVhSNl8xc0MwV2pTRlNldVAxVlAwcHZnYWZjWjZUVnpfd056bWF3d1Q?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-10T02:43:17+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
    "title": "Strategy (MSTR) Is Building A Global Bitcoin Bank",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1RNUlIxSmp3MDJJbzUxMTdqTFBUQksyT0FBRjJTaHZjWk5IV04tYVlwbm5mZ21jTEY1NFJtTTI4bEFLUWstdER4eGJFbjBKS1MwRzdwMllhR0QtWktRa0pmd2R5T0dpYlYwRWkyRnBkZ3o0OW81ZWNyLVJyVXY5UldTRE1lYUkzNnFJbEF3dUFLTFNpWHBiQjlHaDYySU9iYTNINA?oc=5",
    "source": "Yahoo Finance",
@@ -701,6 +1379,18 @@
    "topics": [
     "Bitcoin",
     "Strategy"
+   ]
+  },
+  {
+   "title": "Bitcoin Rebounds Above $91K Ahead of Fed Decision and Jobs Report",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXFCbktmRm9pTnc5VDZPUkhQbjdaMEIyRXV6VW14RFNQOWl4OEpLc2VMd0NiMW1MV1RiaVYyTU8wUGIyYjMyV0VXbVVnRkxzY2l2VVR1LU1fRjBIV0xrV1RjdzltdzZCbkw4WTVMNGU3UkNQWUYwaWk4VVpUTm5zQnZMZjdONTF2TjlCQ0VrN2FueU5hR2hWdDB3LWFiNEFEcklBbUdObkxQZDdJenBmdnBB?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-10T02:42:27+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
    ]
   },
   {
@@ -728,29 +1418,6 @@
    ]
   },
   {
-   "title": "HIVE Digital Mines 49% More Bitcoin but Posts $78.7M Quarterly Loss",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVmFSZkZZeml2Y0xGek1jWloxSW9xclJnSDVmTmc5YzRTTG9aNmRzc1ViQnlZNm9jTG5VNkg4dVU2WHRKZUd6Q1YzakZ3Y1RkVUw0b2NiRlZuYkswS01FQmt0QndPTk5HZXFEUnhxQTc2d3RBNTRhLVRWcGNaamJQOFdzUEpaeURwNWpWZW5iZzcxZjB4UkE?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-10T02:05:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "PNC launches USDC payments for corporate clients",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczdVWGtBakZqQjhFMjRGSDN5M2lzNGpFVGI5cWR2VW9WZzJaZW1wNXpQd0wwZnE4MmthRzdjTWpvQkxBTkZtcWU3Q1VkNDRvZkV0Z2RRX0NoOGdESFQ4eGtXcGE1TXRIVXlWMVBwMjlqV1FmNmdvczhjd3NKRFVMUFVHckY?oc=5",
-   "source": "grafa.com",
-   "type": "news",
-   "published": "2026-11-10T02:03:45+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Stablecoin",
-    "PNC"
-   ]
-  },
-  {
    "title": "Securitize Lists on NYSE and Tokenizes Its Own Stock on Day 1",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjh6RFhzVnp4TjZaZmFaSFRCdDFQNlJEdDQwTFVkdjVMa0lVYUVIbV9fTnBrb3E1VFZLOHctWXJfdmFkS3hFMGNwTFUwaE15eElmQy0wejJfOG12cEcwX1V4LXNBNTRaSE5LSFE2M0NpeUlqRmZ5RWNMaWtPa21vZ3RzVDRaX25nVGVvWExVUE9IRjVm?oc=5",
    "source": "CoinMarketCap",
@@ -773,37 +1440,13 @@
    ]
   },
   {
-   "title": "Vitalik Buterin Sued in Ethereum \u2018Suicide Pledge' Row",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OQ3hkUTlhX3prZ25YM3FVVE9MUHhKSFcwam1fUTNQRlFlRkZUekllRWJuWXBjMXNDMTRncGRTRV9hb2t2aTNlUjhrR0pOMTNwdjQtTmFzOXlRbDZtR05DUXBydjVqY3N6OTlQcV8xWG1CS0JVX2lRcWctSQ?oc=5",
-   "source": "BeInCrypto",
+   "title": "MARA Q3 Earnings Call Highlights",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMV9GRGs1THh4bThUQkUtdFVJVUZXWjFCVnUyaHJBc19jVW1icmNFWE9WZnk5MDhPLVFsWjBRTEFfY3F3NGsyMVEwSTE0bTZKVWlLMnB6b3gtelVjV3F6dU5vRThRcGs2TVg0YkFjZGlndHpmanh1d2lGNGZoTnJ4aFNWSnU2Z05Ka2pzYkJoNTAwaFlOak9oNDFubWg2QQ?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-11-10T01:57:37+00:00",
+   "published": "2026-11-10T01:32:20+00:00",
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "PNC USDC Pilot Reshapes Crypto Treasury Management",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYaXFtWk5GRExXM3VJaWJCRk5xUFpYajhqNjRmN0hQV1I3NExjcUE5SjQ1aGR4NXVuc2NzenVvSVE1VmZBOTVIMnc4OWlBMFZCRWVzQW8yZVRLaFF5ekNKSHBUN20xUUtzaVBqRTJ6QlVGNEY0TC0xbg?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-11-10T01:51:06+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Stablecoin",
-    "PNC"
-   ]
-  },
-  {
-   "title": "Twenty One Capital Is Now No. 2 BTC Treasury After MARA Sale",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSk5FV01PY24tUXBKVHZScGN0d1czNU1wTUdpRjQxM2tDWE1sZkpjRG1pQ2Y3SC0yS0lJUVppZ2w3aDlRaklNblZiN0dWZmNXT0ZsOWZLbFE3cm9HZDYzekpJaHVDZkVwMXFHWTZVeDhqZlMyWC02M3NqcU1mY0w3M1d5UHgyVmlFVVVsbjBiaFg1Q01ZR1N5bmNHLTFvQkJRejlr?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-10T01:43:39+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin",
     "MARA"
    ]
   },
@@ -819,18 +1462,6 @@
    ]
   },
   {
-   "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDZDU1F2RFRlZE50YTMzdUVtaU5QckpCeERRcDFHX1RRSWlaM3BqRU1UNnc5QmtuaVlsUzZpQzVpTFRHTHF6d1cwMm9RSldmZzVqa29BWUdINXhpSFlocERBcDFoRXVFSWpjM3habEc4YUI1MVJNMS1NOW10eTJQMURmb0xRdnR0YVRtZg?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-10T01:26:19+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin",
-    "MARA"
-   ]
-  },
-  {
    "title": "NVIDIA's Cryptocurrency Connections: From Mining to AI and Market Responses",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQy1KS3hFQ2NMNlEwcjJfUDJOY2FwLXJmUHBRM2FzNzV3ZlFkellXZURzb2NHVUFaM2ltR1pJc0RMSmlHYW9QekROZjVyNDJiV1pET0t3bVRERDhla3I1NWtOZ1V3MDVQUEhzdjBtcW1uaGFxdHkyUlNzSXR6THNyX1pwaDVYazBSdkxrb1FfYjFMMWNvT2NRYw?oc=5",
    "source": "KuCoin",
@@ -842,17 +1473,6 @@
    ]
   },
   {
-   "title": "MARA Q3 Earnings Call Highlights",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMV9GRGs1THh4bThUQkUtdFVJVUZXWjFCVnUyaHJBc19jVW1icmNFWE9WZnk5MDhPLVFsWjBRTEFfY3F3NGsyMVEwSTE0bTZKVWlLMnB6b3gtelVjV3F6dU5vRThRcGs2TVg0YkFjZGlndHpmanh1d2lGNGZoTnJ4aFNWSnU2Z05Ka2pzYkJoNTAwaFlOak9oNDFubWg2QQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-10T01:14:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "MARA"
-   ]
-  },
-  {
    "title": "Schroders Emerging-Market Bond Strategy Moves Onto Solana Through Centrifuge",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3VmSjhXeGFtb29MT1cxU1lXSEVYTmNuR0Rtd3BrSXZiemxCUmthSFMycDVDSWNka0ZWdnpkVUpGcE9DX0ZPVnd4aHBnRjAtVFdQN254N05xdGxYUzRVbWFxSGFPNWU1alYtSEFsc054Q29jLUZMUnlVczA0RFNuazR5OEo2RUEzZHZjR0hhMmxNZ0ZWMUVsQkcycU5jSVQxbkI2Y0Q2Si0zRW5oY0Qtc09EWnV4eTBoSDN3MVhzTk1HVGpXWGhZZzVmYXl2SzA?oc=5",
    "source": "TradingView",
@@ -861,6 +1481,18 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Strategy"
+   ]
+  },
+  {
+   "title": "Polymarket Odds Today: Fed Hike, Bitcoin $70K, Bills",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNlRSRlpiTHdJYmVWdjVGaHhfdkJZRUJhN1p4NFNJRTNWVHRZaXNEUTB4NHZyLTJSLUhuY2lTbl8yeUZDaDc2aDZtNG93Sm9PTW1nRzRReVdJcURNOElCXzJrWV9ULTZ0bDZZa0IxQWhiRDJJcVpuWGJSR3QxQ2dwMHN0dng0dUV6VURFU3B4dU9sRW5Ea2hTVUJpOGg1NzE3QXJEZTlQeVJRYW8?oc=5",
+   "source": "RG.org",
+   "type": "news",
+   "published": "2026-11-10T00:56:25+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Fed"
    ]
   },
   {
@@ -921,6 +1553,18 @@
    ]
   },
   {
+   "title": "Fed Proposes Capital, Redemption Rules for Stablecoins",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHVzMmprY1FxaWJLWVZ3N1VnenZ3WnM2bUhsLS1UWjZwdENlZE42cU4zeTA1Mm9TUTVxNXUwSGdUV1dTZEJLa09aUkI4UWM0Z1E0c1FaR0pybmxTcEhOeGdQTE5McTA2dDhIcGdldHd6aVJTdTZ0d1dLRjhLS2UxUVBXemNVdUdwVEhEcFJoLVJVYjY3ek43SE9Eaw?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-10T00:26:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Stablecoin",
+    "Fed"
+   ]
+  },
+  {
    "title": "Solana weighs cutting feature exploited in $270m DeFi hack",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXhWR2pDZmlzUEx4aFlpbFZjQ0JLNnQxM3ZIOWpsanh2SDN3X00ybm54MTRlVWdkMmM3THU0WjczVm1ybG5CSTdhWXZnY2UtbXRxbXdwcllDZ21XWEhDUlRmNWNGMlYwVDJkZDFIVlp6bS1ubm9YRmk4VFpiRXRGQU5JU0phVmlTdDdpajIzTQ?oc=5",
    "source": "Tech in Asia",
@@ -929,19 +1573,6 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "PNC-Coinbase USDC Pilot: A Crypto Treasury Management Shift",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWJmc3RJb3NYVFNrR29fRmJMdGg3WjZCY1JKTWs0VkwyS1djUlNBTHp2N0VaUmRUNHZyczRUZndMX21NV2hsdm5WTXQ4M1hpS0dKTmx2SlhpS1lXYjZodHNwX3I4dE1Gbm50YWxEUlp0RHcyY29ieXJOcnBZODdwZ3p3S3A?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-11-10T00:11:05+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Stablecoin",
-    "PNC",
-    "Coinbase"
    ]
   },
   {
@@ -957,17 +1588,6 @@
    ]
   },
   {
-   "title": "Sui: Samsung Wallet adds USDC support - Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkFyRks1amRaVW1iNFp2dTlqcHd6WHhLdGtiWnB0Z0ZJdFdteWhaNUR0aFNCYnNEU1hLa1FSRlhmVEFLVDFwckxxUUZ2dncyNnVuV3hOTGtXWFNNZHlJMzBkYzdfbDc1cmtlOXpPSHNxcmM4SkdxMXgxc0pocUpJVmZkRzZ0YmE4al9zWmJZc2tfRTRrZl94cGlNdUs0YjcySUFUOFJMRUlYcXdDbEE?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-10T00:01:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Ondo Claims $4B in Tokenized Assets as RWA Market Gains Institutional Depth",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcEhyVFplbVpsRENYQTlkR0lfcG8xYlJOZFRCbXVFdUVBdXdFcXdtOTY3aklxVnpCUUxBYXpsem93aS1qUWVYLVR2elctSVlDeTY0VUsyY0l5RVl0c2tucjBVNEx3aTlPMVJsZlJOTXVYTGdwZ2FuR1pjLWtaYlNMNXhIRFRqbGVGZDJGSEY3RXJncXUyYzhFRENKY1cyOU1ReHlkSl92elhUSWtrV1A2SEstVXVhbjlsOE1pZ0pfcVR2VHBWX2p0OVZwaEU?oc=5",
    "source": "TradingView",
@@ -976,18 +1596,6 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "[MARA Holdings Q3 2026 Earnings Call] MARA Posts $632M Net Income Despite 35% Revenue Drop, Unveils $500M Buyback and $1.1B Bitcoin Sale to Slash Debt 37%",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fbklWc25NWGFYTDBETlIyOUpmcjlPZ19KQXd6Z3NQMWpXc05hVlRpR2tFSTNrUzVkQlhyM0NqS0d5RkFscTFTX1B6SUQ1Z0V2Q2RqOW1Rc0lla2FKVnc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-09T23:58:55+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin",
-    "MARA"
    ]
   },
   {
@@ -1023,19 +1631,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Securitize To Acquire River One, Connecting Stablecoin Capital To The $6 Trillion Asset-Backed Finance Market",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSzRBdGxjU0g1QmJnR0FfRVlUVWpZUkZFRnZhZGRIMUhjM2VPQTNsbnZTTEZJa2xHd01wWkNNSmpUeXJiRkNTSzgzSE9RMmlkN3dNdnRuUVBjQVEtbEFCYlhsM0E4NU94RWxaVzg5V3hsTVNQLXRIajdQMXBFeFdLY3NXdVJERF9XMm1FR0diRUtVZ0l0Z3R5OGhDbUhRLUFTMm9JRzJQNUV1dS1FSURMcUlZOGdaTUc1MHRmZHI4N2xXZzFLbU05enBiVmlYeEZpNGJIMXczQ2FZV0EzalZyemltLXZFMjgzZm90ckNyRExBMkJpNTc4eWtfYVIwcHFzZzVybkEyQjQ?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-09T23:25:15+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Stablecoin"
+    "PNC"
    ]
   },
   {
@@ -1073,14 +1669,26 @@
    ]
   },
   {
-   "title": "DeFi Development adds 8,881 SOL to treasury holdings By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcUlLaG5SdFBHaS1OUmVCMXRJSWVwZEE4cGw1T1R1M3ZsZV9UU2RMV01wdmdXNFpfSF9wUmRoeHdrZGZQdl9IWnVmd1E2TnpPcmlRcUFFWldXVjZGUXVHeVhfWG9NaVphak14RU1ndU5QdWVNN3B3bHJzU1dMQTVuX0tJd3JPWVJGeTVHaHlKdWVISUh2ZXF2d1JlWnhrYm5Ta0pXbzRhclo5TVY4V0lLeklR?oc=5",
-   "source": "Investing.com India",
+   "title": "Tom Lee Sees 'Very Strong' September Market Rally If Fed Holds Rates \u2013 Says Bitcoin\u2019s \u2018First Leg Up\u2019 Has Begun",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeEpBd0lZSjBlRFhLTHAxa3F0aS1rX3FIVUtxNUlBTUdhcll4SnY3eWp3U3JsYk1nZVU4R0MwbEV6cnB1QWJ4VU5ORnc1YnJQdmUweTJvZWZKd2hOcm9zaFBJUFQ1dXlSNUdHRTZ4dnZGMXNhbEV6UGllUUtIc3o4OUNua3V1ZUtrczFsU2NzeW1fTGMzd2VFdE1RaThvdktjQXlScS00cElNSlR4NWVYNFFBS0RZOWNaQldoR1o0S2k3Nk9WbmxoSw?oc=5",
+   "source": "Stocktwits",
    "type": "news",
-   "published": "2026-11-09T23:08:09+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-09T23:11:16+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "DEFI"
+    "Bitcoin",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Tokenized RWA Yields Will Dominate the Next Crypto Downturn",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkNJaG9xdi1TYUdJLTFEdVBQbmRJWUpfYmwxN2dxNUlMdDFsdG1SLVFpUnRuZ0ltamh0MkMwTjUxYnhUeXZGal90OGZ2bFRvbUxWWWZ4aXUycVoyTGd6bzJoUVVpNTM1dkV1V1NvZ19GaklIUURhZk9ZOFhFTXlyWWUwX3N5VW1Jb3NQSjl3SmJKWVlLVjBB?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-09T23:08:40+00:00",
+   "first_seen": "2026-11-04T07:01:43.732118+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -1092,8 +1700,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -1121,17 +1728,6 @@
    ]
   },
   {
-   "title": "Miami-Dade Tax Collector now accepts Bitcoin for property tax payments",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLW0xNzhlWDVWdk1PaVRPR1lIb2N2VENGMVNxQWlpSkh3T1ZhVWpQTkRySWMySTMyOVJIb01zb2RoR3NNUFZESWdZRGJnQXg0cHVDZG5Kc2NDUzNCWHZVblFwVVRCVk42ZWowQ1lWaFBtQWo0OG1HSUFuWnM0RTkxY2VqSWNPanUzV25DcDh4Vld1M3BDb3hkVkE0aGFiX2FDcVVlY0dMd0pvOXZZNVI5QTctSEdyd0pIWHc?oc=5",
-   "source": "News4JAX",
-   "type": "news",
-   "published": "2026-11-09T22:45:12+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "NYSE taps Avalanche for clearing and settlement of tokenized securities",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzkyMlVNR2dQRF9FMTZkTkVQZ3RJN2s2UW40SGZvZFJFTW8xNEtMa0dRb1FxYnEwTFRJWVBoUG1aWGlTX1BBSFVPcEFYd2R6NGs0SUFqMWJ4dlpfWE1tdS13cUtvRlR4aU9wWHQ4SDRYZ0lobC00TlNIWjFwOFo1YVM4V0x0Sjd2RWw3MzcwdDFNZGxiUHN2NFoxUlpkeEhGZkdiWHRKdXNSdkdYRmM2Q2JQbEQ2NE9XOUxmUWtSOUZwMThXYTVoSEVSMA?oc=5",
    "source": "FXStreet",
@@ -1152,8 +1748,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -1166,18 +1761,6 @@
    "topics": [
     "Ethereum",
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "MARA Q3 profit jumps on Bitcoin gains as revenue falls",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3FaUEtmV1JtaU9kMkRHaXVRd2Z4STZiSkVXX193ZGZWZWRMZmJvblRMZ1JjVnJiSFpCeGRoWGRPVktBWnZfY1NUeGtLMExCSEFUUU9WWXFnXzZlcHlEbUtTVk9YMTlJU3BtQnVJdzd1NV9vUVdxaXNUamJ4czJzZnZJbmhoeUVYQXRBUlVGNHBpYjlyX2pyNV96TlE5cmNSVGc?oc=5",
-   "source": "Disruption Banking",
-   "type": "news",
-   "published": "2026-11-09T22:15:02+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin",
-    "MARA"
    ]
   },
   {
@@ -1215,48 +1798,14 @@
    ]
   },
   {
-   "title": "Nvidia Falls 4.3% as S&P 500 Rises 2.3% in Rare Divergence Last Seen 17 Years Ago",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16LW1vMkdPaWFCZEZ1TW9FS1hNYkJ6X29WZ2NGdXhWblhnU2psenIzWEJmUWtTQXJhYURHUTJscThBM2hfSWFSLUZaR1JNYjZNaXBEdw?oc=5",
-   "source": "bloomingbit",
+   "title": "Nvidia And Jensen Huang Class Action Certified Over $1 Billion Crypto Mining Revenue",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVZXWDAtSGYzSXdOMmVfRXRNbWUwUUtNajdoMW9sOWg5cTg1THczdFQydEFtOTVqaXMydVFISHBNTUltd3J1SnppdkQtRlhZS1JsTmlLbEx6dDg4bFpmTUlFUkxJbDFVajhlZGtJeEozQU9ydTZER1pxZ3J4dVUxaGpHSFZTV0w4MkdQWGVvMVp6ZEZZOVZuaWlEY3lnTTY3XzE3WnpXeXhfejl6QW5YRDE0YTg2amUzSU9TaGRNODA?oc=5",
+   "source": "OneBullEx",
    "type": "news",
-   "published": "2026-11-09T22:04:49+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-09T22:03:31+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
     "Nvidia"
-   ]
-  },
-  {
-   "title": "MARA Holdings Q3 2026: Bitcoin Paper Gain Masks a Revenue Slide",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkNXODlxOHlYZGF5UHFYV3lQUlc3SWNzSlZNRXRjQjF2RHVfcEJNYnVoWWl4OGdJS1hXWnJKbE11bVlZTkl5eV9VaFRySGhmOWlzREctUUdzUXBQRTBfcHVMcVJDX2VMTVg3c0t6LVZfenNtU054dW9WLWdsQ3VYWXZqalV1Uld3?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-11-09T22:01:27+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin",
-    "MARA"
-   ]
-  },
-  {
-   "title": "Watch S&P 500 Erases Midterm Losses, Bitcoin Bounce",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94NlRCWW9OSGFMcGVaM1F6SGxoYmNHTWRRUmg5N3VHRXRabVZWdk55NkpTWFp0b0dOUEFOUlpEbkhhaTA0anJ4dG8yTTdGTnp6QnFLeHZGMGNsSXNLX1BXQkpoTm5VN3NDTEhSTjU1TjRKRG1WTTBJYzMwaw?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-11-09T22:00:36+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "CryptoFest 2026 Returns to Cape Town as Security, Stablecoins and Institutional Demand Take Centre Stage",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdXNHdWVjUFR1aFhYNEFJc3lzRU1jY1lmSUVBWE5ZbVh2VmoxcC1LODlWN1dNTjJPMkUzYmt3NWNwT3NWVU55bmhTU0NidkJPdUxLR0lUWGMzU1Q0ajc2bGp0bWhHYzc0LUVzNGtEbDBQa3laMXFsYU04UmFUOXR4Y01INW15Q1pPUy1fWlBIdUlpbUVHUmRIQUhiNVdmaWVaUzV6NjRORE5wYzg5TWYtT3RkTVFxeTRUcjNieVZpT0htcGRvc0E?oc=5",
-   "source": "FF News",
-   "type": "news",
-   "published": "2026-11-09T22:00:35+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1268,17 +1817,6 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Bitcoin",
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
-   "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "type": "news",
-   "published": "2026-11-09T21:55:00+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
     "Nvidia"
    ]
   },
@@ -1295,25 +1833,15 @@
    ]
   },
   {
-   "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-   "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDZDU1F2RFRlZE50YTMzdUVtaU5QckpCeERRcDFHX1RRSWlaM3BqRU1UNnc5QmtuaVlsUzZpQzVpTFRHTHF6d1cwMm9RSldmZzVqa29BWUdINXhpSFlocERBcDFoRXVFSWpjM3habEc4YUI1MVJNMS1NOW10eTJQMURmb0xRdnR0YVRtZg?oc=5",
+   "source": "The Defiant",
    "type": "news",
-   "published": "2026-11-09T21:43:00+00:00",
+   "published": "2026-11-09T21:26:15+00:00",
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "Public Keys at NYSE | Video Playlist",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZjROVTlDQ05sMmZ2SnI5LVhPOVRYZGdVajNqVmZNY3RSLXFmY2FseldXYVN0M1YwTnR6Y2lnR2NvSXJZdW5fLUNNRHFfS1dFMjlTS25RRFN4NnJEWU1KaQ?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-09T21:31:20+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Avalanche"
+    "Bitcoin",
+    "MARA"
    ]
   },
   {
@@ -1339,73 +1867,6 @@
     "Bitcoin",
     "MARA",
     "Strategy"
-   ]
-  },
-  {
-   "title": "Elon Musk Confirms \u2018Global Bankruptcy\u2019 Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
-   "source": "Forbes",
-   "type": "news",
-   "published": "2026-11-09T21:18:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Xsolla Gas Price, XLA Price, Live Charts, and Marketcap - Coinbase Portugal",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ3gyM2RFeFFXQUxzSFg4TlNlZktvNENRT2p1VkRuQzhNQl9ZdWtOZGtOQnNtWUVNLWFwUElNUGdIZ0lob3k5Umw4bkVSUE1IbG82ck1hczZUV2h5SDN4YkhLOUxkVXFQT2Z4WGd1cWZzTWlpOEdWVTExMjlxWTJuU3JFZHFCX1RsT3lTSzFGUW5Wa1AtNU0xV05Ec2lQS0RP?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-11-09T21:14:41+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "About Kinder Morgan (Stove Tokenized Stock)",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MQVFkRUs2LVRmUGZ6cjBHR3F3c3c3WlZTMTRBNThtRm9nRVVZMVRmYVhkTWo0RmNXdXFaTmVIbGo5SDdLejZCZWw4MEJaVU5mOFVwM1FvZXJ6YzQ3U19DRkZGYlotT1BIWkJZWlJDalZxbVhjTGtKcE85WHQ?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-11-09T21:14:41+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Dell Technologies aStock Price, ADELL Price, Live Charts, and Marketcap - Coinbase Portugal",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUpza01NckNvOU9icHBONExvZlUtT1JyM2s1ekRtYmtzUUJ4dWNUaWZ1Nm9OMUJ0MlJOSDFFYnpuR3hSVkhwM1FxdERxT0xLNnVYRFhUOG5iM2NQQXRwbEMxTk1ON1F2N1VTTDdHTjZhSmdsdkZ1OVl3NEZLTFg3Q2Nta1pOc0RvQW1uMzQxaF9oMk1LeWRoSFh2RnFBNnhSeGRraGh4ZjBkZWRZTVE?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-11-09T21:14:41+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "EQX Tokenized NVDA Price, EQNVDA Price, Live Charts, and Marketcap - Coinbase Netherlands",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWtPYk9YMTRtUGlfRHp6S2k4N2NWVWYzY3U1Q3p2TWNWNFE1VVRfWFZDREdNZmtIQTUxRHkya0NUcHYyUEZIODdvb0JXMHZrOUNGb1FENUc2WjVXMF84a0FKTDdOZExsMFNXRXVwR3Vua0JZUC1JVWoyTlhaUmxpVDF0MTl5RVNoZVRCOS1nazZGU0RlMnk1dzVUc0pBUG51X2l0RWg2Z1NiY0RnRHVJ?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-11-09T21:06:37+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "RWA",
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Curtiss-Wright xStock Price, CWX Price, Live Charts, and Marketcap - Coinbase Netherlands",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYThvdndMb1IzWVlDSUVmeW9YMXJLMmhyVUJTTDFNNTctQ2kxbFRDR0xoR3BObTd4bF9SUVJKOFBhamF3RnFKZEItTjVSQ1pfMHVzSUlHSGdqLU1ieWFCSXAxOG45anlUVzBtRDZEMmo5YVdjd2tPQnNGTnBNMV9ud3hHTC1YUER0VFMzbENUb1JsVHlLRXMwN3V0djBkNk43N3JvUFNyN0VhZjNF?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-11-09T21:06:37+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
    ]
   },
   {
@@ -1440,17 +1901,6 @@
    "topics": [
     "Ethereum",
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Coinbase vs. SoFi: The Recent Market Sell-Off Exposes Two Very Different Fintech Risks for 2027",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSmRWN3dELUVhSTc5b2dHSnNvR1M2aVl6S0V1QTNjQTBud3ljR3VwRGJyX1Rkb3pDSnlaM2JmcmwzeS11V1ZJUGdjcnNNSktySHYwS2JtazdnUTJoNHo3T3RfQ2dHekJaaXFja2dPRG5tNHVQeHVLMlg1ZzBhR3p0TlEzclRxekNQNHdmLXUtQVZodFh1UlRVb2VGUQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-09T20:50:02+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
    ]
   },
   {
@@ -1533,30 +1983,6 @@
    ]
   },
   {
-   "title": "PNC Bank pilots USDC payments for corporate cli...",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWJCLUhZbEtXZl9id0hZUDJWWTlNM1ptYzRsLUlEaXctcWZFa1pwQXl2dVlxOENLMWl5QjlRSFpJRnh3Q1VOVHpNNEtYOVlpcWU0QkFSZ2pPN2dWNlo2ekVlaWdQNlBNVHV5Q3J1SkMzZF9oaHYzbjRjNEJraFN2MEtFa1QtUEZqMnhnbnpwdDhkTzVVRUcyNFVKSWJCdEQyOTFnRjVhcUxBWE9CcHRhNzdB?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-09T19:24:50+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Stablecoin",
-    "PNC",
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Schwab Crypto Adds Solana, Avalanche and Chainlink, Expanding Offering to Five Assets",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXp4VERwZ1FLa1VnS2h2Z2FFVDBJNXhaMy1WS21LUExMbFROdjEySGw0NjRXQ3JKYXZiQlljU2dTb3U1dHRJdkVCUi0xZmZoWW1Uc0Z1by03SzVmQklGeHhIRkFZdlVrdkU2RDF0d3dWYW5EZWtTaVk2OURGN2NDdmNRQ0RYLUNxZU9Tenl5SVloS2V1UGFvcjFjN0ZIOC1YX2gxQVdCOEZlTmFZV3p2dUM3WDcyTHNQZkV2Y3Nzdw?oc=5",
-   "source": "Finance Magnates",
-   "type": "news",
-   "published": "2026-11-09T19:14:34+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Avalanche"
-   ]
-  },
-  {
    "title": "PNC Lets Corporate Clients Receive USDC Payments via Coinbase in Pilot",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGlYU3owdTlYSjdLMmtXVlc3WnBXZ0ZBQS1VUjB1ZE14dHd2MnNCZnFaeEFFM1RYajJwRDYwOUFTSlE3Y3Mxa3phS280UHBBLS00UGIyVE1uY2FQMGNGRllWTFN3dWtDRVFhRUhXQV83M0lVTjhydWJfaFFxLWRLOGxYZnBZN2pWOXprR0VEQQ?oc=5",
    "source": "CoinMarketCap",
@@ -1565,8 +1991,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -1600,8 +2025,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -1613,7 +2037,8 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "DEFI"
+    "DEFI",
+    "Fed"
    ]
   },
   {
@@ -1625,20 +2050,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Bitcoin Falls Below $75,000, Drags Ethereum, XRP, Dogecoin 5% Lower",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2txR3l1QVpPLUFKMUlIU3ZLN2pnOEpWM1oycWIwUXJZYWdteTh1SnFfWi1YSnNfVHJIT0dqZEtVRnV5cXA5TXhLRU5jYU1ZWnJjTEd0aHpvUV9TM3lsR3M5ZHl6cnM4MWxrV1pzajh5ZXpTenVmbTB6RktyenVIbERUUmtKR2xsdnNCNHFhQmprY0lKUGRtc1B0NzVrVUdpMFJ2dGxSS3RJN3UxUUo5SHdlNlVKa0tGZlFOcEEwOFM?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-11-09T18:53:29+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
+    "PNC"
    ]
   },
   {
@@ -1683,17 +2095,6 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Ethereum"
-   ]
-  },
-  {
-   "title": "Coinbase Gets Approval to Operate as a Nationally Chartered Trust Bank",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVVPRlNGZjBYOVloelVxUWRieG9xSE51dHhnV3dzcVNTdlMxelk0WGd2WGZvWklnWkxPSVg2cDNWaWpzeDRYZWpHczRWemZaQVRaVkgyN0ZlV3F1NHdreUVnbTFSYXVoTU5HdU1vTUlsVU10dWFpNGxlMml2TW9aUDYteXBnN2xBRmtnYVRJS3FGaXlhVl9aV3BIeENPcEhLNWU0bzlR0gGrAUFVX3lxTFBrMXZnV05YSUJ6b0owbmRLOU9xeDRPNXFoX1ZVSVZpSDRrMjI5Tngwc1BPTWQ3cXR6T2duaXVWS2N3cHJEampHUW9aXzA1Nll6U09lRVdSalQ2eXZjd1BPcVlHUGtYenRrU0swbkxqTTJ1RVBDQUZzU2VOeTZMWG12bFh6bkJKcjZWb0h1U0hzWHB1WVhtUG1iMUwxMjQyOXZZaTl3WGpERXhsQQ?oc=5",
-   "source": "PaymentsJournal",
-   "type": "news",
-   "published": "2026-11-09T18:26:14+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
    ]
   },
   {
@@ -1743,17 +2144,6 @@
    ]
   },
   {
-   "title": "Stablecoin Adoption at the Periphery: Why Local Appeal Has Yet to Reshape Global Finance",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FRXpHbjRwWHI0XzRQWnI0eHBnZGN1R0hyVVpKRGh5V05iX0o5dmkwOWRrRkFabkRSZWN0ajBCcDVGc04xN1pnRFAyWXRiRWI5T0hBTDIxakpRQQ?oc=5",
-   "source": "https://economy.ac/",
-   "type": "news",
-   "published": "2026-11-09T17:59:44+00:00",
-   "first_seen": "2026-11-08T07:00:05.518244+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Strategy Adds 1,036 Bitcoin for $82M, Setting a New Holdings Record",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHpyWEJ4ZkVWcW5BZ0Nzd2N0ZWJKbEhxR01fSXRZc0wyU2JRXzZPUU45Skoyb0k4MnU0R01udXBVclBOQnpPemc5LWkwYWVGZ3VqczJTSll2c01GcVZjZ0FSU2FIRFFTVG1hOWpPZVYyVndLZUdfSjQ5cFV2blBRd2V0M0lwTWFDbXo2T3ZDZHpOSHcyQnBOSEo3c2MzMEYweW53azlGSnN1RW80Y2c?oc=5",
    "source": "Bitcoin Foundation",
@@ -1786,8 +2176,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -1814,28 +2203,6 @@
    ]
   },
   {
-   "title": "Bitcoin holds near $75,000 after tech stock rout, altcoins suffer steeper losses",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1JkcDV0dTNRVXBPMUdTTjZhaVA1a2FNMTlCQnZ6Z1EwSjAyLWxjSk1zZVVOdWJZLVE3X2FUaVNlQUtUaWgtaExiMk5YNk04QzN2bGhpa094SGxEcXZ5NDRfOHc1SlZyS1dCdXV4VXVNWXZuMjVvaEZkbWFhc2RwR1ZFY3hBTXFVV0pSOV9R?oc=5",
-   "source": "Fortune",
-   "type": "news",
-   "published": "2026-11-09T17:43:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Coinbase secures unconditional trust charter",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlZsS1dXLURUYnE4bW5zaEhWNG5yZzhFZk5JaTJURDJWZDNlMURSQUh3R09KYVhmQXRKMXNtZ1JnVFdmejJ3eTlEQTRyVHYwWTlDZ2FBelJhOUY0dnBaVlI0eGppS2hhaXNkV2Q2NUMwcGFVajQtV2pIRkFqekNxWEhCOXRnTUxzb2QxUjZn?oc=5",
-   "source": "Banking Dive",
-   "type": "news",
-   "published": "2026-11-09T17:41:25+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
    "title": "Avalanche\u2019s AVAX leads crypto gains following NYSE tokenization deal",
    "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -1845,53 +2212,6 @@
    "topics": [
     "RWA",
     "Avalanche"
-   ]
-  },
-  {
-   "title": "Letronna Price, LETRO Price, Live Charts, and Marketcap - Coinbase Germany",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcXQ5cnVKazY4QUhpWDEzV2RhSlR0ZnRDNVp1dVllT21Bdy1oWTZ5ckNOQl96UkdqdkdEYW51STFTbkk0U0RKSHhURE80TWk4elZyZzJfRGhMYjdibnVpNnZjNU9fRzc5Ukh0S2xtNVZFT0dqN1RydFhrckV1ZTVFaFBLaF9KU2ZDelR6THQ0d1dPMEZQSjF0b0E0ZC1JcDA?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-11-09T17:39:34+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "uniQure xStock Price, QUREX Price, Live Charts, and Marketcap - Coinbase Germany",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGN1czhxdkViQUdnVnBJQzFHemsyYXZCNFJIVlFqa20tS0JEQ01LaTBzS3Z5bHdHdmhZWUxrVGFHVC1pQVd1MVB5UnREUkpxV29naUxWVkpSZjRDYnhrNGxrcHpBUnhmY0h0TEJRU3BpVzR0OGlhY0RLRnJqMEFrdXJWM1RtQVBVWnNqRW5pc016UDR3V0VwQk54M1U5aFpxdk5zbGFhTU91Zw?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-11-09T17:39:34+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "NYSE to use Avalanche for clearing and settlement on tokenized securities platform",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0FwREZYRkQzaTZyNXd0bHE0MGVSU2ktN1pzUkdUMjFlY2o2UXFKb0d2VThKMHBCb2dRb1ZHempieUpUT0hqLTVsUldZZnQxaWh0WjlHRGpxZG5VcDVNVHhSUEVEY1hRY2NSRWJJYmhFcEJDd2lqRGwzTWtrWEs2R0NlNDFLU19ZRVE2eXltbVFYamwzZU1BZ3g3TzhuNmhpTkJ0V0tvMFhDQ3Y4NTJGaHJEbkhESzE2azdoMW9QY29sOEkxVk9J?oc=5",
-   "source": "Disruption Banking",
-   "type": "news",
-   "published": "2026-11-09T17:29:28+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "RWA",
-    "Avalanche"
-   ]
-  },
-  {
-   "title": "PNC Bank to support stablecoin payments through Coinbase partnership",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mWk9kMUZOMWVnN1E4S0dQUi1yMF9iLWJvXzR2Z1ZoRDg4YllwcEZNZGxaWDV3WHFvUVhTWkFWREYxVFJYNHJxT2tWT08?oc=5",
-   "source": "CoinNess",
-   "type": "news",
-   "published": "2026-11-09T17:27:42+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Stablecoin",
-    "PNC",
-    "Coinbase"
    ]
   },
   {
@@ -1915,8 +2235,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -1932,25 +2251,15 @@
    ]
   },
   {
-   "title": "Coinbase Gets Final OCC Approval for Federal Trust Bank Charter: how 11 outlets framed it",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnZVZXZqd0lLV1YzT0VMdk5TNjhzNllyMWhucUl4dUt3Q3A2NGVXc2dHMWM5c25Ib1JybzU1ZTBzRzY0UkFMa0ZmbFg3bWJVWDVIQWJyV1AxRzcyazh1alNRUGU4dzJEVFcxTEFITU5LVWh2MW5QZkJKTEJIbmtWaTh6UW90ZnR2R1hrT0tpOERld3huWU4zbUIxWGJKMWFib1B1M2dCRzgzRlk4U2kyWnVaRm1aWUFoMWNLU1NMdzFabENRSjZkN0F1emhNX2o4VFZz?oc=5",
-   "source": "NewsCord",
+   "title": "NYSE Picks Avalanche to Settle Tokenized Stock Trades on Planned 24/7 Venue",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEg1QTBxMmh0dHQ2Q3ZyY01NUnlVbWdCTk1DUU9MM2R1V2NWekd0Z0kwVG9UdTIyOF9MdXhHdlFRM0ExMFdfcE5kU3JxQlJYNnphV2FNQTdxZjdzR21BZzJTVEVwblFvZzloYzlyR1JScnBucDNvX01hY0R1WUZFcThlb2dQVWx4aldyYVFQU2hTZXJDbXZEOUZIa2VwLVVIWGRF?oc=5",
+   "source": "CryptoPotato",
    "type": "news",
-   "published": "2026-11-09T17:21:43+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-09T17:15:00+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Vitalik Buterin Backs an AI Slowdown as AI Tokens Slide 30%: Is the AI Crypto Bubble Popping?",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFlKa0kyWl9HcFNnVk1vdjBjVzZLU3F1bEVrNUdaRkZmbGNpaXdtQnNqeGRwNHNZWHVEWDk0OVVCWmxpODBfVFJwOHNaYjlKS1o3UjRlQ0xYV19ieVR1bEp2ME9jc2tlNGFTMW0tdXFGalZrOGVsOFRoRmtWdlVOeXlBVXRFUWMwcFpvc3NMQlVLZm5JUjlLWnlSdGlQaGM?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-09T17:19:44+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Ethereum"
+    "RWA",
+    "Avalanche"
    ]
   },
   {
@@ -2010,6 +2319,18 @@
    ]
   },
   {
+   "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hRWVmQmpRcXNPVXZIcHdjc0pYeVpRZFZreGh3WFdTQkZDZ1llV1JsS1BFWVpOWGNDWnpWdHJnX2VIZkFUazBobl9KYkNwSTRlUEFpd3EwRXY?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-09T17:05:26+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Nvidia"
+   ]
+  },
+  {
    "title": "PNC, Coinbase Launch Stablecoin Payments Pilot",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXFUTTNtbS1CSlVrcDhiQ1RSdUpKSDRtWl95MWNrdk45X2kzWjVZT2lWRFpfMzJJTDBNNzc3RXUyLXJHWGJDLUNCaW5FMUtqdVRmWXI5T0hVYWJYbGt4T1NOS2d6ZW1KbFZqLW9SZk9yMDJCTU1xUUZRR0ZnXzB3TkV6YUxXclk2alBYUU05Zk9FS2tHWEV4d1BHOTBOQUhk?oc=5",
    "source": "Hoodline",
@@ -2018,8 +2339,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -2043,8 +2363,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Bitcoin",
-    "Strategy",
-    "Coinbase"
+    "Strategy"
    ]
   },
   {
@@ -2117,6 +2436,17 @@
    ]
   },
   {
+   "title": "U.S. Treasury, Fed scrap $250 transaction reporting proposal",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWVHcF8xWVFsa1Qyc251RWloNS1IVzdIaDRIalV3UEt6TW9BeFJ2RW8xeUphN2c3cV9qTmh2NTNxcHc5ZGZLSUltb0hwaUJzU3VKWHBhVG0yRWpEenMxb1d5ZXRqQy1lS2stakY1eVpvN2JUR0VaWkI5Y1pVUFB2MHphT1BlZ0JmRVR0V1lpRmNRV3lWaTJ3LVgwenc2QQ?oc=5",
+   "source": "TheStreet",
+   "type": "news",
+   "published": "2026-11-09T16:14:51+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Fed"
+   ]
+  },
+  {
    "title": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
    "url": "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464",
    "source": "The Block",
@@ -2128,6 +2458,18 @@
    ]
   },
   {
+   "title": "Elliott Wave Live: Stocks Sell-Off, NVIDIA in Focus and Bitcoin Testing Support",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjBWZ3llNnU5c3VWWkZ1WUtvTHZOc1JQNnh2amxEUUo2M25uUTNvYk9lSWlJZHk3c180dk9wSUFwTWFUNEFTajhMM0Vwby1RelBXTnZTOTFualJWVGRHZ0NNczdhVzBha1hQbldydnhEUng0bW9oMW1FMnRucHJ0Rm1GY0k2MDQxV0M1Q1V4bTZQd2l4VlBNM214ZjhlSlFWQTFGcEZWazQ0RURHQ1pGMkRaWnh3czRKWm9WX213?oc=5",
+   "source": "Barchart.com",
+   "type": "news",
+   "published": "2026-11-09T16:06:25+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
+   "topics": [
+    "Bitcoin",
+    "Nvidia"
+   ]
+  },
+  {
    "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
    "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
    "source": "The Block",
@@ -2136,19 +2478,7 @@
    "first_seen": "2026-11-09T17:00:05.832642+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Coinbase Gains OCC Trust Bank Charter for Crypto Custody",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnA3YWZyR0pDSFQ5NE1rSW9TOG5wZkdBTEtCbU1OajV3bDZiaE5yUkhNWldUalh1R0EtdVplNEhtUV9ocFdnVVE0cThEcVFJTEJUdm11NG5tWE9tSkQ3c3JvM3oyWUo1NThfeGV3S2h3YVBSN0FfOEJQV0daQ2R3a2piTGtUdFRGcXNRSUduQkZSTU0?oc=5",
-   "source": "FinTech Magazine",
-   "type": "news",
-   "published": "2026-11-09T16:01:06+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -2184,8 +2514,7 @@
    "first_seen": "2026-11-09T17:00:05.832642+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -2220,8 +2549,7 @@
    "first_seen": "2026-11-09T17:00:05.832642+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -2244,8 +2572,7 @@
    "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -2280,8 +2607,7 @@
    "first_seen": "2026-11-09T17:00:05.832642+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -2331,18 +2657,6 @@
    ]
   },
   {
-   "title": "Live News: Nvidia Slides on CEO Allegations as Bitcoin Hovers Just Above Its 200-day Average",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemZJcVdCeHc3enZqa2ZUNjlZeTRTRjdYcDNWME5CTnlVM19TVmlqMnJSZUNRUlpXWkxMN3FVVDlSTWd4S1QyYnJnQzQwLVR0NWtZZEl3RVpQczJOcGpHajNnV1k5UDJFNEQ5VUkyWXZGaDZpVVdWTnBaeFNpNFB2MkxBWUpucDgtR1dUS29vVlhxbXQ2TkxueUktOU1jMDFXbWJhYTh3?oc=5",
-   "source": "\u5bcc\u9014\u725b\u725b",
-   "type": "news",
-   "published": "2026-11-09T14:46:12+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Bitcoin",
-    "Nvidia"
-   ]
-  },
-  {
    "title": "Kraken\u2019s Dave Ripley: \u201cThat Was the Bear Market\u201d and Bitcoin Is \u201cOn Our Way Out of It\u201d",
    "url": "https://bitcoinmagazine.com/videos/krakens-dave-ripley-that-was-the-bear-market-and-bitcoin-is-on-our-way-out-of-it",
    "source": "Bitcoin Magazine",
@@ -2389,17 +2703,6 @@
    ]
   },
   {
-   "title": "DeFi Development Increases SOL Treasury To 2.61 Million",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWczNHh6SjlxSEEzbG5OQ1lQMi00bFFWMUt2MTlzMGozYWxhckVBRTlFeHlELW85WHVsM1UyTW1wSWJUR2RwVkVNek9yUzYwenUtNmRQS2RxejRVN04xUjRRcjdSTmpFTHNUZHVRZGo2d0ZPN1QzbXloa0QyTnREQnVRcnhVQVZjNXNTRFlHTVlGbDFsdGd4LW9jekpNYUZ6VElMb2c0cG5IZzI1bWh1eUkyd21SeFNOTWdKT0VpMGotM0U?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-09T14:25:45+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
    "title": "Strategy Buys 1,036 BTC but Spends More Repurchasing Its Preferred Stock Just Under $100",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlpEZS1kbkF2RE93ZHJ0OE5ISng1bUxjTjRtNDBDc1pZUkIwWnpwclo3b1ZrOElQajZkZnRmcTNlWkFFWmozY1c5N09meGowT1pWeTdkM3lKNTN0Umd6eGMxY0hYcm93MG4zZzk2WUhsd0NSN3VCNWp4bkZ6MWVVUnRreU1aNHRvUW5ZdU5faVJKZG42RHhodjNsOWstX2ZQWjBkRjVsc0UtamF1SnZDN284TlpQZw?oc=5",
    "source": "unchainedcrypto.com",
@@ -2412,14 +2715,14 @@
    ]
   },
   {
-   "title": "Coinbase Wins Full Federal Trust Charter From OCC",
-   "url": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter",
-   "source": "Bitcoin Magazine",
+   "title": "DEFI DEVELOPMENT CORP. INCREASES SOL TREASURY TO 2.61 MILLION",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnpmQzJhYm1QbHdqY2JFQ2RidExRSUdLTGE3NC02VjJQdEREQTdCODhxcUJWMXpNNVhkZ01fVjFRdHotN013TUs0SVVybzR0Ynd0TlctMHZTbzJEVXRvVkU3Zkt5dXQ3ZlNrLTd6N21HY092TlpWUmJYY1ZxN1FKazlmU3Y5VTZGQm1kbnNnYlhocEhydjg4aUVjYU1OQVpKUmpnWG5PeXM?oc=5",
+   "source": "Moomoo",
    "type": "news",
-   "published": "2026-11-09T14:18:31+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
+   "published": "2026-11-09T14:19:21+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "Coinbase"
+    "DEFI"
    ]
   },
   {
@@ -2431,8 +2734,7 @@
    "first_seen": "2026-11-09T17:00:05.832642+00:00",
    "topics": [
     "Stablecoin",
-    "PNC",
-    "Coinbase"
+    "PNC"
    ]
   },
   {
@@ -2470,36 +2772,24 @@
    ]
   },
   {
+   "title": "Bitcoin News: Saylor Hints at New Buy as Strategy Holds 849K BTC",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUtoT3plMzFrMFNjR3MtSW1XV04yY0twYlJNUDZWTHFsY0FCdkNXLVR1UV8yODZaMVhHWkN2QmFLWlF1MlluaU5NVGh2WjQ1MEJHUXpPT1lNc2ZsUk84UXdNTmJnUExSYzNYWWZlU3J2dmhlUUpLMUJPaHdqYjZjcWh1RHBJOVhJZmhGYmlDNzAtRTZXT3dXeVRWcTRqRXRiS3Jv?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-09T14:04:49+00:00",
+   "first_seen": "2026-11-09T17:00:05.832642+00:00",
+   "topics": [
+    "Bitcoin",
+    "Strategy"
+   ]
+  },
+  {
    "title": "Could Blumenthal\u2019s Trump Crypto Probe Shake Bitcoin? Four Firms Face Jan. 4 Deadline",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZFhoaXhYZFZmQXFsRW1jcDFsZDFablI0dkxTSHpMVExSR1JyRUYtMXZzbDBpTXduS255Qlk1ems0NkpsVndHVEs4SUJXZ2JYSVdBdzVBZGdoUGh3M3NKaTZlcjRyM0JIUEtsNlUzdlhEUVNzcjVGNTJ1bm9rS0QxWk5jWEh1LWVhR2xTYldIV1N5SlJ4R2hjX0tZX29NTkcxTHpaZnVJOGVQT2U5UGd1OXg1bnBEN1ZEWm9B?oc=5",
    "source": "CryptoRank",
    "type": "news",
    "published": "2026-11-09T14:02:52+00:00",
    "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "LIVE: Bitcoin, Ether, and XRP crash after Nvidia\u2019s Jensen Huang admitted to affair with Chinese spy",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTk1M1lETUEwTjk5UjB3Ti1TYkFNODJhZkRDcVdlNE12RDZUVlh3aS1wQjFaUElSck80UW90d2hRT1hSNzhIZVNacm50MnI2YkdTLU1mRHNaa1ZTZUc1Ulk5RUdhMFhyNWhxbUtlNzljajlMVEVQUkhlWU1GY29sWWZHUnY2SlpwLXc?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-09T14:02:50+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "BTC news: Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTlEWlYtN1R4VVVtb2w0akhHTW83ZjduQi1najNCQ0M5dDJxZFBaNGZBWGl6cTBndGVvd1BTTnkzQ2gxU0NMOE00a1I1N2dfWk5PNmNUc0Y2TG5GNm5rWk9IeWhidUZBTXI3aGdsZXRpWXYzNzhIMC0zWXRXTFdYVDhpT2FpRG9nYl9GVm4yci1OOE5vODRwNTRFOHRmVnNuNEVrUy1DRFZUUERZWk8yOXlnLUcyMjR0VWZB?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-09T14:01:51+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -2656,19 +2946,6 @@
    ]
   },
   {
-   "title": "Coinbase Users Can Now Borrow USDC Against Tokenized Gold",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWZtaExUVFpwNTM4ejdTYmFPRXJ0MER5OVlydS1rNkhTbTJ6MmJlWEZicnhaa19iTURWeUVkMHZOZHc2SHFlVkJKUWljbl9EWUhab2Zrd3NIcGQ4LTFLTURYZlBJTlp3c0sxQ0lTd2lwY0RPQVVDclFHb1kyQ1A1Z2NjUmMxUHY5Qld4d1BFTGFTRU1Za2hLdTQ4UQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-09T13:06:59+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "Coinbase"
-   ]
-  },
-  {
    "title": "Strategy buys 1,037 Bitcoin, total holdings reach 850,364 BTC",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNazdLdVNmYjlQaU4ta3gtNDN5Q0xRODFVVzhqREswRC01YlhBMGkwWXc0TDdpMlpQNkZOdy1HSzA4VVFCSHVwejRzaXJiMnlmbWs5MWR2Q2s2MUZHX3NyeGZ4ekxlamtFV1BjakxxTXpBdENfWHFKV3UzS05tamE1UUFBRU5qSGtkNURneGtlNG5uZllOaW9IQVRZT2hfLWFxQ3drSXEtWEoydWw1WnU5Nkp1dHd4RWZHenVWY19WTG9XR28?oc=5",
    "source": "TradingView",
@@ -2693,12 +2970,12 @@
    ]
   },
   {
-   "title": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
-   "url": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
-   "source": "The Block",
+   "title": "Is Bitcoin Price Finally Decoupling From Tech Stocks?",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkN0d3pRa3RaWlhQMzE3aE0xSVlaTC03NnZBZmd2VU9ZV1NRZmlPUHV2blo2NnE3MEZIb05zaE5mNHNlb200aU05SFVfMXBJQVR5WmYzT1RuaE1qdzRnM3RvTFkxR1NOV1ZoX29wUldzWXptcldpcmRuY1lLLUJLaS1rZHVlQV9SUGs5UTRUT29JSmtnVkE?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-11-09T13:04:21+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
+   "published": "2026-11-09T13:01:37+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -2738,26 +3015,13 @@
    ]
   },
   {
-   "title": "NYSE to Use Avalanche Blockchain for Tokenized Stock Settlement",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53a0ZFMWFNOUN2TkZEcERYRUJBNTZoUUktamhmVU83aVM2YWZ2QkFfUmJYYnV2S2trTDZKVmZETEFxY09rTGVVaElhVlRaSS1zNG5feA?oc=5",
-   "source": "bloomingbit",
+   "title": "[Robinhood onchain] Nvidia trading value rises 3.6-fold in a day to $22.21 million",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OQUdUeklOMUJWMmY5YlYxTl9uc2dWaWdfM2FOSzdUMmgyUFFQQUlrYUZlOTFxYXh6c0h0YWN2ZG4yc2RtWjlJVThSblFHd2xoY3pfT1lDV1p1dw?oc=5",
+   "source": "www.tokenpost.com",
    "type": "news",
-   "published": "2026-11-09T12:37:52+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
+   "published": "2026-11-09T12:41:18+00:00",
+   "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
-    "RWA",
-    "Avalanche"
-   ]
-  },
-  {
-   "title": "Bitcoin ETFs Post $1.3B Weekly Outflows as BTC Price Drops Then Recovers on Nvidia Developments and Stalled Iran Talks",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVF85SzZVUUZLRlcxNG9BbEp2R0RmMDhMU0hPZng3VldZQVNDa0hJTi1vWFpoYUJFUW9ya2VhX0VsQ2M1YlZpd053aTg1RE41OUhfbzhJNWl0U2JMZnRvX0wwM1l6Q2UyMnY4RGdLMC1IQWw5eFcyQ2hKNjhJODJfTWNUdzAyZFlqcjh2ZVRlazJuQVRLMzZVZk1HOGVjc1NHZ0NOMlZmTTZVUUExTnZyWDJQZGxKbTBVNWk2UGJIMXU2OGhNUUotWnJ1LXIwMk1fZVYwM0R4OTNrSkliYXlrbHdpRzJKb2dUTG95cno0VHZBbnVEVzRlZnp3?oc=5",
-   "source": "Crowdfund Insider",
-   "type": "news",
-   "published": "2026-11-09T12:36:12+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Bitcoin",
     "Nvidia"
    ]
   },
@@ -2781,17 +3045,6 @@
    "first_seen": "2026-11-09T17:00:05.832642+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
-   "url": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-09T12:30:00+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "RWA"
    ]
   },
   {
@@ -2829,272 +3082,14 @@
    ]
   },
   {
-   "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-   "url": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
-   "source": "Decrypt",
+   "title": "Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzRKQWR4a1hiUnpZVVRzX1UzTi1mdzNUMmd5Vlh5TEtfejNvS21rZDgwamZuWDJqZ3lmbUplWkdqMV9oR0hHTUlHS0NsYXhtWVBOYi0zQ294bFFvemJOUmI2bFJvWUF0T3BpeVdBeXc3cU5rZnlrRzJHMjVTUWdBaGl2dGdGOUJ5UGxYVDh5WGRZVDQ4THZqcEJVVGk3SHN6YkdUdUtsSTA0ZlV4NDdBYW5kNkJCMDdnanJEV25uUDhOYTU1Zk9Fd0lhSkk?oc=5",
+   "source": "Stocktwits",
    "type": "news",
-   "published": "2026-11-09T11:50:36+00:00",
+   "published": "2026-11-09T12:00:33+00:00",
    "first_seen": "2026-11-09T17:00:05.832642+00:00",
    "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Bullish appoints Former NYSE President Stacey Cunningham as President",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTlBbUZndVVNWldoOGJpYXphWTFSWFllVldHaXpBTmJfcGw4TlotNGhpaU9rbmlTa0ppa1YyVFljSHl6NmpzQTRWaHgteUpYUnZSSHl0cDVCM1VNZnJweVV2VnNPeXp3NnphRl94UEtjTU1yX1l3eWhhbTl6c0h3OTM1cnNXM2E4cVVwNnRIak00TEZlNFpGUWhzeFRaWHEwXy0tVmQ5Z3hvNXc?oc=5",
-   "source": "Bullish",
-   "type": "news",
-   "published": "2026-11-09T11:46:49+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Avalanche"
-   ]
-  },
-  {
-   "title": "Nvidia-led tech selloff weighs on crypto majors",
-   "url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-09T11:42:04+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "Coinbase\u2019s US national trust bank charter takes effect",
-   "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-09T11:38:52+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Reality partners with Merkl to track rToken holders across DeFi protocols",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQejdFY2xOSG1Iekp1UjhIN0ZVaVgzTXhjNTBEVEkxSmhKV2ZNMGZDdm80d2pxT1czVjNWN2E0WC0zYWRzSVlVS1pSNlpNclVfdzV1RVFXZXBjcERnTDlLU0xXSnd2cTRzNGFHOXVpYkpNaDQ1Xzg4MVVBNDVoSGRtWmtidF9CdVAta2hmT0RXQnNuWlNJdldSZzduZHdWWjBkVkhsTld1V292RThXZHVIWVNR?oc=5",
-   "source": "IBS Intelligence",
-   "type": "news",
-   "published": "2026-11-09T11:20:26+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Coinbase launches National Trust Company with federally regulated, institutional-grade custody offering",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbE1xSXMwbUhzd0FMbmJSRHZpTDMxTTFYOWFidC1wRENBWEdPYTMyei1xQ3RLNzVwVnNLOEV6RlZNVmswem1qaV9XQ3Y1UldUcDR5X1BFaEJBOVE0enBkUGdfY096Q3RkeXp5YmdzZ3VucEUxYzNTT3lwd284RW4zWDBFeWVOSXRzbl9VaWVEQVliSlJKSXQ0S2kzWUJ4akFNUnRvcjllQjJWTlc5ajB3RENoNEYxSi1ETUlmc3V2aWJtMk9qYlhuRkNBN1Q?oc=5",
-   "source": "Coinbase",
-   "type": "news",
-   "published": "2026-11-09T11:03:39+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Pewdiepie Odysseus AI Predicts a Wild Ethereum Price Target For 2027",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSF9mbFdjem1CRElpS3BzSTZCZEZHOGdHb2plNGtlTk9LZnpqcW5MVDIzcDNOaFY0QkRCbE9ERjFpTmVhLUFCUGFfY3pkY3R3OXppWGhYallVcFhIVWV3eU04eHpIazFfa1huOS1EOHJ3UDZHbElBdW9fdHc4akxNak95Rm9KOWVBRVZjOGVNUFczdUVHVTJGYWQ4SXp6blk4UFRWeXUzTmFGa3FaSnNzSTNiTnBhUXdrQTY5UlUtVG5IcVJRWmc1aw?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-09T10:41:58+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Uniswap Launches First Permissioned RWA Token: What GromaCoin Means for DeFi",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmx0eHpuakdieXpBSlJrRU1ReFducUJMYXUwYnFVUDRNeVZEbjMtellubTBxaVJGckt2ajU5VGZLUHZ1OGhQUnB2RWVMXzBrTW15c1lWUkdWWmhCME5rN054TlFiMHZlQU9yV0UtZHI4bW5kWWdxUzNVVm9ieUdqZGttaHBEUllGam9WNEdsY0d6UXVFMXhuVVVfVkNiYlhRVjJSR19n?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-09T10:26:00+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Bitcoin Hits $73,477 Low as Nvidia Probe Sparks $1B Liquidations",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NX2prbk1yUXpjMzJObzBGdk5RdnExSm55ZnJWSVVZSC1OTTZsLXczUk9sMFltSGpCaVlBQlZPanV4WWltUTNpU2V5WERydWVVS0VRX1ZnS0xwelgtYTBObUJQNWQ3bjA?oc=5",
-   "source": "Bitbo",
-   "type": "news",
-   "published": "2026-11-09T10:15:00+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Bitcoin",
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-   "url": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-09T10:03:40+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Bitcoin",
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "Article | Coinbase wins new legitimacy as Democrats prepare crypto scrutiny",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMklYNXRVT0ZQell1MGxNZUpfQ29pY19HWTR5THRndEI4ZERTeEVncWhzRFJ3QklZNGU5SmRLcXJWTEpqTnRVbkY0MkVEN0FtMVpQRk5sdVNvQURRMWIxaF9xUDlTTTdlZW4zT2R0aVpsUmRhdFFjakhnRG82MmF3a0FudXVETThPUjltSjhoWVcxZ2pObTJYRERub1hkOGc3TVZ0cFAwTVVBQVlSOVdkZVk4Wmp2NGxPSlkyb3RwWUFvRjA?oc=5",
-   "source": "POLITICO Pro",
-   "type": "news",
-   "published": "2026-11-09T10:01:00+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
-   "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-09T10:00:00+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Coinbase Gets Final Regulatory Stamp For Trust-Bank Charter",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU1jWHZhTVJlRkJ5UXRQbzliNmRCc2VMSm9sZXNCVlJIVVdiOW1qOG9Ba0pSU3Rjb0RQekZBUnVSaDAtSU9sNnZaTUhJOWhWMVRsVzgxbUE3TUw3dldTeW9XZ0pPai0xR2ZKQWJaM0k1YlNrVnFmSUhXczUtcC1jNkRKVkdsSkZPcDYzaDlfREM4bC00YjdNM1JwRXBkektvQVp6ZFpZQ181ckZwbGtR?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-11-09T10:00:00+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "Coinbase"
-   ]
-  },
-  {
-   "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
-   "url": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-09T09:50:21+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Nvidia"
-   ]
-  },
-  {
-   "title": "Cardano DeFi at a one-year low: $48.9M, ADA amount steady",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NcXJuRnc3RHdUVGcxOFNMQTZZM014bTY1V3VWOV8xQ1dta1FHaHdGaXIxMjRXVDlPOUNEVG5ydEU4bkZhUUhlU0VSVHpNNE54Q2FfWTUzRldfOU9VTGQxc1V6T2JpR2JUVHVpaA?oc=5",
-   "source": "CryptoTicker.io",
-   "type": "news",
-   "published": "2026-11-09T09:13:23+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
-   "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-09T09:05:02+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
-   "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-09T09:00:17+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Adam Back Says Bitcoin Is Entering a Third Adoption Wave Led by Banks and Pension Funds",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVBHVF9pbVROUm1VbzdwOWg4Rkw3MWJ5Y2JfMnBwVDlQVER5bzZGeGFsTGVWb1ZibWZoQkhjeENnejhVV093VmYzN1FvZ0RvUUtSMWJFTmJVaGNzS2V5Wk5BZ1dyWEVSbGhadzZXXzF6dWhTUlBPdkptRTRsdHdIZHlYWFV1a2REdnl3eEpPNXRBMXZaUEhuYnRiazVJdzc1YWxJbWZOQ0k5MWRtT0UwRS15MGVfYnVRMGxjTERsbTg1UXM?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-09T08:57:02+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strategy's Bitcoin stack slips below cost basis as BTC drops under $75K",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQelVuaWNuaVVEWDFXYTBIa2xtR3c1UW1JM0EzbFRYMGFOSV9zekJldlFUSU55QnFfNlV2WW5RalEtcUU5WHhoRXg5OTltMnZoQ2lQWmtWOVloWmM0NGlVeFkySTFIVTk5cTMzWFRoYms0RnNpdmtzekZlYUJrekxGcndQVG5KbnpDdU1FTVpwMEVySk5hWWxHcW9idlJYYTF1N2k3bzJndFFETVhOSVI3V25ONUtfVzRnWjlpeGxNSTMxUnVHZFNmNzJLcFBqemtp?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-09T08:45:33+00:00",
-   "first_seen": "2026-11-10T07:00:03.780163+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy"
-   ]
-  },
-  {
-   "title": "Tokenised Stock Dividends Now Follow Holders Into DeFi",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmlGOVA2WEQ4NENXREEya0l6X3VYRlJ2YXVMOWxHZzZaYVNISnd3eXhsT0ctYUhjbVhqU2RKcktZakY2elBFWlppeV9ETmZTTXM2Q1VBWEp2NW84R0c5SzdId0k5b2xVa1NvSF80UDBacXJmVDBWS1E3NmRMRHhldmtFeXZROWdlM1FnOTRGT1J0ZjRxT0ZR?oc=5",
-   "source": "FinanceX Magazine",
-   "type": "news",
-   "published": "2026-11-09T08:32:47+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-09T08:17:35+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Tokenized Funds Make Up $3.7 Billion of Solana\u2019s $4.8 Billion RWA Market",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zUlRCQ0JDdzQtMHhHMEZZc3dSVFRuQk1LTjRlN1dqbXlHQzluN3NqVXUtOTZjVXJkREliWkRRVGhMTTEwMVAzX3IwOElRRzR1MGdnaGpaakVLUQ?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-11-09T08:14:41+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin Under Pressure Again Ahead of 4 Major Market-Moving Events",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWUxDS2ZLQjBjQWhGTk9Bb0tzTkxCSFFkREd2MmxUS1k3SkhnU3BRWi1CODFSZDRBN0RFSlg2X29BOUFYYmlfUEJxWUlmSDdxTC13VFV4RmhJaFk5VkEtRFViOXV1RFQ2TFBCQTdaNFhsYWFCdE1Kd0EwMEZFS3hrRXZSSWREeUpxUVJqZmJKcnV4SW50XzJ6Y0c2bm80WVhHRXpGcjhMQQ?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-09T07:58:58+00:00",
-   "first_seen": "2026-11-09T12:00:05.648755+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "MARKETS LIVE: Wall Street futures rebound after tech sell-off as Nvidia tumbles, bitcoin weakens and gold rises",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjQySVB4R2F2NkJnMTdWRGJ1anpYOHpwNXNrX3dleXBjTDZQU293SHNjbDJrOTNQMnRvZ09HNnpYVWF5QVJBUzRaTXhUUVZtNmtIM0w1TWZORVEtYzVwY2NMWVBCc3J0NUhHRnZFVUhDNkl3ZW5NcWZ1T2I3b0FQTnAweEhyZS1Y?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "type": "news",
-   "published": "2026-11-09T07:11:00+00:00",
-   "first_seen": "2026-11-09T17:00:05.832642+00:00",
-   "topics": [
+    "Ethereum",
     "Bitcoin",
     "Nvidia"
    ]
@@ -3102,14 +3097,34 @@
  ],
  "stories": [
   {
-   "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
+   "title": "PNC Bank: USDC Stablecoin Payments Launched For Corporate And Institutional Clients Through Coinbase",
    "outlets": 21,
    "topics": [
-    "Coinbase",
     "PNC",
     "Stablecoin"
    ],
    "items": [
+    {
+     "title": "Coinbase and PNC pilot USDC payments for corporates",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEROQkZkbTZDWl9IMlNEVHBpamhTZGRfd3lfNkhadlppM09fZml1OFBJTGV0d2lrWTVXaDRMamZ4S21pV044SFVPYXpIRDFTWjlPcldHMlU4Mzdhbm40MG9kUGtNSy11SzR5Y1NHbzl4WEJsVmZ2aUpqRllXb1hHMktvNVUtTHp0SElsUTI1RUtGOTdISVZsMGdleXEwaGlQUG5UTzJTSF9sb1FqSHc?oc=5",
+     "source": "The Paypers",
+     "type": "news",
+     "published": "2026-11-10T09:53:32+00:00"
+    },
+    {
+     "title": "How Does PNC Bank's USDC Payment Pilot Convert Stablecoin Transactions Into Dollar Deposits?",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1phVDljdEtNb1dnMXJZMFpPcXNIaHdpbDh1WjJ2cnFYWnQ2dFZzeHZIVWlGckNXbzlVWGVfM1d5SWIxa0JqSGdNd2p1QW1qbzZFRWlJQTNfYjR2aUViYmtXV3ZKUDU3enhoeXBRa3ZSMFJNTENidV9GalY0bUNZODBvOUhFdS1zM0dXb2ZsYldZVm9XWThwSVhnWXlORjZ2LWlRTXVYbDFPdUhNMEhnc2s5NmI4V1Qx?oc=5",
+     "source": "KuCoin",
+     "type": "news",
+     "published": "2026-11-10T09:14:00+00:00"
+    },
+    {
+     "title": "PNC Bank: USDC Stablecoin Payments Launched For Corporate And Institutional Clients Through Coinbase",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVhWUlFVYzZ2Qm40UmhqeEZjVllRZi1IVURVY0hRQ0F5YWk5TGhKYV9kbG5BcXpHd2QxdWMxVVhQeDVlNmdZVWtUR3FwRDZqMzRkX0NFdzRlX05CdXp3bTZ5dEFCTkdGQnVBZm9RQ0VuUDJVWWlrVWNDX1c3R2JsZ0V3LVpIT0lSMkdieFZWb3pLcWNzRF83cnNtWUNFSTZPUGNXUFpTOEQ1OUV1ay1CUGVHb0VwaXFoRXk0?oc=5",
+     "source": "Pulse 2.0",
+     "type": "news",
+     "published": "2026-11-10T08:06:13+00:00"
+    },
     {
      "title": "What PNC\u2019s stablecoin payments mean for crypto banking",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pLXNkVXBhSXZsYkhrdmFSVXR3clhGTG5oMTJ2dDdtcEtVVjA4dkdDbTZPNldiLUhhT2pKOFhCX05TUy1GNG1zeXBMeXlfVmxHVkFrSjZlbDdmc2I5Nk5iY3lvSEtuYXRz?oc=5",
@@ -3118,25 +3133,11 @@
      "published": "2026-11-10T04:25:47+00:00"
     },
     {
-     "title": "PNC launches USDC payments for corporate clients",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczdVWGtBakZqQjhFMjRGSDN5M2lzNGpFVGI5cWR2VW9WZzJaZW1wNXpQd0wwZnE4MmthRzdjTWpvQkxBTkZtcWU3Q1VkNDRvZkV0Z2RRX0NoOGdESFQ4eGtXcGE1TXRIVXlWMVBwMjlqV1FmNmdvczhjd3NKRFVMUFVHckY?oc=5",
-     "source": "grafa.com",
+     "title": "PNC Bank to Pilot USDC Deposits for Corporate Clients, Converting to Dollars Instantly via Coinbase Platform",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSU9VV3RraHVfNVctN3dabmhGM0tyUURtWlc3V0FkY3F1UVFWWkh3N2tGTHFlVThmcGlCT2E2NGVoVlNfVU1RRHpmMkVMOVp2eUY3QVVsQlllUzNhNGI4UGhWeDVYaTNaUmtYZ2hXNjkyRmFGZHc?oc=5",
+     "source": "BigGo Finance",
      "type": "news",
-     "published": "2026-11-10T02:03:45+00:00"
-    },
-    {
-     "title": "PNC USDC Pilot Reshapes Crypto Treasury Management",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYaXFtWk5GRExXM3VJaWJCRk5xUFpYajhqNjRmN0hQV1I3NExjcUE5SjQ1aGR4NXVuc2NzenVvSVE1VmZBOTVIMnc4OWlBMFZCRWVzQW8yZVRLaFF5ekNKSHBUN20xUUtzaVBqRTJ6QlVGNEY0TC0xbg?oc=5",
-     "source": "OneSafe",
-     "type": "news",
-     "published": "2026-11-10T01:51:06+00:00"
-    },
-    {
-     "title": "PNC-Coinbase USDC Pilot: A Crypto Treasury Management Shift",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWJmc3RJb3NYVFNrR29fRmJMdGg3WjZCY1JKTWs0VkwyS1djUlNBTHp2N0VaUmRUNHZyczRUZndMX21NV2hsdm5WTXQ4M1hpS0dKTmx2SlhpS1lXYjZodHNwX3I4dE1Gbm50YWxEUlp0RHcyY29ieXJOcnBZODdwZ3p3S3A?oc=5",
-     "source": "OneSafe",
-     "type": "news",
-     "published": "2026-11-10T00:11:05+00:00"
+     "published": "2026-11-10T03:15:00+00:00"
     },
     {
      "title": "PNC launches stablecoin payments for corporate clients",
@@ -3165,13 +3166,6 @@
      "source": "bloomingbit",
      "type": "news",
      "published": "2026-11-09T22:26:07+00:00"
-    },
-    {
-     "title": "PNC Bank pilots USDC payments for corporate cli...",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWJCLUhZbEtXZl9id0hZUDJWWTlNM1ptYzRsLUlEaXctcWZFa1pwQXl2dVlxOENLMWl5QjlRSFpJRnh3Q1VOVHpNNEtYOVlpcWU0QkFSZ2pPN2dWNlo2ekVlaWdQNlBNVHV5Q3J1SkMzZF9oaHYzbjRjNEJraFN2MEtFa1QtUEZqMnhnbnpwdDhkTzVVRUcyNFVKSWJCdEQyOTFnRjVhcUxBWE9CcHRhNzdB?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-09T19:24:50+00:00"
     },
     {
      "title": "PNC Lets Corporate Clients Receive USDC Payments via Coinbase in Pilot",
@@ -3207,13 +3201,6 @@
      "source": "Cointelegraph",
      "type": "news",
      "published": "2026-11-09T17:48:35+00:00"
-    },
-    {
-     "title": "PNC Bank to support stablecoin payments through Coinbase partnership",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mWk9kMUZOMWVnN1E4S0dQUi1yMF9iLWJvXzR2Z1ZoRDg4YllwcEZNZGxaWDV3WHFvUVhTWkFWREYxVFJYNHJxT2tWT08?oc=5",
-     "source": "CoinNess",
-     "type": "news",
-     "published": "2026-11-09T17:27:42+00:00"
     },
     {
      "title": "PNC Bank Lets Corporate Clients Accept USDC Payments in New Coinbase-Powered Pilot",
@@ -3281,7 +3268,7 @@
    ]
   },
   {
-   "title": "NYSE taps Avalanche for clearing and settlement of tokenized securities",
+   "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
    "outlets": 15,
    "topics": [
     "Avalanche",
@@ -3289,25 +3276,25 @@
    ],
    "items": [
     {
-     "title": "Avalanche chosen by NYSE for clearing and settlement of tokenised securities",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXhTTGNFaXJRQmU5S29IWlE4X0tLcUZVaGFlLTdJMlZ6U2FMU3NscXVFazRxTWtWY0JmQVFXdzF6UVl2V3lRcU5Gck01d2Z0MzRTTFV5Ti1iTl9uSl9YVWo3WFpoZkZ6MEI5S1hHb2RWTE40YU5VQ205RndmVFNaSlJUOUZnMnEyUEZZX3B0S013SWg3VUVBZ0ZsQVU3V2tJUTYxWGNySUxhaGFwcHRBT0J5V1RKTmhoVk5kM3VVblBXUmgtdnd4QW5WTms5dUJ2bjB0bA?oc=5",
-     "source": "www.tmgm.com",
+     "title": "NYSE Selects Avalanche Blockchain to Settle Tokenized Stocks on Upcoming Trading Platform \u2014 AVAX Jumps 5%",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNY281U043TTR0dEZBcVhGNXAtUjVxaEE1NEtpNXZKQkJ5eTZtREZ2ODhyZmQ1QzQ4cG1UQ2tBQnNOUjM2Sm9yR0ZuVTQ1d2lnYWVwRXRxVnc2aE12UmUydXpoZzEzYVNxVkF6NmpZTGNvV1U2Z2l5Y0dDNm9PSkxzSHYxVDVHMmdSTGp4Q2pfWlc3X0N6Z2U4c3FKU05SR2pITDdHRUxpRFF4ZWdyVlpTMFFLaXRJNllwQzJOdk9DcktNVFJSSVMtRy1Pd3JDNHdRZzE2cEg5YmkzUFZ0aDVicDlQZkd1TnFkYmFOalJkbkxYZEE1YkdN?oc=5",
+     "source": "Benzinga",
      "type": "news",
-     "published": "2026-11-10T05:18:29+00:00"
+     "published": "2026-11-10T10:16:14+00:00"
     },
     {
-     "title": "AVAX jumps 12.7% after NYSE picks Avalanche to settle tokenized stocks \u2014 Details",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmtpQ0hwV0tuMERUV2RKTE9rMXIzSXdNUjU3Vy14cXFVM1FpNVVVdXdYbVdZaUFGNXRPVGFqVHRzWGZYUUdJRHRKWjFCa29ybGVYM0s1UjNhZnlxMkZuY0M3Q0d6X29RM29JbGJnMThHZlI5NmpuREM5TFFCYkVNajJKdDNObXBjT3ZyaTVaem9nM2I4aHlJWnNVS0VwVjZQd0E?oc=5",
-     "source": "AMBCrypto",
+     "title": "AVAX NYSE Deal Sparks 10% Rally: Avalanche Wins Tokenized Stock Role",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BUGp6MmJVUG05dUFJbkRselg3bTlYa29SekNiaEdvV0ljVmVzaXBDQ2h6d3YydnRWTFA3aHNxYjBBalBLMS1HOEQtSFJRTFphWHpIMzRha0FMbEZSVGtfTVNQd1RlWGI3OXlPNE1mc05fNFBITXc?oc=5",
+     "source": "Cryptonews",
      "type": "news",
-     "published": "2026-11-10T05:00:34+00:00"
+     "published": "2026-11-10T08:06:22+00:00"
     },
     {
-     "title": "NYSE selects Avalanche to clear and settle tokenised securities",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHR5eWlaY3lpU2F6VVRoZjEweHR5bkZLcDQzU2JuLWlLWE9IbmxfS3lpVURxeHpIbGxrMUJXUWhzODdpRGRIQ1MxbHZWdEVhUTVpQVprT0xxTGpMUGI4WTRad092b2FIUVFqcGNVN3lRLVJHMGE4cGkzYnd0NHdjMEZfeXd5dWlibjk4UUpaSEtOLXMwcTBpMGVPWmhPZ1BrdWpiM2ZMQm1SNXNfbXY1ekhyenV3VmtKcnNnSDdseTlicDU4RWc4YmI3dnB6Q1ZCMnZzcXJGQQ?oc=5",
-     "source": "www.tmgm.com",
+     "title": "AVAX Rises 12.7% After NYSE Chooses Avalanche for Tokenized Stock Settlement",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnBjekNiOFd1S0NvOVB6dU9qaGx0ODA5VFhDcldFeHppdmtGRjJ1MUdQem85MlY5MnNqclkydTVLa1JGZUh6c0hBZWlDM2piOEZ0Z3RqbDNGM1lIMlRaVDhwRnl6MDFmSHZHUl9HRTVxWkhJTlk1OWY2SjlVeDQ2cHZTUl9FNDNkS2ktaFROV09tNldWenBOTEoyV2JzTUJIdWdZSzZCQzFSRWttZkE?oc=5",
+     "source": "KuCoin",
      "type": "news",
-     "published": "2026-11-10T03:05:59+00:00"
+     "published": "2026-11-10T05:23:40+00:00"
     },
     {
      "title": "Avalanche (AVAX) Surges 10% on NYSE Tokenization Deal",
@@ -3345,18 +3332,18 @@
      "published": "2026-11-09T17:41:02+00:00"
     },
     {
-     "title": "NYSE to use Avalanche for clearing and settlement on tokenized securities platform",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0FwREZYRkQzaTZyNXd0bHE0MGVSU2ktN1pzUkdUMjFlY2o2UXFKb0d2VThKMHBCb2dRb1ZHempieUpUT0hqLTVsUldZZnQxaWh0WjlHRGpxZG5VcDVNVHhSUEVEY1hRY2NSRWJJYmhFcEJDd2lqRGwzTWtrWEs2R0NlNDFLU19ZRVE2eXltbVFYamwzZU1BZ3g3TzhuNmhpTkJ0V0tvMFhDQ3Y4NTJGaHJEbkhESzE2azdoMW9QY29sOEkxVk9J?oc=5",
-     "source": "Disruption Banking",
-     "type": "news",
-     "published": "2026-11-09T17:29:28+00:00"
-    },
-    {
      "title": "NYSE Picks Avalanche for Tokenized Stock Settlement",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWNhSjIwV0xkcF9TRzkxNmhJOFVrRnV1VEpnQVI1X2Q5SGpIX2VRRkZPNlAyY3VSMHRlOUw3MXJLQjIyOGh5ekRpRDdKM0psRUU1WkdiaHRLNGVvYS1iTXFuLXo0UUV4Nzc5MFhvZ3JhV3ZmVzhKaE9vS1RMd2UyVXgzQmFPakpUUXN1ejc1a25VbjlNTklCTTZ5am5FQ2FVVnNR?oc=5",
      "source": "The Defiant",
      "type": "news",
      "published": "2026-11-09T17:26:14+00:00"
+    },
+    {
+     "title": "NYSE Picks Avalanche to Settle Tokenized Stock Trades on Planned 24/7 Venue",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEg1QTBxMmh0dHQ2Q3ZyY01NUnlVbWdCTk1DUU9MM2R1V2NWekd0Z0kwVG9UdTIyOF9MdXhHdlFRM0ExMFdfcE5kU3JxQlJYNnphV2FNQTdxZjdzR21BZzJTVEVwblFvZzloYzlyR1JScnBucDNvX01hY0R1WUZFcThlb2dQVWx4aldyYVFQU2hTZXJDbXZEOUZIa2VwLVVIWGRF?oc=5",
+     "source": "CryptoPotato",
+     "type": "news",
+     "published": "2026-11-09T17:15:00+00:00"
     },
     {
      "title": "NYSE taps Avalanche for tokenized stock settlement; AVAX price gains",
@@ -3366,11 +3353,11 @@
      "published": "2026-11-09T16:33:08+00:00"
     },
     {
-     "title": "Ava Labs Exec on Decision to Support NYSE\u2019s Tokenized Securities Platform",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGg0OFE1ZXFvMTlSdlVZNmVLNEJubDc0V2ZzczYtOTI0VURyaTBraGI3TEFVTnZhWUxBd0I1SU5GTVRaQXNpNWN5VFVuN0oxWlB2Um9wcG85ZWMyTjJxVDBOcG5uREkteGx6cC1qWFg4WUdmeTVKRGdOTTN1UmhrWVAwRQ?oc=5",
+     "title": "Avalanche Lands a Role in NYSE\u2019s Planned Tokenized Stock Venue, Ava Labs Says",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWJmU0Y1VUV2VGdWTUJlLV96czJCVlBfMFprU25Eci1lZ2RTTmVid1RfNnhlamprSTdSRW8yckcyb0sxZHMwWEFMaWFFM1p5VGp1anNaVURvSHVjcWZOWDkyRUVXeV8xSjkySmcyb0dqWGlEVTFwWFYzekVlWkNQR2MwLUNHbjVkTXhfWUNiZnVTV25JMlNjOVpVQ3FfOVU?oc=5",
      "source": "Yahoo Finance",
      "type": "news",
-     "published": "2026-11-09T16:15:30+00:00"
+     "published": "2026-11-09T15:55:00+00:00"
     },
     {
      "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
@@ -3408,193 +3395,11 @@
      "published": "2026-11-09T13:05:00+00:00"
     },
     {
-     "title": "NYSE to Use Avalanche Blockchain for Tokenized Stock Settlement",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53a0ZFMWFNOUN2TkZEcERYRUJBNTZoUUktamhmVU83aVM2YWZ2QkFfUmJYYnV2S2trTDZKVmZETEFxY09rTGVVaElhVlRaSS1zNG5feA?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-11-09T12:37:52+00:00"
-    },
-    {
      "title": "EU taps industry to set standards for tokenized securities",
      "url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "type": "news",
      "published": "2026-11-09T12:27:06+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin Miner MARA Sells 13,597 BTC for $1.1 Billion in Six Weeks",
-   "outlets": 10,
-   "topics": [
-    "Bitcoin",
-    "MARA"
-   ],
-   "items": [
-    {
-     "title": "Bitcoin Miner MARA Sells 13,597 BTC for $1.1 Billion in Six Weeks",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlhvVDlWMVBZY2gzMHZBQm5tU1M4dDlxNThDME40cm4tU0x5ODNHQTlqelBJWTJPS1FsSElLMjRFNXBVSlZ5WGZRcWZMRjhfdUM1dkVFV21EVF9MeVEzRTU0UU1fX1RmYWJ5bVZlbnVFTkE3R0tmOUxGbUZEWDlsWnNKaFExUDFnNEhEQjFNS095VW9zWFFmYi1UcUo3ejg?oc=5",
-     "source": "KuCoin",
-     "type": "news",
-     "published": "2026-11-10T05:44:00+00:00"
-    },
-    {
-     "title": "MARA sells $1.1 billion in Bitcoin as Q3 revenue falls 35%",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DWkhobjhXSHM1MGptOVpMc1RNM0FZRUFTQlhXRW1VV3VVT2VtNEh0Y090dXM2aENHcWl5M04zTi1HaXhSUGtFRDRWNTJJemFGbGt3QmIzX2F4OUtPMk1KdlY1YS0wWWRScXZxTFhER1owM21xaDIw?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-10T05:21:00+00:00"
-    },
-    {
-     "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-     "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-10T05:18:31+00:00"
-    },
-    {
-     "title": "MARA Sold 13,597 Bitcoin After Q3, and It Isn't Done Selling",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5teFRNaS04S21Hd3BqWC1jTzJmSVp2S1hQenRVd3pFdUdKZlRGNnVjSFNFQXVwcTYxcGJ1TWZkcEZKb3dCTDgyLXlqYnNlbm1JdzZESVh1a3JZQ19KNXFhNy1SMzNDRVo2dzRuS1NHVWJjSGhpbGxhLV9R?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-10T05:03:08+00:00"
-    },
-    {
-     "title": "MARA reports $632 million profit amid Bitcoin sales",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3pKbU1ObEQ3NXhUQUR5TDcxdUY5SV80TmRoMTU2dXM3bzY1ZlFPajZMWmhJa1RVQmMzbTZNbFQ0aURzUGZaYlhneHU0WmpxdFRSczlwd0pnYUppbkJhOU8xRHllTlBPcVNvbkJad21iTjd6c2RIOTIwRVpLR3JSODVkSlJlODA?oc=5",
-     "source": "grafa.com",
-     "type": "news",
-     "published": "2026-11-10T04:30:00+00:00"
-    },
-    {
-     "title": "MARA Sells 13,597 BTC for $1.1 Billion, Plans Further Sales",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWlh6LXhUQmFXTTdEbzE5ZEt2OHhPdFIyRnFGTUtfdU9KT1pkZXdMeVhUVmE0ek1kS0UxMUNxX2dwMGt5SDJyLW1naWJ3Yy1aTW4zWTVTZ3BndGFTTG9kdmRJQ3JxQ0UtbXR0M0EzeWY3MDh4RmN1NEJnWmREaXljVEx0SWlfUHdaX3g1dzZUdlU0eHl2dWc?oc=5",
-     "source": "KuCoin",
-     "type": "news",
-     "published": "2026-11-10T04:13:40+00:00"
-    },
-    {
-     "title": "MARA Revenue Falls 35% as Bitcoin Prices Weigh; CEO Says AI Financing Market Is Getting Pickier",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01eFB1NHVZTW5TamVYMEN3YTRZcmExXzIxTmxaNmcwN1JhelR1WFNaRHBkWXNGX0FlUm5lcVhQeFdGeGFsUmhjcXBodmhsbkJsR0JFODJZQjZBOWEwcnhoOUdNQlNXWW1qakVqUFRMSjY4a3RHalE?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-11-10T04:06:00+00:00"
-    },
-    {
-     "title": "MARA Holdings posts $632.1 million Q3 profit as Bitcoin gains offset revenue drop",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLVIyTlhKVm81UmZiV3c4aTRkNGxSOFBHeVBBMGJFTFNMMXdnZVBqUjltOVRLN0RYblRvMFlhdGxXd1pDeHNDMl9PeEh5c0ZZRnAzZV9oN3RrOUNTUmphTkdBcFliV2thd2ZBdkFDZF95MU1oU2V2b3JfSjdwcTJ3R2dRdFJ4Z3V5NWxZNTl5N1E1QnF6d1JTVExqZGFvV0ZKYXFSUmtxTldDLWlIaUU3bmpTYk44SExIVkRMT0tTVUxHcmt1RVhXVllfdWNhc3RPemk3Y1dSMHRUQ2d3T1E?oc=5",
-     "source": "TradingView",
-     "type": "news",
-     "published": "2026-11-10T02:13:00+00:00"
-    },
-    {
-     "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDZDU1F2RFRlZE50YTMzdUVtaU5QckpCeERRcDFHX1RRSWlaM3BqRU1UNnc5QmtuaVlsUzZpQzVpTFRHTHF6d1cwMm9RSldmZzVqa29BWUdINXhpSFlocERBcDFoRXVFSWpjM3habEc4YUI1MVJNMS1NOW10eTJQMURmb0xRdnR0YVRtZg?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-11-10T01:26:19+00:00"
-    },
-    {
-     "title": "MARA Books $632M Q3 Profit, Sells 13,597 Bitcoin to Pay Down Debt",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVC13VWxkMjA5LXU0WFBMWUplaXo3ZDR2MGN0T3N1ZTVCaU1xOVZ2V0hhWHFsNXJCUkxPQ1E5THlMWjJzd1FabDVHQXZoT25mdmp4QXdwY29RbHRqaGtwRXU1eXZvc1lXbmtBdFF6Y05VNDd2QUJvRUM1RDdPcmRpRzhFSFdEaFZhVmZJclFVZFN5Tkcw?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-09T23:56:00+00:00"
-    },
-    {
-     "title": "MARA Q3 profit jumps on Bitcoin gains as revenue falls",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3FaUEtmV1JtaU9kMkRHaXVRd2Z4STZiSkVXX193ZGZWZWRMZmJvblRMZ1JjVnJiSFpCeGRoWGRPVktBWnZfY1NUeGtLMExCSEFUUU9WWXFnXzZlcHlEbUtTVk9YMTlJU3BtQnVJdzd1NV9vUVdxaXNUamJ4czJzZnZJbmhoeUVYQXRBUlVGNHBpYjlyX2pyNV96TlE5cmNSVGc?oc=5",
-     "source": "Disruption Banking",
-     "type": "news",
-     "published": "2026-11-09T22:15:02+00:00"
-    },
-    {
-     "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
-     "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-09T22:07:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Coinbase Gains OCC Trust Bank Charter for Crypto Custody",
-   "outlets": 10,
-   "topics": [
-    "Bitcoin",
-    "Coinbase",
-    "Strategy"
-   ],
-   "items": [
-    {
-     "title": "Coinbase Gets Final OCC OK For Custody-Focused Trust",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhLMXo4bTZnQkdxMFJHNFh1RXdmWkZEMWxlUzFFWjZrS2hHM2k4OC14R0pvYUQwLUFSQ3QxUUlfZ3hBcWtKcXdJa1J5aGozcmNpWHZWTXQ1enpnTzNLOHgzNTl0X0NjUzZoWXpCaXN2dl9scjdkQVhLalZVM1k4Q0J2dVl0Y3oxTElfYlN6czZ5R2RCQXluS9IBVkFVX3lxTE1tQjh2RHBmREFVU3h2Y214bFJyT0t6NmVsVzJfUFpoVzdyZFZLOGlkSWQ2TkFReWdYdWFGVE1KemhGTnF2MGoza1pfcDU1eE5Ka3g5bTl3?oc=5",
-     "source": "Law360",
-     "type": "news",
-     "published": "2026-11-10T03:28:18+00:00"
-    },
-    {
-     "title": "Coinbase secures unconditional trust charter",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlZsS1dXLURUYnE4bW5zaEhWNG5yZzhFZk5JaTJURDJWZDNlMURSQUh3R09KYVhmQXRKMXNtZ1JnVFdmejJ3eTlEQTRyVHYwWTlDZ2FBelJhOUY0dnBaVlI0eGppS2hhaXNkV2Q2NUMwcGFVajQtV2pIRkFqekNxWEhCOXRnTUxzb2QxUjZn?oc=5",
-     "source": "Banking Dive",
-     "type": "news",
-     "published": "2026-11-09T17:41:25+00:00"
-    },
-    {
-     "title": "Coinbase Gets Final OCC Approval for Federal Trust Bank Charter: how 11 outlets framed it",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnZVZXZqd0lLV1YzT0VMdk5TNjhzNllyMWhucUl4dUt3Q3A2NGVXc2dHMWM5c25Ib1JybzU1ZTBzRzY0UkFMa0ZmbFg3bWJVWDVIQWJyV1AxRzcyazh1alNRUGU4dzJEVFcxTEFITU5LVWh2MW5QZkJKTEJIbmtWaTh6UW90ZnR2R1hrT0tpOERld3huWU4zbUIxWGJKMWFib1B1M2dCRzgzRlk4U2kyWnVaRm1aWUFoMWNLU1NMdzFabENRSjZkN0F1emhNX2o4VFZz?oc=5",
-     "source": "NewsCord",
-     "type": "news",
-     "published": "2026-11-09T17:21:43+00:00"
-    },
-    {
-     "title": "Strategy buys more bitcoin, and Coinbase gets final federal trust charter",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakFYZU5DVkVZSDZHMFZhWkh1TEQ5M1ZxU3N1VUt6Nld4NHI0V1EzSDdYSEJFOGlrNndCbmkwZEctQTYxcWphSGRhQVJEMDFpME82ZTBXLW9wVHNueUhaYndDV1V4dWd0ZHJTd0txU2RsOGloajAyQS11cHF5dGFQQ041dzB3ZGtXU2c?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-09T17:00:00+00:00"
-    },
-    {
-     "title": "Coinbase Gains OCC Trust Bank Charter for Crypto Custody",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnA3YWZyR0pDSFQ5NE1rSW9TOG5wZkdBTEtCbU1OajV3bDZiaE5yUkhNWldUalh1R0EtdVplNEhtUV9ocFdnVVE0cThEcVFJTEJUdm11NG5tWE9tSkQ3c3JvM3oyWUo1NThfeGV3S2h3YVBSN0FfOEJQV0daQ2R3a2piTGtUdFRGcXNRSUduQkZSTU0?oc=5",
-     "source": "FinTech Magazine",
-     "type": "news",
-     "published": "2026-11-09T16:01:06+00:00"
-    },
-    {
-     "title": "Coinbase Wins Full Federal Trust Charter From OCC",
-     "url": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-11-09T14:18:31+00:00"
-    },
-    {
-     "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-     "url": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
-     "source": "Decrypt",
-     "type": "news",
-     "published": "2026-11-09T11:50:36+00:00"
-    },
-    {
-     "title": "Coinbase\u2019s US national trust bank charter takes effect",
-     "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-09T11:38:52+00:00"
-    },
-    {
-     "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
-     "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-09T10:00:00+00:00"
-    },
-    {
-     "title": "Coinbase Gets Final Regulatory Stamp For Trust-Bank Charter",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU1jWHZhTVJlRkJ5UXRQbzliNmRCc2VMSm9sZXNCVlJIVVdiOW1qOG9Ba0pSU3Rjb0RQekZBUnVSaDAtSU9sNnZaTUhJOWhWMVRsVzgxbUE3TUw3dldTeW9XZ0pPai0xR2ZKQWJaM0k1YlNrVnFmSUhXczUtcC1jNkRKVkdsSkZPcDYzaDlfREM4bC00YjdNM1JwRXBkektvQVp6ZFpZQ181ckZwbGtR?oc=5",
-     "source": "Bloomberg.com",
-     "type": "news",
-     "published": "2026-11-09T10:00:00+00:00"
     }
    ]
   },
@@ -3672,12 +3477,158 @@
    ]
   },
   {
-   "title": "Schwab adds solana, avalanche and chainlink to crypto platform",
-   "outlets": 4,
+   "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
+   "outlets": 8,
+   "topics": [
+    "Bitcoin",
+    "MARA"
+   ],
+   "items": [
+    {
+     "title": "Mara Holdings sells 13,597 BTC after Q3, still holds 34,012 BTC",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTVUN283UXVYVFFoaWctZEdZNG1uWmEyeWF0ZURpcUoxV0g4bVA3NExCYWVZYXRNOThQNlBGZ1Rmbm90Qkp0VUx2bDlMWGhERlhRSHFoYnA2TlRidzBpdU5Jc0xlYlNGNFpsXzdSZjQ1NXVRNjlhdGN4alVGOGljdlBHWTM5S0RsZFJlSzhmakpkelBKSDVSZmo1Q1NJa0ozS3dKQ21ZX24yM2NMREUxYk1qRFkwVU9rZWlQTlBaVUtMc01pcEE?oc=5",
+     "source": "TradingView",
+     "type": "news",
+     "published": "2026-11-10T11:14:40+00:00"
+    },
+    {
+     "title": "MARA Sells $1.1 Billion in Bitcoin, Repays $750 Million in Loans",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ueVpHb2pRV3lvTmExbjJRcVRFLWNpVUFwazNNOWs4UF9MNFdIR2lHVXF6WHVBbFp6WElQMUM3ZkZVQjFvMmVmeUhFTkhabDhlWkdpTERRU0I?oc=5",
+     "source": "www.tokenpost.com",
+     "type": "news",
+     "published": "2026-11-10T09:29:57+00:00"
+    },
+    {
+     "title": "MARA Sold 13,597 Bitcoin After Q3, and It Isn't Done Selling",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2ZmdwVkE1UGc5Nl9kWHJTOG9hREFiT19XV0NwVlRTOWtYNy1IQkdweERHaVlqZ1EtZm85dGhWY3ZZWkpIMWYwaWZxeTNianpILWpGUmNCcXo4Y2VJYUgtelZYaTQ3LS1f?oc=5",
+     "source": "BeInCrypto",
+     "type": "news",
+     "published": "2026-11-10T08:51:47+00:00"
+    },
+    {
+     "title": "MARA sells $1.1 billion in Bitcoin as Q3 revenue falls 35%",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DWkhobjhXSHM1MGptOVpMc1RNM0FZRUFTQlhXRW1VV3VVT2VtNEh0Y090dXM2aENHcWl5M04zTi1HaXhSUGtFRDRWNTJJemFGbGt3QmIzX2F4OUtPMk1KdlY1YS0wWWRScXZxTFhER1owM21xaDIw?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-10T05:21:00+00:00"
+    },
+    {
+     "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+     "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-10T05:18:31+00:00"
+    },
+    {
+     "title": "MARA Books $632M Q3 Profit, Sells 13,597 Bitcoin to Pay Down Debt",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVC13VWxkMjA5LXU0WFBMWUplaXo3ZDR2MGN0T3N1ZTVCaU1xOVZ2V0hhWHFsNXJCUkxPQ1E5THlMWjJzd1FabDVHQXZoT25mdmp4QXdwY29RbHRqaGtwRXU1eXZvc1lXbmtBdFF6Y05VNDd2QUJvRUM1RDdPcmRpRzhFSFdEaFZhVmZJclFVZFN5Tkcw?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-09T23:56:00+00:00"
+    },
+    {
+     "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+     "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-11-09T22:07:00+00:00"
+    },
+    {
+     "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDZDU1F2RFRlZE50YTMzdUVtaU5QckpCeERRcDFHX1RRSWlaM3BqRU1UNnc5QmtuaVlsUzZpQzVpTFRHTHF6d1cwMm9RSldmZzVqa29BWUdINXhpSFlocERBcDFoRXVFSWpjM3habEc4YUI1MVJNMS1NOW10eTJQMURmb0xRdnR0YVRtZg?oc=5",
+     "source": "The Defiant",
+     "type": "news",
+     "published": "2026-11-09T21:26:15+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin, Gold Fall More Than 1% as December Fed Rate-Hike Odds Strengthen",
+   "outlets": 6,
+   "topics": [
+    "Bitcoin",
+    "Fed"
+   ],
+   "items": [
+    {
+     "title": "Bitcoin, Gold Fall More Than 1% as December Fed Rate-Hike Odds Strengthen",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pNkZMRGp2RzUxUnRGamZnaE9WVUJYWlZkUWdnZ0JSQ3kyaG5ZdWlSdUVrbHV3X2hKaFlicWRweV9DUWFjTFlCZ0xrYmtaTWs1Q0l5Tw?oc=5",
+     "source": "bloomingbit",
+     "type": "news",
+     "published": "2026-11-10T11:40:05+00:00"
+    },
+    {
+     "title": "Bitcoin (BTC) price falls as Fed rate-hike bets build ahead of U.S. CPI report",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzc4R3R1MGRYNW9BMkFIWlN4YjlEdHdDSnlJMjdnMlB0NmFxLTJCWXBaQ1R3ZS1WZEJrOFh2Q3hFcGRhZUJpNTZaZ3Nxb21Sa3VyWnY3MHEzaG9KMkNsd05XMTdDQjJUMi1sS3NjdXN5M3VpTmJsVWxLN2FKMkhiQ19TYkg0SFBsM284YkNuQ05EUG5PWGlIaG5RM1FnbTVGMms1ZFd6YmhmOTJqX0x3NkxkQVRTV0k0QWR1SlF5RlY?oc=5",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-10T10:48:37+00:00"
+    },
+    {
+     "title": "Fed\u2019s Chris Waller Backs December Rate Hike Over Inflation Concerns",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0gyTWZCbV82Z09XYThNcUpZVGJGRDRqbk15NHoybEpNSVQ5Z3pIRC0yeXhwallWMmk4WHpsRTMxMXdyVVVWcHlNZlNncUJZU0FsLXZEb0w0X1prMnFibm00Zk5FcllDa3BEcmFjVWtfSkFYZ1FYdEJiX2ZLNnpSeDNKUEY3ZlEtMG96YzlKeHFFdw?oc=5",
+     "source": "CoinGape",
+     "type": "news",
+     "published": "2026-11-10T10:45:47+00:00"
+    },
+    {
+     "title": "Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat",
+     "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-10T10:41:45+00:00"
+    },
+    {
+     "title": "Bitcoin slides toward $74K as Fed's Waller backs a December rate hike",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeFFQR0cxMGJHTHRjVE9vQUcxcGxDdDkwT0RlSEpkTXdiM0NQT25hUVBWZ01SaW43Z2FIMVU0OGJ1YjRteDdhNmVkVTlRZzU0UVlTai1HX2NTQWV6Yzkxc0E1dDdEZWZ1d1hVbGN5ZXpBOS1KOTZFNzZMYWc1TEhQY20xNVJoMlAxVENFZ3R0aENUNWd4aDMwbXRNandUVVhRRjc1QWZ4bWlGU0h3NHBMam8zbERfbEJ1WFR5WjR6TmdUU2pITEZ4M0w3UjNmdw?oc=5",
+     "source": "TradingView",
+     "type": "news",
+     "published": "2026-11-10T10:22:21+00:00"
+    },
+    {
+     "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-11-10T10:08:22+00:00"
+    },
+    {
+     "title": "Bitcoin Sits Out Equity Fund Rush as Fed Hike Odds Reach 84%",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHBTMF85dkh3NGdOdFBmRTdZLXgtdnkyWVY5YkNKOVZ4MWZwbkZJOXJmTXYydDNJZGJLeE8zWnU2Y0pvVy1CdDVmZFhDRWZGM1BfT3hmMVp6NlpxcU8xcU1mdXhMOEJyQkg1TE5XblhvNXRxZnplVUtGSFFrSDNMQU5PbGNMemw5eXB0V0czNDRrMDZfSFFmU2xB?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-10T08:51:47+00:00"
+    },
+    {
+     "title": "Fed Hike Odds Hit 84% After Bitcoin ETFs Lose $1.28 Billion",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1RHUkV3SllTcDBQWC15aDZLR3FTZVNIaXFERWpEeWVfaWdtb0M4c2c2MW1JbEFGY2RueU1iQ0tONENOMmdjdVZDRUZwa25WdXc5Y2gzRkZWUjZRYVEySl9EUWxZSlc0cVRjdzE3OU9SZG9GaDhGREpEcG1ReE5vMmlTMkw5dXBIRGdYRHBn?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-10T05:29:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Charles Schwab opens Solana, Avalanche and Chainlink trading to Schwab Crypto clients",
+   "outlets": 5,
    "topics": [
     "Avalanche"
    ],
    "items": [
+    {
+     "title": "Schwab adds Solana, Avalanche and Chainlink as crypto trading slows",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXJHaVNmN1h4TjBMcmtyZDJVTlMzSGltVkwwZVhQVnlnc0dnVFY0Zk1YeExiUVd5UHJjUVJaT1Q1eF9nd1lQdGdZX2pkaGRjVlBJLXp5R0t5U3RyLS1WWGFDWmZjcFczYV92YU9vdEdTZk1udGRzZWx5bjkxazgta1lTUVNYOWd5dEZlWkZpZzRmVVRVaUE?oc=5",
+     "source": "CryptoSlate",
+     "type": "news",
+     "published": "2026-11-10T10:49:40+00:00"
+    },
+    {
+     "title": "Charles Schwab opens Solana, Avalanche and Chainlink trading to Schwab Crypto clients",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVdsTF9lQjlaWkhPLWxVOS1naEVPM253R3BtQVZqV1VwaGl4Z2hXVkd4VVVtQTZhUXdhUnI5WjJHaWF6cGtnd1VPWDNFWi0xWVFFdTE2YTRSb2FWczAycGlaREZ5T3BJcnpET0VDNlhSYXZ3QXF6X2loR0Itb3VzRExXOXFkeGtMTXlPSk84MjFZVzNLU2JWMVdsTXV1UDRXOUZjMFpBN3g?oc=5",
+     "source": "MLQ.ai",
+     "type": "news",
+     "published": "2026-11-10T10:43:56+00:00"
+    },
     {
      "title": "Schwab adds solana, avalanche and chainlink to crypto platform",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXFJMlVfUUdmd0FpZ2EyNXEzVGxVU3ZSUU42MUs1UUNFTmxCUGw2MHU3NGJqRGpUVDVUUUZuNlhNbWhkX0VxbUxpR0czeUNfOXJEcEdlcmVZVEhwTW43b3FVZFZxWU5uQTZFWXZUZm9MdkVMT2t1ZzFISkZMdDRnWGRBcXhhVXZRNlJTWHQ1Y0dHdV9Sd2VsWWlVTnBUazR0UHFyTGxuUjJZVVJMdlZUZkRpS1BOeG5GUEE?oc=5",
@@ -3693,13 +3644,6 @@
      "published": "2026-11-09T19:43:00+00:00"
     },
     {
-     "title": "Schwab Crypto Adds Solana, Avalanche and Chainlink, Expanding Offering to Five Assets",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXp4VERwZ1FLa1VnS2h2Z2FFVDBJNXhaMy1WS21LUExMbFROdjEySGw0NjRXQ3JKYXZiQlljU2dTb3U1dHRJdkVCUi0xZmZoWW1Uc0Z1by03SzVmQklGeHhIRkFZdlVrdkU2RDF0d3dWYW5EZWtTaVk2OURGN2NDdmNRQ0RYLUNxZU9Tenl5SVloS2V1UGFvcjFjN0ZIOC1YX2gxQVdCOEZlTmFZV3p2dUM3WDcyTHNQZkV2Y3Nzdw?oc=5",
-     "source": "Finance Magnates",
-     "type": "news",
-     "published": "2026-11-09T19:14:34+00:00"
-    },
-    {
      "title": "Schwab Opens Solana, Avalanche and Chainlink Trading to Its Retail Crypto Clients",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2xoTWRLanN2ZUktSUdwMVgwVDc0cHBVZ2tmY084Y2FXYW5mU3ZJYmlhZV9SSXlxLUtpcjhWeU1qb1o5Z2ZmNHhTZnNTcnd1TDNScVc2UTVOLUR5VkdZTTlBVHh2aWwyVm12Z2ZGVTAxVVN2MEhxOTE1T3lpd0hBNEV0Sm91Zk16dWw2QXhwSGtLcGxKcFNwZGs1YnRoX1FRX0pHVW8xSQ?oc=5",
      "source": "Yahoo Finance",
@@ -3707,116 +3651,93 @@
      "published": "2026-11-09T16:55:00+00:00"
     }
    ]
-  },
-  {
-   "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
-   "outlets": 3,
-   "topics": [
-    "RWA"
-   ],
-   "items": [
-    {
-     "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
-     "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
-     "source": "Decrypt",
-     "type": "news",
-     "published": "2026-11-09T17:46:02+00:00"
-    },
-    {
-     "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-     "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-09T12:41:35+00:00"
-    },
-    {
-     "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
-     "url": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-09T12:30:00+00:00"
-    }
-   ]
   }
  ],
  "events": [],
- "headlines_served": 11742,
+ "headlines_served": 11838,
  "trend_candidates": [
-  {
-   "key": "mara",
-   "term": "MARA",
-   "count": 5,
-   "sources": [
-    "CoinDesk",
-    "Cointelegraph",
-    "The Block",
-    "Yahoo Finance"
-   ],
-   "baseline": 0.0,
-   "ratio": 5.0
-  },
   {
    "key": "pnc",
    "term": "PNC",
-   "count": 8,
+   "count": 10,
    "sources": [
+    "BigGo Finance",
     "Cointelegraph",
     "Finextra Research",
     "PR Newswire",
     "PYMNTS.com",
+    "Pulse 2.0",
     "Reuters",
     "The Block",
-    "Yahoo Finance",
-    "grafa.com"
+    "The Paypers",
+    "Yahoo Finance"
    ],
-   "baseline": 0.91,
-   "ratio": 4.18
+   "baseline": 1.06,
+   "ratio": 4.86
+  },
+  {
+   "key": "fed",
+   "term": "Fed",
+   "count": 9,
+   "sources": [
+    "Banque de France",
+    "CNBC",
+    "CoinDesk",
+    "Cointelegraph",
+    "MarketWatch",
+    "Yahoo Finance"
+   ],
+   "baseline": 1.05,
+   "ratio": 4.38
+  },
+  {
+   "key": "pnc bank",
+   "term": "PNC Bank",
+   "count": 6,
+   "sources": [
+    "BigGo Finance",
+    "Cointelegraph",
+    "PR Newswire",
+    "Pulse 2.0",
+    "The Block",
+    "Yahoo Finance"
+   ],
+   "baseline": 0.88,
+   "ratio": 3.19
+  },
+  {
+   "key": "strategy",
+   "term": "Strategy",
+   "count": 9,
+   "sources": [
+    "Bitcoin Magazine",
+    "Blockhead",
+    "Cointelegraph",
+    "CryptoRank",
+    "Cryptonews.net",
+    "Decrypt",
+    "PR Newswire Canada",
+    "The Block",
+    "Yahoo Finance"
+   ],
+   "baseline": 2.23,
+   "ratio": 2.79
   },
   {
    "key": "avalanche",
    "term": "Avalanche",
-   "count": 6,
-   "sources": [
-    "CoinDesk",
-    "CoinMarketCap",
-    "Cointelegraph",
-    "Decrypt",
-    "The Block"
-   ],
-   "baseline": 0.7,
-   "ratio": 3.52
-  },
-  {
-   "key": "nvidia",
-   "term": "Nvidia",
-   "count": 11,
-   "sources": [
-    "CoinDesk",
-    "Cointelegraph",
-    "CryptoRank",
-    "Decrypt",
-    "MarketWatch",
-    "Stocktwits"
-   ],
-   "baseline": 2.24,
-   "ratio": 3.39
-  },
-  {
-   "key": "nyse",
-   "term": "NYSE",
    "count": 5,
    "sources": [
     "CoinDesk",
-    "CoinMarketCap",
     "Cointelegraph",
     "Decrypt",
     "The Block"
    ],
-   "baseline": 0.89,
-   "ratio": 2.64
+   "baseline": 0.82,
+   "ratio": 2.75
   }
  ],
- "baseline_days": 8,
+ "baseline_days": 7,
  "sources": {
   "CoinDesk": "ok",
   "Cointelegraph": "ok",
