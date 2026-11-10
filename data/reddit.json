@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:00:03.780154+00:00",
+ "generated_at": "2026-11-10T13:00:00.509313+00:00",
  "first_run": false,
  "sections": [
   {
@@ -11,6 +11,66 @@
     "defi"
    ],
    "items": [
+    {
+     "title": "NYSE Meets Avalanche: The Complete Tokenization Workflow",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xsm8sw/nyse_meets_avalanche_the_complete_tokenization/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-11-10T12:58:32+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "More Than 1 Million Wallets On Solana Now Hold Tokenized Real-world Assets",
+     "url": "https://www.reddit.com/r/solana/comments/1xsly0q/more_than_1_million_wallets_on_solana_now_hold/",
+     "source": "r/solana",
+     "type": "reddit",
+     "published": "2026-11-10T12:43:25+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "A vulnerability affecting iOS 26.7.1, 27.0.1, and 27.2 allows malicious apps to read local files from other apps, putting seed phrases, private keys, and login credentials at risk across the entire ecosystem.",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xskd00/a_vulnerability_affecting_ios_2671_2701_and_272/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-11-10T11:19:03+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Bitcoin dominance is near 60%. Why are traders still assuming altcoin season must follow?",
+     "url": "https://www.reddit.com/r/CryptoMarkets/comments/1xsjcar/bitcoin_dominance_is_near_60_why_are_traders/",
+     "source": "r/CryptoMarkets",
+     "type": "reddit",
+     "published": "2026-11-10T10:17:53+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "BTC Consolidating... What to do??",
+     "url": "https://www.reddit.com/r/CryptoMarkets/comments/1xsgtjg/btc_consolidating_what_to_do/",
+     "source": "r/CryptoMarkets",
+     "type": "reddit",
+     "published": "2026-11-10T07:34:24+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "This Cardano Sweep Area Puts ADA Reversal In Motion",
+     "url": "https://www.reddit.com/r/CryptoMarkets/comments/1xsgtfj/this_cardano_sweep_area_puts_ada_reversal_in/",
+     "source": "r/CryptoMarkets",
+     "type": "reddit",
+     "published": "2026-11-10T07:34:13+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
     {
      "title": "AMD is up 13% and I\u2019m wondering if AI crypto will follow",
      "url": "https://www.reddit.com/r/CryptoMarkets/comments/1xsg1g7/amd_is_up_13_and_im_wondering_if_ai_crypto_will/",
@@ -360,97 +420,36 @@
      "first_seen": "2026-11-09T13:00:05.101521+00:00",
      "topics": [],
      "section": "Altcoins"
-    },
-    {
-     "title": "Anyone else earning decent LP fees but struggling to actually get ahead?",
-     "url": "https://www.reddit.com/r/defi/comments/1xrbxu5/anyone_else_earning_decent_lp_fees_but_struggling/",
-     "source": "r/defi",
-     "type": "reddit",
-     "published": "2026-11-08T23:10:09+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Binance names new CFO days after $6.3 billion cryptocurrency hack",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xrblcf/binance_names_new_cfo_days_after_63_billion/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-11-08T22:54:22+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "What broker do you use for algo trading?",
-     "url": "https://www.reddit.com/r/CryptoMarkets/comments/1xraf76/what_broker_do_you_use_for_algo_trading/",
-     "source": "r/CryptoMarkets",
-     "type": "reddit",
-     "published": "2026-11-08T22:01:59+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Provably fair casino games vs onchain, is a committed seed hash enough for you?",
-     "url": "https://www.reddit.com/r/defi/comments/1xra781/provably_fair_casino_games_vs_onchain_is_a/",
-     "source": "r/defi",
-     "type": "reddit",
-     "published": "2026-11-08T21:52:29+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "The Mother Of All Black Swans. Hinton Warns of AI 'Chernobyl' Blackout This Year or Next",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xr8ze8/the_mother_of_all_black_swans_hinton_warns_of_ai/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-11-08T20:59:38+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Japan's Shinkin Joint Center Outage Halts ATMs, Counters at 128 Shinkin Banks in Western Japan",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xr8gzl/japans_shinkin_joint_center_outage_halts_atms/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-11-08T20:37:37+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Newcastle Superteam UK",
-     "url": "https://www.reddit.com/r/solana/comments/1xr6xrl/newcastle_superteam_uk/",
-     "source": "r/solana",
-     "type": "reddit",
-     "published": "2026-11-08T19:34:12+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Am I the only one who finds the decline of the Trump crime family bullish for crypto?",
-     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xr6c9o/am_i_the_only_one_who_finds_the_decline_of_the/",
-     "source": "r/CryptoCurrency",
-     "type": "reddit",
-     "published": "2026-11-08T19:10:07+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Altcoins"
     }
    ],
    "heat": [
     {
      "ticker": "SOL",
      "name": "Solana",
-     "mentions": 2,
+     "mentions": 3,
      "subs": 1,
      "posts": [
-      9,
-      25
+      1,
+      15,
+      31
+     ]
+    },
+    {
+     "ticker": "AVAX",
+     "name": "Avalanche",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "ticker": "ADA",
+     "name": "Cardano",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      5
      ]
     },
     {
@@ -459,7 +458,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      13
+      19
      ]
     },
     {
@@ -468,7 +467,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      22
+      28
      ]
     },
     {
@@ -477,7 +476,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      31
+      37
      ]
     },
     {
@@ -486,7 +485,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      32
+      38
      ]
     }
    ]
@@ -503,12 +502,202 @@
    ],
    "items": [
     {
-     "title": "Tender loving care",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsgbqi/tender_loving_care/",
+     "title": "Anthropic IPO",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsmch3/anthropic_ipo/",
      "source": "r/wallstreetbets",
      "type": "reddit",
-     "published": "2026-11-10T07:03:24+00:00",
-     "first_seen": "2026-11-10T07:00:03.780154+00:00",
+     "published": "2026-11-10T13:02:47+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Bro",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsm5q1/bro/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-10T12:54:14+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
+     "url": "https://www.reddit.com/r/stocks/comments/1xslzz4/anthropic_sets_price_range_of_70_to_78_in/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-11-10T12:46:03+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Why is SpaceX winding down the Falcon 9 program and getting nothing in return?",
+     "url": "https://www.reddit.com/r/investing/comments/1xslvx7/why_is_spacex_winding_down_the_falcon_9_program/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-11-10T12:40:33+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Every big chip stock rose on Monday except Nvidia. Its board is investigating Jensen Huang",
+     "url": "https://www.reddit.com/r/investing/comments/1xslo11/every_big_chip_stock_rose_on_monday_except_nvidia/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-11-10T12:29:51+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "I don't think she'll be able to hold anymore \ud83e\udd72",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xsli9n/i_dont_think_shell_be_able_to_hold_anymore/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-11-10T12:21:42+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Charlie Munger was way ahead of his time",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xslhqd/charlie_munger_was_way_ahead_of_his_time/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-10T12:21:00+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "What are your thoughts on the upcoming Anthropic IPO? Yay or Nay?",
+     "url": "https://www.reddit.com/r/stocks/comments/1xsl7w9/what_are_your_thoughts_on_the_upcoming_anthropic/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-11-10T12:06:49+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "My theory: Jensen and some powerful people have been making side deals with China, and the government knew",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xsl42m/my_theory_jensen_and_some_powerful_people_have/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-11-10T12:01:19+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Exclusive-Anthropic IPO to raise as much as $64.4 billion, latest draft prospectus shows",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsk0q6/exclusiveanthropic_ipo_to_raise_as_much_as_644/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-10T10:59:08+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "How To Tell If Your Girlfriend Is A Spy:",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsjy24/how_to_tell_if_your_girlfriend_is_a_spy/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-10T10:54:27+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "$GOOG announcing new TPU chips today",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsjfsh/goog_announcing_new_tpu_chips_today/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-10T10:23:42+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Crazy theory about nvidia debacle",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsik05/crazy_theory_about_nvidia_debacle/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-10T09:28:36+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Vivid $SEAT is primed for seasonal reversal. Here's why :",
+     "url": "https://www.reddit.com/r/pennystocks/comments/1xsii5e/vivid_seat_is_primed_for_seasonal_reversal_heres/",
+     "source": "r/pennystocks",
+     "type": "reddit",
+     "published": "2026-11-10T09:25:07+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "APLD BIG NEWS. Delta Forge 1 in Boyce, LA (where Meta is the tenant) may have over $4.6 billion in public financing via bonds",
+     "url": "https://www.reddit.com/r/stocks/comments/1xsi3h2/apld_big_news_delta_forge_1_in_boyce_la_where/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-11-10T08:58:44+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Help me understand overnight trading market.",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xshulq/help_me_understand_overnight_trading_market/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-10T08:42:00+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "What kind of fees do Authorized Participants charge to Institutional-sized buyers for creation of new etf shares?",
+     "url": "https://www.reddit.com/r/investing/comments/1xshij0/what_kind_of_fees_do_authorized_participants/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-11-10T08:19:25+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Imagine losing money because your CEO couldn't stay loyal.",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsh24e/imagine_losing_money_because_your_ceo_couldnt/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-10T07:50:07+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Is SNAP undervalued?",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsgufl/is_snap_undervalued/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-10T07:36:07+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "CoreWeave Q3 Earnings Preview: $3.5 Billion Revenue Meets $900 Million Interest Burden",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xsgnz9/coreweave_q3_earnings_preview_35_billion_revenue/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-11-10T07:24:17+00:00",
+     "first_seen": "2026-11-10T13:00:00.509313+00:00",
      "topics": [],
      "section": "Stocks"
     },
@@ -568,16 +757,6 @@
      "source": "r/StockMarket",
      "type": "reddit",
      "published": "2026-11-10T04:58:17+00:00",
-     "first_seen": "2026-11-10T07:00:03.780154+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "WOLF - 120k paperhanded",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsdy48/wolf_120k_paperhanded/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-10T04:46:09+00:00",
      "first_seen": "2026-11-10T07:00:03.780154+00:00",
      "topics": [],
      "section": "Stocks"
@@ -768,16 +947,6 @@
      "source": "r/StockMarket",
      "type": "reddit",
      "published": "2026-11-09T21:23:33+00:00",
-     "first_seen": "2026-11-10T07:00:03.780154+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "ONLY ELON CAN SAVE ME",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xs3hui/only_elon_can_save_me/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-09T20:56:16+00:00",
      "first_seen": "2026-11-10T07:00:03.780154+00:00",
      "topics": [],
      "section": "Stocks"
@@ -993,16 +1162,6 @@
      "section": "Stocks"
     },
     {
-     "title": "Oil is falling while stocks are recovering. Could this matter more than the tech rebound?",
-     "url": "https://www.reddit.com/r/stocks/comments/1xrvect/oil_is_falling_while_stocks_are_recovering_could/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-11-09T15:58:17+00:00",
-     "first_seen": "2026-11-09T19:00:05.488990+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
      "title": "What do we actually know about Nvidia CEO Jensen Huang\u2019s infidelity?",
      "url": "https://www.reddit.com/r/stocks/comments/1xruk8o/what_do_we_actually_know_about_nvidia_ceo_jensen/",
      "source": "r/stocks",
@@ -1018,16 +1177,6 @@
      "source": "r/stocks",
      "type": "reddit",
      "published": "2026-11-09T15:08:12+00:00",
-     "first_seen": "2026-11-09T19:00:05.488990+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "AI stocks have been under pressure, but what about the companies powering AI?",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1xru1vr/ai_stocks_have_been_under_pressure_but_what_about/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-11-09T15:07:22+00:00",
      "first_seen": "2026-11-09T19:00:05.488990+00:00",
      "topics": [],
      "section": "Stocks"
@@ -1321,136 +1470,6 @@
      "first_seen": "2026-11-09T13:00:05.101521+00:00",
      "topics": [],
      "section": "Stocks"
-    },
-    {
-     "title": "Seoul stocks buck gains on Wall Street to open lower",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrdozl/seoul_stocks_buck_gains_on_wall_street_to_open/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-09T00:32:19+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Anyone here built their own trading tools or dashboards? Looking for some advice.",
-     "url": "https://www.reddit.com/r/options/comments/1xrd52x/anyone_here_built_their_own_trading_tools_or/",
-     "source": "r/options",
-     "type": "reddit",
-     "published": "2026-11-09T00:05:54+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Did he have sex with the girl in the bottom-left corner?",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1xrcr1u/did_he_have_sex_with_the_girl_in_the_bottomleft/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-11-08T23:48:41+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "China\u2019s Bad-Debt Collectors Chase After 100 Million Defaulters",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrc11y/chinas_baddebt_collectors_chase_after_100_million/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-08T23:14:18+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Trump trade is back soon",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1xrbjy1/trump_trade_is_back_soon/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-11-08T22:52:36+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "the new destroyer of ports",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xraj53/the_new_destroyer_of_ports/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-08T22:06:42+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1xracae/nvidia_investigates_ceo_jensen_huangs/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-11-08T21:58:45+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Pinky promise",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrac17/pinky_promise/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-08T21:58:26+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1xra4vx/nvidia_ceo_jensen_huangs_letter_to_staff_about/",
-     "source": "r/StockMarket",
-     "type": "reddit",
-     "published": "2026-11-08T21:49:37+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Jensen\u2019s official apology letter",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xr9i29/jensens_official_apology_letter/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-08T21:21:50+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Statement from NVIDIA Board of Directors",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xr8rie/statement_from_nvidia_board_of_directors/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-08T20:50:22+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang admits to infidelity in memo to employees",
-     "url": "https://www.reddit.com/r/stocks/comments/1xr88hz/nvidia_ceo_jensen_huang_admits_to_infidelity_in/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-11-08T20:27:30+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Nvidia Board to Probe Spying Case After CEO Admits Infidelity",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xr7qz8/nvidia_board_to_probe_spying_case_after_ceo/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-08T20:06:54+00:00",
-     "first_seen": "2026-11-09T13:00:05.101521+00:00",
-     "topics": [],
-     "section": "Stocks"
     }
    ],
    "heat": [
@@ -1460,9 +1479,45 @@
      "mentions": 3,
      "subs": 2,
      "posts": [
-      26,
-      54,
-      57
+      44,
+      69,
+      72
+     ]
+    },
+    {
+     "ticker": "GOOG",
+     "name": "Alphabet Inc.",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      11
+     ]
+    },
+    {
+     "ticker": "SEAT",
+     "name": "Vivid Seats Inc.",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      13
+     ]
+    },
+    {
+     "ticker": "APLD",
+     "name": "Applied Digital Corporation",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      14
+     ]
+    },
+    {
+     "ticker": "SNAP",
+     "name": "Snap Inc. Class A Common Stock",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      18
      ]
     },
     {
@@ -1471,7 +1526,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      1
+      20
      ]
     },
     {
@@ -1480,34 +1535,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      3
-     ]
-    },
-    {
-     "ticker": "WOLF",
-     "name": "Wolfspeed, Inc. Common Stock New",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      7
-     ]
-    },
-    {
-     "ticker": "BTG",
-     "name": "B2Gold Corp Common shares (Canada)",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      9
-     ]
-    },
-    {
-     "ticker": "GORO",
-     "name": "Goldgroup Mining Inc. Common Shares",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      9
+      22
      ]
     },
     {
@@ -1516,34 +1544,25 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      9
+      27
      ]
     },
     {
-     "ticker": "SNDK",
-     "name": "Sandisk Corporation",
+     "ticker": "BTG",
+     "name": "B2Gold Corp Common shares (Canada)",
      "mentions": 1,
      "subs": 1,
      "posts": [
-      11
+      27
      ]
     },
     {
-     "ticker": "SNDQ",
-     "name": "Tradr 2X Short SNDK Daily ETF",
+     "ticker": "GORO",
+     "name": "Goldgroup Mining Inc. Common Shares",
      "mentions": 1,
      "subs": 1,
      "posts": [
-      11
-     ]
-    },
-    {
-     "ticker": "AMA",
-     "name": "Defiance Daily Target 2X Long AMAT ETF",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      17
+      27
      ]
     }
    ]
