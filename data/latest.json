@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T12:00:06.282668+00:00",
+ "generated_at": "2026-11-14T17:00:05.730905+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 35
+   "item_count": 29
   },
   {
    "name": "RWA",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 22
+   "item_count": 25
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 88
+   "item_count": 77
   },
   {
    "name": "DEFI",
@@ -71,18 +71,19 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 22
+   "item_count": 21
   },
   {
    "name": "Technologies",
    "kind": "trend",
    "aliases": [
-    "Technologies"
+    "Technologies",
+    "Technologies Inc"
    ],
    "first_seen": "2026-11-14",
    "count": 8,
    "ratio": 5.16,
-   "item_count": 14
+   "item_count": 17
   },
   {
    "name": "DOJ",
@@ -93,7 +94,7 @@
    "first_seen": "2026-11-13",
    "count": 8,
    "ratio": 8.0,
-   "item_count": 15
+   "item_count": 10
   },
   {
    "name": "$70K",
@@ -115,7 +116,7 @@
    "first_seen": "2026-11-13",
    "count": 6,
    "ratio": 4.2,
-   "item_count": 7
+   "item_count": 8
   },
   {
    "name": "Earnings Call",
@@ -126,7 +127,7 @@
    "first_seen": "2026-11-13",
    "count": 5,
    "ratio": 3.97,
-   "item_count": 12
+   "item_count": 10
   },
   {
    "name": "Anchorage",
@@ -137,7 +138,7 @@
    "first_seen": "2026-11-13",
    "count": 5,
    "ratio": 3.5,
-   "item_count": 3
+   "item_count": 0
   },
   {
    "name": "CFTC",
@@ -148,21 +149,525 @@
    "first_seen": "2026-11-13",
    "count": 5,
    "ratio": 3.5,
-   "item_count": 22
-  },
-  {
-   "name": "North",
-   "kind": "trend",
-   "aliases": [
-    "North"
-   ],
-   "first_seen": "2026-11-13",
-   "count": 5,
-   "ratio": 3.48,
-   "item_count": 26
+   "item_count": 19
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T16:38:57+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Texas Bill Would Let Every City and County Invest $10M in Bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iZ0J1Vkx0YUhMeDdwZHpKMjVnbF8yY2RYcFk3NlBOQ1IxalplR0VDYWdpVGxTa19pQmxzMFN6UzNuM1FQU1dyYTRua1VMUzRUcm54MXB5eUwydmEwSElIaW9Xcw?oc=5",
+   "source": "Bitbo",
+   "type": "news",
+   "published": "2026-11-14T16:35:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T16:33:29+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+   "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T16:33:23+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenp5c0wxeVNoM3R5Vk5KZERkZVJ1NjhqUllaM3lzUW52c3BVRzRMc0xMbTRIeV9XWGRXc0VfT0szOE1FbkxSOE5wMXJwTlVNQTBxbUQ5aEliQWZqTVJpVXdFc01XRWhWTC1zVHlLRngyUGpUZVQ2REs4U19INFp4ZF9Cd0tEazN4b3dKd2d5ekZtQ2Y4ekZkOU96WQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-14T16:10:47+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "A16z, Paradigm and Uniswap back the suit against Illinois' 0.2% crypto tax",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQenBnUmxtNFRoQUhTU1NIOXZmMUtYS1pldjVURHY2TjNseHVMSjMzdUtjbjJoWTE0NDNVN194ZmVRZmpxTFZBWWU2ZHVMSHBIYmxpU3VqVERFUC0wUWU4RGd3VTctdmw3QkoyREJrNFdQS3czcXpFc1NOR1Frc0huRXB4OVY4UGxyLXlDM2VJRjYzQjJwM0JQLVh5Y09tMjQ?oc=5",
+   "source": "Startup Fortune",
+   "type": "news",
+   "published": "2026-11-14T16:10:17+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "DEFI",
+    "Illinois"
+   ]
+  },
+  {
+   "title": "Bitcoin and ether could see sharper swings as options hedging fuels volatility",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOS1BbnJwS2RLNGVLay02R2NROXMwdmJvOGgxLVU4d0tMY1RSMjY2OUVkd0I1NUJfdVhHa1JrN1gwNlRYcm45aHBhQ2dEenBONWwxd20yclRiU0Jfa25rZ2NKQ05Bd2V6NmhpWS1CQ3RXRlJ3U3NaOHpPV01Zck5NektCNVdYemFxdG9ubUNMSnRfTjF6c05iRDlIZVFzdVJjRGx2Wk1IS3VqNWVNRnhpZGtUQzJfSGc?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T16:00:51+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Stablecoin transfers on Tron settle nonstop as markets shift, Justin Sun notes",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWThlTjdKMUpGOWhxOGt3bXJQY1VlM3NiQU5TWEpabTJvU2dIeFBkWDY2YWRuZmU2aEVKLUI3ZXV0TDdmYmdWS2VSckU1alpjY21MeV9LN0JZVXNJVmVRSU9wYXNMQnNvckdjV0owWE9fZ0k1NWNnWWgydGRhdEkwZ2RQaWJ3MjVPUmRJZGlIS0p1SjVI?oc=5",
+   "source": "Traders Union",
+   "type": "news",
+   "published": "2026-11-14T15:55:18+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+   "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T15:38:27+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Binance Coin drops almost 6% after sharp sell-off linked to stablecoin contraction and derivatives liquidations",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGNQTUcwakJGdWNkRW96UTdyalpSZkI5cElaemNvTTNrZUp6SUNtTlYzMDRCR2ZnbHRiN1Y1ZVRDQ3NVSGliMmdNTkg1dVlHSGswTWZ5N0VFTWNJbVpTNTdIWFdSb1ozYUhOUVh6VmU2M2Y2RG1qZ0w1MWhncDFkSzg3Y1JJTGhmU3RHTGdyQVgtdVE4bU1wc2ZvbVd4WWd6YVZz?oc=5",
+   "source": "Traders Union",
+   "type": "news",
+   "published": "2026-11-14T15:29:20+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday\u2019s Low",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-14T15:27:33+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Analysis: Where Is the Bottom as BTC\u2019s Correction Accelerates?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdk9sbGg0TmgxbnpHTTR4dTVseGdQXzVRMmY3czhzWGNiSUpnZUNXWktRUXRxSWM3SGc5VzZwaGhocEdORE1pTGg4VlRVNlVrdUdOWlFDV0V3ZE5CVlN3Vk40MTZoN0NneFRpSnI2NlRpQV9nUjF5ZjNCWDdYZWVkbGNZbWw1aU9JMDdOajg1dDlmZnVLamRhVDlyRlNaMGZF?oc=5",
+   "source": "CryptoPotato",
+   "type": "news",
+   "published": "2026-11-14T15:26:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "W. Illinois vs. Minnesota Odds & Betting Predictions November 17, 2026",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXVud1lVT01wZC1BZ3lBb21jYjBEWGhnMVZ3Y0ozVE44QmFzZW9QR1QwcFF4OUtQVTNjbjZPVWN4S29ST0JSS2V0VU9UaWIyVk4xLXJvVU9ZZHpwMF85Y09XUnk0NVUyUC1uT0ZWNkZGUjVlcmxhX0dyY0ZvRzRqMy00RUtaUmVXeUg4a2d6VXhpM3J3bEJ1NHBweldUSFI1UlctVg?oc=5",
+   "source": "Action Network",
+   "type": "news",
+   "published": "2026-11-14T15:19:04+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Illinois"
+   ]
+  },
+  {
+   "title": "Mario Nawfal: Bitcoin and Ethereum fall with almost matching declines",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1B4NnhaamtYcldYaUZScHlva1k1b3J3Zlhxelg3VHNKUTRQNGl6YThLZ3IteTk2YnZuMzJtNTU4dWxzMjRNSG0xdWVuNUprbXI5WkhTeENaREtON05qVk9wdXdxQllBVnBkb1lLbFlqblM1OVhUM2RKZnVTVi1vUVVHZm9ERVpSTDdEeUx3?oc=5",
+   "source": "Traders Union",
+   "type": "news",
+   "published": "2026-11-14T15:15:55+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Northeast Iowa officials draft rezoning plan for bitcoin mine",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS19MVGV6Q2gwcF9aRE5FTkY3SHJDNDVzVVNsT1JTNnY4WnIyLWMyTlh2SW5Sd29yazk2RFZiVUw0RVozRlh4bnhyNnVZczlKY2l1SlM1cEhuS1dEdW1EU3Z3cUVOczhtWG5Ma1VKY2l6eUMxaEpDOGtTNHZ1dkZPbmsteXhXVTgtZXRQaHVNdFhESV9hdE1iYW00V0RSaXhMOEE?oc=5",
+   "source": "Storm Lake Radio",
+   "type": "news",
+   "published": "2026-11-14T15:06:14+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "What Is Driving SoFi Technologies (NASDAQ:SOFI) Digital Banking Push?",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmFRSDUxSUUzQTlOSHlzYjlSVElFdHZWVTNSd2l0Sjg4bnQ4S3FRSVFNdzcwUGNPbkdIaUNvc1pxQVFoOVZWUTktM3BSU05NQWY3UXpsTG00WWp2NlFIQVdOYU11VGdqQjRaaVF2SXBSU0RDalNNUXZuQzJHdDhUblFSTmRCT1lmQkhUM1NTbjlEcTFDR0xyWXlGYk1HZjBTS0EwT3FBRnRvSENEZ1N3?oc=5",
+   "source": "Kalkine Media",
+   "type": "news",
+   "published": "2026-11-14T15:01:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Technologies"
+   ]
+  },
+  {
+   "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkZIQTA4ZnRvTHpyc1RTMUp3RWw2aDNBNXNXdnJRRmlqMmxIekNVWmpPN2pOallua2JpNDZQcFZ6QlZKbWlMVjdFMXJIblowclhFdFRBMno3Wld0RUFuT1FhMDhCQ3l0SmF1OV9ZUTdVdWozY0pyYnFLdmNGSWY0WGVCQjRndHlXdXJhb0txcWN6QmV6V0gyUVZxd1Eyb0JqaWNqS2RkdFV5MmNwZEtQR0hEOU5CMzFZTnRHNDh2MVF3SlVQejQzVlpnQzdNZw?oc=5",
+   "source": "Investing.com",
+   "type": "news",
+   "published": "2026-11-14T15:00:29+00:00",
+   "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T15:00:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitdeer reports 256.1 BTC sold and zero pure holdings",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPOFY3T0c3TXlUUUREVFB0Q1lfWjE4amhjTElMTURmZUVSdUIyX0hLOVhJZ0VxWThlelB2X3c1bmZlMG94M2RYdmhHZXlxREJvQWZFclN3c0VMNTdSb2VNVWY0TkFGZTVlY0JiT3pncw?oc=5",
+   "source": "Mugglehead Investment Magazine",
+   "type": "news",
+   "published": "2026-11-14T14:53:48+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Nakamoto Debt Dwarfs Market Cap as Bitcoin Price Plunges Below $67K",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUVjSzg5dTdmaDhvV3VZUjRhenhBdEttRzk0ZVpmMEViMEpZXzBKT25HVTdETTFjbHRpdFZRZEpwXzI3UlR4c2g2QzNfT3RBYlJoY1NlTFBuemstSVNqUUVKa2ZHdHZvY2VSZ2ZnNE5jcjFSR0NhWG1YMkV3bnViTmlwTnozYm8zdWcweVFsSmRKZEE5VGxKbk9HNFhZYjlhSWc?oc=5",
+   "source": "Bitcoin News",
+   "type": "news",
+   "published": "2026-11-14T14:53:23+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto Market Crashes as Bitcoin and Altcoins Slide, Fear and Greed Index Sinks to 17 and Liquidations Surge",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTG56RENCMERuRWRkLVR3a2RwdV9ubTV5X3N4RThjWTQtX3hNZ0stQ2k1WGRaMmF6TU9WTk1qQWpzdlFCTEFWUzZyU3VzOV9leHlNWklFRVNvNDFSSVdYWUFQMTlKRkxubFpvVWpBcHAxNHludnRSRlhIVHk0M2xHSnBsWU5vcTF1ZzRPQXdONnBOTnhiZmc1ajdZbUxUZUp1cFc1ZWVySWhQZlRuU0RmNE5ZUUZyNWd1WlA3bUhTX2pHSWxDd256XzlzbEJOaGhMRXMyUnpSc2JDLWdHWkxlUkxZT1BxQU5ualE?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-14T14:30:07+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Try Your Luck at Bitcoin Mining with This $45 Desktop Miner",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcEYzMkxCMno3Q2Nrb2RDSmR4WVVKVXZEVV81MW5FMG1Fd0U5NEJqVWN5ZU9ZYVFCS1M5RUlDY2FZVEIwOEhBS2VWRmJTbFJ1TVJMY0Zod3JyTmgxd3hKMm5yUzR2NHZGdFRQSlozY3BZWHZFUmRNZmpaLVBrZTJLWjFEemRFN0FmUUVFQU03SkN6VkJPWGh2YndBSDE2YkVYenJMRk0zYUFpQQ?oc=5",
+   "source": "Entrepreneur",
+   "type": "news",
+   "published": "2026-11-14T14:03:45+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Lido Finance Introduces 0x02 CSM for Ethereum Validators",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FME5iZWVvcU1KOWp1MDBXX0ZmRjZZLWthc2xwVVI1M0EzVGNyRmtKbmhpeU1KeHNfVkgtdVpsTXFsU3E3UVFQZENhNEw2T1A2bnVvWFd4LUtvdw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-14T14:02:57+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Ethereum Price Remains Under Pressure: Are ETF Outflows Pushing ETH Lower?",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlX24wY2RDTXBhckJQa1A4cHRiZ0ZPbDlEQVd2Q0xnVXpBY0xhZTI3cHNHbl9YZGplcnhHSlI1QXplWGxjaUFMQm8zY0RFbUx0R0tFQmJ5dF8yUQ?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-14T14:02:26+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Base Tokenized Stocks Launch on 1inch, Featuring Major Tech",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OX3JFNVU0T1hiMHdTUVp1X2tWcWtkUWRRVVdCeVRraXZKQmJ2dzdWSm9RRWhmOGJPYi0wc1Q5OWlWVzhaVGFNVzVLZ3hLR1M2bmwtamxhWQ?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-14T13:52:47+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Polkadot Bets on a Messaging App and a DOT-Backed Stablecoin",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FZXVFaUVldHRXYk5ZbzNWOW8yMmtRS1ZyLVl2UlJoOEJoSDNJMG1uSXg5TE5iemFyY1d3M1g0WWZTNFdROVh2Sk1VRjFNem10aDBhdGRGVEhFZw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-14T13:52:26+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Bitcoin falls below $70K amid institutional wit...",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWGtfT21TQXFSd19JbGxZMndfaWhsckIzM0t6bHlSd0RycG9aSlpMc09MaEYzbmh5cTJETnlhc2Q0TzdjRmNoTUhSRWE4bG43ZkZYTEl3WmRZSzNWMEJoV1J0U1llWXZ3N0lXam52NVRtWWxwb0FlTzg5NWRCLTdzOVpFdVlXSVVJaEt6R2tqRG9VWFdW?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-14T13:44:41+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Avalanche News: Deposits on Aave V4 Surge to $225M",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1eFphWjdycUloVHpiaDNOOFJuM3NjaEI2ZGpUZlRwWElzRDF6SVJleEdBR0ZGMk9xUHFGcGduZ0dHdnpBd3pfRzM0Q3ZDYUNKdWdrVw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-14T13:43:12+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Bitcoin, Ether Lead Crypto Chatter, but Avalanche Is the Only Token With Positive Buzz",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IUnpGVzdxMzNrY2J6TVJvTWdEcUJSdThpTlRrWWxFbk5oMUhvX2E4T25YU2lMNzM0QTBVRm0yRDdZNy1HUVhMTUk1cXljUk85aDlIdm1keGg4TzRyQmhTVmlGaFNldlFsOEQtR0hwUzZidW9nTFE?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-14T13:39:16+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitbaby Market Daily | Nov 14 BTC fell below $70K and ETH sl",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FM0V3Z1paa3p6UVlrVzVKOTVncWFsZzlMdkJETnJmR1V0TElxa3lIWTRVRmJuYm5uVkg4VlEyc0lST0tUQW95WkVrV2Z6cmxEWmxwS1BJSGtkMFNhTXpvOC1peElXZXFTMTNSaHBZdXhNZw?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-14T13:30:22+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFZqX2ZESVVsSVVJMU1kR3czUU9wYzdyN3lpTkZsMms4azhnTVRyTkpEZ055c1BjQ1RiTDNLVWZTcHFLYkNQY0RhQVIydEthXzFpTFVvMGxPaXZPM0VFdzEzY1psNi1xOE5ZYzlaRjBrWVZQU1oyRkdCMzRfX2VyUVkwbXQ?oc=5",
+   "source": "Financial Times",
+   "type": "news",
+   "published": "2026-11-14T13:00:09+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+   "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T13:00:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "UK pays wind farms to switch off. Crypto advocates say bitcoin miners can fix it.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2dSTVgteC1yX2VlNTZtTVNGSDBmZGIxQjhKN3VZclU2UDh2NEpBak40REhBcm41REFGaHBKQ3pZcnlyaWZPc2FJVnJiZ3pZWFUtSHM3ZG0wbnJDNEg2a1hoTkkwOXJfVUl6aWdKRm1pVGVHVHBlOGpMYWhKaExDeW9rdi1DRWp5OEhQS3pZWEExSVJsZkpxUmtEb0VVY3dtcDJlTGphNlBnNmFWSTNEUko5cWgtcUdWTkM3REU2ZUVrMEsxdlFhM0k1aHI0OFNvV2hR?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T13:00:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Pyth Network Contributor Douro Labs Urges CFTC to Require Multi-Source Prices for Crypto Liquidations",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UM1dycUFOLUxYRk1vcEVsUlhnU1FOUHV5V3F0WURsT05vY3pNcVo1YmNBOHJ5YjY4WFdibDdZME5KNFF4Z3IyS2w2blRvYnB6UjRUZENTZUxYb09v?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-14T12:58:14+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "CFTC"
+   ]
+  },
+  {
+   "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+   "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T12:57:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "This silent force may amplify bitcoin (BTC) and ether (ETH) price volatility",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTlrQ2xGRGlaZ0c1V1BYWFRUYmlBaWdhNGhWZktKT3VJZnk0aG14N1BzQVNnQmVSVEh0cnhnWlh5N05ZSHY1dUV1N2FqZzIwbVkxektHTUZzM3UzakZNMHVFZ0plekJwZzhHZ0pfcWxwZkEzSUtSUHdTSDJGUUExQnByVi1rOFUyaENrdVQteHFpemttUHJVcS1Oa2VYeGVncTZCLVhwb240TmRKYm1LUE9JYkxaMU5QTzNB?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T12:57:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDVaaUZCZldMU2doOEtJMXpaalh1Sm1JNzl0ZGhDckZpTTdKQ3JhdHU2c1JQOW9SU3lCTDBZMjR0cGU4NUFtbjd6U2hSZ09tSi1oVGsxc1JST1ZYYUdhRVc3aWtKWjM3OFBjWTlkblZqSUlfVVJCczl2UFhmQkE1VmE3YmI5YTJpOXlmWXlzbkI?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-14T12:52:29+00:00",
+   "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "ShapeShift Founder Eric Voorhees Buys $97 Million Worth of Ether",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LVkI4RDBZaWwyejZmV1B6bVNBd1U3SXYwNXQtajUxOXFIeXU1alpfTVVxaXpLN3YxR0xYVTBvbXBuQy1BREJLbUFLdVlRb09tU3I1Nw?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-14T12:52:16+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Weekly Project Updates: CFTC Weighs Charges Against Kalshi, NYSE Uses Avalanche for Tokenized Stocks, Zcash Pushes NU8 Major Upgrade, etc",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Bd1Y0R2JpcUlFTVFQTkJHclNaaFhOOGRKSW9Oc2k3QnJEWHZaTktGVDhtX2d6bFduVENFQkR4eDd5OWppay01U1B1LWxsMHBpYzhwQnB6dURSOTJhUXBuTGthTmRjSUZYY0dEeGRyRTRqd2c?oc=5",
+   "source": "Substack",
+   "type": "news",
+   "published": "2026-11-14T12:48:41+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "RWA",
+    "CFTC"
+   ]
+  },
+  {
+   "title": "Aptos Stablecoin Supply Rises 17% in a Week as Wider Market Shrinks",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlWHU1cWhPRUN1V05yNC1HUFZxRnR3bnJkQkt0aUdNNmhtaE52QlVoNGxOdGx4Ymc4YjJfRHdkOTliR3B0WWwyX1hVaF9xYXVheEw1ZmtaNEZEUQ?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-14T12:38:05+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "CFTC Warns Kalshi of Possible Charges Over Contract Notifications",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1BOR0luYlZTYzBuOFdtQU9ibGZVQnIwMC1FZzQyaWZPSFlaam96OFpham93S01ZclFpWUV6N1dWTXJzdks4ZU1PLWxDeXJON1F2NG5kTG10Q2pQUnkyX2RrSENHbEJhSk14ck4yMHJYcGZ2cWRGMXhYRm1qQVJZdmlHRWlMNDVYanRXb2MtQ242LVo3OFk5aS1Cb1IzNHBsRjZPWHV3?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-14T12:27:18+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "CFTC"
+   ]
+  },
+  {
+   "title": "Ethereum faces temporary issues due to cloud provider malfunction",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oaHVnRFlleDJUX21PRHVOcmtwWXNRWVFMTXBBdlhWYVk5Yld1YnJ0d2lBLU8waDQ4cV9zYy05Y2ZnSVZqMmxfN3RjV0J3UHE5TldWaC1hSFlUZWZxRjVWaWFsQTBqYWRhd1FNMUFzbGhoRVAxcE9kS09lRTY?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-14T12:24:31+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "\u2018Don't Wait\u2019\u2014Bitcoin Suddenly In Free Fall As Price \u2018Collapse\u2019 Fears Trigger Surprise $2 Trillion Crypto Crash",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY01Zd3JwVWFzTjBReVVyWEdXT2VDdWJ2cUFwb1ptTTduOXdRbmp2Mjd5eU9fU21kcThub2NDZ2pqNTBOM1VPTTVRY3lqc2NfTFBjS0llSjBrZEpuQVhBa1RiWkV5NnZyX0NuMTZqamhXMkVfVlZJOWttV0dlbVhLYnFtZnAtLTZUNzJnM2ZnRXZvdjI0ejg5cmZ6QUI5QTM4UERnODIzVkZtTTUtbjlJczE0TkRtSGUydUlZc0ZaV3c?oc=5",
+   "source": "Forbes",
+   "type": "news",
+   "published": "2026-11-14T12:15:05+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Stablecoin Supply Falls by $17 Billion in a Month",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wN1M3YzdYWlJvamRvQnlpWVBsZVZ4Z1FyQ3Y3SzJjcFVaallXN2dTMDF0cl9tR0M5ZVh5cE5wb1JTc0tPRWRsSm1NN3FvX1l4QmUzVA?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-14T12:02:39+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Strategy's Michael Saylor Says Bitcoin Is Now a Bipartisan Issue That Crosses Party Lines. Here's Why He's Right.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekdFNXNYTWZYbC1WakM1SUFFY1BETXJwSXBLdlExdEpwTzVwVTk4My1Pc0NheHVfSW93WW1NOGo3X2gxeU05eGJEcTlQcktteFRsbThuQjBFUDRwNEFucFFxUzF4QlI0cUZwUFZ1WC1CLTR2UnlocWRxSkZjU2pPOEZrMVcxNFZrYTVRNmg0SDZ0RHc5MkdCVjJqQ09hd09WM3RwUQ?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-14T12:02:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Should Ethereum Tax Its Apps Like a Nation? Arca\u2019s Jeff Dorman Says It Has To",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTVqMU91YzJJdmZkUWJTMy1GbDYyWmthRjdqam5sUkQxaXB4T0hPRlpDVC1IMzV3YkhRVFppTGthdW40ZmxFbmNMQzFOTlktTlNZelJnUHRzNGJzSXVpWm96RU9xdW9GXzVFaHJTajVBbFlJV2lZOEFWVF9vc0Focjg4cmNKRGpqYzNDMlhCZFhvbnpPNXo4WTRXYS1OOUk4U0k4enVtdw?oc=5",
+   "source": "unchainedcrypto.com",
+   "type": "news",
+   "published": "2026-11-14T12:00:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
   {
    "title": "Ripple's RLUSD Hits $2.71B, Overtaking PayPal's PYUSD as Stablecoin Competition Intensifies",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMG1mNm9lQ0l1Z3JEVzA2aTZCeFRXY1AxWXBsVTZaUGl2cE1tMXhJcjlBVGFoc3prd1NlNzRyLWs1QnZzOVRWVUJfZlBTLVhwR1NBbDVlc1lSOGJndlZVSXRUSXdNUTR5Z3F1YzdZQU93S0dzNHJaWmpHWkRfOEpyZ3hqRTEzYWt3MFEwdFdFMnFuaWZyTEpjd2N3TmNtRDVWN3ZwdkZrWHlkMnBmc1BmN1FKU0NTNGhPTUFF?oc=5",
@@ -172,17 +677,6 @@
    "first_seen": "2026-11-14T12:00:06.282668+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Strategy's Michael Saylor Says Bitcoin Is Now a Bipartisan Issue That Crosses Party Lines. Here's Why He's Right.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdERjNnp1R0t2MVBMeXZDM1ZUT3FPQmc4NnJYWktUYnZObnFTRWsyOGJFZ3RJVU52ZWJwQlN4M29ZbWd5WkFGdUhWM0ZWNlEzaXpycFd0Sm1ubFBvWE1wYmxqV2ZJZTNscFl1a09CQjdlOTVQY2JlR2sza0Y0VFZKNjl1RDQySVYwSlg2ODdxcy1ObjNZQ21LZg?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-11-14T11:42:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -205,28 +699,6 @@
    "first_seen": "2026-11-14T12:00:06.282668+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "North Korea denies role in huge Binance crypto theft",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HV2FZdlMzYzI3VGZJNkxRRWhpSkRGMmpIM0xRT2ozY2xNXzFrNllIQ2ZCT0dxU3FKbFFWa0dvY0lZNDAxeS01aS1aYWpOSDA2SGZFbnB3ZUdQOEZMM2c?oc=5",
-   "source": "\u671d\u65e5\u65b0\u805e",
-   "type": "news",
-   "published": "2026-11-14T11:21:26+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "ETH Price vs. Onchain Economy: App Revenue Tells a Different Story",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50NzBOdnVBVWdWM09WQUdLSVo3Nk5nc0ZaSWI1czZidEsxSmptbUxHU1N4VldKdWt4emFhQkRFLWNlZFV1bzBzVzZSV2gzUzNIRldUaWluWTNmSmdQSF9OOTctdkdZNVFxZUJWUU1XbDY?oc=5",
-   "source": "CCN.com",
-   "type": "news",
-   "published": "2026-11-14T11:19:03+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -263,17 +735,6 @@
    ]
   },
   {
-   "title": "\u200bNorth Korean Hackers Stole Over Rs 3,500 Crore in Crypto Over 18 Months, FBI Warns",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1FSRlI0bmRFLVlDVnhua0VGeW9TeThiQUlUMjJ4OGYzWlRYdXhiVDBzcWNycUJHSi1uZmhxUkVHZXBqNkxhTFc1NGZmVDFoMUhfVmNFRWE5c2JQbDUxSGp2Um9JbEtOd0xGbm5WSWF3cFh3OWFHempha2VJLVR3d0dnaVhXTDZZRl9jNUN1RFZtUlloaU1vYTkySmpDR3hx?oc=5",
-   "source": "The 420.in",
-   "type": "news",
-   "published": "2026-11-14T10:25:55+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
    "title": "Eric Balchunas Calls Nvidia-Driven Market Sell-Off The '280th Nervous Breakdown,' Sees Bitcoin Base In The $60K",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVR0T1BfM2ZBMkJhbDVhNXdldUlZOFhFZTFqZzFibnJQQXhwVVEtLTJGdlJpLWZYUlZ6ajlkOHhodXc3c2pvaGwxNHhKYm9EZWxVRWZERmFTaFR5LV9zanNnbHZRM05xNFRfTU5EODdUa09RaUotRGQ1Tk4tRXJFejhlWVRUUHpkQXBfTzgyM0I4ZE11NU1MbzhSU19ZMFlE?oc=5",
    "source": "Yahoo Finance",
@@ -285,22 +746,22 @@
    ]
   },
   {
+   "title": "Trump Nominates Four to SEC, CFTC in Bipartisan Crypto Slate",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZEhGTU1vM25oSVJ3alZVU3VkRDBwMC1LclVfbUNRd3k1VXlLZWdaOGtNLVhpLXc2QURtVGdra081cEJOSU9NODBWRHJ1c1dLX2JqZUVQU2FmRmU4TS0xdXJtV2pkRDV2OUJ6M3lpUnhfdHg2c3pz?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-14T10:10:25+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "CFTC"
+   ]
+  },
+  {
    "title": "Meet \u2018Captain Keel,\u2019 the 37-year-old steering a Bitcoin miner into the AI data center gold rush",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWN4LUNvR3dwMFktYVFpRmZuM3MyLWhCakVVQUJjbkIwTzI3Qk1qa2Njd2lPYU1pYVdHVGRSbmdnZjBMZkZVbkt5ZHAxLXBYdVZmcXVMakxtTnRjRFFPRmgyUDNzWS1oQnI2dFN2cm9FaF9IczdjZ1dMTlhJbF9DRkt4RlpFVGkxVk1xUGYtRFk?oc=5",
    "source": "Fortune",
    "type": "news",
    "published": "2026-11-14T10:00:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Peter Schiff Predicted Bitcoin to fall below $16,500 and Warned about Risks for Strategy",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHkzd05uNWRXakVJS1NjRHFkUzZHQ1JNcmRQY3kzS3RXMHJ5cms3aGUySjBRckpJaUR0anZGcU11Qm9LS1laXzNXTzF4Z1hIaXJLOTdfa2RxdEdUQVY1ZE1ocUxhYzhlVWhEcVdobWdzR1pQSUhZdzU3YlktSlk2LTNDV2syRlV3ZGwydlBKQkVOTVFCQmNlQ3dJYkZxVXBrcVM1NmpicW5PZ0prdlRNVEtB?oc=5",
-   "source": "Incrypted",
-   "type": "news",
-   "published": "2026-11-14T09:44:04+00:00",
    "first_seen": "2026-11-14T12:00:06.282668+00:00",
    "topics": [
     "Bitcoin"
@@ -329,28 +790,6 @@
    ]
   },
   {
-   "title": "Wall Street Zen Upgrades DeFi Development (NASDAQ:DFDV) to Hold",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXEyaEt1ZG9IQkxxRU5HTS1pX3lyTVpoRGMwM3d6SUozVENCXy1tV2p6YWtKUW03RkQyQ0U4UERNQVBCRkJqd0c2dmNlb3hINjZNdnJRa1M2dHpUWl9abHpVQ2c3N3czWDdkaFIwMGtfMWJ3MV9tdDBZTG5aV0h2SE9rR0Z1dkJkVjlBUjRXSHJaUDdnNWNIbDZFczVzb0NmMWsyallwSnlnc016UENUd2ZBOEZoOElqd00tZmZEYWk?oc=5",
-   "source": "MarketBeat",
-   "type": "news",
-   "published": "2026-11-14T09:15:54+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "How Low Could Ethereum Price Go In NOV 2026? Kalshi Traders Predict $1,760",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdE0tVFlQR0dNc0ZNTHNNSVh2SEQyWHBjX3VvYmd1SFFvcEo5aTYzcDRrRFVOd3pWeFlkWVlfc2Nodk9Yc3o2Q0UzTGR5eUViemhMcTROQ19fVXNNT3lJT2cxYUhiUlpVY0NPREdMTVhQWmQ2YnVycXNNNDliak9IaGlhdURsVHVibUFoVGZPNXpmQzJEWHhWYWUyZHhudGhHVTFV?oc=5",
-   "source": "CoinGape",
-   "type": "news",
-   "published": "2026-11-14T09:09:30+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "Crypto Hack: DOJ Seeks to Seize $1.2B Stolen from Binance",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZS1iQUdIeVJoS3hUQnJqNzNUS0cyZndzUzFla3pLYnJiZWdVeS1EMzBIa3hPTjUzZGpIc2p5N1h0RFYxdXlGUkR1NlgyMVRhc0hJOENHZ0VWQWR4S0o1bzlUbU5wTTRYZmVPZ0pla096MnFJZGJqSXFsQ3R0ZE4wZ09zWFBqLTZpanQwbDRzVFA?oc=5",
    "source": "Cointribune",
@@ -370,17 +809,6 @@
    "first_seen": "2026-11-14T12:00:06.282668+00:00",
    "topics": [
     "Technologies"
-   ]
-  },
-  {
-   "title": "Peter Schiff Warns Bitcoin May Fall Below $16,500 After $50,000 Break, Says It Could Be 'Curtains' for Strategy",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWlIVU45dm9ENUI2Mkh4ekpzNGJ4d1ozMXlJS0N6MXdnZTVzUUZ6SGtYQmR0OGtkM0F3NEd6UnI1anltcHRialhHellORzkyd2hHZ3VKTExDZ3NLRU9DNXdvVUJsQVFiLUltTlo4T1cyRFRmWGFLZzRoY0doc2Z1dHozamYyckdUWF9YbnphY2hxQ3k3NzVaOUhzYXBjbHp3X0E?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-11-14T08:52:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -428,14 +856,25 @@
    ]
   },
   {
-   "title": "Crypto ETFs lose $1.53B as Bitcoin leads another week of withdrawals",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSnh3RHd3U1FqVFR6QVE4Y2NoeU1nMnlVMk5oVDZtSHJQVlE1TkNaMDd3MFg2QUhaMVc2aW9jeFlONUFLTXBYbVNvQmd1SzN3WUtLNWRMajEzT2NDa2J0enJTUEJ1WExBQlJTbFcwUGZsM1BVYnNNYW1EZ0E5UzdxLWln?oc=5",
-   "source": "Crypto News",
+   "title": "DOJ Seizes $1.2 Billion in North Korea-Linked Crypto, Dismantles \u2018FaceStealer\u2019 Deepfake Scheme",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ2o2SXlfa0ZWemItbkFWQVprNUN6VG1sZzd0NHRpTUg3TVVJZ0ZLMDZUS3lrOWJZazRYdndjZVh1Mk9uN0pMVE0wZFpubUMzMnlreGR6Y0luYXdheC1ZUzEweXV1Wl90RFBzUUNIZGhTd29CeVotOEpMQUNkY2xKMklzam5WMlBBaFN0NWxqdEJPSi1tN2xFUzVJYkhtNjJkV1FyVWRIeFJCSGd1eG1vX29yano2UQ?oc=5",
+   "source": "Tekedia",
    "type": "news",
-   "published": "2026-11-14T08:17:23+00:00",
+   "published": "2026-11-14T08:19:07+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "DOJ"
+   ]
+  },
+  {
+   "title": "Airwallex CEO Joins Alta's L1 Chain to Compete in Stablecoin Settlement Layer",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzFBUTh4bWl4WEVNdWttNGs1MmJwYmxaTGFvUTJvVFJpbERvTHlsZWloYXo0WnFZMXBDcVVfSnUxUEJUSEROR0hud253c0NqSXd5emU3Nm1TUFF0N3c5RmFtS0hUaTNIRXozYjJQdVNrZlZVcmxXNmYwaGNiTW9rYzhXQW9hQUtwd2RodkRnNzFCcmd5eVVPa2hsRnpsTXYtODZXRkM1cWxPT05oa3Z6Rg?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-14T08:15:50+00:00",
    "first_seen": "2026-11-14T12:00:06.282668+00:00",
    "topics": [
-    "Bitcoin"
+    "Stablecoin"
    ]
   },
   {
@@ -450,28 +889,6 @@
    ]
   },
   {
-   "title": "Bitcoin price loses $68K trendline: Can buyers defend $66K?",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSFJ4cFJLTHRwYjRJa24zS1hILTBzZjIwVk5obXpTMnpfeE42SUcwVFcwWllMbkF6c1l1RXB1QlV6UVl2Tmt2Zi1fU3Zfd1htdkZhbGNCUW4wWTV6NU96UVI1OFMxQnc?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-14T08:04:17+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Airwallex CEO Joins Alta's L1 Chain to Compete in Stablecoin Settlement Layer",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzFBUTh4bWl4WEVNdWttNGs1MmJwYmxaTGFvUTJvVFJpbERvTHlsZWloYXo0WnFZMXBDcVVfSnUxUEJUSEROR0hud253c0NqSXd5emU3Nm1TUFF0N3c5RmFtS0hUaTNIRXozYjJQdVNrZlZVcmxXNmYwaGNiTW9rYzhXQW9hQUtwd2RodkRnNzFCcmd5eVVPa2hsRnpsTXYtODZXRkM1cWxPT05oa3Z6Rg?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-14T07:57:21+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Twenty One Capital CEO Says \u2018A Balance Sheet Is Not A Business\u2019 After $1 Billion Bitcoin-Driven Gain",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkwxdnAtUURGVlVhN3ZIOUkxLTA3SjNtSzNBd09lTjcyT1NZeEU4bnFrcFlGbHlaVGJmUnFMNWxNdmNLZGV0eFpvb2xQNFcxQTlzejlWQzBKb1VUeDJpOVJ4ZnB6cTl5NHVpdnpudDYyNTRiUUNTZ1dITEVETExEVXBFRXR6ZFBfQ0NpdUNPSE5DTmlLM1BF?oc=5",
    "source": "Yahoo Finance",
@@ -480,51 +897,6 @@
    "first_seen": "2026-11-14T12:00:06.282668+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strategy\u2019s Bitcoin Cost Gap Widens to $7.7 Billion",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnlKVDdURkVBWjAwcWphQnUxaXVvcHFqRUZ4ZkdKMXRRdHhHa3pnMVdDNnNvYkwyeXFNQTdQUTB2cGk0WFNaMHdhT25LenRra2tUQ1VCaFF1UDJHZlVfS0g3eG9jaElMVGNXbWxhY3JvRXlRdlNRTGlQZWFIVEpaMHJGeGI2VlNuR0d4OQ?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-14T07:45:16+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Whale's Insight: Bitcoin, Nvidia, And Strategy, What\u2019s Changing In Crypto? (BTC-USD)",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQnJsWVQxMkFqOGdHNG5VVy02Y2VKbnIyZEVzanBnX2VEeDVUSjN0SkdVODJ3MWp2d0Z2eXVRQ1B0RXU2b3BHcW81NHBWbEdZZWFRVVNhVTctZlRGLXgzc2ZuU2p2RTRYcmZuazFKYVZIY2VzLUNJcTI3NHRiY25uQ281WktmZGU2cl9SOHhja1AweGNmUVhKS3hyNHo5V1NoSTV3OThndlc?oc=5",
-   "source": "Seeking Alpha",
-   "type": "news",
-   "published": "2026-11-14T07:45:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "US PPI Hits 6.5% as Bitcoin and Ether Edge Higher",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVRDcmVVUWo5TnFqUUVZckJuSjJiTWVaaXNYZzZNWlQ2bDdjYzFjS01sby04MlJzTWlXaWRiWFljNjVzOVNqUW5wdVZadUJfTko5cjlkUFFSUlFYNzZ2eHNZMHdNUEtfRDdoX2psS0FDNExpaDhkOXN3T1lzV1pFQUFsQV9xQ1pmSnBV?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-14T07:26:19+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "dYdX Proposes USDC Backing Shift From Noble to Injective",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFJwc1I2SVAwUXhNX2s2bVBHeGVUcW9TRGZraUhVclVNWGtLUDlQVFEtc1c1aUZQdWVUbkVHRFZvUDZtaUlzVUdiMDBqdVlxZkV3cnhNUl9Nd1A3bnc3Ym9VamVoRF93ZlEtaVRzRXVhcndsTURTWGFMbGlSZDZabmxmZUc3UGVYVjVmSXJaV1N6dw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-14T07:22:16+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -540,6 +912,52 @@
    ]
   },
   {
+   "title": "dYdX Proposes USDC Backing Shift From Noble to Injective",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFJwc1I2SVAwUXhNX2s2bVBHeGVUcW9TRGZraUhVclVNWGtLUDlQVFEtc1c1aUZQdWVUbkVHRFZvUDZtaUlzVUdiMDBqdVlxZkV3cnhNUl9Nd1A3bnc3Ym9VamVoRF93ZlEtaVRzRXVhcndsTURTWGFMbGlSZDZabmxmZUc3UGVYVjVmSXJaV1N6dw?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-14T07:16:51+00:00",
+   "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "US PPI Hits 6.5% as Bitcoin and Ether Edge Higher",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVRDcmVVUWo5TnFqUUVZckJuSjJiTWVaaXNYZzZNWlQ2bDdjYzFjS01sby04MlJzTWlXaWRiWFljNjVzOVNqUW5wdVZadUJfTko5cjlkUFFSUlFYNzZ2eHNZMHdNUEtfRDdoX2psS0FDNExpaDhkOXN3T1lzV1pFQUFsQV9xQ1pmSnBV?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-14T07:16:24+00:00",
+   "first_seen": "2026-11-14T12:00:06.282668+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "@DerrickN_ Says Stablecoin DeFi Participation Fell to 10.8%",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Uek53T0hub3lIei1jSDRSN0R3Y3ZIclhfeUNhVjRzZGhveGg3bTAyTmR1UlR5X2txNEtvWmRna0Q4T0t0aFhtSENZS2NFLS1ITm5NaVVWYVN0UQ?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-11-14T07:10:24+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Stablecoin",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "BTC Dives Below $67K as XRP Breaks Under $1.00 in Fresh Crypto Sell-Off: Weekend Watch",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMzdsTmhZcnpDMzhKSy1Md2VrYVNxSjd0MldrUW9iRm1RZnJTOERDLXk1RDMwR3ZGQlhsbHRPSUM0RTZlY2xhOWRhU3VnbWF3T0RIYW9uQzBNOV93X0tDNDZIQ2Z6LVl3dHA1Sk43aDgzb2o1X2ptWXN2QmlmUkJIV3k3eGo2YnZqSnQ2dFRlVlJfRHEwWE9WdkM3eDN1ZG16cG9QdHZqdWhBd19nbGJnMHkzNmpYMTBKNW5sMDV3?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-14T07:06:10+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "@DerrickN_ Says Most Stablecoins and Tokenized RWAs Fail",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZFA1eDV3cDFTSDZFRGdOLThza1dVMk5CRXM1SEs4OW0tYUhEZGpRcVpudEt5anpaSnBJa3kwWk5pc1FVaFY5ZG5DSjdUamsxZ1ZHaktCd0l1TGg2TXNQazZNWHctZnpKWUYtVHZuTl9iRGFTRzg4bFhtSnM3R3plVkhldWYzSXc?oc=5",
    "source": "Coinfomania",
@@ -549,28 +967,6 @@
    "topics": [
     "Stablecoin",
     "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDVaaUZCZldMU2doOEtJMXpaalh1Sm1JNzl0ZGhDckZpTTdKQ3JhdHU2c1JQOW9SU3lCTDBZMjR0cGU4NUFtbjd6U2hSZ09tSi1oVGsxc1JST1ZYYUdhRVc3aWtKWjM3OFBjWTlkblZqSUlfVVJCczl2UFhmQkE1VmE3YmI5YTJpOXlmWXlzbkI?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-14T06:52:29+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "NFT sales fall to $33.63M as Bitcoin volume rises",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGhZNk5kb0RSclRHcnAwYjlYVmFCVzNpOXM3NGZyZjJlcUwtMGtKaEJOLW8tQ3lkUWo0Q2YwY3MxMW14ZUJnVTY1VXRTcFZURzNvY0xpNUppZlROUUF5cnlubFhJel9UNDhOenUyNHNQbDhkSnlrUFZ1eXJxNkRGTE53?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-14T06:52:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -596,33 +992,22 @@
    ]
   },
   {
+   "title": "DouroLabs Urges CFTC to Use Multiple Crypto Reference Prices",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZanU2VXl6SnpCZl85SUczYnN3NEhyVWw2NWFOd1NlT2pnWV92YTcyUDdrdjBKMlpYZFdVN2l0dUJkMHh0STdwUElqR0tRUFloZ1pEbDlzT09nTU0?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-14T06:44:09+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "CFTC"
+   ]
+  },
+  {
    "title": "Bitcoin Slides Below $70K as Nvidia\u2019s Huang Resigns",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTBTbGM4TmhYc2dKeWNaQk8xSDFLLWJTNkhYcVVPVkNKdnUtd3V4M1VJNWkxb2l1MW9KUkxkV1pvR21NMFNlNGNnUzVqTDJOY1RIY0JXLXhfbXktUk9yUFdzNjFocU9BQVdUQUFmTUpKbTV5ZUlkM05JN3FMY1V3NktB?oc=5",
    "source": "CryptoRank",
    "type": "news",
    "published": "2026-11-14T06:44:05+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Woman Convicted of Money Laundering, Operating Unlicensed Bitcoin Business",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFZYZEVTN0FjYlVGVjA3bFMxZjlwYnFTeTRReXA4dVF6RGY0TnlqTm9JQnphSXhSdmFacjFieGR3LXhXNGtYckxDQ2JsTldrWmRUdmU1WjQzZjlXOFdEaUZJcTlRTWY3MXo3WjdYVU1ndXlKc2JtTVl6V21rUXVNUFRQbWZPUmdyNXI1ZzZHTGE3OEhKTXowTXJ2V1dzRlIzM1dpYzFVLTR6M3hYS2lrRGln?oc=5",
-   "source": "MyNewsLA.com",
-   "type": "news",
-   "published": "2026-11-14T06:42:05+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strive CEO Says Bitcoin Could \u2018Go To A Penny\u2019 And The Company Would Still Survive Because It Has No Debt",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2dSLVE1ZVRTOHRpVlh0c05HcGJmYXJaQUNXTHRsQTJaRmhkUThSaGY1MEVJdDZXTGxpZHBsT1YzOW5DSGpLYzcySVpfNzFYWXNQaDhaU0hzX283bkNhVUJNSFdMbklVVU9hWmc0OXVYeUNhWWc0RXJtczE2M3k3TDdrZUIzX3VkMGhZUzVsczJ5VlYxTXNYMW1R?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-14T06:40:00+00:00",
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Bitcoin"
@@ -635,39 +1020,6 @@
    "type": "news",
    "published": "2026-11-14T06:33:13+00:00",
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "BTC to EUR: Bitcoin Price in Euro",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKNENfeURjTUIxS2NjeGlYd1ZYVmg0SGJ1Znp5M3dmQ2xfMmpTaXBIRF9VYkI0S1YxZFNwTXRmblNXemNhdkxxaFFTdWhXUjdaV0F5azM2b3JlQQ?oc=5",
-   "source": "CoinGecko",
-   "type": "news",
-   "published": "2026-11-14T06:33:13+00:00",
-   "first_seen": "2026-11-07T17:00:05.773836+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Satoshi-Era Wallet Empties 75 BTC Stash Amid $260B Lawsuit",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0ZEQWs4TFpmTlNMdFdEZHpDOTNHOVlZOGNkUzZfN0lXbXJ6bHZuaWxzNi1QZVNWMktIVHZjZnZPU2VPcHRaM2p6MkpSR3VVR3p3SERzMnhhai1CSUQweV9BRWp1anBhajB0SWlQYnQ1d2NfWFY0NGIzRGw5VUZReHRyVzNwRE9PbG1pWmkwSkZPOVh3R3Vna0kxTUtobWpkeTY4?oc=5",
-   "source": "Bitcoin Foundation",
-   "type": "news",
-   "published": "2026-11-14T06:31:45+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin slides below $68,000 as Anthropic IPO frenzy drains market liquidity",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmdjeS1rRjgyaHB3b29VcVlsQjN2TVBIaWFYSUJmSnkxbEtKMnU1M2FJdkViN19peVBOQTRKVFloUTNXenZnVEJfbVdCVjFoN256V2NmRTdHVGxaYWE5R3d6aEJFN2RTR29td0ptRWVNSTVtYVd3bnN3QmJkSjh6NF95MDVnRTFrMFU0cm9QMk9VbV9fREpR?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-14T06:19:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -686,23 +1038,12 @@
   {
    "title": "DOJ Seizes More Than $1.2 Billion in Crypto Tied to Binance Hack",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90WVRIbkxsalN3TTBsY3NMYWc3ZEVqaTN3RlhEYndDT2hmTXZQem5TUjZCS1NUWEFhQnJWdUpNTDFCNTA1ODJRTG5wVFJRR0dwd2NIQWlPNWNKMzQ?oc=5",
-   "source": "www.tokenpost.com",
+   "source": "TOKENPOST",
    "type": "news",
    "published": "2026-11-14T06:17:48+00:00",
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "DOJ"
-   ]
-  },
-  {
-   "title": "Metaplanet Cuts 2026 Revenue Target 59%: Is the Bitcoin Playbook Running Dry?",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mdWpIU2lod1JaVnJUOTVfYUo1dENDRV9fV2R2V1VTcmxqZFlIYVdJNnBQdEpadzY1THFSWWYtYUNFZWRJOWV1UHJjSmc3WEljaDJqTm5XTlFTTC1iamRaSzRTRkc1M0pMaU9VLUZDRksyMEdY?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-14T06:15:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -747,6 +1088,18 @@
    "first_seen": "2026-11-10T12:00:05.269888+00:00",
    "topics": [
     "DEFI"
+   ]
+  },
+  {
+   "title": "NUVA Brings $19B of Tokenized Real-World Assets to Ethereum",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGk0c25IeUVmbi1Qd1JfT3lsbnNDaXNDTW1lVHEyd0UwTmRZZjA1bHpOYzRIMkRkMFVmMUloNGx2bVlud0NGa3R6UTFhMGV4c3hoVk5lM3drdkVvWGh2WXNKVzdhS28wd3phSTJZbDZld0F2LTBTOW1SZjBMejlMMk1mRQ?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-14T05:56:41+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "RWA",
+    "Ethereum"
    ]
   },
   {
@@ -795,17 +1148,6 @@
    ]
   },
   {
-   "title": "Trump Crypto Announcement Puts SEC and CFTC Appointments in Focus",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbm5EMlZTTzA3S1R2OXF3Vi1iLWFxTV9KMjVNT29oWXhoUG1UVEhVSEhYc19ZN1U2Q2FCeVpWY05RbUpiQk16dEZ1Sk5ObE1tWTBxWkUxNjI0c3A0RWE2R1pFY0Jtb3BCcjFFUDhtZkJ3WFZJS0dnM0NMbUx0YXlhMFBZb21raTRLNEphRHliSjRPVllWY1JZbTdTY1hqQWxzS0tCOC1yOEnSAa4BQVVfeXFMUHdCNFd2OHkwOW5icHhXM1pDdm83UlVTWGZfWWV3ME5OY3RzNlRrNHNTVXFfdEctX1JIUmJHSGJscFdHQzVoNFhpeEhDb1E1Y1FNUVhXNDBUVHhORnBENXNCM3IyZmliTVNHNUlObHptZ3hEU1hDSVBiTk44QmFtOS04NHdyQV84THRFYUd5WEJiRENfZmpKVHpXYUZvR2dwQTB2dFpoQTVIT0I2cG1R?oc=5",
-   "source": "Coinpedia",
-   "type": "news",
-   "published": "2026-11-14T05:35:20+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
    "title": "PNC Bank Pilots USDC Payments Converted to Dollars for Clients",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVENxdzE1RWZtSjE3TGtDemVxWnAxNVhScW12WU9sZVRfQl9fbWdNNVZjaHhUcVZnazh4MVBWcnRSV0NTZHNGT0xMbGU2SGQ2WHAweWFtNS1hTkNYVk9iQTFZZEpySHViZzNjTDhMMzVrd25tY2ZJMEwxQ2kxSURhZDZ0TTlCZHdUSWthM0UxSll0S202NG0zNUNNTG5YamppUVE?oc=5",
    "source": "CryptoRank",
@@ -814,6 +1156,17 @@
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Stablecoin"
+   ]
+  },
+  {
+   "title": "Trump Crypto Announcement Puts SEC and CFTC Appointments in Focus",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbm5EMlZTTzA3S1R2OXF3Vi1iLWFxTV9KMjVNT29oWXhoUG1UVEhVSEhYc19ZN1U2Q2FCeVpWY05RbUpiQk16dEZ1Sk5ObE1tWTBxWkUxNjI0c3A0RWE2R1pFY0Jtb3BCcjFFUDhtZkJ3WFZJS0dnM0NMbUx0YXlhMFBZb21raTRLNEphRHliSjRPVllWY1JZbTdTY1hqQWxzS0tCOC1yOEnSAa4BQVVfeXFMUHdCNFd2OHkwOW5icHhXM1pDdm83UlVTWGZfWWV3ME5OY3RzNlRrNHNTVXFfdEctX1JIUmJHSGJscFdHQzVoNFhpeEhDb1E1Y1FNUVhXNDBUVHhORnBENXNCM3IyZmliTVNHNUlObHptZ3hEU1hDSVBiTk44QmFtOS04NHdyQV84THRFYUd5WEJiRENfZmpKVHpXYUZvR2dwQTB2dFpoQTVIT0I2cG1R?oc=5",
+   "source": "Coinpedia",
+   "type": "news",
+   "published": "2026-11-14T05:26:48+00:00",
+   "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "topics": [
+    "CFTC"
    ]
   },
   {
@@ -840,17 +1193,6 @@
    ]
   },
   {
-   "title": "Pyth Network Contributor Douro Labs Urges CFTC to Require Multi-Source Prices for Crypto Liquidations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uLXEwdUhHOG9jVFhfR3FWYk9KU0tfcFhrbGVseTJBamxqa011Mlc4RmJ3UWRiV0lBQzRVdDlwU1dtMWZaUFJST0pzdDlETFVrelh3b3Vn?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-14T05:11:49+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
    "title": "Ethereum\u2019s ERC-8415 tests tokenization\u2019s ownership gap",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQl92cnNFWmRKUmU0dEIzOWVFMnRFLVZMOVNVeGhxbHp0OGRoMUYwTV9qdTFXN3A1MU4yYjlya3JreGRFbzV5TkhUZmxhdld2VTB3eDN2R1BZbk42eG9EcnE1RHpzOThwMEhYSE1Od2d2ZkNFbVRqaE1sN3ZpWHI1aU5KM0Uzc3o3MDQ0?oc=5",
    "source": "Asia Times",
@@ -874,6 +1216,18 @@
    ]
   },
   {
+   "title": "DEFT - DEFI TECHNOLOGIES INC NEW | News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzlSZmlnTFZUemhZWGF1bDYwRFVpbjJiWGEwbWl0T1Jhd3BsMUlpTWI3T3k1dm1IR05xbUEyY0J1YkhUM2VyV2JCTnRTcXFZR0EzZjZwTmpraHgycHQ5WThDeDVKUlM2bDZSTDBZbkhyLWhFM1M4dEFlU0hTOEM3YlVQUHVvbkxDVUpZS0dBNzNSb3lvSVpNaWl0Rk5aVE12UVE?oc=5",
+   "source": "OTC Markets",
+   "type": "news",
+   "published": "2026-11-14T04:53:40+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "DEFI",
+    "Technologies"
+   ]
+  },
+  {
    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
    "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
    "source": "CoinDesk",
@@ -885,26 +1239,14 @@
    ]
   },
   {
-   "title": "Meme coins nobody wanted helped North Korea launder $430,000, researchers say",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDJhOE1BQVZnTXJQcG5hdzhoS09zVGJFbnd6R3hSSDVvV2JtLVdhdjR6ZHJCVDdmSzdtQTRTSkd6ZkhBa205SWlwcWF3WmZid1M3OEJJUHV3cE5ZSERDYVJqbmktSDBqNm9LUzJJTmZwdmQ3dmgwTXFXcEVId2xGYjdmVmFBQQ?oc=5",
-   "source": "The Cool Down",
+   "title": "ARK Invest\u2019s Valente Raises Five Questions About Ether (ETH) as a Store of Value",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kSURoeW5tejUtZmcxQUl5M2hkaGc2Q0kybkVmbFk5ZU5SVFpkM3ZXM2NQSTVXWlBPRnY0RklIeVVpXzdJSFd3eGc2TkdlbkFkVjFNanNJQnI3QQ?oc=5",
+   "source": "www.tokenpost.com",
    "type": "news",
-   "published": "2026-11-14T04:27:00+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "published": "2026-11-14T04:25:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
    "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Ether Falls Below $1,900 as Losses Outpace Bitcoin",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmNmRWNmcVptOG0xR1AzcG9CektHOHJLekI2N1E2TXFSRzI3bnYwRDlaVDNlN3Z2MFVxa3B2THAtRi1IZnhMTUk4Qng5T0prQk85X0pmbW5VdXgtcWtaanFnYTQ4QWZJZy0tVHpIRUFZTlJCV3RuSEpfZXZ6dVpjTngyRUM?oc=5",
-   "source": "LCX Exchange",
-   "type": "news",
-   "published": "2026-11-14T04:14:11+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
+    "Ethereum"
    ]
   },
   {
@@ -919,28 +1261,6 @@
    ]
   },
   {
-   "title": "Bitcoin\u2019s Billion-Dollar Wipeouts Are Becoming a Familiar Sight",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUd5VFhXYWFteUNtX00xalQyaGdaSUNqRkxNY0FwaWY4WFdrWE4wdTZJWV95Y1YxU3NpVkVUX0lxdl9uQnl5TGVzUEFodHdCQl84b09TU25IY19VLXc0YjhmaDlWb1hfeEFuX29oT2tIOFQ0ekNFd25wb3lERUdqVUZlOTZnbGxlT1NpUWttdUgxNm1OQzl4QVZXd3gyZVV5UTFOTGtVM2dwUEdxcW53a0NobGY?oc=5",
-   "source": "Bloomberg",
-   "type": "news",
-   "published": "2026-11-14T04:04:00+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Should Ethereum Tax Its Apps to Prove Its Security Is Worth It?",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOal9vdnZEaGkxX2V5eTdWek9FZGt0VjJEOWtUelNiMEhhWTI3ZnM2QzZKMVdTYy1BVXA1Qk00V2oyN2laUkhrOGJOclNCSEZXRjRMV1VjQ25zTEZSWWdYTTd4eGYyZ2ZXcW90b0s0ZlpWMlRhQ2ZSek9XUmI5NGRMUGZJMVN4bjI3Y1FWaFhlcTdkR09OTWc?oc=5",
-   "source": "unchainedcrypto.com",
-   "type": "news",
-   "published": "2026-11-14T04:00:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "Will Bitcoin Never Set Another All-Time High? Analysts Debate On X",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVY5WVlOS0JoUXFOX3EtSmN5RDBNT2x6dGU1S1AxaER5VGdYWDJGU29sT3JJVkhNQXlienVEWXg0N2ZyWWFsVmFCbjBNbDZiVFRGN0pId3hQSzlEQ0FrOXhub09lenhmU0hSZTZUSFQtUkpfclFRNk9aOHF4aG80TFFvT0tiVkV2UWNyOG5TRUZlVUxQWV8waEJQMA?oc=5",
    "source": "Yahoo Finance",
@@ -952,12 +1272,34 @@
    ]
   },
   {
-   "title": "Why Is Bitcoin Crashing? 5 Pressures That Pushed BTC Below $69,000",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52STRzWHVIZG1sTzVVeUlrZkRqaHZwb2p4eTl0bG9SZzkzLUhueGRsQ2xEaDFIVEJmdk1CcDlHTWhEcGctMFk3bE5KOTlZWGEzWkI1WkdfRXQ2MzNJSTQzcjR2c2hUTjA5alg5SGtDaw?oc=5",
+   "title": "Twenty One Capital Made $1 Billion in Bitcoin Profit. 60% is Already Gone",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5WkY0OEhNd3RGbjdydE91NjVzTXluRWE5NEFRbllIdWttUUZjVmFTVHNMLWh6TzdBSHo5aHAtaERYMWNZRm51bXVrTExDYTVjQ3p6MG1sMlRaVWExczE2bnl1T3QwNXBwalQ0OU4wOA?oc=5",
    "source": "BeInCrypto",
    "type": "news",
    "published": "2026-11-14T04:00:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "CFTC\u2019s Selig says states are trying to jail prediction-market founders",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUpXRERRTmdSZ3hUUzB3TzBaU3UzOE4zWk5XOFZ6Q1g0M3otN0YxOUJueHdySUlEcDZRanBWWDlxRU8wQ0tBRVRIMDFzYXlPaDVsWjlEN3hHNDJrVGZRN2QyYU9ZeTc3OWRLZEpZTTQ1NkdvWWloU0c2Q1cta1FuZ0NhR3c1aWhpa3RPZWFXNGE0RHo4YjZ4WGZMaG9Wcm8tUVE?oc=5",
+   "source": "Cryptopolitan",
+   "type": "news",
+   "published": "2026-11-14T03:56:09+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "CFTC"
+   ]
+  },
+  {
+   "title": "Bitcoin drops below $70K as dollar index hits 19-month high",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVWlkLTNqaDNxb3pzcFk0YjRUaGlzVUtfNC1hVFh6STkwaGtGOVAtZmhpWFR0ek9nVjgyVnltdUgtcFlMclhXTzlZcmpIMk40aUZWUTJESDRLTmVHYy1TcWZXTk9Bc2x5ZlptLVRSWWNXREJEbkpHaDBDaTZLRkFNZk9QaFhYY1E3ZDVHR1RaY0hReGM?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-14T03:46:24+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -975,6 +1317,18 @@
    ]
   },
   {
+   "title": "Tokenized Private Credit Market Cap Rises 4.70% as Yield Farming Falls 4.69%",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bXFDdFhZajVkMmMwcmVDZU8tUERvdkpnWDVMeGJDaVFUbWVnSDBhZHRaT2tsaVktTXNubjBES2prLWp4QXdvdU02ZmIteUJubnhNNE8zeGhDZw?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-14T03:05:00+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
+   ]
+  },
+  {
    "title": "Kenya's UFAA Plan and the Future of Stablecoin Regulation",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05TFdkMG1uamZhcWZmNUU1QnhGdGFhSldGdVlWcWY3YzBXcmc3ZjdlZnFFS0ZHY2J6WXM5VVA0WWRkRTA0RG4xbXc3Q2ZhNWhCUXE2NXd4c01DNzBadGZPdjV4dWo3cnRacDFHQWUxUDVkSllPN2VN?oc=5",
    "source": "OneSafe",
@@ -983,17 +1337,6 @@
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Arca\u2019s Jeff Dorman Calls Vitalik Buterin\u2019s ETH Store-of-Value Pitch \u2018Really Misguided\u2019",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTdaeG51U040REsxcWctVFJYZVFRdDhuWjBLMk9UMmktNVVEZ3RnbHg4RDNtbUtoVGFhVXhVTEJSRGk3bkRXVm1BcnhRdS1kMWZsb19pZEhLUUpwb0J1S0NEZ3k4ejdFX1VRTEpNSW1ocWJLdi15MlhZaHBrUG9pbGxTbzRYREZBMDJycTkwV0EtY1hOMUNLdVpncVkwNS1HQldNXzFBN0l1Zk5VbkJvaA?oc=5",
-   "source": "unchainedcrypto.com",
-   "type": "news",
-   "published": "2026-11-14T02:52:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -1010,6 +1353,17 @@
    ]
   },
   {
+   "title": "Twenty One Capital's Bitcoin Gains Fuel First Profitable Quarter at $1.09B",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFlnZ3oyYk55Y2pud1RUM0lIQkJTQWRkT0ZoWnBZVkt5dURqQU91bHVCa3NnUEZQUUFGOER2WExLOXNCX3pnemNzd09rVWhweEFyWDBQVzdGbWdFOXhTZ20tNTFhdElCWWstM09iNE9EblhNQ3VoS2Y0RDRNOVpmV3ZzQUZfeTVDdXo1QWVMZ2pIeGYtOUpUemJHZGV1dw?oc=5",
+   "source": "Bitcoin News",
+   "type": "news",
+   "published": "2026-11-14T02:41:08+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Tether Signs MoU With Nairobi Securities Exchange on Tokenization",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dCMDY1TmJ0bk0wRFRvOGZQT2M4VjNvU2l5RTZPdkp4SnNEUjg1RDdjVy1IMW9VdkhXV21PakVUN0F4V1o0cVptNU5Ed0xSVW1QZkRaSU5LbGdWR3RMT1RMdFY3aHZCc2JqSWVabUhNdHVWRFFxemp2ZlFUUUQwYmlLSDlrY2tCdlN5am1TaFZFTDBac2tuTUtic0YzQ3VHS25SYkRka0pJcWc?oc=5",
    "source": "CoinMarketCap",
@@ -1022,25 +1376,14 @@
    ]
   },
   {
-   "title": "FBI disrupts crypto theft scheme by North Korean hacking group; billions stolen so far",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcTdHMVBPUXpnOHUxc2VUOWlyZ2JZRWxJNk1nN1Fva3dVWnVLRDgtNS14cUlPSVVaZkU5NXRvWEI0T3FLSjF6V0o2dEhOY0xPRHd1WWxEb2dTWmVkU1Fic29fUVFOaHVpWDZ1Y3FYdnhwWXZIVGdWNGFYU3JoMkpFb1dfY0xqVzdvTXUteXVLaUlHcEFPUHhtaHpxaWxqYUJPOWU4YTRGei1GOHVCLWlsSFJENUlsZHNocU9keHd1bl90aHg5cXAzTjEwa0wxQTVRM3ZB?oc=5",
-   "source": "Los Angeles Times",
+   "title": "PowerCompute Earnings Call Highlights Stronger Mining, Lingering Risks",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1l0RzNlV19mejlBSVhua0Z6TlltZlh2NU1GbTBMRFdxYVlUd3VSaHVIVE44NWRsYXM1aG1VOEJfR2c4RWtGQnJvUGFoWjR1U1ktMGR2MkJXckhKOEpoMWowQlNmaVk1NE04YmszcGFVbWFjR3pJZ1ZHNEhFUldKS2ZxajNkM1E2ZWxmNG9lMVJxbkxtZExuV2xUa1o2d2RLVjd2ZTVYVUhsYmh4MThqb2ZTSXFuOC1fYWgteVRn?oc=5",
+   "source": "TipRanks",
    "type": "news",
-   "published": "2026-11-14T02:29:00+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "published": "2026-11-14T02:36:50+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
    "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "North Korea Crypto Theft: US Seizes $1.2bn, Flags Deepfake Scam",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjhZdUxQelhrNjhIRnRnc1pTLTJZQjVTYjRyeW5jb3VHN2dvYmY3c3VOTFFhOGo5Yi1tcTRoN0Jmem54M0pKN2toLXRYVHBCSmwzTWZRVDZkNlRlRE4yRHRmemlYUC1IUkdjNVZFck9Ea0FXeG5MRk1UbHBUclRpUWJ6Y1VmTFpoeEhPTFpWX19KdUh1T1AtM3BMWm1ER2c?oc=5",
-   "source": "FinanceX Magazine",
-   "type": "news",
-   "published": "2026-11-14T02:17:14+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "North"
+    "Earnings Call"
    ]
   },
   {
@@ -1055,22 +1398,22 @@
    ]
   },
   {
+   "title": "Top Tokenized ETFs by Market Cap",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zWFpsQ0xndFBVeFkxakVrWDVZUFpwNmRSdk9jLWQ3WTlUYXhBOWtnTjE1RXhaN0xPMEQyZGFfd1pRVTlYOF9hZg?oc=5",
+   "source": "CoinGecko",
+   "type": "news",
+   "published": "2026-11-14T01:52:04+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
    "title": "Sui Stablecoin Spike Shifts Stablecoin Payments Outlook",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82d1hEd3M0eWplLXhvNmdtV01ILU1DU1Ywd1hBbXJrcjNxYlFxSUhlOHBoSDdBQXFQUnE3ZWs5eXNIRjVoUWlJUjUwSWVyT2VJSW5CWVpSRkZ1WnJPUFV3c051cExaeExPOEpOVUpSWm1SV2tSN3Bz?oc=5",
    "source": "OneSafe",
    "type": "news",
    "published": "2026-11-14T01:22:06+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Thailand SEC proposes 5 million Baht daily cap on stablecoin transfers \u2014 Why?",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMjRjQXNTdG1ySmxzSEU0VzlhRkw2RHVGQUpjTFYzRVZMU2NHbDY4bzBGLWxkaWZDQ0I0SW9xU2ZRV0dYbFNlVF9KdXltSlpvWk5pbjlHWGxwRlpiMTJoX2Rkb0RiN05VUlItcEVVMTl0cVFXWlpTTzBta3B4OHRoTkV5dzV6a0hXaU9UbDZQRHQ1bUdpMEVkUFExRGxEdw?oc=5",
-   "source": "AMBCrypto",
-   "type": "news",
-   "published": "2026-11-14T01:00:08+00:00",
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Stablecoin"
@@ -1100,6 +1443,17 @@
    ]
   },
   {
+   "title": "Hyper Bit Technologies Announces Changes to Board of Directors and Management",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdUhJLVV1c2lmb0tsWm5yeVAzMXBzaUxvdHI4TkxFQVllQ1FUVG1BczJ6WWdXNUZzWVZVZDMxOS1ib3JxUUFseHBRWHVNb193ZXhYc1RUTldsbHJmYzFmZWxOMHZFZlRoYUtRM2dka041VEZ6UDJac2NsclJqZGtWTzRNdVJYRy1vSXRRangxRWhpVS00eWhsMklvRHBtSmV6RVZmaUtObmUwSkotcTRqSFJ5eTkzdndXaVc3d3YxaHlMcGxULTJDWGNzNkxzdUM1Z3BjVjNQZk9Kc3hMLTdLbjljQkpDRnB5YkU0VTdOYmQ5cjZLT0Q2TQ?oc=5",
+   "source": "The Globe and Mail",
+   "type": "news",
+   "published": "2026-11-13T23:53:47+00:00",
+   "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "topics": [
+    "Technologies"
+   ]
+  },
+  {
    "title": "Novig Promo Code ACTION: Deposit $10, Get $50 Bonus for Illinois vs. UCLA Prediction",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3YwMHFPZTJiTXVWaU9oLVFqeVJBa3VKNFNHUXhUaElvc0NNTGhxcmxWYWx3Sl9jb29jWU5GODBPT2Z4bEtkN2hfcXB1QUFoWkRtUm9GNl91ZnpLeWZQcF91bHdfX1U5N1VpRDBjRUdYZzJ5X19EZ0ZLNi1lLUJDV0w4R0dOVVRjeGJJR1FaVmRfZ2cyQndfRzJ4d2FzaU5ZLXBqVmItbkx1Q3F4NEdaM1hUOHY?oc=5",
    "source": "Action Network",
@@ -1119,28 +1473,6 @@
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin and AI are fighting a $350 million battle over a dam in Paraguay",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDdUdHpvVE5rQ1FtTzYtYmlIdzNsTkN0NGZiekhPYzhpTUF4RzlaMk00VFBVcVloMkJhWGlSV0ZPOGJtSHhwYWI2ODVoZ2tDTG8zcnJCa0JjUWNpT2hRYThiNHA1b3AyWVZWVW5Fal8zMGNKOUprWFd2d1dORDZyZFE4TWlSRDRPVWl3UU5oM005UnZtaHhFY2k2aUFYbm9kNmNqNmxvdWFfT0xLY3o3NjVLYUhmMEtl?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-13T23:30:00+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Got a Video Call Invite From a Crypto Contact? FBI Says It Could Be North Korea",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBTExuM3dxRnJYTHg1dk93VFZObmR3TkRmMENOSUNJTkhnNUJGeDJyOC1jdm0wcmQzWV82dzlqc285akRzU0UtVVBpWmVrclBrb2QxMUJyMENNbEtSdzBIVnB3X05jZWlrX1E?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-13T23:30:00+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "North"
    ]
   },
   {
@@ -1217,8 +1549,7 @@
    "published": "2026-11-13T22:05:24+00:00",
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
-    "DOJ",
-    "North"
+    "DOJ"
    ]
   },
   {
@@ -1258,17 +1589,6 @@
    ]
   },
   {
-   "title": "Fanatics Sportsbook Promo Code ACTION350: $350 Bonus, Illinois vs. UCLA",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVFIN1oybmlFNU15U1R0eGNPQXlOTG5xSGh1NVp3bzVhc0FpYmJtN1Jad3lqaHFvSUt1NEtYNl9aSzFWN0ZDTHVhM0dnZVIwX2VzOVJwbDJHN2FBVkxFYU9iUkVydC1hekNsNG54ckhSdnJlTWpLNm1MdWNqSjBMVFl4eV9sbmxZajFWWDY3STRrODZ6SXZVUUw2M0NBUHlvS1ZBRWxhNXFTaHhkeUpHQ0liT3pLNU9GREY0?oc=5",
-   "source": "Action Network",
-   "type": "news",
-   "published": "2026-11-13T21:36:00+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Illinois"
-   ]
-  },
-  {
    "title": "DeFi Technologies Files Interim Financial Statements for Nine Months Ended September 30, 2026",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYW5hVE9ndlQ4bmtJWFI3MjBfdnBXZWxTbVNteTVmSFFBRDNzMUhKUnBLakw1ZGxMZk5haFdwTzFJcUZ4NVk4SVl4M2p5bzRydGxrVXM1UU1sRkFtdkN3MGg4SjBoZDJaZGNBNjJwYlFDbDVTTzVxUnVVdVZZcVpBWlpaQ0JmQ2VVNF9nN2RqWGd3Mjg5MHBEenEyZzlGT05Sc0dmYlZETUtxU00tY2lacVpBTlY3aWhETFFrM3d6Z2d6bmRFS1dsMU9qaXgxY18ycmlXS1RoY0I3SnFQ?oc=5",
    "source": "TipRanks",
@@ -1292,25 +1612,14 @@
    ]
   },
   {
-   "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-   "url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "title": "Historical Data for TTM Technologies xStock in USD",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBicmhDeWh6OXpyWTNPYS1kaEZBWjdhRnNPcldMYkYzVVB4OS1kenUycTdfM2ZTSV9FUVFnZUViV3luclU2VXVKUDU3TmljbEd4QXd3cFo4M0REdDhod3FqTkZoMDRER09xbGZjeWpuV2RUclJYUWc?oc=5",
+   "source": "CryptoRank",
    "type": "news",
-   "published": "2026-11-13T21:26:00+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "published": "2026-11-13T21:22:11+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Slips Below $70,000 as Higher Yields Weigh on Crypto",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDBSRFdONDlCQWdnQTRaTDVQNUVyLVBaak5HWUMyazNza1NndXVxaDYxdHAwdlVhWXpZSXRjSmJmd2p3MVRJSUhCeWljTV9MSVhkb29tejk1Q2QtQzFsZXZ0QzhZZkFjOXdFTGY5SWpGUmRmWlNreG1NbUJOd3l1X3RSRUF1VFRITG5ybVBiR3FYZXFMSXdzM1NHUkYwQ3FrTkFWTy1EbzlsckxsalI4?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-11-13T21:18:32+00:00",
-   "first_seen": "2026-11-13T07:00:30.089665+00:00",
-   "topics": [
-    "Bitcoin"
+    "Technologies"
    ]
   },
   {
@@ -1360,6 +1669,17 @@
    ]
   },
   {
+   "title": "White House nominates four to SEC and CFTC as CLARITY Act stalls",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0h0S0xwam5adkdXdXNSSVBGM2Y2RWx5eXRSUm0zSmhrSDhLOEc1UzBlSTg1aFVJb0R2aEZkQVJuTjlmeUhzU3JkYl9IcGhRNWx1eXJkM0hDVW9HdFI0dmlPd3Q3X3ZRZXhKRDhVeWVLS3BVeWg4SnBpTGM1Q0dRQ1ZtcDVoQjVUV09IN2N3bEU1YWlKU3RmTXBiRQ?oc=5",
+   "source": "Cryptopolitan",
+   "type": "news",
+   "published": "2026-11-13T20:55:04+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "CFTC"
+   ]
+  },
+  {
    "title": "Sam Houston vs Illinois",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSThGUmQwY1dCT0lTb0loWE1XbEY1U3hZQ2VOOU9ZbGNWd0tja1Z2b0ZoXzRhZ29jRmNMdFpyZHFOSEFnMS1VSnJld3p2SngxN05hRExEdi1teTZGRnl3aW9qa2I0V25STFNXNDlpa252NTF4NkNPZE1PcXZXTnlmdWVEQWVPRU04dk5jV1JhZHNvNkRnX19fNnlnM0dSMkJUNC1MYWV5dHRINWE4cGd3TnlubWRneS1OTDliZlVQNm4?oc=5",
    "source": "Coinbase",
@@ -1382,17 +1702,6 @@
    ]
   },
   {
-   "title": "FBI Seizes Over 900 Webcam Videos Used in North Korean Cryptocurrency Scams",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2JCLVpHTG5oRldVdlkyQjM4a2JVZEp3dVZmbmRpZlBud0huSUxzQWxJYWUxT21HWXV1T2xrbVFJaEhYeTY5RWt3OE9KcVgwVEFmTlRZc2EzZ2doaHhINWhHMGhsX3QtNks4MGZIc241NzBzTzZKRnYzaDNaclI3SVVtQXBKX3Z0bGVSSUhFWlJOc2JJM1FWbXRCTWJoRWtudS1r?oc=5",
-   "source": "FinanceFeeds",
-   "type": "news",
-   "published": "2026-11-13T20:26:40+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
    "title": "Bitcoin drops below $70K amid market sell-off a...",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR3FOb1RSQm10bER1ZFAyLWFsTjFPdnhlNGpScHdZZExlcnZXSVpaYWFlMmpxYVNEMkpwaVBWN3BKODdKMVF4REsyY2ppZW1wWHpOZHRlZmlwQ3M0VEJ1V01rVzU4emJ6LU85bWJ3NjZrLWNlclJreVNqX0pPV3AweWNfeTY4RTY0anlVczJkTS1fTl9BSW1weTRHWUswem1BOUVPRzk3S2doY0E?oc=5",
    "source": "Pluang",
@@ -1401,17 +1710,6 @@
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Watts Water Technologies xStock: Funding, Investors, Team and Key Events",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaMUdsdThMSmpJalNqcEUwcGpfdU1jQWUtZS1XV0tEVkh6UVFlOV80cEt1U0otbnVTUkpRRE41MF9hY00xd2lxLXVUUURRNjA1WUc4T0hkUDdSdWhEalF3b1plYjNBZHVmRGh3?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-13T20:19:52+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Technologies"
    ]
   },
   {
@@ -1493,6 +1791,17 @@
    ]
   },
   {
+   "title": "Bitcoin Falls to $68k as Peter Schiff Warns of Long-Term Bear Market, Says BTC\u2019s Downtrend Is Far from Over",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHM0OXJ4OFo0LUhTaFpLanI5cjlsaERUSW1MYVZ5UXdkelYwNThBVHVQbWFkc25QLVJCWkdmM19vb0NMZ3p5dkNJOGFuR21ZVmtKQTJ2eVROVEVBQ1MwLUtnQ014UTU2eVhsU1Blb3hsUlMzQzFfajU5MDZWcUdtWDhVYTcwYjhCZlF3MGw2d1hyd1pHLVpRbmkxTElNTVVfUm1pR0hQZUt3UGxDc05XTjQ1UUlpMlkzaTFZTXFkOG1oVzNK0gHKAUFVX3lxTFBDMldhdFM1VG80X21rZWZiT0l1Um5mczVFeEdkOVJBYjV3WnRHaEtqdkJmZDRzdEhDWkc5c19xQzNNcUpIN0xQeG94SmU1X1ZGbWkxMU00NWpfTEhKTHVDWGg1V0NHck9QMVRCeFBMc1d6ZjRLaklXRlgzbTlNc2RvX043TU9ZZ19DU25XdFd2UGJNZU9MNnV2djJGTDc2UURWZTdoeXlzMFM4bU5xWGdCaUNXYkR2eW50NDVmaUVuQ3p4YkIta3NQeFE?oc=5",
+   "source": "ZyCrypto",
+   "type": "news",
+   "published": "2026-11-13T19:58:52+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "BTC/USDT: Bitcoin Below $70K! BTC near $68,630as ETF outfl",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NaUhkX21OZ0MtQ2R4b2VFUzFrZ3hWRzNJRGFOTURGUHhCbzVJa3lrdS1kdDYyREhwLTZQZWx5T1RBTTJvQnNwVkMtekdjQjBVbFdoVElsblUwRTFVOVZFeHRKYVhMd0xqaEMtMGZ2dFZpdw?oc=5",
    "source": "KuCoin",
@@ -1505,25 +1814,25 @@
    ]
   },
   {
-   "title": "Sui stablecoin supply climbs over 10% to $538M as the wider market shrinks",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWcDV1Vl8ybVBiQ3lFYmlXMXQ5TGNzeTA1V3dmVVgzUUNkUzJZWl9FSk41bDZlRTlsMlJlRzVwNjVHRF9KVVZxZTVOX1ZOdWRLWnpCM2ppMlBxQQ?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-13T19:41:26+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Twenty One Capital Q3 Earnings Call Highlights",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVV9QZGZic1JiTTNFOXhZRmFaNjhYU3hvTzM2VGwwSmJLOVc4SUNMUmhCRTVIMW93VkZlMzBaZjBteGNrcF8xNHF1dmg5RGVuX1kzUFpYMTRGYkowWXRpbjRKazE3X0lsOTFrQ1pwUDc1amd0b0wyYTNwek5MekFrUU9haUM1cEVYeWxOckoxOHBRQ3hzaDFQX1NtTUh2d0xBemx0ck5DUnJSSTFJcXJrRw?oc=5",
    "source": "MarketBeat",
    "type": "news",
-   "published": "2026-11-13T19:41:15+00:00",
+   "published": "2026-11-13T19:46:05+00:00",
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Earnings Call"
+   ]
+  },
+  {
+   "title": "Maharashtra Minister Ashish Shelar Addresses Unchained Summit India on Digital Innovation and Asset Tokenisation",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHJieC01dmlzTlExZ0V6WWlkTlZiZHlfU28wVlZ1TnRlb0IxS2NMUFZ3YnNOMmhlT0VvWTg0UkdYLVNyUHJMblYzLThNZnAyQ0ZqM2hTM1dzWmhRMGhOYWw3bVN5clhlQUV1dzJmTnlBTzhmRnJLZ0lNVHZuTUtHa1JTQWhld3ZfbEs3cGlwbjNYQWhqbGpqcHBWQTBqd2NaVWVNc25ENW1YMFQ3NGc?oc=5",
+   "source": "U.Today",
+   "type": "news",
+   "published": "2026-11-13T19:41:23+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -1545,17 +1854,16 @@
    "published": "2026-11-13T19:35:00+00:00",
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
-    "DOJ",
-    "North"
+    "DOJ"
    ]
   },
   {
-   "title": "Twenty One Capital Made $1 Billion in Bitcoin Profit. 60% is Already Gone",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGpyTTBpT0Zjek1nbG5jaFcwRFZkSC1OSDRUaTVqWGNWX25NZ2ZBQm5wa1VFdGVnaXhnMkh2emdOZ19LMDl2OG1yYlV6T2E5ZDZTTWt5STlLNld4SXlQRHNybjJsMDUtOGs2NG1xZnoyRVlNNmRidUlUVng5NldneTNUQTF4cWM2amdibjU3ZWNsT2cx?oc=5",
-   "source": "Yahoo Finance",
+   "title": "6 Best Crypto Presales as Bitcoin Traders Raise the Odds of a Sub $70K Christmas",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcThkRE9RLW0za3B1Rjd1Wmg4MzViTG4wMHByc2lQcHFPV18yTVI5NW1WUWxEdVNCTUFhYmIwMVdCdXM1RTA2VG1HcEx0VkJKQWh2UEdxU2pwOTVJaldUbW1NSW9oM29uX014MXpENmE4TGdxLVB6enZ1cnlFcGtxNUVQRkFxeWxGM3psNGxiSVQ0OGMyWk1odFBEMWRJaHpqc0Nv?oc=5",
+   "source": "openPR.com",
    "type": "news",
-   "published": "2026-11-13T19:34:41+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "published": "2026-11-13T19:16:24+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -1596,14 +1904,13 @@
    ]
   },
   {
-   "title": "Ethereum ETH (ETH-BTC) Live Price, News, Chart and Price History",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xUWRhamhHX0w1YnB3RHdkUjVJbTJIUGFwZDVqT2JrV3ZWeFg3c005cUlHMnloamxFZkFZcm9UbnB2cnVrZk1TNzZfZnpWaFJVUVo4MjJR?oc=5",
-   "source": "Yahoo Finance Singapore",
+   "title": "BTC bounced to ~$68.7K but can\u2019t reclaim $70K. \ud83d\udcc8 US PP",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kVGhQTl9pSkpRdDZQLUhTdUk4XzN4R1QxTXdhclpoem01STlzS2RGUzJZM2dpNUZZdWU0NUV3UVJ6c3B6cXJPQnFsYTUxZ24yQVg0WjNNbWtfNWZZSEdYcGVLQ1hLTDZxZE9uODNyeUxUUQ?oc=5",
+   "source": "KuCoin",
    "type": "news",
-   "published": "2026-11-13T18:44:48+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
+   "published": "2026-11-13T18:50:38+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
    "topics": [
-    "Ethereum",
     "Bitcoin"
    ]
   },
@@ -1666,17 +1973,6 @@
    ]
   },
   {
-   "title": "Why Bitcoin Is Falling Today",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXNMM3YxTGlpTGtkckZHdjRXaWVhTlhwOXk4ZGNldGJ1Z0ZnRmM4Y29CNHJ4R1cyX0dYYTNXVEV2UFh4c295OWZFdXhMNTFuQkRKcTFVZW82NUVhZ3ZHN1ZleU5uUlZIR0ctTTZFaGdCZTJXQnlWWW9MNjJ3ZjBrVGRITEF3NTNqZzRXdUc3VTBUQm8y?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-13T18:35:02+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
    "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -1685,17 +1981,6 @@
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "DEFI: Valour AUM rebounded 62% as Q3 earnings recovered, while institutional growth initiatives advanced",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMGtocVpBMUhtSFkwOWtzVkF3d2hoNnZGV2dFQWlsTk1JUzM4SmhnemNfaHBHNjExcF8yOHBWellqSW96VWp1aldkcWxOMU1qSmlzcTV1SDBYYXNqZ0NsbUctai1FYTZaemt4Vk41a3RzbVloWlMwaFp6TmxCLUQ1Tm5vYjZ2dHVxcmx5aDBFQkV1STNlNjczbzBUeVdobW1xTkY5STVCQ0haempQY1E1X1Y5TzJCQlRuRWNrdEtQU2phS1NoMF9fTjhmd3NUaDZqakpmWjlVUTdlbkRER1RUUjZ3TGQzUTdmdTFLNWxFRkh5Y1hKeUxWUU1TTTZfWWtvQzV0QTBvOEtIRV91OHpwS2dRMEZuRHM?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-13T18:16:49+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "DEFI"
    ]
   },
   {
@@ -1734,6 +2019,17 @@
    ]
   },
   {
+   "title": "Bitcoin Crashes Below $70K, Nvidia CEO Resigns, Inflation Fears Return: Weekly Crypto Recap",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEJrS1VHaU1wdlNoNUdZRk9Dd2IwT0ppSVpvVEowaGJkdGtzTVlIekwxLWFVd0NVeE1nVHJRXzJMSVBlMlJsVW5LQUw4ZXFCZE1pam9fOXNIUk9Cc0JfQ0hia1R1elAzQV9mcXRab3BzUkJtWTVmb1VIZjc4WElPR1p2SHV6a0xsYmRqMmJfNm1OTmhiRkt2eGRnSVEwdTFZRGpJQXRZcHRQQWlDWmVxNDdrYm5RT0M3WlZ4cjJwbUNUaTQ?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-13T18:08:53+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "What Happens to Correspondent Banking If Every Country Has Its Own Stablecoin?",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1Y0U0hwZUt5a0ZPdmRQVUlHcmxmU1ZIZnhRZWQxQ0tKbjBPbElPTGN0T0hKcEhfMWV5NFRKTXI0RWRNUUh4RUhrb0tJRTRFYXVlTXFHMzM2SGIwbHNlc0oxV3JncF9IZmdzeWJtRnhsN1RtUjlFX2ctaHF0R1ZfX08waTI2WDVPS0tZcGN2LWdZV2VWd2Exd2lQeUNQdi1VQjFzTk9EU0t0Wl9zWkprU3lOTFdEdw?oc=5",
    "source": "Financial IT",
@@ -1753,6 +2049,17 @@
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Earnings Call"
+   ]
+  },
+  {
+   "title": "Can Bipartisan SEC and CFTC Nominees Unlock US Crypto Regulation?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydFNFUVk0c2VoRDJIZ1F3QnRrQ1VoeDVKcHpLRlpmRVBqRmVEREpKWThqRGtEYmlZbU15OE9XN0xNb2dMQWJVWEEyMWh4M0ZLLWkwdjVR?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-13T18:01:13+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "CFTC"
    ]
   },
   {
@@ -1790,6 +2097,29 @@
    ]
   },
   {
+   "title": "New Volume Examines Emerging Technologies Across Engineering, Healthcare, and Sustainable Systems",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1luY3NyQTNpdTh4VERuZlluNXZGR3pJNkN2V0xTTkdZQTgzaG56aTZIaHY0ZGw5c3ZScTB2N2JhdFZtUF9HeVVlMzV4Wi1scGdHMmNrUTlPVG5aOG1XN3JNR25INHNhcy1SUkZSbS13alczQVpNQjNtbDAwSmZ4azJnaE1uQ3QwUzZRZnIyNTRUbGxFN2EwVXk3QVR6bEhXWHpuVDZJUFU0VENVMktMY3phUzl5SGV2WGc0SA?oc=5",
+   "source": "Bioengineer.org",
+   "type": "news",
+   "published": "2026-11-13T17:55:24+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Technologies"
+   ]
+  },
+  {
+   "title": "Jed McCaleb\u2019s Stellar (XLM) Tops Solana and Ethereum in Daily RWA Fund Growth",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xcmpTRDQ0bllDUkZKRkdoTEV1QlU0b0ZPTUNJMTJVLW5hWEdQa2V5UWN1cHQ5OER0YTl0bW1feFhaZGhqNXFZRGdKdEx5TGVyd1FwUW54d1JaQQ?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-13T17:51:09+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "RWA",
+    "Ethereum"
+   ]
+  },
+  {
    "title": "Emerging crypto to watch: ConConAI ($CON) rises over 100% from Its $0.01 Uniswap listing price",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tYzluSVlLUlV4aWtTY3hsWWY5MWFNUkxLS182YXQ3Y3VoSUlOdjBxTmxYTzZTUkstWThMc0VuUTl2S29mY2pzc3BHV0JUWjNYckNFck56a2xsLV9fcjluMDdwZTJ3OGRLNjlXV2V4RDRBc3c?oc=5",
    "source": "Crypto News",
@@ -1801,12 +2131,57 @@
    ]
   },
   {
+   "title": "Trump Taps Four SEC and CFTC Nominees in Major U.S. Crypto Regulation Reset Bid",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnpMd0tqSWhKMkRMNndnQjV5eVVHNXlPTmNUZUlUOXF2Q1piYy1xSkx5T2RUMmZDUHFCeDlEVmRsRWJBM3ViZVNIZUhQanRWdV9sUXpUdktGYVhEb295aE5LcTdyOFN0em5HLWRWY08xUU41TEV5ODR5Qmt3Tm51S2s2QTdZMEZlUkg1WUdaalVQRE9QUEdMMlRhR1BXVURBSXlRNGd4bWhWdlpFQVBnRWZNONIBuAFBVV95cUxORThsQmx6Wk80TUQ1V0xZSEpVN1I2YklIUExlUzdueGd2SXhSeDl3amtOY0EtczY2NTVrVm9YWE96bHJrczd0dzY4a042MFpoeElfX2VqLXp0eEZSS194RGhFbVl5V0JkMXVvTlNUbG1DZjJxWFpHWnhHY2lJaGlLT2RCbU83WEJhQTZxN3pHaVNLSHlTaVM3RlA0UEVjalJGa1RncDRMRkxfR2tmclk5WjNwck1JQ2cy?oc=5",
+   "source": "CryptoNinjas",
+   "type": "news",
+   "published": "2026-11-13T17:34:14+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "CFTC"
+   ]
+  },
+  {
+   "title": "HIVE Digital Technologies Ltd (HIVE) (Q2 2027) Earnings Call Highlights: HPC Revenue Hits $40 ... By GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSnhaNm04b0YyM3QzVGM2UmtmNFRYNG1YUUpIVmZnZHBwbVlrNGZxVHl0QmdOemZTdTV1aDZuTjRHNGYxY1dUdW9sdEhpb0xfek9oQ09jbUxndDlua1ROc1R3MURYUTNlbUtDM3BNbUpNNUYyUDZEeHNFS0VxTlRjLUhiSWhPV2tyWHlDb0hUS2xXOVFWaUdGaTRxSFlOa3l1enF4T0dJRmdnS0huTG9lMXpleE9XRjljT3RoQ1B6VzNNdTNMblVtODBOT1Nnb3oybU44Z1J3?oc=5",
+   "source": "Investing.com Canada",
+   "type": "news",
+   "published": "2026-11-13T17:32:47+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Technologies",
+    "Earnings Call"
+   ]
+  },
+  {
+   "title": "DOJ Seeks $1.2B Seizure From Binance Hack Amid Facestealer Takedown",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdW9iV0FXNk9HYjhUa3E0STBxRTcyaG9rVWp4T0JMNG5JWVNFcGNiQ3ZMZ3FpT2ZoM2JBRWZVQzY2aWhvVEtjVFlubkhmYkNFRWduWVlIU2x2UzlkbUxScnpSelNQSHZmbUJQeEhvWmtVQWhCMkQyY1cyOWJNbzZPTS0tSUllN3BicmRERG5ta0hfYzJ0d2kxUWRCMA?oc=5",
+   "source": "Menafn",
+   "type": "news",
+   "published": "2026-11-13T17:30:47+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "DOJ"
+   ]
+  },
+  {
    "title": "Bitcoin falls below $70K amid $455M liquidations and weak market demand",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHFUakFCSGgzMzJ1aEZNdEpScDdSLXhJTVpPVGM4VnU4SXlRM2N4N1I0amFUTzBFLWtqUUdFTXlTOGlUQ3JlZlg3NnJoazhkUy1XSVlZZ1hpZHVDNUl6a0pneWlQMEh4VHBZczNIYm1QT3Y3Q2xINEp1Z2V5bDBiLWx5TGdIaGFsMWJPYnhFMHc3eWIydndTam02d3FGU1p2?oc=5",
    "source": "Pluang",
    "type": "news",
    "published": "2026-11-13T17:26:11+00:00",
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LamstOTFmYVQ1Z0Q0MkJBUEFhZ25fQ2FEV1hRb1hPRUV1ZzNPdnBVUktfbUtMNVhtTUxoQnh3aDBjS1R0ajF5TmJ2R0VKUWhqTjJFMUdXclE?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-13T17:26:09+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -1848,17 +2223,6 @@
    ]
   },
   {
-   "title": "US seizes $1.2 billion frozen after North Korean Binance hack",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVnBXalZvQWtBZE1BQWlPM3pYM2tER3NxbTVvMWItSnhVd2k3QjBnek1teTJpQkV0R0FHSDlwRzBKamZjUERjbFdmMmIxeHktMmxuaHYtNGt3N3ptVzktcnN5b2djVEsyYXZiZXJpZVczY2ZsTGR6MnFwYjl2VzFxYzJhWHlrQlM3OXc?oc=5",
-   "source": "Protos | Informed crypto news",
-   "type": "news",
-   "published": "2026-11-13T17:16:17+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
    "title": "US PPI Inflation Rises to 6.5% as Bitcoin Falls Below $70K",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1lDaHlVaklmOXI2bU92aGhydHpXc1BXT2FEU3VHMXZDVnVjSjNiTW5KY2YyX2Y3V2o2VWtFVEpxazNna0VMS1BWTHFQWkhXT2UzTnFGTm1xWjM1VURmODQzQmRvQXlGQXpSLTQxUUpEMzhVMVZlMi11ZVh5U3cyZG11c1RudWtsaExOaG1qbW1LNVlP?oc=5",
    "source": "KuCoin",
@@ -1867,6 +2231,29 @@
    "first_seen": "2026-11-14T07:02:38.073857+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Forward Industries Partners with Groma to Invest Up to $30 Million in Tokenized Real Estate on Solana",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVppLWduaTFGVW1FZXd1dUp5bWxGSW9Na041aFkxT2I2YTBBQVhTalNkaGg2cjYzZVdTX0kwajhTUUVVVVpFbGFtWTNEaWlOUHI3dEFtQW9mNWJiTzdDa0dEd0hhbHBaalhKWjQ0WHE3UE1xQUV5bEJnRy04bUtJNjdydXU0YmVucWZVSUFpd2M0Tm5wMlJsNF9OeGtGeTc4anpJaWVndXVZWGlmTWRtYWdoY0p5dlNuZjc4TnN0aWVlSDhPbFFqT2NYZi0wcnl5UUE?oc=5",
+   "source": "citybuzz -",
+   "type": "news",
+   "published": "2026-11-13T17:12:51+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Earnings call transcript: Twenty One Capital posts $1.1 billion q3 profit on bitcoin rally",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONkJUWlVRSWd6SFlvVFFCRm1pU3dSRm82U19hYzVSRkEzYkRJaVcxLXVzb0ZmTzdMSzR0M0NIc0N4eUhPbFY5bF9QYXRKNWZHVUpoakVaQXJXOWcyaWI0MHk5NjduTzJFZHUzR2p4YXJqNEk4anlJUzlYdDloVFRPOXBUa1d0bGR2MEZWaWp4dFZYemRneWpUMUVGdVBuaHZzNklrZjZvMXVKY1RaR19fNi1oai1PQzFxSVB3cWVBTkhtWW45RE5SRUJickhlMlRTRnpMVnplUE9lQ1h5Mk1JX0VR?oc=5",
+   "source": "Investing.com Nigeria",
+   "type": "news",
+   "published": "2026-11-13T17:10:28+00:00",
+   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "topics": [
+    "Bitcoin",
+    "Earnings Call"
    ]
   },
   {
@@ -1902,903 +2289,15 @@
    "topics": [
     "Bitcoin"
    ]
-  },
-  {
-   "title": "Bitcoin Price Hits $70K on Soft PPI: Why Did the BTC USD Rally Collapse?",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVl2Rm40S2dZNkVtbUtzYkNGNUM2RkgxNHJrbFk0N0lKVmlNYTVrZzhfRjY4WU15aHB5MnlaczdJTW1ONzZlLTQzSlZiVklmbFhpbmtxMnJWWDZkaFRoVGt4eVI4Si1KRm9SV05IWmFjX2FaQmM4TkRGTUh5aFFIQ1pSUmx4QjJWQXE1WGZaeW5Qb3JId2RNOGhmaWFwd3JtdXRWMGxrYXNWNGRqc1VF?oc=5",
-   "source": "99Bitcoins",
-   "type": "news",
-   "published": "2026-11-13T16:53:48+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "US cracks down on North Korean cryptocurrency-theft scheme, recovers more Binance funds",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM1UwZlVJclJteDl1STRDQVdCZGV3Y2NhWkVYTWRYNXcwRkZDNk5JdzNfSDZkaV9DZkJDTXduZWFLNW43dmw1dktUcDNmM0pmN2FNZGhfSXg3Y05iMEtfd011a2gwWFFWWk53aW9PR05sUjNSeWtKN0hDYmtwX1VVa1FDWjg5UGFFS0o4aUx4UmJEdEl2MXNjN0MxakhBOHlodFc5QTEzbi1pSXBnQmdleHJDTlA3MmZadlZWZG8zYw?oc=5",
-   "source": "Cybersecurity Dive",
-   "type": "news",
-   "published": "2026-11-13T16:51:18+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "FBI Disrupts North Korean FaceStealer Operation Behind $400 Million Crypto Theft",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVnhoTVZDeGRIcG1fUG5GSHRhWmtSeW45RVJGMXpqN1cwYjR5Tl9VOUg4bTdvZGZ4dkNNdmpCU0p3aHl6d2dNRHUzYlpwLUFWQTRWN2FHTFpPWkVqb2g5d0NqaDBlZE9Qa01Kc1l3N3NnNnZaMjNpaG91dWF3eHRHT2FQcFMyemlWakZYVWVkVnV3NUUzLTdDUTdBcmNMUDFndS10LUlBRUxDaXRVd1hZRzJ1M3NtVnExcmszWGRjcVhJUUNfNjdn?oc=5",
-   "source": "Crowdfund Insider",
-   "type": "news",
-   "published": "2026-11-13T16:47:56+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "FutureBit\u2019s Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar Launch",
-   "url": "https://bitcoinmagazine.com/news/futurebit-apollo-iii-hits-micro-center-shelves",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-13T16:39:33+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-   "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-13T16:39:11+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "AMD Benefits From Nvidia's Troubles, Smart Money Sells Nvidia; Cooler PPI; Bitcoin Below $70K - SPDR Gold",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeVA5ME5HTTZNeURZTDZsMFBhd2hodjVrcEFhVVZaX3MzNnpEWTcyWHRmUkJoSzVqbEVSemhPWm5hN0pLYlFYdFFrdTdGUVJnRnpFRVN4MmxEODUyTVg1czZlSE1DcElBUUQ2SmdrakNMZ1dCdlJQTU1kdUVMdUtpWE9NaHVDcE5rRmFSM2V0WlJFLUZlRUYtMGpqM2xtQWc2dVREZ3Ricl9ZOWlxX3FTVUJuOHBEWWw3REVsQ1NSeUxYTm9VczhKTS1lVjhkR18xNFE?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-11-13T16:28:33+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "North Korea's $6.4 Billion Crypto Heist Yields Little Cash as Chinese Laundering Networks Loom",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXJBQk9vWFB3S2t5am54QkN1Z0tSV2NrQlFpTWRXeFRIZTRpWWh6d09WMHAzTnFpYnpqdmFvY29HcXptajlxR2pOSUpYLS13bFlKV29jekE1LUxYVXI4ZHhTeV9HN3VheUwtaG9aQ2V6SGYyaHVpenpFUmxrQXJzcy1kT2dFeHhvckhCOVRMWFJkeWNkN1JvN1VsS3RIZHZKNlpqckxLaThHb0p4elZBcjY3XzJ2czdqODdwbk1aVFJUOHlmQVlxOU96bEpZcmFkRUE?oc=5",
-   "source": "Vision Times",
-   "type": "news",
-   "published": "2026-11-13T16:27:44+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Bitcoin dips below $69K, risking a drop to $65K; recovery needs $70K then $74K.",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUlZVNEZIYWNubTBSMGNmdlJZaG4tb0ItcHlZZHRVUE90V1M1ZUZ4bVA2RlFkcjllSUtCME96azAxNzhkai1aNjFFbUZZVGlaVEh6eWFQdkVaSGxYSXh2VkNKV19nVGQwVUNiN3Bac1dKMzRzeEFBNDQ5Y3dzWWRoOVhtSTdOYnlEbUJsN0Zja2c?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-13T16:25:01+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Stellar (XLM) leads daily growth in tokenized r...",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjE3bWpxNDVxbmgxRGFfMk1IeU1aRUM0aWhvaWVIVEtnQU5SdTYzeGg1WVI4Z3lmVUd2Sm9ubUY4MnJKbEpSaHNXZWhtM19OZ1ZKbkQtWWUybDF6ajdMQ2M5cHZ6VHFKeVFVeEhzSm5RU3BGTjFFVWlOWWhYeFpkSjBYaENMTEU3bEJGamdyNnk0N0lsWVNnTWxpaWZSOFprUXV4LTZXeTNvdw?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-13T16:19:45+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin drops below $70K as dollar index hits 19-month high",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2g5MjBUSW15Qi03WllRamR1MFJEN0w5QmlTSVlvYlZveEwyajJDSFF4eUlXcng5VXFKWmdRUms1blhYN3B3UDU0YTZiYlN4RW5vTEVzenhDaXhDeXpEczRIYm9PUkZfaVZjSURUOTVhdmJsTHE1RVhvT3c1NGk2dHgtOA?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-13T16:03:45+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "DOJ Moves to Seize $1.2B From Binance Hack as North Korea's $6.3B Crypto Theft Unravels",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZS11cHVBampoX19FbXpXUmJRN2JPdlFDX0ZfcS1PLS1WU1pKZXZEbWJtUGFua2lfUFdGQmx1MjdrMEw5alBLVlJWXzgwMG9HU01zdm1CS1R0QWRqZ1NWYlZReFNVX0lWR3JuX2wwRU5nem1lYWNOdU53YVdVWXRaZzBuUlViVVZSNHAtZ0ZxeTZXVVVqWnVzSjlVaW1TeG1taWJwZ0U4bHIxbHBDTkxRdG9ueW5rcEQ3YTFfMFFmX0Y0bDg?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-13T16:03:02+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "DOJ",
-    "North"
-   ]
-  },
-  {
-   "title": "Bitcoin Crashes Below $70K, Nvidia CEO Resigns, Inflation Fears Return: Weekly Crypto Recap",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjZHMEJ6Q3NtU1N3ZGFZMzJmb3hwQlN6TGpTaFdaM2dqamZYV1YyTUR3cEpvV2FocmRxdkdmeGFDcTh2bHp6S1JfWGwyeWx1YUx3dDFUTVltdm9NcGMzYUg4dVRBQlBjVC1hRGVxd2NLNzBVdWZsTm54dkdjdkkxVnNtX213WTRXR0dnNnl5V1FQSFkzQk84dEdnOENLMl91XzB4d1ZQWmNlRjgtSjNXYWdWWQ?oc=5",
-   "source": "CryptoPotato",
-   "type": "news",
-   "published": "2026-11-13T16:02:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin heads for sixth weekly loss as Anthropic\u2019s blockbuster IPO looms",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-13T16:01:27+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "DeFi Technologies Q3 2026 Earnings Call Is Live",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR2p6VUxHaUNJQ2Jvc2w4R19CUWQ1NVdmVGlrQ0t5Skt5UlRQVkZYOUhPeS11TmtJUDd4cnJ0MTNvLTZVdlRYRlBDandKUzZoYkgyVVdiMDZaNVZxNHlEZ0sxZURSaUF5QjExUHl0cHI1TWhuclVOWW9OMzdUcG0zVVVwVFlCU3lITVNVYUxrOVE3MnFPUEJVcEJGRlJZanhuaFhPd3lFcnlRVWV1dEN2SUdxLU52TDQ?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-13T16:00:20+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "DEFI",
-    "Technologies",
-    "Earnings Call"
-   ]
-  },
-  {
-   "title": "DOJ Seizes $1.2B Linked to Binance Hack",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXZOU3hYdnZxUGtFOHVPbjlMX1Q0R1JRdFBVcWRjXzZWem96STZhN0o1MGd4b05oNEVlUlVub192VEUxanlIUVAwUG15Z1piTFlfYU51RGlzYU85QlRDWWlPX1BsVXB1QkdXMGhLSUJwblB3ZEdaZ0xBdXFXbWx1UlpPZmFkTkk3RFMzVkdQVW9wZw?oc=5",
-   "source": "Briefs Finance",
-   "type": "news",
-   "published": "2026-11-13T16:00:00+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "DOJ"
-   ]
-  },
-  {
-   "title": "Can Visa's Stablecoin Push Gain Momentum With WU and Anchorage?",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRFRZa1E1aF8yVW56M25JV1Eta3BtNzBRX0JFMGJGSnh2UWs0UF9Ua2k0VlJmZFlZVzBLNVBNOWJxMkFyeEhyR05oYlZmcWpYd29TS3Z1TVcyeUd0VzFuTjB3MXoyd0F0eDBJZmFEZHp4NnlYZ251aUlOZUxhWi1tQWZVaElheGhxRWhzcg?oc=5",
-   "source": "Yahoo Finance Australia",
-   "type": "news",
-   "published": "2026-11-13T15:51:00+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Stablecoin",
-    "Anchorage"
-   ]
-  },
-  {
-   "title": "ETF Outflows Dwarf Ethereum Foundation-Linked Wallet\u2019s $8M November Sales",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkVQMHd3azNxb0Uzejk3NXV2WWZRZktFSlhFZEdrLTRCSndUbGNIT3NwdW81a1dLUXh2TG0yRUNSX3YxS1UyT2c3UEZ0OWZ5UVdjWFZIWHloaEZ2RjM4NC0wQVZ0UlZxTUFZbno1ak1ra2JNU3V5c1ctVGVPSkE4OVJpdENTSEhadlYwSmR4QWQwWE9HZ1U3SThUa2lSWDloZmpQNGJNZEpTQXF5OUp6eWJmVVllZXM?oc=5",
-   "source": "Bitcoin Foundation",
-   "type": "news",
-   "published": "2026-11-13T15:46:44+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "DOJ Gets Court OK to Seize or Restrain $1.2B Stolen From Binance",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVRFbG5BMFNjSzczd003Z1l3NjR0NGQtVWs2cy1JVS1ZN1V5NkNlVklmRzhlSkxVMm8zMmZ0TEhhZ2JacmNrVVZfcU0zaU1mZHoxeFBMQm0xNWIzVkpuVXdsZDgwMVMxVGVBMHRsYTI5S1JuQ2ZOMzJ2bjVlZHpORTFPUHBsUUtUeVNKZm13?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-13T15:45:50+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "DOJ"
-   ]
-  },
-  {
-   "title": "Federal Authorities Disrupt Massive North Korean Cryptocurrency Theft Operations",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2JGNGJ3SlBQaHViRDdTVk05OC1GX2dOTkNtenVkWWExampyZGdmVDdUWHdiN0tHWDhoeWNibV92eVd5WUFZWmJJdnBzY1dxa092bVlLZHNzNFBjb0dFcEoyWTJpcm9hM0FWRFVhOFQ3TXVwZWs3UmVzakp3aW15VVlDbndEbXpfWUdHZWRQWmRWZVZjbHRoV0w5azIzUDdoaHQwbG1tcElaSkVkQ1lzcnBNUDBuWjRPSFEyWlpac044MXpoRVpiMjRPVQ?oc=5",
-   "source": "Security Today",
-   "type": "news",
-   "published": "2026-11-13T15:41:32+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Jed McCaleb\u2019s Stellar (XLM) Tops Solana and Ethereum in Daily RWA Fund Growth",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUR6bFk4OHFaN3l6VkhlalNZYnhvZHpoMl8ydlc1VkVPb2ZDNF9WZXNLT0gtVnE1LXVrd2hzb1Y5c2tpaEFyMHpNelQzQ0VpZGZySWl1WTF4X1lpVVFWcU5BaHJWbk9IZXNaVU5DT24ydlFJX1FCSGZrQ0RsTk1rel96THpPSWdYcE9oeG90d2RWekRz0gGaAUFVX3lxTE8xeG94bm8tWkhlWHlzd3NfbnVvaTU4ekNxYU5sRzhMeklBZkpyV0p2eHFGamVBcVpzRU5VQi1ZaFc3aWM1aUxjVmFNMW83QVBYSnFfVlZ5VVItRGViOXJ0OGg3SWg1eHRjQTJnbkoyM1BoNjM4SjhRN1RmelgtSkUyX1MzT3BpZ3dRd3VIM0VHUVNOX3hYQ0stamc?oc=5",
-   "source": "U.Today",
-   "type": "news",
-   "published": "2026-11-13T15:40:57+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "RWA",
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Beyond Bitcoin: Smart Contract, DeFi and AI Crypto Sectors Move on Their Own",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRmJkY1pZSEJ0Q1AtYnFiQXN6RHVEc1JhdXk3VzNKTmo5ZFNiOU16X1NMUnBubE1VZWVVU2Y2cFFqRmd0eGZTaWhEVVZXZDhveWlpa1JtUTlZcWEzcElDSVVPQjBfRzNabFlXc2lJNmhjQjBwQXBaX1lEOTUtcUFsMDkzeVRFeUJnQkpOc3Jn?oc=5",
-   "source": "CCN.com",
-   "type": "news",
-   "published": "2026-11-13T15:33:15+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Visa Opens Its Settlement Network to Anchorage Digital's Stablecoins",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0N6WW5ieGRYOFhXUkstWXp2R1ZRWGRGcDVaci02T1JnZHJOYjVNOXlKV0U5cUVXeDRETmFwRGZ2d19TVUV4YkktYk85b1A2bk1OY2l3eUJWUzNMOFVVSjFUN3FMVDNjWnlnbDJRemlJYjd0blNEQV81Y2MtQ2FaSmU3YUs1cDFqRFF5cGVLZmlWOE8yTEtsSm9PWQ?oc=5",
-   "source": "Altcoin Buzz",
-   "type": "news",
-   "published": "2026-11-13T15:32:29+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Stablecoin",
-    "Anchorage"
-   ]
-  },
-  {
-   "title": "FBI: North Korean Hackers Steal $400M in Crypto Using Fake Calls",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVY2SGFUMjgtLXdpWENnemlCa1hDcXk2VGZETENaZDJDNHBzQTBiMGJyYnZvU3Zld3BERVJ0VTg2MVBrY0ZrWlB2WEtoaGw5V2g3TDJlaXd6ZFlxRTlwcDZDaTRTTFVlVnl2Q0tETk9OT1IzUVF2RnFXUG55MWFmNmQ5QnA1Y3lKc2lVZHBlQ3YzVFE?oc=5",
-   "source": "LAmag",
-   "type": "news",
-   "published": "2026-11-13T15:32:13+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Current price of Ethereum for November 13, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MRGQyakNqWFl5WXY5RVVpcWlRMm1GbG03cTJLSmpvRk0wcE1RcjI4eHJaajB3WkxwdWt5Mm1OUWdXTDJhMHE0TXFQeWhpTDNOVFVRa19FUk1YUFpuZHl1UVlGN2xILWlC?oc=5",
-   "source": "Fortune",
-   "type": "news",
-   "published": "2026-11-13T15:31:56+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "North Korean crypto hackers steal another \u00a3300M weeks after 'biggest ever heist'",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXJQakZxeEY4eVBDb1c4Q1hBdHdOckhVX2JqZDVTVmdlckFLSERINVVtTTFMdE94ZEV6b21aQXFXQVhmV1ZsdmZDbTF2MTdWNTVZVXVhSjM3MTI3MkpBOE9QaDJYby1RWjF1RVpnZURuVm5jZU1sbW1PRU9OLXVGX1pWQ21aRm8?oc=5",
-   "source": "The Sun",
-   "type": "news",
-   "published": "2026-11-13T15:29:51+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Thailand\u2019s SEC seeks public feedback on proposed stablecoin rules",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85bDRFcUlfNDV2REVGNzRWeTgzMENZZ1BmY2tFaWRNOEpiN3d5V1FVSGNLamFyMk1Ed2FZUTdCOUlqeDdHQUFGSUViLWNiVUxnM2s2M1J6LUZ2YjBqN3lYbWRmX1dHZ1pxWFcyQy1waU1JUQ?oc=5",
-   "source": "Digital Watch Observatory",
-   "type": "news",
-   "published": "2026-11-13T15:28:48+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "A Stablecoin Platform Attacks a Trust Gap to Launch AI Agents",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMER3S1lqXzdEcVhFSWxsTGkyalotRE1IQzJjeEx4UjhpOHh3dHk4SV9UbnZ4NnZGMEtkYlFLck5wTXJNMGtwUzJsNGhzNXBabXJ1LU0zRGtmZVNSblFhYTRGZXpURnhrQ0o4WlVrMWVzSGJENGpvWEs3MnNsSTNpZzdMMjAxdnYwRHRBak5DbUE2RGFDdHVpck50enN3bVU?oc=5",
-   "source": "Digital Transactions",
-   "type": "news",
-   "published": "2026-11-13T15:28:31+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Gemini Space Station Q3 Earnings Call Highlights",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzE1WG1fTGN0YzVYX2g3ajZPTEZYWl92XzlHeWFQRlJNeWdqNjkzdklNT09XLVh3SFpncHhSTlZ3SDFLVTNzbjJDUVl1UExqWURsWjFFYTZ5X2ltako4VmQ1V1JBUjFQNHQyR1ZaWDljUGVzRms1N0ZtWnZYQXhjaE5MRENQWEhkZ0pFOVRzYmpRTUdJN1JMTnRpRjR1SmtQdHNXZXdTbFJETE9xQmc?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-13T15:14:55+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Earnings Call"
-   ]
-  },
-  {
-   "title": "Bitcoin falls below $70K as crypto futures liqu...",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ1pyZXVLRUhtRGFRSXBIcV9MMENNbi16QlZRWF9aelVMLUViZnBHc2FycEdBYVBJLXJrUW5YYjUtai1fb2ZHUmFPOVZwZXZKdDg3d05xbjdIOFNpTy1yUkVNUW1iZ01hYmNaaGtxcFJCNlBkck5NQkJndWs0UlEtVjh3TXBYUHlhby1rNmNtRVRMc09WVjVxckpkQ0g5dDBYdVhnNTJTY1BaLUwwYlhv?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-13T15:05:52+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "US Moves to Seize $1.2B Stolen in North Korean Binance Hack",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVg3bzQ0VEJ3b1JhSDZ2ZmZrdGYwdWdEN2lFZnZmVC1aWVFjV0dWd2hva1FkYUdlYzQ0VWw2dVp0cXVaTXdHUHlzb1ZFZHZsSFMtODlrY1BHRm54aFhzeDFwNHhoZ1RrQVhTWE0tOGp4Z05zRTRsUHJPMWU2UllzVmtscVVZMk1MUHRrQlFqS3NxeFZlOTc5LXpMR0MxRUxFV3c?oc=5",
-   "source": "Bitdefender",
-   "type": "news",
-   "published": "2026-11-13T14:56:05+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
-   "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-13T14:50:49+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Stablecoin",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed",
-   "url": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-13T14:45:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Stellar Sees $10.35B in Monthly Stablecoin Transfers, 511% RWA Growth",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGJCU0FHMTJETzBDRnhjRkhGeXh6cnpxTHltaFNZdjBSd1RNUEJXSGJzOWJVUWNnWUFPcFlNM1g4SWc2RGJvQk9NZUdPdWhDNDVJcEtma1pxN0dBTG9EMEx5dEs0Y1E0SDJBVm5tUkhaS1RDMWEyUkk4ZGFpczh6N3U0VFFlVkI5ZnkxT0IzYUlGZDRERElyNlQxVURudV9Hd3c?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-13T14:43:31+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin climbs above $70K and gold rises after cooler PPI report",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tbHM0OUVMRVNBY29Cd0V5eGhrd1hwWUhaMHBPZDJ4ZUZpTEI4bFJQZTBnLUF3N0hsMmdsMXFEQzVyVHNkMXU4SHFySkVuaF9MQUxWUDRScHU?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-13T14:41:09+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSWUtneGk5emFiSFJiSFNpNGN3UzhSeXhBaXc2SFJkbE5vay1ncEh5R2dHa2tBREdPcDdGdy1ES2FZUnpkbjBUR3h1cGJfWmhObkJ4b3dPWWtXaUhXaXktNkM2aFUzampTb1BHTDBXVVdjNnJ3aXpjVUtXcEdzS2s?oc=5",
-   "source": "The Hacker News",
-   "type": "news",
-   "published": "2026-11-13T14:28:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Earnings call transcript: PowerCompute posts q3 2026 profit as debt drops",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ3hfd2c3RzZDOUFHNHlsdVNYZmVzSFY4emRtNUlMUVVNZS01cmhRd3ZKUldONmF5ZTRTQk1udFI2RTczeGhTRHAzWk05WnpYTUx5OUwxSHNVeTJHQU5kUkJkVGxEUmdzbU5wTmJCVTgxMllWSTg0bzhYVWZMcm5Sa2hRM29nX2hPTHktWTBsSVBpNE9VZm5UTUpmU0w3Wm1RWUVwS3IxQ2k2V2JyYVhIQUswTG91dnRuNlVYLVJuMlBCdkRRenk2QkN2Z01FZw?oc=5",
-   "source": "Investing.com Canada",
-   "type": "news",
-   "published": "2026-11-13T14:27:41+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Earnings Call"
-   ]
-  },
-  {
-   "title": "Circle Sees USDC Volume Surge: Can Momentum Last?",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYm5uYmZfZ3hzTlJaT2VpUk0yZ0JCTWxocFBjQ3NucWxTV1M2T3lzVTY0RE96SlJaYTJZNzVxczhmcFpfS19Hc0NMU1lPYnZvU0xZcXFwVHk0dTZXeDFZMnJTb1FqN2hBZlBTdjZuM1BCY1dhS0puY0F2dU4wQlFqdm90MkRUbTlYS05xZU03andkZzBqZmQyMHlR?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-13T14:26:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "White House nominates four crypto-savvy regulators for CFTC and SEC seats",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkhkYWswUzNkTVNvcktVU21aVVJudHNqcENDQ3d0Y19wUndTQUpxUGRtRUFHVElGeXhQTU1iZWFVdjl0b2p6SXdKY2VWd0wzeUlVdmNPYnhlbGVDLW1leU55WkhFRjRDd1RvMFpRR1dMMkViWnVoU1NoVndxRVNwdnh3?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-13T14:23:47+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "FBI Disrupts North Korean FaceStealer Scheme Behind $400M Crypto Theft",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15OW9femlPSXBvVUEzYjFiVFM3eEhISkNEMURoMEhVTmJqbjhFMFZPQ05RRVlTa3AxbUJsYlJqSG5qOEhsaWZnWEpnNVVSU0ttbXpkNnNldFdTRnJWMFRBYm9QSXAyamxRS3dvYjY5U2VWTlR2R2N1aDFHemI?oc=5",
-   "source": "Hackread",
-   "type": "news",
-   "published": "2026-11-13T14:21:16+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Earnings call transcript: Twenty One Capital posts $1.1 billion q3 profit on bitcoin rally",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVHcwMk0zU2tSS25GNl9Cekg3QXNab1ZXWERMMG1yLUNsY1o1SXhPY3R1a2ZGZGoySFJFU3pKUXFiN3JTSmZCZG9GTEdrWlNGcjFmZ19fZU5UUFVHZTQ1VjdmanlwN1NuaDNTUjBwSlVRQWd2MTFsM0ZRZ2VPR2tKazJJRi1WeFN3eHd6MTVvMFdMTHo2ak5lLW9OYmFfS1VXUEJqNVdWckZ3VzFPZ3NWaUNSMGxTbFk4dGtOUkpzOTVheGl1ZFdUSVNOOHJvaFhVQUlkVmh4Ym5tRlE?oc=5",
-   "source": "Investing.com",
-   "type": "news",
-   "published": "2026-11-13T14:16:50+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "Bitcoin",
-    "Earnings Call"
-   ]
-  },
-  {
-   "title": "North Korea replayed victims\u2019 webcam clips to lure crypto workers",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEtJRjZSVzU3N3BMNlVQUVpVYTJadGNzV2g5ejU1WmlTVFQ3MVFYWGRwUm1KdDVNU2w5T3liU0g0OG1PdzIwLVRyb3RUMU5YNlR5dXpvclVGWDlCLUdQU2p4eDdNSTM1enA0T3RLYjRoaEF6LUd0M3N4WG9ENjgyM05TTE0?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-13T14:16:48+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Visa adds Western Union\u2019s USDPT stablecoin to VisaNet settlement",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0VDdkZCNGNUMjlmVVVLb0FaQ0FGNzROMVZVUk5OeFJOUFctaFk4ZzVuR0x5T2M1XzhscmRscktZSEhCa3l0Y1hNOTZaaU9ISDdjaFBjbHBja3BGUmNWMFJuUWRSRVR2RjAwWEl1WTV5cjFTRHN4d0d4djU4ck5saDZQSmYwZVJaOWVBRUdlMmFpRUJDaTZaeGZRTzBjSl9vWF9SeU53S290WDhhaUtQTk5B?oc=5",
-   "source": "The Paypers",
-   "type": "news",
-   "published": "2026-11-13T14:16:17+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Justice Department and FBI Seize $1.2 Billion in Stolen Binance Assets and Disrupt North Korean FaceStealer Scheme",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMk1ZNTA0ZXM0MFE4QndKSEJGcXdSNUdveG9sbmFyQmIwcHdZN0NSaWM5ZDBnN1phMmh5VW9RblNTaXFwOHdxVVE1QUFacTVYcE1Cek55QlJqcVZ5c21fd2RXQ0xwbzM5a2hCZVU1NWFldFgxM3I2cm5jVmdnMmZZWFRpalpsakVqbGlPaVIxLVNmMlJqUjBXTkRlY09mcW1jdEQ3VmhpUQ?oc=5",
-   "source": "edhat",
-   "type": "news",
-   "published": "2026-11-13T14:15:33+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "Ethereum and Layer 1s Explained",
-   "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-13T14:12:23+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-13T14:11:44+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "CFTC's Michael Selig says crypto exchanges are lining up to register",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vVU5zUm9pZ1ZkWFpPRUt4c0l6c3k4d291YTJjdW1YOTZFMUpXMTEtQmpveE5PVTJvSWdVYVJhMmY2azlJZWJ2VHVMZjFFYVJRWFBPVnVobjd4Q3U5bGt1cHNjNzdWLUp3ZTVRVUlJd1ZBWWYyYmJScmlZQQ?oc=5",
-   "source": "Quartz",
-   "type": "news",
-   "published": "2026-11-13T14:09:57+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "OKX And NYSE Parent ICE Build Tokenized Securities Venue That Runs On Uniswap V4 Pools, Targeting November 23 Debut With 70+ Assets Including",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQaHY2Q2otQW5zLWxFbGNWLUFaSmZCd1ZPVEJQS1RfYm5ueXU5dmhXNzRDNzRQLWZVNWlLNm1DSGVFTE9SbmRJS1VubFI2ZnlZNGVvVERTdGliQWh4YmJFZlE5QTZvMzd6bDlDZEdxd3JVUEwwRXZLRWZVQUIxOXFsR2xtQmVXSTE3UXVHSXhqYUlhaUFlV0pCeWhmX19fR3BMN1VWendPMFY4dkY1b0tfLU9YUHc5VTNVeG5zLXZrTHkxSlMxT0I5M2liaDF6cWtaazVqTmFkRFRuMDg4RFE2WC16SDBjUU1acl9XZDdwVE9oWnRjbm9hZDRPTjEtUDhrMVo3NU5seG80MGZ3MkQxMGRWWDBCcDQ?oc=5",
-   "source": "Foreign Policy Journal",
-   "type": "news",
-   "published": "2026-11-13T14:05:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "DeFi Development Corp.\u2019s CHAD Preferred Stock Completes 30 Consecutive Daily Dividend Payments",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjk4cWRucEw3TDVVT2pHaVRqYjA4SVVDUElyTXJZY3BKdUlCZllLalNPTTRlbWI1VVYxMC1GQWVtT1hlbXo4RXB2S1kzZ1BMQTE5bWp6SjVYLXdFa2haMEtoSGU2c201R2YtRXNwbjdaVGpFTGZtVnMzSXA1Z1VKemNzczJiWTNHb2VYMi0tTWlyX19HWGRobFhUbFFneW5iVkFpRUIybGZXUDBIV0hsczNKeXI2TThf?oc=5",
-   "source": "Quantisnow",
-   "type": "news",
-   "published": "2026-11-13T14:01:59+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Arbitrum RWA Users Rise 12.3% to 13,905 as Transfer Volume Falls 80%",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZjQ4cW5Fc05hUHp6eVQ1S2V0R1BxWElkc1Q2WjBBSlM2Z25oNmVIMjNyNzIzc25sdVE5WDJvbWZZS0xENTB5UFlNV25fOUJBazBxU19XdlNjdw?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-13T14:01:07+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "CFTC sees crypto exchanges opt into proposed federal oversight framework",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGtUZFNLUW9iOEtTUmtlTzFVX2NEelNOUHFrNTlRanFvNUE3Nm55UVRpOWdRRmdQcmhuR3BJa0N6SDNHalJld3dQODh2VlJTTk1vRDRkUnNoN1lEckdvbDMzR212WVZtWU8wcU9wTTVzb3ZRdUdwNndva21IV01PR2dabTV6WHV5VWY0T0ljTVpfeC1XaWdfbDdWYw?oc=5",
-   "source": "Traders Union",
-   "type": "news",
-   "published": "2026-11-13T13:55:27+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "CFTC's Selig Says Crypto Exchanges Are Lining Up to Register as Clarity Act Stalls",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VRlhCbENXbjJ1UlZLMkpsTld1alBHNjMtU3l4VUs2MnctWjlSN0NxMjdjRGZXSW5hcGNIVXJKVGNvVGRWVWZNUzZfYmF2eE1BQk05eWdjenc3TnYxa2Y3aHZwVDZvNzlBaDdLb3JoYWJ4MFc5N3c?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-13T13:55:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "DOJ Says It Helped Freeze Nearly Half of More Than $6 Billion Stolen in North Korea\u2019s Binance Hack",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHBWVGNXcW1VWElRUU1zTGRhUl9uZkc3ZGFMdTBKUTNReF93eTZRb0tXNklsRzdNMTMxVDM2WUc3NDgyUTF2RmdQTkdRNTV1S29yY0N6S25UcS1MaXcyaHpiWDRGSmFaQnY3TWY4Uy1vQkxWVVRzallNMFZ6eVUyVDF6NmlhX3lpOUVyMmsyeUxYYmd3SGs1M0wwWmhlVTVIRFpvNC1nUloyVzFLX2NSeTdmblZ0bDFOb0N3akVGR0ZPWDUx?oc=5",
-   "source": "WSJ",
-   "type": "news",
-   "published": "2026-11-13T13:52:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "DOJ",
-    "North"
-   ]
-  },
-  {
-   "title": "Crypto industry aligns with CFTC as legislative hopes fade",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFNYU1VyaHFWZzJ4NWVHRnZLSklRWXdreDV1UDlNa25yeXFna3JoWGxETnUxU0gwaU1BTEtSOEFod2xidENNUi1RTUc5RjQ0bExSc0JGZG9GbXRBVUloSnBMbE9CZVFfUXpiODVDZi15eWFfUTdvRlZxb3Z1YlVBaVdKZ0FxeU9xd0tNVHRkWQ?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-13T13:47:03+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Stellar Ranks Second Behind Ethereum in Tokenized Funds With $4.5 Billion",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UT04zbkZEQkRVRXR3RzAxd21jXzFGdVF0MjM5WEI5bW5FanFZcEJkT0kzQ0UzeUFFeFR1Tmt4RVU2VjhVUnNFaDlmaHAtdVZ6WFZrSTE3eGgtOWVP?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-13T13:41:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "RWA",
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "CFTC Chair Selig says crypto exchanges are interested in new rules \u2014 CNBC",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmJHTEM0QVhLby02cUtxNWtyOUlwSzE3dVVCZVZUWTNuelZmdy1NWm81NExxYWpsaHFBQmk0R2NXMWJOdWZ1bUljLVNQMlFtbDF6XzJSdklqbTZ6UVdZeG04Tms5bE41cnJpWlptYTI1dDlzS19tbk45YlhJWXZQUmUweEdLcnlKRE5kXzl1am1IM0FjNDdpR05aZmNCanllQzgtRnNVUQ?oc=5",
-   "source": "UA.NEWS",
-   "type": "news",
-   "published": "2026-11-13T13:39:36+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
-   "url": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-13T13:34:46+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "U.S. Department of Justice and CFTC Sue Arkansas Over Kalshi Enforcement",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1ZlU3NlemVjai0yaHV5czBtWElnODlScFlodWNqaXphSldkeUMwVzkyQTFMME13eHpsZlZ4eFVnMTZpc0U0NS14X1JRaDJkZnVMZUYyMUtpYnlPTEVBV2kzWlg5SXhobzRQRWlob2Q2dVRQQXZHQjNkLWJJNnNzaXBBWWloMGZVLTZnZ3VhdWktbmlXVW1Sbms3QVN1ZmFIMmFRVA?oc=5",
-   "source": "Kriptofoni",
-   "type": "news",
-   "published": "2026-11-13T13:26:00+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "FBI Warns of North Korean Fake Video Call Tactics Following $400M Crypto Hack",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFRDRnVFNzJ1RkhkU0lkS1BFbVEyRTJDUmJYTThCbjQ0TmsyQktkOVlFV2hoQ2pvOWJPZndNTWJjWVNkLURIa3B3U29ySndPbmFZa2lWeVhxSE1XZVE0TWlwQlZBT3NXVHNvT3R0Q2hUa1lkcGhRd1N0ZDAzT1N4TXp4WWFQdE1kUk5iV25vMk94ZUFBd3ZDUVVFWHIwZ3c?oc=5",
-   "source": "CoinGape",
-   "type": "news",
-   "published": "2026-11-13T13:18:43+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "CFTC Chair Michael Selig says the crypto industry is embracing the agency's rulemaking",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTmhKM1pieUoxVkU4VnZ5WFBXVUJ5YWd1WTVqRnZDWEI4SExON29JVF9sOUtjWXRwZW9oX0JwRGxSeVV2Nlg2bmt4a0I0ZGF5amFwWDhXaDlBeFZpVTYzcXEwbU15Y05FYkNSd2c3cHAzeXVjWXhFTVFfemcyLVNTT1JVX3ZpY0pwUFVUNG5nRC03LXlNRmdCLUs3T1NTbzZiUk9GMjh1cWRqQU41NG5BcF9QVGNqZXpqLTYzdTFzb2pQZE5NM0Mw?oc=5",
-   "source": "CNBC",
-   "type": "news",
-   "published": "2026-11-13T13:15:57+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVcwVkRlODVCLWJCODUybmNpM3BGNDZjM1g3LTl3MjF4N1R6YmlyMGpGUVY2eUpQSGFUUTVWaWVSNENrU05TMDR0TlJIbndLQ0tmS2FaUDh1YlpCMldlY21hTGpaRmtwRkNDVVdGMmZEZ1lnNFByTURnclNLelV5d1hLMkNiVm9UaXVTWlA1OEZvNEhNOExxVXFKSXRFTDZ0eGloeFhn?oc=5",
-   "source": "CNBC",
-   "type": "news",
-   "published": "2026-11-13T13:15:35+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "Visa USDPT Settlement: Anchorage Digital Adds Stablecoin to VisaNet",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkhsZGxDY3d6eWtjM3BmakZ6dEsydzJWdUtFbXVjZUVGOUVHTGFCSWJXTFpjZDRRXzJLUGZ2VW1tRXJvY3dFZlZyMmVBNU5KaDlQRVNhTUYzdEZHYTMzXzR6LThybVdkOUxsSUl0Q19qMW1fZ2ZENk51bFJONTkxM0pVTQ?oc=5",
-   "source": "Coin Gabbar",
-   "type": "news",
-   "published": "2026-11-13T13:12:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Stablecoin",
-    "Anchorage"
-   ]
-  },
-  {
-   "title": "Real World Assets (RWA): Top Tokenized Assets by Market Cap",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ydkViTHdfSkhRYkJuWEJqcXlzdjl2MjNoZ0M3WnF0WU9WRGZrVENuY2FkSU5fZERvbGVoNVpvQ183RWE1aFdR?oc=5",
-   "source": "CoinGecko",
-   "type": "news",
-   "published": "2026-11-13T13:08:19+00:00",
-   "first_seen": "2026-11-12T12:00:05.751890+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Stablecoins, Swift Blockchain & Wero: B2B Payments 2026",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWWdmRkdPcEx5NktlT09SZGlaSFRPWUxxdURUWkUyOXVNYXVLLTVJeG9lWnJCV2pkSDBOSWtkTEZJYUlZX1lKa3M0Q2FuaTlscmVPLVd1a1lpdlFlSTNwMFdvUDlWbE13REpueEU4SXBFRmI3dFo1WG4wdWdqb0JOVVU5bnRSMTZVTlZ4T21tUzlOSFM0MFd5eGVZR1hKSzN4SVJsNV9QbTFxdThMQ3pIUDdiLTRoOTl1RlhtUnZhYmNpQVA5Q2UzTHlra2JTNjZxMlE?oc=5",
-   "source": "FinanceX Magazine",
-   "type": "news",
-   "published": "2026-11-13T13:04:15+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "US DOJ Moves to Seize Over $1.2B in Crypto Stolen From Binance",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDFUZWE1NHdVZldxbjl2LXNUcEVlcTZIWm5MUzE0NDg4aFg2UmNsQnJrNDZtYTM0WHRITV9LMlRNaHNkT3NaQmxidk1kWS1DU2Z6WkVqRi1HM3pjMnJpb01jazBGNmFmNFlBWi1BS0p1cDI1X2xCYVVTenJMUjZsWks0LVFWdXpkd2xYQWtxWjRFMWM?oc=5",
-   "source": "Crypto Economy",
-   "type": "news",
-   "published": "2026-11-13T12:57:14+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "DOJ"
-   ]
-  },
-  {
-   "title": "Injective Veyra Upgrade Live for Voting: RWA, Enterprise, CypherOS",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZcXJvV0tNYjNvaFRoTW50dHl0cjN1dC1lWVcwMHBqSXh1TmtRZE9qaUk1bXdRVkZrWWhMdU9WX3p6NW8xd0MzS2tlSFFCM1JuYUhCWHJvSHZ3blZpejBhS0dEUFFPM2JFVUxRNWJ1Z2g2NkZxQXBXWFNhUTdGdw?oc=5",
-   "source": "Coin Gabbar",
-   "type": "news",
-   "published": "2026-11-13T12:47:31+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin Gives Up a Level Traders Were Watching",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE8zRzB1aEg5Qm0yYUctVUVfSVRuN0p0bFRVVlVtek9DdXR6NzdRcVg5NlF6VDl2UlM5NVlV?oc=5",
-   "source": "Howl.Link",
-   "type": "news",
-   "published": "2026-11-13T12:42:46+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Binance covers $6.34 bn hack losses linked to North Korean hackers",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmdyX3NxbTBPcGNxeUV5WmcwSHNkX01KWWo5Y1dXZEE1cmdWOWFjTlJONjRydklqODRqNzQ5ZGdQb3djdWZ4a2g2RFBrbGRkamItbDRyQkxoYk5ZMUVPOVo4dVpPcmRaRTNNdDRQVjE3T3VRSTg4TlRDSXp1aF9rMEx0UTJUYlhLalVUUlhOWllOcjU0S2Y4?oc=5",
-   "source": "Beinsure",
-   "type": "news",
-   "published": "2026-11-13T12:39:29+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zV0RxUEtzN3Y2NW9ZN09CRzFPOXZuLTRqbDVQN1pTc0Y2Y29ybmxhejVkOTBDSF9fSTNhS1gtVXJDbDV4Y1lKbEZTdFAwWG1pV2kxVUNsWEl1MTVPTV9SYjRKRkRZdw?oc=5",
-   "source": "The Morning",
-   "type": "news",
-   "published": "2026-11-13T12:38:10+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "North"
-   ]
-  },
-  {
-   "title": "US DOJ seizes $1.2B in crypto stolen from Binan...",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUlOUDNqOFpnN2FtV3R2YkhiWkhlRHZ2N1l5UjdPbE1BcVBjdVJrRjdjaDNNQ3AzWXNRUWFmZ2dpSFA1bjJIbHRiR0N3UlNjeVJkaVQ1RHhLaWdReTVzVnIzby1kbTEtbkVOOV9YMjNVWU1kSWZzcGhZTFo1SThoVm82ZmYydThyWndRVlJCSmNpREk?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-13T12:29:23+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "DOJ"
-   ]
-  },
-  {
-   "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
-   "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-13T12:27:41+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "DOJ and CFTC Sue Arkansas to Block Kalshi Enforcement",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnRsQVFmY2hzV3NPaFVLY3dnbUJGank5WjZhTTE5Rk9wU29SSUNUN2xLWWVoNGtsTm1CdnJzZ3hHQUtIZkFtZDFiQWpUb2RUbUZ0bFRPWU9sN2NFLTBBTzR6M1FwZS1ObkgxQmE4SXJYd2ZJa09DcTJKa0EtOElOU0JNVVNza0Rl?oc=5",
-   "source": "Crypto Economy",
-   "type": "news",
-   "published": "2026-11-13T12:23:48+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "DOJ",
-    "CFTC"
-   ]
-  },
-  {
-   "title": "\ud83d\udea9 Bitcoin falls below $70k",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXhmMndOamlqTDZOWTRUSjlzR2Z4ZmpXSFhWUzFKRy1TLWYzRmRpcHVuSjFFblNYVnJlOG9SMVc5VDBJa3FscDUwdzlJV3Q4djgyU2pTYy0zb3ZJNUpveExsLXkwX0MwTU9jMjI1QXc1NURpaHFPOXppeG92a0VFM0tDbjNKdTA?oc=5",
-   "source": "XTB.com",
-   "type": "news",
-   "published": "2026-11-13T12:19:34+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-13T12:14:22+00:00",
-   "first_seen": "2026-11-13T12:16:46.440161+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ripple\u2019s RLUSD passes PayPal\u2019s PYUSD to become seventh-largest stablecoin",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rY01vNzhRMjNuNHF2WENsZVc5Y01tNkdJNkpPM3R6b1hyM0hxQ0Z2WlV1eW5GaG1mcEdJQmVBdFNONXdCYlhHQUd4eUxhRV9qaXl1VzFhdXREbHVTbmtlSmVhMk0xM2tNeFVzVjF2WVdqTlJ1c1BFajdVdw?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-13T12:09:42+00:00",
-   "first_seen": "2026-11-13T12:16:46.440161+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Which Banks Offer Cryptocurrency Services in 2026? Top Banks Supporting Bitcoin, Ethereum and Digital Assets",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUkppSzAzQ2k0T1RuWUoyakt2aXFNb0F1UENrS0djVTRHQ0pENUtrZDRuMklQbFRCOEJtNTdYX2EyeExvdjhuR1JxLXZhWWhYdnNQMzF2RnJWT2dROTByTm1sTE1vaWw4TzhGRVp4TWRUbTJ4c21JY0RQZXMtd2VDSHlnbkpEdE5OWVo1Zmw0Vm04Z2lGY2Nqd0h1TWJCZ3A5WlpKMGdSR3dscFIxSnRtaXJYalBuVUJhWDBkclVKNmtiLXJQM1dVTjY5cjIyRTI2aVdhUUJja18teHRkbEhYWXd3REFPQTk4UDBheUFOYTFtWXRGZ1Zfdmx4SS1vbzlTQllJQ2pUa05ld09uX0pZ0gGPAkFVX3lxTFBSSmlLMDNDaTRPVG5ZSjJqS3ZpcU1vQXVQQ2tLR2NVNEdDSkQ1S2tkNG4ySVBsVEI4Qm01N1hfYTJ4TG92OG5HUnEtdmFZaFh2c1AzMXZGclZPZ1E5MHJObWxMTW9pbDhPOEZFWnhNZFRtMnhzbUljRFBlcy13ZUNIeWduSkR0Tk5ZWjVmbDRWbThnaUZjY2p3SHVNYkJncDlaWkowZ1JHd2xwUjFKdG1pclhqUG5VQmFYMGRyVUo2a2ItclAzV1VONjlyMjJFMjZpV2FRQmNrXy14dGRsSFhZd3dEQU9BOThQMGF5QU5hMW1ZdEZnVl92bHhJLW9vOVNCWUlDalRrTmV3T25fSlk?oc=5",
-   "source": "Analytics Insight",
-   "type": "news",
-   "published": "2026-11-13T12:09:12+00:00",
-   "first_seen": "2026-11-14T12:00:06.282668+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Treasury Firm Nakamoto Delays $60M Kraken Loan as BTC Crash Raises Collateral Risks",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkI2S3g3ZzlodjhZaHFGdWZWOXU4YVRBZGhlOWVtRHFSd3JXbEtUeFFHMllhSlF6UFBEQXNqdzdpS3l1TUlQRzhCcnQ0bk5YeE5scjVZRmM0SXg1MUs1RWJoVmZfWnVJcUhLZHY2TUV0UEJ5ZGRMNkU1X2ZULUJ5YThDRXl5LTY3UTBRY3l0TU45QzBVelBsRkdSTm5ldEpvQldjV1B1bHZzU2hhOHJsQl95ZDQ0WEdqQnU4?oc=5",
-   "source": "Coinpaper",
-   "type": "news",
-   "published": "2026-11-13T12:07:54+00:00",
-   "first_seen": "2026-11-13T12:16:46.440161+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "DeFi Technologies Reports Q3 2026 Revenue of $18.3 Million",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTHRzMUNyWU15Tm9iSEJwY05QZjk3NU14S19FS2g0SzZKOUtmVTY2SzVfM0xtMi04VzJZV2VmaFpPMmdlUThZV2V1bVloY3BYZUlGMVpVRlVvY3A4SHBCakcyQ0ZlOHlnWjZCWGxJRHg0RVBaUHE5b3NidERPb3MtX3pjOEwzaTFxbl90S3ZPR3gwMUpoN29iNmJBa3d6eVFtOWxjMjd1NkZNR3J0NGc?oc=5",
-   "source": "TipRanks",
-   "type": "news",
-   "published": "2026-11-13T12:07:36+00:00",
-   "first_seen": "2026-11-14T07:02:38.073857+00:00",
-   "topics": [
-    "DEFI",
-    "Technologies"
-   ]
-  },
-  {
-   "title": "Digital Credit: Comparing The Six Bitcoin Preferred Stocks",
-   "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-credit-comparing-the-six-bitcoin-preferred-stocks",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-13T12:03:47+00:00",
-   "first_seen": "2026-11-13T12:16:46.440161+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "What Can Shareholders Expect From Twenty One Capital (NYSE:XXI) on Its Debut Earnings Call as Bitcoin Falls?",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUTJBLUcxbFJJTzNxdTlDeUlicHFabGpOaG1ObWRENGg5WHNnVWlpdXo1dWx3RXM4cUhSWC13MnBYMVUtNzhraGNrVFJ1Mk5PajJ3ZU41SDNVSmI5OTNTZWU5Rm5OdDVLaVlpQzdsYTVMQ0hpNGpZc0tYLXN1dUlPOEZVc2NXWHI0Ym1ha3g0VzBhMXZFeHlPeFpoTjZmLXJFYWdhOHNDbGp1MVR4Z2xIMVdmdmFIbEJrdnl5MVR4Sl9oT09BUnAtZzBWWGZlTHg1aExNWkFwakJNQQ?oc=5",
-   "source": "Kalkine",
-   "type": "news",
-   "published": "2026-11-13T12:03:00+00:00",
-   "first_seen": "2026-11-13T17:00:05.153192+00:00",
-   "topics": [
-    "Bitcoin",
-    "Earnings Call"
-   ]
   }
  ],
  "stories": [
   {
    "title": "Crypto Hack: DOJ Seeks to Seize $1.2B Stolen from Binance",
-   "outlets": 18,
+   "outlets": 9,
    "topics": [
     "Bitcoin",
     "DOJ",
-    "North",
     "Stablecoin"
    ],
    "items": [
@@ -2810,9 +2309,16 @@
      "published": "2026-11-14T09:05:00+00:00"
     },
     {
+     "title": "DOJ Seizes $1.2 Billion in North Korea-Linked Crypto, Dismantles \u2018FaceStealer\u2019 Deepfake Scheme",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ2o2SXlfa0ZWemItbkFWQVprNUN6VG1sZzd0NHRpTUg3TVVJZ0ZLMDZUS3lrOWJZazRYdndjZVh1Mk9uN0pMVE0wZFpubUMzMnlreGR6Y0luYXdheC1ZUzEweXV1Wl90RFBzUUNIZGhTd29CeVotOEpMQUNkY2xKMklzam5WMlBBaFN0NWxqdEJPSi1tN2xFUzVJYkhtNjJkV1FyVWRIeFJCSGd1eG1vX29yano2UQ?oc=5",
+     "source": "Tekedia",
+     "type": "news",
+     "published": "2026-11-14T08:19:07+00:00"
+    },
+    {
      "title": "DOJ Seizes More Than $1.2 Billion in Crypto Tied to Binance Hack",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90WVRIbkxsalN3TTBsY3NMYWc3ZEVqaTN3RlhEYndDT2hmTXZQem5TUjZCS1NUWEFhQnJWdUpNTDFCNTA1ODJRTG5wVFJRR0dwd2NIQWlPNWNKMzQ?oc=5",
-     "source": "www.tokenpost.com",
+     "source": "TOKENPOST",
      "type": "news",
      "published": "2026-11-14T06:17:48+00:00"
     },
@@ -2824,11 +2330,11 @@
      "published": "2026-11-14T05:40:00+00:00"
     },
     {
-     "title": "FBI disrupts crypto theft scheme by North Korean hacking group; billions stolen so far",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcTdHMVBPUXpnOHUxc2VUOWlyZ2JZRWxJNk1nN1Fva3dVWnVLRDgtNS14cUlPSVVaZkU5NXRvWEI0T3FLSjF6V0o2dEhOY0xPRHd1WWxEb2dTWmVkU1Fic29fUVFOaHVpWDZ1Y3FYdnhwWXZIVGdWNGFYU3JoMkpFb1dfY0xqVzdvTXUteXVLaUlHcEFPUHhtaHpxaWxqYUJPOWU4YTRGei1GOHVCLWlsSFJENUlsZHNocU9keHd1bl90aHg5cXAzTjEwa0wxQTVRM3ZB?oc=5",
-     "source": "Los Angeles Times",
+     "title": "North Korea \u2018s Crypto Theft Operations: DOJ Seizes $1.2 Billion and Disrupts Hacker Infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ1ZIWmhLRHkzNi1LTXpkUEVDaXRYLTIyS1IwYi1KOFhHeTFDSjlQSlRndWJkdU5TTG5ic3VFbVhjUlRhRlVpZVl6ZUp5V1ZFZUtManBBU3pZeGhqNnh6aENKclVyVnJaMzdvQndDYml3cGl0OTZ5bzhkTnQ3VHBrQjFiM25MMHgxUWl6aExXU29zOEdJamVRbGRBUFhuenVBaDdnbWNZdmF3Rzg4TmliY2tYWkVtSlhVVUhkc2hNbENzWTBTX3N3eFNMRjBLV0NWLW1SUjBTMlEzSUtMeFHSAeMBQVVfeXFMTlRYX1pRTjFJaV93NExselByN0VkaFRUUEtrSlNaeWllTkhMQWkweWVNV29zaEd6eVZGUzNhcmMxX0VUNllHYVBmVVVzMGhWaW9PRUZhNUFybE5qXzVCU3RxLWR2azRQdDZfT0ZGTHF4emFmalQwbzRwQ016bFBsbktqQkNPd1lCUnFTTUp2Y0tHVXZ1NHVZRGcyTnpwUnV5dUc1TVFIVkVkZGZneTQyai04b2R4YUpKR2o5eE5oV3lzYUpJLTgxYlAwUHJvNEp1dHAzdENYVU9JMW5pWklKMkV3ajA?oc=5",
+     "source": "Security Affairs",
      "type": "news",
-     "published": "2026-11-14T02:29:00+00:00"
+     "published": "2026-11-13T22:05:24+00:00"
     },
     {
      "title": "Crypto Hack News: DOJ Moves to Seize $1.2B Linked to North Korea\u2019s Binance Heist",
@@ -2845,11 +2351,11 @@
      "published": "2026-11-13T18:15:00+00:00"
     },
     {
-     "title": "US seizes $1.2 billion frozen after North Korean Binance hack",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVnBXalZvQWtBZE1BQWlPM3pYM2tER3NxbTVvMWItSnhVd2k3QjBnek1teTJpQkV0R0FHSDlwRzBKamZjUERjbFdmMmIxeHktMmxuaHYtNGt3N3ptVzktcnN5b2djVEsyYXZiZXJpZVczY2ZsTGR6MnFwYjl2VzFxYzJhWHlrQlM3OXc?oc=5",
-     "source": "Protos | Informed crypto news",
+     "title": "DOJ Seeks $1.2B Seizure From Binance Hack Amid Facestealer Takedown",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdW9iV0FXNk9HYjhUa3E0STBxRTcyaG9rVWp4T0JMNG5JWVNFcGNiQ3ZMZ3FpT2ZoM2JBRWZVQzY2aWhvVEtjVFlubkhmYkNFRWduWVlIU2x2UzlkbUxScnpSelNQSHZmbUJQeEhvWmtVQWhCMkQyY1cyOWJNbzZPTS0tSUllN3BicmRERG5ta0hfYzJ0d2kxUWRCMA?oc=5",
+     "source": "Menafn",
      "type": "news",
-     "published": "2026-11-13T17:16:17+00:00"
+     "published": "2026-11-13T17:30:47+00:00"
     },
     {
      "title": "DOJ Targets $1.2B in Crypto Stolen From Binance",
@@ -2857,82 +2363,12 @@
      "source": "Bitcoinist.com",
      "type": "news",
      "published": "2026-11-13T17:04:37+00:00"
-    },
-    {
-     "title": "FBI Disrupts North Korean FaceStealer Operation Behind $400 Million Crypto Theft",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVnhoTVZDeGRIcG1fUG5GSHRhWmtSeW45RVJGMXpqN1cwYjR5Tl9VOUg4bTdvZGZ4dkNNdmpCU0p3aHl6d2dNRHUzYlpwLUFWQTRWN2FHTFpPWkVqb2g5d0NqaDBlZE9Qa01Kc1l3N3NnNnZaMjNpaG91dWF3eHRHT2FQcFMyemlWakZYVWVkVnV3NUUzLTdDUTdBcmNMUDFndS10LUlBRUxDaXRVd1hZRzJ1M3NtVnExcmszWGRjcVhJUUNfNjdn?oc=5",
-     "source": "Crowdfund Insider",
-     "type": "news",
-     "published": "2026-11-13T16:47:56+00:00"
-    },
-    {
-     "title": "DOJ Moves to Seize $1.2B From Binance Hack as North Korea's $6.3B Crypto Theft Unravels",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZS11cHVBampoX19FbXpXUmJRN2JPdlFDX0ZfcS1PLS1WU1pKZXZEbWJtUGFua2lfUFdGQmx1MjdrMEw5alBLVlJWXzgwMG9HU01zdm1CS1R0QWRqZ1NWYlZReFNVX0lWR3JuX2wwRU5nem1lYWNOdU53YVdVWXRaZzBuUlViVVZSNHAtZ0ZxeTZXVVVqWnVzSjlVaW1TeG1taWJwZ0U4bHIxbHBDTkxRdG9ueW5rcEQ3YTFfMFFmX0Y0bDg?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-11-13T16:03:02+00:00"
-    },
-    {
-     "title": "DOJ Seizes $1.2B Linked to Binance Hack",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXZOU3hYdnZxUGtFOHVPbjlMX1Q0R1JRdFBVcWRjXzZWem96STZhN0o1MGd4b05oNEVlUlVub192VEUxanlIUVAwUG15Z1piTFlfYU51RGlzYU85QlRDWWlPX1BsVXB1QkdXMGhLSUJwblB3ZEdaZ0xBdXFXbWx1UlpPZmFkTkk3RFMzVkdQVW9wZw?oc=5",
-     "source": "Briefs Finance",
-     "type": "news",
-     "published": "2026-11-13T16:00:00+00:00"
-    },
-    {
-     "title": "DOJ Gets Court OK to Seize or Restrain $1.2B Stolen From Binance",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVRFbG5BMFNjSzczd003Z1l3NjR0NGQtVWs2cy1JVS1ZN1V5NkNlVklmRzhlSkxVMm8zMmZ0TEhhZ2JacmNrVVZfcU0zaU1mZHoxeFBMQm0xNWIzVkpuVXdsZDgwMVMxVGVBMHRsYTI5S1JuQ2ZOMzJ2bjVlZHpORTFPUHBsUUtUeVNKZm13?oc=5",
-     "source": "CoinMarketCap",
-     "type": "news",
-     "published": "2026-11-13T15:45:50+00:00"
-    },
-    {
-     "title": "US Moves to Seize $1.2B Stolen in North Korean Binance Hack",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVg3bzQ0VEJ3b1JhSDZ2ZmZrdGYwdWdEN2lFZnZmVC1aWVFjV0dWd2hva1FkYUdlYzQ0VWw2dVp0cXVaTXdHUHlzb1ZFZHZsSFMtODlrY1BHRm54aFhzeDFwNHhoZ1RrQVhTWE0tOGp4Z05zRTRsUHJPMWU2UllzVmtscVVZMk1MUHRrQlFqS3NxeFZlOTc5LXpMR0MxRUxFV3c?oc=5",
-     "source": "Bitdefender",
-     "type": "news",
-     "published": "2026-11-13T14:56:05+00:00"
-    },
-    {
-     "title": "FBI Disrupts North Korean FaceStealer Scheme Behind $400M Crypto Theft",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15OW9femlPSXBvVUEzYjFiVFM3eEhISkNEMURoMEhVTmJqbjhFMFZPQ05RRVlTa3AxbUJsYlJqSG5qOEhsaWZnWEpnNVVSU0ttbXpkNnNldFdTRnJWMFRBYm9QSXAyamxRS3dvYjY5U2VWTlR2R2N1aDFHemI?oc=5",
-     "source": "Hackread",
-     "type": "news",
-     "published": "2026-11-13T14:21:16+00:00"
-    },
-    {
-     "title": "Justice Department and FBI Seize $1.2 Billion in Stolen Binance Assets and Disrupt North Korean FaceStealer Scheme",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMk1ZNTA0ZXM0MFE4QndKSEJGcXdSNUdveG9sbmFyQmIwcHdZN0NSaWM5ZDBnN1phMmh5VW9RblNTaXFwOHdxVVE1QUFacTVYcE1Cek55QlJqcVZ5c21fd2RXQ0xwbzM5a2hCZVU1NWFldFgxM3I2cm5jVmdnMmZZWFRpalpsakVqbGlPaVIxLVNmMlJqUjBXTkRlY09mcW1jdEQ3VmhpUQ?oc=5",
-     "source": "edhat",
-     "type": "news",
-     "published": "2026-11-13T14:15:33+00:00"
-    },
-    {
-     "title": "DOJ Says It Helped Freeze Nearly Half of More Than $6 Billion Stolen in North Korea\u2019s Binance Hack",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHBWVGNXcW1VWElRUU1zTGRhUl9uZkc3ZGFMdTBKUTNReF93eTZRb0tXNklsRzdNMTMxVDM2WUc3NDgyUTF2RmdQTkdRNTV1S29yY0N6S25UcS1MaXcyaHpiWDRGSmFaQnY3TWY4Uy1vQkxWVVRzallNMFZ6eVUyVDF6NmlhX3lpOUVyMmsyeUxYYmd3SGs1M0wwWmhlVTVIRFpvNC1nUloyVzFLX2NSeTdmblZ0bDFOb0N3akVGR0ZPWDUx?oc=5",
-     "source": "WSJ",
-     "type": "news",
-     "published": "2026-11-13T13:52:00+00:00"
-    },
-    {
-     "title": "US DOJ Moves to Seize Over $1.2B in Crypto Stolen From Binance",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDFUZWE1NHdVZldxbjl2LXNUcEVlcTZIWm5MUzE0NDg4aFg2UmNsQnJrNDZtYTM0WHRITV9LMlRNaHNkT3NaQmxidk1kWS1DU2Z6WkVqRi1HM3pjMnJpb01jazBGNmFmNFlBWi1BS0p1cDI1X2xCYVVTenJMUjZsWks0LVFWdXpkd2xYQWtxWjRFMWM?oc=5",
-     "source": "Crypto Economy",
-     "type": "news",
-     "published": "2026-11-13T12:57:14+00:00"
-    },
-    {
-     "title": "US DOJ seizes $1.2B in crypto stolen from Binan...",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUlOUDNqOFpnN2FtV3R2YkhiWkhlRHZ2N1l5UjdPbE1BcVBjdVJrRjdjaDNNQ3AzWXNRUWFmZ2dpSFA1bjJIbHRiR0N3UlNjeVJkaVQ1RHhLaWdReTVzVnIzby1kbTEtbkVOOV9YMjNVWU1kSWZzcGhZTFo1SThoVm82ZmYydThyWndRVlJCSmNpREk?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-13T12:29:23+00:00"
     }
    ]
   },
   {
-   "title": "DeFi Technologies Q3 2026 Earnings Call Is Live",
-   "outlets": 10,
+   "title": "DEFT - DEFI TECHNOLOGIES INC NEW | News",
+   "outlets": 8,
    "topics": [
     "Bitcoin",
     "DEFI",
@@ -2940,6 +2376,20 @@
     "Technologies"
    ],
    "items": [
+    {
+     "title": "DEFT - DEFI TECHNOLOGIES INC NEW | News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzlSZmlnTFZUemhZWGF1bDYwRFVpbjJiWGEwbWl0T1Jhd3BsMUlpTWI3T3k1dm1IR05xbUEyY0J1YkhUM2VyV2JCTnRTcXFZR0EzZjZwTmpraHgycHQ5WThDeDVKUlM2bDZSTDBZbkhyLWhFM1M4dEFlU0hTOEM3YlVQUHVvbkxDVUpZS0dBNzNSb3lvSVpNaWl0Rk5aVE12UVE?oc=5",
+     "source": "OTC Markets",
+     "type": "news",
+     "published": "2026-11-14T04:53:40+00:00"
+    },
+    {
+     "title": "Twenty One Capital Made $1 Billion in Bitcoin Profit. 60% is Already Gone",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5WkY0OEhNd3RGbjdydE91NjVzTXluRWE5NEFRbllIdWttUUZjVmFTVHNMLWh6TzdBSHo5aHAtaERYMWNZRm51bXVrTExDYTVjQ3p6MG1sMlRaVWExczE2bnl1T3QwNXBwalQ0OU4wOA?oc=5",
+     "source": "BeInCrypto",
+     "type": "news",
+     "published": "2026-11-14T04:00:00+00:00"
+    },
     {
      "title": "DeFi Technologies Inc (R9B.HA) latest stock news and headlines",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40T3NrdXJXVDZ5Q0x6eVR6Z21WcU9jYWZZcXoxdHp3T2o0bjNYdy03QmhsQms3YWpqdllxdTlzRFdaVGNxcy1Kam9GeThNOEFGTnR3VlAxS1VBSnM?oc=5",
@@ -2955,25 +2405,11 @@
      "published": "2026-11-13T22:00:29+00:00"
     },
     {
-     "title": "Bitgo Holdings (BTGO) Q4 2025 Earnings Call Transcript",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Uck42V3Y2RXNiWHp4SjNlbGdHYjBUVms4RG1CXzNtSWlmRzdGc2x3U0ZQc3lyX2JtWHNVMllEcFJnNVFUUlNVaVVvb1pGN0pmNXItTk1yNV91OUl4R1V3M2ZlRDhCN0hQV0ZOTg?oc=5",
-     "source": "Fortune",
-     "type": "news",
-     "published": "2026-11-13T20:04:48+00:00"
-    },
-    {
      "title": "Twenty One Capital Q3 Earnings Call Highlights",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVV9QZGZic1JiTTNFOXhZRmFaNjhYU3hvTzM2VGwwSmJLOVc4SUNMUmhCRTVIMW93VkZlMzBaZjBteGNrcF8xNHF1dmg5RGVuX1kzUFpYMTRGYkowWXRpbjRKazE3X0lsOTFrQ1pwUDc1amd0b0wyYTNwek5MekFrUU9haUM1cEVYeWxOckoxOHBRQ3hzaDFQX1NtTUh2d0xBemx0ck5DUnJSSTFJcXJrRw?oc=5",
      "source": "MarketBeat",
      "type": "news",
-     "published": "2026-11-13T19:41:15+00:00"
-    },
-    {
-     "title": "Twenty One Capital Made $1 Billion in Bitcoin Profit. 60% is Already Gone",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGpyTTBpT0Zjek1nbG5jaFcwRFZkSC1OSDRUaTVqWGNWX25NZ2ZBQm5wa1VFdGVnaXhnMkh2emdOZ19LMDl2OG1yYlV6T2E5ZDZTTWt5STlLNld4SXlQRHNybjJsMDUtOGs2NG1xZnoyRVlNNmRidUlUVng5NldneTNUQTF4cWM2amdibjU3ZWNsT2cx?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-13T19:34:41+00:00"
+     "published": "2026-11-13T19:46:05+00:00"
     },
     {
      "title": "What DeFi Technologies (DEFT) Said on Its Q3 Earnings Call",
@@ -2997,13 +2433,6 @@
      "published": "2026-11-13T18:36:43+00:00"
     },
     {
-     "title": "Bitgo Holdings (BTGO) Q3 2026 Earnings Call Transcript",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1VHk3b2xZb3RCb3ZVUi1wOWUxVG5sOU1QYmVZekhrZWdpa2pEa0RHOU85MlkzUkdhNTRiREZCOFB3SjZaWU5EM2Exenpsb2NOYzhjZ01lbXh0S0pkUGxJWloxRWpxQnFZUXU3OA?oc=5",
-     "source": "Fortune",
-     "type": "news",
-     "published": "2026-11-13T18:02:53+00:00"
-    },
-    {
      "title": "Earnings call transcript: DeFi Technologies posts Q3 revenue surge, stock rises 11% By Investing.com",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQenpyMm9sSkVPTjl2UzRYYzRqdzl6M3l5SWVHQ1NWbHU0ekstU0NxNUkzOGo5VEZSMmd0NWNRdm0yZHI1dVJrek9ZRmlRSFg3dGd1TDdXNDEtTEJUeWhnRElhb01zcllPekU0NUZwbWg5LUVQMkxMSjlHOHJBWWJuaEdMYkJBanNvMDVkRGhCVFNxQ1ZlVnROeFk3VXl5MGVBNHBNeXN4YWI3SXZBVE5FZURwaWd2RlJzTGJHYUR5ci00bXl2dno4enZsY0hWOUFueXp2XzA1c3Q?oc=5",
      "source": "Investing.com India",
@@ -3011,156 +2440,17 @@
      "published": "2026-11-13T17:24:39+00:00"
     },
     {
-     "title": "DeFi Technologies Q3 2026 Earnings Call Is Live",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR2p6VUxHaUNJQ2Jvc2w4R19CUWQ1NVdmVGlrQ0t5Skt5UlRQVkZYOUhPeS11TmtJUDd4cnJ0MTNvLTZVdlRYRlBDandKUzZoYkgyVVdiMDZaNVZxNHlEZ0sxZURSaUF5QjExUHl0cHI1TWhuclVOWW9OMzdUcG0zVVVwVFlCU3lITVNVYUxrOVE3MnFPUEJVcEJGRlJZanhuaFhPd3lFcnlRVWV1dEN2SUdxLU52TDQ?oc=5",
-     "source": "TradingView",
-     "type": "news",
-     "published": "2026-11-13T16:00:20+00:00"
-    },
-    {
-     "title": "Gemini Space Station Q3 Earnings Call Highlights",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzE1WG1fTGN0YzVYX2g3ajZPTEZYWl92XzlHeWFQRlJNeWdqNjkzdklNT09XLVh3SFpncHhSTlZ3SDFLVTNzbjJDUVl1UExqWURsWjFFYTZ5X2ltako4VmQ1V1JBUjFQNHQyR1ZaWDljUGVzRms1N0ZtWnZYQXhjaE5MRENQWEhkZ0pFOVRzYmpRTUdJN1JMTnRpRjR1SmtQdHNXZXdTbFJETE9xQmc?oc=5",
-     "source": "TradingView",
-     "type": "news",
-     "published": "2026-11-13T15:14:55+00:00"
-    },
-    {
-     "title": "Earnings call transcript: PowerCompute posts q3 2026 profit as debt drops",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ3hfd2c3RzZDOUFHNHlsdVNYZmVzSFY4emRtNUlMUVVNZS01cmhRd3ZKUldONmF5ZTRTQk1udFI2RTczeGhTRHAzWk05WnpYTUx5OUwxSHNVeTJHQU5kUkJkVGxEUmdzbU5wTmJCVTgxMllWSTg0bzhYVWZMcm5Sa2hRM29nX2hPTHktWTBsSVBpNE9VZm5UTUpmU0w3Wm1RWUVwS3IxQ2k2V2JyYVhIQUswTG91dnRuNlVYLVJuMlBCdkRRenk2QkN2Z01FZw?oc=5",
-     "source": "Investing.com Canada",
-     "type": "news",
-     "published": "2026-11-13T14:27:41+00:00"
-    },
-    {
      "title": "Earnings call transcript: Twenty One Capital posts $1.1 billion q3 profit on bitcoin rally",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVHcwMk0zU2tSS25GNl9Cekg3QXNab1ZXWERMMG1yLUNsY1o1SXhPY3R1a2ZGZGoySFJFU3pKUXFiN3JTSmZCZG9GTEdrWlNGcjFmZ19fZU5UUFVHZTQ1VjdmanlwN1NuaDNTUjBwSlVRQWd2MTFsM0ZRZ2VPR2tKazJJRi1WeFN3eHd6MTVvMFdMTHo2ak5lLW9OYmFfS1VXUEJqNVdWckZ3VzFPZ3NWaUNSMGxTbFk4dGtOUkpzOTVheGl1ZFdUSVNOOHJvaFhVQUlkVmh4Ym5tRlE?oc=5",
-     "source": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONkJUWlVRSWd6SFlvVFFCRm1pU3dSRm82U19hYzVSRkEzYkRJaVcxLXVzb0ZmTzdMSzR0M0NIc0N4eUhPbFY5bF9QYXRKNWZHVUpoakVaQXJXOWcyaWI0MHk5NjduTzJFZHUzR2p4YXJqNEk4anlJUzlYdDloVFRPOXBUa1d0bGR2MEZWaWp4dFZYemRneWpUMUVGdVBuaHZzNklrZjZvMXVKY1RaR19fNi1oai1PQzFxSVB3cWVBTkhtWW45RE5SRUJickhlMlRTRnpMVnplUE9lQ1h5Mk1JX0VR?oc=5",
+     "source": "Investing.com Nigeria",
      "type": "news",
-     "published": "2026-11-13T14:16:50+00:00"
-    },
-    {
-     "title": "DeFi Technologies Reports Q3 2026 Revenue of $18.3 Million",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTHRzMUNyWU15Tm9iSEJwY05QZjk3NU14S19FS2g0SzZKOUtmVTY2SzVfM0xtMi04VzJZV2VmaFpPMmdlUThZV2V1bVloY3BYZUlGMVpVRlVvY3A4SHBCakcyQ0ZlOHlnWjZCWGxJRHg0RVBaUHE5b3NidERPb3MtX3pjOEwzaTFxbl90S3ZPR3gwMUpoN29iNmJBa3d6eVFtOWxjMjd1NkZNR3J0NGc?oc=5",
-     "source": "TipRanks",
-     "type": "news",
-     "published": "2026-11-13T12:07:36+00:00"
-    },
-    {
-     "title": "What Can Shareholders Expect From Twenty One Capital (NYSE:XXI) on Its Debut Earnings Call as Bitcoin Falls?",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUTJBLUcxbFJJTzNxdTlDeUlicHFabGpOaG1ObWRENGg5WHNnVWlpdXo1dWx3RXM4cUhSWC13MnBYMVUtNzhraGNrVFJ1Mk5PajJ3ZU41SDNVSmI5OTNTZWU5Rm5OdDVLaVlpQzdsYTVMQ0hpNGpZc0tYLXN1dUlPOEZVc2NXWHI0Ym1ha3g0VzBhMXZFeHlPeFpoTjZmLXJFYWdhOHNDbGp1MVR4Z2xIMVdmdmFIbEJrdnl5MVR4Sl9oT09BUnAtZzBWWGZlTHg1aExNWkFwakJNQQ?oc=5",
-     "source": "Kalkine",
-     "type": "news",
-     "published": "2026-11-13T12:03:00+00:00"
+     "published": "2026-11-13T17:10:28+00:00"
     }
    ]
   },
   {
-   "title": "CFTC Chair Selig says crypto exchanges are interested in new rules \u2014 CNBC",
-   "outlets": 5,
-   "topics": [
-    "CFTC"
-   ],
-   "items": [
-    {
-     "title": "CFTC Chair Said Crypto Exchanges Are Interested in New Rules amid Political Changes in US",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG9neDJNaEczQmpuc1dYVnk5Y3piM01rOTVSYnl0cWNuTDBaMU91LUdiY3RHX0QyZEJFUURMcDQ5blJVS3FIbjk1RjkweVJJZEJFV1NjckMzdTJjbEMxQWd1SDRBdTREMHZoUlBlUXU2RlU1a1JPTkt4eTZ5eGhGY0xYZHNLUVdZMTdCQmlUdzZHdmVvMzY5RUFHMXFQYTdERkNMQm81dFM3TnBzdHMtRGFweUpNUQ?oc=5",
-     "source": "Incrypted",
-     "type": "news",
-     "published": "2026-11-14T08:46:44+00:00"
-    },
-    {
-     "title": "CFTC Chair Selig says crypto firms are signing up for his agency's rules as Congress stalls",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYjBCVWdDT1c2MFEtOTJXTDNNT0pVT1JGX2JrMGVkQ1FHV0xKU0cyS3BGVlpzb21sM194ODFyNGN4UzlfN2JxVVFuNlF0MGhzdG5QTlJpakZGMl9xNVhuWkxPVlcxNEo0Ql9ESFpLOHhaRlZOOXBHdFJtTzJaVTh2bDF1cTlWOWphazRjZ2FBV2ZISDNSSGZLaXlNUXhlTG1DcEFBN2p5MXJRS3JBSTBsR3l6MEJUMWE0SEE?oc=5",
-     "source": "Startup Fortune",
-     "type": "news",
-     "published": "2026-11-14T08:06:13+00:00"
-    },
-    {
-     "title": "Crypto industry aligns with CFTC as legislative hopes fade",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFNYU1VyaHFWZzJ4NWVHRnZLSklRWXdreDV1UDlNa25yeXFna3JoWGxETnUxU0gwaU1BTEtSOEFod2xidENNUi1RTUc5RjQ0bExSc0JGZG9GbXRBVUloSnBMbE9CZVFfUXpiODVDZi15eWFfUTdvRlZxb3Z1YlVBaVdKZ0FxeU9xd0tNVHRkWQ?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-11-13T13:47:03+00:00"
-    },
-    {
-     "title": "CFTC Chair Selig says crypto exchanges are interested in new rules \u2014 CNBC",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmJHTEM0QVhLby02cUtxNWtyOUlwSzE3dVVCZVZUWTNuelZmdy1NWm81NExxYWpsaHFBQmk0R2NXMWJOdWZ1bUljLVNQMlFtbDF6XzJSdklqbTZ6UVdZeG04Tms5bE41cnJpWlptYTI1dDlzS19tbk45YlhJWXZQUmUweEdLcnlKRE5kXzl1am1IM0FjNDdpR05aZmNCanllQzgtRnNVUQ?oc=5",
-     "source": "UA.NEWS",
-     "type": "news",
-     "published": "2026-11-13T13:39:36+00:00"
-    },
-    {
-     "title": "CFTC Chair Michael Selig says the crypto industry is embracing the agency's rulemaking",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTmhKM1pieUoxVkU4VnZ5WFBXVUJ5YWd1WTVqRnZDWEI4SExON29JVF9sOUtjWXRwZW9oX0JwRGxSeVV2Nlg2bmt4a0I0ZGF5amFwWDhXaDlBeFZpVTYzcXEwbU15Y05FYkNSd2c3cHAzeXVjWXhFTVFfemcyLVNTT1JVX3ZpY0pwUFVUNG5nRC03LXlNRmdCLUs3T1NTbzZiUk9GMjh1cWRqQU41NG5BcF9QVGNqZXpqLTYzdTFzb2pQZE5NM0Mw?oc=5",
-     "source": "CNBC",
-     "type": "news",
-     "published": "2026-11-13T13:15:57+00:00"
-    },
-    {
-     "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVcwVkRlODVCLWJCODUybmNpM3BGNDZjM1g3LTl3MjF4N1R6YmlyMGpGUVY2eUpQSGFUUTVWaWVSNENrU05TMDR0TlJIbndLQ0tmS2FaUDh1YlpCMldlY21hTGpaRmtwRkNDVVdGMmZEZ1lnNFByTURnclNLelV5d1hLMkNiVm9UaXVTWlA1OEZvNEhNOExxVXFKSXRFTDZ0eGloeFhn?oc=5",
-     "source": "CNBC",
-     "type": "news",
-     "published": "2026-11-13T13:15:35+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-   "outlets": 5,
-   "topics": [
-    "Bitcoin",
-    "DEFI",
-    "Ethereum"
-   ],
-   "items": [
-    {
-     "title": "Bitcoin Falls Below $69,000 as Ether Slides Under $2,000",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZTY1NTlWQjdjRXM2UHNlUVRwdmVfTkE0MjdsRzNlZm1xd0ozby0xREZXTmZ4RzJXUUVqNjRhZW41TnFaX0RBUjgxU24ydS1adEdLNkxBY0Q3bWFINHAzQlNZQkt2Y3hSa2hVNjBHS1JDdmdHYXFjTnk2ZkhSc2N2cEZscjFZdFJHM19scUVjX19VYkk?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-11-14T07:17:00+00:00"
-    },
-    {
-     "title": "Bitcoin slides below $68,000 as Anthropic IPO frenzy drains market liquidity",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmdjeS1rRjgyaHB3b29VcVlsQjN2TVBIaWFYSUJmSnkxbEtKMnU1M2FJdkViN19peVBOQTRKVFloUTNXenZnVEJfbVdCVjFoN256V2NmRTdHVGxaYWE5R3d6aEJFN2RTR29td0ptRWVNSTVtYVd3bnN3QmJkSjh6NF95MDVnRTFrMFU0cm9QMk9VbV9fREpR?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-14T06:19:00+00:00"
-    },
-    {
-     "title": "AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnhuakpSN1BCd0RTcGVDTkl1THUzbFBFTHpZeWhlakp2VjRoYzhlb3dFMFlaU1FUWlYzLXI1Y01la2E2VmJlMnRpMlJjT1U1aVZuSXh5d3Y3dmszV09LUGlGUjdrNVpsaXc3RDFVbmVxTklJSlhpcFowcHlScFlPN0NjM3ZKNHFxNS11X0xlWG9vNnB1?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-11-14T02:41:50+00:00"
-    },
-    {
-     "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-     "url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "type": "news",
-     "published": "2026-11-13T21:26:00+00:00"
-    },
-    {
-     "title": "Bitcoin dips below $70K as investors raise cash for Anthropic's IPO, seen as temporary capital rotation.",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeDdPUHZmRVJsRVlrRkdOc3RjRnNKZ1RWR2JzeXlCV3dpc1A0R21vdmFlSGZBY3p3ZFdhYnV3em84RmRDYTdvdXl3TlJDMUhMVHFLNGIyTUhael9EempMaXlySGoySG82RnRXcXloY3I2bUs2R1RMcGFtY3d6SHRleFA1X1ZLYkdGdFJJYmZySEE?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-13T19:15:30+00:00"
-    },
-    {
-     "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-13T18:39:58+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Stellar Outpaces Solana and Ethereum in Tokenized Asset Growth",
-   "outlets": 5,
+   "title": "Stellar Surpasses Ethereum and Solana in Daily RWA Fund Market Cap Growth",
+   "outlets": 4,
    "topics": [
     "Ethereum",
     "RWA"
@@ -3172,6 +2462,13 @@
      "source": "Crypto Economy",
      "type": "news",
      "published": "2026-11-13T17:55:28+00:00"
+    },
+    {
+     "title": "Jed McCaleb\u2019s Stellar (XLM) Tops Solana and Ethereum in Daily RWA Fund Growth",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xcmpTRDQ0bllDUkZKRkdoTEV1QlU0b0ZPTUNJMTJVLW5hWEdQa2V5UWN1cHQ5OER0YTl0bW1feFhaZGhqNXFZRGdKdEx5TGVyd1FwUW54d1JaQQ?oc=5",
+     "source": "Cryptonews.net",
+     "type": "news",
+     "published": "2026-11-13T17:51:09+00:00"
     },
     {
      "title": "Stellar Surpasses Ethereum and Solana in Daily RWA Fund Market Cap Growth",
@@ -3186,213 +2483,54 @@
      "source": "BigGo Finance",
      "type": "news",
      "published": "2026-11-13T17:08:30+00:00"
-    },
-    {
-     "title": "Stellar (XLM) leads daily growth in tokenized r...",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjE3bWpxNDVxbmgxRGFfMk1IeU1aRUM0aWhvaWVIVEtnQU5SdTYzeGg1WVI4Z3lmVUd2Sm9ubUY4MnJKbEpSaHNXZWhtM19OZ1ZKbkQtWWUybDF6ajdMQ2M5cHZ6VHFKeVFVeEhzSm5RU3BGTjFFVWlOWWhYeFpkSjBYaENMTEU3bEJGamdyNnk0N0lsWVNnTWxpaWZSOFprUXV4LTZXeTNvdw?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-13T16:19:45+00:00"
-    },
-    {
-     "title": "Jed McCaleb\u2019s Stellar (XLM) Tops Solana and Ethereum in Daily RWA Fund Growth",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUR6bFk4OHFaN3l6VkhlalNZYnhvZHpoMl8ydlc1VkVPb2ZDNF9WZXNLT0gtVnE1LXVrd2hzb1Y5c2tpaEFyMHpNelQzQ0VpZGZySWl1WTF4X1lpVVFWcU5BaHJWbk9IZXNaVU5DT24ydlFJX1FCSGZrQ0RsTk1rel96THpPSWdYcE9oeG90d2RWekRz0gGaAUFVX3lxTE8xeG94bm8tWkhlWHlzd3NfbnVvaTU4ekNxYU5sRzhMeklBZkpyV0p2eHFGamVBcVpzRU5VQi1ZaFc3aWM1aUxjVmFNMW83QVBYSnFfVlZ5VVItRGViOXJ0OGg3SWg1eHRjQTJnbkoyM1BoNjM4SjhRN1RmelgtSkUyX1MzT3BpZ3dRd3VIM0VHUVNOX3hYQ0stamc?oc=5",
-     "source": "U.Today",
-     "type": "news",
-     "published": "2026-11-13T15:40:57+00:00"
     }
    ]
   },
   {
-   "title": "FBI: North Korean Hackers Steal $400M in Crypto Using Fake Calls",
-   "outlets": 5,
-   "topics": [
-    "North"
-   ],
-   "items": [
-    {
-     "title": "FBI: North Korean Hackers Steal $400M in Crypto Using Fake Calls",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVY2SGFUMjgtLXdpWENnemlCa1hDcXk2VGZETENaZDJDNHBzQTBiMGJyYnZvU3Zld3BERVJ0VTg2MVBrY0ZrWlB2WEtoaGw5V2g3TDJlaXd6ZFlxRTlwcDZDaTRTTFVlVnl2Q0tETk9OT1IzUVF2RnFXUG55MWFmNmQ5QnA1Y3lKc2lVZHBlQ3YzVFE?oc=5",
-     "source": "LAmag",
-     "type": "news",
-     "published": "2026-11-13T15:32:13+00:00"
-    },
-    {
-     "title": "North Korean crypto hackers steal another \u00a3300M weeks after 'biggest ever heist'",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXJQakZxeEY4eVBDb1c4Q1hBdHdOckhVX2JqZDVTVmdlckFLSERINVVtTTFMdE94ZEV6b21aQXFXQVhmV1ZsdmZDbTF2MTdWNTVZVXVhSjM3MTI3MkpBOE9QaDJYby1RWjF1RVpnZURuVm5jZU1sbW1PRU9OLXVGX1pWQ21aRm8?oc=5",
-     "source": "The Sun",
-     "type": "news",
-     "published": "2026-11-13T15:29:51+00:00"
-    },
-    {
-     "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSWUtneGk5emFiSFJiSFNpNGN3UzhSeXhBaXc2SFJkbE5vay1ncEh5R2dHa2tBREdPcDdGdy1ES2FZUnpkbjBUR3h1cGJfWmhObkJ4b3dPWWtXaUhXaXktNkM2aFUzampTb1BHTDBXVVdjNnJ3aXpjVUtXcEdzS2s?oc=5",
-     "source": "The Hacker News",
-     "type": "news",
-     "published": "2026-11-13T14:28:00+00:00"
-    },
-    {
-     "title": "FBI Warns of North Korean Fake Video Call Tactics Following $400M Crypto Hack",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFRDRnVFNzJ1RkhkU0lkS1BFbVEyRTJDUmJYTThCbjQ0TmsyQktkOVlFV2hoQ2pvOWJPZndNTWJjWVNkLURIa3B3U29ySndPbmFZa2lWeVhxSE1XZVE0TWlwQlZBT3NXVHNvT3R0Q2hUa1lkcGhRd1N0ZDAzT1N4TXp4WWFQdE1kUk5iV25vMk94ZUFBd3ZDUVVFWHIwZ3c?oc=5",
-     "source": "CoinGape",
-     "type": "news",
-     "published": "2026-11-13T13:18:43+00:00"
-    },
-    {
-     "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zV0RxUEtzN3Y2NW9ZN09CRzFPOXZuLTRqbDVQN1pTc0Y2Y29ybmxhejVkOTBDSF9fSTNhS1gtVXJDbDV4Y1lKbEZTdFAwWG1pV2kxVUNsWEl1MTVPTV9SYjRKRkRZdw?oc=5",
-     "source": "The Morning",
-     "type": "news",
-     "published": "2026-11-13T12:38:10+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Visa USDPT Settlement: Anchorage Digital Adds Stablecoin to VisaNet",
-   "outlets": 4,
-   "topics": [
-    "Anchorage",
-    "Stablecoin"
-   ],
-   "items": [
-    {
-     "title": "Can Visa's Stablecoin Push Gain Momentum With WU and Anchorage?",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRFRZa1E1aF8yVW56M25JV1Eta3BtNzBRX0JFMGJGSnh2UWs0UF9Ua2k0VlJmZFlZVzBLNVBNOWJxMkFyeEhyR05oYlZmcWpYd29TS3Z1TVcyeUd0VzFuTjB3MXoyd0F0eDBJZmFEZHp4NnlYZ251aUlOZUxhWi1tQWZVaElheGhxRWhzcg?oc=5",
-     "source": "Yahoo Finance Australia",
-     "type": "news",
-     "published": "2026-11-13T15:51:00+00:00"
-    },
-    {
-     "title": "Visa Opens Its Settlement Network to Anchorage Digital's Stablecoins",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0N6WW5ieGRYOFhXUkstWXp2R1ZRWGRGcDVaci02T1JnZHJOYjVNOXlKV0U5cUVXeDRETmFwRGZ2d19TVUV4YkktYk85b1A2bk1OY2l3eUJWUzNMOFVVSjFUN3FMVDNjWnlnbDJRemlJYjd0blNEQV81Y2MtQ2FaSmU3YUs1cDFqRFF5cGVLZmlWOE8yTEtsSm9PWQ?oc=5",
-     "source": "Altcoin Buzz",
-     "type": "news",
-     "published": "2026-11-13T15:32:29+00:00"
-    },
-    {
-     "title": "Visa adds Western Union\u2019s USDPT stablecoin to VisaNet settlement",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0VDdkZCNGNUMjlmVVVLb0FaQ0FGNzROMVZVUk5OeFJOUFctaFk4ZzVuR0x5T2M1XzhscmRscktZSEhCa3l0Y1hNOTZaaU9ISDdjaFBjbHBja3BGUmNWMFJuUWRSRVR2RjAwWEl1WTV5cjFTRHN4d0d4djU4ck5saDZQSmYwZVJaOWVBRUdlMmFpRUJDaTZaeGZRTzBjSl9vWF9SeU53S290WDhhaUtQTk5B?oc=5",
-     "source": "The Paypers",
-     "type": "news",
-     "published": "2026-11-13T14:16:17+00:00"
-    },
-    {
-     "title": "Visa USDPT Settlement: Anchorage Digital Adds Stablecoin to VisaNet",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkhsZGxDY3d6eWtjM3BmakZ6dEsydzJWdUtFbXVjZUVGOUVHTGFCSWJXTFpjZDRRXzJLUGZ2VW1tRXJvY3dFZlZyMmVBNU5KaDlQRVNhTUYzdEZHYTMzXzR6LThybVdkOUxsSUl0Q19qMW1fZ2ZENk51bFJONTkxM0pVTQ?oc=5",
-     "source": "Coin Gabbar",
-     "type": "news",
-     "published": "2026-11-13T13:12:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin could fall below $16.5K, Peter Schiff warns Strategy",
+   "title": "Can Bipartisan SEC and CFTC Nominees Unlock US Crypto Regulation?",
    "outlets": 3,
    "topics": [
-    "Bitcoin"
+    "CFTC"
    ],
    "items": [
     {
-     "title": "Bitcoin could fall below $16.5K, Peter Schiff warns Strategy",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiRktsVGtDWVJ2WWZKUGk2QXdiNzZiZUxzcVdtYWFXbE0xTkc3dlBxT2Y2RTZjMEJGeDNnY0ZMNHh3SThYUHJrTFFLM2NfQkRmc1NnaXRlRTJYOWtxZDBrRWhQNko5d3lRVnByUllxMnNGdw?oc=5",
-     "source": "Crypto News",
+     "title": "Trump Nominates Four to SEC, CFTC in Bipartisan Crypto Slate",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZEhGTU1vM25oSVJ3alZVU3VkRDBwMC1LclVfbUNRd3k1VXlLZWdaOGtNLVhpLXc2QURtVGdra081cEJOSU9NODBWRHJ1c1dLX2JqZUVQU2FmRmU4TS0xdXJtV2pkRDV2OUJ6M3lpUnhfdHg2c3pz?oc=5",
+     "source": "CryptoRank",
      "type": "news",
-     "published": "2026-11-14T11:30:00+00:00"
+     "published": "2026-11-14T10:10:25+00:00"
     },
     {
-     "title": "Peter Schiff Predicted Bitcoin to fall below $16,500 and Warned about Risks for Strategy",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHkzd05uNWRXakVJS1NjRHFkUzZHQ1JNcmRQY3kzS3RXMHJ5cms3aGUySjBRckpJaUR0anZGcU11Qm9LS1laXzNXTzF4Z1hIaXJLOTdfa2RxdEdUQVY1ZE1ocUxhYzhlVWhEcVdobWdzR1pQSUhZdzU3YlktSlk2LTNDV2syRlV3ZGwydlBKQkVOTVFCQmNlQ3dJYkZxVXBrcVM1NmpicW5PZ0prdlRNVEtB?oc=5",
-     "source": "Incrypted",
-     "type": "news",
-     "published": "2026-11-14T09:44:04+00:00"
-    },
-    {
-     "title": "Peter Schiff Warns Bitcoin May Fall Below $16,500 After $50,000 Break, Says It Could Be 'Curtains' for Strategy",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWlIVU45dm9ENUI2Mkh4ekpzNGJ4d1ozMXlJS0N6MXdnZTVzUUZ6SGtYQmR0OGtkM0F3NEd6UnI1anltcHRialhHellORzkyd2hHZ3VKTExDZ3NLRU9DNXdvVUJsQVFiLUltTlo4T1cyRFRmWGFLZzRoY0doc2Z1dHozamYyckdUWF9YbnphY2hxQ3k3NzVaOUhzYXBjbHp3X0E?oc=5",
-     "source": "Benzinga",
-     "type": "news",
-     "published": "2026-11-14T08:52:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "DOJ and CFTC Sue Arkansas to Block Kalshi Enforcement",
-   "outlets": 3,
-   "topics": [
-    "CFTC",
-    "DOJ"
-   ],
-   "items": [
-    {
-     "title": "CFTC Sues Arkansas Over Kalshi Enforcement",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEcwblJUQkQ4dHpidldib0laV2pfSzB2WVZKMkI1eWNvQ213ZUJlZ2hDYzEtUlFreTZsMHJOVk4xTnQtMkZjU2hibTRLbzFRYjNVOVd0QjZfN0hFYVN1dHdyX3R1VTl3eTZ6c3JyWnVwdG9UUWd5Q29XSlI3b21nSGkxbVFWOUk0VXkxOUpoVQ?oc=5",
-     "source": "DeFi Rate",
-     "type": "news",
-     "published": "2026-11-13T21:02:12+00:00"
-    },
-    {
-     "title": "U.S. Department of Justice and CFTC Sue Arkansas Over Kalshi Enforcement",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1ZlU3NlemVjai0yaHV5czBtWElnODlScFlodWNqaXphSldkeUMwVzkyQTFMME13eHpsZlZ4eFVnMTZpc0U0NS14X1JRaDJkZnVMZUYyMUtpYnlPTEVBV2kzWlg5SXhobzRQRWlob2Q2dVRQQXZHQjNkLWJJNnNzaXBBWWloMGZVLTZnZ3VhdWktbmlXVW1Sbms3QVN1ZmFIMmFRVA?oc=5",
-     "source": "Kriptofoni",
-     "type": "news",
-     "published": "2026-11-13T13:26:00+00:00"
-    },
-    {
-     "title": "DOJ and CFTC Sue Arkansas to Block Kalshi Enforcement",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnRsQVFmY2hzV3NPaFVLY3dnbUJGank5WjZhTTE5Rk9wU29SSUNUN2xLWWVoNGtsTm1CdnJzZ3hHQUtIZkFtZDFiQWpUb2RUbUZ0bFRPWU9sN2NFLTBBTzR6M1FwZS1ObkgxQmE4SXJYd2ZJa09DcTJKa0EtOElOU0JNVVNza0Rl?oc=5",
-     "source": "Crypto Economy",
-     "type": "news",
-     "published": "2026-11-13T12:23:48+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin climbs above $70K and gold rises after cooler PPI report",
-   "outlets": 3,
-   "topics": [
-    "Bitcoin"
-   ],
-   "items": [
-    {
-     "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-     "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-13T16:39:11+00:00"
-    },
-    {
-     "title": "AMD Benefits From Nvidia's Troubles, Smart Money Sells Nvidia; Cooler PPI; Bitcoin Below $70K - SPDR Gold",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeVA5ME5HTTZNeURZTDZsMFBhd2hodjVrcEFhVVZaX3MzNnpEWTcyWHRmUkJoSzVqbEVSemhPWm5hN0pLYlFYdFFrdTdGUVJnRnpFRVN4MmxEODUyTVg1czZlSE1DcElBUUQ2SmdrakNMZ1dCdlJQTU1kdUVMdUtpWE9NaHVDcE5rRmFSM2V0WlJFLUZlRUYtMGpqM2xtQWc2dVREZ3Ricl9ZOWlxX3FTVUJuOHBEWWw3REVsQ1NSeUxYTm9VczhKTS1lVjhkR18xNFE?oc=5",
-     "source": "Benzinga",
-     "type": "news",
-     "published": "2026-11-13T16:28:33+00:00"
-    },
-    {
-     "title": "Bitcoin climbs above $70K and gold rises after cooler PPI report",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tbHM0OUVMRVNBY29Cd0V5eGhrd1hwWUhaMHBPZDJ4ZUZpTEI4bFJQZTBnLUF3N0hsMmdsMXFEQzVyVHNkMXU4SHFySkVuaF9MQUxWUDRScHU?oc=5",
+     "title": "Can Bipartisan SEC and CFTC Nominees Unlock US Crypto Regulation?",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydFNFUVk0c2VoRDJIZ1F3QnRrQ1VoeDVKcHpLRlpmRVBqRmVEREpKWThqRGtEYmlZbU15OE9XN0xNb2dMQWJVWEEyMWh4M0ZLLWkwdjVR?oc=5",
      "source": "Cryptonews.net",
      "type": "news",
-     "published": "2026-11-13T14:41:09+00:00"
+     "published": "2026-11-13T18:01:13+00:00"
+    },
+    {
+     "title": "Trump Taps Four SEC and CFTC Nominees in Major U.S. Crypto Regulation Reset Bid",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnpMd0tqSWhKMkRMNndnQjV5eVVHNXlPTmNUZUlUOXF2Q1piYy1xSkx5T2RUMmZDUHFCeDlEVmRsRWJBM3ViZVNIZUhQanRWdV9sUXpUdktGYVhEb295aE5LcTdyOFN0em5HLWRWY08xUU41TEV5ODR5Qmt3Tm51S2s2QTdZMEZlUkg1WUdaalVQRE9QUEdMMlRhR1BXVURBSXlRNGd4bWhWdlpFQVBnRWZNONIBuAFBVV95cUxORThsQmx6Wk80TUQ1V0xZSEpVN1I2YklIUExlUzdueGd2SXhSeDl3amtOY0EtczY2NTVrVm9YWE96bHJrczd0dzY4a042MFpoeElfX2VqLXp0eEZSS194RGhFbVl5V0JkMXVvTlNUbG1DZjJxWFpHWnhHY2lJaGlLT2RCbU83WEJhQTZxN3pHaVNLSHlTaVM3RlA0UEVjalJGa1RncDRMRkxfR2tmclk5WjNwck1JQ2cy?oc=5",
+     "source": "CryptoNinjas",
+     "type": "news",
+     "published": "2026-11-13T17:34:14+00:00"
     }
    ]
   }
  ],
  "events": [],
- "headlines_served": 13437,
+ "headlines_served": 13512,
  "trend_candidates": [
   {
-   "key": "technologies",
-   "term": "Technologies",
-   "count": 8,
+   "key": "technologies inc",
+   "term": "Technologies Inc",
+   "count": 5,
    "sources": [
-    "BigGo Finance",
-    "CoinMarketCap",
-    "TradingView",
+    "OTC Markets",
     "Yahoo Finance",
     "Yahoo Finance UK"
    ],
-   "baseline": 0.55,
-   "ratio": 5.16
+   "baseline": 0.0,
+   "ratio": 5.0
   }
  ],
  "baseline_days": 7,
