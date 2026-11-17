@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T07:00:06.013843+00:00",
+ "generated_at": "2026-11-17T13:08:24.836082+00:00",
  "first_run": false,
  "sections": [
   {
@@ -11,6 +11,66 @@
     "defi"
    ],
    "items": [
+    {
+     "title": "Mori Finance offers covered calls on Solana",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xyjc3u/mori_finance_offers_covered_calls_on_solana/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-11-17T12:35:44+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Cryptoassets in UK Politics: Seen and Unseen",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xyiua2/cryptoassets_in_uk_politics_seen_and_unseen/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-11-17T12:10:22+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "US Judge Acquits Brothers in $25M Ethereum MEV Exploit Case",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xyhcq2/us_judge_acquits_brothers_in_25m_ethereum_mev/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-11-17T10:46:58+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Anyone using a crypto debit card to spend stablecoins?",
+     "url": "https://www.reddit.com/r/defi/comments/1xygxj8/anyone_using_a_crypto_debit_card_to_spend/",
+     "source": "r/defi",
+     "type": "reddit",
+     "published": "2026-11-17T10:21:02+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "We need you now more than ever, Jim Cramer",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xyfvah/we_need_you_now_more_than_ever_jim_cramer/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-11-17T09:15:04+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
+    {
+     "title": "Poisoned scripts on major sites (Ledger, BBC, Zoom, CNN) are hijacking crypto wallets and swapping addresses (BTC, ETH, SOL, etc.)",
+     "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xye9iw/poisoned_scripts_on_major_sites_ledger_bbc_zoom/",
+     "source": "r/CryptoCurrency",
+     "type": "reddit",
+     "published": "2026-11-17T07:31:58+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Altcoins"
+    },
     {
      "title": "Daily Crypto Discussion",
      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xybp10/daily_crypto_discussion/",
@@ -540,55 +600,47 @@
      "first_seen": "2026-11-16T07:00:56.437367+00:00",
      "topics": [],
      "section": "Altcoins"
-    },
-    {
-     "title": "MeteoraAG Announces Dynamic Liquidity Exchange, Bridging The Experience Between Trading And LPing",
-     "url": "https://www.reddit.com/r/solana/comments/1xx9kle/meteoraag_announces_dynamic_liquidity_exchange/",
-     "source": "r/solana",
-     "type": "reddit",
-     "published": "2026-11-15T23:07:14+00:00",
-     "first_seen": "2026-11-16T07:00:56.437367+00:00",
-     "topics": [],
-     "section": "Altcoins"
-    },
-    {
-     "title": "Solflare Wallet Has Launched \u201cPrivate Mode\u201d On Solana, Powered By Helius",
-     "url": "https://www.reddit.com/r/solana/comments/1xx8kqm/solflare_wallet_has_launched_private_mode_on/",
-     "source": "r/solana",
-     "type": "reddit",
-     "published": "2026-11-15T22:23:10+00:00",
-     "first_seen": "2026-11-16T07:00:56.437367+00:00",
-     "topics": [],
-     "section": "Altcoins"
     }
    ],
    "heat": [
     {
      "ticker": "SOL",
      "name": "Solana",
-     "mentions": 20,
-     "subs": 2,
+     "mentions": 21,
+     "subs": 3,
      "posts": [
-      6,
-      11,
+      0,
+      5,
       12,
-      13,
-      21,
-      23,
-      25,
+      17,
+      18,
+      19,
       27,
-      28,
       29,
       31,
       33,
       34,
       35,
-      38,
+      37,
+      39,
       40,
       41,
-      42,
+      44,
+      46,
+      47,
       48,
       54
+     ]
+    },
+    {
+     "ticker": "ETH",
+     "name": "Ethereum",
+     "mentions": 3,
+     "subs": 1,
+     "posts": [
+      2,
+      5,
+      36
      ]
     },
     {
@@ -597,26 +649,8 @@
      "mentions": 2,
      "subs": 1,
      "posts": [
-      7,
-      45
-     ]
-    },
-    {
-     "ticker": "XAUT",
-     "name": "Tether Gold",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      18
-     ]
-    },
-    {
-     "ticker": "MORPHO",
-     "name": "Morpho",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      18
+      13,
+      51
      ]
     },
     {
@@ -625,7 +659,25 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      18
+      24
+     ]
+    },
+    {
+     "ticker": "XAUT",
+     "name": "Tether Gold",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      24
+     ]
+    },
+    {
+     "ticker": "MORPHO",
+     "name": "Morpho",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      24
      ]
     },
     {
@@ -634,7 +686,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      20
+      26
      ]
     },
     {
@@ -643,16 +695,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      22
-     ]
-    },
-    {
-     "ticker": "ETH",
-     "name": "Ethereum",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      30
+      28
      ]
     },
     {
@@ -661,7 +704,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      39
+      45
      ]
     },
     {
@@ -670,7 +713,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      44
+      50
      ]
     }
    ]
@@ -687,6 +730,166 @@
    ],
    "items": [
     {
+     "title": "Why is Baidu letting its ad business shrink by a fifth?",
+     "url": "https://www.reddit.com/r/investing/comments/1xyk05p/why_is_baidu_letting_its_ad_business_shrink_by_a/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-11-17T13:08:02+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "I wrote the pass/fail rules before looking at the data. 5 popular SPY options rules. 0 passed.",
+     "url": "https://www.reddit.com/r/options/comments/1xyjx7s/i_wrote_the_passfail_rules_before_looking_at_the/",
+     "source": "r/options",
+     "type": "reddit",
+     "published": "2026-11-17T13:04:12+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyjdjm/leak_of_15mn_deutsche_bank_files_exposes_systemic/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-17T12:37:46+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "How much of the stock market's upward momentum is being driven by passive investing through 401(k)s and retirement accounts?",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xyjbaq/how_much_of_the_stock_markets_upward_momentum_is/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-11-17T12:34:36+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyj2nx/nvidia_board_of_directors_establishes_national/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-17T12:22:26+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Berkshire's only new stock last quarter: Bending Spoons, owner of AOL, Evernote and Vimeo",
+     "url": "https://www.reddit.com/r/investing/comments/1xyixb9/berkshires_only_new_stock_last_quarter_bending/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-11-17T12:14:46+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "\u2018Standing on one leg\u2019: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xyisex/standing_on_one_leg_imf_chief_warns_about_global/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-11-17T12:07:38+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "SoFi says 2027 needs no new capital, but its capital ratio fell from 22.9% to 17.0% in nine months. Room left?",
+     "url": "https://www.reddit.com/r/stocks/comments/1xyirm0/sofi_says_2027_needs_no_new_capital_but_its/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-11-17T12:06:31+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Thoughts on the Anthropic IPO valuation vs. established Mag 7?",
+     "url": "https://www.reddit.com/r/investing/comments/1xyi7la/thoughts_on_the_anthropic_ipo_valuation_vs/",
+     "source": "r/investing",
+     "type": "reddit",
+     "published": "2026-11-17T11:36:36+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Anthropic's projected $45 billion in SBC through 2029",
+     "url": "https://www.reddit.com/r/stocks/comments/1xyi4so/anthropics_projected_45_billion_in_sbc_through/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-11-17T11:32:01+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Alphabetical order wasted most of my QQQ earnings prep",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xyg3zy/alphabetical_order_wasted_most_of_my_qqq_earnings/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-11-17T09:30:33+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "if NVDA stops writing checks, whos still buy GPUs?",
+     "url": "https://www.reddit.com/r/stocks/comments/1xyfeel/if_nvda_stops_writing_checks_whos_still_buy_gpus/",
+     "source": "r/stocks",
+     "type": "reddit",
+     "published": "2026-11-17T08:45:12+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xyeuse/nvidia_warns_chip_buyers_of_legal_risks_tied_to/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-11-17T08:09:50+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Swedish biotech HNSA has an FDA decision on December 19. Here\u2019s the actual gamble.",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyejq1/swedish_biotech_hnsa_has_an_fda_decision_on/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-17T07:50:28+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "I DID NOT invest in the upcoming Anthropic IPO",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyecvg/i_did_not_invest_in_the_upcoming_anthropic_ipo/",
+     "source": "r/wallstreetbets",
+     "type": "reddit",
+     "published": "2026-11-17T07:37:57+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
+     "title": "Financial Times : Greece becomes unlikely haven for European investors",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xye9vb/financial_times_greece_becomes_unlikely_haven_for/",
+     "source": "r/StockMarket",
+     "type": "reddit",
+     "published": "2026-11-17T07:32:34+00:00",
+     "first_seen": "2026-11-17T13:08:24.836082+00:00",
+     "topics": [],
+     "section": "Stocks"
+    },
+    {
      "title": "Where has the money gone? Pointing out the Obvious",
      "url": "https://www.reddit.com/r/stocks/comments/1xydp8g/where_has_the_money_gone_pointing_out_the_obvious/",
      "source": "r/stocks",
@@ -702,16 +905,6 @@
      "source": "r/stocks",
      "type": "reddit",
      "published": "2026-11-17T06:20:10+00:00",
-     "first_seen": "2026-11-17T07:00:06.013843+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Do you guys track straddle premiums?",
-     "url": "https://www.reddit.com/r/options/comments/1xycc3s/do_you_guys_track_straddle_premiums/",
-     "source": "r/options",
-     "type": "reddit",
-     "published": "2026-11-17T05:37:25+00:00",
      "first_seen": "2026-11-17T07:00:06.013843+00:00",
      "topics": [],
      "section": "Stocks"
@@ -1785,100 +1978,59 @@
      "first_seen": "2026-11-16T07:00:56.437367+00:00",
      "topics": [],
      "section": "Stocks"
-    },
-    {
-     "title": "Watchlist: 11/16/26 Lets have a great Monday!!!",
-     "url": "https://www.reddit.com/r/pennystocks/comments/1xxb1ek/watchlist_111626_lets_have_a_great_monday/",
-     "source": "r/pennystocks",
-     "type": "reddit",
-     "published": "2026-11-16T00:12:49+00:00",
-     "first_seen": "2026-11-16T07:00:56.437367+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "TIME SENSITIVE - BE READY FOR MONDAY - $HMR back on the 200 day at ~4x ex-cash. Same setup as last time, better numbers. Lifeline for anyone who thought they missed it when I posted before",
-     "url": "https://www.reddit.com/r/pennystocks/comments/1xxayod/time_sensitive_be_ready_for_monday_hmr_back_on/",
-     "source": "r/pennystocks",
-     "type": "reddit",
-     "published": "2026-11-16T00:09:18+00:00",
-     "first_seen": "2026-11-16T07:00:56.437367+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Jensen choosing his assistant after returning to Nvidia",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxakkr/jensen_choosing_his_assistant_after_returning_to/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-15T23:52:57+00:00",
-     "first_seen": "2026-11-16T07:00:56.437367+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Looking for mentor/trading buddy friend",
-     "url": "https://www.reddit.com/r/options/comments/1xx8av0/looking_for_mentortrading_buddy_friend/",
-     "source": "r/options",
-     "type": "reddit",
-     "published": "2026-11-15T22:11:40+00:00",
-     "first_seen": "2026-11-15T19:08:43.028255+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Do supervoting and non voting shares fundamentally undermine the value investing concept?",
-     "url": "https://www.reddit.com/r/investing/comments/1xx63zp/do_supervoting_and_non_voting_shares/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-11-15T20:39:05+00:00",
-     "first_seen": "2026-11-15T19:08:43.028255+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "First time buying index funds in a non-retirement account. Things to consider?",
-     "url": "https://www.reddit.com/r/investing/comments/1xx4ulj/first_time_buying_index_funds_in_a_nonretirement/",
-     "source": "r/investing",
-     "type": "reddit",
-     "published": "2026-11-15T19:48:14+00:00",
-     "first_seen": "2026-11-15T19:08:43.028255+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Anthropic is a fucking disaster.",
-     "url": "https://www.reddit.com/r/stocks/comments/1xx415g/anthropic_is_a_fucking_disaster/",
-     "source": "r/stocks",
-     "type": "reddit",
-     "published": "2026-11-15T19:15:33+00:00",
-     "first_seen": "2026-11-15T19:08:43.028255+00:00",
-     "topics": [],
-     "section": "Stocks"
-    },
-    {
-     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xx3xel/jensen_huang_discusses_comeback_as_nvidia_ceo/",
-     "source": "r/wallstreetbets",
-     "type": "reddit",
-     "published": "2026-11-15T19:11:25+00:00",
-     "first_seen": "2026-11-16T07:00:56.437367+00:00",
-     "topics": [],
-     "section": "Stocks"
     }
    ],
    "heat": [
     {
      "ticker": "NVDA",
      "name": "NVIDIA Corporation",
-     "mentions": 5,
-     "subs": 3,
+     "mentions": 6,
+     "subs": 4,
      "posts": [
       11,
-      20,
-      38,
-      41,
-      72
+      26,
+      35,
+      53,
+      56,
+      87
+     ]
+    },
+    {
+     "ticker": "SPY",
+     "name": "State Street SPDR S&P 500 ETF Trust",
+     "mentions": 2,
+     "subs": 2,
+     "posts": [
+      1,
+      95
+     ]
+    },
+    {
+     "ticker": "QQQ",
+     "name": "Invesco QQQ Trust, Series 1",
+     "mentions": 2,
+     "subs": 2,
+     "posts": [
+      10,
+      44
+     ]
+    },
+    {
+     "ticker": "IMF",
+     "name": "Invesco Managed Futures Strategy ETF",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      6
+     ]
+    },
+    {
+     "ticker": "SBC",
+     "name": "SBC Medical Group Holdings Incorporated",
+     "mentions": 1,
+     "subs": 1,
+     "posts": [
+      9
      ]
     },
     {
@@ -1887,7 +2039,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      5
+      20
      ]
     },
     {
@@ -1896,7 +2048,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      6
+      21
      ]
     },
     {
@@ -1905,7 +2057,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      9
+      24
      ]
     },
     {
@@ -1914,7 +2066,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      18
+      33
      ]
     },
     {
@@ -1923,43 +2075,7 @@
      "mentions": 1,
      "subs": 1,
      "posts": [
-      26
-     ]
-    },
-    {
-     "ticker": "QQQ",
-     "name": "Invesco QQQ Trust, Series 1",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      29
-     ]
-    },
-    {
-     "ticker": "VWAV",
-     "name": "VisionWave Holdings, Inc.",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      42
-     ]
-    },
-    {
-     "ticker": "REIT",
-     "name": "ALPS Active REIT ETF",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      45
-     ]
-    },
-    {
-     "ticker": "TGT",
-     "name": "Target Corporation Common Stock",
-     "mentions": 1,
-     "subs": 1,
-     "posts": [
-      49
+      41
      ]
     }
    ]
