@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:11:16.793790+00:00",
+ "generated_at": "2026-11-21T11:35:24.039403+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 43
+   "item_count": 42
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 24
+   "item_count": 26
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 24
+   "item_count": 25
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 101
+   "item_count": 104
   },
   {
    "name": "DEFI",
@@ -71,7 +71,18 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 13
+   "item_count": 14
+  },
+  {
+   "name": "Nasdaq",
+   "kind": "trend",
+   "aliases": [
+    "Nasdaq"
+   ],
+   "first_seen": "2026-11-21",
+   "count": 5,
+   "ratio": 4.04,
+   "item_count": 25
   },
   {
    "name": "Anthropic",
@@ -80,9 +91,9 @@
     "Anthropic"
    ],
    "first_seen": "2026-11-19",
-   "count": 10,
-   "ratio": 2.6,
-   "item_count": 41
+   "count": 11,
+   "ratio": 2.57,
+   "item_count": 47
   },
   {
    "name": "Act",
@@ -93,7 +104,7 @@
    "first_seen": "2026-11-19",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 11
+   "item_count": 10
   },
   {
    "name": "Rate Hike",
@@ -104,7 +115,7 @@
    "first_seen": "2026-11-19",
    "count": 6,
    "ratio": 4.32,
-   "item_count": 7
+   "item_count": 6
   },
   {
    "name": "Asia",
@@ -137,21 +148,45 @@
    "first_seen": "2026-11-19",
    "count": 7,
    "ratio": 2.64,
-   "item_count": 20
-  },
-  {
-   "name": "World Bank",
-   "kind": "trend",
-   "aliases": [
-    "World Bank"
-   ],
-   "first_seen": "2026-11-18",
-   "count": 8,
-   "ratio": 8.0,
-   "item_count": 0
+   "item_count": 22
   }
  ],
  "items": [
+  {
+   "title": "Weekly Project Updates: Ethereum Glamsterdam Upgrade Delayed, Solana 2027 Roadmap, First Tokenized Stock On-Chain Dividend, etc",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FMEVwdXQxaVAtaUtyVXFZQ1ktQTNoTjRSUHBmUmlQMDR2SDFkTTk1SFhpUng5OEdFelVJbnVEOHJHSkFQRzg2QnZBQ3VFczJGZ05GX0xCZEpPaWMwY3hEY1laeG50enY1aHRxX21waUN5ZU5EVk95U2NTRHp2OXc?oc=5",
+   "source": "Substack",
+   "type": "news",
+   "published": "2026-11-21T11:28:10+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "RWA",
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Nvidia\u2019s moat looks shallower as Anthropic shows AI chips are becoming interchangeable",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpNzdpR3VWVU1YdDVGWlcycGVpV2ZXOENvcktsZ01IMER3NWMyelB3TnVBU2MxSDkxNGlXMzFsaWhPZ1VRcDBpcGt3UmRlcWZSckV3T1FMbDdkcnNIYjh0SDdUYlBHNGY4V3p6TnZBWW8tSVdBb21qSkhEdUY?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-21T11:20:41+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Anthropic"
+   ]
+  },
+  {
+   "title": "Artemis co-founder plans Bitcoin exit after Anthropic IPO",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ibkxNREVuaGtPcW9UV3JBNmxkZmQzQ1NtUldJbVptT0ZXZFRWUDVzVGVtM0pZOWM1TmdBMlB1NEdnM0huUXRubXZaWWtBTFdfVEJkRzdxajRvbXdTWEhwYXE0N3dJVDVhZjF4Wk1ZRQ?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-21T11:17:53+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Bitcoin",
+    "Anthropic"
+   ]
+  },
   {
    "title": "Why Rising T-Bill Yields Could Drive Cash From Stablecoins to Tokenized Funds",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rU1Rka1o3RmMycHZXSHU4X3FtdUdKUVVZTEVxQWQwc05NWU0wazB4eDEyZTJGNThHMnJVTklERk1EQTlSV095RmVQaXZvaDJNTnRxUTFjR2JiY080MERhMkt2TUc1UzVwNjVqZi1abDhqQmc4SndJSGtmbEl6dkE?oc=5",
@@ -162,6 +197,17 @@
    "topics": [
     "Stablecoin",
     "RWA"
+   ]
+  },
+  {
+   "title": "How Low Will Bitcoin Price Drop? Analysts Predict",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fc21YUXdMcGt1OEdCcE90bDAtZkxsWnItQm15RkFfVHJzSmZCa3NCTmZXbU1DT0NGTjJmbU03cVFldk5sc0E0ZmhoalBPS0FOVlo4a3dFanJDZUFzZWpST1psWE4?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-21T11:04:05+00:00",
+   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "topics": [
+    "Bitcoin"
    ]
   },
   {
@@ -190,13 +236,24 @@
   },
   {
    "title": "Peter Schiff Doubles Down On His \u2018Black Monday\u2019 Call Again: Ethereum Could Hit $1,000 In Two Days",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMUQ0ZldVZWltb1FZSmlqc09lRlBjbWdhOEpXTjNsUU9GZXIxZEV1ZXktYmpualdmYmR0aXVJdWJwaHlidFMzbXVGejljQ3lCWWMybm0tYWRFbHh6UF9YUG5NRkhZa0xNSXcwMkp0Q0lUZFFZeUE5UlNrSkJPNnNYS01uV0xsYlBtaERwMWhXSUVmVWlWY2NueUJqelB0SXQ4TGpESUZBOHpiMDZVZGVlMW9hQTA3OEVHUjN3b3dFc056Y0Vrd1AtS2k3SHY1OXRWc1d1YUREU0syRXl6ZXlDalJzMF9uT2hRQUE?oc=5",
-   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUdkTG1jT09CaFhNcmhOUnhGWlBGbzNsZGcxdXBOTHhWVDQ0c3haS19Ccm5LWFdtWlp5RzFzekdHR2pJY1BBQlJ0eVhPLW54aDhfYjJjcDc3cnM2bTNDR3pmLTBvYVhMTDA4WHVab2IwaWZZWGpXaXRMUTNFb3h4SHVZYlRMaWZJVFdMam1WX1JjS2J4aTNDQVFuYS0?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
    "published": "2026-11-21T10:40:25+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
     "Ethereum"
+   ]
+  },
+  {
+   "title": "Hyperliquid Anthropic Perp: $111 vs $111.50 Open",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGVNTG13VGJiUzdvQU5QXzBUWnFjQXBBLVhhSXRoOHlCUUYteFBfcWhzejFEVk5PV29hOGNySWhWRFdsTjV4d05TclBoT3h1YjV1NVJpbzY5YVJZSm5vLUlzTzZ1UDZFYjdrZGJRT2NUU2J0M2h6eHBPdl9QekxtVW9wQ0Q?oc=5",
+   "source": "shattered.io",
+   "type": "news",
+   "published": "2026-11-21T10:39:22+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Anthropic"
    ]
   },
   {
@@ -213,14 +270,15 @@
    ]
   },
   {
-   "title": "Ethereum Staking Inflows Climb as ETH Price Slides 2.9%",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGtWZm9JRmJyRUtzbVViaHV2OG5sb2I0Q2FLaTNWZWc2eVVMNHBVYThRV3g5allETDRwNDlaRzFhYUZXQnpELU52My1EQVdPQWRFc0p1VFp2WnZYNHJoelMtRWtxUVJwMjhhOHpzcDhvRW80SWdGTkdDQURaTVllaUtKakE?oc=5",
-   "source": "CryptoRank",
+   "title": "Bitcoin Falls Below 60000 as Nasdaq Selloff Deepens",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SWldKOE53b2dVeU9YMkUwaUtESmx6a0p2bVA4ZU9rV3A1eWE4NVJVd0lqUUpVSEwtX2ZwOWo3LUl5ZHEtcUdSUk1CWU1HUy03OWxrS3ctekk3ZE05RGoySzFtQ2ctOV9venNqT2pR?oc=5",
+   "source": "Peradaban.id",
    "type": "news",
-   "published": "2026-11-21T10:11:30+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "published": "2026-11-21T10:06:14+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
-    "Ethereum"
+    "Bitcoin",
+    "Nasdaq"
    ]
   },
   {
@@ -235,12 +293,12 @@
    ]
   },
   {
-   "title": "Bitcoin Falls to Two-Year Low of $55,533 Amid AI Sell-Off, Binance Hack & Rate Fears",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GME9Wd3JMRmxKZzIzT1ZsRi13QXhiN3ZoTXc3ZzBlTjJzcEsxcTV1RXRUUkUwUFRwM1kyOWJjNDA4VWwxeTVXYVN4cDFVTEc3NjBzMWwtU19ybTZ4MzNZWkp1WjNmc0JyallRQlp6ZlYxTFlhQ09FU3dpNA?oc=5",
-   "source": "Pragativadi",
+   "title": "BTC May Slide to $55,000 Unless Yields Ease, as CoinGlass Logs a $51.7M Long Wipeout",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbE4xZ3VhRmZ1akh0UTl2UUh2WlQtbGIxTHNaYTJFNnFCS2xFUk0zVUpxZjBQZ2FnSmxlTEk4S2xfUEsxZEtBQlVRc2lPdDRzQjlNblJzRl9MaHJLNWRtUnAyLTYxU2czYXV3Yk1sdlc4VTdnUElmM0N0aUtIVk1JRWdTYkNUM2tGN3hNem5icHdJUG1UUk9Hd0tKbVdRNE1LUjhxYnpNZGQ1Nk1EU2NqR2JzV0pOdw?oc=5",
+   "source": "CryptoDaily",
    "type": "news",
-   "published": "2026-11-21T09:51:16+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "published": "2026-11-21T10:00:00+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -291,14 +349,26 @@
    ]
   },
   {
-   "title": "Crypto Price Analysis Nov-20: ETH, XRP, ADA, BNB, HYPE Slide",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmpHeU4wV2RzRVFKTDBNcFRQVEFYSVRHOVdHYk54RlZGT2FMUzh6SnQ3RUlGc3hsUVpYMTluQXMzXzc2djdFWm1oU0ljUFp1Q05DbnVmZFZaWlp3c0otQjJmQ0RQaWk5RXdGNmZkaEwtWDJBSEdOdTcxeEZPZUdEZXJUMms3bXRJUTI4UHRrQ0E?oc=5",
+   "title": "DeFi Technologies Inc. (NASDAQ:DEFT) Stock Has Consensus Price Target of $1.28 According to Brokerages",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2VzeU1Ib2haaFlmc1BXbGtZVTlZZmV5MVNzWTVOZHVmQlgwT0laVUp1X2IybXJPWTIyN2JsbDlpT0FmQUx2MDk3NllpeUtnSjJtNHh1cTN1TC1yMktrOVNpU3BrNkZtZElsZkdHOXNjVGp0Qzd5Mmg0cEJLTEplb1hDZFhRck9uZHRLSVhSMXk4Ul9xblZWbFVqVVd1c0NSa1B5Mi1sOTlSTzQ1R3hKZ0o0d0JhVUxBb2tSWDJaZm5KSE4zN0hGUDAwaHJWejhUVGJrTkNQRV9RLW5mR2V0X0tLbGMtQVJ0RXdXLUhiZEVkc28?oc=5",
+   "source": "MarketBeat",
+   "type": "news",
+   "published": "2026-11-21T09:22:29+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "DEFI",
+    "Nasdaq"
+   ]
+  },
+  {
+   "title": "DBS, Circle Add 24/7 USDC Redemption for Asian Institutions",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pZFBxY29PUW5qRjdvVjBqaW9rUXA1TThzY0F3TWRvTnpUdll5cF9RMEJGcTJraGtIb0w1X253TF9MVlhWY3VxSUVEWU9kam5xT3JWSE1obnJDLXlNa3hwQWlqaGJpaVdTQUxBYjJvTUZjSTRkclhMUA?oc=5",
    "source": "CryptoRank",
    "type": "news",
-   "published": "2026-11-21T09:21:22+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "published": "2026-11-21T09:20:12+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
-    "Ethereum"
+    "Stablecoin"
    ]
   },
   {
@@ -381,17 +451,6 @@
    ]
   },
   {
-   "title": "Bitcoin crashes to lowest level in two years | Bitcoin is down over 50% from its peak | Inshorts",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWlNS2tPWE9ZN1k1M3BqNGY2dXRWOEwxV25WOVhZM09ZMlY4ODRhNXdoLTRkQ2lReFZCR0lVbjljTXlIOGRGenRjSGluR0FHZDZFaDcwRnREZU8yQnlXeVNtRFJWc2xfcG9KOGZLMVZNUl9JX0tkWHhmajNhZ0k5dGZka1VFT1E0VTRpdTQ1cTRwYW9Ca2fSAZYBQVVfeXFMTklpTUtrT1hPWTdZNTNwajRmNnV0VjhMMVduVjlYWTNPWTJWODg0YTV3aC00ZENpUXhWQkdJVW45Y015SDhkRnp0Y0hpbkdBR2Q2RWg3MEZ0RGVPMkJ5V3lTbURSVnNsX3BvSjhmSzFWTVJfSV9LZFh4ZmozYWdJOXRmZGtVRU9RNFU0aXU0NXE0cGFvQmtn?oc=5",
-   "source": "Inshorts",
-   "type": "news",
-   "published": "2026-11-21T08:29:23+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "UBS runs a tokenized structured note on Ethereum, but settlement is still off-chain",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmZ4YTh0Mld5TkZGNXhhLVd0MEZfTW9oRXgwVm4zUGltRDNlNXdGd1BXSnJhV2dXVjN6ckVUUWR3ZEgtWmtYT1VfeENoOW1xSG82SEJ0VkgxcXFESTA2R2FEdVQxZHlMYV9Xc3BwRFJEQzJoYmVkR254VmZCTTc4d015dzc5MTgyOVcwbXg2WHFkTFEydXMxYkMxem41VENsN2RGRXJPTDlkOFZnVkdZ?oc=5",
    "source": "Startup Fortune",
@@ -401,41 +460,6 @@
    "topics": [
     "RWA",
     "Ethereum"
-   ]
-  },
-  {
-   "title": "Bitcoin falls to 2-Year low below $56,000 amid $2 billion crypto liquidation",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnBJY1cxQVduLVMwX0xEYXJFanNWeXFMRlEyV1pqdzB0bk5mWVA4X21UYm9DZ0pyZk9nblYwYmdRMVRDYmhzMEdKeHg5U0gzbTdvZGZQaHBvR1BLb2xSOWxDT3VROGU1VGNyMkJGTDMyT3ZMQy1wbTR6ZGV4ZmJ0TU1JdFpkd3JKdFROU0tUSW50OGhHX1BKRm1kX1g5X2RUV2hiY1EyM2d6VHkxeTUtTmpZX2NTUdIBsgFBVV95cUxNMzdJa2tjamswOFNpb2dHZ0pETDdpRFRibmlyN2NVajZRS1R3MzBMY2xRV2VzODFaZmwydHhGOU1MWUZ2X0lLaUZtTjZHSlpmSHg0N2F1OGkycGpEQWpIMENhRWJfRDZqbkdtUWloMEZLZ3lkVlRkLXR4WUcxSEhpVWVPOWd4VVd5bXhqUGV3NGtkVW9LWXg2RGJIWFJqb2FfUmdqcEJjOGd1dXcxTUo1LUpB?oc=5",
-   "source": "The News International",
-   "type": "news",
-   "published": "2026-11-21T08:21:00+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Crypto Market Bloodbath: Bitcoin, Ethereum and XRP Crash Up to 10% as Bear Market Fears Grow",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1hIVHdqcXdaZGRYbUxXWEdKeGFsY0lnS2NrOGVhU0pweHB1TVVRTEhXSnlaUl85Zlg1UXk4aGt5SzBEUUhOdHBGYzRrOFJXREZqODA2dFhobEltYThNaVdVdjRHa0c4bWZRcW9vVUhSQkFTd3ZqN0NpaEZaT1hIdzMzVFU3c29RdWQ2Z003V29IajF6TDNVMzh2VzdSRFZTWFVBQng1MHItbHhrQTBTU3BsZlVrbEY1aUVscDFYUzZldkhsMmc?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-21T08:16:18+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Why is Crypto Crashing Today: BTC, ETH and XRP Fall Amid $1 Billion Liquidations",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWW9BeGoyZFJHbGEwYS1xdkFBd1dlSnIxR2tOV2tldmxrN09UcWcwc05OZlVlUTlNTlE0cWJFUWozWGEwazJjRmZfbk8yMXhhVjI4VXB6eUV0b2t0TkVheW95Q1o0YmUxRkJvc19hZlczU0lUZWxxdWhiMnpWeXN2eE16UFlFYjc0WmcweWpuQU5kbzFwZFZTV2dUcVJ5cW9Fc2tSODViYUFZTS1IREJnUUE3NnI3UQ?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-21T08:16:18+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
    ]
   },
   {
@@ -506,33 +530,11 @@
    ]
   },
   {
-   "title": "Ethereum (ETH) Price Today | Quotes & News",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNR2dNY3BKT2o1OFpGU25Wemt5bGxFWmFSX0pxTmZWbThQTHZBTUxuVEVURDJ5bi1zRU9Jd1FHcTljWVM2NXNGTUlaWU1xUGdMMkNyeUI5dV8yNUg5ZzFUUVJmWUlUckpQTG5UZmlVaDVWRE94RHhWSW5pVkl4VkhhVUV2REQyaml5NTBpeHM3WklLY2FfcjR6djlGeElSbTZLaVFzdmcxYllEN1FCbDNlQ3JsNDgtLVpKZXNwUjkwOUM4cV9xV1ZJdXdmd2NPaUVTTjl3bFVnX3ZFUG5CUWlOOTFvbHR1UGdabG9ETVVDNWZ6bzdHaU44VUZKUnJfNDV4V2oxNVB6TzNtVmlnc25zd09ndlRTanRlTFVPaTFn?oc=5",
-   "source": "Moomoo",
-   "type": "news",
-   "published": "2026-11-21T07:06:51+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "Bitcoin ETFs Bleed $3.5 Billion in November as BTC Slips Below $56K",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1Z3FFVG5qQjJmUDJPM0pXSXd1dkwxSWkzTUVmazI1MW9KczdLcU5uWUtCdWVJUU5SS3REelYwUHUyZ0NBZWxtN2x5Qnl6ZkxWdktDcjE2dGo3VHlRRGVKZzRVNXUzRkJzR3RiSFZKNkpYeWZjVGc?oc=5",
    "source": "BigGo Finance",
    "type": "news",
    "published": "2026-11-21T07:05:00+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "How Low Will Bitcoin Price Drop? Analysts Predict",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fc21YUXdMcGt1OEdCcE90bDAtZkxsWnItQm15RkFfVHJzSmZCa3NCTmZXbU1DT0NGTjJmbU03cVFldk5sc0E0ZmhoalBPS0FOVlo4a3dFanJDZUFzZWpST1psWE4?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-21T07:00:12+00:00",
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Bitcoin"
@@ -569,6 +571,17 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Anthropic"
+   ]
+  },
+  {
+   "title": "Ether Slides Near $1,550, Down About 35% in Four Weeks",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczVYX05pUHVvUjlEc1BIOGFsNnNQdjczZUYtUG02MHNVNHFIRHdvN05LUFAyd2RqcmRranZ1QUM3bkU4THpLOTl6T1Z5blhvd0lrdm9GM3ZyVkp1MkVBVVhlR1MxOTBLREs0VE0yWUlnTXNzUmk2ZUpiaDAydjk2RmFIMEZsQ3RhOVdVTlZGTQ?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-21T06:58:58+00:00",
+   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "topics": [
+    "Ethereum"
    ]
   },
   {
@@ -613,6 +626,7 @@
    "published": "2026-11-21T06:35:00+00:00",
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
+    "Nasdaq",
     "Anthropic"
    ]
   },
@@ -751,25 +765,27 @@
    ]
   },
   {
-   "title": "Bitcoin Price Slips Below $58K as $1.90B in Trades Are Wiped Out",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pQmc2Q3hiM3BEOXplemMyT3dSTmtTbEp6d0pfejZETzlFR293VTBfNHdiYU1nOHcxc1ZiTG0zWlZKeEM4UWJvUWMtQjM1RThqbnFFa3lCb245NG8?oc=5",
-   "source": "Cryptonews.net",
+   "title": "Crypto News Today: Bitcoin Price Nears $55K as Ethereum Plunges 10% and XRP Tests $0.87 Support",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0h3ZWxxOVhqUkhmb250bmItdklPNzJVR09id05ORWROUnN5N1FpS3E0b0RUNEk2dUE0aXE2YllBbjlOTmdKUXdMWmpfaHNOanlEMHdCN21tOXNaRGxkWHNudUtvYk9vVGxRZWFYalpFWVpzTGZoNkFkb3QzdDhZN2haRFVydmduZHNHWkJEOUZheGxFaGpGR3VhV1AzVEs2VWRsWmpieDZPSmQ0blA0djV4bDFSQ0JqV1VBelRiVkdzN3M?oc=5",
+   "source": "Brave New Coin",
    "type": "news",
-   "published": "2026-11-21T05:13:18+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "published": "2026-11-21T05:03:49+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
+    "Ethereum",
     "Bitcoin"
    ]
   },
   {
-   "title": "Ether Slides Near $1,550, Down About 35% in Four Weeks",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczVYX05pUHVvUjlEc1BIOGFsNnNQdjczZUYtUG02MHNVNHFIRHdvN05LUFAyd2RqcmRranZ1QUM3bkU4THpLOTl6T1Z5blhvd0lrdm9GM3ZyVkp1MkVBVVhlR1MxOTBLREs0VE0yWUlnTXNzUmk2ZUpiaDAydjk2RmFIMEZsQ3RhOVdVTlZGTQ?oc=5",
-   "source": "The Defiant",
+   "title": "Binance Hackers Move $860 Million in Ether as Bitcoin Laundering Surges",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sVFUxQVBBNU9CSlVzeFl0TUlRak1kOTMwVmV5czE1T3c2ZWowSUZ5d2FDTjVRN3MwdW5ITUxlZzJuaE1HdGV6aHc3SW5ScVE4QXJtd1BDeUdvQQ?oc=5",
+   "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-11-21T05:00:05+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "published": "2026-11-21T04:52:29+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
-    "Ethereum"
+    "Ethereum",
+    "Bitcoin"
    ]
   },
   {
@@ -808,11 +824,11 @@
   },
   {
    "title": "ARK Invest Adds More Anthropic Shares While Trimming Crypto Stocks As Bitcoin Slides",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTklYb2p0ZDVLc1dIdVhGS25WSE5UbzZSbHdjYXFqMS1rMXBzcEN5WERCSVdOVThPRUVCOVJXaFNFaVZaTWxtWDAwUG0zMnQ3WU93T05UTmliLVRVeFdGbFlKY2VqVlk3TGJwbUJnamVYRVVVaE4xZGNiR1hNdnAzX1l4aHR5TUszT2xsYkJKR2o5bUlnOVp2NkFn?oc=5",
-   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMmJtYlRQSkRIbmxBdGhnRThhaGhYd2hYczRwUXhOWkdka09hcS04RDRoMk9DNVJCLWU1T3VmYkNYN2sxX3h1UXp3c3YwUVJ6djl6cWtiYjZxbUYwNjlGbXMzN0RFOWFtazdhaGFtMGdpUVhRTF9FVnlfbFk5cFVKUmkxcktQM3U0S1RBYTNJdnpoMVoyVVhoYThLTmpkYkhvck9uUzB2UDZseU1VTHp5OGtibHRrbWhPRGF1Y25UWXFKTlFtYXhTTG04N1ZTVVREQU5iTG1yR2FpTDFYamc?oc=5",
+   "source": "TradingView",
    "type": "news",
    "published": "2026-11-21T04:19:00+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
     "Bitcoin",
     "Anthropic"
@@ -861,6 +877,17 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Treasury"
+   ]
+  },
+  {
+   "title": "Stablecoin Regulation Update: GOP Regret Signals Shift",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94ZnN5S29pR1JtVXo1R2dVUlBIRDQ1NFZ6ODN3a21PN2FsWlNseldESTUyMjRyUjlEb1FyRzFSNU5PODBqZU1RRW5pU0xfZlEwM01rWVlhWmtCLU9QbFRZZlQ0ejFuXzhSN29sMFRLQ1p6LWJY?oc=5",
+   "source": "OneSafe",
+   "type": "news",
+   "published": "2026-11-21T03:36:39+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Stablecoin"
    ]
   },
   {
@@ -933,6 +960,41 @@
    ]
   },
   {
+   "title": "250M: USDC Treasury Mints New Supply to Strengthen Liquidity",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTEJTUnBTUDFwd2xxOGVQRXhBOElFQUhxSkpNTWowYWtmTjNYcENBekpzZmM3NTZySWUwWUpsNUJiQTVxZlYxMko0ZDI1bkhPRjU0dEVNOEs5cVE4SWcwZFFMb3RCX3lGRllsTThweGYtWkNybzdjQ3BNLWhOVGNpMjFxejVfZ2JEOUt3Sw?oc=5",
+   "source": "Coinfomania",
+   "type": "news",
+   "published": "2026-11-21T02:57:11+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Stablecoin",
+    "Treasury"
+   ]
+  },
+  {
+   "title": "Bitcoin outlook darkens as analysts warn of further losses",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0c21udXZ5MkQ1NWphLWpLcHZMZ2VnOUxvM1lwUnlFTnNzYWxHYzhobW9YcUdDY1ZhUy1McGh0bTBqS2wxSVhneERXWWtXdDU1dDg2eDRuMA?oc=5",
+   "source": "The Korea Herald",
+   "type": "news",
+   "published": "2026-11-21T02:50:06+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "DWF Labs Says Bitcoin Tracks Nasdaq Rather Than Acting as Digital Gold",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0YwVVhPbVFQejNNUGRtUnVSRVBpZ3VyNTdfb2lHN2VndnNIY0dfMHo0a1NNd3lPSGxHaTk1eUtBaTZ2aWI5TmJzN1VGOHpnWmMxZF9nUHU3NjlMdjBNdUF6Tk9ySF9oZmV5SVZmYXBKYUUxMXNzUVE1ZmNWT2tNdm9OLTc3X1RwWEFDMjEzN0k0UXd5eHVGTm55UEkxN2JvMVIwdkpfWHdEN2s1WFdFWDBGUE9mTXRRYVNBcS0yMFV4OFlGbU1tTi1wWnpIZw?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-21T02:46:00+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Bitcoin",
+    "Nasdaq"
+   ]
+  },
+  {
    "title": "UK Drafts DeFi Tax Relief: Capital Gains Deferred to Sale Under April 2027 Plan",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XR1pLdC1TZEx6dVV3VjFvTXk5MF8wUTBVOXBsNGpQZVNmQVlCLVFXWk5QRVlxVnhoNzRXaWNMcU5Qemh1M2ZIMlU5cmNGcW1RVU9feUo4ZzN0YlhDM3drbEdzYWZETmpVd3ZGUUMxQUx4N1RMM2c?oc=5",
    "source": "BigGo Finance",
@@ -952,18 +1014,6 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bitfinex Details New Ways to Borrow Stablecoins and Dollars Against Bitcoin",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON0lCX01BZi03QkVkYlRSTVZNenY1QUlrOF8wVU5xamVSd1hvei1hRTBOZ29PUkJuTUdFeDM3RnJCaEZNRDdlM1hoTHFXSGN3YXBxUWh2bnROYk90aDlYQTIzSUwwM3Q5dm83a2dwSXdPd3pPcVc5ejVuLUx3WC1FVQ?oc=5",
-   "source": "Crypto Economy",
-   "type": "news",
-   "published": "2026-11-21T02:32:36+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Stablecoin",
-    "Bitcoin"
    ]
   },
   {
@@ -987,17 +1037,6 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Stablecoin Payments Go Live: What Visa\u2019s Move Means for Your Business",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzBoaTZ4X1JWWk5mbkZhY1l6SUdhMW9WZEJHWEdkUHM4blY4QkN4c0htSEpCMnZ6QWF5cmRueXBqMFc3c2RmYnc2LVo2OGtVbGpQTWREZzZxdjNZRDNYMHJGMFJPZTVKVW5CbUd5OXhwY3U0LWNuYXl5M0hIRGxtQ3hYM2FpR3pXZm1icGhvcU56WncyWUlZcGpoaw?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-11-21T02:11:24+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1035,17 +1074,6 @@
    ]
   },
   {
-   "title": "Stablecoin Payments: What the OCC\u2019s Approval Means",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84MUttS3NRQUdsdlNZTUd1U0xYbXlRR1gxNzVTYjd1bEw3MUdYbmRtSzdheXBpRnNKLU9WOGtQZWhOYjdYemdmSnRObmtkRGY5NHA5eE1uOVpTVlRpYkdQSUlRRWVnQk4tbFlCdA?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-11-21T01:38:48+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Ark Invest acquires 705,982 shares of Anthropic as Cathie Wood leans into AI",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqSFNjZE56aGM1UHZNZ0JqVjJvVGNpZkpfckJrd1hoaERzMzZFdnZSVHBuRzRBeUV3VlJOU2Z3OEJGa2pQUVhtWDB0eUFoUDdGNE5rNTljOGJQd29YYm91Q1VJRHJ4MURMZHdiaA?oc=5",
    "source": "Crypto Briefing",
@@ -1068,14 +1096,25 @@
    ]
   },
   {
-   "title": "Bitcoin Falls Below $60,000... Less Than Half Its Record High Last Year",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XSVd2Mi1KbW5uYUpUNkJ4eEpXZm4yQVhaMnRjV2FoVmt0Vkw1ZWt1VzhxZ0NBdGlSckJvZmpmXzFWbTlIR0htQkFSbl9BcWpnaDM3XzhZSU5IRkJkYm80bmVId2Y?oc=5",
-   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
+   "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment \u2014 ANT, NVDA, TTWO, ZS, CRWD In Focus",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1hBdGw1anUtLVZ1cFNyVmJmX0liYVYxcGg3WEpaOURrSlJLWHZDSzlIbjFBM3ZaTlllb29CTERST2ZDaWVfWUxnRUJ5b19ybWs2dXp5NFRjUmU5TVlVUHYtYm5maDRxMUlpVFc0WDhyUEJFN1M2MjJGWGY0dXk1V2RHanl3S1pWU3J0Rm5CRDdjRXVJN2c?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-11-21T01:12:03+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "published": "2026-11-21T01:30:00+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
-    "Bitcoin"
+    "Nasdaq"
+   ]
+  },
+  {
+   "title": "Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckZvNmlIMDFlNldRN1hIMmNoY2ZqMGQ3SlpaZ29DTzU4NjV3RFFPOF9uaGl1eVRkUDJudWx0WGU5MktIRUszUUlYM2MzOVNTeTItLWFvdHg5Q1p1dmtGSXJUTTdyMDJ1LTk5cU9vN3RSY0hOb2stdkxFU2xxa25HZGtXaHRRVE0?oc=5",
+   "source": "Mashable",
+   "type": "news",
+   "published": "2026-11-21T01:12:20+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Ethereum"
    ]
   },
   {
@@ -1090,14 +1129,37 @@
    ]
   },
   {
+   "title": "Is Monness Wrong to Give Up on Strategy? Wall Street Still Sees $233",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPREtUS2hRTGJmX2tuUnpkSHlmdTlNOHk1NU16OWczZnBJMVdHeVZJSVkzR1I3c2R4am9sY3NtcWxjajhoMTVHRHI2a1Qtb245NE9GaHVkZ1VQRTQxSW1Sb05BSm9JY01zdGVJd0JzalkzbkxRUDFtNGdQX3hhTlhJSVRDanVBYzkxREtleXpmbUo5VUJYUXM0?oc=5",
+   "source": "TIKR.com",
+   "type": "news",
+   "published": "2026-11-21T01:07:04+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Wall Street"
+   ]
+  },
+  {
    "title": "Top Tokenized Stocks by Market Cap",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FTVMzRmtUZG4zWTBSazBqdUJxTTdBcnN6aE90VVlocGNTVmZSaV9RNGtKZU5iTVlnRnUzbGhvaVhEbnN5VGN4RUtySQ?oc=5",
    "source": "CoinGecko",
    "type": "news",
    "published": "2026-11-21T01:03:35+00:00",
-   "first_seen": "2026-11-12T17:12:48.528714+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
     "RWA"
+   ]
+  },
+  {
+   "title": "USDC Movement: $175 Million Shifted from Treasury to Kraken",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGRMQU12YTRrRGRNc0pMelFBVG1tMW91SGt2ZU5mQ0xyWTI2R2ZURVgwQXN5OTYybDlVbzB5WXl6VnU5NmdHQ2hCdVlneVVNNHFGWmpiNkNzX1ZUXzNwYTMzZXhHMEV4dmNseUg4TnByeE0zRVNDTUNwZHJDTGtRODJLV1lrdjViZkE?oc=5",
+   "source": "Coinfomania",
+   "type": "news",
+   "published": "2026-11-21T00:55:11+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Stablecoin",
+    "Treasury"
    ]
   },
   {
@@ -1143,6 +1205,17 @@
    "topics": [
     "Stablecoin",
     "Treasury"
+   ]
+  },
+  {
+   "title": "Nasdaq Slides 5.3% as New York Stocks Tumble on AI Overinvestment Fears",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rbWlPSUJmd0dDbjBsTkRiZTNKalYyOWp4cGpKV3F6Y2lVX1BYRVN2VGhxTXJXczlwd2FIYlVmTGhGUkFVdWFpNlFaNjVlQjVGX2pPYQ?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-21T00:00:58+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
    ]
   },
   {
@@ -1271,6 +1344,17 @@
    ]
   },
   {
+   "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+   "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "type": "news",
+   "published": "2026-11-20T22:46:00+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
+   ]
+  },
+  {
    "title": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5",
    "source": "Yahoo Finance UK",
@@ -1302,6 +1386,18 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Cathie Wood\u2019s Ark Buys $90.9 Million of Anthropic on Nasdaq Debut, Sells Crypto ETFs",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdkNwVTBIUExfOTdaNHJUZmh0Z2ZYUk5MQWg5U015UmJZQWdLYXlfcXdjNE84WDlkZ2t6SnNpeG1iSjFvYTZ3ZHB0Y1NaZjlGVnRvNA?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-20T22:25:43+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq",
+    "Anthropic"
    ]
   },
   {
@@ -1363,6 +1459,17 @@
    ]
   },
   {
+   "title": "Is Anthropic's IPO Fueling Crypto's Sell-Off?\uff5cBankless",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBua01rU2VJTUc4TGRDNC03OVFJZFhDUnRfQTRodXZuQ19iMWtKdEw1ZG9vZ3pTeWhfa0Q5UWg1T2J2Znh1c3VEMG1MZVVMUkwtbHlDVWFaczdiMG1vNnhr?oc=5",
+   "source": "finance.biggo.com",
+   "type": "news",
+   "published": "2026-11-20T22:07:32+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Anthropic"
+   ]
+  },
+  {
    "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
    "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
    "source": "CoinDesk",
@@ -1372,6 +1479,31 @@
    "topics": [
     "RWA",
     "Ethereum"
+   ]
+  },
+  {
+   "title": "Hyperliquid\u2019s Anthropic perp traded near $111 before the Nasdaq opening bell",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41V201aDJodWhrWUZObUtPdnotalAwcDRMQWw3WURoUl9CUGk3MmRkVVdXYXRVV0JhOFJ0UXNzQnhhOUV1YlNraGhwdjdiSjVSRWRGU3IwUnNndm9rd2pEVS1lX0NVSWhZc1FuVGpNYXZWUTA?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-20T22:04:47+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq",
+    "Anthropic"
+   ]
+  },
+  {
+   "title": "USDC Treasury Burns 111.3 Million USDC After Ethereum Mint",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bXI1dVp6eEEtRHhhMHFVMENZUElKMlFndjRLSTFmLUNQcFFhejVBeWJjajhSTkQ4RU5qdFZUMmdzWmt5WU02cjZPelRPUjJaMDRjRkVaRnFKQQ?oc=5",
+   "source": "TOKENPOST",
+   "type": "news",
+   "published": "2026-11-20T22:03:11+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ethereum",
+    "Treasury"
    ]
   },
   {
@@ -1394,6 +1526,17 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Treasury"
+   ]
+  },
+  {
+   "title": "DCG\u2019s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+   "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-20T21:40:01+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
    ]
   },
   {
@@ -1500,6 +1643,17 @@
    ]
   },
   {
+   "title": "Nasdaq Wipes Out Its 2026 Gains as S&P 500 and Dow Slide Into Correction",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYOHRSSHg4VFV2TlI3NDhMaW56YjR5TmszQ0hna0NVaVg0bktybng2T1NKRjA1UDJFUkstX0FSZFZ1Y3pVbEc0YkdZdHhQbldnQ3NIOEZlam51cGZWTnl2V1NfTVpFVzltSDMweGZkT3czeEYwS2U1Y0RsTUxzZw?oc=5",
+   "source": "www.trendingtopics.eu",
+   "type": "news",
+   "published": "2026-11-20T21:08:34+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
+   ]
+  },
+  {
    "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
    "source": "Bitcoin Magazine",
@@ -1507,7 +1661,8 @@
    "published": "2026-11-20T21:08:02+00:00",
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
-    "Bitcoin"
+    "Bitcoin",
+    "Nasdaq"
    ]
   },
   {
@@ -1519,17 +1674,6 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Wall Street"
-   ]
-  },
-  {
-   "title": "Michael Saylor\u2019s Next Big Bitcoin Bet Is Strategy's STRC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUE5EVUdBQURDbUNvdlhSNlpLU0Y5VTktTktUeHF3UGhZaUxUbTYzMUJsSmk2QVFrc0NPeElYR1k1c24wekV3WjhhNW1TOS1EbUxhUUtUVFd6VEZMdDRvcTFKLUR0Z003MXhSNmdqRnlXeHJ4dVFJbldRaVZXeXpZY3ExOThNY2JxVVJTUm1QbTY5dw?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-20T20:56:47+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1556,6 +1700,17 @@
    ]
   },
   {
+   "title": "Nasdaq 100 slides toward bear market as tech sell-off deepens",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80RzlrM0YyOV9FZmVzRWZIRDVKeEo0TERFWWduU1otOTFkR0pJWmRCa19aQWpDSUF5TlZaOFhiSXZHNXl4V2RiZUVoLTBoVU01T1NVanJnRkFUM1Q1cTlCTnpqcHhvQnFOaTgwNDJjb0E?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-20T20:42:22+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
+   ]
+  },
+  {
    "title": "What XRP Did After SpaceX\u2019s IPO and What It Could Do After Anthropic\u2019s",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRm1YVHhHeUhzWkJoLWE0UmFUd3lSYXV6cFZaWEVqVmlPUElqemdfejlPTTU5ZU1DVmRSVzQxM1g1c3Z1Tkt5NW5RWTBpemxoQlRTOUdtbHR3UnlmUFREVm52MndJSVd6UjJHMmRrdUVtWVBsVUpvMlRWcmk4QVVyczhIU1ljZURYS3FsU0F0UVZwcDQ?oc=5",
    "source": "Yahoo Finance",
@@ -1576,6 +1731,17 @@
    "topics": [
     "Stablecoin",
     "RWA"
+   ]
+  },
+  {
+   "title": "Bitcoin Poised For 'Great' 2027 as Fed Eyes Aggressive Rate Cuts, Expert Says",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMjNVYmRVY0tOVlAyc3k5aVlob2M4TGFQUE5sS3d0NDJrXzllTFVPVHNWbmt5SUpoOS0xdUdiS0RPMXBzbnBvQVZhRGszdWFSN0w3ZTlBcVVyVlNEcnM2aGtwQVFid1hLSkVuYkpubTJlMEVrc0RJYzRkc3VRTGhOWVl6UXE3VlFVelV5U2p4ZEhsa3JuNkdPN2o2NmhZdURTMlZVbkRVQXVyNUpLT3pteVAwbjNVTXVkNTFtUVRrdXNBamdQQWliTzV5S3ZQbF9nWUE?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-20T20:30:07+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Bitcoin"
    ]
   },
   {
@@ -1601,6 +1767,29 @@
    ]
   },
   {
+   "title": "Why Is Cipher Digital (NASDAQ:CIFR) Stock Down 15% in US Trading Despite USD 16.6 Billion in Contracts?",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMy1PdTZtVUxrV1l6RnAwTHFDWTV0dHlVVmxzc1FvUWNMNUt4NXZpRnlaY0VzcDI4TExKR205V3d1Z2g0RkdtNXFudzE4OTk5Zk5VNVJtQjlwV2E4M0wzbzBRTmc0TzJfT2xrSnNGNG00VDBJb1Rrb2JfeUM0RTZDT3hBaU1BZk91ZTBfWWtSUWlPSERiRThqNF9YX2l4MTJacGxhdTl2YUVmbXNRazhidGMyM1lZamJadHlZVTNIWlhabzdsckp0R0w4NVJHUVRXNlJLY0g0REoyUW1rMHRfUnh6cw?oc=5",
+   "source": "Kalkine",
+   "type": "news",
+   "published": "2026-11-20T20:26:00+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
+   ]
+  },
+  {
+   "title": "Bitcoin falls below $60,000 as the Nasdaq's AI selloff drags crypto down",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0FobjdnUy1rTDZsSDlvUUJnWDBFeWZ6WDNzZjdSRUk1SmllZTVQVGJha2ZfV3JtbkFJY1JlUlJaLXJ5cmg4b2dQbXdfTlhQbUtkamdTLXJHUDh6NG1tYVQ0TnozRGl2eXp1YmxhSXhsTVpCRVBYUTFkcE1ZMmotSFptX2ZzemZuQS1uR0t4OFZzRGFMRFZpV0xDaTFOQQ?oc=5",
+   "source": "Startup Fortune",
+   "type": "news",
+   "published": "2026-11-20T20:23:02+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Bitcoin",
+    "Nasdaq"
+   ]
+  },
+  {
    "title": "Strategy IR Head Says Anthropic IPO Is a Negative Catalyst for Bitcoin Pullback",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSHBSRmNGbHY0Wno0OUFtUXVMNkh0YWVKY1o5MXpQdHlaRWxxMDJxWHFvN2UxNjREcEpYTUR5anZvdno0am1LNmRWWWxfODlSZGFqWlVtTEFyVlJUT1VTTTB0M0pGbzk4Mjl0RlBFaVJDRkFNWEFGUkhhWnJrQXNMNFNHcC1pN3p6dlRveFJua0xsclJpa3JocllRNnRBRWZsSkZOQ1FvbW5OdGRfTkduUmQtTEVmQ3NGcF9QaTNRN1ZaZ2hDTDhDT2s4WFgxSHV1LWJzbWVOMk9tdw?oc=5",
    "source": "TradingView",
@@ -1613,6 +1802,17 @@
    ]
   },
   {
+   "title": "CleanSpark slides 16% as crypto peers fall (CLSK:NASDAQ)",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXJNcVN5eFBXb2ZvOGR6Z0wxUU5sclpvX2pOZmlKQlFCWWRRa21GeWdWdVBkYmU5UmUxdXBGajlhdHlzWVg4ekpYOUhxZGtUV1hhMjVWcmNlOWYwbEpaZG5fUGJyRFhGM0UyZ0UyUG1KQU9PWlFaTVhKZ2NDTHNKQzVQbHVtdw?oc=5",
+   "source": "Seeking Alpha",
+   "type": "news",
+   "published": "2026-11-20T20:16:05+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
+   ]
+  },
+  {
    "title": "CoreWeave Briefly Trades Below $40 IPO Price Amid Financing Worries",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90aXpVTFNlMGdST0Qybm9IQjhEMFYtSHUxTDFkQlhqampvTm1halZJM0RqMEhaalhnS2FsbGc3YThsZldVYUhiX0tlZ3VpU05OLVp0eUZoWlROaEtxWEh3RTYxckM4UQ?oc=5",
    "source": "BeInCrypto",
@@ -1621,6 +1821,17 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Anthropic"
+   ]
+  },
+  {
+   "title": "Nasdaq slides into its third correction of 2026 as AI stocks stumble",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnS2QxYWVLeWRkX3JfdndybjhwUVFldzkzbm5uSUxyYzlzcGhxU1pRN3hMdEdwdXFCZ1RrSmhQOFp3Mnp1TF9nTGw2SHJCMFI2Q3hnUEpBMl9IV2Y3aFBuSWhuVHNrd1lsS2liVUlnX1VwcGZUS3c?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-20T20:04:06+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
    ]
   },
   {
@@ -1703,6 +1914,17 @@
    ]
   },
   {
+   "title": "MARA Holdings drops 15% as crypto peers move lower (MARA:NASDAQ)",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVljN2tTMko3MEItSXpMaVh3bmNCNV9FN3ExQnpQeFZRdEw2NWN0b0RGdTlUTFBydU9zV29USElmdlBXXzd1TE1wdGtuX0dOYUhFcFJMcEQtQVY4cjE1TnVQWGdZaXh2SkU0N2F2Nks5dWVseXpjNDdia3JvdVZ2di04ZWR5RU9xeXEzMUZzV2N4Y1pCNTJ2WUhQOA?oc=5",
+   "source": "Seeking Alpha",
+   "type": "news",
+   "published": "2026-11-20T19:06:51+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
+   ]
+  },
+  {
    "title": "CryptoUK Asks FCA Not to Treat DeFi Code Work Alone as Regulated",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX2VnRk1CaW00NXVvOGdMQmVtQllFZFFYN21pVlQzX3NPZ2lxREdtUTAwR001V1Q0Y2FzNkxUaUp6WWZOWXBEd18tTm5WNXRqMGVzcjJjYVhMdXJZNTZSeEJKcThfbjNuVjZ5TWl5X0xYZTdhMTBiUzdiaExnUkZwWExYempCVFlOVDJLZTRyRlM0Y1pHdTRYeGJXbw?oc=5",
    "source": "CoinMarketCap",
@@ -1734,17 +1956,6 @@
    "topics": [
     "Bitcoin",
     "Anthropic"
-   ]
-  },
-  {
-   "title": "Stablecoin remittance plan depends on bank backing, industry says",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEtzTmJMRnNXd2NtOGhBVmZfSl9Ua0U2S3pTTDhkZExNbENTbHVEb1NvMEU5SVoyWDdTMTdNTXNSVzVSMl9nVF9CSTQwZTJtOF9kamExLW5OYjBFU1NRQmFaTXNTUV9uaDRYMzczb3YzbDZWY3FqVDltRUs4T2VxUTIzUENDaVNzaVlVVWZDQXh4U3BTWlBiTi05ejdwYTZtYnkw?oc=5",
-   "source": "The News Pakistan",
-   "type": "news",
-   "published": "2026-11-20T19:00:00+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1828,17 +2039,6 @@
    ]
   },
   {
-   "title": "US Senate Passes DEATH BETS Act to Ban Prediction-Market Bets on War, Terrorism, Assassination, Death",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NWEtMU2ZOVXB1Zl94NWpPSFU0QlY0N0tZTkRNd3VyWENnY2RNQXI1YkdfTXBFV2p2QTZQYlY2anM1SWdoNjhfUnl0VVRVemRfeG1ZZg?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-11-20T18:19:53+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Act"
-   ]
-  },
-  {
    "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
    "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
    "source": "The Block",
@@ -1867,6 +2067,28 @@
    "type": "news",
    "published": "2026-11-20T18:13:52+00:00",
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "AI Bubble Cracks: Nasdaq Wipes Out Its Entire 2026 Gain as Chip Stocks Crash",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObXBZS0tELVZDOHFkRlVGS2J0ZUxvZEJsTGtyMUtNQUUzMEZLU3hzWnVXcjUzMUlzZGRmZWNxR2xPdVZyaVE5VjlXNmhodHVzX21JSGZyajRaWHJZZW1CQXlYcGlwVjdVZ2NNVG5DTEVzRmVZdEs0V21xczU1TFQxcXdR?oc=5",
+   "source": "CryptoTicker.io",
+   "type": "news",
+   "published": "2026-11-20T18:02:12+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
+   ]
+  },
+  {
+   "title": "Bitcoin and AI Stocks Plunge as Tech Selloff Deepens",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmdPMGJzSnNYaVZuVjVZNmIydE9ocE54am82UGtSZnM2NENhVE1NM0RWLUVmakcwdUNQYzUyUGN2eE1zQWxkUGNnblJZb1d5T0lvUDBqYUhUTUQyaDN3WHdmc3d2WENuUmRXTmJoaGVWN0ozSUcxazRSS2JPTzFpR20tOXR1Zjl5cVlRUHdlZDNkcVowYjRqdlcwenpwamJPSDk0?oc=5",
+   "source": "Gizmodo",
+   "type": "news",
+   "published": "2026-11-20T17:55:39+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -1994,6 +2216,18 @@
    ]
   },
   {
+   "title": "Bitcoin Crashes to $59,000 as Ethereum, XRP Dump 8%: What Is Going On?",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3ItdEN1Nk9XbkU3WVFpZXhUZXFjM0R0cnJVUWIwU0hKSkF2Sy1ZUmJRSHlhalk0WjdCN3NyWjdUWTk2RFBKQjRwbjVlYzJCZnloOXhYeXFLb08xSWh0YW1FVVdPTUstaGJuSUJVMzhFRXhzWW1pd2dSMlFyanBrNTJuYmthRHJ5YVkwdVV2UjlnZlhyTFFaaFFMN29qQmFMMEstaC1Ma0p4S19SNUFzdVZGRlFCQW9tZzhMeEN3amxMOWtH?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-20T16:43:55+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Tether Burns 4 Billion USDT From Ethereum Treasury",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeThBMmNWbnZCTm5tOFNEM0hkU2doQjgzbzhBRjJycW1GNGlwZWRiUkRPTGxMZ3BCMmxwNVRZQ1RSV1R6SjVSRDZoMGM0emU4MFpsYWd1M2hPT3BURHItQzFUcUhJWDJEb3NGdDFSZEJxVldBZDVpX3dKNEUzTUNxRVZpekJqdjBuTnc?oc=5",
    "source": "The Defiant",
@@ -2015,18 +2249,6 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin falls below $60,000 for first time since July as rate hike bets weigh",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVWpiNW16YWtDSkxicmFIb0w5dW5FVDdfQXlLOGhjVEVSUnlrZEpJUVUxOTBlTWdhZWxhdkNYa0IzS0wzcGxySlZBSzZQV0c2WmZCYzQyclhBdkI2MEpuS3o1X1NObkxFZzg0MXlTeEI1eW9LSWdNMGhndllXT0k4bGM0bUttMkMzV2l1NFYzcWk3Ym9QNWVkQlF4eThQWm1ZSU5TRlpPdC13SlFsY21TVlRGMVpaRGRuYnpibjd5bjZQQW9Kb0dJYXpuWFNHYnZqSFByZDlB0gHbAUFVX3lxTE96N21jaC1xNmpFODBXVkVnR3R0VjlVVGJBbThNUW9NQm5CWXNRVkNSc3BCRlFya1MxbDBjN2pkdG85V1VzNmlvbXh0Yk8tMUJFOThyWmhYUFNsOWZEQmg4RzY4ZXN4QWdJVk54NUhsOFFFa3dMN0UzRnRwTFRIOHhWTU10b1VyUlp4UXduSl9iQWQzTmRnQkVaSDczR3NpQ0FjblA5T2tRbFVWQ0JvWk5HbHFnalY1R2Z5eEphZElVbERmTWtuc2V6VnZneEFzbWVFSXFRZXBDYWlZMA?oc=5",
-   "source": "CNBC TV18",
-   "type": "news",
-   "published": "2026-11-20T16:30:19+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin",
-    "Rate Hike"
    ]
   },
   {
@@ -2095,6 +2317,18 @@
     "Bitcoin",
     "Anthropic",
     "Wall Street"
+   ]
+  },
+  {
+   "title": "Why is Crypto Crashing Today: BTC, ETH and XRP Fall Amid $1 Billion Liquidations",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFItWVBmbldKZ0M4MXBDV1dUQjBWZUM3WFFlVThtbHpELWdyejd4NFJEcWZ2N0xQbjRxeWt3MDJCNFI5N0g0eFhYYmlxUGhrTGtPX0VuT20zcTUxUWdNdHg1Tm5SZUVZdXI0UV9UUVRFOXVobzJZN0NlQTFvWGlUZ2NGTjNfUEE3MWVseG5jYW1lZUxFVWwtZ1dod205aDM2bFVVZjZ1Z19aNklYSGsxT1VUdGkzRUo0OTluRHZ5c2FvVGhmTjd4Ry1QNmZ3Nzg1bnB3?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-20T16:08:04+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
    ]
   },
   {
@@ -2220,18 +2454,6 @@
    "topics": [
     "Stablecoin",
     "Asia"
-   ]
-  },
-  {
-   "title": "Bitcoin Mirrors SpaceX Pre-IPO Dump as Anthropic Debut Drains Liquidity",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0VIeXFiX1RrMkFtOG82X1V6aTFOZEZRRHhEcjJEY2EtQkpNYUxUbW03bGVFNGxydk4yR1Q1NGpNS3N4WXA1YjBCWVNiWWlHdjViWXcyenZESDJ6SU9qUGlENGwyRXYtQTNBUk1zRnl1X0EyRE5wcHJiajZlWmxJUVgwOXgzZ2NqYWRINi1udmwzWExWbU1WbGJVOW1TYzBONDVsWENnZw?oc=5",
-   "source": "The Tech Buzz",
-   "type": "news",
-   "published": "2026-11-20T15:07:05+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin",
-    "Anthropic"
    ]
   },
   {
@@ -2429,6 +2651,19 @@
    ]
   },
   {
+   "title": "One Day of Anthropic on Nasdaq Rivaled a Month of Tokenized Stock Activity",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEkwZjB1QjF0TU5HN3FpdFphNmxjYklfVThycjhRckJ2b24zT2t2MzZGeTBfVEF5QVdMbFNyd1JkMXhzT1V5cFRXZ2l6MndEQzNZdUlGZ0FBeXBTMmpIZTRxWHhIRmsyUFJvMjdobFVCeG1JWE1Ob0ZsYmlkdkJhT0lPUDdiOXNZckp4SzZydTh6bjFsbnJxdThQWUlKWnFZY0l2TmowLVRZbTZGMWc?oc=5",
+   "source": "The Big Whale",
+   "type": "news",
+   "published": "2026-11-20T14:06:08+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "RWA",
+    "Nasdaq",
+    "Anthropic"
+   ]
+  },
+  {
    "title": "Bitcoin Falls to $61,200 as Asia Tech Selloff Deepens Market Losses",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13dXBpeDRQN2w1VS1KUzBfaHdCd0IxYmlmZ05qUDZCSXBMS0hOUmxkQU9zZHhGdlNmSVpyTWhacC1TcmV3cEZDMm9JU1RfN2JreHp2eHZQb3pKUQ?oc=5",
    "source": "www.tokenpost.com",
@@ -2494,6 +2729,7 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Bitcoin",
+    "Nasdaq",
     "Anthropic"
    ]
   },
@@ -2506,6 +2742,17 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Q&A: Modernizing Markets Responsibly: Nasdaq\u2019s View on the SEC\u2019s Innovation Exemption",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUdiWjAwYkJlMDMyOU10QlMyR2ZHMXZrR0FZQ3VGTmxFUnhLaVNuMndQRm5ZZmJZaDMwWXY3VUZIYUVuU1RPSWtrTzBWNW9iYVFJS2xWWkFXRGdVNDdDRHhKUUEyYS05Zkd5WUhRQjE0VGxveGVMVzRPWUFEdFlUenpRVTRGUUl4Z05FT0hpT2JURWoxQXBRWVF5XzF5UzI1dC0wUzJKMA?oc=5",
+   "source": "Nasdaq",
+   "type": "news",
+   "published": "2026-11-20T13:30:00+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Nasdaq"
    ]
   },
   {
@@ -2542,25 +2789,14 @@
    ]
   },
   {
-   "title": "Cardano PFMS Treasury Proposal Approaches November 20 Vote Expiry",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZl9LMi1JRU50ZWNkQ2RPQURNdnpzZVRfZTR6dWM2U1dWRE8yd3o4V21QcWxWUzFOSVB6cmpaVlBNRlRGQWhlazg5NHkwYW9CX3psampRdkNheENFV05saXF1cDk0YjlZUWk1OGxBeHhSLW5KX1lsM1kxWVN3YXgzV25jQ08xd3QxUDhjR1JXWnhKU0FVR0hzLS1ERnNuTHJOQlF4VVhhbk9QS0lYV1J1MzJSZFZrbW5F?oc=5",
-   "source": "Kalkine India",
+   "title": "Why Is Cipher Digital Stock Falling on Friday? - Cipher Digital (NASDAQ:CIFR)",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUdaSW11eE9oVXNBN1JXZGg0ZDhKTm1rR09DeHR0a21HV2haZ1RaYmstVTZoNXk2U2JtRVVDVWVzdERLQTFrakJKeU0zZ3J0WUlWSVYwRGlQSnQ5X2h2bG1mTE1ZRUlha2ZkM1NKRDZHOE9WUU85ZURFS0FKZlpxZzlNNjBWVVp4d0l6b0x1akYwZE90dTEwM2hkTjdtbURHdF9YcnRSREdyS213?oc=5",
+   "source": "Benzinga",
    "type": "news",
-   "published": "2026-11-20T13:15:00+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "published": "2026-11-20T13:15:55+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
-    "Treasury"
-   ]
-  },
-  {
-   "title": "Sygnum Sees Bitcoin Carry Trade Beating T-Bills in 2027",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTVUUTJ2SmFjVkNsSENFMnVGcTdQdVd2NTE2SDJobXJGTVR1Z1cwRTdNMnJNbEdxQ1VCUkVvWkNrT29BTEVrN3dpS3BnZEFkY0NqeEhCYmd5QlVrRnczMjdpNnladG5KUnVONWxSU2FiVzhpSVdpMzJOdTZ0V2h2WnlsU1U4dFVnTVpiRERCWEpycXpPd2lJbHoyY29qdw?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-20T13:12:59+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
+    "Nasdaq"
    ]
   },
   {
@@ -2621,17 +2857,6 @@
    ]
   },
   {
-   "title": "Tether\u2019s SCRYPT Bet: What Stablecoin Payments Mean Now",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2RFWG15RUt6c05ST2F5SldHVDZYcDNtYXF4VXlRZ3JEQ1dUTUlhaVFFa3IzM1gyclhWeWxWbDBCZVdheXRFUU93VFp1MWlPTmt5ZFpFUk9qRDBjekd6ZC0tclBaRnVxV1RQNmpySC1JVDVIWHdwMGkwTldxb3ZYaQ?oc=5",
-   "source": "OneSafe",
-   "type": "news",
-   "published": "2026-11-20T12:45:00+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Swedish Bitcoin Treasury Company H100 Group To Vote On Buyback Plan",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYURhQS04bXRmdnRlellYZGNiZnZUcUhiU1hQazJ4VTc4cldmbzhHUUhSYzFJbS1raVlkcjN1YWlGQmdGM0lkUmhjVUZJRkVFdFFNeGpBZFU2RzhxMWpRWWMtTUpCb01BV01MNzRPbmFJVEwzSFZQbGxGM3hZM3J6VmtGdjZrdWx2bVlNVFliTjFiY1B0RlhwcF83R2FXbjk3c2tJRU42ZjJCaEl1cGNKZEhTNURjQ3M?oc=5",
    "source": "Crowdfund Insider",
@@ -2644,14 +2869,14 @@
    ]
   },
   {
-   "title": "WuBlockchain Weekly: Anthropic Pursues Record-Setting IPO, HK Adds Hyperliquid to Warning List, Solana Foundation Takes CoinGecko Stake, etc",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT19BOVVKTHZtMW0weU9CRko3M01WVE9TblF0ZzdQS0VxYjRMam9ZM0FtSEpaTTZvQVZlSlliVVBfWTRvU2RCS1VwU1FNS3dRM3ZEZFBwYjdRTXhRYnBrY1BQMFRTM3BHeFJjZlpZVW5seS1TSlo4?oc=5",
-   "source": "Substack",
+   "title": "Bitcoin Nears US$61K as BlackRock ETF Suffers Record US$541M Outflow, Fed Warns of Rate Shock",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQkl2VVMyNVRqWkFPbXhDOFZ5RTRoem4wWmI5UHBjZlFyNnl6NDRzMFR3LVNSSWkyTVEzMXJRU3RuTmZyaDVyaVMyLWQ1eHhaR3kyb0hiTTNvR0J1NmJpeFVIQXNNN1BoODU2RmMybHNvZDJVT3pPdlpWZFZIWEx4ZUpINFJBLTV2N1pHT0FaRXh6RmFtVWZsVnZfTWZ4eDM4ejFJTF9ObE12VFI5RjRaZV9yZ19NUkUtRkx4akQ1M0MyMlFJVEc3WA?oc=5",
+   "source": "Crypto News Australia",
    "type": "news",
-   "published": "2026-11-20T12:41:40+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
+   "published": "2026-11-20T12:44:09+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
-    "Anthropic"
+    "Bitcoin"
    ]
   },
   {
@@ -2724,6 +2949,31 @@
    ]
   },
   {
+   "title": "Bitcoin News | Bitcoin Falls to $61,300 After Anthropic\u2019s IPO as Nasdaq Futures Slip Below 200-Day Average",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWQktTWFgwdU9fMEhWc0d6WHRBQnZqeWhOZi1XQkhJMWNyUGJRNlBIa0NPd0o2U1FqYlJBTWk1clZENnNDS2stV2pId1RFMlZZNE0xMVhxTUJtbkI3RXFJbXRUa2M?oc=5",
+   "source": "Binance",
+   "type": "news",
+   "published": "2026-11-20T12:04:13+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Bitcoin",
+    "Nasdaq",
+    "Anthropic"
+   ]
+  },
+  {
+   "title": "Bitcoin Falls on Nasdaq-100 Down Days Amid AI Market Volatility",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEdISWdCeHctR1lkd29ucmV1WFN2b09oWmRVd2dNZ2QyS0tRdlU4WGhiUFNvXzNSTkZZYmw5dkNlVlFXTlI1ejJhOWxHVTlIZ3hzNmVnWU4wVkVac3I0UDBNb1VDbElyV09veDdCaS1SZWpGNTJwbHZ1d0xhOXA5MVdYWi13bGNkOC1Vb2NzVXpISEVuRmxmbUZmYmFPdw?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-20T11:55:23+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
+   "topics": [
+    "Bitcoin",
+    "Nasdaq"
+   ]
+  },
+  {
    "title": "Wall Street Is Moving Onto Ethereum \u2014 Why Isn't ETH Price Moving With It?",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWEhSQm9EcHRYV2JXbWE3MUgtUThsZ0x1SE05cFJWN0dxYTczZzF2Z2F6YmVPOFgxUGhQU0tOaWlUQ1pPQ2FhcWdFeVJtWG1GTVltaDY5c0RROHZwQVk1V0txeEMwTzBNSFdaamtGYkhLTFNuWEk4WC1BRUV6WC1mN2ljeGdkalZDNGFRYWtQNGo?oc=5",
    "source": "CoinMarketCap",
@@ -2780,17 +3030,6 @@
    ]
   },
   {
-   "title": "SK-System Suite (unofficial tool for Crypto Wall Street fans): indicador de stahmann_falk",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQS1ST1Ytam5UTXE5eWV1bUlqNDRKNWd6ZlV0Vk5oYjhJUVZTYmxHZ252NVRqT3dDTVFlcGl1Z2EzUGxjVExJV2REZXk1bTVnSllsQS1EOTlNOEFkREQ5cy1sUVJsZkEzOTRzbjJmV2wwNGNQd3JiVnY3al9IWW5hRmJNaG5OcjFKdHBIb0FwNXJhdHBVWngwazhnanZ4X1dXNGFpdTNR?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-20T11:37:24+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Wall Street"
-   ]
-  },
-  {
    "title": "Fed Rate Hike Fears Deepen as Housing Market Hits Record Low and Stablecoin Regulation Faces Pressure",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3BOV1l5SFAyWndaR1pKdEhxdnJRZDUtSzR6eFNwbzBSZl9mZVpfUTZpRU1RTk43QXFFZTJsMGVnbDNxVC1DVGwzaS1VQTdBM1BXOU5GaDB5WXpicHRxaGJMVUdlY1haVmhHcFNQcnpNVmo5QzgyMXpGTlppeDlxcmdxOGE0dGQ4NWNSaHNTdzE4WGpOdV9tYmtUYTVNellIajJsd2FGUzRnVWpFcjZ0Rk1MV2xyUm1EWUZFUEhPUmp5Sy1v?oc=5",
    "source": "Tekedia",
@@ -2801,125 +3040,75 @@
     "Stablecoin",
     "Rate Hike"
    ]
-  },
-  {
-   "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-   "url": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-20T11:31:41+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Is Sky's $2.7 Billion USDC Reserve at Risk of a Circle Freeze?",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXB2dEtkem1rd3AxSlh0cHg4dEJnU2V4VUJ1U3g5V2VCcW1Ra1gyRFZnS0FiRnBNZTh0U2RpR0E4alRKeHVMcUxUczljTjl4MWdoRGVwYlFsTDZENGRUQl9rdWxpbmdrRzV6MngtY0tqb3NhR1VsZ3VKZ29YY0Mxa3lfdkoxd2g4S0FoUFk5dU4?oc=5",
-   "source": "Altcoin Buzz",
-   "type": "news",
-   "published": "2026-11-20T11:13:14+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
   }
  ],
  "stories": [
   {
-   "title": "Bitcoin Drops Below $60,000 for First Time Since July",
-   "outlets": 6,
+   "title": "Bitcoin Falls to $61,200 as Asia Tech Selloff Deepens Market Losses",
+   "outlets": 7,
    "topics": [
+    "Anthropic",
+    "Asia",
     "Bitcoin",
-    "Rate Hike"
+    "Ethereum",
+    "Nasdaq"
    ],
    "items": [
     {
-     "title": "Bitcoin Falls Below $60,000... Less Than Half Its Record High Last Year",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XSVd2Mi1KbW5uYUpUNkJ4eEpXZm4yQVhaMnRjV2FoVmt0Vkw1ZWt1VzhxZ0NBdGlSckJvZmpmXzFWbTlIR0htQkFSbl9BcWpnaDM3XzhZSU5IRkJkYm80bmVId2Y?oc=5",
-     "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
+     "title": "Bitcoin Falls Below 60000 as Nasdaq Selloff Deepens",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SWldKOE53b2dVeU9YMkUwaUtESmx6a0p2bVA4ZU9rV3A1eWE4NVJVd0lqUUpVSEwtX2ZwOWo3LUl5ZHEtcUdSUk1CWU1HUy03OWxrS3ctekk3ZE05RGoySzFtQ2ctOV9venNqT2pR?oc=5",
+     "source": "Peradaban.id",
      "type": "news",
-     "published": "2026-11-21T01:12:03+00:00"
+     "published": "2026-11-21T10:06:14+00:00"
     },
     {
-     "title": "Bessent Pushes Back on Half-Point Fed Hike as Bitcoin Slips Below $60,000",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfV29rNmJQSHhiQ2RqSEZidDl6M0NZT0FoWERZRjlNaHVnUUw3NlItTVV4aFZCbTA3YnpZTzhuOGZCcDYweVpabUc2bDVTTkdsbGozTWFmTkR4UWc3cXNrcy1wVFhMMWtTWTNmSTVhM2cteGt1dkE?oc=5",
-     "source": "BigGo Finance",
+     "title": "Bitcoin and AI Stocks Plunge as Tech Selloff Deepens",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmdPMGJzSnNYaVZuVjVZNmIydE9ocE54am82UGtSZnM2NENhVE1NM0RWLUVmakcwdUNQYzUyUGN2eE1zQWxkUGNnblJZb1d5T0lvUDBqYUhUTUQyaDN3WHdmc3d2WENuUmRXTmJoaGVWN0ozSUcxazRSS2JPTzFpR20tOXR1Zjl5cVlRUHdlZDNkcVowYjRqdlcwenpwamJPSDk0?oc=5",
+     "source": "Gizmodo",
      "type": "news",
-     "published": "2026-11-20T23:05:00+00:00"
+     "published": "2026-11-20T17:55:39+00:00"
     },
     {
-     "title": "Why are stocks, gold and bitcoin all falling at once? Rate-hike bets and forced selling",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR2JtektVd3lDamk0Q0ktZXBialRlOGZTaHNkbE1vcEIyRjdLVFNyQXRtZlJBT014ckYxSzNjMUhoekhMcjdtNnloVHFjenNLa2U3dUtwTXVVazh4bkhsWFZMQTB1U1ZYRDdOR2FEZ2RGaTdIWmdoNGVOZUdMOVgzMU9HUkttc1FSZ1BxUjAwaEJMYklFb2w0WmtEU3BjN2pSV0kwdHVRVkRkRGFXSTdqVnBRSE5oQi0wU2RzMkotcw?oc=5",
-     "source": "Nacionale",
+     "title": "Bitcoin crashes to $59,000 as Anthropic falls 25% from yesterday\u2019s IPO-day high",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcU96ZUdJOWpPaEJvQTB2VTFZWmx3dVV3YUpkbjVJMTd3cGdWV3YzaDlqdm9LRGU5cXlPcWV4bmk5Uk5aaWJjNVNCeU9aX3M5Y2JwRFFqaHJWMFB4X3ZuUlNoUGYzLVMtb3BySUpySy1mRUhtQm5vWk9TTEJaRlUtMWNRRGZqZHo0amJpdkhwNTgwd20yTzZlSUtnc1ptMkN2VkE?oc=5",
+     "source": "CryptoSlate",
      "type": "news",
-     "published": "2026-11-20T22:41:14+00:00"
+     "published": "2026-11-20T17:15:22+00:00"
     },
     {
-     "title": "Bitcoin falls below $60,000 for first time since July as rate hike bets weigh",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVWpiNW16YWtDSkxicmFIb0w5dW5FVDdfQXlLOGhjVEVSUnlrZEpJUVUxOTBlTWdhZWxhdkNYa0IzS0wzcGxySlZBSzZQV0c2WmZCYzQyclhBdkI2MEpuS3o1X1NObkxFZzg0MXlTeEI1eW9LSWdNMGhndllXT0k4bGM0bUttMkMzV2l1NFYzcWk3Ym9QNWVkQlF4eThQWm1ZSU5TRlpPdC13SlFsY21TVlRGMVpaRGRuYnpibjd5bjZQQW9Kb0dJYXpuWFNHYnZqSFByZDlB0gHbAUFVX3lxTE96N21jaC1xNmpFODBXVkVnR3R0VjlVVGJBbThNUW9NQm5CWXNRVkNSc3BCRlFya1MxbDBjN2pkdG85V1VzNmlvbXh0Yk8tMUJFOThyWmhYUFNsOWZEQmg4RzY4ZXN4QWdJVk54NUhsOFFFa3dMN0UzRnRwTFRIOHhWTU10b1VyUlp4UXduSl9iQWQzTmRnQkVaSDczR3NpQ0FjblA5T2tRbFVWQ0JvWk5HbHFnalY1R2Z5eEphZElVbERmTWtuc2V6VnZneEFzbWVFSXFRZXBDYWlZMA?oc=5",
-     "source": "CNBC TV18",
+     "title": "Bitcoin Crashes to $59,000 as Ethereum, XRP Dump 8%: What Is Going On?",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3ItdEN1Nk9XbkU3WVFpZXhUZXFjM0R0cnJVUWIwU0hKSkF2Sy1ZUmJRSHlhalk0WjdCN3NyWjdUWTk2RFBKQjRwbjVlYzJCZnloOXhYeXFLb08xSWh0YW1FVVdPTUstaGJuSUJVMzhFRXhzWW1pd2dSMlFyanBrNTJuYmthRHJ5YVkwdVV2UjlnZlhyTFFaaFFMN29qQmFMMEstaC1Ma0p4S19SNUFzdVZGRlFCQW9tZzhMeEN3amxMOWtH?oc=5",
+     "source": "Benzinga",
      "type": "news",
-     "published": "2026-11-20T16:30:19+00:00"
+     "published": "2026-11-20T16:43:55+00:00"
     },
     {
-     "title": "Bitcoin falls below $60,000 level",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEJfUmdFQ0ZvVC1TbUh4dXZxdzlrTVZYenFybjM0RnpESDZ2aFRsMmRsWHpjbEF4cjlCWWJtQnZiWXhINVZhUng3YW9ILWZXejhNY3BJelJKRWw1TDRzaDRtdU92ZlhRUXRMdVpzYXlWaUQ3MUx2aWtEU2VaVlhLOHlqV2Q?oc=5",
-     "source": "Reuters",
+     "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
+     "source": "Bitcoin Magazine",
      "type": "news",
-     "published": "2026-11-20T16:26:27+00:00"
+     "published": "2026-11-20T15:59:50+00:00"
     },
     {
-     "title": "Bitcoin Drops Below $60,000 for First Time Since July",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWEl5cWhfZno1Sm1wSTQxcEhDZURsNkRnWWJwc2xla3JGdFpQYm5oN0lleDh1M293YXNjTW9qampIT3dJd2dEaUJSc1E0XzA1WUtNcU1mZlJPTjFzMUtORHY0RjZsSUtSUTJ6RVJVMXVxTzhuMVRFQkFFZl8wUUdPbnpsYjlEbVlUelNMeC04VDV1dTJpaHc?oc=5",
-     "source": "Yahoo Finance",
+     "title": "Bitcoin price slips near $61,500 amid tech sell...",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanlCdmVSUlFFYWZjelA0LUNscGpMOGpRaWU2cWVzMkV3UUw3YVRWUmxpcXB0QjBRbjFYQnBabzVacGtmYy1vUkR2UVVXOWExaEtHaUpMMWMxU3lDWS1nbVl0WjNQcU0tcXlXOTBUanRRdll3YUp5ODhBU1c0aEVrTE9uM2dZcGNJcWc?oc=5",
+     "source": "Pluang",
      "type": "news",
-     "published": "2026-11-20T15:45:37+00:00"
-    }
-   ]
-  },
-  {
-   "title": "US Senate Passes DEATH BETS Act to Ban Prediction-Market Bets on War, Terrorism, Assassination, Death",
-   "outlets": 5,
-   "topics": [
-    "Act",
-    "Bitcoin"
-   ],
-   "items": [
-    {
-     "title": "Bitcoin slides below $56K, Senate passes DEATH BETS Act, SEC alleges $560M fraud | Weekly recap",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tOWRjSGpQTDYteUp4cFVkNW1KQ2RGejdFY1F6MGJocVpMSllja3hQc2M1YXFkUnJYbFgyT2U4TC1GT000d2ZRU1R1QTBFbVhOVEJJd3NqZEhSTktsUVZQdGFVUE5yVVlfMFBNb1RGeFJpeGdZc0xOTVRn?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-21T06:56:00+00:00"
+     "published": "2026-11-20T14:28:35+00:00"
     },
     {
-     "title": "JPMorgan says bitcoin\u2019s price drop pressures miners, Senate passes \u2018Death Bets Act\u2019, and more",
-     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-     "source": "The Block",
+     "title": "Bitcoin Falls to $61,200 as Asia Tech Selloff Deepens Market Losses",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13dXBpeDRQN2w1VS1KUzBfaHdCd0IxYmlmZ05qUDZCSXBMS0hOUmxkQU9zZHhGdlNmSVpyTWhacC1TcmV3cEZDMm9JU1RfN2JreHp2eHZQb3pKUQ?oc=5",
+     "source": "www.tokenpost.com",
      "type": "news",
-     "published": "2026-11-21T04:30:00+00:00"
+     "published": "2026-11-20T14:02:12+00:00"
     },
     {
-     "title": "US Senate Passes DEATH BETS Act to Ban Prediction-Market Bets on War, Terrorism, Assassination, Death",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NWEtMU2ZOVXB1Zl94NWpPSFU0QlY0N0tZTkRNd3VyWENnY2RNQXI1YkdfTXBFV2p2QTZQYlY2anM1SWdoNjhfUnl0VVRVemRfeG1ZZg?oc=5",
-     "source": "bloomingbit",
+     "title": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
+     "source": "Bitcoin Magazine",
      "type": "news",
-     "published": "2026-11-20T18:19:53+00:00"
-    },
-    {
-     "title": "U.S. Senate Passes DEATH BETS Act, Sending War, Terror, Assassination, Death Ban to House: 12 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUVB5dVVBRWVwbnZianJobWlqaGhaN1lYZmMySGdVTTJoR0JHbW9tQmRmckxidHlrcjBsRFFwLXhveWRrVjlxZVNvNUpXQkRNQnRlSlFwUXplZk43UVJjRzlpM2c3TjNiM0Nwdy15Z1Q3YXE4QVU1dGF3N2dDZk5yVEdWdi1RQXIyMVJ5bm14MElJRHF3RlJncW5rcjFtT0RURE81cDl6Qk1SUkRTeEpmVDBhTDVITlJkc1R0MVUzanc2R04zc0JvdlRVVXhyWkwtV2hpSEVlSkJPYmhUTFk1MkpWNGUtRTdUSnc?oc=5",
-     "source": "NewsCord",
-     "type": "news",
-     "published": "2026-11-20T17:22:03+00:00"
-    },
-    {
-     "title": "Schiff's DEATH BETS Act Clears Senate, Would Bar War, Assassination and Death Contracts",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3hsY2tKeGlOdm9qc2tEMmZiTWpvOG8tWmRCMDJZVFBhYnhaOUUyc1JaZHR5R0gxNVFjSEE0enlxVlRTcVU5ejRoN0tnNzk5YVpuYnBOMC1CNGpTcmRmcHYtYU4wTUJiZWpzWlRFZFlVVW1PakZYSEk4YmJvMlY4SnlHNWJLZ2JIVjIzVDJfTjhCRy0tVDE5V0MtNTM5UUNIN1NRYVBxUElHSFQxZHpsN2lkTQ?oc=5",
-     "source": "unchainedcrypto.com",
-     "type": "news",
-     "published": "2026-11-20T15:00:00+00:00"
+     "published": "2026-11-20T14:00:15+00:00"
     }
    ]
   },
@@ -2969,48 +3158,70 @@
    ]
   },
   {
-   "title": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
+   "title": "Bitcoin Drops Below $60,000 for First Time Since July",
    "outlets": 4,
    "topics": [
-    "Anthropic",
-    "Asia",
-    "Bitcoin"
+    "Bitcoin",
+    "Nasdaq"
    ],
    "items": [
     {
-     "title": "Bitcoin crashes to $59,000 as Anthropic falls 25% from yesterday\u2019s IPO-day high",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcU96ZUdJOWpPaEJvQTB2VTFZWmx3dVV3YUpkbjVJMTd3cGdWV3YzaDlqdm9LRGU5cXlPcWV4bmk5Uk5aaWJjNVNCeU9aX3M5Y2JwRFFqaHJWMFB4X3ZuUlNoUGYzLVMtb3BySUpySy1mRUhtQm5vWk9TTEJaRlUtMWNRRGZqZHo0amJpdkhwNTgwd20yTzZlSUtnc1ptMkN2VkE?oc=5",
+     "title": "Bitcoin falls below $60,000 as the Nasdaq's AI selloff drags crypto down",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0FobjdnUy1rTDZsSDlvUUJnWDBFeWZ6WDNzZjdSRUk1SmllZTVQVGJha2ZfV3JtbkFJY1JlUlJaLXJ5cmg4b2dQbXdfTlhQbUtkamdTLXJHUDh6NG1tYVQ0TnozRGl2eXp1YmxhSXhsTVpCRVBYUTFkcE1ZMmotSFptX2ZzemZuQS1uR0t4OFZzRGFMRFZpV0xDaTFOQQ?oc=5",
+     "source": "Startup Fortune",
+     "type": "news",
+     "published": "2026-11-20T20:23:02+00:00"
+    },
+    {
+     "title": "Bitcoin falls below $60,000 level",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEJfUmdFQ0ZvVC1TbUh4dXZxdzlrTVZYenFybjM0RnpESDZ2aFRsMmRsWHpjbEF4cjlCWWJtQnZiWXhINVZhUng3YW9ILWZXejhNY3BJelJKRWw1TDRzaDRtdU92ZlhRUXRMdVpzYXlWaUQ3MUx2aWtEU2VaVlhLOHlqV2Q?oc=5",
+     "source": "Reuters",
+     "type": "news",
+     "published": "2026-11-20T16:26:27+00:00"
+    },
+    {
+     "title": "Bitcoin News | Bitcoin Falls Below $60,000 for the First Time Since July as IBIT Posts Record $541 Million Outflow",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iZFZNeGpLYThzVnVoTF9RLXBlcDNNNDJKM2dCUlVLSl9Galp2NlpjYm5UYno2Y1JKdXA0UlZGeXhSaXVteVpETHRXYWxPeXB4cHVVX1ZrMy0yQVlnZ2xVT0E3QWY?oc=5",
+     "source": "Binance",
+     "type": "news",
+     "published": "2026-11-20T16:25:49+00:00"
+    },
+    {
+     "title": "Bitcoin Drops Below $60,000 for First Time Since July",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWEl5cWhfZno1Sm1wSTQxcEhDZURsNkRnWWJwc2xla3JGdFpQYm5oN0lleDh1M293YXNjTW9qampIT3dJd2dEaUJSc1E0XzA1WUtNcU1mZlJPTjFzMUtORHY0RjZsSUtSUTJ6RVJVMXVxTzhuMVRFQkFFZl8wUUdPbnpsYjlEbVlUelNMeC04VDV1dTJpaHc?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-20T15:45:37+00:00"
+    }
+   ]
+  },
+  {
+   "title": "DBS, Circle Add 24/7 USDC Redemption for Asian Institutions",
+   "outlets": 3,
+   "topics": [
+    "Stablecoin"
+   ],
+   "items": [
+    {
+     "title": "DBS, Circle Add 24/7 USDC Redemption for Asian Institutions",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pZFBxY29PUW5qRjdvVjBqaW9rUXA1TThzY0F3TWRvTnpUdll5cF9RMEJGcTJraGtIb0w1X253TF9MVlhWY3VxSUVEWU9kam5xT3JWSE1obnJDLXlNa3hwQWlqaGJpaVdTQUxBYjJvTUZjSTRkclhMUA?oc=5",
+     "source": "CryptoRank",
+     "type": "news",
+     "published": "2026-11-21T09:20:12+00:00"
+    },
+    {
+     "title": "DBS is building two paths for 24/7 dollars with JPMorgan and Circle using USDC",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYW96d095WU9GM3BHRGt6Ym9lb2s2emwtYk9GWlNHeFVSTmlaWXdsVmNram83QVJxMFZlSlZLaHlvNjJCbnlSRHFhMDEwd2NhZW94amRKUGxfeUlYajhpV1Q5Y0ZSQWM4TWtxbllCUFRqSUE0ajhXWUJGQ1BXZWN2X01vRUhUZll2YTVVRWROeXlXZ1RjNWtDQTdQalptRnZ0ZHhmek93?oc=5",
      "source": "CryptoSlate",
      "type": "news",
-     "published": "2026-11-20T17:15:22+00:00"
+     "published": "2026-11-21T00:50:00+00:00"
     },
     {
-     "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
-     "source": "Bitcoin Magazine",
+     "title": "DBS Partners With Circle to Enable Direct USDC Minting and Redemption for Institutions: 5 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUdPR3FFeVgxT3BvODQtdG5mR1daNndaTW9IcHRfZnhhUkZyZi00TTBxaGEyN2ctRWt3SnIyUmFpUjd4U0EyUnJaRHpqcTZpSWdjQmhWaE94TE9WMXZ5UmJ0cWdrVHc1UGlkaHRENXFqQWtCR0lqWVZqb1JyLVM1cDRfaC1heEUtZVRBUFNWc0Y1NEtTNl9hd3Z3aHpFdTBtYVZJWlFtTGdKd3QtRzk0UHB6NzBQTjUtSC1fVXUzTVdFNVdSR0c4cmdtbUdSZjdSblI3Zkd4eXJVRFhmakZEWC1CZHRXdzRlb1E?oc=5",
+     "source": "NewsCord",
      "type": "news",
-     "published": "2026-11-20T15:59:50+00:00"
-    },
-    {
-     "title": "Bitcoin price slips near $61,500 amid tech sell...",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanlCdmVSUlFFYWZjelA0LUNscGpMOGpRaWU2cWVzMkV3UUw3YVRWUmxpcXB0QjBRbjFYQnBabzVacGtmYy1vUkR2UVVXOWExaEtHaUpMMWMxU3lDWS1nbVl0WjNQcU0tcXlXOTBUanRRdll3YUp5ODhBU1c0aEVrTE9uM2dZcGNJcWc?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-20T14:28:35+00:00"
-    },
-    {
-     "title": "Bitcoin Falls to $61,200 as Asia Tech Selloff Deepens Market Losses",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13dXBpeDRQN2w1VS1KUzBfaHdCd0IxYmlmZ05qUDZCSXBMS0hOUmxkQU9zZHhGdlNmSVpyTWhacC1TcmV3cEZDMm9JU1RfN2JreHp2eHZQb3pKUQ?oc=5",
-     "source": "www.tokenpost.com",
-     "type": "news",
-     "published": "2026-11-20T14:02:12+00:00"
-    },
-    {
-     "title": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-11-20T14:00:15+00:00"
+     "published": "2026-11-20T17:29:58+00:00"
     }
    ]
   },
@@ -3047,25 +3258,40 @@
   }
  ],
  "events": [],
- "headlines_served": 15226,
+ "headlines_served": 15272,
  "trend_candidates": [
+  {
+   "key": "nasdaq",
+   "term": "Nasdaq",
+   "count": 5,
+   "sources": [
+    "Bitcoin Magazine",
+    "CoinDesk",
+    "MarketBeat",
+    "MarketWatch",
+    "The Block"
+   ],
+   "baseline": 0.24,
+   "ratio": 4.04
+  },
   {
    "key": "anthropic",
    "term": "Anthropic",
-   "count": 10,
+   "count": 11,
    "sources": [
     "CNBC",
     "CoinDesk",
     "Cointelegraph",
     "Decrypt",
     "MarketWatch",
-    "The Block"
+    "The Block",
+    "TradingView"
    ],
-   "baseline": 2.85,
-   "ratio": 2.6
+   "baseline": 3.27,
+   "ratio": 2.57
   }
  ],
- "baseline_days": 8,
+ "baseline_days": 7,
  "sources": {
   "CoinDesk": "ok",
   "Cointelegraph": "ok",
