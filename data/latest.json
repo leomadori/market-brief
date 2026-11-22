@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:07:47.899215+00:00",
+ "generated_at": "2026-11-22T12:01:29.766061+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 27
+   "item_count": 5
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 19
+   "item_count": 11
   },
   {
    "name": "Ethereum",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 91
+   "item_count": 70
   },
   {
    "name": "DEFI",
@@ -71,7 +71,7 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 11
+   "item_count": 10
   },
   {
    "name": "Chainflip",
@@ -80,9 +80,9 @@
     "Chainflip"
    ],
    "first_seen": "2026-11-22",
-   "count": 6,
-   "ratio": 4.57,
-   "item_count": 24
+   "count": 7,
+   "ratio": 5.42,
+   "item_count": 23
   },
   {
    "name": "$60K",
@@ -104,7 +104,7 @@
    "first_seen": "2026-11-21",
    "count": 5,
    "ratio": 4.06,
-   "item_count": 13
+   "item_count": 12
   },
   {
    "name": "Anthropic",
@@ -115,7 +115,7 @@
    "first_seen": "2026-11-19",
    "count": 11,
    "ratio": 2.61,
-   "item_count": 25
+   "item_count": 21
   },
   {
    "name": "Act",
@@ -126,7 +126,7 @@
    "first_seen": "2026-11-19",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 8
+   "item_count": 1
   },
   {
    "name": "Rate Hike",
@@ -148,7 +148,7 @@
    "first_seen": "2026-11-18",
    "count": 6,
    "ratio": 3.14,
-   "item_count": 4
+   "item_count": 0
   },
   {
    "name": "Wall Street",
@@ -159,10 +159,376 @@
    "first_seen": "2026-11-19",
    "count": 5,
    "ratio": 2.81,
-   "item_count": 9
+   "item_count": 3
   }
  ],
  "items": [
+  {
+   "title": "Chainflip offers hacker $1.2M bounty after $12M crypto theft",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NbW5MMTRuWTBWMzlvMnVYejZrNnc5bWx6MlR4YVVJT3hrUjN2d2R5TFhxd3dWbFp1Q0F5S0VWVTBPV3pJVll4WTlKM1R2N25mWnhIcjN6ZzA0RUxnbG1hNmp1a3NWVFBqS05IRG9IR0lzOU9j?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-22T11:54:43+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Chainflip"
+   ]
+  },
+  {
+   "title": "Dow, S&P 500 and Nasdaq hit record highs in 2026 before AI-fueled selloff",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55UzRFTTlNQ2ZaRWhlcUVjanFLWWFnTkZhSGZ4b19UX29MdHBRNUIwcjZEMm9jYVNCYmtvaXVJX3p2X0xVUmpnNGJzLVJxc3VOZlVCSmpiRFkwS0lfbVo4a0gxNXZRbFl5dHo3NEJR?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-22T11:42:17+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Nasdaq"
+   ]
+  },
+  {
+   "title": "Chainflip swap protocol hacked, losing $12M in crypto; protocol in Safe Mode, attacker offered 10% bounty for return.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN1ZjUzlQWDhZd0JHOWFSZTRMbzB5QXZuVDVKVDhBbEdDSnJROHZsWDExSUtiSHFFSmFHU1JIUEVNOFR5ZkVISF9iWjNGNHdUMzhreHFkNzBSUEV3MElUcjBTdkhtUjdVWERJX1UxVkt3WFdodjFUbHlpQnJoTkhRMGlDYjJMeXZDUWwyTE4wTU1MVUM2TFA1dHBZUUYyUQ?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-22T11:37:30+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Chainflip"
+   ]
+  },
+  {
+   "title": "3 Events That Could Shake Bitcoin Prices During Thanksgiving Week",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1laHB5X2xmTVVVWEtlLTh1MHZEY0dKRXpCVFVpeWJaS1VBb3NrbXhEdm5DSWhtdFZ2NmdMMzFTamtlMHRRc3JvUU9XN2RJeUppdFI0NVZ5WnRGdl9FRmkxS0xQMWVCb2hPMGdHTFN4eG0xd1lER0E?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-22T11:23:26+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Tracy Schuchart: Bitcoin Trading \u201cLike A Risk Asset\u201d As Fed Hikes Loom",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2x2RlpKUmtoX2xCYzlkck5iLWZ0X0w3bWJNeXU1b1RQTmF6TWsxbUFyc1RNLUVlUG1KY3FRZ3RWOXBJYWxyRk13d2h3WUdxVWdVdWlpdFMyR3k1cElOZXhES20yNzZyX1Z4ZnlMZXNVSVBNZS1ZUlNnZ3RaS2VSdDFSRERMZmNONXpmazB3ZEt2U0NCcWdfMmlSNEhtaVVrOG9jRQ?oc=5",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-22T11:18:10+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Anthropic\u2019s record IPO paid bankers well, but some left frustrated by its SpaceX-style terms",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IbHVPZF9WQlFPeExCTUk2MjI5eVVOcWVQQnhUSlA2Nm9yM0Q0eHRxdXViSXhYV0pNSnhXQ0V5a3VxR09QT21mWmhyNUZnMWxJUy1yVV9OWUZJRjJYbVd0SEtCWllTN0ZPd2ttMXNsckYtRG8?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-22T11:14:28+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Anthropic"
+   ]
+  },
+  {
+   "title": "Bitcoin crashes to two-year low, losing more than half its value since October peak",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZMUtmZmVXa2dya195bFpnelV1NDJzR0h4amtQYWVGQ0xwT0Ytbko3SENnbDRVMnBmN25LbWFBT3JuWmhVUTBLOGloZGdQVExUNW1iYXVOMUJLX2FjdDZwZ3pn?oc=5",
+   "source": "Ynetnews",
+   "type": "news",
+   "published": "2026-11-22T11:05:16+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Only 5% of Cryptocurrencies Are Rising as Fed Rate Hike Fears Grow",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWVE2LTdiaGMwZHNITXp4aDNUZ21wQlJfM3RuM3dxNGxmNURNWWFDaV9STUJLaEJtS010ZHV1bFBDUXFoMERvMDA2R1NXYjVudzJqcE9jU3NqMWYtMEVjRjJCNldwTHpXR3BDZEdsZmROaTUxY3RRNFVxNA?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-22T10:40:43+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Rate Hike"
+   ]
+  },
+  {
+   "title": "Kraken Bitcoin Price Glitch Sends BTC/CAD to $17K, Down 71%",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTZXRjMwMlpzalZ2amtobUE1YjRMSS10UmxuN1ExX3EtNDNSeklyWG5mcEpqaUdub2xyUkRWYXVpYlpqYWktWm8tRjZKZVFJMGtkdG5xblJDUzJjdHM0UUZLN3RlSnJJaUZTTEJWeUpINW1tZXpyYlAwUm45Rlhzc0NfbXlfb3FVcW9fQ1MwRmdYTjlMc0xtclBpRy1VbzJtVUE?oc=5",
+   "source": "Bitcoin Foundation",
+   "type": "news",
+   "published": "2026-11-22T10:37:35+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Glamsterdam Highlights The Limits Of Ethereum's Upgrade Timeline",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORUlFLURlcEtLNWloYjZNWDc1N2VhRVd1RkFpcUZfMmJPU1YzZFVCTXU4eExtZWhkYnVwUkZoUXV5R3p3U3NzVlpLUGZuaFNTeDdsbUdXcW04dVRvTWxXaXMzTHd3NnlldWhRT1ROY1VmVU1LOHU1d0xLZ0lFSGgzUlhrMWR5MEhDSk9qWWdwbWpKcHIwUVdxaXhKOA?oc=5",
+   "source": "Cointribune",
+   "type": "news",
+   "published": "2026-11-22T10:35:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Scaramucci Sees Nov. 25 Bitcoin Bottom as ETF Outflows Top $3.4 Billion",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNF83NS1MczZrelZTVVhTOHFMQjBxNE9rdlZ6NktNWFFmMlQ3UTl0SUNPVFpMVHBpNjVHMk5WQ2JpZzMwa2pod1JhUzBVMzhaS3F1bHJQVGFjY0tobXZucndDLXB5X2pUY005MEZaUTZuLUdocHc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-22T10:25:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSW95RU1ocmFiUlQ1MU5jV1QyVkhhMElfelpiUGh0SERzXzFhLVpuZWFVOUQzZXlEeUFlZ2RBSHBiUk1NY1FvMDFJdTRINW1xNkVmdmN1TTNNVUpqbUhicjZycWs2T0owTHVCRzlfNHluR1NmMzdmNlRISF9vaXM4SW5IWi0yN3lJRUdmUmxOckhGUHB3VWVKYlJzci0zbUFOZFdqakp4YjN0UGd2cEVHaDEzTkV4ZmRYRWpOUC1uUFRnQ2JLTUFNQzc5ZFlJcnU1S0R2MWozZ2RlZldRMXhyT0JydURDaWtZM3FrbE5wZmdNMkNxdDVtSQ?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-22T09:49:52+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Kraken upholds trades after Bitcoin briefly drops to $17K on its CAD markets",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU1VHc2gwbjR4WGQyd191NUVPSm9oUG5feExPU0NpNkhxYWpCSGsxNEpGeThzalNNTHJPd0oza0V5RVdTMVY0UUUweGRqNUpBZjdjMUJMS0xsR0NuX3A4cFBzN1dxSlpPajI2VUhtUnd4ZUlya2ZJWGVBZW4tOTdCSGNXSXFGWG5tOEYySmZxNkpqX25xTmt6aEs1NjNoTU84X01VbU8zUGdieXZHMU1Kdm9sajlwcjRmOFV2QXVPelVRdTZYMTFURHNsMlVCTzh3NFZpa0JoVQ?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-22T09:46:29+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Anthropic Tokenized bStocks price today, ANTB to USD live price, marketcap and chart",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JQXRGY2N6Z2NBQ3Y4RUNJYlN1YVJBVUVJTGRLWFFlS2pXM2hhd050a0YtRGNvN0MwbEZtSlA5ZGx6NEJjbi1HZS1IM1FKY3E1VmRUaE5xTEFEeXItYWRRRnowcDlBb1dfcThhbHJWNVJsMWs?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-22T09:36:07+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "RWA",
+    "Anthropic"
+   ]
+  },
+  {
+   "title": "Kaspa Stablecoin kUSDT Debuts With a 5 USDT Redemption Toll on Ethereum",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rV2JQTU9mN0VTR3RUa1ZITnhzbmdxcGNRa0RBSkk4dUh1STlrUDlxcEN6aFFvRnlfSGpxa0VTMnVjOXhlV005ZmxoNm51NFlNNkRoaXVlSExNbmtnSURCMW5GdXZZT19KUXA5NUdpaXRZSUlhWmc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-22T09:35:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Record $950 Billion of Bitcoin Capital Sits Below Cost Basis as Price Slumps Near $58,000",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BMTZOY0pNSHZwaUFaLVJVOGRZWi1rWEtia0hCcHg3QWZOWmFqT2k5eWlBcTRySDBoLXJjTkVjQzJxbmFKZlEtUUhiZmFuWFpjeHFvYXlOS19XX1c4QWQ1NzA3V3BYMEhIMURZUGVKaHVaZ2FKZHc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-22T09:35:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+   "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-22T09:33:06+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin shorts collapsed 79% in five weeks, then the market turned lower",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS19fb3ZZTnRJMVpYa3d5MGY4aC1CSks4YndMUE1obzdneTFpcE5yNkhoVlc4dGszNXd0MkI5LUpuaVlFYzFPa0JRUkVoeXIydWNnWDNaX1VHbGNtLTBDa2dPTnFTOVpncEdCOUR2Sm1KcktzelhPZVhZQzV5a1hnamtBTzRUQ1RFQmhhNnVZakVTMFBvMHhqWnR3MA?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-11-22T09:30:45+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Ethereum Down More Than 40% Year-to-Date, Yet Staking Balance Hits Record 44.65 Million ETH",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43T3R5aEVobmFfSHdERXc4MlFSY3Z4OElrWng4bmZRTUllTTk2TW9RcUI1QVZTWFBVMy1ENW5fdlFRelZHUHd6czZ3OS1mU0VWdFRydzRjSEMtSGZ5MUJpRmZJcGJaTF9kcDVJNTh6UzFmOTliWHc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-22T09:25:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "Schiff Pitches Solana as a Bitcoin Stand-In. The Data Shows a Costly Trade-Off",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zcmVKOTBDRXhBdTV3dC1ONmRLQkFaZG1zQzZ5X1gyM3JCLWdXTGdkTkZsQnJtU3k3TXgtZUJocVA3SGJkZG16Tmh1SFo2MENRaVhHYnZuZ3dfbENWQW54enNwcjE3SmtvOTUzTjhBQWVqU0pjRUE?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-22T09:25:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin consolidates near recent lows as hawkish Fed repricing weighs on the crypto market",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkU2c09kN252eGYyd0gxRkNsOGtGS1pXRlVPa2VFX284eGhDN1BSY1dmd0ZWZ3dTOWNkbk40OExRcjlFVXhRdUw2aWpGUURFeUVfeW9uc3A4VlVxcXZHeDJJcTNtYTlhSGZlOHNIVC1ySXVZd2dPNlFBNzFjdzM3TTFJYWZrZDZOenBIRlZTdVJGeHZrRUp6cnZyUU4wZk9hb2Jpakl5ZzctaWJMMkNjTUJWRUp0T2djZjZmRnJZSUZhdVNRbHZXeW1OVlU?oc=5",
+   "source": "investingLive",
+   "type": "news",
+   "published": "2026-11-22T09:18:12+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin rebounds above $60K after weekend dip; Pi Network and other cryptos also recover amid market turbulence.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzJaRkhFQVZrTXYydnU5bmg0ellZYlVDM21sZURsVTFvREd4aVVEN2kwQzg0QTBfOVNyMXlzYXJSQ09QZUE5VHJhcTRacVB4YWtCRWxuYWsyT3hRZDI4cE14SFE3VmR6bm9wbW5WaG51aWR6VzgzeWR0N0gxZmp4d3QyWjZ6WVY2UUdUSjZWNnZkME1aMWJQbU90cXdsR2cwTl9jUThOaF8?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-22T09:17:49+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Cipher Mining (NASDAQ:CIFR) Keeps Favorable Coverage. What's Next?",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGMzR1JXV1lxMHNWSUVPYm9mUldZNDVOaXhWa19yUUlHMDVtVkVCektmUDNUdDh5YUlrU3lrTURFSjlvM2dSZkluNHF1anBWNloya1JabFBFbENoeWI3LWJITlZ0YkQxYTc5YXFYRDB0LTNNb0VwOVBxOWhaSm9HeVNGQVludjloUDFGYTFjV3o4dzRHTngyLXJRb0RwbzVCRjh5dmVGM3c?oc=5",
+   "source": "Kalkine Media",
+   "type": "news",
+   "published": "2026-11-22T09:16:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Nasdaq"
+   ]
+  },
+  {
+   "title": "Tesla (Coinbase Tokenized Stocks) Price: TSLAC/USD Live Price Chart, Market Cap & News Today",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CbXVCS0UwT2c5Q3FHQ1o4R1RPMkZFYjlxeW0xWTRfUTgxVVV1eVY0bHUzNzM3ZUNScnNGX2FWbmliTURPYU1qTUJfLVVvc1lyNjhVUFV5dFlaYUVyODI5VktWLWVvX1QzTXhKS0FERG5UZUtx?oc=5",
+   "source": "CoinGecko",
+   "type": "news",
+   "published": "2026-11-22T08:45:25+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%: Market watch",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SXltejJLRGVoeExpQUFieUUzX1hDQlVhdDNZQlNjVHFkWi1wWF9yYUhjY0pwZXk2SDdvSEJVeTltWC1ENTU1QjlqZ0Y0OXAxSkV4Tlo3bldYX1hnMFdPQUdiWnBIRnltUC1xSlZjamdZeEY4?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-22T08:39:51+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Crypto Market Remains Under Pressure Though Bitcoin, Ethereum Rebound",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1NQcVJ2ZkZfNGhyTkVMZnJOb3lBZDREZk4xY1N1ZGx3R0g2aENIVV9BMjY0VVBMTzJKM01aWVlnUlNiTTBQaTRCT3RmX3FVS0ZrSUNVQmwwWmIwdDBzZjFYQUU5OUFqWmc2ZnpVeEI3MXBya05pbklLZW44V1d4ZEhUeElxcGk2dFNBaGRyV1hDOWpBQWdJek1zZ0d2bU9fMEJqd1dIa2kzNFpNTG5RMXF3?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-11-22T08:39:38+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin price rebounds from $55K after historic sell-off, is $72K next?",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rZzVTU2xaTWZXcE5LOFI0RlBsZk84N0F5ekdWY0lONHljSWROaEVCS3BsYUd6QmlZR2RpSzBtZ2JSVVFKSVhydVBEd3lQSVVVekd5MGdPVmMwVU5PenJBcm1KZWtmT1M5Y1Z1cDkxaFdqREk?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-22T08:01:17+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Reclaims $60,000 After 9% Bounce From Two-Year Low",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY25qNzBjVkZVVER3RXNwamxUVlViVms0UzVMc0hFdVUydk9RMVl1X2NxSXhDN1c4Ym1ld2p6bUdzTzRhd3VBOXJPX0UydUlBUEpubWpPZ1o0YTBPeGhmLVdIY296XzFKcE5uWXRwaUdNdUM2V1FVdkpvR1lnNmhVLXhJSklOZXZsLXZn0gGLAUFVX3lxTE5jbmo3MGNWRlVURHdFc3BqbFRWVWJWazRTNUxzSEV1VTJ2T1ExWXVfY3FJeEM3VzhibWV3anptR3NPNGF3dUE5ck9fRTJ1SUFQSm5tak9nWjRhME94aGYtV0hjb3pfMUpwTm5ZdHBpR011QzZXUVV2Sm9HWWc2aFUteElKSU5ldmwtdmc?oc=5",
+   "source": "Bitcoinist.com",
+   "type": "news",
+   "published": "2026-11-22T07:56:46+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Chainflip Offers Hacker 10% Bounty for Return of Stolen $12M",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanAyWUpGNmRDSFpMTEVXVUpkUktDYTRhTmxXaE1ZMGE1dm9fUnBRTFpGWGwwNGgyNWExN1RraUFxUGE3a2phS0h5bWViVXRMY1Q2RDlfbDZvckI4OEJESkp0bGtYRU42QkstSV9aV0JSM2ZfYVV4ZHJJal9PcFNwcUc0d0YwUHVFRHc?oc=5",
+   "source": "ForkLog",
+   "type": "news",
+   "published": "2026-11-22T07:41:40+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Chainflip"
+   ]
+  },
+  {
+   "title": "Pi Network\u2019s PI Rebounds After New ATL, BTC Recovery Stopped at $60K: Weekend Watch",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY245Qk5ZZEVERmZJLXhQbTFhQzduMlc3amJIdmlwdzVwLWVVZWZLSkpvamVSUjBiYTJOcDVFbFJKN3NGXzQ3NnNwaExINEdwZHdWb20zbkJmWXh5LTBPdlFoY01yOWxuZG4yREY1dDgzcmkxd3ByY216MWQ2TkdMYlpoREJwLU83VHdkMzVwZlQzT3ljZlZYZDh1dUJ4Z2ItNGJWZUt5Z3k?oc=5",
+   "source": "CryptoPotato",
+   "type": "news",
+   "published": "2026-11-22T07:40:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Binance Bitcoin funding turns negative, and one analyst sees a possible reversal",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUI3REdqb204UjBWSGtNLUxVd005czNTMzdYcVVYd05oLWc0UEhZU2lONE5CbnRyZnpRUHZZajZ2T0MtOV9BdjlKdUtscXlEZmRmZGRIaEJBczc2VWxHb2Q3RE5kYUNZeW1PX1pNOFZxT0VzZko1cHZzeFZfdU1iVA?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-22T07:33:58+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ09fbUxodUkxLXZUNThtSzdZLXRyLUlQbDI3NVI0bzU0NDl0b1VMZWtrczNDMDFaWDZoeWx0QjhLSVh1MlNLdjJsU2QzNkFnZmVHZnpnYzBRVlhJT1Zkc0RzblFCNDUxN1g2a1IxcUxEY2xkWkxhMG1ENzNTeW5jU1hjc0RvV2RNRUFBNjFCQnVPdjN5TlYyUlc3MXc5WERvUnBxU2tROWd2Mlp0dVd6R1lpa0RTakN2YXp1cWx0RVY4QmxjRkdhOG5Sb0tMdw?oc=5",
+   "source": "Investing.com",
+   "type": "news",
+   "published": "2026-11-22T07:32:11+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0RVNjY4QXJfa09xWV9QejJONVFMdXRWd3RPQW5iNlEweHVmOTBVLU5ETFhQWWllQko5TUZjam5tTFl4Tm9tSG9XWTE2aVhBal9uODJuT3MwZ3NaQnV6cEJoWVNFaTJqVXpuLWdTVEo0V1E2Mm1Tb3J1cE8yNkxHQw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-22T07:25:41+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Rate Hike"
+   ]
+  },
   {
    "title": "Chainflip offers hacker a 10% bounty after a $12 million vault drain",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVdCRVlhckxWR3d3WkxxY2RRdXE2cHVZY1hrTDZ5bmIwaEI5ZWFuQmhPOFUxM0dxNmFZVDZqbmo1UDM3RGNvdUhwNHBFc0x1cXdKY0lzcW5TaDlDZ3lrZ2ZDcXBfZ096UkN3YnNJbTdqNmRacTdfLW5Db0xTd3c1QWlySjEyRGFEcXFlS3dUVV9DWENTNzBpNXdB?oc=5",
@@ -175,23 +541,23 @@
    ]
   },
   {
-   "title": "Stablecoin Issuer Licence: MiCA, US, UAE, HK",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjJ4VktUd1dLMGpNb3laUTNzWGpZaVVmRmFURzRudFZibUFmcDhJZElfNFdUU05Ca0t0aEJpV2xNdTVIY1E1T1FhWjFTOXRBdmVteGZrOWJGTG5NYU1yUy1FUGRFQ3BWN04xU3JNSGpIY1pXUGdvNmgzZnhMaElBeFJtUktmX0pJT1VLRjZ2QUROSzFs?oc=5",
-   "source": "Global Advisory Experts",
+   "title": "Bitcoin Reclaims $60K After $55K Dip, Wiping Out $230M in Shorts",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjhqekstb3pHT0F4YTVaWWV2aGMzU0U4QzBXRXlCeEJya3YyZ0dvS3FhanNDOUl4QjhBeU0yVmNINHRGd0xORUh5VlJUNVBoYlVlVUFOWGg3TVlmTkoxZVF5Y25sWkt5c3Z3LVJ5MHdlVF9jTm4wUDhDbXoxR0RaMA?oc=5",
+   "source": "CryptoRank",
    "type": "news",
-   "published": "2026-11-22T06:12:33+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "published": "2026-11-22T06:49:47+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
    "topics": [
-    "Stablecoin"
+    "Bitcoin"
    ]
   },
   {
-   "title": "JPMorgan Says Bitcoin Miners May Be Selling Reserves After BTC Falls $26K Below Mining Cost Estimate: Report",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTjdydHpwZ2N3bVNyQnhYYjZPX2NuTEdCVlhVdlR6aE9EeGlJNzNFd2JBbUdOQ014TG8xYjZyalRxNUwzdXN0OFhaY29jN1BUQ0p2RHJ1WkpTRi1zMF9lbGY2LW5SMl9jOGp0d0JYdGJxY0JvMkt5cHpyWXZKOXZqNDJrcUpaTjVtM1lyV20ydTlwNnRRMVdwZHcxUUhGZ1BIOWtIUFE3aVRUZG52YW9OTWxyZHcyQXBLeFppdGdqN0llOEtLMjFTS1o0SXg5ZGZVQ1F6RnkyTWdweFM5SVVqR3BleXAyM1hjanY3aUdQeHk1RGVEeVExTV9XQQ?oc=5",
-   "source": "TradingView",
+   "title": "92-year-old burger chain says Bitcoin fuels 19% sales jump",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1o5VHp3Tm5tWGNmdElZSkFzMC05Um1IRnZ5SGkyZlFPNktndjYzcnZFTEYxOEdSLW4xYkE4bjJ1dDFrdFZaT2tsU0ZlSGlWM0pwNmlRM3gyRG5zSUtaOVRncW1TblItMjFJejdvVFM2Ujl3OFdLdjRGYUNCS0dDdFZyVGhES25PNGxfSm82OTctXzg?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-11-22T06:12:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "published": "2026-11-22T06:14:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
    "topics": [
     "Bitcoin"
    ]
@@ -207,6 +573,17 @@
     "DEFI",
     "Nasdaq",
     "Wall Street"
+   ]
+  },
+  {
+   "title": "Analysts Expect U.S. October PCE Inflation to Reach 3.8%, Fed Rate-Hike Expectations to Rise",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOamkxTE9wY2luazJyMWlTNHZVY05iRmszRVRKQk9MVkhyOTNWSldvN2ZhWnliU0hQZVZqNUxsWGVtelNqNVk0ZWZFaTlESzRWcEdNdGdSbkswQzJ1cEo1SmdKMVc3UmY4RFdFSGMwQV91Z0o2c01rUDFzeXNnVGNMMjZiV2RfN3VsRGRVMGxnMDdkbTI1X2o0Zlo2X210Z3RhcEpVNGdtUlRsZHNpREsyOFljZ3BiaUx5RThkQkg5ak83YnZpUl84MEdNNlI4WldIX3pyVzMyc21xR2c2WlFkQXR4aG1QeWM?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-22T06:11:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Rate Hike"
    ]
   },
   {
@@ -243,29 +620,6 @@
    ]
   },
   {
-   "title": "Metacomp raises $10 million from Tether and Further Asset Management to strengthen payments across Asia, Middle East, Africa",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMjJvTDhoWjFfUVBWUkUyU3BiaThvcGxlRDlYMDZqZDBDODB6b1gxQVpsaXAxaTlUdkU0TFFBemxMX1J4ZDZSSWljYlNJS1hRcllkSHR4akdJVzJNSHk0S21Oc3NHR2FWTHVBQ0pXZ0xZbXcwenZZR2ZmVTlIWm44b0oyWHBCaU9fSnMxYXF4Mmk3eVBJNHBHRFNiN0ZITzlfNXl5c1NreU81VHJlMnVzMF9OWmhBOEJ1NFpmWC1kNDhaZHFjNFNLMV9rQlFMVWJWX0RYTTBLcjhUWjZuYTY1dG8zUEQxYjdITlBERUpOQ0c0aDdUOTRaREg1TlloWkdfNFNvUjJDVEZ4OVBieW1F?oc=5",
-   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "type": "news",
-   "published": "2026-11-22T05:36:04+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin",
-    "Asia"
-   ]
-  },
-  {
-   "title": "Bitcoin Cash Jumps 6.6% to $196 as Shorts Pay Up and Bitcoin Climbs Off 2026 Low",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44TWN6em4wNDh4OWp5eGZ1X21BZ1EyblpMMHpDLW1CbFlnMHZCSTc4TGxrNmRfV3hPSnRBNG5YOW1Xdjd0T2hyaUhralp2V2FFNmN1bElNVTY0TldVY25pN3YyUUlUS3lIVmVrVkJsNGowZlRyRUE?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-22T05:35:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
    "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -274,28 +628,6 @@
    "first_seen": "2026-11-22T07:07:47.899215+00:00",
    "topics": [
     "Chainflip"
-   ]
-  },
-  {
-   "title": "Codex raises $30 million in Series A to expand stablecoin FX business",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVJHNkRXZGl3bEhubGZWc3dWVFNKZExyQVJDNGotdTJpYktuZlhfZ3VockpFUWNMSWVuVENlZVczQTk2LWd5WjBRTHJsM0Q4LTVCWF9IYXV5NHp4cm13LXEzTi1NV055MGt1ekhQcC1UQ0V0Vm1BUk5kSDhiSExzUWRtMS1VYlVUWmViX3BSbHhQdmtlRWhHUHpyT3VOUVhYclRybHlMYnpTWUR5WUF1Zg?oc=5",
-   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "type": "news",
-   "published": "2026-11-22T05:22:29+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Russia Opens Bitcoin Trading as Moscow Exchange Eyes Dec. 1",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnpFQ0otZE0xeW1SWjUzZ2dDSVpITVF6Y3JSUGVvYVg2Z2xMOHR2S0hIa1lrVjEyaEhHcVRhNUhLMTBfWWNkTjdzRldTQXhoQjVkdmlfOF9GVmV5ZFhPSnh5elBuN2IwaGJNcXVtajU2T1VRVEJHWGtnZ0s5WWhIb1Axckp0OGZReWZMcXdzY1JlU20xR2Vj?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-22T05:19:52+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -311,35 +643,13 @@
   },
   {
    "title": "Quant Funds Are \u2018Shorting\u2019 Bitcoin Below $60K, Jordi Visser Says: Here\u2019s When He\u2019ll Buy More",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEhBNXctZFJNTENXWl9fOUtSTWdham9MOHM5dElYelFFems1dkNFVTBYSlhuQmVfUkF1TzR1am1xUjctU1p4enVxcVgyMGliOU5mQzdtWl84S0lYR016TWNpZDkyX2NYVlBBT1lSWnhGSW5hSDZSdWFBTmpMNEd2QlJTcGhRNDl2SnJDVGxIcTBrMFpkdTRKZUo2SkhhV1NSc1B5RU42R2stYzI5OFMwX2lhUHpFRUY4MnN0enUtaVl5QjVoVUJsQlJma1BJeWl3aWcwNWNOOS1Wdndpd1JnWXZn?oc=5",
-   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVXgwa3ozUHBvb1R5OHNlRXY3WEN6dUJJX0FCVjdmdWhiM291YmdEVkJjZGpDNGVjZkdFSEpUZXFDeWRQWkM5MngwdWhadWtoT2c1d29KTFJURkltQ2N6eEVVVmFvNTR5bWk0OWJmZHVTenNibDBMalZyQXM4VjZWQVpLUmtNbHhlczdyb1VGNUtRQUJOcXdjbTZjMXVHUTllOHZqSmpQb05HS01CNlRoZXRMSndYU3M0QWVqaTdWRzdIWGpKcGFrXzFiOHR6Tzd0YUEzVjl3RWlza1dRQjNsRmZRd3NUenNfckZZNFotVmxzZw?oc=5",
+   "source": "Stocktwits",
    "type": "news",
    "published": "2026-11-22T05:00:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "S&P 500 Quietly Shrugs Off the Bitcoin and Silver Selloff",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR1NjRWV2QmdlcHA3YmlPNzgyUGd2RTBXalNHbFE5dkJjZFVEZlczdk45MW9IeUlhY3VOOXNYOU1TU1ZDS2JwS2swb1R4bVVQenM2OUZ0cF91M05TXzJIUkowdXhqSjNHUEIzbmxaSVFpaWFfX2pPQ0Jyc3FwZHVMX1JNeDZJaVpMZkZFSWhlRmVoY1RrWEl0V0h2WlhfUUt6R1U5N2gyN1VJXzQ?oc=5",
-   "source": "StoneX",
-   "type": "news",
-   "published": "2026-11-22T04:59:26+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bahrain Stablecoin Issuer: CBB Licence Guide 2026",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZDVNbkZZNkJTOF9jcXotWlkxcEJTZTRRUGFIdjI4U1B4VlRpcVNoZUtYaVlnYzdLVUJ6RGNyNU9SY0RMS1daZG83LWUzUjFFVlotdDh2bEwzcU5DTHgtUkNYS3J3WUx1U3Znei12MFk4R0JmRm5zejQ2Q2JxSmp5ZnV3cktjTEt4WXc?oc=5",
-   "source": "Global Advisory Experts",
-   "type": "news",
-   "published": "2026-11-22T04:57:33+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -352,28 +662,6 @@
    "topics": [
     "Bitcoin",
     "Nasdaq"
-   ]
-  },
-  {
-   "title": "Bitcoin tops $60,000 after crash: What could sustain the recovery",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkNExRV3FMWW9meExJbktHdmtuR3ZLc0pha3BFS2xMNHBsTTM4dFZGUzR4UkxVeUh6WXhhSkRyZE0ybERIU192NF9HTllyQnQyLXdoRFRDZjU?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-22T04:52:56+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Singapore's MAS Proposes 'Know-Your-Agent' Rules, Sandbox for AI-Driven Stablecoin Payments",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FOENaU2JYbGM0MWZxM1UyZnpfY29ZYjlVMFhTWUQ5cDlrbU9OUDBaSkVIQkJRaERTUUFFQVFXel9UZHZCQ0E3dndsNDFIdmNYTmNsU0dSOHlQOERWelBQemVfd2JGWEgtVUtOZWx2bVBUX1RncWc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-22T04:35:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -399,34 +687,35 @@
    ]
   },
   {
-   "title": "Scott Bessent Says Federal Reserve Should Avoid Major Interest Rate Hike Amid Energy Supply Shock",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRk40ZjVUdHg1ZEJFMENGUk4wemRtQ2kteTRvV0p4d1BnckVGdm5lVlllaW53c3oyOVN0b0ZBWm9BZXh3SjM2NzQtQ044ako5bnFSRzZZX1Znek1vZE1GSk4zb2RkazR4X242ckpCZk4tcEF3bU5aTnpIZDY?oc=5",
-   "source": "Hokanews",
-   "type": "news",
-   "published": "2026-11-22T04:14:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Rate Hike"
-   ]
-  },
-  {
-   "title": "Robert Kiyosaki Urges Buyers to Wait Out the Crash as Bitcoin Plummets",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uUnBNbTZPUkItYXVHNGpfelkzYTU4Skk4dGdlTElpcnY2ZC1ObVRRNlN6eXVuSTl6SmxYRUpvUVU2TVBDb2RXZ1o5ZnM3OEZmTHZzcHg5WU0?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-22T04:13:29+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Chainflip suffers second major hack in 10 weeks, FLIP token price halves after $4.86M loss.",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDV6STNzRk52cjV0Q3hPRzItV2duXzJpTVdRUmxXQWpTTW1BMmhRSU1oMkJ1X3hNTE5ZVmpoMDN6NERaTVptd3ROamZVUTFYVGg1X2RHazdkS2tFeVdXLTdNOTY2TFBpUkdBWXBIVmFBLS1GN3Q0MHp4QlNjQjgzcUpfOHpvZms?oc=5",
    "source": "Pluang",
    "type": "news",
    "published": "2026-11-22T04:08:24+00:00",
    "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "topics": [
+    "Chainflip"
+   ]
+  },
+  {
+   "title": "Arthur Hayes Says Bitcoin's Break Below Local Low Puts $50,000 In Play If Nasdaq Keeps Falling",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRGJmaE1jbTlZNjRnVmtBQ3BwTjB6TWlTVjFKdHk3aV9Ma08wSEtNZDVpR0VsMWxIU3pFcFZyVG5pMXZBWTV4N0s3NDl2QlhnLXdHNFpBbDgzYWkwdi11c1dxUU0xTmdDM3lZV0hmajBZS3BUUHFhaGZpT01nakhFcW9CLW1PdjktdGcyTVUxQmR5WkdJdGV3MUNwQkZhSElSYnhiWnc4cDFESmVRRm5vWnVCOFUzT2ZOLVBDb2dWMXdTakRHeGNURkRlVGFiZmhzWXlSUXNmdllwaWlXUHlseUd0bE50ZnlxbmhlOTR1Vk5kWEo4Y2V3eA?oc=5",
+   "source": "Stocktwits",
+   "type": "news",
+   "published": "2026-11-22T03:53:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin",
+    "Nasdaq"
+   ]
+  },
+  {
+   "title": "Chainflip\u2019s Second Exploit in 10 Weeks Sends FLIP Down 31%, About Twice September\u2019s Drop",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPclBCS1V0MGhyMFg4cUZMc2dXRTBSakQ5NVJKV2RLdmFXOFc0dG0wUDBScHE3TldtVjdnY3Z1amg5U2kwSkwyM0hqYjlSUWVBTWdLM0ZMZUh4Yjl4d3pEeW9WLUgweFR5SDdrVUFtMXlVRXZOS0FGRndJdDFsaGtIcDZMbnNRUEd1alZWMzJ4ZDYxMlI3YUYzS19fYXR2UHNiRjRBY0paMU9JbGt3Qzh4RTFMVHJFRHVNRkFVM0Fqa3BTcWJaeUJYZ2RWYmMzUHMtTy14bVpGSnhZd2swby1oalBIZw?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-22T03:48:00+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
    "topics": [
     "Chainflip"
    ]
@@ -443,17 +732,6 @@
    ]
   },
   {
-   "title": "Bitcoin Mining Profits Turn Ugly Despite Hashrate\u2019s Return Above 1 ZH/s",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXaW02VWNmYk9wSHY3N25GRllhcUE0X2kzeGJYaDE4dW56OVZWSFpNZWZxRmJmYjBGTHhiUXo0dTV0ZVBrZWkwMjlQUkFBbDZvTHNsdXBJYw?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-22T03:17:43+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "ETHEREUM\u2019S NEW DEFI SECURITY SYSTEM TRIGGERS CENSORSHIP DEB",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9neDJSQ3VkeUxlTFFxNjk2ZkwxNHBkQkZIMGl2U25KcG9ucGhzQTdTczdxZHkyT1o1R0FSX2tyTXc5TjloRUNxdHNOWmh2TG9IeGN6QnNIdU5Nc0FieHJ1VXN4dUVkb2c4VFVTdVJTWkRtQQ?oc=5",
    "source": "KuCoin",
@@ -463,6 +741,18 @@
    "topics": [
     "Ethereum",
     "DEFI"
+   ]
+  },
+  {
+   "title": "Do you believe , Bitcoin and Anthropic have same Market cap",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HaExHSUtRSVFIUi1VTlJ5c2RfdDlIQy1nN2dlaUhqV3R3VFVjTnotMmpUeGQ1MFhTMVcyU2Rka3NDQU1EeDFPeHVVWEJIbm1aSXM0clAxY051TGlHYUQxdi1JUzJzNll1NVlQd0FuaDVGUQ?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-22T03:14:50+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin",
+    "Anthropic"
    ]
   },
   {
@@ -489,58 +779,13 @@
   },
   {
    "title": "Nasdaq Targets 2027 Equity Token Launch as AI and FinTech Growth Accelerate",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR21haFUtam85T3BZeDB4YjI1Z2FKNmdudjVRSzdORTBFUkdma044Y3N6S0ltUk1sNGNMZTZXcDlRNV95NkR4VlpDVFlKMzVXWlp5OG5nX3BMZXpOUnViT2VIS3RhX0p0U0N5NmJRQlVQV3doamlkNmlfMktibW5FRWkwbVZ5eEVIREpjNkZMU0gtZ3psakFkX1ZwTkszdw?oc=5",
-   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc2F3ekxHU3d5Ml9XdVF2WW5qTWJ6UFU2REtWQ3hNWWFsSGN6ejhKZzVOVW1OWkVGbE14OHlhUVRHakNXTnVjWV92V2lrR1JpLUZwYUJBTmtta2FEbklZOEY1UkpMQ3FZaHQ2amZXVlg0Nk84bktHWkFIVGJkZkRUM25KZzhzUjVfbXVYLVZCdGk5VXBqRkxUUnQtdUppd2Y4VFE?oc=5",
+   "source": "London School of Business and Research (LSBR)",
    "type": "news",
    "published": "2026-11-22T02:12:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
    "topics": [
     "Nasdaq"
-   ]
-  },
-  {
-   "title": "Bitcoin's Charts Before SpaceX And Anthropic IPOs Are Eerily Identical: What Bulls Need To Watch",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRlh4ckVZa3dwUHRIM1JoU0c4bjNfNjFWSE90QXJkWlozM1RGZ1N6YUFtMXU0VEIyRGVRYXFtZ3pyQmpCN0tlYVcyZWxSOHNXRzdmYmU5Ul9taWFXd1VPY003c2hlWU9CQkU2NFJKX0tXNHp4MkJsdXpISWZEOFFNRWZmY3pRdy05LXJSN2hyLVhwaHlfX1UwWWhzaVpUN3VjZ3pkSkJoVnk5ZFZLdG9RUkJ6Nk1HdFlyMzFZeGpBZFk1Yk9jOWNNNVFrLWozd3k3X2NkcDFFQWltaFXSAeMBQVVfeXFMTWdwN0RfN0NwZ1BJTmVUbFZLMnozQ0txcDE3bVpNR1dzVDVHQXZfWTU5UThtaTZ6QTJrNXB3Q1ZLanJvX1YyZkN0QU41WXBXQTZ4dWs2TUxfRTY2RFRnVUxzZ2ZlLTZIQmJ5MVo3SzlYbzBldDk3U1pKZHUyQXBnNThaTEdDdEZaVnM2a292TURsOUFETllMSXVJLVFLN296cXBqdE1sV1JoSWxvWnY1NXdKS3p1UWp0LU1fZVZuME9ySGpxd0JwNzU1eFM0UU1PdWJOMERrbmV0MzUtMXVOc0Y2LXM?oc=5",
-   "source": "NDTV Profit",
-   "type": "news",
-   "published": "2026-11-22T02:11:42+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin",
-    "Anthropic"
-   ]
-  },
-  {
-   "title": "Bitcoin Bottom Signals Strengthen as BTC Nears $60K",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQV9YSFRXVjBjY3RLWU5BT1JFS08tbzVPUldGemRhVlZMaGdUeGx5dFpTb3NxUE1rNk1IVEJBSTBYNU9lVkZxZE5QZXh6b1JIemJoVEhudDZwQWVLMWVrcVE1MVdjWEFtX0kzYmM1TGRJZ0MtMWd6UzNjMVNudmtablZSbzEtelBtcXp3aHhpeU9LUQ?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-22T02:09:16+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Why the banks with most to gain from tokenisation move last",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWd6M0RxUk16OC1LVlI0eVM1d3NQWmptY3JiZ0M1MHdaUUpSRUVURUNCVG1iT2FNRHVCT1puRnZBazAwZkZPM3R4ZW1sYWx3Z05sRVBYMlhQSG9MZ3dTdkJGU1g1enhGandaNnVMLWxYUEt0VGJkUm5iM0FJOXR2NmZKX1dXRFVaVEpMdUVtRjVQUQ?oc=5",
-   "source": "The Fintech Times",
-   "type": "news",
-   "published": "2026-11-22T02:00:55+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Crypto week in review: bitcoin's 12% drop, a record IBIT outflow and a 30% slide in Strategy shares",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTWm1xdkh6UVlSNjlvSUhCV0FsZDhOVE9FZ0F0V2dRT3FoLU90UWU3cHBoUHhCVkJwZUhnTElCZ2pDTzlmOExOeC1CNGNlSW03VlFPYVRWcXdMUndpZW9TbWZveTF3Y3E3bTI3RzIwR3VqUQ?oc=5",
-   "source": "CEO Economy",
-   "type": "news",
-   "published": "2026-11-22T02:00:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -578,28 +823,6 @@
    ]
   },
   {
-   "title": "Bitcoin Plunges to Two-Year Low Before Rebounding Over 8% to Reclaim $60,000 Level",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Gc0pod3AzdFBPblREbGNxM1p5TFJobV9ZZERBcW1jcEpxMnk5eno1UXpxcDJ1dzNpbi0xbjlUVktsdFpmMVVRR0tMWkxrbmxobzR0Z19yaXVaQV9ZRU1QT0FJUnlGdldZaDZqWGROSF9hRmc4a2c?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-22T01:35:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Chainalysis Finds 55% Jump in China-Linked Stablecoin Payments Tied to AI Proxy Access",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOOENJelFNUTVyYjZqWU5VbEFYM084SnlHMUhEdWFwSTVLR3QzRVZMOGNTLVhlMlhKY1BRS3N5S2h0bTdPd0lxQW1yanY0UkhGd3NoU2VXekgtMzFsazZZNWNObFp6RFNsdEpFTGdkVXB0eEtNbEE?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-22T01:25:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "RWA Bankruptcy China: Tokenised Asset Recovery Guide",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2NyRV95RHFzcEk0TTQxTXNoNzJsa1VoWENHbndYN0ZVZGZvZEp0b21RWWp1TlY3azNGZlpZNzI2M2d1QkFYZ18yWjEza3ZseVh2d0tMQkNJZzBQRHk0Y25YTWlwQ0NVbDRubV9TTEM2VHBueUsxZWg0UjJQbkZvai15STZpd3JMUFE?oc=5",
    "source": "Global Advisory Experts",
@@ -611,25 +834,14 @@
    ]
   },
   {
-   "title": "Top Tokenized ETFs by Market Cap",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zWFpsQ0xndFBVeFkxakVrWDVZUFpwNmRSdk9jLWQ3WTlUYXhBOWtnTjE1RXhaN0xPMEQyZGFfd1pRVTlYOF9hZg?oc=5",
+   "title": "Top Tokenized Stocks by Market Cap",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FTVMzRmtUZG4zWTBSazBqdUJxTTdBcnN6aE90VVlocGNTVmZSaV9RNGtKZU5iTVlnRnUzbGhvaVhEbnN5VGN4RUtySQ?oc=5",
    "source": "CoinGecko",
    "type": "news",
-   "published": "2026-11-22T01:18:34+00:00",
-   "first_seen": "2026-11-14T17:00:05.730905+00:00",
+   "published": "2026-11-22T01:16:28+00:00",
+   "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Some bought Bitcoin for under $20,000 over the weekend",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOanBPWHJJbFpYeWVRVHJNMV9XYlNsQm5ldURzdlJPZ0xXOHpMdUd1QVJfaFBTS3pWTHBoSVRKN2JjYlkyNWJhTHMxMzBQTWF6TEUxN3lkbERHVmZidkl5MFhYc3cta0U2eVh6NExta1RrN25pTjU5d0M1bExlT2RfeGM2ZDVJUzg?oc=5",
-   "source": "roundtable.io",
-   "type": "news",
-   "published": "2026-11-22T01:07:58+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -667,33 +879,11 @@
    ]
   },
   {
-   "title": "Nvidia earnings: $115.8bn revenue, bitcoin holds $64,000",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGZkRjE3NkxuSU5aRTNOSV9JZlhEVlVabGx5OXlWZk4xS3hQQnNMQ0FTcGZBcHBDcElsSFJpTTk4enFiUmozQ0ZWc2M4WGtwWVdQY1JhVnpJSW1leHhtLWU4MXVsNHRFQkNZQ0RYWVlBcDM1aDVrUWNzZl9nMWFnenRhbw?oc=5",
-   "source": "CryptoTicker.io",
-   "type": "news",
-   "published": "2026-11-21T23:37:39+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Bitcoin dips below $60K amid market fears; Teth...",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1otWDg2RkNEN3N5T3gxc0pTZ3Y4a2k1MFFTR2gwd1Z0MmxPWUFqNUxDZ0d0S1BKZ3Y0bjhQRWhoQWFKODViQ1kyaDRGcU13X19SRXVtbXYzcWRBRUd4QzdRTlg4ZnoyUU9RNHhPTDRyazFJc04wa1poNTlMZXBaU1BMM1Y2Ym9FZDZGZ19FYU8?oc=5",
    "source": "Pluang",
    "type": "news",
    "published": "2026-11-21T23:23:42+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "US Lawmakers File Bill To Build 1M Bitcoin Reserve",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVlTMFdwTUpXUlB2YnJ6Z28tX3NESUVQQVB1MEpFTVhpcXZiaFAwTWtabk1UR21UckRaRHhYSXdaeEdJY2xxMUxiaGRWbTNfYTJVM3B6S0lDUk9Ja2w5Ti1faHc0U2szVm12VmxJOEx4RmdxVVNLUE1mSDdtVTB5WlF5UEFDbHlDaXVzOVhNQlpCSXBEVzFv?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-21T23:20:45+00:00",
    "first_seen": "2026-11-22T07:07:47.899215+00:00",
    "topics": [
     "Bitcoin"
@@ -709,17 +899,6 @@
    "topics": [
     "Ethereum",
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "CLARITY Act Provision Creating SEC Crypto Certification Office Draws Democratic Opposition",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQmNBeXBtdGJQS2tPa1RHYXVHX2xoZDlUQUZiSkhjMklHZ3BFbmFLWWNTOUJST0h1WWdCQlFuTXVjQkRmU2w3UW5jMnIxcTQtYzBWM080ZW81LVZfV3NwQ2RLVkJTWFBVZE9YU0ZTa2RucE1ISU1veGw4MEs1aHZUZjVxSm1wWk9TdGc1aDMyXzFNM0VCZHNlaEU0VVprSDI2UWdCMkZOY19TelpKelVhTjhpSHQxX3ZBU29BaG5HOGRrcl9OeTU0Um1mVkxjUTZBU1g1eXpreFl3V0hMREdYTGxnZVAzSjhI?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-21T23:04:17+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Act"
    ]
   },
   {
@@ -745,28 +924,6 @@
    ]
   },
   {
-   "title": "Bitcoin Rebounds Above $60,000 After $2.4 Billion Liquidation Wave Wipes Out Leveraged Bets",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTktBYWZxbXJtWElUWTdsUnFhZGlQRzFQbjRiUGRLcHcxdk1CRnpXSTRDOEM2bWROd2Y2MGRlb3VKR1J3VU1Hb3dObXBpblAtbjlWNDF6VmVZZF9hNHJKMjJpT2JhMnhjVlU2WUxSbmpadVhHQXc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-21T22:35:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It's Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5\u00bd Months Sooner",
-   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNYUk1SjBpczJSbE9mUHZLRVE5azgwaEcxMUdkcTdJTWptaGo1VnJUcC1xMHpRbGtuLTVwTmlsRlFXRGZwczVoMDJGalNhRElvM2VRZng4ckdHVzB3Yi1GRjlJLXo5bVhpUW5rRmpHREV5eW9hZ1FTaUM3cC1sNkpfSzNQWEFwRUJDdm5ocVlZWkNMUWRZQ2pfTllXRFdodWNrYkN0TUFqTE41cGQ3QzlyOEt5RDhDMlhRNzZLTFB0M0RybDBsX1B0cXhOQ2ZVNzJTSTdiSVNmdWc1Q293a3Nna25uclMzVzNfQ19mTklXMVM0NEMwcWRPbC1oMWtsT01SeHBUMTlPSlU0UGFtY2RORFAtXzJ1TExrQkVVMy0xLXZIeU0tNjB3VElwX0g2aV9rQWtJOURqREJnb3pzZG5KWnUtZkc3X2RBeW5PM3BQa2pEbHc?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-11-21T22:27:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "StarkWare CEO Cites Security Fears for Low DeFi Trading Volume",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zWUtYWDB5Wmo3TkQxXzNSV0llcHJ4MTNsR0hCWlNKMmJsZ21IMGZzNGhSdGRaSXlhT0hSOG4xQjhwcWp2eW1sUkR5TVlIb0FFU25oYjdCdkw0QQ?oc=5",
    "source": "Cryptonews.net",
@@ -775,17 +932,6 @@
    "first_seen": "2026-11-22T07:07:47.899215+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Coinbase moves 127,745,921 USDC from institutional arm to its exchange",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSk9LTHJnYzdsYVFrbWViUzhKa0JXOFRmU0FkOUdPa1Z0aXNtRFZwamVfeGFDR1ZyVHk3dzRzNHo4TExmZkxzQ2h4Nzc2eXFwcXYxMEpieVNudUtSRy1zN2daS25US2xkdHZKMll4ZTctQnhnSVR4akpHdVZfYTdaOA?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-21T22:20:52+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -811,17 +957,6 @@
    ]
   },
   {
-   "title": "Chainflip Offers 10% Bounty for Return of Stolen Funds",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjdpTmdXNVBzczFKbnA0UUJPU2p5TVUxRmcwRnEtOHVISGROQjI1VDVtLWNqUWRMeGtDYUZzLWJsdURMNi1peXZTXzIwZmVabjVUdTRNWmxlb2dobmR5aks3dkM1dmdZZGhmLWdVVlhNS1ZPR29nMGFkSFhvbE8xZUU2WHA0UHNzX2hRUjVkVQ?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-21T21:35:14+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Chainflip"
-   ]
-  },
-  {
    "title": "Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckZvNmlIMDFlNldRN1hIMmNoY2ZqMGQ3SlpaZ29DTzU4NjV3RFFPOF9uaGl1eVRkUDJudWx0WGU5MktIRUszUUlYM2MzOVNTeTItLWFvdHg5Q1p1dmtGSXJUTTdyMDJ1LTk5cU9vN3RSY0hOb2stdkxFU2xxa25HZGtXaHRRVE0?oc=5",
    "source": "Mashable",
@@ -830,17 +965,6 @@
    "first_seen": "2026-11-21T11:35:24.039403+00:00",
    "topics": [
     "Ethereum"
-   ]
-  },
-  {
-   "title": "Open USD Stablecoin Goes Live Across Four Chains",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjllLTF3amdpOURUNzBUaG96Z2QwYWN0RElhbjE1OE5SdzdYLWJVN2hSbW9nRWVzQ1BJVWJwem5MODBfMnlxanhzMlFhajdFY0NJVU9iWlhYQ09IaE80RzNQRnZfalhtcUMzeWdRNG03aVBsUWs3T2p0WFo1Y0tRTEJJb1h2RGdPU0FxMFhWdHJFY201?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-21T21:26:20+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -867,17 +991,6 @@
    ]
   },
   {
-   "title": "Robert Kiyosaki Cheers the Bitcoin, Gold, and Silver Crash. Here is Why",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pQXpqMGlxMjM0b1RZQWdnWTF5a053MWozeUVSeTh3LWtWaDJnLXBuWmZiWWdqVndQU0FuS3pUN0Y3MVhZNXdzOXRpaTlKaG9PSTk0a0lmNGZSeGJuQW5UcFFWOTdYN0tEZGlTTGRSRkFRMGRCRjJzLTdCM3k?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-21T21:24:25+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Ripple CEO Says Crypto Could Rally Once Anthropic\u2019s IPO Is Done",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMldrRURJWmI1blItY0dNM2ZqSlVnMXVBU21ROG1Za3BZWGRKOUdaeEVnTHhUNmtMTUFoTDZLSGhDTEk1Q1FUSHd5TDNxWVBMODRncUQtZy04THpXczVuaENNYjZ2MDlPaV9EWExGTXltNS1aWmk3T1hIV2F5ckhXS2pn?oc=5",
    "source": "BeInCrypto",
@@ -886,17 +999,6 @@
    "first_seen": "2026-11-21T11:11:16.793790+00:00",
    "topics": [
     "Anthropic"
-   ]
-  },
-  {
-   "title": "Solana ETFs Defy Wall Street\u2019s Big Crypto Sell-Off",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNElVSkdIaWJoT0M2b3FvSGljZGZLVlVURnBCVnc2ZWhsLWtLX0hyLUhZcmFKekwwVHBOWXZ2SnZiLVlNQ3BYU0JZNDNvd25mTWcwZU54TTZJNWtOVXJhN2N6VzBLZGtSb01mMXduZzhlbjA?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-21T21:24:25+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Wall Street"
    ]
   },
   {
@@ -920,6 +1022,17 @@
    "topics": [
     "Ethereum",
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "GraniteShares launches 2x leveraged and inverse ETFs for Anthropic stock trading.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY25jdkJkSWFuMTdicXlzNDNIYU9RMWtBZlJUZWZyaU5aSWRNcWFkRmRjZmNBR3BacXh6T0Y4VXhabFJldGI3OEI1ek9TaXI2MVp4OFEtMzQzQ2ZMdERqZzJmdE1OaVFBU0tNaFk0YnItWENjLXhMUTlCSUZUZmloNEVpNFU5TEE0bEFNZjdvQ2k?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-21T21:04:31+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Anthropic"
    ]
   },
   {
@@ -957,25 +1070,14 @@
    ]
   },
   {
-   "title": "\u2018If You Hide It, It Disappears\u2019: Bitcoin Bull Tim Draper Says Don\u2019t Conceal Great Ideas From the World",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb1ltNjN1OWRiMS1EcFlZaUR2M1Q2MjVVcm16RHRMWFJNdmYwT3pEU2VETmFLVVVDOVNzZF9hXzhSMU1YM1BrSkh3UlJkXzVGWXBQTGE5dkdmeldxYjd2dzNybGY2ZTBlM0QxN0N1NmFVNURUNnR6M19Xb2lBZkRUOHY5VlVQTmNjek1veWczYVNBcG9XZDhVd3EwWnNkbzhfMFluMU1CdVVsOW1aV2hmNWdacENKRm9ZN2dQZzJONG9Ub3cwZy1IcGFmOFRBZGZQaktLMUlUNjdrOG10c0FsTm80aGJTSXBod3VCQWxYN08?oc=5",
-   "source": "Benzinga",
+   "title": "Chainflip Offers 10% Bounty for Return of Stolen Funds",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjdpTmdXNVBzczFKbnA0UUJPU2p5TVUxRmcwRnEtOHVISGROQjI1VDVtLWNqUWRMeGtDYUZzLWJsdURMNi1peXZTXzIwZmVabjVUdTRNWmxlb2dobmR5aks3dkM1dmdZZGhmLWdVVlhNS1ZPR29nMGFkSFhvbE8xZUU2WHA0UHNzX2hRUjVkVQ?oc=5",
+   "source": "The Defiant",
    "type": "news",
-   "published": "2026-11-21T20:50:05+00:00",
+   "published": "2026-11-21T20:35:14+00:00",
    "first_seen": "2026-11-22T07:07:47.899215+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Twenty One Capital Reportedly Buys 154 Bitcoin for $10 Million Following Weekend Sell-Off",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDhlM0Y0eDF6TWtBZktvLVZBMHg4eXludUJJS1VmWlM4QWQweEVnNmZ3cWdpdS1wcURyUjZQTEd6RzVaallUTzVSX3FyTmJid1FHSDJsWHBfemlhVG9ELU1VdEt4T1lzLVA1VnlZc3VwTXFiS3Z5TDdIS0p5VE91cFgzOG5VdFlzRmF0b3dTRDVpdXJsZ09yY1ZWSUlZWElmdmpLWTd5RVBnUU9naDlWV2R3amo?oc=5",
-   "source": "FinanceFeeds",
-   "type": "news",
-   "published": "2026-11-21T20:46:10+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
+    "Chainflip"
    ]
   },
   {
@@ -1001,17 +1103,6 @@
    ]
   },
   {
-   "title": "Elon Musk\u2019s Grok AI Predicts ETH Vs SOL For 2027: Who Wins?",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWZ0eFZWWWtCR3o0RjVkUnh5c0JtNzNhUldSYm5vWmJraWRha1hFSElzUm5ta0lJYWVoRms3bV9YS3RmclRwRG9FRV9FMVllNjhJSjN0aUlBVzIxb19EakVhZndvNVJ6MHJGXzNObzdqeXNZbk92Ulp1YmVxMEZSZjZGRmZ5emtya1FlZk1kOTNKWVZKN2xTcjhn?oc=5",
-   "source": "Cryptonews",
-   "type": "news",
-   "published": "2026-11-21T20:07:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "Howard Marks warns OpenAI and Anthropic their AI lead may not last",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ONE5MQmxwWVk5Z3psaE1Kbk13aUlKWWs0SlY1ejBVS1V1T2RaUkZzVGhVNU9YZkdta3l2ZkVERldKNFAtRGNfaVMtUDVsZGN1eHlYV01Td3VlNXp5c2Q1UlRUMGY2Zm9UNmNIVVNsTDY?oc=5",
    "source": "Crypto Briefing",
@@ -1031,17 +1122,6 @@
    "first_seen": "2026-11-22T07:07:47.899215+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Backpack Verifies All Users Under Bank Secrecy Act",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVpKYm8yMUlkemllMmpGU0Z3Y1BQYWlMWFhOX0dhdXZpLVl6eEZPUThoYXdBbzZLWjlnRE82Zy1NR3NYVVo1RF9DUmFXZjZmMGY0SDZJYlgzVFlqRk5SelRfQU5ONHhYTThxNXlCQWYwZVptVDJWZ2pNeFBMVDBHcDBVekJ0ZmJfX1p3R3B3VQ?oc=5",
-   "source": "Wisevoter",
-   "type": "news",
-   "published": "2026-11-21T20:03:42+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Act"
    ]
   },
   {
@@ -1079,18 +1159,6 @@
    ]
   },
   {
-   "title": "Funding rates turn negative amid a broader market sell-off with Bitcoin -56.3%, Nasdaq -20%, S&P ...",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdnhkckgzZmJJLWJha1MydXM3RmhJOVFoQmhndDlURncxeVpsRmNKWFpnRld2VDNQcS1fdk91RXllenRmSjRQcXBmT1FHeW1YMmZsbkYwWGZvaUlsNnotZVdMT25qUmdKMXVsa0t4TExub05CLXVYSTk5TjIwUFd5MGdIQkpRdnZ5RlBzbEhJbnRJLVRiS09la29ORm0zdkZGT0loZEU2b1BHUXAxY1BnZXVrSy14b05xWk9uUHhnUlJDLVRGajBHaDZVUDdHZHhYbkZTUy1ZblZjYjlJa2pVNURn?oc=5",
-   "source": "CryptoQuant",
-   "type": "news",
-   "published": "2026-11-21T19:33:43+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin",
-    "Nasdaq"
-   ]
-  },
-  {
    "title": "Over $2B USDS swapped for USDC via Sky Protocol; Chainflip lost $4.86M in hack; Bitcoin holds $60K amid selloff",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORmtBMGQxd1VQRkw3VkxKaXhvWXlnWEUwaFZpOUdFbEZDeWV0T2JYMllvRTdlSXVRXzF4VVRGeHFPVkN0MHFGdUFUZFozSVhrZXN5OXJYYUVubFlSdm5RaVVQNkFpdFFuZ3hzaFNTQUc3UFp3Q01Jai0zVWNxVHBUWl9kMVU2ZFItWDhKOHI0MUVyN0pKU0JvMldvOC1yX0tZbGZ6WDJVbnNJNDdhaGMxWi13?oc=5",
    "source": "Pluang",
@@ -1112,17 +1180,6 @@
    "first_seen": "2026-11-22T07:07:47.899215+00:00",
    "topics": [
     "Anthropic"
-   ]
-  },
-  {
-   "title": "MSCI Is Cutting Strategy and Metaplanet From Its Indexes. Here's What It Means for Bitcoin Treasury Company Stocks.",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObHN3NzNSVkZkMkRhcE9qRkw1QXZkZmdDOElscEN6aUFoQXYtdk0zNlJqSDZQUGhHQkdtWEVqQTFEY2NzUEpreEVaZ1FaUGVKTjlBdjVvVmVBUW9BTFlybDNKcU51TmhGWTVRX296VmZDclVxb191eFRhNUdOaUpKWEMwWDhFaGJxcGNnSzA2ck9PeVRGUmRqSDE2WWlIbFNRc2FTVHVieDRQcWlYVnF4REYya1hNdGMwWFIxQkdCMkxtbC1wVnVRdmpiYlF2dUM1b1AtdzZ5NFVHYTBxSVBKRjJnOWlvTlVUVVFyYQ?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-11-21T19:17:02+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1151,17 +1208,6 @@
    ]
   },
   {
-   "title": "Bitcoin News: Hashi Launches Bitcoin-Backed Lending on Sui",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUlFpODZhckhWT2UzVTdSUUtENkhmdDE2RnVSWEZOeHZvbFNqNFZwdlhWNHpVT0VyZlBwNGJCeDZCUENVb3hINm9Nc2hQdVZuTlpxanJlRXZKb0pSbl92U0o1V29aZm1SR014RGJhQmFtY0d3VkRJLUJ2TlQwZ2xNSHRSUnl0QzFZbnc?oc=5",
-   "source": "Coinfomania",
-   "type": "news",
-   "published": "2026-11-21T18:34:55+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Ethereum rises amid ongoing ETF outflows and building Federal Reserve rate hike speculation",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQUU4YUhzR1BwQ2VKRXREV29hSjJWd3dFWWQ4S20xOHBQTEZsMWdMOGcyZGVWNElmSFlhVDhmelBvTWVaaWtOT01mY0t4NkI1RDNoeUNiWXBoellGamJJdk1Mb0NHZncxaGx4REVrNUNqODdTZ24zTkJzeHZXNEtUQWFTYl9jTnVtcnNsdWNyMDZCODFVSzI4?oc=5",
    "source": "Traders Union",
@@ -1186,26 +1232,14 @@
    ]
   },
   {
-   "title": "First USDC Dividend Paid on Tokenized Apple Shares Through Solana",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAydEwwamVSY3ZqM0RuQV9jS2YzSzl5RWp5UFlENkpFaGtkd0NhbGdmZWhySGVDOEpZZm80eENDRFp3Q0pUaGRVbnVnMTBiYnRnbTdtaWd5Z3dwOUFaN183TjdSUTlCZjlJaWxreGZNeGM?oc=5",
-   "source": "Kriptofoni",
+   "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTNVRTU5WEFySml3TVRmOHhPQnZkOVY1SlM2YXFNMHJIdTVuNVoxYVZfdkRackwzVlZRV3JHZVNEU0hJY3N0UE9sT2pybXlpTExSY2ZSUmtkRXFsaVhwTHFaZ1RZMkthWGNVc29ZRU05eGdlcGkwU3JrcmJhVzBsS29Lb0xlbzF4RWEw?oc=5",
+   "source": "Decrypt",
    "type": "news",
-   "published": "2026-11-21T18:02:26+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "published": "2026-11-21T18:06:19+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
    "topics": [
-    "Stablecoin",
-    "RWA"
-   ]
-  },
-  {
-   "title": "MAS Sandbox Rules Require Agent Authority Checks Before Any Stablecoin Transfer Executes",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNak00TWRselp2RmdmLUpLTWRIWTByRUp0b3JVNG1IckVIcXF1MFVnbmJUMmc1eE1RQmRWT3ljOTVaV1YzUE52SW9OWkNSdHFrVDUyRTFTSm9uSkJHWVVkZVZGcHB0d2l1UTRRcFk5WkV1Qk1aWDNqb0NMQUFfcGFHa0Vjd05OQnJXenBpRUdvU1FvQWJJWUpSbmQ0cUlkelAzQ0VFTkJucWE0OGVZTHRYOXpiVmRJWVoydlI5NnNaM3JDQnZwM3RJ?oc=5",
-   "source": "OneBullEx",
-   "type": "news",
-   "published": "2026-11-21T17:54:35+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
+    "Anthropic"
    ]
   },
   {
@@ -1231,50 +1265,6 @@
    ]
   },
   {
-   "title": "Coinbase moves $100M in USDC to an unidentified wallet",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GWFpVSzB1eFZrdkg4TXFoelA1MC1vNzI1TzBhYnNndXl5Q3VRRjhqYmdOLUFsZEVVellKTlNPMWd5REt5bDdDZlI5ZnNTcVczdmdRQS11eGtjMEh1WjA0T3B1a2pBakN5cklUUFZzVFpfRXRlaUczN2lPQQ?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-21T17:49:53+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "FLIP Token Slides 29% After Chainflip Reports Potential Vault Exploit",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVVSQmU3Um1nbW5XaVBYRVp2UlFqRFFyU0pJc2cxaGVDa25EVnBxb2xxOE44aUtFcmRPV1pBckJYdU1WV2ZldFd1dFZfenA2eXNvQVNDQmlsTEhCMzlZTUNTMzRMWXhmeGM0bm9YRHRvM2xvOGtEV1VwOHVPNlphS0UyUGgyVnlQNmJCRkYxTzhYWGp0LWJSa2h4VW1HVU56QnRyRk1XLXJ2ekk?oc=5",
-   "source": "The Crypto Times",
-   "type": "news",
-   "published": "2026-11-21T17:42:14+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Chainflip"
-   ]
-  },
-  {
-   "title": "The Nasdaq-100 Is Now Just 49 Points From a Bear Market",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDZiRk41d0FocnlXaUEydTBIdUdIRlRzTjFKdkpvRVNNWVFBMEduTTBjZHhGQkI3RS1aMEdEVExlWFVnX2ZmZ2pjTjdaejlXazFpczhFSi15TmVKTHFUMjd3WWlEYU1fOF9GZ2hBcDR5dktWbElXWkllSWFsQ2plRjB2WC1oWEFPODFvLXBGTXA?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-21T17:42:02+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Nasdaq"
-   ]
-  },
-  {
-   "title": "Singapore wants to test stablecoin payments by AI agents",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSm91N2dCRDVmU245WG9tcWZzQWJLM29YWllnTmxBZk1mOHJGbVlhY3ZmbzJCVExnSmdPZ0lxSnZrZjVLbWRLVFZ5V19kRFNRNmJtN2wxYUUzRXVqWG1Dd2lfM1Z0a2ZXeEhkd3ZzSzhqU1l1TmVsMnJiZnZZbm4tQVNYNFdQd3lo?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-11-21T17:40:11+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Bitcoin rises as Federal Reserve rate hike expectations and risk-off sentiment curb demand for volatile assets",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVpkeDJSUTlHRVZURTVDZk9kQklKbkVaSXNwdHdDYTlYalNQYjhOY0daMHNQaTJqQUJSQ2cxYUFEdGE2SDk3dFkyQmh5U2hsSEh0SnJnLXVDS2JmVHlCTzFrald4THQ4MXY4Y29VX3RaX2hKVmphVUtpSTJTQThxOERXdU84LVk4VHhqZ0dQb2h3QVA3TVFvb1hkNA?oc=5",
    "source": "Traders Union",
@@ -1284,6 +1274,18 @@
    "topics": [
     "Bitcoin",
     "Rate Hike"
+   ]
+  },
+  {
+   "title": "Ethereum ETH (ETH-BTC) Live Price, News, Chart and Price History",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWHN0QTFTcTV1TEV4UDJVVkpzeXd2Z1R0VTFhMzlNMTFxR211T0paMHlOczNaeDlMRTFYYm9SRENSa0V6b2YwSzlqOXpIem5ZQXIzS21n?oc=5",
+   "source": "Yahoo Finance Australia",
+   "type": "news",
+   "published": "2026-11-21T17:22:02+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
    ]
   },
   {
@@ -1309,39 +1311,6 @@
    ]
   },
   {
-   "title": "Sky's USDS Stablecoin Loses $2 Billion in One Day as Investors Rush to Exit",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHNVNVNObUxxUm5jYVlmbHFMLWQtcGV0cG15ckl2Y09na2ZzdlJsZWpJbDI1VXF3V3p4NC05bktVbHpGc010eDdGak4tZ0d0R1BiVVpVZ0kwd1Y2Ylp1Vk16eC0wdU5xa0dBOGtyV2dZM1JISFZNTlhpNkVmYUZwR1dqU1lKalljRWhoNS00S290VzItVFRwSEhENTROWldocVR6SQ?oc=5",
-   "source": "Coinpaper",
-   "type": "news",
-   "published": "2026-11-21T17:02:14+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "21Shares Forecasts Bitcoin to Hit New Highs in 2027 Predictions List",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOenlKNzh4bzNQWWRnQ2hNRy04V09PNUowVUkwRVlYRWM4WFMwNEVwVG11LXl1cG5OOGoyM2VOSnNZQkg4RnpMVkRkOEdoLWh4c1pMeTktVUY2T2lfRlpvTEVMV0xTTFZ6MXZRRmZOZy14TkZzREwyVFBUbTJWSzQzNk5hcWNjNFF1WHNTajFoZlR2RWZ2aFNGaHBnZENOaWpNU0sxZFhzRV9LVmxtbG5pSXk1Q05pcTRwZFlOLTBoQzRZQUtMTEE?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-21T17:00:07+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Coinbase Stock Forecast: CLARITY Act Vote Nears as COIN Holds $170 Support \u2014 Can It Rally to $192?",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNXR6X0NnSlc4ZVhfU0xKbGJmWTFfNTdleUhrVkU4MU5rcEU3VHJrTnVWbXlLQ3RJMkgyR3JvY19ZZDVQT1ZaSDl6ajJZZWxPcExRbTdibjAwTUNMR0pvY0hPZFNEMi1KLTZDVnhieDNHTXZVWmt5UlpVSXdmYXZoaWJlVTFVRzVGWEdmckQzM1pteWJteURPQklnWndNM29hQW5xdkVIdVk0VlJkWGpZa2t0Q3RoU0pWOFhCT2RTbUp3QUdRV0hOQ25PbmtTVFgwclJGcHV3?oc=5",
-   "source": "TradingKey",
-   "type": "news",
-   "published": "2026-11-21T17:00:07+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Act"
-   ]
-  },
-  {
    "title": "Ethereum ETH (ETH-CAD) Live Price, News, Chart & Price History",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZDZUSDYzYVZoODV3ejRGUzY4M3V0cFNoS2xjZWpJeHY5c282clJ5dU85T0p4T2lFRnVZQU9IRTlDTG9XLWNJSzVGU2R1ZHVCczI1WHd3?oc=5",
    "source": "Yahoo! Finance Canada",
@@ -1361,17 +1330,6 @@
    "first_seen": "2026-11-22T07:07:47.899215+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Apple and Google Post Senior Roles With Stablecoin and Web3 Requirements",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlJZVjN0bTlHUVZiaUROaTV0aFg1cjRsd0g2R18zQUh6dE9VemFMN2JRQ2VHb29iUHBfLXJmTW11NWxXUXp1ZXREYWo0cnVqSUduVGZJcUwzVnF2VWF1UGlLbXZCckVtQTdmZ3lkQVZ0dzhBSzdpa3dNZUtNb3pzb09PYnlRbkFOem1DQ0xUN3lFbW1qcVFsd0c0MVBtQ2JuRnlxSE5kM0V4RkJ6TmxBNFRwa0c?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-21T16:49:50+00:00",
-   "first_seen": "2026-11-16T17:15:11.326875+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1398,28 +1356,6 @@
    ]
   },
   {
-   "title": "125 Million USDC Transferred to Ethena From Unknown Wallet",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLN2xrMHpZdl9ybmNEdUtTTGZwTS1CdVpSdzVmNGIzTHNLcXJBaC1zUllEUHFBS05jZENSWFNjUHk3dkxqV3VnMkRrb3k4clVBQjM1MnQ2NHU2Mmg3bVJQOWh2eEZYN0ZBeEFfTkx2d1Q?oc=5",
-   "source": "Kriptofoni",
-   "type": "news",
-   "published": "2026-11-21T16:41:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Fed\u2019s Interest Rate Hike Could Extend Beyond December",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtVzRlb2NYNkptWm5jS2wzbnYyaXh2U0llUVlyQWZiOTdfQTM2dnZtQVV4eTNVODFLZzR1bGkyWXRpQjBGNUZBa1RsWmVyWWdKSzBqRzd4TnVrU0JwbUR0b0VLQlVBVFgzcGk2Q2dR?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-21T16:33:50+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Rate Hike"
-   ]
-  },
-  {
    "title": "BTCS Profit Hits $54.5M as DeFi Revenue More Than Doubles",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb09BUzlyNmVMSUpJdVJsZU0tbk1DRG9EMEtkaVNROUZRb3NoY0pwUk9lU2dVUjNYS1J1SEE3aVJJaWYtOXhYdVdBQTY4LVFYX3I2QzJYYzl6QjBfN3dEOG9meVdfeDZ2cmFHdk8xU21tSFhWYUlFMm1fWXc1eTZpYXF0TmlCTTIzaVpiVHB0bDhQXzZkZ1k3TWpHRGU1Wmo5ZnRlY2V2QlRwQQ?oc=5",
    "source": "MyChesCo",
@@ -1442,6 +1378,17 @@
    ]
   },
   {
+   "title": "Bitcoin Bottom Signals Strengthen as BTC Nears $60K",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2tEankwcmdYSkVYX3J6UmhTTFhRQS1mU1kwR1d5SlNUb3lyN3FUcVpqOHJnRkpHNnRXQzQ4OFpJWWxvLU0yMUNCbWptRGM1d2d6bFBSUXRWNWZxV3I5b3c0X0pCbTJubTlBQlcxOVNuc0w5RENLSjRDVjBOVktRM0pYYXbSAYoBQVVfeXFMT2VtMFhsbjJ1LW9lZXFKMVFjT2k3eW82S0htRG5odTQyRm4xT0MzQ2lCcFNDYXh2SzlGRzBxMF94YWtwN1NpX1FhUm9yV0gtY0lpNTRLNm5ZSEdFQ3N1S0gzcHY1cWtpVTlJSEtDMXQwR2IxOHJNTU9ERDRhZ0owaGRLdXR2MXZSSmNR?oc=5",
+   "source": "Coinpedia",
+   "type": "news",
+   "published": "2026-11-21T15:59:49+00:00",
+   "first_seen": "2026-11-21T17:00:00.588796+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Chainflip pauses protocol after $4.86 million vault hack sends FLIP down 34%",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEJUNDZnWThtR0dHemlrYmtWSVhSaXhwWF8yWkdkSExfYVJkckNiaE9KZVJQdlhVQmFMbjJMZ2ZheXBvckdCU3hvcHdtak1rcks5NXJ2Q3lINEpYenh1NU5YMXEwSGdza21ya29kOGhnSzVVdnZUVjlISWhFY3hwOEc5MlBhdVNGQ1JWMEU2YkUxTkE?oc=5",
    "source": "Traders Union",
@@ -1461,51 +1408,6 @@
    "first_seen": "2026-11-21T17:00:00.588796+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Price Today, November 21, 2026: BTC Rebounds Above $60,000 as Solana Leads Crypto Gains",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX1piSlJxUXozY05JbW5HTklaY1gtN1lYcm16UjZPX2xKTVNiVlg4Yl93Q2tyNXcwMjQ4UVAzVjh5UjdHR2hpSDR4SUc1RG04SzI1WVVSNFRlcTN6cVYwSy1ka1FfYnN2ZXFqWlIxdXdGaTRpV0VOWWdqdkNyTlQ3elJ3azcxRHpDYWlpcGxQVE9wTjVPM183X250dnN4OHRKbUJVT0pmQkozYWZCSExmNzRmcDEtSjBBR0dhaWZucFFSYjhpTm9ERy03bWFITDQ?oc=5",
-   "source": "Eurasia Business News",
-   "type": "news",
-   "published": "2026-11-21T15:37:46+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0Q1STZOVllEWmZRZlVtNF9FbDU4Sk0zNUxCOFpfOWYwcEVYcE1oYjY4V05LRzBjR3dneFJ0bUQ3VHVwN1V1NmdWNkFhZVpwZ2FCdzdwWjBPYlM2XzVzZFpHczJlZjZkZWU1eFVRZ2E2WUszODRtZTlYZVpJV2podw?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-21T15:35:45+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Visa Pulls Stablecoins Out of the Lab: Why This Week Marks Payments' Real Inflection Point",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXJSalpJY3FnUkgzRk4zOUlZYnFQLTFBcVZxMGlvWGZUbmh0YUxVdDFsY2xjQWV4QUpfUVVzZlJHZDJlcEgwUVdmWmtmOE1YMHhpTTlKTWJBTjFzQW5hSVJsNVlvSlZEdG5fOGoyVEFLSmEwOGdncjFja2JuY2loMzlVTVhpWHNIUl9MZFdBRG1PWERnYUVrcQ?oc=5",
-   "source": "FinanceX Magazine",
-   "type": "news",
-   "published": "2026-11-21T15:34:55+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bitcoin investors look to Wall Street blockchain adoption for next market catalyst",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG5ZTzRLbDB2X1hRcWJuVXlHOEJybWYwemN3Q2ZsM2pfNjRmUFppSGxzSkFOTGhOMXlxbXJKWllzLU14UEZIMzU2elFjM20xY2NZQ0UxWFptdlFxQXItX1NzSDlMT0dET3pIaW1fb0lKUVZSLUZ1N3I4djZUSEs5Y2dzSDBoSG1wMUZyeQ?oc=5",
-   "source": "Beinsure",
-   "type": "news",
-   "published": "2026-11-21T15:33:34+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "Bitcoin",
-    "Wall Street"
    ]
   },
   {
@@ -1544,34 +1446,11 @@
    ]
   },
   {
-   "title": "Bitcoin tax break alert: How your crypto loss could reduce your 2026 tax bill, but only if you act before",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOeVk4aFdaNF9FNzdaSTNTS2VjZ2NxS1p0S2xYeGhtTVdUdUpieFpvcTc3ZmVmR2VJRDRfMnhERWk3Y1lIMXVIWHFQc0xpdFVoQllaN2MwQUhEeGkxWnlIVTM2YVkyZUMtX0pmMVhxOGRCeXZfUllmYTc3bFNvZ1ViMGxMVUZTTHI4Z1FadGk3QU5pX3VKQWltdklFTWpka183R05DdmNXZ0haUldWcE5pLWtWTVhkamw4SHdmdHUwVVczQ0RGM184eVhZeHRzRWQ0Wkhic2ZxMzlKRTRibjFmZXNab1N0ZVlGTm1IbzdMd0ZfM3pUSDlPeGRDa1I3WTMzSkNLdEpJSW1sLTZCdkE2MGt30gGXAkFVX3lxTE1xaXNCSjJSZEJvZmpPb2JzYzVlcjY4bEJJdlBKSGdUV2drdV9WVGdvMDE4OXQ0RzA3NnhUeGxLQUE3NkhjYzJETXdtNGVIbjFaNVZhY1E2anlhV3daZ2FLUUhZODJIV0NhTlJKQ291UktOT2J6QzNvWXdrZ0p3QnRreHBZN0NBTzFpRG1Ubi1FelBLVmxGVWwxYl9ad2Y5ZmNTcnprOWE5dTl5T0xrVFFFLWpIbHE5SEZFRktOWHY5STlIVkpqaFl6LW03bFRTNHRmSWF3dE14Si00bmNWS3AyLXAzMGd5YTN6UlEwZDMycHExdDBWTTlNb0tKQ0szYVZEWXFlaGRKbzVjc216cWMxeFRwWUFuZw?oc=5",
-   "source": "The Economic Times",
-   "type": "news",
-   "published": "2026-11-21T15:26:35+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "Bitcoin",
-    "Act"
-   ]
-  },
-  {
    "title": "Bitcoin rises over 2% to more than $60,000",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5",
    "source": "Reuters",
    "type": "news",
    "published": "2026-11-21T15:25:43+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Hashi Allows Bitcoin Users to Mint hBTC, A New Lending Tool",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRDBkR3JtSF9hZ3Y0MXZXR1ZtTjNEU1c2M3ZkVVY5UFAxWHJwT1lKc2pMcDR5c3RjNjN0cXlQeGdjRVRnTGZ5dW1CZ25lVzhxRkZhN2xSQ2pKV2JWSWV4bDJnX3JuWlZuck5hTnVSNUpWbHY1el92U2swelZwTnNydHIzSTk1cDgwNUNj?oc=5",
-   "source": "Coinfomania",
-   "type": "news",
-   "published": "2026-11-21T15:25:11+00:00",
    "first_seen": "2026-11-21T17:00:00.588796+00:00",
    "topics": [
     "Bitcoin"
@@ -1589,13 +1468,14 @@
    ]
   },
   {
-   "title": "Metaplanet Pivots to Buybacks After Bitcoin Slump Forces 2026 Guidance Cut",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOajUwWVhNVnZmcUdkQl9zZEphVEZMX2VMcThFUnd5bUo5c1lwRXZ6enpibmlvcFJ2MXQ5SFRTdmFRd1dDbWMwMkYxVUs4bGtqQ1RQdVp1ck40WVd4R3dCZ09na3VPLVl3Tk9VcVVGNnc1cXJ4NFlHaEtReTY3WlJCNUlWM2xJeGtGc25zbmhURmZNUldRWHhBSFlwRHVfWWFjT3J3bmxKV185R280OTlCYzBjOGV4WjYxU0VuSnhCeGZFa0JMZlpJTUI3RnhmY1N1OFY4VmUtd0phRlZLNGVB?oc=5",
-   "source": "ad-hoc-news.de",
+   "title": "Bitfinex Highlights Bitcoin\u2019s Utility for Ethereum Loans",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdFdYVF9FQUFkOE9tdU54dDhnQ0VyMVdaci00dDRIcjVvUHAyLVlhSW03MFJzQXFxcTA5NnhmMklWY1JWbmRwWVYzbi1XdjAyYTZnaFdjYkg?oc=5",
+   "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-11-21T15:21:53+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "published": "2026-11-21T15:18:51+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
    "topics": [
+    "Ethereum",
     "Bitcoin"
    ]
   },
@@ -1623,14 +1503,26 @@
    ]
   },
   {
-   "title": "Stablecoin Whales' USDT and USDC Holdings Drop by $21.86 Billion",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMlE0ME1EOF9fWW1mZUUxN1VRN0xNNGhRUElodmFBcnRULWRvenhtVjZOX2pSMUc2dW9yeWNtSzl3NXg1M1preWFKUmlxZUdWQlI3Q0RmLVBGZHdPQW5aSVdxaHNJbV9tdC1ESk1DanlCT2UwQlZVd3pUTQ?oc=5",
-   "source": "Kriptofoni",
+   "title": "Crypto Traders Priced Anthropic's IPO Better Than Wall Street Did. Here's Why the Wildest Market Keeps Winning",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX040VWoyU1VrcnI3T09QdURraEFWQlJ4WFYxaFRWY2ItYnNNeFZmQVByTHU2Q3VoVVpIZEg2ZWhQa1d6MzRPaVdvYWl2R3VnbUtEeGhtTXM4aEoxdFgxUzRSenpQMVdpVzdJd2R2X2ZqbE5IYWxoOTJZOG9QMEJaSHVUbWFKWGx1Q3c?oc=5",
+   "source": "Memeburn",
    "type": "news",
-   "published": "2026-11-21T14:41:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "published": "2026-11-21T14:59:29+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
    "topics": [
-    "Stablecoin"
+    "Anthropic",
+    "Wall Street"
+   ]
+  },
+  {
+   "title": "Bitcoin dips below $63K as AI IPOs Are Pulling Speculative Money Out of Bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeFVwTVRwdjBXUFA0TVBBTzRXeW1wS1d2MVg4T2xnaUJpZ0RZb0ljU3A5VVVuMDhNTEdDYUxKQWduQ1lZdVUtSUVNcHlSbHZyNjFGd1RnVHI3Y3NZa0FCS25wZHdQblN2Rjd0ai1qZkp1SndjOFM5c1J5YU9kX2RCaVFJMHdQR2NFLXRJSGRHTkJrQTEwaE5n?oc=5",
+   "source": "Memeburn",
+   "type": "news",
+   "published": "2026-11-21T14:59:01+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "Bitcoin"
    ]
   },
   {
@@ -1658,17 +1550,6 @@
    ]
   },
   {
-   "title": "South Korea Leads East Asia's $449B Crypto Economy on AI-Token Boom",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnBhcFBxa0NFVk9naUNKOWRpZFdyVTlpLXZnY1RJcEhuOUdyU1NlZlNLRE84UUZ4aF9tb1MxM3dBXzlteC1IRVBPOXVpeUpTN08ycHpOaEhBNTduLWh5QkdEQl93ZFgxVU82VkxlRUdxRVVTS3htOFRKaS1za3FMSDRtbk5mYUZXU2xDbzNBTE5MS3JtWWhvck5fNVVoME12X2l1QmlCeVd2RERqQXJPT0RrMA?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-21T14:17:47+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Asia"
-   ]
-  },
-  {
    "title": "Will XRP Go Up if the CLARITY Act Passes in 2027?",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDE4eXY0T0J6bXhfSzdnV2piVjIxMUdUUWtjSU5CZXFGRmtLOUVKYlVYeFBWNGc3ZExVZjJCcHcwTVpQVlFpejBVODhienZrZGZjTzZoa0VBdy1kbXMyQWd6cUdldEhBbE1tZEY3aU5sNmg0WnpEVUszMlJlQUs5R2tScDFkWXZSZlRiaVhrUUlrMWw1S1VKMFU2MUo3N19XalRNRXktLUhINjQ?oc=5",
    "source": "24/7 Wall St.",
@@ -1677,17 +1558,6 @@
    "first_seen": "2026-11-21T17:00:00.588796+00:00",
    "topics": [
     "Act"
-   ]
-  },
-  {
-   "title": "The Wall Street veteran turning alternative data into infrastructure for everyone",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDlSZ3d5ZXRObWplejYyQ3JUdE1jcG1UZGd5MDVCekhrNGdnMXJsX1JETTJXb3NHRTJzTUJDUmhaUE1vMGtzUDREeW9ZQU81UnBGWlNmQlBRTjlLTkprNUM0NTJWeXJqZlRjTW1GN1NKcHNYbUk2b1pJZ0g2VElkTWVPUUdLS0RjMFMzQ3JoZjRIRmFnNi1Relh6YlNBMzA4UFl0a1VmcFY4Z1RjbXRrOVpn?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-21T14:09:16+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Wall Street"
    ]
   },
   {
@@ -1702,14 +1572,14 @@
    ]
   },
   {
-   "title": "Solana Breakpoint 2026 Unites Wall Street and Major Payment",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeGFQQ0pLeWNhcjZ0c3BMa2hhajF0ZE44V215cWpjVUkyTThBR2dUMVh5M1o1WW04VEJSdngwRUdsMjlpajNBdGhrTS04ZlFuLWlnMzdOdF9SX2FnXy0tXzdOeGxQX2lacU1udHZSSW1abFluSGRuXzVVY0xzT205Q2VmclhwWkNnXzdyag?oc=5",
-   "source": "Coinfomania",
+   "title": "QCP Lists Three Conditions for a Bitcoin Recovery: Pressure from the Fed and Japan Is Mounting",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ybEoxV1dBZ3UwcEROQ215b1d0QU5aVUVYS2ZJM3N1VEh3Y3RFQmt2c0dINXRrM1YxZjZldENPX1A4LV92eUlTcUJMM25WN3Bxa1dLcU5CdWU?oc=5",
+   "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-11-21T14:05:59+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "published": "2026-11-21T14:03:07+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
    "topics": [
-    "Wall Street"
+    "Bitcoin"
    ]
   },
   {
@@ -1748,6 +1618,17 @@
    ]
   },
   {
+   "title": "DeFi Warrior (FIWA) USD (FIWA-USD) Seasonal returns chart",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Vakxic1Z6UkxoaFlzWVNYdU00Q0dPNkcteWJ6ZzJBRmY5YmNCNV9ESnQya1JsVUlXVVM0MFQ3QmpGYUZUdUlMSzBDRm9UMWJGRGZBS09Da2hrNTJORlY2eERjUERYU0U?oc=5",
+   "source": "Yahoo Finance Australia",
+   "type": "news",
+   "published": "2026-11-21T13:50:11+00:00",
+   "first_seen": "2026-11-22T12:01:29.766061+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
    "title": "BTCS Warns of Liquidation Risk on $54M Aave Debt",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3FCS3oyWDJIZFV0aUdfZ0d1VjNVa2ttWkRyaE5SRjEzcERVa3RmVTBaVnJkY0ExOExDa0FvVVltbV9MODRQTlV4MDc1YndWWUR2NE9tUWQ0Q3NsbF8tZVgwSUlyU3YxUlNyT18zZmNfVEVBMFdHZV9vLUxKQlhlTHFKc0dmdw?oc=5",
    "source": "The Defiant",
@@ -1756,28 +1637,6 @@
    "first_seen": "2026-11-21T17:00:00.588796+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "Bitcoin Has Traded Below Its 200-Week Average Only 8.4% of the Time. History Says This Is When Patient Investors Get Paid.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHVvWER4c2NtMVo3Snp6a1RrZ3hzZ0Q0RzQ0aHgycnY2UGZQc1pFb1RXbVZ0QWFVTVpFa2F5T1QzSDFKYlhlcHZ0Vm9wRF93OG9KcXpfM2dwZVZrZU9DMkMyV2MtVWZKQnU5cVRfZnc4MTdVV2c3cVc2V1pHMEZKQjF6NTFnS3hidXNqb25qbFMtQlFkR3FvdkFn?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-21T13:39:41+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Y3hVaUJUeV9YZUYyU3A3bnVKNlNVSi1wZ0NZZTctMG96WkptWW9CQ0ltNl9FbV94Q3k4X0xkMjF5RDlnZGp1ZFhfbDI3dTVpeTFSZjFTTGZVY0dOOGUzc191U09EelhwbVJFcWtSTG9WN0ZXcmRiSA?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-21T13:37:58+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1826,18 +1685,6 @@
    ]
   },
   {
-   "title": "Anthropic (EQX Tokenized Stock) Price: EQANT/USD Live Price Chart, Market Cap & News Today",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zcU1nSWhfbTZNdEpFX0FtYUQzbTNqSF9aUm1iZWRZSGRjbVpMMjVlX0x3Z3VyT3g1N2FvRE9rajg0X0EweFZKa2pSbTFRSmVOM25WZXpYdXkyWTRBZlZ1SFZ4U2tmeThSamlTSTdmUG1idw?oc=5",
-   "source": "CoinGecko",
-   "type": "news",
-   "published": "2026-11-21T13:10:50+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "RWA",
-    "Anthropic"
-   ]
-  },
-  {
    "title": "Chainlink Lands UBS and Anthropic Deals While LINK Sits 84% Below Its Peak",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01aEhCRXhaRDZvRkIyTnMzU3JfTHc5NFh6SEo3RWoyWmZDTFJ0TXo3NEtqSkpHOG95dHN3WGhaZGtnSlZhdjBWZ1NCd1dXZFRWYXk2SVB3c1ZVb1B5akQ5OTFoRVhqMllYU0c1NjkxU3pRcDRmSkE?oc=5",
    "source": "BigGo Finance",
@@ -1872,6 +1719,17 @@
    ]
   },
   {
+   "title": "Chainflip Halts Swaps Over Potential Vault Exploit",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVhZdG1MVlI2NDZxNDRBalg2YzZwNTdPN2JQdGpGRERGV3Z0dHpCaWxabUMzVXA5bHQ0QW9xRVNnd29pUHZEWXQxaXNPLTlfMU5Wc3g2N2tZeTJEQjhQZ2hIMkRZY2pIRWhtNllpRzZVLThOUVZTRF9DRWR1VTJVVnNfdVlucUQ3aFd4Qi1KTQ?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-21T12:49:14+00:00",
+   "first_seen": "2026-11-22T07:07:47.899215+00:00",
+   "topics": [
+    "Chainflip"
+   ]
+  },
+  {
    "title": "How Low Could XRP Go if Bitcoin Falls to $50,000?",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWgxakhuZksxMXdGOVBzS3ZwXzhoWXhpT1pYQ2E0U21xSFZiTDJBTVNLSlBsb0tCOVVfdkMwUVg3Q2NJc1dRMUYyaGZidkxMUVR2TzNrVEo3S1hpMVRTSVFSeDZOWW9lcGN4dVdMd3FLU2YyMEQ5Ri1oX1FhTHJiTFJ6aXZXMmJtd2x6V3F1RDVoSXVFNThYZzNfR1A0clNOUDEyYXFRZ0I?oc=5",
    "source": "24/7 Wall St.",
@@ -1880,40 +1738,6 @@
    "first_seen": "2026-11-22T07:07:47.899215+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "[Global Liquidity Radar] Exchanges see 6,905 BTC net inflow as Europe leads volume",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yUmprNE5zdmJwQ2FFMkNzQnB6MUZMQnB0WkVxSW5vUW1BM0ZLdW0tWFRGSGNGVlV0REFrWTJ1VGZVTE1HelRZS2MtQ3NSSE4yR1ZuaVRyM1YtQQ?oc=5",
-   "source": "TOKENPOST",
-   "type": "news",
-   "published": "2026-11-21T12:42:11+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Tom Lee Says Ethereum\u2019s 28% Drop in Two Weeks Doesn\u2019t Match Its Fundamentals",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjB2ZjZvZm1SWDlJMGNjRTVRdVFscnVPMmhLNmVEQzVzYWhPNTFLbmpzbE1PV0JoNmxpUDhlUmx2VVpjYXBJdUJJcXVmaGRkdmNUcDJVclkzNG9wcVB6SDYzSDhkTWNveDdZV1EtOFFLdW9uOWRBc0Jsd0lpSnh0aXVBZExtTkVDYVZ5VWpfUE0tV05wOFNjdTFnUkFKVFA0T1gzRzJ5S0thWUtRY3RxVWVPVmpTRzJfR2hMMFlIWndiSWgwUzlaa0tvWmc?oc=5",
-   "source": "24/7 Wall St.",
-   "type": "news",
-   "published": "2026-11-21T12:38:00+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Chainflip loses $4.86M in Ethereum vault hack, FLIP token drops 39%",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2RCbl9LcWRGYjg3bEtwNVVwcHJLTUJtT3BKRlhfSWhPeDhmYmhOTFE0MGV0Q3djQUdiY1dqNU5LTjdzS0xNQlU3QUtSZnJUMnNIN19WS1g3bnhBYzVYNS04MGhmQ291UUtybUdJdEk3cmliMVRwbDR6Y3AySzl3Y2owbnM4ejZJ?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-21T12:33:41+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Ethereum",
-    "Chainflip"
    ]
   },
   {
@@ -1964,17 +1788,6 @@
    ]
   },
   {
-   "title": "\u2018Dump It Now\u2019\u2014Panic Suddenly Sweeps Bitcoin As Crypto Braces For Massive $2 Trillion Weekend Price Crash",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdlBmNjFNYjY0WjVVQXFWb2p3OU1TRHZMSkhaU1gxdVc4eDVJcUpqc293UWU1YnZfRlNtYWwzOTZTa2tiQTg3Y3p1b3RnRzBmZ3ZpYlNBZG1vMzhqOC13UzVhZXROTUhlSnVmQnFPNUVCazAzSUI1TGhCWlhTZ245cnV3MFJ0Y3hNSEo3blVrdTVCRDQyeEtSbzRZd0k1SWNvaUpOS3Mxc1ZmM3ZoWFpMdG4yeXNpa1lnMGU3bzI5YzJZOE4zUGhMMXlZOTlBY3plcXh6Ni16dUZrb3B2RGc?oc=5",
-   "source": "Forbes",
-   "type": "news",
-   "published": "2026-11-21T12:10:00+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "ECB Seeks Partners to Test Tokenized Bank Deposits and Securities",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2c5QlZqTkVFcHAyS2doUWNfaGlDUHBlNHZpdHhwc2NqdXdHMV92czdxVXk5M3g4WUFhaC1YS25wcnZNM1ZieTVrQ29WWlRCNXh2b1RLdkNZOHNXNlBKdnFqTFUxZDJ4QlRGb3RhalBjdVhrZFBpOU9GX1hPVTFacVdjQWVBdE1MWF9ZZGFlSlY?oc=5",
    "source": "CoinGape",
@@ -1995,616 +1808,31 @@
    "topics": [
     "Anthropic"
    ]
-  },
-  {
-   "title": "Dow\u2019s 1,000\u2011point slide revives the fragile link between Wall Street and bitcoin",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMTFwQzFyUnJSc2YzVF9aTFVlSXRrQ2tHcWpIZXBPSU5sMGNKRzRqV3ZHa3dkbFlPZV9Oakt6SjNCQlZRWGlOMDQtQXo2dGdCdVFScGcwTlhMYkpPRUZhUmxiWWhRVEIzeW10cE9Rd2VmWjhIa0gwdzZzdE43a2dXekxtQXphWlJRZ1VSemFBSDU1TUFvS0czUFJJVWc3LUZPeFhHcnVtRmI?oc=5",
-   "source": "Capmad",
-   "type": "news",
-   "published": "2026-11-21T11:52:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin",
-    "Wall Street"
-   ]
-  },
-  {
-   "title": "New US AI chip rules against China threaten Southeast Asia\u2019s data centers",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jWHByVWJEWHRXSlFCT2pPeHB3MXZGSlJnNGJMSEVBbUw0eDA0TnBhYXd6MVZCTExEUjhzd2VRM2JsM2dEMWExaldMMG1BUGZreWxJX0ctOGdGb2VSRF9FZGxOZzdKV2VNNWF6UmJIZDhxU09lTmNOUVNhWGg?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-21T11:50:29+00:00",
-   "first_seen": "2026-11-21T12:02:15.815022+00:00",
-   "topics": [
-    "Asia"
-   ]
-  },
-  {
-   "title": "Anthropic PBC Tokenized Stock (Coinbase) price today, ANTc to USD live price, marketcap and chart",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkMzWVdhd0VZeXFDTUpKdTRJU2xBWDNoejNORVQ1UEZhYmxFUlIxSjJ5UkN0MW9jYnd4Q2RPdzJJdDQ3NnYycUs3bVFEU3lUeU5KV3Z3by1Vc3hhWl9FeGMtVkFsTEk1QmNzdUpFRTRkb1RMODhDWXNzWEN0dlpqZGJR?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-21T11:46:28+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "RWA",
-    "Anthropic"
-   ]
-  },
-  {
-   "title": "Stablecoins Now Paying 39% of Crypto Users' Salaries Globally, Says BVNK",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmdEdGVQdzQ5R2s4anpGUHFreFhBdUpmeHM4OU1CSmR3aTJ4Yy1MV0pfaGdjUU1QX2tldUJpaE1qYTkwQk14V1RlZDJzaTRfLWh6U1ZYQlFyak9BMkR2TG9ReGdsNnFGeEpGLWVVRThKeXZFRXRHNWFRZE5ZRE52eGF0REQyWlhub19hdWVBRi1wTVJJUTZRS3NDdnZQclJiZU04bFdBVXpRQkN4b1J1bVBDMkxwX2tPbkE?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-21T11:41:25+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Tokenized Securities, Quantum & Agentic AI Hit Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFMxUTc0dHB6cjZwRjBuQ1BNRlItd05vczgyczB5SGRuTWxkb19HMW5laDI3QXg3VXBDT3lsRTdmeFNhQlc3V3ZBQ250cVRXZXhsUEE1X1hYVHJNb3IzeEtMWkNCYjdLRTAtaHBiSEZTb3VHcFFORU5oNmhUZ0ZOaVN0WkNOa0R1c0NVdFBRRUZiZm9ObkhqX01MQUZkdkNq?oc=5",
-   "source": "FinanceX Magazine",
-   "type": "news",
-   "published": "2026-11-21T11:38:27+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "RWA",
-    "Wall Street"
-   ]
-  },
-  {
-   "title": "Bitcoin Slumps to $55,150 as Rate Fears, AI Selloff and $2.64 Billion in Liquidations Converge",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrTGx3enM4TmZHLUJaSm0xTFkxcEQ3SV9zaF92SGVQdFAtR0JDeklyOGttZ1Z6d3J0djJFRzB2YklKVWk5a3lQc3FYb21wRzdPRTVqX3VmX1ZhVkJGVl9zaF9jNWhtVVNjU2s2MVI4YmpJNmtMR3c?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-21T11:35:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Mining RWA Infrastructure Global MPC Completes $7.5M Strategic Funding",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTk9ON0VDc1FVQ0xaSWJJLWxGZFdrUzUwamFkSmt2SGlib282ZXplRVNtcWtldlhzQkwzY19NNHFsYjhWZ0dTZ3B1bGtTa25mRUlxLXA2eDRaLVVkbEZwUWNXd0VjM05UT05xalFad2hKdDc0TERIMlI3M2RmaXV4MFhnUFJMSFMzakYzSmdIaUl3OHRzd2VfbG5YT0tyNEowWTU1a0xB?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-21T11:33:12+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Bitcoin Needs Support From Tech Calm, Liquidity Cool Off, And Recovery ETF Money",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1R2X0tXV3hpLWNpM29wNG9YajJrZHZRb3g2T1R5UHZGa2k2bXpUdTAwYmc0eWtIdFJBZjRhN1pIRUlmT21BbjJNdnBFYlBmQ0RKNzZWR3Y1VFp1QS1KaFZsczl2cnQ1azUxeHFtMEx5NlYzNGlUWGlFR1cyMk5qblk5UXlldFZwS3JWZkFPUlFHek1MRWo0WEdWVVBYeXpQZ3FGZ1BGMXM0dDlWVno4eGNNeDJZaWdXNEpZUHVSa1lWb1J0c0N4SGlBTFczTHVMNG9uTQ?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-21T11:26:04+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Chainflip Vault Drained of $4.86M as Validator Signing Key Comes Under Suspicion",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pVFBKMC0tRVd1SS1XUTVvb2ViUTRjcFhhM2luYVREQm0xN3Z6WmVFOEFMcWg1aUhjTjhjN1M0MUJLWGtmY1lXTVdRZnYxMmRWdzd4Rm10Y1BqUkN6R244UWF4VnBOZkRiTnlSOHRhcnZjVk1EdWc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-21T11:25:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Chainflip"
-   ]
-  },
-  {
-   "title": "Bitcoin Hits $55,106 on Coinbase, Lowest Since September 2024",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFNxQnlWTTdMaERzVjctMFRiX05QN3poUFIyWHNWZFN1SllRQXNpQVBzdXpNMkdiMjBvLUNmdTBBTGF2UHNxMzlkalNDSVVDTHQzY1FxNEQ3bmx0SDJxOFZQeGY1NWdDb2FiRHpXV01lVHE3V3hES3J5VHBXOVhnNGpad1JCM1hKSVloVzFPczVzekRiaWFrNmJB?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-21T11:20:11+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Artemis co-founder plans Bitcoin exit as Anthropic lists",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ibkxNREVuaGtPcW9UV3JBNmxkZmQzQ1NtUldJbVptT0ZXZFRWUDVzVGVtM0pZOWM1TmdBMlB1NEdnM0huUXRubXZaWWtBTFdfVEJkRzdxajRvbXdTWEhwYXE0N3dJVDVhZjF4Wk1ZRQ?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-21T11:17:53+00:00",
-   "first_seen": "2026-11-21T11:35:24.039403+00:00",
-   "topics": [
-    "Bitcoin",
-    "Anthropic"
-   ]
-  },
-  {
-   "title": "Bitcoin's Trump-era rally unravels as cryptocurrency hits two-year low",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEdHcG54dkh3TWloUnBlM3NHNHVMMV9kZDVwSGxZMmV1cXBaMlFFOE5lSkkxV1NfT1ZtNy12SEw0YVNIei15T2JNc1B1M1hERE56NFdwV3dkLUk2cWlOZE1yMlpDZnF6VDdNZEhjWENtd0oySmNIMWZzSEptOXVKSjBBMTIzWFFMLWVlbVBjN2FJb0pUbmVyM3FNMkJWdEnSAaQBQVVfeXFMTUl6Y0NjVURtV1RHS0tUbFZBMnl4YWlpV2N6REpHRDFsckg1X0EydVZmZUZ3ZzVoVXJuU2I3RlNtLUQ3UWJGczAxaFRVdVdBMDA0dUxVUzRDNUN5UWU3UURKX2pNOFRTTm1kV1A1c0F2elhUTHItaXN5eGI4aVhjdy1mRkF3QmRoVXIzOUdxb3A2UVd0c2UyUGpmeGFwQURra0pLNUc?oc=5",
-   "source": "WION",
-   "type": "news",
-   "published": "2026-11-21T11:05:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Why Rising T-Bill Yields Could Drive Cash From Stablecoins to Tokenized Funds",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rU1Rka1o3RmMycHZXSHU4X3FtdUdKUVVZTEVxQWQwc05NWU0wazB4eDEyZTJGNThHMnJVTklERk1EQTlSV095RmVQaXZvaDJNTnRxUTFjR2JiY080MERhMkt2TUc1UzVwNjVqZi1abDhqQmc4SndJSGtmbEl6dkE?oc=5",
-   "source": "CCN.com",
-   "type": "news",
-   "published": "2026-11-21T11:04:06+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA"
-   ]
-  },
-  {
-   "title": "Anthropic Tokenized bStocks price today, ANTB to USD chart, marketcap and volume",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYUE3b3NrOGVWV2dCRlJ2b2ZhNmg3cFA5YmZjaUVwS1BtSjdXbHR6TjhzZlRnZnlxbFVNZS1PLWtJTV95N3dDRkJPUVF5V253bmZlUEhFa09iWWFHWUxMT3NjM0lIMWxCbXc?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-11-21T10:57:48+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "RWA",
-    "Anthropic"
-   ]
-  },
-  {
-   "title": "Chainflip Halts Swaps Over Potential Vault Exploit",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVhZdG1MVlI2NDZxNDRBalg2YzZwNTdPN2JQdGpGRERGV3Z0dHpCaWxabUMzVXA5bHQ0QW9xRVNnd29pUHZEWXQxaXNPLTlfMU5Wc3g2N2tZeTJEQjhQZ2hIMkRZY2pIRWhtNllpRzZVLThOUVZTRF9DRWR1VTJVVnNfdVlucUQ3aFd4Qi1KTQ?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-21T10:49:14+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Chainflip"
-   ]
-  },
-  {
-   "title": "Peter Schiff Doubles Down On His \u2018Black Monday\u2019 Call Again: Ethereum Could Hit $1,000 In Two Days",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUdkTG1jT09CaFhNcmhOUnhGWlBGbzNsZGcxdXBOTHhWVDQ0c3haS19Ccm5LWFdtWlp5RzFzekdHR2pJY1BBQlJ0eVhPLW54aDhfYjJjcDc3cnM2bTNDR3pmLTBvYVhMTDA4WHVab2IwaWZZWGpXaXRMUTNFb3h4SHVZYlRMaWZJVFdMam1WX1JjS2J4aTNDQVFuYS0?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-21T10:40:25+00:00",
-   "first_seen": "2026-11-21T11:35:24.039403+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Hyperliquid Anthropic Perp: $111 vs $111.50 Open",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGVNTG13VGJiUzdvQU5QXzBUWnFjQXBBLVhhSXRoOHlCUUYteFBfcWhzejFEVk5PV29hOGNySWhWRFdsTjV4d05TclBoT3h1YjV1NVJpbzY5YVJZSm5vLUlzTzZ1UDZFYjdrZGJRT2NUU2J0M2h6eHBPdl9QekxtVW9wQ0Q?oc=5",
-   "source": "shattered.io",
-   "type": "news",
-   "published": "2026-11-21T10:39:22+00:00",
-   "first_seen": "2026-11-21T11:35:24.039403+00:00",
-   "topics": [
-    "Anthropic"
-   ]
-  },
-  {
-   "title": "Chainflip loses $4.86M in crypto hack; stolen f...",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm5pc29uTmpoRS05S3ZzRlM5Q3BnOTA4Rmp2QjdVeTEtdjk2Qmx3Z1ZZb3JxX1NCMl9VMHh2Yzd6c1lPRlhqSWstY2xISnFRY3BBNms1clljaWRXYzRyS3lheEFlbVV0RmZ2M3dWeXk5SVQyZmF6Ql9XZUN3VVpZNmJ6UWlYTjFjTEN1eDNwMXJqQkswX0pHbw?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-21T10:25:21+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Chainflip"
-   ]
-  },
-  {
-   "title": "Wells Fargo Led Wall Street\u2019s Bitcoin Buying Spree in September as Institutional Holdings Hit a Record",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rZFhhTTFZRVB5Rzg3VUhGakI0LUczU3M3WnY3aW5VbnNFd3RZSlgzRWtZNG9YVktfMHNIXzFVSU9EbkU2eUVUb0V1b0l3N3F2T2xWXy12VUQ?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-21T10:21:36+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin",
-    "Wall Street"
-   ]
-  },
-  {
-   "title": "Ethereum Staking Inflows Climb as ETH Price Slides 2.9%",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGtWZm9JRmJyRUtzbVViaHV2OG5sb2I0Q2FLaTNWZWc2eVVMNHBVYThRV3g5allETDRwNDlaRzFhYUZXQnpELU52My1EQVdPQWRFc0p1VFp2WnZYNHJoelMtRWtxUVJwMjhhOHpzcDhvRW80SWdGTkdDQURaTVllaUtKakE?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-21T10:11:30+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Chainflip loses $4.86M from Ethereum vault, trackers say",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sSWRyVW83SElidDE2N1pVVE1LQnhGcmVBN0JRdUlMMWZ2SThKY1p5MmdVQzlYMGRYRXp2UzdENWdyYnZaRll3bm9ILUEzelppWDlYZldMRThRMzVqWW80?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-21T10:05:32+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Ethereum",
-    "Chainflip"
-   ]
-  },
-  {
-   "title": "Bitcoin Falls to Two-Year Low of $55,533 Amid AI Sell-Off, Binance Hack & Rate Fears",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GME9Wd3JMRmxKZzIzT1ZsRi13QXhiN3ZoTXc3ZzBlTjJzcEsxcTV1RXRUUkUwUFRwM1kyOWJjNDA4VWwxeTVXYVN4cDFVTEc3NjBzMWwtU19ybTZ4MzNZWkp1WjNmc0JyallRQlp6ZlYxTFlhQ09FU3dpNA?oc=5",
-   "source": "Pragativadi",
-   "type": "news",
-   "published": "2026-11-21T09:51:16+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Falls Below $75,000, Crypto Stocks Plunge as Clarity Act Vote Fails",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLTlMOFdMQ3U3TVBxVzZkWElVWEpNUHRWaXdYcXloUlEwSF9fVElUbmhGSXRFeWFRTXBMNGxlOXJqSjdBMmRWb1JuTnlsT0h5a1R4bFdHdDgxMDdVUWloM3pnWDRRcmlXdU92eDFlUnltTHpEVllZODVUVlhpQlc4TGJCbGR5OUd0bnJmUHhqTF9VVVpVRGZieGpMUEF4Und4bHI5WnpGNERIU2ZWVElzU3hvcWlmMHBOdHRYcFB3b0RxdU1NSHhMVFFmZlNqeXhIYXNKbnkyMU0?oc=5",
-   "source": "TradingKey",
-   "type": "news",
-   "published": "2026-11-21T09:49:16+00:00",
-   "first_seen": "2026-11-18T09:29:56.435320+00:00",
-   "topics": [
-    "Bitcoin",
-    "Act"
-   ]
-  },
-  {
-   "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-   "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-21T09:48:56+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "GENIUS Act: OCC Applications and Waivers",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUR2czBWMVpVTVNDVjNGS0JHNFVmTVBHQWFaNEtEQnA3bV9hTjQxZU5fZ2FRMVZwZHpQWFRnNWlUbkFmQl95V3NtRFliSkpUSWhTVUxub1RTQ2VINXZUckNaakNiTkhXWHRRQzhWb2Zsb05SQ0trOWRtdFBySTRHQ0o3V3VldEo2MjJFbHAxeDd0eV9meXc?oc=5",
-   "source": "kpmg.com",
-   "type": "news",
-   "published": "2026-11-21T09:29:13+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Stablecoin",
-    "Act"
-   ]
-  },
-  {
-   "title": "GENIUS Act: OCC Final Rule for Payment Stablecoin Issuers",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVhDODg1WmdGMXRaMW5UY3JXMXRkX01JQUVLMlhLWGpScW52ek9wNlNhV0NxWHFjVHUtbEQ4bkFKTVY3M0kwUGVRV0xoWnE0MW9DWG1SbndCYS1uYkc2N2VxdXUzYUo5dTlrTTFVNEdiNTNZYmhOTHl5VkZ3emIwZjA3VkR3aFNSNmUzS1NzYlVEa1B0Mm5kUXJpLURvdmNvRHJ6S0FlZmJkTUhu?oc=5",
-   "source": "kpmg.com",
-   "type": "news",
-   "published": "2026-11-21T09:29:10+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Stablecoin",
-    "Act"
-   ]
-  },
-  {
-   "title": "DeFi Technologies Inc. (NASDAQ:DEFT) Stock Has Consensus Price Target of $1.28 According to Brokerages",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2VzeU1Ib2haaFlmc1BXbGtZVTlZZmV5MVNzWTVOZHVmQlgwT0laVUp1X2IybXJPWTIyN2JsbDlpT0FmQUx2MDk3NllpeUtnSjJtNHh1cTN1TC1yMktrOVNpU3BrNkZtZElsZkdHOXNjVGp0Qzd5Mmg0cEJLTEplb1hDZFhRck9uZHRLSVhSMXk4Ul9xblZWbFVqVVd1c0NSa1B5Mi1sOTlSTzQ1R3hKZ0o0d0JhVUxBb2tSWDJaZm5KSE4zN0hGUDAwaHJWejhUVGJrTkNQRV9RLW5mR2V0X0tLbGMtQVJ0RXdXLUhiZEVkc28?oc=5",
-   "source": "MarketBeat",
-   "type": "news",
-   "published": "2026-11-21T09:22:29+00:00",
-   "first_seen": "2026-11-21T11:35:24.039403+00:00",
-   "topics": [
-    "DEFI",
-    "Nasdaq"
-   ]
-  },
-  {
-   "title": "DBS, Circle Add 24/7 USDC Redemption for Asian Institutions",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pZFBxY29PUW5qRjdvVjBqaW9rUXA1TThzY0F3TWRvTnpUdll5cF9RMEJGcTJraGtIb0w1X253TF9MVlhWY3VxSUVEWU9kam5xT3JWSE1obnJDLXlNa3hwQWlqaGJpaVdTQUxBYjJvTUZjSTRkclhMUA?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-21T09:20:12+00:00",
-   "first_seen": "2026-11-21T11:35:24.039403+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Hashi Brings Bitcoin-Backed Lending to Sui Mainnet With 20+ Partners",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzRzRMeG5hZmhSWnB4Ym1iZXJzd0kwNlpwNG5CMjU5dVJrTXkyX2dQdzZOV2dkYUdWTTVRWnY5VjZYa3dSS29pZzNabW8zSVVxblVROTUtdG5sRzEtWFpfQS1RTVRreGdlVnRkUVNqYWVJbjJfQkxQdXNqMA?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-21T09:10:59+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Whale's Insight: Can Bitcoin Find Support After Anthropic\u2019s Record IPO?",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWF9iUmIzZmhjM2g4NWozaHlDWDV5SUdKcUVVRjZxcXNTTGstank5T2pKbEFRcHNJVm8taTlpOHl1RmZjMHROMTF0cWhKNnVPM29yV054WGlTRmdnWUhTaUhieXdlaEU4RUpranNqRkFQWlE5TUxZS2NOOTJRZkp3QVF4RGQ1WVVZZ0o1NDhZYXRvWkJvYTRWalZIOWVMVzZPUUFpV0dnWVN1LW11?oc=5",
-   "source": "Seeking Alpha",
-   "type": "news",
-   "published": "2026-11-21T09:10:00+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin",
-    "Anthropic"
-   ]
-  },
-  {
-   "title": "Is Anthropic's IPO Fueling Crypto's Sell-Off?\uff5cBankless",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBua01rU2VJTUc4TGRDNC03OVFJZFhDUnRfQTRodXZuQ19iMWtKdEw1ZG9vZ3pTeWhfa0Q5UWg1T2J2Znh1c3VEMG1MZVVMUkwtbHlDVWFaczdiMG1vNnhr?oc=5",
-   "source": "finance.biggo.com",
-   "type": "news",
-   "published": "2026-11-21T09:08:39+00:00",
-   "first_seen": "2026-11-21T11:35:24.039403+00:00",
-   "topics": [
-    "Anthropic"
-   ]
-  },
-  {
-   "title": "REALITY CHECK | The Bitcoin Bet by the World\u2019s Largest Institutional Holder is Now $14 Billion Underwater as BTC Falls Below $60K",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWVXpnV1FseU9KWkJDbWJ6Qm1JMDVxODlwUVVyd1pEUjFZd21HWmkzbUM5dndVbjdCdE5hQU5yYW0wUzR6S3NEOGQ1ejFqT0UxN3k0bjktS25aRng5cU5tUF9GWTIxNFdNdFVIZmJB?oc=5",
-   "source": "BitKE",
-   "type": "news",
-   "published": "2026-11-21T09:00:19+00:00",
-   "first_seen": "2026-11-21T17:00:00.588796+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "QCP Lists Three Conditions for a Bitcoin Recovery: Pressure from the Fed and Japan Is Mounting",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TSFA5Q084NkRiZXdFYzhQTktZUU5vemJPX3BBWGw0cWx1bVV4bzAwUXFibEttbXFHTDNnc3lpSVlyN0hkLVFYc1JBUlFtd3JDbDhyUjB6YU4?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-21T08:53:07+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "[Analysis] Bitcoin Investment Capital in Unrealized Losses Nears $950 Billion",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94aHROcHVLQ2M2NkRqWGo0dHlwdFJqZ3lQUGRKaGhSVk13ZlppRk5IVjVWTnQ2SEI4M2lNeEg5M0dCS1RVbXNZTVBiTW5RaXBYdWMyVw?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-11-21T08:45:32+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ledger Tampered Wallets: Seed Phrase Implants Found Across Asia",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3hkQjFHT0xpRlVmVGZwODdEWVE3akpJV3NtSS15Q3VTRTBLZEV1ME1LaVQyazduSFlZZkpSZl82bDMxaWM1S0NPaThTQVJEeWpGMzJmM1RlR2FlSGpTLTQxVkRGX2ctUHJYbG8yaWMyZWtDT3NZdEdsZjlBY0FZNHZCcjdxOTE4UFE?oc=5",
-   "source": "Coin Gabbar",
-   "type": "news",
-   "published": "2026-11-21T08:45:00+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Asia"
-   ]
-  },
-  {
-   "title": "Why Is Bitcoin Falling? What the 4-Year Cycle Says About the Bottom",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNy11clZES3haMWwwWnF3YXZTOWt3bHdPdTVDejRxb2RxRjNyNzhJM0dMSFYxUGlTS3NLMDBQbDJRMkNtc3ZBdG1XSnVuY1hVTDBEWjFPT1ZXbjF0aUQwci1xMFlST0huRVJPYUJDZkFhcmNwMWt1REl3cXJTUTJKTE9NZl93SzF0UFVvQ1hhbnhSWERKS2pZcDltTFBHbUJtRXVv?oc=5",
-   "source": "Around Prague",
-   "type": "news",
-   "published": "2026-11-21T08:44:24+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Nasdaq, Inc. (NDAQ) interactive stock chart",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54QkR5bzRpQUR3M3hUS0dpZWk3ZlA0UWI5T0JEUnMwNy05bkktTm8xZWVnaTk0VHppOW5RTDE0OFYtam54RUM2QkpRb01VcmgwWU9iU3gxYWZnZw?oc=5",
-   "source": "Yahoo Finance UK",
-   "type": "news",
-   "published": "2026-11-21T08:27:53+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Nasdaq"
-   ]
-  },
-  {
-   "title": "Bitcoin falls to 2-Year low below $56,000 amid $2 billion crypto liquidation",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnBJY1cxQVduLVMwX0xEYXJFanNWeXFMRlEyV1pqdzB0bk5mWVA4X21UYm9DZ0pyZk9nblYwYmdRMVRDYmhzMEdKeHg5U0gzbTdvZGZQaHBvR1BLb2xSOWxDT3VROGU1VGNyMkJGTDMyT3ZMQy1wbTR6ZGV4ZmJ0TU1JdFpkd3JKdFROU0tUSW50OGhHX1BKRm1kX1g5X2RUV2hiY1EyM2d6VHkxeTUtTmpZX2NTUdIBsgFBVV95cUxNMzdJa2tjamswOFNpb2dHZ0pETDdpRFRibmlyN2NVajZRS1R3MzBMY2xRV2VzODFaZmwydHhGOU1MWUZ2X0lLaUZtTjZHSlpmSHg0N2F1OGkycGpEQWpIMENhRWJfRDZqbkdtUWloMEZLZ3lkVlRkLXR4WUcxSEhpVWVPOWd4VVd5bXhqUGV3NGtkVW9LWXg2RGJIWFJqb2FfUmdqcEJjOGd1dXcxTUo1LUpB?oc=5",
-   "source": "The News International",
-   "type": "news",
-   "published": "2026-11-21T08:21:00+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Scott Bessent Urges Fed to Avoid Major Rate Hike Amid Energy Supply Shock",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWVSSTNoc0Z5bjh1Y1BuTmtQT3B6bmZ1OEJNWE5PM04xRGZNb1VxV3VEbTM1TU14eGxuTXh6Z2ZrS3ktUnlCVWsyTjFUODMyT2ZaRXJsX01ycmhsbjRuT1RBYWs2QmM5STJfUjBqMF9fWUEzS0JzS0xRdUVVQW9NdVpR?oc=5",
-   "source": "Hokanews",
-   "type": "news",
-   "published": "2026-11-21T08:16:00+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Rate Hike"
-   ]
-  },
-  {
-   "title": "Anthropic, PBC (Coinbase Tokenized Stock)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQzVtMjRUV2VYWW83aGdGeS1TNWVNVE9TWVYxZHo2aXl3cHVtVzBpUGpTYjhUeGY0UU1FdXQ5RUVGLThVQmdqU1lUQUhwRTNIMHZaQUt4bFhTV1V3MS1mZ29nbDBuSDBrZzhqbzZmcVM2Ym00d0djMldZNS1jWDA?oc=5",
-   "source": "Blockworks",
-   "type": "news",
-   "published": "2026-11-21T07:59:55+00:00",
-   "first_seen": "2026-11-21T11:11:16.793790+00:00",
-   "topics": [
-    "RWA",
-    "Anthropic"
-   ]
-  },
-  {
-   "title": "Bitcoin falls below $60K amid warnings of a dee...",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEp1YU1HVEpYTDl1NkhiMm9JaXFmLTdodmxNX1lUZUZJSklrbVhMQklaMVllYzdWSnZid0owbndIOVhqek9WZ1g2bFp4SHBWd3pSelRlNWdOUzVJYWxWRkdVMzg0NUh4UEctbHBvTVdHdGJ4SVdtaHpPZ2hkdW9FM2gxR1EzYzJqUDR3U2tLZ0ptcEN5X1dCQTVHNXNCSjEtUG45dVRyUEtVNHVN?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-21T07:38:34+00:00",
-   "first_seen": "2026-11-21T12:02:15.815022+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Zcash, NEAR Lead Crypto Losses As Anthropic's Market Debut Fails To Spark Risk-On Rally",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGlfMWFXbWEtaHZsWFJHcUxOQzVJb01xZU9fTjFPdlF5V3RnLVN5Y3RIRlJlZEJBMGR0MEg0cmtwUU5ZSFNXR2Jpb0NESTBfa1lQSU4tMGNZbm5fYXdhMGhNRDk0alBhcTJ6eUx6Q1N5d2FzaE9KZ2cyakprN0JJN1JsLW9EdFlpLVJKN3p6N0VMVG94ZlA4WXRn?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-21T07:38:00+00:00",
-   "first_seen": "2026-11-21T12:02:15.815022+00:00",
-   "topics": [
-    "Anthropic"
-   ]
-  },
-  {
-   "title": "DeFi Janus Henderson Anemoy AAA CLO Fund",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KWlN0RGEwVnptcTFfTWtSc3pjSXRJak9jb0N0RDZ4ZVNjVmw5czJVNmZQbmZES1h1OVN4NVdhdG9ZNkczWGs5Si14WE0wTzlneHlmdFlkSjNBOGlfVDhGWlFXS25NSXRFWEtPdGtybzZmQlhuM0l2bEo0Tkc?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-21T07:37:04+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Why Is Bitcoin Falling? BTC Price Breaks $60K as Gold Sinks Too",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWJaOGItOV9Jd3RJVWFQMWxaSmFGWXBtSWU0cWV3cy14U25KaWFmU2twN2o0WkJ6R0ZoSUFnNnEyajhWNVNlNlRVZDBpZHFOcmN4ZXlyTVBDdnNkdG5XQTVkUC1nVHlPZlpPQWVJQmZRRUZ6U01CVUYtODYycXRibWtlTW5LWG5fVnc?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-21T07:14:45+00:00",
-   "first_seen": "2026-11-21T12:02:15.815022+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
   }
  ],
  "stories": [
   {
-   "title": "Chainflip loses $4.86M in Ethereum vault hack, FLIP token drops 39%",
-   "outlets": 11,
-   "topics": [
-    "Chainflip",
-    "Ethereum"
-   ],
-   "items": [
-    {
-     "title": "Chainflip\u2019s $4.86M Vault Drain Used 1 Valid Signature",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFdKbFc1cnBhNTRFN0h4Sm5ZdXp3aDI2eHY3SU5OSlFfVThmeF92ZkxNSmZYZWx5NV9WTzEyWDNXRkdrNi1ZbHllNVZoUFZvc0o4Rk9VVk53WVBYcVkxcGkwLXQ0d3JLY0JaenZlMW1kQ1JRQ3FYZlFXZEhBV2s4TG9aR0ZTZFJCQ09yOFpqR29FaVNESG1jMTE3NVloTXh6SW84?oc=5",
-     "source": "shattered.io",
-     "type": "news",
-     "published": "2026-11-22T04:24:23+00:00"
-    },
-    {
-     "title": "Chainflip suffers second major hack in 10 weeks, FLIP token price halves after $4.86M loss.",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDV6STNzRk52cjV0Q3hPRzItV2duXzJpTVdRUmxXQWpTTW1BMmhRSU1oMkJ1X3hNTE5ZVmpoMDN6NERaTVptd3ROamZVUTFYVGg1X2RHazdkS2tFeVdXLTdNOTY2TFBpUkdBWXBIVmFBLS1GN3Q0MHp4QlNjQjgzcUpfOHpvZms?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-22T04:08:24+00:00"
-    },
-    {
-     "title": "FLIP Token Slides 29% After Chainflip Reports Potential Vault Exploit",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVVSQmU3Um1nbW5XaVBYRVp2UlFqRFFyU0pJc2cxaGVDa25EVnBxb2xxOE44aUtFcmRPV1pBckJYdU1WV2ZldFd1dFZfenA2eXNvQVNDQmlsTEhCMzlZTUNTMzRMWXhmeGM0bm9YRHRvM2xvOGtEV1VwOHVPNlphS0UyUGgyVnlQNmJCRkYxTzhYWGp0LWJSa2h4VW1HVU56QnRyRk1XLXJ2ekk?oc=5",
-     "source": "The Crypto Times",
-     "type": "news",
-     "published": "2026-11-21T17:42:14+00:00"
-    },
-    {
-     "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-     "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-21T16:41:00+00:00"
-    },
-    {
-     "title": "Chainflip pauses protocol after $4.86 million vault hack sends FLIP down 34%",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEJUNDZnWThtR0dHemlrYmtWSVhSaXhwWF8yWkdkSExfYVJkckNiaE9KZVJQdlhVQmFMbjJMZ2ZheXBvckdCU3hvcHdtak1rcks5NXJ2Q3lINEpYenh1NU5YMXEwSGdza21ya29kOGhnSzVVdnZUVjlISWhFY3hwOEc5MlBhdVNGQ1JWMEU2YkUxTkE?oc=5",
-     "source": "Traders Union",
-     "type": "news",
-     "published": "2026-11-21T15:41:24+00:00"
-    },
-    {
-     "title": "Chainflip\u2019s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
-     "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-21T15:24:14+00:00"
-    },
-    {
-     "title": "Chainflip Hit by $4.86M Exploit as Ethereum Vault Drained",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3g4dEJZZ25xQ0M4RFJFZVJqSXBGRjM5bmswZG1ybW1sVkJUZUZRZ01mRktUSzZzLUhteVI2dUJCSlN4Wk1ub0R1dTRybC1tWWJySWtYU0poMDlSN1dVbkxWUVF5MFpreHBOMHVlX2FOSy1yVzFmc0Fra0dBNnBBUElaUVVnbmFUd0dRTdIBkgFBVV95cUxOck43TjM3a2ZmbzFXRnMzcGNGNUw5OTFpR3loRkhobDdKczhpTWxqQnNEUWxfMk1oWUV6MGdvcjlyazh1a3IwRmFqM0p6elRlbUh3bnpvdmlublNwWWd6N3JCMVkzc21GMTdHQkVwWG9fd0tyOTV0V3dVekk1dTkxaEc3TW1vRGEtWFlDUDY3Ynl1QQ?oc=5",
-     "source": "Coinpedia",
-     "type": "news",
-     "published": "2026-11-21T13:36:09+00:00"
-    },
-    {
-     "title": "Chainflip Suffers $4.86 Million Hack",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mNzgwVDFkMFRxVHVHM29ZeXNPOFM0UmM2S2ZBNVlFRmpVWG91RjkyQVJpVnZMYU45ODFtMzhOTjlKTTd2ZEdFSkU4ZGVweHA4eDNUSw?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-11-21T13:20:43+00:00"
-    },
-    {
-     "title": "Chainflip loses $4.86M in Ethereum vault hack, FLIP token drops 39%",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2RCbl9LcWRGYjg3bEtwNVVwcHJLTUJtT3BKRlhfSWhPeDhmYmhOTFE0MGV0Q3djQUdiY1dqNU5LTjdzS0xNQlU3QUtSZnJUMnNIN19WS1g3bnhBYzVYNS04MGhmQ291UUtybUdJdEk3cmliMVRwbDR6Y3AySzl3Y2owbnM4ejZJ?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-21T12:33:41+00:00"
-    },
-    {
-     "title": "Chainflip Vault Drained of $4.86M as Validator Signing Key Comes Under Suspicion",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pVFBKMC0tRVd1SS1XUTVvb2ViUTRjcFhhM2luYVREQm0xN3Z6WmVFOEFMcWg1aUhjTjhjN1M0MUJLWGtmY1lXTVdRZnYxMmRWdzd4Rm10Y1BqUkN6R244UWF4VnBOZkRiTnlSOHRhcnZjVk1EdWc?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-11-21T11:25:00+00:00"
-    },
-    {
-     "title": "Chainflip Halts Swaps Over Potential Vault Exploit",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVhZdG1MVlI2NDZxNDRBalg2YzZwNTdPN2JQdGpGRERGV3Z0dHpCaWxabUMzVXA5bHQ0QW9xRVNnd29pUHZEWXQxaXNPLTlfMU5Wc3g2N2tZeTJEQjhQZ2hIMkRZY2pIRWhtNllpRzZVLThOUVZTRF9DRWR1VTJVVnNfdVlucUQ3aFd4Qi1KTQ?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-11-21T10:49:14+00:00"
-    },
-    {
-     "title": "Chainflip loses $4.86M in crypto hack; stolen f...",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm5pc29uTmpoRS05S3ZzRlM5Q3BnOTA4Rmp2QjdVeTEtdjk2Qmx3Z1ZZb3JxX1NCMl9VMHh2Yzd6c1lPRlhqSWstY2xISnFRY3BBNms1clljaWRXYzRyS3lheEFlbVV0RmZ2M3dWeXk5SVQyZmF6Ql9XZUN3VVpZNmJ6UWlYTjFjTEN1eDNwMXJqQkswX0pHbw?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-21T10:25:21+00:00"
-    },
-    {
-     "title": "Chainflip loses $4.86M from Ethereum vault, trackers say",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sSWRyVW83SElidDE2N1pVVE1LQnhGcmVBN0JRdUlMMWZ2SThKY1p5MmdVQzlYMGRYRXp2UzdENWdyYnZaRll3bm9ILUEzelppWDlYZldMRThRMzVqWW80?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-21T10:05:32+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Chainflip Hack Losses Swell to $12 Million; Offers 10% Bounty for Return of 90%",
-   "outlets": 7,
+   "title": "Chainflip Offers Hacker 10% Bounty for Return of Stolen $12M",
+   "outlets": 9,
    "topics": [
     "Bitcoin",
     "Chainflip"
    ],
    "items": [
+    {
+     "title": "Chainflip offers hacker $1.2M bounty after $12M crypto theft",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NbW5MMTRuWTBWMzlvMnVYejZrNnc5bWx6MlR4YVVJT3hrUjN2d2R5TFhxd3dWbFp1Q0F5S0VWVTBPV3pJVll4WTlKM1R2N25mWnhIcjN6ZzA0RUxnbG1hNmp1a3NWVFBqS05IRG9IR0lzOU9j?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-22T11:54:43+00:00"
+    },
+    {
+     "title": "Chainflip Offers Hacker 10% Bounty for Return of Stolen $12M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanAyWUpGNmRDSFpMTEVXVUpkUktDYTRhTmxXaE1ZMGE1dm9fUnBRTFpGWGwwNGgyNWExN1RraUFxUGE3a2phS0h5bWViVXRMY1Q2RDlfbDZvckI4OEJESkp0bGtYRU42QkstSV9aV0JSM2ZfYVV4ZHJJal9PcFNwcUc0d0YwUHVFRHc?oc=5",
+     "source": "ForkLog",
+     "type": "news",
+     "published": "2026-11-22T07:41:40+00:00"
+    },
     {
      "title": "Chainflip offers hacker a 10% bounty after a $12 million vault drain",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVdCRVlhckxWR3d3WkxxY2RRdXE2cHVZY1hrTDZ5bmIwaEI5ZWFuQmhPOFUxM0dxNmFZVDZqbmo1UDM3RGNvdUhwNHBFc0x1cXdKY0lzcW5TaDlDZ3lrZ2ZDcXBfZ096UkN3YnNJbTdqNmRacTdfLW5Db0xTd3c1QWlySjEyRGFEcXFlS3dUVV9DWENTNzBpNXdB?oc=5",
@@ -2652,138 +1880,68 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjdpTmdXNVBzczFKbnA0UUJPU2p5TVUxRmcwRnEtOHVISGROQjI1VDVtLWNqUWRMeGtDYUZzLWJsdURMNi1peXZTXzIwZmVabjVUdTRNWmxlb2dobmR5aks3dkM1dmdZZGhmLWdVVlhNS1ZPR29nMGFkSFhvbE8xZUU2WHA0UHNzX2hRUjVkVQ?oc=5",
      "source": "The Defiant",
      "type": "news",
-     "published": "2026-11-21T21:35:14+00:00"
+     "published": "2026-11-21T20:35:14+00:00"
     }
    ]
   },
   {
-   "title": "Bitcoin rises over 2% to more than $60,000",
+   "title": "Chainflip pauses protocol after $4.86 million vault hack sends FLIP down 34%",
    "outlets": 5,
    "topics": [
-    "Bitcoin"
+    "Chainflip"
    ],
    "items": [
     {
-     "title": "Bitcoin tops $60,000 after crash: What could sustain the recovery",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkNExRV3FMWW9meExJbktHdmtuR3ZLc0pha3BFS2xMNHBsTTM4dFZGUzR4UkxVeUh6WXhhSkRyZE0ybERIU192NF9HTllyQnQyLXdoRFRDZjU?oc=5",
-     "source": "Cryptonews.net",
-     "type": "news",
-     "published": "2026-11-22T04:52:56+00:00"
-    },
-    {
-     "title": "Bitcoin Rebounds Above $60,000 After $2.4 Billion Liquidation Wave Wipes Out Leveraged Bets",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTktBYWZxbXJtWElUWTdsUnFhZGlQRzFQbjRiUGRLcHcxdk1CRnpXSTRDOEM2bWROd2Y2MGRlb3VKR1J3VU1Hb3dObXBpblAtbjlWNDF6VmVZZF9hNHJKMjJpT2JhMnhjVlU2WUxSbmpadVhHQXc?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-11-21T22:35:00+00:00"
-    },
-    {
-     "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-21T17:50:00+00:00"
-    },
-    {
-     "title": "Bitcoin rises over 2% to more than $60,000",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5",
-     "source": "Reuters",
-     "type": "news",
-     "published": "2026-11-21T15:25:43+00:00"
-    },
-    {
-     "title": "Bitcoin falls to 2-Year low below $56,000 amid $2 billion crypto liquidation",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnBJY1cxQVduLVMwX0xEYXJFanNWeXFMRlEyV1pqdzB0bk5mWVA4X21UYm9DZ0pyZk9nblYwYmdRMVRDYmhzMEdKeHg5U0gzbTdvZGZQaHBvR1BLb2xSOWxDT3VROGU1VGNyMkJGTDMyT3ZMQy1wbTR6ZGV4ZmJ0TU1JdFpkd3JKdFROU0tUSW50OGhHX1BKRm1kX1g5X2RUV2hiY1EyM2d6VHkxeTUtTmpZX2NTUdIBsgFBVV95cUxNMzdJa2tjamswOFNpb2dHZ0pETDdpRFRibmlyN2NVajZRS1R3MzBMY2xRV2VzODFaZmwydHhGOU1MWUZ2X0lLaUZtTjZHSlpmSHg0N2F1OGkycGpEQWpIMENhRWJfRDZqbkdtUWloMEZLZ3lkVlRkLXR4WUcxSEhpVWVPOWd4VVd5bXhqUGV3NGtkVW9LWXg2RGJIWFJqb2FfUmdqcEJjOGd1dXcxTUo1LUpB?oc=5",
-     "source": "The News International",
-     "type": "news",
-     "published": "2026-11-21T08:21:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Anthropic PBC Tokenized Stock (Coinbase) price today, ANTc to USD live price, marketcap and chart",
-   "outlets": 4,
-   "topics": [
-    "Anthropic",
-    "RWA"
-   ],
-   "items": [
-    {
-     "title": "Anthropic (EQX Tokenized Stock) Price: EQANT/USD Live Price Chart, Market Cap & News Today",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zcU1nSWhfbTZNdEpFX0FtYUQzbTNqSF9aUm1iZWRZSGRjbVpMMjVlX0x3Z3VyT3g1N2FvRE9rajg0X0EweFZKa2pSbTFRSmVOM25WZXpYdXkyWTRBZlZ1SFZ4U2tmeThSamlTSTdmUG1idw?oc=5",
-     "source": "CoinGecko",
-     "type": "news",
-     "published": "2026-11-21T13:10:50+00:00"
-    },
-    {
-     "title": "Anthropic PBC Tokenized Stock (Coinbase) price today, ANTc to USD live price, marketcap and chart",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkMzWVdhd0VZeXFDTUpKdTRJU2xBWDNoejNORVQ1UEZhYmxFUlIxSjJ5UkN0MW9jYnd4Q2RPdzJJdDQ3NnYycUs3bVFEU3lUeU5KV3Z3by1Vc3hhWl9FeGMtVkFsTEk1QmNzdUpFRTRkb1RMODhDWXNzWEN0dlpqZGJR?oc=5",
-     "source": "CoinMarketCap",
-     "type": "news",
-     "published": "2026-11-21T11:46:28+00:00"
-    },
-    {
-     "title": "Anthropic Tokenized bStocks price today, ANTB to USD chart, marketcap and volume",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYUE3b3NrOGVWV2dCRlJ2b2ZhNmg3cFA5YmZjaUVwS1BtSjdXbHR6TjhzZlRnZnlxbFVNZS1PLWtJTV95N3dDRkJPUVF5V253bmZlUEhFa09iWWFHWUxMT3NjM0lIMWxCbXc?oc=5",
-     "source": "CryptoSlate",
-     "type": "news",
-     "published": "2026-11-21T10:57:48+00:00"
-    },
-    {
-     "title": "Anthropic, PBC (Coinbase Tokenized Stock)",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQzVtMjRUV2VYWW83aGdGeS1TNWVNVE9TWVYxZHo2aXl3cHVtVzBpUGpTYjhUeGY0UU1FdXQ5RUVGLThVQmdqU1lUQUhwRTNIMHZaQUt4bFhTV1V3MS1mZ29nbDBuSDBrZzhqbzZmcVM2Ym00d0djMldZNS1jWDA?oc=5",
-     "source": "Blockworks",
-     "type": "news",
-     "published": "2026-11-21T07:59:55+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Nasdaq-listed BTCS warns of potential $54M loan liquidation if ether price drops further",
-   "outlets": 3,
-   "topics": [
-    "DEFI",
-    "Ethereum",
-    "Nasdaq"
-   ],
-   "items": [
-    {
-     "title": "BTCS Warns of Liquidation Risk on $54M Aave Debt",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3FCS3oyWDJIZFV0aUdfZ0d1VjNVa2ttWkRyaE5SRjEzcERVa3RmVTBaVnJkY0ExOExDa0FvVVltbV9MODRQTlV4MDc1YndWWUR2NE9tUWQ0Q3NsbF8tZVgwSUlyU3YxUlNyT18zZmNfVEVBMFdHZV9vLUxKQlhlTHFKc0dmdw?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-11-21T13:45:54+00:00"
-    },
-    {
-     "title": "Nasdaq-listed BTCS warns of potential $54M loan liquidation if ether price drops further",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONDJrQl9GZEtYU2FlQlBYNEdpUnBYNGMxdEhHVGN6WWhPLXlVbU95QnBoM29TQklvTVVNdDdLdjROaXFHejIwSWRTRmxLekd4aExxbTc0MGFxVzZSbG9pTWFzaXVuUnRGNjdHZjhvY3dLZURRVDZYVnlRaXpOaUNpNV9CZjJ6WUdtMnE3RERYazN0ZHZtZEE?oc=5",
+     "title": "Chainflip suffers second major hack in 10 weeks, FLIP token price halves after $4.86M loss.",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDV6STNzRk52cjV0Q3hPRzItV2duXzJpTVdRUmxXQWpTTW1BMmhRSU1oMkJ1X3hNTE5ZVmpoMDN6NERaTVptd3ROamZVUTFYVGg1X2RHazdkS2tFeVdXLTdNOTY2TFBpUkdBWXBIVmFBLS1GN3Q0MHp4QlNjQjgzcUpfOHpvZms?oc=5",
      "source": "Pluang",
      "type": "news",
-     "published": "2026-11-21T12:53:45+00:00"
+     "published": "2026-11-22T04:08:24+00:00"
     },
     {
-     "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-     "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+     "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+     "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
      "source": "CoinDesk",
      "type": "news",
-     "published": "2026-11-21T12:30:00+00:00"
+     "published": "2026-11-21T16:41:00+00:00"
     },
     {
-     "title": "ETH news: Ether\u2019s plunge puts a Nasdaq-listed treasury in a $54 million loan squeeze",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVR5MTBENWtxU0Rua256bjlYTmpSd2swZER0TV9ZNGxLWF9kM01nS0JOUUkwbThzUE9yUDNQSXRkWU52WlhqX18xN2F0VnVrUFIxcnVUeTV0Z1d3MENSUkptc0NwX0lBLVdRc2Z3MmlHaU4zSFBQNWY3ekU0S0p2NnU2R254dFlLYXRpV1Z0NzNfNGg1cGhUZHRiZDRVeWtEdVJQUHZ4NFpBZF9xaTNsaURiOUlDb0JYT0xzd1FLQ0F6WkRO?oc=5",
-     "source": "CoinDesk",
+     "title": "Chainflip pauses protocol after $4.86 million vault hack sends FLIP down 34%",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEJUNDZnWThtR0dHemlrYmtWSVhSaXhwWF8yWkdkSExfYVJkckNiaE9KZVJQdlhVQmFMbjJMZ2ZheXBvckdCU3hvcHdtak1rcks5NXJ2Q3lINEpYenh1NU5YMXEwSGdza21ya29kOGhnSzVVdnZUVjlISWhFY3hwOEc5MlBhdVNGQ1JWMEU2YkUxTkE?oc=5",
+     "source": "Traders Union",
      "type": "news",
-     "published": "2026-11-21T12:30:00+00:00"
+     "published": "2026-11-21T15:41:24+00:00"
+    },
+    {
+     "title": "Chainflip\u2019s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+     "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-11-21T15:24:14+00:00"
+    },
+    {
+     "title": "Chainflip Suffers $4.86 Million Hack",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mNzgwVDFkMFRxVHVHM29ZeXNPOFM0UmM2S2ZBNVlFRmpVWG91RjkyQVJpVnZMYU45ODFtMzhOTjlKTTd2ZEdFSkU4ZGVweHA4eDNUSw?oc=5",
+     "source": "bloomingbit",
+     "type": "news",
+     "published": "2026-11-21T13:20:43+00:00"
     }
    ]
   },
   {
    "title": "Bitcoin Reclaims $60K After Plunging to $55K as Liquidations Top $1B",
-   "outlets": 3,
+   "outlets": 4,
    "topics": [
     "Bitcoin"
    ],
    "items": [
+    {
+     "title": "Bitcoin Reclaims $60K After $55K Dip, Wiping Out $230M in Shorts",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjhqekstb3pHT0F4YTVaWWV2aGMzU0U4QzBXRXlCeEJya3YyZ0dvS3FhanNDOUl4QjhBeU0yVmNINHRGd0xORUh5VlJUNVBoYlVlVUFOWGg3TVlmTkoxZVF5Y25sWkt5c3Z3LVJ5MHdlVF9jTm4wUDhDbXoxR0RaMA?oc=5",
+     "source": "CryptoRank",
+     "type": "news",
+     "published": "2026-11-22T06:49:47+00:00"
+    },
     {
      "title": "Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yTXFhb3hnTVpzLUJLS0NWdjh6S1M0Ync5MlNLRGhjV3JxSU12dmRpZGduUG8zLVhzQ1ZBcnJpd3k5eDlKMU5PeHUza21aWUlLc19lMGszN20?oc=5",
@@ -2806,28 +1964,120 @@
      "published": "2026-11-21T16:54:52+00:00"
     }
    ]
+  },
+  {
+   "title": "Kraken upholds trades after Bitcoin briefly drops to $17K on its CAD markets",
+   "outlets": 3,
+   "topics": [
+    "Bitcoin"
+   ],
+   "items": [
+    {
+     "title": "Kraken Bitcoin Price Glitch Sends BTC/CAD to $17K, Down 71%",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTZXRjMwMlpzalZ2amtobUE1YjRMSS10UmxuN1ExX3EtNDNSeklyWG5mcEpqaUdub2xyUkRWYXVpYlpqYWktWm8tRjZKZVFJMGtkdG5xblJDUzJjdHM0UUZLN3RlSnJJaUZTTEJWeUpINW1tZXpyYlAwUm45Rlhzc0NfbXlfb3FVcW9fQ1MwRmdYTjlMc0xtclBpRy1VbzJtVUE?oc=5",
+     "source": "Bitcoin Foundation",
+     "type": "news",
+     "published": "2026-11-22T10:37:35+00:00"
+    },
+    {
+     "title": "Kraken upholds trades after Bitcoin briefly drops to $17K on its CAD markets",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU1VHc2gwbjR4WGQyd191NUVPSm9oUG5feExPU0NpNkhxYWpCSGsxNEpGeThzalNNTHJPd0oza0V5RVdTMVY0UUUweGRqNUpBZjdjMUJMS0xsR0NuX3A4cFBzN1dxSlpPajI2VUhtUnd4ZUlya2ZJWGVBZW4tOTdCSGNXSXFGWG5tOEYySmZxNkpqX25xTmt6aEs1NjNoTU84X01VbU8zUGdieXZHMU1Kdm9sajlwcjRmOFV2QXVPelVRdTZYMTFURHNsMlVCTzh3NFZpa0JoVQ?oc=5",
+     "source": "TradingView",
+     "type": "news",
+     "published": "2026-11-22T09:46:29+00:00"
+    },
+    {
+     "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+     "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-11-22T09:33:06+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin Reclaims $60,000 After 9% Bounce From Two-Year Low",
+   "outlets": 3,
+   "topics": [
+    "Bitcoin"
+   ],
+   "items": [
+    {
+     "title": "Bitcoin Reclaims $60,000 After 9% Bounce From Two-Year Low",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY25qNzBjVkZVVER3RXNwamxUVlViVms0UzVMc0hFdVUydk9RMVl1X2NxSXhDN1c4Ym1ld2p6bUdzTzRhd3VBOXJPX0UydUlBUEpubWpPZ1o0YTBPeGhmLVdIY296XzFKcE5uWXRwaUdNdUM2V1FVdkpvR1lnNmhVLXhJSklOZXZsLXZn0gGLAUFVX3lxTE5jbmo3MGNWRlVURHdFc3BqbFRWVWJWazRTNUxzSEV1VTJ2T1ExWXVfY3FJeEM3VzhibWV3anptR3NPNGF3dUE5ck9fRTJ1SUFQSm5tak9nWjRhME94aGYtV0hjb3pfMUpwTm5ZdHBpR011QzZXUVV2Sm9HWWc2aFUteElKSU5ldmwtdmc?oc=5",
+     "source": "Bitcoinist.com",
+     "type": "news",
+     "published": "2026-11-22T07:56:46+00:00"
+    },
+    {
+     "title": "Bitcoin rises 9% from two-year low, reclaiming $60,000 as forced selling eases",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazQwdWlpUGFEeW94QjNwc09ZYzFHblczcTFvUEI3SzdwMTE4cWw4T0RlcFhJcE50cWhhcWVaWnVxekgzVWJDWjNpWTJoZnEwcDBmVHA4NUZyVi1rNUU0dkRFZkpOMkZrYlBseEN4WWFFenlSbFJZVXp3REFlaUZ1UjNGTjdELVhDalhvd1lFNGJMUHktUlpDOWtCajF3TmZKYy1XOURObVAySU9yRS1Oclc2QTZaR2J5WGhpcXpoRWowaFJEUnpwUEFXYXNtYWs?oc=5",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-21T20:05:04+00:00"
+    },
+    {
+     "title": "Bitcoin rises over 2% to more than $60,000",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5",
+     "source": "Reuters",
+     "type": "news",
+     "published": "2026-11-21T15:25:43+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Ethereum ETH (ETH-BTC) Live Price, News, Chart and Price History",
+   "outlets": 3,
+   "topics": [
+    "Bitcoin",
+    "Ethereum"
+   ],
+   "items": [
+    {
+     "title": "Crypto Ethereum ETH/BTC Chart daily",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3MjZpbVBXNy1Fd1phTlB5MFRza2VuSURKVDk4dzZJcmNvb3JJQ1VzbURBNjEzSEUyTUxNUTczTTFURml2dHFxdnNXbzVkMlE?oc=5",
+     "source": "Finviz",
+     "type": "news",
+     "published": "2026-11-21T21:12:24+00:00"
+    },
+    {
+     "title": "Ethereum ETH (ETH-BTC) Live Price, News, Chart and Price History",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWHN0QTFTcTV1TEV4UDJVVkpzeXd2Z1R0VTFhMzlNMTFxR211T0paMHlOczNaeDlMRTFYYm9SRENSa0V6b2YwSzlqOXpIem5ZQXIzS21n?oc=5",
+     "source": "Yahoo Finance Australia",
+     "type": "news",
+     "published": "2026-11-21T17:22:02+00:00"
+    },
+    {
+     "title": "Ethereum ETH (ETH-CAD) Live Price, News, Chart & Price History",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZDZUSDYzYVZoODV3ejRGUzY4M3V0cFNoS2xjZWpJeHY5c282clJ5dU85T0p4T2lFRnVZQU9IRTlDTG9XLWNJSzVGU2R1ZHVCczI1WHd3?oc=5",
+     "source": "Yahoo! Finance Canada",
+     "type": "news",
+     "published": "2026-11-21T16:57:45+00:00"
+    }
+   ]
   }
  ],
  "events": [],
- "headlines_served": 15509,
+ "headlines_served": 15558,
  "trend_candidates": [
   {
    "key": "chainflip",
    "term": "Chainflip",
-   "count": 6,
+   "count": 7,
    "sources": [
     "BigGo Finance",
     "CoinDesk",
     "Cointelegraph",
     "Crypto News",
+    "ForkLog",
     "Startup Fortune",
     "The Block"
    ],
-   "baseline": 0.31,
-   "ratio": 4.57
+   "baseline": 0.29,
+   "ratio": 5.42
   }
  ],
- "baseline_days": 8,
+ "baseline_days": 7,
  "sources": {
   "CoinDesk": "ok",
   "Cointelegraph": "ok",
@@ -2835,6 +2085,10 @@
   "Decrypt": "ok",
   "Bitcoin Magazine": "ok",
   "CNBC": "ok",
-  "MarketWatch": "ok"
+  "MarketWatch": "ok",
+  "Google News: Stablecoin": "error: HTTP Error 429: Too Many Requests",
+  "Google News: Act": "error: HTTP Error 429: Too Many Requests",
+  "Google News: Asia": "error: HTTP Error 429: Too Many Requests",
+  "Google News: Wall Street": "error: HTTP Error 429: Too Many Requests"
  }
 }
