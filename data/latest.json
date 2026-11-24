@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T12:01:25.278552+00:00",
+ "generated_at": "2026-11-24T17:01:14.988783+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 35
+   "item_count": 19
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 5
+   "item_count": 11
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 18
+   "item_count": 17
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 100
+   "item_count": 75
   },
   {
    "name": "DEFI",
@@ -71,7 +71,18 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 4
+   "item_count": 20
+  },
+  {
+   "name": "Binance hack",
+   "kind": "trend",
+   "aliases": [
+    "Binance hack"
+   ],
+   "first_seen": "2026-11-24",
+   "count": 8,
+   "ratio": 6.7,
+   "item_count": 21
   },
   {
    "name": "CFTC",
@@ -83,29 +94,19 @@
    "first_seen": "2026-11-24",
    "count": 6,
    "ratio": 6.0,
-   "item_count": 18
+   "item_count": 20
   },
   {
-   "name": "Binance hack",
+   "name": "Korea",
    "kind": "trend",
    "aliases": [
-    "Binance hack"
+    "South Korea",
+    "Korea"
    ],
    "first_seen": "2026-11-24",
-   "count": 7,
-   "ratio": 5.79,
-   "item_count": 21
-  },
-  {
-   "name": "Jensen Huang",
-   "kind": "trend",
-   "aliases": [
-    "Jensen Huang"
-   ],
-   "first_seen": "2026-11-23",
-   "count": 13,
-   "ratio": 3.62,
-   "item_count": 29
+   "count": 6,
+   "ratio": 4.21,
+   "item_count": 12
   },
   {
    "name": "SOL",
@@ -116,32 +117,767 @@
    "first_seen": "2026-11-24",
    "count": 9,
    "ratio": 3.2,
-   "item_count": 6
+   "item_count": 11
   },
   {
-   "name": "Korea",
+   "name": "Jensen Huang",
    "kind": "trend",
    "aliases": [
-    "Korea"
+    "Jensen Huang"
    ],
-   "first_seen": "2026-11-24",
-   "count": 5,
-   "ratio": 2.89,
-   "item_count": 23
+   "first_seen": "2026-11-23",
+   "count": 9,
+   "ratio": 2.64,
+   "item_count": 27
   },
   {
-   "name": "Strategy Buys",
+   "name": "Corp",
    "kind": "trend",
    "aliases": [
-    "Strategy Buys"
+    "Corp"
    ],
    "first_seen": "2026-11-23",
    "count": 5,
-   "ratio": 3.38,
-   "item_count": 19
+   "ratio": 4.06,
+   "item_count": 12
   }
  ],
  "items": [
+  {
+   "title": "Fidelity Crypto adds AAVE, LINK and UNI for trading",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtVlB3ZnBnQ3QxeUJfaUpXTmRsRnlUZFVJV1lsVFQyQjludGVIaXRiajdsdHBGZ2dMM3B3UHZ3V2d0b0JQa3pyTldUejI3WndhaG5NbA?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-24T16:56:03+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "11 Bitcoin Companies to Know",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGalNEOXgxY3prTlplcUpialhlVUJoNU5IblVRY0NldFY5d1JYOXVaeGw3VUlyVV9uX19OYU1JNlprSjJMYmNGX096cWo2NlRkaFg4bGlBa2FIQmFiQVZB?oc=5",
+   "source": "Built In",
+   "type": "news",
+   "published": "2026-11-24T16:49:12+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Nvidia surges 31% as Jensen Huang returns as CEO amid lingering concerns",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6TXFXZDlYRy1SdnFpa3FOcmpId1lpRUZBdmRUZ2pkdHU0UFFiM1VkOVZNZGh5TlgzMXJLYTVoZmNyTVZJVm0tNjgydTFMbVY1YXNkRlRPWm42MHhMaW12OFI1OGgyRWpQaXJFd2dvd1YxNFc5MHk2MHVB?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-24T16:45:49+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Jensen Huang"
+   ]
+  },
+  {
+   "title": "Bitcoin, ethereum gain ground under new CFTC rules",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWi1IVERtcWROck82RHpmQmt5bWszWXBTUTVVaktIaExydmZUZEd2d1AxNjRRTnN4dmFLU0xvNlFmRm90bC10ZmZjc2dqTHhDei1rTHVlM2Q3bFkzVEN3dzhReklYWTdwUGtuTktPclZUQ0Ffb1hrLW94SjBnaEdaVUdrREw4MWRMeGdhb2lhcUZfc01vbGhWLWVjZUg?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T16:41:57+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "CFTC"
+   ]
+  },
+  {
+   "title": "DOJ files action to recover $1B in crypto stolen in Binance hack",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGN2OFh5RFY2UlFpU1pQRzJ4ZnMyVTJIem82VzdpYVZ6aHdfbnRGaU9VZ2gxN2g0LUlVSGlTcFFJQnM4N3lyU0NINkphNTBfVmhFb1JmcU9HNWF6R3JPTmZ5TDdFSTdTWWE2Z2hJSTN1MjhpbkVlRzJLZVhHQzdUSEZwNzIzTVFmaVd6SzZqdDBicGtZWGhzUXo1NVVTZUwxaDhiOG9nLUItWmZQU2k0?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T16:41:24+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Binance hack"
+   ]
+  },
+  {
+   "title": "Cross River Bank to offer bitcoin-backed consumer loans via LendingUSA",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYU43UDhpVlE3eHVXSWZ4RFF4T1gxRFJ6RzB4RWZQd1lnYnR6cUNta1dmcG1LMlR4eXBPVzh4U2M0U3pBX2xhdEl1ZHFsT3BLb2U3NzRFZWZlaTVQblB2Vm1ucnAtQ0w2eU9ia2VqXzVuTUxVcmN5Sk0ybXlEdjRpNXZKY3VkWlZzdEZXZDM4UjlsYkMtajNEc0lnMDlHR2VXeWU5VnVIOGh4TDZEZ2MzZ3lQSDRNVUtF?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T16:38:25+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "How South Korea\u2019s proposed 20% cap could change who runs Upbit",
+   "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-24T16:33:26+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Hylo Launches xONYC, the First Leveraged Yield Product Amid Solana DeFi TVL Decline",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUFrUkdXWllmU1VCdXQ3MUdUbGV4NkNtbDZYMVlrNExiOEl2ZHhkMFNlbWtwakxnWTluaWI1UnVsTHRfa0Ywam4tUHNxSGsyRzdxTEIwQVc1cER0VnJUMDJ3UkMwbDRqamFyaDdHMXFSclNqdVpuZFlkb25IVVhLMWc0NVB1YU1aWGlodldhRG9OOWhzVkkwQ25DV2lyOEJsQkNRb2c5dHVpUzBGYXFiMVlR?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-24T16:26:55+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts",
+   "url": "https://bitcoinmagazine.com/news/coldcard-postmortem-seed-flaw",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-24T16:20:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Jensen Huang to testify before Senate over spy scandal | CoinDesk Videos",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVpaZ2xIeEhhQTZvQ3BCTjNfUDhpbVBSU1NNRGFWajg0NUtsWXRGa095LVdZZzV0SW9tY2NDSUhVTUhNWHk0M2IyVHpnS1FxaEEwLVlqNVZMM1BESkxmU0tYM3o4Q0FwMHQyU0JJc19aMDhlRXNCSUFuRUhUdGpuTmJBTXJBVlA1Q29KR0xR?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-24T16:15:23+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Jensen Huang"
+   ]
+  },
+  {
+   "title": "Fidelity Adds Aave, Chainlink and Uniswap to Its Crypto Trading Platform",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTdpX0xVc3lZY3R6OG1kalh2RFhqV1Z2RXcwZE1mRzJBNWlyOGE1ZVo4NXBxTVdrYmJmOHQwaEMtNDZzbk51azR4aFFBOVBSV1VMT3lEdnM4QTZkS2hHLUZPTlRmaDh2blZENGt6NmpDWjZycVZmZHVsMU50VmFPb0VhbERYX1RWSFVfT2pkZTZ4LUpKNUd5c250N2JNaVhJZ0xR?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T16:11:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Tokenized asset adoption depends on issuer trust and settlement infrastructure, SettleMint CEO warns",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5saGlQNkZNSkxxZzFwUzZ3cWNJb0xvbnpWb3VUbDdyUE5GVXNQZDV4bmZSX3hZS2hJYm5GM3NDTldvMXBTbWozUW4zSUVaVWxfQk9IdHZ0enJFUnZsdXNkZEswbUVObENEcjd2cWFOb0x1Uy1ZQzJr?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-24T16:09:58+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "How Bitcoin Counts Toward Exchange Reserves Under CFTC Guidance",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EX1dta05oWmtuc2tVTmJEaDJtMTZLbkN5eVZqbGNSRk1fRzNqMDlUUkJrT1RfanZGNDNtdGQwR0VFZG1EY2ZNQVgxOTYzWXAwaTNhZXU3QmFzaF9mZFBmQTAxUnh0eGpmVWl3M0VtUHNTVVo2VXlR?oc=5",
+   "source": "Securities.io",
+   "type": "news",
+   "published": "2026-11-24T16:04:05+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin",
+    "CFTC"
+   ]
+  },
+  {
+   "title": "Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity",
+   "url": "https://bitcoinmagazine.com/press-releases/stacks-opens-bond-4-with-1050-btc-of-bitcoin-staking-capacity",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-24T16:03:03+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Backpack\u2019s ANT token leads tokenized stock DeFi TVL growth with $3.8M gain",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSE5Ca21RUHE1QVhHdGE4V2V5MmJIbnMweDQwalJlWldtS3NhZWN5X1hoaVRVR243Z01MSkQ0SWFmNTNIUXdHSmFoMi1GSDJERUs4TTZtSWFOYXJ5Z2ljdWxUNjc0bXR6WTNWOVlHTUJXaF9lLThB?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-24T16:00:52+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+   "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-24T16:00:25+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin\u2019s rebound from $55,000 meets a second test near $65,000",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVTZPcFZuUVVZQWlnd28tbzZxX3dqVWJQNlN4QUROX0duRU5IVWhudU5qSjNkWjhGelBkVVVBcXl3d291TzhZbzRnT2JPVElfV3Jrck1yN25UMVp0SXJmNE9yUS11d1BRM2RmNUUxSjNYZGtlZ3pMbUpQbFZxbzlPUW10MzU2ZE9YYmFhTktNdHd2TTVFTGVn?oc=5",
+   "source": "Kitco",
+   "type": "news",
+   "published": "2026-11-24T15:57:17+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Solana Treasury Growth Reaches 11 Weeks as Company Holdings Hit 2.62 Million SOL",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQakh6WjZiTWllVGh5bmFwbURxYndkQTZ3NjFYLW8zRjFRS2haMC1FSkRlUnROMTZKdTY4Smc3QXZRTjRJLXhaOE9XTzBLdGowRHNFck1rR1VzNTZodnVJdTV1VGZ6NGRPQTRzTWtLdjBEUi1qMDBEalBxX0ZqT0dWbDBmUzA?oc=5",
+   "source": "Kriptofoni",
+   "type": "news",
+   "published": "2026-11-24T15:55:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "SOL"
+   ]
+  },
+  {
+   "title": "Ondo\u2019s tokenized Tesla stock can now back DeFi loans on Solana",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2OHpwT1MyZEgwZEg0cjd1bEdQM0pibHNybmxtV0llWFRJZVhHVjhUaW9jU3RlZzFraElGbHl0a05YTkM5TGtxS1BZdGJXRHJEakVpRDVIc2xaalNSS3E2RmZVbWRVZE80WU5zT1N0NExtekZnN2tKWW14RQ?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-24T15:54:55+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEJWNUpxV1pydU9OT3Z4VnpWc2Q3dThJb1pwZXg5RjlBeGZBRE9SaDdqYmlMS3ZIWlBBNFdDckp0bTZRT1FDajNVV0dGZ1pRLTdFdi1mbjJxUG9PVGlWUXJxOEpqWWpaMkhadUJTVFVLRDBBOGFwWHJCQmYxaGtfSDJqUlpjWFRQN1dUakdjNEhaM2g3amVXZ05kVU9IbmMzNVJsNVNEb2M2Ul9Cd3ZybHRJbTdzZw?oc=5",
+   "source": "Bloomberg",
+   "type": "news",
+   "published": "2026-11-24T15:54:41+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "US Authorities Are Seeking the Confiscation of Around $1B in USDC Following the Binance Hack",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUNQZUhtZ1M2QzgtcGRibFFiQmk3MEg5MzV1RWxxRGo4Z3pkVnRpdUhtNXZpTFlJaF9tWnNRQ0hFQUVNYnU3bkpqREFUMGh5QzBYMkFXMm9DQTlHaTRTd1VnSzJGQVZqckNpYlE1U3dVQnY3dm40VHRnalgyb1NEVThjeFM2TVhiM0V5TFJPQmdEOFo3Y094SXRYeVNZRWJLZ2h1OFBGOHlHNU5YcUZqUmZZU0p0blda?oc=5",
+   "source": "Incrypted",
+   "type": "news",
+   "published": "2026-11-24T15:53:34+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin",
+    "Binance hack"
+   ]
+  },
+  {
+   "title": "Nvidia Brings Back Jensen Huang: What the Reversal Means for Investors and AI Stocks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJIYU93LVV0NG1OdzNRcE5yazBBOXlENExfSHE4dUhseVYwMUdyOGtZOFppbjFCcS0xVFBrSnc0d2QtbmtQS1JzMWlJV1lLcWZvZVNwcU1qbHlzTEszYTVQTFFvWHRvRklYV3JsWGJIUDBLbk5JcHl5WmlHRnBqRFQ4N0lQWkNlakFSaXpXOTRLd1RXWTV6Ykc2Z1MxNG9DbGtKTS1MNTM5dFJTakN5dw?oc=5",
+   "source": "Around Prague",
+   "type": "news",
+   "published": "2026-11-24T15:38:54+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Jensen Huang"
+   ]
+  },
+  {
+   "title": "Are Wall Street\u2019s Biggest Money Managers Buying or Selling Bitcoin?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdFEzTnp3eFJZcVJZMWJ5QUpFY3FGNHhDTGRwSi1mRTdLUndad29wSjdUZjdXWXlRX0pDVEM0TjBub1RKNkRQM1gwaUpvdkhCY2ZTX0YxZXRVbzhpLTctcU5kNk9KWTB3QUJ1UDZudDRRVHFlZkhsU2hHeXZYb3ZZSzZTeHRuZURFczhxb09ONE9KQUFVdGlNRTZjVGJ4OUt6?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T15:38:06+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitwise: Bitcoin, ETH, SOL to Face 'Tsunami Of Demand' in 2027. So Why Are They Dropping?",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkdYanVMRkJjZW0wazVvQnp4V0xsSmRhMGhDOGdYdnFZbHBpcFAxOWhhSnZ3LVVtaWpyV1VNYWd6UzUzQ3hGWVZnS2htdmk0UUpOd1dEUHBtR3FrTmFKeEhxTElhbGs3NXJRMnY3QzhoalRRMjBxZDhwXzhrcHN4RXNoVllnVGFJRzNGZ3F3MVp1VGdqUDhGeGNXWWJva3lNdmNENC10UnB0WmliVVNKb3ZSMDdOLTNyaFFvYURieVZhbUE4OWp6X3ViVUxERHJPam5MY2VVRFlGZWUt?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-24T15:30:09+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "SOL"
+   ]
+  },
+  {
+   "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says \u2018we do not take this lightly\u2019",
+   "url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-24T15:27:50+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Ethereum",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Jensen Huang allegedly threatened Nvidia employees for years, NYT reports",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kcUMtdGtSQTM2OVEycFo2c0VpQ19yak9KRXJ2Y1hFUUdhMWJnVjJ2YmpyaDFEMlN6Q1VqbWhTb0Y1aVdCb3hFQ2pxcTFFdU1McDVRbDlVeTI4Z242akFTbm80a3NwR0FoMDB3dEpIZk12dkZXa2F6WlRscE1kUQ?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-24T15:25:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Jensen Huang"
+   ]
+  },
+  {
+   "title": "Is Michael Saylor's bitcoin strategy losing its appeal?",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWNMYXVZSVdlMVpaVWJ2ZHJEX2RqMUY3d3NlYnd5dDJJMFBQZjk5TTBfOVdjZzBpOE0wdVVQdUVUY1pqalJET2M1cXZMbEZlMmVWUHlHa2tnNDBmNUhSTGRGMC1zOGFyU3pLVFlPTnowa1VIOEdBeS1uTWJhWGRSOHM5MjFKUk82M0RpWlB5SEZydGdneEJMcjJWUzA0NEwxekE?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T15:16:03+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "USDT Market Cap Drops, Raising Doubts About a Lasting Bitcoin Recovery",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0pVRFlZXzVHQzZYNEVtTmV3bGVTV21UdzR5cVpZbkJOaV96Y3BuUGJMb1h0UFlwRkdWZXQtVkFiQ2RORjhVR0RxVnpvbld2Z2tBdzUzdlFEZ3ZQejNYWnpKQThYOHBQRzd2RkZuaV9POW5WUHB1TmxFdGEtb2pHa0gwcnhJS1NZWmlyNm1hNnJReXgwckZmNUh3?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T15:02:16+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "CFTC staff clears Bitcoin for derivatives platforms\u2019 operating reserves, with a haircut",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkJsRXlaU05pdG15YWlFVi1yNTVOSkd2ZS1tLWIya2p5Y3hBcHV1MnBxS3BFbVFEVlUtVWF1TUpLdk0zT2hxQTc4MWFmV05mMDBjSHM3bTZGNm1vWkxrNlFEakpxdWl1RlVZQVlYb05UaFdRdnRGUHVtdjYwUXdMRURYUlJTcDB0?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-24T15:00:35+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin",
+    "CFTC"
+   ]
+  },
+  {
+   "title": "Global Debt Will Make Bitcoin the Best Performing Asset in the World",
+   "url": "https://bitcoinmagazine.com/videos/global-debt-will-make-bitcoin-the-best-performing-asset-in-the-world",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-24T15:00:05+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Nvidia\u2019s stock drops as these major questions loom over Jensen Huang\u2019s return",
+   "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "type": "news",
+   "published": "2026-11-24T14:59:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Jensen Huang"
+   ]
+  },
+  {
+   "title": "UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65%",
+   "url": "https://bitcoinmagazine.com/news/unicredit-bitcoin-certificate-italy",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-24T14:58:09+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Nears $60K Despite Saylor\u2019s BTC Buy: Is the Bottom In?",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR3RFT2VoT2dBZF9QR1JlWnM4YmRmYkNERXNVaGVHZE94am0tX1M0MTBsS3drZXVQeXAxbUVyVnJNX0ZtRngxWVkzQXFnNjhVMXZpR1Aya0lzMmNhUDkxNFdNcXh1UTZOX0VKeDRXTGZwbmRQcndQTnVaMDVWQUExVnBIcms3QUIzS0t2QXZXYnlZWldLTWxOMnRJX00?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T14:57:14+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Trump Hinted at Jensen Huang\u2019s Nvidia Return on PBS Before the Board Made It Official",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQREFGSjVoNzhqRXlSLW1PRU43NzlyM0NYckRFbXFLY1V4akVrRXJOdDYxS3hjM3dCLVRscVY5SlNkWWVvVUNfejdnX1U1RXB6NTN6eGgzbnNlbUdOdEM0cFk1VUM0UnhfdXotRmJWc3NVcXNfTkpuZk5OVlVfYnRCeE5rRWJEVkJwQXgyUGlrR3ItS01rRERhSTFtdTdnSklEZ2JzYmdDeFhHMzhuZEZYU2VMZ09jN1JQeHZwdzRpbw?oc=5",
+   "source": "CryptoRank",
+   "type": "news",
+   "published": "2026-11-24T14:47:42+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Jensen Huang"
+   ]
+  },
+  {
+   "title": "South Korea Unveils Crypto Bill Capping Exchange Ownership at 20%",
+   "url": "https://bitcoinmagazine.com/news/south-korea-crypto-bill-exchange-ownership-cap",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-24T14:45:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Bitcoin News: CFTC Decision to Push BTC Toward $80K?",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZlJjcVY5ZzFPejVZRGVYT2ZxcmQ3WGNjbXg2OWRHZmZaR2NLd29qTU5fOXVRRFFwbE1pdUJLX0FTbTBjbkZzTFNQVGJtWU5hWTFoTG9BVnhFRi05a3BXTVVxMUt1WUN0bHR3ajhBTUJTWDJ5TFFrN2ZSUEVOekVnMUFjZThhbThPT2IxR1h0bDM5VF8zMnNMMkJNRk9tWW84SVpFMGh1dk9wNHdKSVBJ?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-24T14:41:31+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin",
+    "CFTC"
+   ]
+  },
+  {
+   "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+   "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-24T14:40:53+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "South Korea moves to lift nine-year ICO ban with IPO-style disclosure rules",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGZZWW1jeGx3RXRqaXdSVDc3UXJlUDZ1UU1MeDhMVHlHZk9uVGpLMHdleFdsTHFRUHNDY3BoU21QVkxRWFZIX1AzMVRqS0g2ZHA2THZPR01TWldEbS03OXg5UWNZYWU3NlhySGdSQ3lGZXBzbVo4ZjI1cjd4dmtIazZFWHRVenhIWl9YX3ZZQ2EyYUEzczkzeFJjQV9wRzlEcEEyQjA2ZEd5bTU2ZGNqRVZnZ0NSVEw5SzJLcUVCSDM3b25CYVE?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-24T14:40:53+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Korea"
+   ]
+  },
+  {
+   "title": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
+   "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-24T14:32:21+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack",
+   "url": "https://bitcoinmagazine.com/news/doj-forfeit-usdc-binance-hack",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-24T14:30:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin",
+    "Binance hack"
+   ]
+  },
+  {
+   "title": "U.S. DOJ Moves To Forfeit $1.1B In USDC From Binance Hack",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaFg0aDQxRVZZMkhfSWppYkY0UTNiVWk0Uml0czR1eE83MmpUNG9RUXU3RU1RMmJxODMtMl9SWmsxYXVjY3YxX1dkSzBoOE5GVE04czlhRmJKM1l0UGpXd1JIMXdSVWVPV2xBd0Zvaw?oc=5",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-24T14:30:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin",
+    "Binance hack"
+   ]
+  },
+  {
+   "title": "Bitcoin ETF Outflows Hit A Record $4.71 Billion",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2JQYm8yR2p5YTBDS0plT1lPczNzS0hIeVBxeXFfczJuS3R4M25NZUFVX21zbU5pMEhYQUMxb1llWWFNT3N2ZExZblhqRVo5Y0dLY2RpSDVOV05GQmxrT2VjZ3lGaWtBT0I4bHA0YXh0UDlvY2tDMGF2Z1ZnM1h4UDBrMzk0X183NTZIM00xeHJmUEoySWlaNTYwTnk?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T14:24:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+   "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-24T14:13:03+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin",
+    "Binance hack",
+    "Korea"
+   ]
+  },
+  {
+   "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+   "url": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-24T14:10:23+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Grant Cardone: Bitcoin Will Go 5X, MSTR Is 'So Cheap, You Have to Buy'",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1RhWkIxbUFRZjJudy1XcFh3dlMySVptS2MzOGJTanRUaEV0U1RnZ3BOaUFrZG0tZk1SNmNJV01iMDQ5Z044aDJLbXI2WkFsdGdTYXJvMkRNMlpFLWI3VUFld2R2bS1iOU95ZmlMUWloQmZrbXpLZzZCaElNRUpqZlJvSUtxQTV0WGx4eW1zcS1pVUVuVTJQbktocXdEUmN4OF9KQnVJbW9BZHJEc28xX0s2am5oVmxYeDNuYm0wUGFha3VQdlE?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-24T14:00:13+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+   "url": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-24T14:00:02+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
+   "url": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-24T14:00:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Neuberger Berman\u2019s HINC fund brings high-yield credit to Aave\u2019s institutional lending platform",
+   "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-24T14:00:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+   "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-24T13:57:56+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal",
+   "url": "https://bitcoinmagazine.com/news/relai-launches-stacks-bitcoin-savings",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-24T13:50:58+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Current price of Bitcoin for November 24, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ud2Y1S2QxQXpadTZmeDEzZHZuclFzNENuYkRfNW9TV3F0aWdQNk1nY0FORXVwUEg3R1RaQk5PUTI4aXI1dVVMdjB0eU90YXg1akNQRm4weTZvT2pnV294cWV6d0t6Tmc?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-11-24T13:50:39+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-60000-etf-outflows",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-24T13:47:18+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Solana in 2026: What US investors should know before buying SOL",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGQyYktlV002eWhmMUR2aTBnNkNsRGM4U055MVZfZGlCdmVtRkJfMElhaHhiQTJfNGlCdUhfTmphZmRHZG5tNGVxVUpVUGt5Y1NVQjRid1B0QkFkNF9kR29mTm5FY3dJdEh5OHdkYVlPZGtQMzZybTdqdVk1d3JIZkFWUTlaa0E?oc=5",
+   "source": "The Jerusalem Post",
+   "type": "news",
+   "published": "2026-11-24T13:38:41+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "SOL"
+   ]
+  },
+  {
+   "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
+   "url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-24T13:17:35+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Grayscale calls Bitcoin \u2018oversold\u2019 at $62K but warns of AI risks",
+   "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-24T13:11:44+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Behind Binance Hack, a Reckoning Over Who Controls Crypto",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkZ0TG9ZRWFQUm1mcUI0MWRhN0JDdzVLYXlYOWhpQjdjdVloZlRZc3hET3I0LS13UndWWVI0ZHlWdHNJS0JFOTFMLVFlYXNWVlNMY3Q5MlhxdllrLUYtX3V5RmZmZ3RxdEVwSU12dzdGS2RUek5qeW1lbmd4bGhzVzQwY0JNMkp3d0VCQVVyNngwU3JOR2VYemt5V2xURGtuTkJSaC1mZ0NGNUE?oc=5",
+   "source": "Bloomberg",
+   "type": "news",
+   "published": "2026-11-24T13:00:07+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Binance hack"
+   ]
+  },
+  {
+   "title": "CFTC Provides Guidance on Counting BTC, ETH, and Stablecoins for Derivatives Exchanges",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUFSSnh6Z0lmQjlFRURFU1ZoeC1pRjhSSVVGNWVnVy1HaGpvYV9JZWlvWHhTOS10SXJ2YV9PV3NZaWkyZmNmTEUwaWNvSUVTX0VVQ2ZkX21faWlkcHRpVEtRcG9TVzlReEVESU0wSHgxeEhjMWc5NkNSRGlWX1hMSUQ3cVhtUGphcWNxUHZ2WDV6ckpkWkp3Qkc1d3JNQllGZ1dzWkpIV1R2b3BFOHVkYkVoUklhbHp5cUE?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-24T12:56:27+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin",
+    "Ethereum",
+    "Bitcoin",
+    "CFTC"
+   ]
+  },
+  {
+   "title": "Binance Hack Losses Hit $6.3 Billion as US DOJ Moves to Recover $1.1 Billion; Binance Vows to Help Freeze, Return Funds",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZd1dIWlQzV3I4cE96V2J2X3Y5b3FYR0J3S2RsYUhBV1NOZGd5a2NDMVdxc042azIwRGRUZTB2SEdtZmRTYjU3MVVRRGFIRGlVM3VEc2NJc2txUmdzdU42VTYxWDY2eTdFWEVXS25BRlBtUXk2U3c?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-24T12:55:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Binance hack"
+   ]
+  },
+  {
+   "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
+   "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-24T12:47:40+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "$14.7B in \u2018Lost\u2019 Bitcoin Has Moved Since 2018: Report",
+   "url": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-24T12:40:47+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-24T12:36:28+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Jensen Huang Return as Nvidia CEO Sparks Rally In KOSPI, Nikkei, and Taiex",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDhtZVRFVzdrLW9JZHJkNU1rSlUtcnNMaE9oVENJb2txbjUxSEx3a2toc051clhOdmlCS05LSXp1ODdsSlBBcGFPM0dSZ2lUMlRFVnFDLTE5TGFQS1IwQlo1bEV2VjBzZDdBU05HTHI5ZDlJZDFmTHJZMjNhTzgtN25HY1Q1UERlaERqLXNEbTVzTTJGN0szZVQybTFFVE9VTEHSAacBQVVfeXFMUERDaE40TDQwTDFYUkRuSTRmeUVxYThvaHJwNVZJc2NzZ1dmQ2ZObG8zODFxZEVPdWdEV3FEM29DUHFTVE51bHg4Z1Q2VWE1VnYtTGZ5d0p3Vk00TU5TczVnQ1pFSGVtTkZNX3BxTjFkazk3Z19lQTNjZEhxNTFrcmJRRkFid3lCYlpsekRSc3VBT20ySUhuUmpodGM4elNlWjdJV1V1Y2s?oc=5",
+   "source": "Coinpedia",
+   "type": "news",
+   "published": "2026-11-24T12:29:13+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Jensen Huang"
+   ]
+  },
+  {
+   "title": "Nvidia Reinstates Jensen Huang as CEO, Stock Jumps 30%",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc18weDFubFVJaU91RmdBQ3gxYmgwTzBxLXNQSVA5V1JxZkgwSEk3eE1KenFuMFlvWENFUGVIU2VfYm1UWVJ3NEdSTWQ4VzdibFZyV2lnU001TzByOHVldEpGZ3lpb1R4am1nME40aXFjZw?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-24T12:28:10+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "topics": [
+    "Jensen Huang"
+   ]
+  },
+  {
+   "title": "Bitcoin or Gold? Cathie Wood of Ark Invest Makes a Compelling Case for Buying Bitcoin.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjI3TUpwZ3JrZU5SektMdTlEOXJQQjdCODVzcWNLN3dEZTRRVkJneER5bUIwSFZwcnZfZlVsVFluVE83d045NmgtYnlYRTFJQVFiMVdHQjZ0YkdJRVM1NGdTMTNLaTdwY3gwdjZNUDhEZzZ0c2VYdHpsUVdydUlKT0puR19Xa3VNajBkZGhWV2toSWhlY04xdA?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-24T12:05:02+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+   "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-24T12:04:16+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin",
+    "Korea"
+   ]
+  },
   {
    "title": "Crypto Price Analysis, ETH, XRP, VVV, UNI and SOL, Nov. 24: XRP Momentum Turns Higher Despite Failed Test of $1 as Ethereum Loses $1,710",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1T05tY0ZVSXlHdndfdjNUUlZOcEZkc2l0N0ZZLWZBeWZJdDhOeDc4elgtVlhQOFJYVUhjMi14cV9YdFJqOGJhdXl6cGZpOGEyOWdPYV9GNjNQWGM?oc=5",
@@ -155,6 +891,17 @@
    ]
   },
   {
+   "title": "Stablecoins saved the day when Binance was exploited for $6.3B",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1h1YVpETEI5cl83Z1loM1pUUVc0VklMdi16c2xuMTNQY0YwMDZ3TE5fTFBIN0prOUFRTEJmcElETHdlSERyRGpWWWVYSTdGTEQxRmZzTmZIcU14Z3VJRFVaRlBvSzM3a2J1VUM1NlNVd05wMURsVDZTUG5DS3dNaElOUXBsZVF1eFE?oc=5",
+   "source": "Fortune",
+   "type": "news",
+   "published": "2026-11-24T12:00:19+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
    "title": "Ethereum Foundation doubles protocol security team, calls AI a \u2018more urgent risk\u2019 than quantum",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
    "source": "The Block",
@@ -163,6 +910,18 @@
    "first_seen": "2026-11-24T12:01:25.278552+00:00",
    "topics": [
     "Ethereum"
+   ]
+  },
+  {
+   "title": "Bitcoin briefly rallies 5% on Jensen Huang\u2019s reinstatement as Nvidia CEO, then falls 2%",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQRnhYLVhBV19LWkxtb0s3WjJPX2RaMWRzSXU4M0VuWE5PbENRN3VRSnRHX3NvOHJhNWZjN19rY0d0bk9sMDhONEhEZTFaRTUyYndwYjV4WDl4dTUzQUVDdktlUVFZSXdMWVRydnZMS1hRYURPUGNOektR?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-24T11:52:08+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin",
+    "Jensen Huang"
    ]
   },
   {
@@ -178,29 +937,6 @@
    ]
   },
   {
-   "title": "BlackRock Launches First Tokenized Money Market Fund in Hong Kong, Allowing Stablecoin Investments",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEYmRPb2I1M1Bsc2FZdE5rVmc2QjFlQWpWX3RFTzNMaFRrM3NyTTRrZm5meDBlaGhvOEZMQ29wejVNT0pjeTM3OEZVeE4wTUtTQURwMV9aMWw?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-24T11:50:12+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA"
-   ]
-  },
-  {
-   "title": "Hashgraph Partners with WEA JAPAN on Stablecoin Payments",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kc1VKSFhPVGY1V1JaVzFkQWw1WTBJT3RVUG1vMnF0akJHeUQydGZwLVc1T0hVYU41OTdicGVOUUpia01qSWk3Wm40dVB5VW9BYUlVbjhJdw?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-24T11:50:04+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "U.S. Seeks Forfeiture of North Korea Hack Proceeds on Binance",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uaXdSc1NhYS1fV1d2clptWkFQT3RvQnhMZmY1ZjZQWW90WFZwOEhjaVZybGFzN3VuRHRqdXM5SXA2NzJwQUNYX2l5eDN2SXVaSnZEVkFDekZhZk5nX1d4Z2doME5Rd1VmczUyTkl6UnZXd1lh?oc=5",
    "source": "Businesskorea",
@@ -212,28 +948,6 @@
    ]
   },
   {
-   "title": "NVDAB Gains 15% As Nvidia Reinstates Jensen Huang As CEO",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXdDQkJmajhYVGdLaFpTekVBaTgyNUFPNjBKMHBuZHAzeE9GQ0hvemFvTlgtcGpoM3FMRW0xX3Ftc2Q1MUFvTVZib2o2cUQ5TUZhdVp1VGNEbWE0c19IWGZVVThKMk5BTVhaMTE0VDg2cWw3d3Utcnk0cWpPY3VBdVRaR1lJLXotTnc?oc=5",
-   "source": "MarketForces Africa",
-   "type": "news",
-   "published": "2026-11-24T11:46:50+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Bitcoin or Gold? Cathie Wood of Ark Invest Makes a Compelling Case for Buying Bitcoin.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVVQWE42RjU3eVBDVi1qUXgxT0sxc18tUXZuai01Wkt5aVF6SWdITjc1dDh6NHhmMFpzOUtadThRUW42Mk00YmRjRXdNNGVFV3ROdmh0cUxsbDlNSnZKcWhaZzdkVXd6YXh1Yk9FbGE5dHQxdFpMeUx1MS0xR0xabHN0RG9zZVFFVnVmZGd5WGVVZFBlWndQbGdBZk9KbXNkUnE1RHpTa2VnVjMxeDVJbGRNc3pzWngyWE1zRDJVRlJ6Um94Znc?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-11-24T11:45:02+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Bitcoin dipped on Huang\u2019s Nvidia exit but jumped 5% on his return",
    "url": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -242,18 +956,6 @@
    "first_seen": "2026-11-24T12:01:25.278552+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strategy buys 457 BTC at $64,898 amid 20% paper loss, shifting funds to preferred stock buybacks.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejVsd2NaVTVJOTZPdGNmWlpYM0ttVm9XcWk3SUV3Z2NULWZQd2JLWENRTGU0UWRfOGlfZ2xacUdkSElacVp3emh0cmVLWEVZN0JFbjAwaEVVejF3eGJfOTJ4Yk9hTUc4Yzlhai1uYU9WYmdTU0hJZTVKNnZqaEFuRWJaSnc0WVEyNnFCWU1pdzg5R0ZUekFjcg?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-24T11:38:26+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
    ]
   },
   {
@@ -290,17 +992,6 @@
    ]
   },
   {
-   "title": "Seoul to cap crypto exchange ownership, pave way for won stablecoins",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMaVFycEhqYVBYOHFvNXRPc1hQbzVEYkFISnVFSHpMaVMxVC0ycnZVdlZRRGMtcy0tdEhvYTNHakZtZVZZY3J0OFBYOXd1TGItQ3NXQWc3X1drVmh5N1U0dkU3RHRaQ1dnZmg0Y3pwQUloVGRPSGc?oc=5",
-   "source": "KED Global",
-   "type": "news",
-   "published": "2026-11-24T11:26:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "South Korea\u2019s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
    "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
    "source": "The Block",
@@ -321,17 +1012,6 @@
    "topics": [
     "Bitcoin",
     "Binance hack"
-   ]
-  },
-  {
-   "title": "Grayscale Calls Bitcoin Oversold, but One Outside Risk Could Decide Its Path",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54WmJYTWxwd1BobnJvaFptTFpCdW9qNWt0STd5aU10dl9obGU1VGJfN0lnMVM3Q3NIU3ltS3Z6RWpNQ1B5SzdSR3U0YXlNSktwUUQ4Z1k0U1FLS0YxY1pTaHZNYWF5YUdZOFVr?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-24T11:15:04+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -368,14 +1048,37 @@
    ]
   },
   {
-   "title": "Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEJWNUpxV1pydU9OT3Z4VnpWc2Q3dThJb1pwZXg5RjlBeGZBRE9SaDdqYmlMS3ZIWlBBNFdDckp0bTZRT1FDajNVV0dGZ1pRLTdFdi1mbjJxUG9PVGlWUXJxOEpqWWpaMkhadUJTVFVLRDBBOGFwWHJCQmYxaGtfSDJqUlpjWFRQN1dUakdjNEhaM2g3amVXZ05kVU9IbmMzNVJsNVNEb2M2Ul9Cd3ZybHRJbTdzZw?oc=5",
-   "source": "Bloomberg.com",
+   "title": "What Jensen Huang's Nvidia Comeback Means for Markets, Washington and Investors",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmhFcWM2WWdhbWtiaFp5NFpydHlveThlaTFqcXBQYkQ3MXNWdDdGdlpoT1o0d09uaFpOdFBHNUdUZ3NXS0NNWi1kTDZPWEVSV3NrREs3dF9EUUc4YjA1X2xKc0laTUVuLXR3MEVwNVIySzN1SmNfVkxwaGxGYm93MjRncFRmMnplSlNhTXRfV0lYQXVfamk3dzhWX05DVDgybmxjbEVFOXA1S1lLOHlRQ2xxQQ?oc=5",
+   "source": "Around Prague",
    "type": "news",
-   "published": "2026-11-24T11:02:25+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "published": "2026-11-24T11:08:01+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Bitcoin"
+    "Jensen Huang"
+   ]
+  },
+  {
+   "title": "Stablecoin Development Corp SEC Filing (Nov 24, 2026)",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXdFeTIxX3pBX1N4UVZtOGxiUWNqNGh1SUFEYmFFWjdXeHRmN3VxQlNlV09Oc1FqTG0wSG9MTGNDOVFNZzlQcWhhY3RyWklQVnNuSUltdWQzaldVNE1KTVE2S0lXMGtOV2NnMGN2c2pYQXVXNG14ZGdwMFdiY3ZMNDlZRUFmcXluenQtYl9wbFNVNzhoeXNsRE9FelBnRUJjNW5PZE13NGVWTWM?oc=5",
+   "source": "Stock Titan",
+   "type": "news",
+   "published": "2026-11-24T11:05:20+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin",
+    "Corp"
+   ]
+  },
+  {
+   "title": "HIRATA Corp (1ZM.SG) Seasonal returns chart",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wektBelB4Z1Z3ZWpxN3FSai16SmpNckdnX1BCSkFHODMzc01oaGQtQkljWnh5X0FCZ2FpeXBoRGNUUGZaci1scFF1UExDRjBhVm5jalI1azVOcXVVNUtST1doWlM?oc=5",
+   "source": "Yahoo Finance UK",
+   "type": "news",
+   "published": "2026-11-24T11:03:08+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Corp"
    ]
   },
   {
@@ -426,28 +1129,6 @@
    ]
   },
   {
-   "title": "Six Senators Call on Treasury to Give State-Chartered Stablecoin Issuers Same Protections as Fed Issuers",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOckxadWE4RXR4eFMxcUpxaWtNbDdBV3RWbEdKTExJR05yQzRHc0JvTGRMZHh3b21iN3pFNDh3WURUWTVmT3NZeUZmekgwdmlsLUF0UFZmSFRjVkdsbkxrTGdRS21Qa3ZyaTNydTlFUUtOaXNhYU5BVERta0M0RnBjbTZ0cUpBVHByT0IwVDhvM0tWaXoxUGFFdXlrdTZadm1nbDdDdTlNTDEtQmhxMUQ3cm41YUR6ei01d1dfaWhIOEw2YVpsOFNN?oc=5",
-   "source": "Credit Union Daily",
-   "type": "news",
-   "published": "2026-11-24T10:50:58+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "GOP senators question Nvidia CEO Jensen Huang\u2019s reinstatement amid controversy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEl5VTNBaWI0TV9aTE0xSUs1WndaWFJHbWswRWVTSjNKUXVSdjZRcFRXbkIwQ2MyTlVtdVFxNlZDWmdaWC1YbkJTRjhNWnF1ajFCcWl1QjJrOTR4cFlUTDVwc0Fnd09oWXRSMGNBc0NudEVNUU9EX1dFTUJ1djNEbmVjVG0zdGF3b3NFVUpscWQtSWNUTjU1R1pzSDlOUUlOS2puLWZ2LXY?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-24T10:38:59+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Jensen Huang"
-   ]
-  },
-  {
    "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
    "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
    "source": "CoinDesk",
@@ -472,36 +1153,37 @@
    ]
   },
   {
-   "title": "Solana token crashes 60% amid suspected $2.15 million USDC hack",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IemY2aGZXcnNvcjBsZUhxMlQ5QjlXVUx5Sm1XLThvRXI4eUE4ZVg2OXhoa0kwektLVTdLZ1ktS05GSlRpdmNPTmozRzJhcHJNak1OTFp0VFdRak9PbzkydDNUbWF0YUZteTJDN0VHd0lkc00xaFRJ?oc=5",
-   "source": "Crypto Briefing",
+   "title": "Hashi Launches on Sui Mainnet: Bringing Bitcoin Into DeFi With hBTC",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42OXM1c0JuNUpBd1J5TlljN3JXbkxaaGlZYVp5c1B2YnRmSjc1SjBxT0FOaUs4eTNFUzhEYktoTF9jRFp5bVM4V1RqWkhseC1Lc2lubV9hb1pVbUpFQ09qekloNU1FT0F3V2NPRFVoSFE?oc=5",
+   "source": "KuCoin",
    "type": "news",
-   "published": "2026-11-24T10:16:03+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T10:21:25+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Stablecoin"
+    "Bitcoin",
+    "DEFI"
    ]
   },
   {
    "title": "US Files Forfeiture Case Over $1.1 Billion in USDC North Korean Hackers Took From Binance",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDR2aktiX3Awd21YQ1NYRXhqbU5NTVliaWo1Uk5LcFY3ajRZbk1wMEdqNUhDMWlYLV84WFVPUjRFRkxycXhqc3c0QXViSjBGay1uWUF1TS1zRHpIcEo0bUhNOHBybGp5OE84Q2NjVHVGcHRlYldKUEcxY1hmbW9JTFVBWkpFQUwzUU5ENVVfNkI0N1UzbHp4eVh3cGNpREdwTzZQdTJtNThzNl80Rnc3TDhVdnU5WENG?oc=5",
-   "source": "unchainedcrypto.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTN2Rm83V1pLZE8xa0U1WWlVQkE4aEYyRTV0MU0wM1dKRXQzTG9hczNZTzVQQ1VZQTVka2prMERVRVM5MzZJQ0wtZXpkWkJFN3MwbXF2Vm5iRm9ZUjYySmpRN09qTVRqVEhESlJCQUhMUjlMS0JyNkxacE0zSWItQ1VPQmF6amhDbG9kN3N0UG9JUElFQ0xxUFhB?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-11-24T10:15:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T10:15:12+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
     "Stablecoin"
    ]
   },
   {
-   "title": "Bitcoin Rebounds After Hitting a Two-Year Low",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjNOaU04SVZmbXg2UEdBSFRRdjBMVTJ6M0t1RHR2UXZlTFlCd0NJTGxkem5BUmVIeThHdHFvM1paT21oUjdJd245QWp5dXZfcFdwazdqSlI0dzJmMEg3dkNhNWZUTElHNmdXYlNUWnBnelg2cU5CYk5ZcEg5djR5ZXFESHozcHJMWG01MlRpR1BwQTJQ?oc=5",
-   "source": "Technology Org",
+   "title": "Defi Drones (DFD) IDO Token Sale Review & Tokenomics Analysis",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zODNuYTF0MzRwRmg5Z21IcklzU3FLaG9rdlBCNFZ5OU1GNmNIazRTSVVSMWd4a01BWGVQajZ3WXdqRWVNZFhmd0UwQmxzUQ?oc=5",
+   "source": "CryptoRank",
    "type": "news",
-   "published": "2026-11-24T10:15:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T10:13:25+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Bitcoin"
+    "DEFI"
    ]
   },
   {
@@ -528,70 +1210,25 @@
    ]
   },
   {
-   "title": "Bitcoin Slips Under $60K as Gold Logs Worst Selloff in 44 Years",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rQldWeDdZWFRqdlgxQ0FqWHRNdS1QdnlyMU9Kdll0Q3RESjZlWDFTRkVFMlBOM05GMHFoUVVXa3lTRzYtYmt4SGdkQW5BMXphNGFXbVl5VzB5ZU1uQURsUTQ3dw?oc=5",
-   "source": "Bitbo",
+   "title": "Axiom Intelligence Acquisition Corp 1 (AXIN) Seasonal returns chart",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mV19NclpaSUM0T2p3eXVWX0NJQ3hQeHZCLUdza2FsajRHQm9zcHdXWGJObUJVN25PWnY4cW9XV3VxQ3JRQUZlNk1rVFVLWk02cm5tV1dIUkxzaTN4RHdFZ1hR?oc=5",
+   "source": "Yahoo Finance UK",
    "type": "news",
-   "published": "2026-11-24T10:00:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T10:05:02+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Bitcoin"
+    "Corp"
    ]
   },
   {
-   "title": "South Korea Moves to Allow Domestic Coin Issuance, Paving Way for Crypto IBs and Asset Managers",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5saWw5bXdkd0c3QWx0em5Nb2hBdmI4WVBDa3dQWmU0bVJjZVNOWUtEWk04Q3kwZERtbFdxTmRrVmtNdXBBa2pKdmJvWDBGa1VlTWZpNw?oc=5",
-   "source": "bloomingbit",
+   "title": "Jensen Huang's Return Lifts Wall Street Beyond Micron: Dell, Intel and What's Next",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUxMc2toVk5TZmp1NnE2T2x3WjkxRmwzaUp5T2xFNWYwTHpxUy0yNDlveURnT2dLSXh3TEdPem9MVVhuanNVV0dxQkdMZ3FndGdPcm1aUFlYMlpXcmFjaGZua09sQklHRUJDZFRqUUZhMXo2WnBQa2FRZDVBb2RPRFdOdFJDeWN1Ulh2MHN2YzU1SXlmbnE5X0o5dDZfZ1cxLTVwUVhYU0lzUi12Rm4tbHNJZE9vQQ?oc=5",
+   "source": "Around Prague",
    "type": "news",
-   "published": "2026-11-24T09:59:41+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "What We Know About Jensen Huang\u2019s Stunning Return to Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1RuMExuY1p5WHlQWGZXR0lfZWRsS0J6NU1iRjJHcklGYmFiZTZkeURmWWpMWTFPUXliX2FGUFFjUGhadHhmSzAwdnRwTjlKZVY4Tm5OWUZtSW1zajlJZG5vS2RraGVFaEFqWHdJVDRXMWNJRVRjRnVWaF91VnlMb1hfbnVlNE1lbHlEY1BJN1VpYkVJNjdDR3hJSkg?oc=5",
-   "source": "CryptoRank",
-   "type": "news",
-   "published": "2026-11-24T09:55:57+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T09:38:47+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
     "Jensen Huang"
-   ]
-  },
-  {
-   "title": "16 Polymarket wallets turn $20,000 into $350,000 before Jensen Huang's shock NVIDIA return",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbjU5bmdia2lHUVFVby1TLU5tdS1HSjRpUUlCZnVPeEJYMXVfaERfYkFvNTh1VzZ1bHhGMExQbmxZdUZqc3p1d0U0U2YxNHpHRFo0VFZYekV2a3lGTkQ4T2ZmeVFNei16S1JVWG9VV2RjUFluWG5mSlFzeHNXY05qOXpUcExMR0FUeXBwOTFLLUpjT045U0RiaFRJZktZUlEyUzZmRWlidVN3WFkzTVF3?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-11-24T09:50:23+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Jensen Huang"
-   ]
-  },
-  {
-   "title": "\u2018Big Short\u2019 Investor Steve Eisman Says Bitcoin Is \u2018Nothing\u2019 \u2014 Claims Crypto Just Tracks Nvidia: \u2018Never\u2019 Would He Buy It",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE9HUjg1SW5PNjZsQTIwX2JGdVhzc1hBdGN6MDJNTEQ2cXVIcm16bTJZRTY1SjVtT0l0bmV6VVptb19nTlJFVTN1QlRsaTZIM1k2bk12X09PZ2NKaUR0aml5RkJDX2c5WTVfdmFDaVg2UV9pbnJhbGJRd04yTEo1TVp3c3liLTZJM2ZOQ1dFbTRlOEhJSVdtWm9IUWk?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-24T09:46:06+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "South Korea unveils crypto bill to lift ICO ban and regulate stablecoins",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWRTY0NTNPZWJvSDRNY0luVkhMNGt4cm9HbHlwQmJxei1nVGpKeU9wVmgwQTdBREJFUWRYWVZPZl9GbnJ4RkZVWDZOVkxFem9wN1p3Ml9ZOWlxcENSTE1vaUF4V1hvWDZGYUFZcUc4RjEwbTB4SkdfMA?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-24T09:30:10+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin",
-    "Korea"
    ]
   },
   {
@@ -606,116 +1243,15 @@
    ]
   },
   {
-   "title": "Canada Proposes Stablecoin Regulations: What Stakeholders Within The Digital Economy Should Know",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNXd3Ry1hbzMyNGcwdjBXZzdpM1k4SjVzOWZDcWxrSXhYejdiZEwyUW5fU0puSXRlOEJHcExhcUFFWjdTUDFSbW9ONWZlcHdfOVNweldMZ3dqWGtJZzhZZVpZODZOQ1p3VUVaZV9mOV8yVENYMW1UcGpiSmVJS25zZTNEV1dmNlJzcU1USkdQX1VxcE1QeG9vSFk5OTdjbnhzZmg5VUZRMkVxSU5FZlpLQXFQLWttSE5YS0lCT0pwazluZmFWOFlXOUZ6ZnBZSUUzYjk5aVpUYjRiR3hXVUdTcWlWaEVBSV9uSS1oVnY4M3VKQQ?oc=5",
-   "source": "Legal 500",
+   "title": "Applovin Corp Tokenized bStocks Price (APPB/USD) Today | Live Price, Market Cap & Chart",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43NTRWWl8zTDY2UDMzMGJrbWd0dWliSzR2UEl1TFg4aWplczFuMkN6OHVvMG5SeTRuMUdaTTJUTVRRRll0ZGNaamFtcWd6TUd6VnNObFJZT0NTMUNrV3pMcWsxTlZVWWR4YzZ0UjZFM1FQUQ?oc=5",
+   "source": "Binance",
    "type": "news",
-   "published": "2026-11-24T09:20:25+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T09:15:42+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Price Can Still Rally Above $100K: Here\u2019s How and When",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHJHeTRVa2hnYTNOajRvV2dERzRrSWZ4RFlGM0NpY1Bpa3U3cVpOeE9rc05jUUtVUXBRbDNJMV9OdVBmbExDQ1A2RmlUemdjNXJOZWlXNnFfQjB6blhJeTBGXy0xSk9ocDhUUEppbGtVZFV4SUw1TU44ZWI2SVNOeGNRUnhTTDdoeWppcVlkSjbSAZYBQVVfeXFMTzdwSEFEUXpHM0NLWVdoUzk2MW90WUdTaVE4b1BZejR2OW80NDA3T2dzYlZIN2Y5SzhoR2YyMlkxSmJJekpKdjBpMFdKclU3bFpuZ0pKU2Z1Z3E3RDRGMmZwTlZ0dUpsempCaHdHYmtObHBYalZKaU8yX0p3ZFRWWHhaUzB6bGNjZXJRSEdhaUkxUGNBSVpn?oc=5",
-   "source": "Coinpedia",
-   "type": "news",
-   "published": "2026-11-24T09:18:28+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Jensen Huang Recovery Pump Lasted Just Six Hours As BTC Falls Back to $60K \u2013 What Went Wrong?",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zMHN1aFI5RVRZLVBjZmdXNDd2Z2E3eEwzSmhuX1djRXVPS2lSUTVOLVhoN3VGNk9RcG56NWlfUEliUzZOT3k3Rkw1RkVHc05JVTI0VjlWREZNMnNLM0xWV2N1SERSMGxycnBmeXV5ZzRrU1phZGRpODg5LUdaV0XSAYQBQVVfeXFMT2FlX05hekMwdGp2R0N5UHItWTVQZlRvQXRxalNOVkwtNmtEU25MNGJHeWY1a2xCU0txZ2sxTlFmYVpVeXJQYTFYWHh2NjJXSUw3RFRCTUQ5eVdJWmpsWDNsWXhGYXgwaWVVYkp2NkVHRW1RUTVFRDhtU09TaG4zOGZINTRk?oc=5",
-   "source": "Coinspeaker",
-   "type": "news",
-   "published": "2026-11-24T09:09:07+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Is the Anthropic IPO to Blame for Bitcoin's Recent Downturn? The Answer Might Surprise You.",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjUzeFRsS01uRkl1dnNKUmlHWGljbld0RDRDR3FIVzJ1TWJVR1BGWHNGTW1tXy1FQ3NaZTViUWV2aVdTSE5LeFVZMDdjNVBVYWJuanNpSFdBbFZkMG1BVndsXzM2UUJjYVJLWm8xdERQSmdkLWtadlo4RzIzTDFoZmJEV21nRUo0R2ZTSW5ZenBwWUVJNXl1RXJRZUtsUlJzS2NWRklKbHd2NHYzM1A0YW82MGVGZW9TRVhEQ0RFX3RfaTMwZjZGNXFmdw?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-11-24T09:00:02+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Why Hyperliquid CEO Rejected The Michael Saylor-Style Bitcoin Treasury Model \u2014 And Bet On HYPE Instead",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0JXaDV2YW5pSmlzVU4zQVY3TFJMa0NEenA5V2U1Vjc1QU5DMlFLY1R0aXVHZ0RjOERSV21uTHpvcWNqazQtR3hLSllvV3kyc2p6azBBSlI4Yy14MlVRcl8yMWVLcjg5a2xncE82UW94OEVBcTQyUXVsUTBiQktLT3RnbU9PamRTWXAxS1kwN29qa0t5RzQ0ZGlrMGloRUFoMFpV?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-24T08:49:27+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "What It Means to \"Own\" Bitcoin in Korea",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjVxODNtczlUSE82R2wxeE55OElYdm9lM1FVWHRudlRwcnNOajVGeXNYLTQ2ZFFIbkNyNnhnUV9vUzNqVmFCRTNuQlBNNWJ3QlIySVNUMnRvZW5sb1JVYWpnalVLNHhJTVVZV3NFZ2tnY1hrTHhJQld2UjJSMmhjaENJOXZXQQ?oc=5",
-   "source": "Seoul Economic Daily",
-   "type": "news",
-   "published": "2026-11-24T08:49:15+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Korea"
-   ]
-  },
-  {
-   "title": "South Korea Moves to Allow Bank-Led Won Stablecoins, Crypto Issuance",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUZmQVlieTRsZktISUxLLXlDOUZVbkc0WjBlcDViRjNham83bGo4VERNbnpHMF9xUnYteDFVQng4UHNKUHBkR0ZzZm5vNWJmcjJoNTlvSnpDSXI2V0dTeThNZEE1ZDJEaWYyTTJXejZDaExZb1lvTWhBb0FCWUp6elZ5bVZOTVVQaWxGRFpn?oc=5",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "type": "news",
-   "published": "2026-11-24T08:43:06+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin",
-    "Korea"
-   ]
-  },
-  {
-   "title": "South Korea Seeks 20% Cap on Crypto Exchange Major Shareholders, Drawing Property-Rights Backlash",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kak1acVFlUFFFTXg0T1pzazdNOXZmNVVmUGRmNUQ3Z21ZT0dvV0VhSzd0VEJ1cHRCR0l2Z0NVVEE3emdMQXRrMGRJSTYxbWN3TFdzYQ?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-11-24T08:37:24+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Thailand SEC Proposes Stricter Rules For Stablecoin Transactions",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0swN09SQzhOa2ppTUh6bGdtTy1VTHAxWlFKNDJtN2hMQjhXaUhPOXl4dzc0LS1WMzFycGJ6MzRwREFVOEQwOXFtbTdKLVNwcGFMckVBZ1F3bGJ5R2hmcVlaVnE0WVZ4ZS1YQUNsTG5odDk3TlQwc2VEYkVOSXlDYU52YVNTNTlLNVBxTzBOS3diZTJZQmpoSXJxZWFBOTRvU0VMR05yTXBRb0lFQjhEOGRuMXVXUWJVVVYzRXZWTi1YZkFoVmFTR1RONA?oc=5",
-   "source": "Legal 500",
-   "type": "news",
-   "published": "2026-11-24T08:22:38+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "World Bank explores USD stablecoins\u2019 potential for development finance",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGdyMFY2dzhTX1U0QnRiU0s5WTZCRTlGX1A1djI5OGJhOXlCNjBUeUdLTmpHYWhlTTMyeGgtUGJIR2hreVBkUXBMbXNYUm5IWkpmSDJpVWdFa1R3SC1JNThRSGZuODJnUkc0NEtrc24zRzN1ZFcwY2laTEY1cmh6WnN5WVFrYk5ycThiQjFkT19BOUpKRHRYb29ueFRRQnZzR3lDandYSkpqS1BITVJUVkg2TEg?oc=5",
-   "source": "Global Government Finance",
-   "type": "news",
-   "published": "2026-11-24T08:14:42+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin"
+    "RWA",
+    "Corp"
    ]
   },
   {
@@ -741,18 +1277,6 @@
    ]
   },
   {
-   "title": "South Korea Unveils Digital Asset Bill Covering Crypto Exchanges, Won-Pegged Stablecoins and ICOs",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlFlU1BKdHZJVWRyc1ZxSkJxMUVVVUozemVBZDlMOG1UQjdrZnRueVZYWVh4WFRnZXg0Z3o0MXc2a21nTWZOV2Q5S1dnZG9SVkFXWE0yZTdwUXZ5RnpJckxWUU16MXRGZzRTcjNoV0sxWDhnVjNPSW9LT1JOMWZwenJkWVl3SGppMlJYTndKS09WVnBSVGJVbmdxVUw1T1VicjE1UUpEZHFqdGVGcXFWazh2RDJHeFhMSmc?oc=5",
-   "source": "CoinGape",
-   "type": "news",
-   "published": "2026-11-24T07:49:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin",
-    "Korea"
-   ]
-  },
-  {
    "title": "Bitcoin ETFs keep bleeding as BlackRock\u2019s IBIT shares gain nearly 5%",
    "url": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -764,103 +1288,37 @@
    ]
   },
   {
-   "title": "American Bitcoin Just Raised $150M From FalconX: What\u2019s in the Mind of Eric Trump?",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWtVVGpmZGU1OExIaHdFRUdWNXhvbDY2R1ExUGVLN0tjU2xjbk1uVTI5MFZiOWJfdjNVY2twM0lnQmtnaG1ERHNtUGJwVF9vNElIZWVpOVR6NlJTanpfZ3hCSV93MWVUdmdZSm53V01LeVRUaVJaeUt2U3FCZ1VyVmt0dEhZTUNjT3FRYzVJa21lRzdSQzBRY2wwMUpSVlE?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-24T07:38:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "South Korea Proposes ICO Return, Exchange Ownership Cap",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjF6U3NoWXBHZ2RPOTJGSDIyeGQyeDNHcWN0ZXRRaHZCT0p5WWdPQUVpSDNvUTUtMWd3WUk3cTA1Sm1yYi02SU10cnlsdGxHMXZBcjZkWmtKV19walhsaGpCVXdFMEtqakp5MVc3bnVLS181Y1JaalFjOXVZb240U083dnQ3WmtKbnMtTk92Sjc5SXB3ekFV?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-24T07:37:11+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Quantum Blockchain Technologies secures shareholder loan as Bitcoin mining tech advances",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFFtLW5Mc1ZyR0RJV0Rhcmw5U0YzQzlSaHZCX0prOFlYR3dPSFhTRkZJZWE3aGw1LTFHTlZHdGJaUE1nRXI3eUpjRWpMX1l6cGxhdElpb1dFc2dMZm1haEx6Q3hRMmpVWlp4MmJaeVpGQ3F5clZlSjNSMzlPQ1kwMGlVd3FyR2N6X3Q2Vy1ZZnp2bnBhZDJnTmRmQk9OaGNtZ3c?oc=5",
-   "source": "Yahoo Finance UK",
-   "type": "news",
-   "published": "2026-11-24T07:34:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "$20,000 in Bets, $350,000 in Profit: \u2018Suspicious\u2019 Polymarket Clusters Nailed Jensen Huang\u2019s Nvidia Return",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDNZc2hTSUlnQzF2WU8yR05zSFNHaDZpWkR6X1VQc0M3M1poVXM3WXJJRVMwRHAtWUxtbUQxaEZ0amFJQ0NnY2x1N3pyOXRsT0RCbllfX2haaWs4WUt5cjRTb0p3UktxQmNxUzZFR0lXc1dRWlJHUDNDTlB4OUcxTS1nN3p3amJIOU9udw?oc=5",
-   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY2lhWXF6Z1pILWFURWQ0dHVVUHBsa25DaDJOMXBHdVF3YjR3a1h0RkFrbVdfVXN1T2V4Tzdmem95VGR6cmkyeUozdGN5aF94M0tEN1NnOE5UQ2NqYjdYN1UyYmFlN1A5WjVscVQ2YkU1aFZ6T2JGLXlLeVB0bU4xUjVlNFZwQVNTaUtoUHE2dkk1RTZPOXhpV1lHM2RRT3BiRU9MbWc1QVVqbDNPTk1mLS1RVWNGcEcyc3pUS3VkdnhHRDhmX2xhaGNGX21nelkxOUtCcWI2RUo0TDJuOEN4OThuWXhXMklQMlJWMm9YV2RROW0yYVE?oc=5",
+   "source": "Benzinga",
    "type": "news",
-   "published": "2026-11-24T07:20:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T07:20:38+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
     "Jensen Huang"
    ]
   },
   {
-   "title": "Korean banks set to lead stablecoin issuance under proposed digital asset rules",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWc0SlJPVGp0b3BBNk5nYlJRTjRQMU1KdE1rdWpPR2Eyd1NDU204NGIzaDNhanFKNjNPNE1uS3hFR2p1X2VuRFF0MVNxVXFfczk0REVZZHJsOXRDU0hsYlp0OEhwQTJCUzF1TjBpamtFdWxZaTJsY21oYmNaVElPNjl5ajRXRjJsaWxraFRYZzJROERDY3ltNnA4YWhIRXBkQmVxRGFLSWNsSFo5eXdGVUcxOHppbzE3WXhadVFUYkNWLVpJa1hVd1pxa24?oc=5",
-   "source": "Korea JoongAng Daily",
+   "title": "CFTC Staff: Bitcoin Can Cover a Year of Exchange Operating Costs",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NU2NrSHFLSFpwSkZxYTFzOWNYanRLY2dXVjcyTmQ0a2toa2UyOEZ4RC1WaE5oQ2V0aThNOGp1UW12NzlzZ0l1OHdaY1Flc1g0OVpSaml4VGRqUFIyejJ5MQ?oc=5",
+   "source": "Bitbo",
    "type": "news",
-   "published": "2026-11-24T07:18:45+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T07:05:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Stablecoin"
+    "Bitcoin",
+    "CFTC"
    ]
   },
   {
-   "title": "South Korea\u2019s Upbit suspends 0G deposits over token supply concerns and announces four new listings",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01UXdUMF8zQzgtYjNWSXlYOVR6bXFBZmVnSTMycThCeFRCOUYxNXlzUVFFbWU4VlZ5TFZNcU5vanMxa0R4YTFaYlNYTkJOTHlkT2FfeXZ0dk5TZTVDdTVZbDk5cmQ2ZGVMbWdfT3FOa2V0WVZMOWVBTA?oc=5",
-   "source": "Crypto News",
+   "title": "Alcoa Corp (185.DU) Seasonal returns chart",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wd2JJcmpEaTBjUzYwanNjd0NmRG1HRGYta2R0NTdFVTk5SWd2Y3JhYmdkdW55U3JhVDlPeTl5aUpGdVV6LW4zYmpNakt4NmhBWVRsLXh4VVk4Z3E3bDcwdmI3QXk?oc=5",
+   "source": "Yahoo Finance UK",
    "type": "news",
-   "published": "2026-11-24T07:10:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T07:03:58+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "South Korea Targets Risky Crypto Transfers With Stricter Checks and Mandatory Reporting",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oTEpNazg0eDlKMmFfMmdhUlN1cXR2ME9WX0lUWERpM0F1OHVncVFfeG5pVGtQYXlzdENvd3RZZFNlVk5NcE5UbGRaWVVEOFZiZ2JXRmtn?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-24T06:59:45+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "South Korea Proposes 20% Cap on Crypto Exchange Stakes, Opens Door to ICOs and Won Stablecoins",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XR2Z1WUdzaVBKN24zV3A1QUVXSlZ5aWJNSjZHUFpFZ3Y5S19DZ0l0N3lKak9PN3BjWmp4MHpFdTl1YmE4bXFQV09XdlJxVjFTYjZDVzg2NnNMVjhHR3VuUWNvTm9RZVZLbzhaaE9lMXNnMHNhMnc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-24T06:55:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin",
-    "Korea"
-   ]
-  },
-  {
-   "title": "LIVE \u2013 Bitcoin Overnight Rally Roundtripped: Saylor and Strategy Didn\u2019t Flinch",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRU9CV2F4MUQ0UnYyY1VLYi1jTFRyNl90WVJEaUk0NTdBeXM1TnpiVnpVOUpnLUZwa3pvb25LZHVTaGtfeVZkWUlKajUtMktlNDVBV2NxaXdOTDBXWjBMRzR3NmxoNGpRRVJEdGc1U0NLUHM1WURpaGR3Z1g1Ri1PMDNNb1NYdGtYNV9fMjFxaVNZanU4ZTNpWjVHNjVfT21KTENyX3AtVHBLZw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-24T06:54:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
+    "Corp"
    ]
   },
   {
@@ -875,61 +1333,6 @@
     "Ethereum",
     "Bitcoin",
     "CFTC"
-   ]
-  },
-  {
-   "title": "Bitcoin hovers around $60k amid little relief from rate, regulatory jitters",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUlvcFltbU1sR2xYUkR3dzdiOGlseUl4bElaeGkxMjlTM1pHbTJROWNfazJPc05OWlVEX196NXU5N0xGNzFHUjJZekFGbENSclVmbmJlQ3I5RktKWVN4QjZsNlp2X0hvVkdTRmFqRDNPWTFnbTEwWjYxMndBZjhZaDRXVmpsbTNaNUdvN3BGX0ZkZnhIcVdyQjI3OA?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-24T06:44:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "BlackRock Opens Hong Kong Fund to Stablecoin Payments",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTjd5M3lmbHJDcnVJN1N2UmZqbEdUeWNtRHdIOHl6RHhCZHVrYm5lSXItNEZZQWVIS0hWVXZzRmxmLVhsc3JWelVFSmxkcWZfdXo1UWh3NS0xeko3ME01Vnl4dHp3T21KblVQU2NoTUstdWNBblBqTGJTczlrb2JMdm80aUtGMEJReHlOZDlXWTJDbEJHQmhlSzBkWE1pMDZPUkZCRll3?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-24T06:35:39+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "South Korea\u2019s 28 registered crypto firms face new regulatory scrutiny",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTBMUk5sVFVVWE4zWU43NklIczVsTlROdVktdFg1bjVuMmhmZlE5aldiaG4xTERyenoyLUx5N185LThXZXlPbHdGaHc0WW1QbDhBSE91Z1o4V1M5UXNrLTlkcFNocDZOdmhtQmhadTRsUEdJSC1XYWF4elhuZ1FKSDdHeWxUU2VyUWloODYwUGNLdkE?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-24T06:33:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Lighter Bridge TVL Falls 14.4% as USDC Balance Shrinks",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRlJFSm5Rd0ZYZ2RTQ1VQT1k5aXpuU0FsN2J6RFVPUGE3NEdtWjY2clJUU3l3Mnl1LXRXTEVtNWhFYUFVSFJfaVF1ODIzb3gtd1V2aTBFVVRqa1JsMXVaRmtSMzZDaEpPaThNYVd1SFlMQWVfd0Z5UFVLOWlCdjBBOGVzWjBvQlZuZUUyZl93?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-24T06:25:36+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Korea proposes 20% ownership cap for crypto exchanges",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Vy1fUk9uRzlYRU8yaWMycFR3aVM2RDJ3R3dsb3ZQU1dDZzNwaGV0ZUZHcHAyZWN3RlVkU2lQRkxwZl9mZ09mZkZtR2NUT2F5VlFURzhwNA?oc=5",
-   "source": "The Korea Herald",
-   "type": "news",
-   "published": "2026-11-24T06:25:27+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
    ]
   },
   {
@@ -967,73 +1370,6 @@
    ]
   },
   {
-   "title": "CFTC Alleges Backward Hat Ran Forex Ponzi Using Crypto",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkM1SFc5SFgyOFoyczRYd3ozQzU1QmkwRlJ5ZlhfV1FSTS1yaUZFMWpvMmNGZEpjdmVPZzZwN3RmcTh3SlFpSUpCRHRJZV9Yb0RkeHZKaG1FYS1CZzBmQUlTUGJZTjhqNHNobTN3ckcwRHVsRDNaOWJwcTh3Y2pocFYybkI3bEE0RzNWUXJTMWZQOU50OVo4?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-24T06:10:39+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "CFTC"
-   ]
-  },
-  {
-   "title": "BlackRock taps Hong Kong stablecoins for new money market fund",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzl6ekJwNy0zUVBrekEwVWZIRkl6Q3lBTmQ5S2tkLUZ6NHdSS0ZnQjVqb0pvdG5xV1F4WGFoRzJGeTJ3b2JKR21VbWF2ZnQ1VTB2aDhBMEJLSFhWcGlibm0xaDlUaG1hdnBiUGZCM2gxcnNvVG5LV1JrZDMxbmlrNmRiVXJsQzZGbzNTRmdEZU9tSGRTYWpMQW1FTVpQWW1ERkp6TGtVNElHTF9tbU1LSmhDbVU5OC1jMFpJRw?oc=5",
-   "source": "South China Morning Post",
-   "type": "news",
-   "published": "2026-11-24T06:07:29+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "South Korea proposes bank-led framework for won stablecoin issuance",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTNwR2Zrcm50Y1lPOHloU2ZCRmxZSHlISk5MUUF0SDBQZ201dTRxUGVtNnM4OWpqVWJlZHNqTDZLeXRCQ0U1QWNmRnFpV3BqcVV4MUR0NFRLY09TMlVnb0tfR3E4OFQyQzNyM1U1aDZIZ3hkS0otb2R1NW9BbzRCTtIBlAFBVV95cUxPVjJjYVBkbGtXUElGdWQwSC1iRXlFX1VCb19DTmdadG9UbVhZOGx2TUZBOHJNbWYybnJId2JqVzFYNTQ1WEo3Y0tQdlJEamF1WjdEVDFPUzBWTm9KQ1BXU05JU2Z6THRVN0tiMjlfM1RYS1VHYjhqbXNDUVkwN1NvZExmS1ZDWmRkZEhJN2ltQ1hHS3hi?oc=5",
-   "source": "Chosunbiz",
-   "type": "news",
-   "published": "2026-11-24T06:00:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Stablecoin",
-    "Korea"
-   ]
-  },
-  {
-   "title": "South Korea proposes stricter crypto security and trading rules",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTER2Tm9HMzJlMEdHTjhGRWJXblI4X2ZhT1dLSk05SS1Rc3g1S2lvQTNKdG0wU3JhRmNqQzhkdVdIdkRQcWxyTFpNRXljdlRXdE5tUWJZdmtZNDhPMU1BSkh3NUdlSmZPQ1NVd2gtbWFXSmVFTW9LdU0yVTVJZ0lwQdIBlAFBVV95cUxOcVFrWDh2R1VacWJCMnRIZ29LSWhiTFpYemdJUkYwUUFXRFhfUWxiYXlxT0ZwVHdXVXF0SE1iSlVTaHlQRnMzYWE3RVpoRnpnZkRINGNhVzdEQ3hFQ2NISTlWSVg3cm9DM05QZmo1VW1qaEdVZy1PUXJ6ZkJRSDRRMVItaWxkVEdyUnc1U1lJcHdhNmtZ?oc=5",
-   "source": "Chosunbiz",
-   "type": "news",
-   "published": "2026-11-24T06:00:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Korea proposes ownership limits and licensing rules for crypto businesses",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZEtBX2tRMFAtUExXZDY0dW5xRWh3X01FSWJySGQwZWN3UVFWcjJGSG1Rcl8wejJXQ1Y4eVRlUEFpaDlERG5nRG5nem9rYWpRV1pfU3VPNGxXUVMwUXlKalRpeFEyRmtBZ3EyUkFjQzMxMV92Y0xucjBpejJLaThadmdadXgzT3YzbU0temVMeWY4V1lG0gGUAUFVX3lxTE9kS0Ffa1EwUC1QTFdkNjR1bnFFaHdfTUVJYnJIZDBlY3dRUVZyMkZIbVFyXzB6MldDVjh5VGVQQWloOUREbmdEbmd6b2thalFXWl9TdU80bFdRUzBReUpqVGl4UTJGa0FncTJSQWNDMzExX3ZjTG5yMGl6MktpOFp2Z1p1eDNPdjNtTS16ZUx5ZjhXWUY?oc=5",
-   "source": "Chosunbiz",
-   "type": "news",
-   "published": "2026-11-24T06:00:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
-   ]
-  },
-  {
-   "title": "Korea proposes 20% cap on crypto exchange stakes, licensing rules",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjhPOUhhc0dsSEpBX2ZNSlhaYU1MVEViR1ltdEM4UUVQMllNQVZUbS1aWTZqaHRaTTE2Z0Z6RTRUaFZfQ1FkQXhybjVsSlVBcXhVNVBVZUlkSFBMSy1WOEV5Y19UdmZIRTQxOVRQbkxjUE16cGV3OXJ3TWNwUkhicVRmdWhPR05xT0VjSFVtTDNLaG0w0gGUAUFVX3lxTE4yOE85SGFzR2xISkFfZk1KWFphTUxURWJHWW10QzhRRVAyWU1BVlRtLVpZNmpodFpNMTZnRnpFNFRoVl9DUWRBeHJuNWxKVUFxeFU1UFVlSWRIUExLLVY4RXljX1R2ZkhFNDE5VFBuTGNQTXpwZXc5cndNY3BSSGJxVGZ1aE9HTnFPRWNIVW1MM0tobTA?oc=5",
-   "source": "Chosunbiz",
-   "type": "news",
-   "published": "2026-11-24T06:00:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
-   ]
-  },
-  {
    "title": "CFTC staff says crypto can count toward reserves but not liquidity buffers (BTC:NYSEARCA)",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkd1NUl3UzYzUkp6RXVtYXpBWXZhRWlSY3JacndhMEJoMDZrX2tnNHJ1Vmhvc1dRRmdLZXFRMU9SR203aVdUbXkxNmVldmYzZjNIWUhvc3ItZ1E5d0Y3Z3dLWE9Jd2FqVXR1RW5rbThpVi0zcVlhelRWNlZyMFl5YTFRLUtqSEs3Vm8wbXBxc1hrMkxTSFFaU1FwdS1SSkc3d0dqZE5YelIxS2hOLVVtbnl3?oc=5",
    "source": "Seeking Alpha",
@@ -1054,20 +1390,18 @@
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
     "Bitcoin",
-    "Binance hack",
-    "Strategy Buys"
+    "Binance hack"
    ]
   },
   {
-   "title": "Jensen Huang's Return Can't Rescue Bitcoin: Price Whipsaws at $60,600 as $762 Million in Positions Liquidated",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsUWEtdzhmdFdRMkJKNTEyWUM2V1JMSXdYbktRdkdmTmMxRlA4RG0xLTV0WkVra2ZVZTMxT3N3WTVzZ3NaaTJMUWpPUVpJdjhWTC1WYmNUSUVHVWZFTS1wUTRpNXBjUklSNDdyX19PZElDOXR2ekE?oc=5",
-   "source": "BigGo Finance",
+   "title": "SOCIAL CAPITAL HEDOSOPHIA HOLDINGS CORP. III (IPOCU) Seasonal returns chart",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IQkprM3FGZzNibmxrQlRackhQTnJBNVhDQ1ZIcDBNTnYzb28wYjBFdV9OT2hqMldmZEJoTnAyV3lIcmtvQlVvV2YzSXNZeEZNaUZfWl9IVmZXcGlUa19DSllzcw?oc=5",
+   "source": "Yahoo Finance UK",
    "type": "news",
-   "published": "2026-11-24T05:25:00+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "published": "2026-11-24T05:22:58+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Bitcoin",
-    "Jensen Huang"
+    "Corp"
    ]
   },
   {
@@ -1096,18 +1430,6 @@
    ]
   },
   {
-   "title": "Bitcoin Rebounds Sharply After Brief Slide Below \u00a58.8 Million; Surges to $64,000 on Report of Jensen Huang's Return as CEO",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QVDlEVlVuQlRLWFU0c2F6VkJLOEZWM09pUUFma3B1M0hNeTVVdHBUWmRmaVlEelJTWmZsLUJPWnZESEszYTdTYk50T0xwUlZLSU1vQ3NuelRKY3JZSURQZm9tVG1MeGg0SDZVNGpOdHFjTmc4Vnc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-24T05:05:00+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin",
-    "Jensen Huang"
-   ]
-  },
-  {
    "title": "REGULATION | Circle Agrees to Mint Over $1 Billion Replacement USDC Linked to the Binance Hack",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOGhWWE9MTzR5NWhfMHZ4MGhjSTA5cFNPSGJjQm1aZmwtaHBCNnhxYTRfUzlsSjRNVG5sZDdfMUVhaF9VMHR5bWx2bXEzYlBrTU9BdnAtQzFyTkctbzkwbTZUSlltYi0xQ3dfRkdQRy1MWmpzcFhGdEFTMjA5SjJHNHpodWRUb3AzekxnZg?oc=5",
    "source": "BitKE",
@@ -1117,17 +1439,6 @@
    "topics": [
     "Stablecoin",
     "Binance hack"
-   ]
-  },
-  {
-   "title": "Taiwan Stocks Jump 9%, Beating Korea and Japan on Huang's Nvidia Return",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mdG9qZzhaRDJTZ0l1T1pXWENGdmJicy1wVktSb3FXb19MMXVsUDAxRzRvbF9WbFRGd0dCR3BlTFJIRDZzbGJhNm1DZDl3dk5MVkNSZF92b09nTUFuOXBBVmJqOUdnRVdqak1lZ0J1VQ?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-24T04:48:53+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Korea"
    ]
   },
   {
@@ -1142,25 +1453,36 @@
    ]
   },
   {
-   "title": "Bitcoin\u2019s Next Two Weeks Could Decide The Bear Market Debate: Here\u2019s What Traders Are Watching",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGxKWVRwYk9CMHA5Y1p4RmtCbDZORmM3RnRsQktHZWFIUVNsbG1DME1IYWdpTWItRFFUOEhKODV6VmNlRjc5MGdyNGlyZExMeXR6MEM0LUIxQ2xrY1ZuNEIwOG5HWm1yQVVQNndYaDVxQ3pKUUtveEhLdVJsdzBpR0JVUXVyT25IamhaSzR6ckZLc1BFOGhTNA?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Q2 Metals Corp. (QUEXF) Seasonal returns chart",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yOHNGRHZYc0NZSDlJRlBkRWlkMklNLTNTT0NkMDhlZlN3dU5kYjZnRlQ5SnVLN29idk5UTWk2Q2d3S0JBM3NuZXA3VHc0eklCU0xxSWFoNV9kTDM2ZXc4UDZjTQ?oc=5",
+   "source": "Yahoo Finance UK",
    "type": "news",
-   "published": "2026-11-24T04:22:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-24T04:32:26+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Bitcoin"
+    "Corp"
    ]
   },
   {
-   "title": "Samsung Wallet USDC Sends on Sui Go Live, Sui Says",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUHdxd2tqNmp4ZkhOQlBXVWdvM1lLY2twd0V1TFNKZlkxLWRWRl9kVGlkb2REajJIcWFDZXhGaktWT3g2RVVCMnlEVFdGN3JoMk1Ua0xMZjVxeVVBaXBRTUVIWktDLWlZUEpscXZURnJoa3k3eEU1ZUQ4MWpwaExUVFlwN202ZWxKNmswVktUUHplY0lEOE9FdUp6RG5FNjZa?oc=5",
+   "title": "CFTC Alleges Backward Hat Ran Forex Ponzi Using Crypto",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkM1SFc5SFgyOFoyczRYd3ozQzU1QmkwRlJ5ZlhfV1FSTS1yaUZFMWpvMmNGZEpjdmVPZzZwN3RmcTh3SlFpSUpCRHRJZV9Yb0RkeHZKaG1FYS1CZzBmQUlTUGJZTjhqNHNobTN3ckcwRHVsRDNaOWJwcTh3Y2pocFYybkI3bEE0RzNWUXJTMWZQOU50OVo4?oc=5",
    "source": "The Defiant",
    "type": "news",
-   "published": "2026-11-24T03:55:30+00:00",
+   "published": "2026-11-24T04:10:31+00:00",
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
-    "Stablecoin"
+    "CFTC"
+   ]
+  },
+  {
+   "title": "Silicon Motion Technology Corporation Tokenized Stock (xStocks) Price Today \u2014 SIMOXUSD Chart",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KMFRhZ3VHamwwaC1ZMzdfR2pCVkFBcjZ0OWh5cUpzNEpBeXZQX1pHWEs3aWFjU2wydHlIQk1RbUtlVGY3d0RzSXZScWhQSUVZNGl0TTZLX0w?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-24T03:52:18+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "topics": [
+    "RWA"
    ]
   },
   {
@@ -1188,14 +1510,15 @@
    ]
   },
   {
-   "title": "Jensen Huang\u2019s Return Won\u2019t End California Probe Into Nvidia\u2019s China Activities, Attorney General Reporte",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLUNHSG9WQmM4Zy00U3FZZkNBQWNHb2RPSEF4RHJrOXFWblp0UmlZM3AtUEozS1ZWb0hXTUZ3LVM3MlQwbnJzbG9Odk5PRUluSHVIX1RvcEZPSHppMFdZZVVfTVJzSlB0X3ExZ1pIcTJrYjkzUzZodDRlMFJYZWJzaFZYTV94eUtySVJ0eHFOSXdZemJIX0ZOaHRZTXBaaHJ3TjFrS3RNczV3RmNLNXNHa2Q0bzJGWEpVSmlIUHAwcUYyNHdPT0d6Nw?oc=5",
-   "source": "Benzinga",
+   "title": "CASE STUDY | Leading Ethereum Treasury Firm Forced to Sell as Market Downturn Exposes DeFi Debt Risks",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXSFNPVmMyVmJlTTNBMnlreVROYlBfcy0xZTZ6RTBfRWg2bkIzQXNuUkRFLVMzQWhXV2k3dXlfSmtlbWM0R0laT05LSlFxVzdZWEJyTFg1Q2o5c3dxQ2Z5V1Jsdw?oc=5",
+   "source": "BitKE",
    "type": "news",
-   "published": "2026-11-24T02:53:37+00:00",
+   "published": "2026-11-24T03:00:22+00:00",
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
-    "Jensen Huang"
+    "Ethereum",
+    "DEFI"
    ]
   },
   {
@@ -1283,6 +1606,17 @@
    ]
   },
   {
+   "title": "What Is BOB Coin (Build on Bitcoin)?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxbHcxeU0zWnR3SFdDRm4xYlhCTjE4M2hKSHJzRXI0M3FWQTkwLTE0Q3hZXzRtWDMzYjB5YkFwZkx3MUsxTjNPX0dzWTdza2c0UzZDNnU0elh5bzhULXRqd1ZBam5uVHdhOFVVNDhpaHVaZw?oc=5",
+   "source": "Kriptofoni",
+   "type": "news",
+   "published": "2026-11-24T01:04:00+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
    "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
    "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -1291,19 +1625,6 @@
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
     "Ethereum"
-   ]
-  },
-  {
-   "title": "CFTC Staff Says Bitcoin, Ether Can Back Derivatives Platforms' Reserve Buffer, but Not Liquidity",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LURxSm1LVHltN0hkMzdxZEtIM2owVVJ6UkoxSmczTm04WFphQ2tGNVdPZ0QyaWQtdW5xSFZfXzExYUlYMGJNenFvYUJ3YXFReFdWM0lNYnV3SDNfTmxoMHNBSkpGS1k2OEJtT2JlRnlkQW9aWUE?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-24T00:35:00+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "CFTC"
    ]
   },
   {
@@ -1320,17 +1641,6 @@
    ]
   },
   {
-   "title": "Bitcoin-S&P 500 Correlation Deepens as Halving Cycle Loses Predictive Power",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HNmFwekJYbTd4YmttcjlnV2RQdDZ2SFRyX2I0aUM0cTdRQ0M4V084eDh0Nk1LeXNMQlZZdHJXOHVKTmlmVTJVNnFnNkRPamhad1BrWnctQWdlSkJmNlotRWNOYkc1R2g2b2dQbnphbk0xWTVN?oc=5",
-   "source": "Businesskorea",
-   "type": "news",
-   "published": "2026-11-24T00:29:23+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
    "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
    "source": "CoinDesk",
@@ -1339,17 +1649,6 @@
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
     "CFTC"
-   ]
-  },
-  {
-   "title": "Strategy buys 457 bitcoins, spends seven times more on STRC preferred share buybacks",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM212azNrSEtHUnZlaVNaRlVMeFB0c0xnRkZHdWdVWk5CaWphQVA3TnBic2RRdFpxRU1kMVZVcFVCRlhUSThtVWpfdEJJTnJ3dFpjcUQzMXdKUFpWQTdlRDkzQTljWk93NS1OZHlSMi1NbVA5Z0VHZXRHbnZPcTJYSGx3Y3JSZFZhb090WFhiUHRnTzMwWVJaT3hTZmpaNzBVU2N5V0pCeE5oRkd5NGROb2l2Qi1kSkdzUlpYZU92QTZ5dENUTzZUSg?oc=5",
-   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "type": "news",
-   "published": "2026-11-24T00:21:34+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Strategy Buys"
    ]
   },
   {
@@ -1364,14 +1663,14 @@
    ]
   },
   {
-   "title": "CFTC Staff Outlines Haircuts for Crypto Operating Buffers",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQalpTYTN1aVpRNlRzeWRyVjViYXFJTzRSeTBPM0RUNkxGTzdGVUNpRk1fZWRxQkVXWl92aXFyWEFJdTUyZ0RJSzJPVF94a0xweTItWnliTFEtME55VjI5c09yZ2M1VW9uYlRQaTZHU19TbkZDNkVWSjNZY2QweVhTRUZVSlZLa1JneWdwaA?oc=5",
-   "source": "Securities.io",
+   "title": "DFDV\u2019s SOL treasury grows by 5,180 tokens for an 11th week running",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QUHEzNm1CWE10Mk5GVDN4ZS1zbkZVOUJISERKMENUejdkbXlmRFNyUW9saE14N3NDdTZ5S0FLSHY3QW5DUENNTmE2cG5oTEZKeXFZVmlBc0VBU3h0VThOOV9wbjE2eEJ6QWhtc3lMQ2NqazRXeXJhQXln?oc=5",
+   "source": "CryptoRank",
    "type": "news",
-   "published": "2026-11-24T00:05:53+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "published": "2026-11-24T00:08:23+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "CFTC"
+    "SOL"
    ]
   },
   {
@@ -1387,49 +1686,25 @@
    ]
   },
   {
-   "title": "Payoneer Gets OCC Green Light For Stablecoin Trust Bank",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pNWFaNUpReUhTU3JYejZfQjh0VkJRdFJyd014SVdWSmZnNnBMcEUteEFPeHlLYkNvZjZTbGZvLU0zWlpxaGJQb2dqMmZaSU5idG0xbGpB0gFWQVVfeXFMTmk1YVo1SlF5SFNTclh6Nl9COHRWQlF0UnJ3TXhJV1ZKZmc2cExwRS14QU94eUtiQ29mNlNsZm8tTTNaWnFoYlBvZ2oyZlpJTmJ0bTFsakE?oc=5",
-   "source": "Law360",
+   "title": "Live United Urban Investment Corp (8960/JPY) Technical Analysis",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YbW9jYUhyOUszcU9NaktkSWxZcHpHWFdreWNFLWVSWUx2RzVoZFpJN2NYTS02LWVSY2l5T3VIbFB6NzZtYjduYjV1c21sMUlpRjVMTlNOQzBXR3A4TzVOMFlucU5fSkJrcUVKTFV1MA?oc=5",
+   "source": "Traders Union",
    "type": "news",
-   "published": "2026-11-23T23:31:00+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-23T23:10:15+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Stablecoin"
+    "Corp"
    ]
   },
   {
-   "title": "Coinbase Persuades Judge to Toss Terra Stablecoin Holders\u2019 Suit",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzNoWlNLYlhiSC14VEtMNzFVX0xPRzNNb29jMk9aT052dHlub0VZc01RR1pHY1hZelhqRnpUR3NpR0hBbUJPUkk1NE9HOWlmRGwtUy1CSnF3djJES3dORUZsMWNpaXY4M2NNWmM4dS10RGs3ZUVtMTdfdWxERGl4ZUxpRXVoV3Q0dUwwcXJuT1pkTU5fOW45ZlNqSGdoMjcxczNzandPTjNDUXc?oc=5",
-   "source": "Bloomberg Law News",
+   "title": "Morpho (MORPHO) Surges 3.60% Amid DeFi Rally and Multisig Transfer",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tMTZPWDBrN3JTUzRlUXp1TjMwZFJwb3h4d2tnTDdKbFpsX0QyQWpqNlcwclFpZ1FHWTFPRl9LSmhFWEIxZW5yRWdsS2NScTJ3VFAtRWkzd04zbDRZLW40N1l5Q3dHazNuOGY0dVpSM00?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-11-23T23:27:00+00:00",
+   "published": "2026-11-23T23:04:00+00:00",
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "U.S. Justice Department Files Civil Forfeiture To Recover $1.1 Billion From Binance Hack: 10 outlets compared",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZUNFVXlyTHZWaXFxN2R3NUlvVy0zb1FKVlM0bF9CR19uUDliWTRReDRiSVFUeGhYT0N4YnFPVVFVUXpWTXlWUFZxZVppVnB4TnVmUkxiN09DVEx3R0s0eG1Qcy1Nd2hHLWg5T0xwOGJ4RXhZQ1JEQW5hQVdzaGJrR1NyVFhNTjV2UGlwdlg1Qk96Ql9DZEVMaHc3WWxqckVad0E2RTZZRjA3cmpkU2Y0cjZBYzBUVnR6UXhrNUlyRUROYUtseUo2aTlTaFNhdHNJMTdjSVRwcEpoT09nX3JvdVpXdWhXeTMy?oc=5",
-   "source": "NewsCord",
-   "type": "news",
-   "published": "2026-11-23T23:20:42+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Binance hack"
-   ]
-  },
-  {
-   "title": "CFTC Guidance Requires at Least 20% Haircuts for Bitcoin and Ether in Operating Reserves",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN3N2OTVheXhzUXYwVHBweEJFRFBIWS1YUVJtYmtteUZneGJCaUo5bzRzTHJjY1VuZWFGUHpXdFBrNDFzZ1RQUWhqekRSMXVoWXI5N29ITkg2MVIxcm54X1JrTjBWQ0xmRzRGemZDLVk5Yk1jMnBVc181VnNkaFAyenM5Si0zT2Y5NTJudWNHUjUwOWQwM3lhbWh3c2dieTd4MG1RYlpwdjNlQ0MwbHJpNWNnLWRPYk82VVRWRW45X19nSmVNcTRvT3JJLXNQQVBoVWp3cGJaV19ZNDRzbVdCczJBVkY?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-23T23:00:46+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "CFTC"
+    "DEFI"
    ]
   },
   {
@@ -1456,28 +1731,14 @@
    ]
   },
   {
-   "title": "MoonPay seeks bank charter to federally issue stablecoins",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDU0R1FFMjd4YmxCdUIyeUVMUG4xbXlDSjhLVVFnZm1oRnRwaHZRbjVDV2Fkc2VVc1BaTVpoZFAwYUhsTHVMeWFSbU9uejFUUXRUb0h6Z0VlYWdObVNkZE5TY0NVOFQwc1VOc0hPQnZxMmdNTVdiZ0ZCQUxxMy1Kd0xoWWtBQzhGNHVtQjVQNjBpWHpnVGc0Vw?oc=5",
-   "source": "American Banker",
+   "title": "HYLQ Strategy to rebrand as Tony G Corp., appoints new chairman",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjdPYTJYRmVfZVRzbVJPWnpNR21kTUpha1lyOTBvZkdscUhmcC1TTEZGMDhJeVpZbG80MXAzaGsyeWk4V3RaY3BNM2hfUGpfOXE2RGx5RXd4SVhmNnJFbnlIODVjLVJic2x0UlE2My1MOWFicFR2YnZDZklOckNyd3VxcWhGYjZBcS1tWlNYMnozYy1jSTdlclJrSTFZajhYMlp4RmhyUEpjcmdSRlZIU2hoTF9DalRPTEVPbWtmc2RFdw?oc=5",
+   "source": "TradingView",
    "type": "news",
-   "published": "2026-11-23T22:42:35+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "published": "2026-11-23T22:19:37+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "CFTC lets Bitcoin, ether and stablecoins count toward some financial requirements",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGstMHJhZnE0RlF4OXhyYzgwc1h5NHJjVDloNnFDcW13LXU1Z21ienNyMVVmQWlRUF9XbXpvaFNSTElEQktMYnItRDlJM0czWXhJRTA5Z3hYX2FJNTVwZ3ZacWRObUJZWUoyTlJkQlU5MFF4cWdiXzNfdXlWY2xxZm5BdHF3SlE?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-23T22:25:40+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ethereum",
-    "Bitcoin",
-    "CFTC"
+    "Corp"
    ]
   },
   {
@@ -1492,6 +1753,18 @@
    ]
   },
   {
+   "title": "DeFi Development Extends 11-Week Solana Buying Streak, Holdings Top 2.62 Million SOL",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9weU1tamcwelp6SHpXb041VFZ1RExKakw2UHI1MDVvM1pncDVhS3lDZXdkSlFaT0U2eHRBOHFPdk1jUUw4OUhlOUxDWVBsYjR5aDR0UQ?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-23T22:17:48+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "topics": [
+    "DEFI",
+    "SOL"
+   ]
+  },
+  {
    "title": "US Seeks Over $1B From Binance Hack",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMC1UTDdWUGFEcm5rSFVGNEhPVnQtaWNDTVVGeVhqSnprd3ctQ3FRVk1mYzhHamh3LUpHWUI2RmtVS2dpRkg4WF8zVGJNbjZZSjlRTWlOeXRmaTJzU21RN0xiSEdXNzZYdnNsNlE5MHZIYXFzbHRDN0ZhV3d0TjZsZjhEZ3ZUODIyVmxpdXRub042QQ?oc=5",
    "source": "Briefs Finance",
@@ -1503,14 +1776,14 @@
    ]
   },
   {
-   "title": "Solana SOL (SOL-USD) Live Price, News, Chart & Price History",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqdlRhY2U1ZllSYWs2cmU5OGFHaV9DZTUtbG51NUdsVTRtaVI1T3BrUXp2M2Uxc29tcklHbC1iXzRTUWI3YTdXcXpnSWRUdUpnR1JqMFpR?oc=5",
-   "source": "Yahoo! Finance Canada",
+   "title": "DeFi Capital Markets 3Q 2026: Revenue $162.64K, EPS ($0.14) \u2014 10-Q Summary",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSHFNeXpsNUtjRU9nWUdBNDZfQUZ2LUJqVXlnRFZUREkwb2VXTUItUE5BSlNoWjFVOVBxR3FESTlBRFNlV1I5Y2hGaXFoNDlMbmEzaHlGQ1BzQTRYc3RvYW9Zd2lVNFdRLWRUR0pVTTJHTmxmdklDWWhzaDNib3I3VkxCcjhORzFzVDh4b3FfMHMzYVpDNnlJUGxQcGpMcjdBRkRPY1N5SmtRWm9Uanp1ajNIR0xhN2l0SWRteTd0VUp3TGhEcExv?oc=5",
+   "source": "TradingView",
    "type": "news",
-   "published": "2026-11-23T21:42:04+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-23T21:41:00+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
-    "SOL"
+    "DEFI"
    ]
   },
   {
@@ -1522,6 +1795,17 @@
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Up to $200M in common stock sales could follow if the shelf at Stablecoin Development (SDEV) takes effect.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWnZ3d0N3TlVVNWMyUl9vZVRNRFd4SFZCQlhEQ3VyVXA1RUd5ZXlEbDctVGxBZWRFd08tNlpqY1lZMXg2aU90ME9TcFNjQV9EZGlEdDZqZ21Ib3NIM0l6ZDhacktmMzlXdG50Wms3WkZPZVg1Q181eV9kZUpMZmJTQjFHUnA0cTd3QWNNbDYxVDViR0NlWno3VWVYMlpWQTd2M2M4Nmc4cmlZcVNzTGMyeDJvMVVqUERnVWd5TV94dw?oc=5",
+   "source": "Stock Titan",
+   "type": "news",
+   "published": "2026-11-23T21:16:55+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Stablecoin"
    ]
   },
   {
@@ -1548,18 +1832,6 @@
    ]
   },
   {
-   "title": "DOJ Moves to Forfeit Over $1.1B in USDC From the Binance Hack",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVVMOHZJTXh1M3plYk1lR1RHSTVLb3dsaE5FMlJCLTFNRmFfSjluTjZ3Y3NyTlJ5eUVsLWVJRzdnUHBWTTZtMDMzNllKSEtBNkltaWE4WmstREtQaUZCVkVrTWFEckF6M1hTcHYzSTBHVEJCVUVhZE85V1dKbE1adTJNZGt5OGJhS2FtaFZxZlhQX2M?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-23T21:00:49+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Stablecoin",
-    "Binance hack"
-   ]
-  },
-  {
    "title": "U.S. seeks crypto stolen in Binance hack",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTNpWjVGZ2VIcnEtM1dxbmt5ekZBRHR5cVVUMlY3Qko0RHd0VU9yUlNjYUxlSlF2T2tQc1U3eVRnY1hCZ1FSOURFY2xoYUtMOTJoVS1sUzZHZ3J0cjVja0FxTjdhQm8yRlIwZDVjRF9SdmJ1ak9oUzB2UmpGU1JBYkg4YmtabmppT1RNR05TQjhzTXZnMlZ3?oc=5",
    "source": "Investment Executive",
@@ -1568,29 +1840,6 @@
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
     "Binance hack"
-   ]
-  },
-  {
-   "title": "Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang\u2019s Return",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-23T20:58:21+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strategy buys bitcoin, expands repurchase program",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3BvZmFOYWwzUFE2S09rOHlOMHJoSll4ZWNiYjBHMWlOTGxjLUpjM1RlcnlkcXg2cjZiRndocE1RVlZmQnhSLUgwc1p2TkcwZGZpdUxTVjE0cFFHem40M1pfbUhfd3o1eWg4VTB1a1VlbjltdU5WOVZMekQ2ZEl4Y0VFR0FubXl3NGlzdkxVQkFTMks1b3VBLWViXzdnaFFXUk4zaUl0VEk4VGVqX2tCQ1ZLWQ?oc=5",
-   "source": "Investing.com",
-   "type": "news",
-   "published": "2026-11-23T20:57:20+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
    ]
   },
   {
@@ -1607,48 +1856,26 @@
    ]
   },
   {
-   "title": "Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch",
-   "url": "https://bitcoinmagazine.com/videos/bitcoin-gold-ratio-signals-potential-bottom-what-to-watch",
-   "source": "Bitcoin Magazine",
+   "title": "DeFi Development's Solana Stash Climbs to 2.62 Million SOL, Extending Streak to 11 Weeks",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pZHl4Ni1IdWtpRW1XcS1SSUY2LXF0R29Za1ZaaGt3R0dCcTNpSXM2RlBiY3NjYTR4Q2VCYWJSOEpmZWxfTnlrcW1fU3Q2SVoza1dCZHFnVFpkaDhwMHJjZWJtSHItZDZZMEJ4NWpqdzdxdHFWMHc?oc=5",
+   "source": "BigGo Finance",
    "type": "news",
-   "published": "2026-11-23T20:30:12+00:00",
+   "published": "2026-11-23T20:35:00+00:00",
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "topics": [
+    "DEFI",
+    "SOL"
+   ]
+  },
+  {
+   "title": "Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFRHSHp2V2lIcEtIMlBTNVVIM0JyVzNCZmMyV21NdzNVZlBOU3lRRm10TXVEeHZJZ1VzZHdPYlRQTWhwUkZBRTFObmlURmlFT2lFREJxXzVkZE1SWjZjMmpmWUtyRXdqOWs2ZWRBeUJJdkRKcU1UQnQwd3RxY1RKSXd2TDdvN0lJdzB5LUlndFVOSzNlRzgtTDN2cm1ObE96eU5GMXJrOXA0dGhheEI0VVdUZw?oc=5",
+   "source": "Bloomberg",
+   "type": "news",
+   "published": "2026-11-23T20:10:47+00:00",
+   "first_seen": "2026-11-23T12:00:03.942947+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Elliptic Traces $247M of Bitcoin From Binance Hack Into Coinjoins",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGlTcE5Vdzk2aWQyODlRNDNIa3dFR2hwemVTYnhtY1Y5S3BYWEd5YjhFdmNDYlVqSEd2c1p1bm4xUHZKelJhR1FZWFgwZWtmSGhaODBhNWdlb3JxNVpTUG9aQ01tdF9XS3YzeldqaGRJVU9NMFNvQ2tzOHlweElPRmxjVGlzVWx6MDZMdE9PZw?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-23T20:26:39+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance hack"
-   ]
-  },
-  {
-   "title": "DOJ files action to recover over $1B of crypto assets stolen in Binance hack (BNB-USD:Cryptocurrency)",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTVZWF96WXRpMzBUN1ZtMmJVenM4ZTZYRUxEa0l2MWVSX21QbjdCWERsOVFZamk4OVJZXzkwQ2x5QlpzUjlOc3p3TGQxQUItczRkbDg5THhnejF5aDliSFBERlZRSFFkc3BpSWlTS3FqWEVvaG4ySHhWMlNyd1FOdmhQcGhIUVhUeFR0eXdQcDNzS2V1NFR3UTE0NXpNQjVBQVFNaWkzcllRTkV3SWdoRTRn?oc=5",
-   "source": "Seeking Alpha",
-   "type": "news",
-   "published": "2026-11-23T20:12:52+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Binance hack"
-   ]
-  },
-  {
-   "title": "Payoneer Lands Conditional Approval to Open Stablecoin Bank",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDJ1UEZvZU5kcTM3NVlhSkszU3dnNmlWeGxuM1dWXzhXbjJTOUNpOWhNM0VOTjljak9sTllrRUZlVGFreVM1aTg2SnRhdHRlUjBlMm01OTZYNUp6SXhSUzZ5RXVhRWJuWV94TURZU19DZTRiWTI4N3pSUThnbE5ZQ29rRmgyd2ZCQ0tLb0RncDByS1ZBSjVsck5MWGZKb0htZF9R?oc=5",
-   "source": "PYMNTS.com",
-   "type": "news",
-   "published": "2026-11-23T20:11:31+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1664,6 +1891,18 @@
    ]
   },
   {
+   "title": "Trending Industry Today: DeFi Development Leads Gains In SOL Reserve Concept Stocks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjlWbXZ2b0xPaXlRdzVBUjJISjZRZFcwS19lV3B3TXd4SXVWSmZ0bUE3N01TbkwyMTFFMFQyQUlYOXFlTHRyemxFN2UxM25FbW11dGZUcHdwc202S082TmM2WmhTVnZsMW40TlFFR1cyUXY4SG9yeTZhNVQ0TFpJQkVqakNTWFZ3dUtiSmQ2M0lhWjJKTTh5WjlGdThvdHRVR1hEUmdibVpDU0ZtNng5ag?oc=5",
+   "source": "Moomoo",
+   "type": "news",
+   "published": "2026-11-23T20:00:01+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "topics": [
+    "DEFI",
+    "SOL"
+   ]
+  },
+  {
    "title": "Why Nvidia Needed Jensen Huang Back\u2014And What His Return Really Changes",
    "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
    "source": "Decrypt",
@@ -1672,6 +1911,17 @@
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
     "Jensen Huang"
+   ]
+  },
+  {
+   "title": "American Bitcoin Secures $150M Credit Line From FalconX",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE1KVHNONFpuemFkaXMteDlUSnFIYllpQ0VXTXgzeWxhdURGYUVYRDJMVVRTdXl6S3htMkEwTDg2WUdqYURfWk9uVHk1RWxaRXJSajM1dmZxdm9hYU0ySlhfQkZFSW53TlpUdlhPYWtfd2pFRTJOdU5DYnA5VVByenB2R2pPN2QweGVaR1dmWkFxaDdObWpaekxR?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-23T19:56:54+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
+   "topics": [
+    "Bitcoin"
    ]
   },
   {
@@ -1698,49 +1948,38 @@
    ]
   },
   {
-   "title": "DOJ seeks about $1B in USDC from Binance hack",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nQ213V0RoN2tHeVByNXZXZTUwMGtjdnNMUnJvbWxXU25iZGNvMEV6TENVN2NDQkRfTVJxMFRWVGRUeUJzcFVOLWJOQWZxMWcxcHE0cjVrVzhhMjBsR2c?oc=5",
-   "source": "Crypto News",
+   "title": "Eric Trump-Backed American Bitcoin Stock Surges 18% After Securing $150M Bitcoin-Backed Loan",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc1BjS3AxczFtYW5WbkFCY0VPdlY3eTBueWxVWVV3S2l5UnNFUnJEYjlUMnZjMFhMaG9xcXZEcWNUTE9tUjF1RndQX0tjWFJZbUxJaE92dUFhSUFVeTh6V1dub3phbmR3TDZWQmFGV3UzdXRIS1FpRUMwVUYyWWQzMkcxd05lMzB3MlA0cmlzbHpRS0Y4YzlIaC04T1BiTjFGenR0SWFGR0FIRWxabHA5Q3ZWWlA5dzkxTGZtczhfbHFJdExIY0NaSHk0My03VnNDZGViOTZ5V05uWGJ3YXI2bnVhZ3lGZlE?oc=5",
+   "source": "Benzinga",
    "type": "news",
-   "published": "2026-11-23T19:30:00+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Stablecoin",
-    "Binance hack"
-   ]
-  },
-  {
-   "title": "Ndivia's Jensen Huang to testify before Senate on Dec. 3 despite Trump's backing",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmJ6MTM5SmVVVWFWZG0yUnB4cWtGb3BkR2s2TDUtcV9keFRtQjB4WjNfN2RLblNQRXhPcWo0QjBlVFpZUkxZeVpoaHFWNmh5TUVwbkJueVNXRXRFbGJCZHhCaTA1dzJrajJKZGtiakx5OW9iemlkV3lrYmpNZ05TeHJDUGJzTGxGY0F2WVlZMElBYW1TclRRRlY0bURaTkgwb1pCTjNwTFI1TlQyY2VfNnhlaXJ3UnpfRVBDeFJGZGw?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T19:28:30+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Strategy Buys Just 457 BTC, Spends $212M on STRC Buybacks",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWhEVzdsSTExS1BfY1I2eF94VnI0bmZoTXdCWS1OQVpvU2JjdlEyV1ZHamlpaEJyRVFscUhaQ2phWlQwb09iX2t1U080dmpOdGxJMndGaWMyRGFGRmJ5LVFNYkdyNUtHOG0tYmdwS0pYeE9IUFB6M1ppZUR1V1FjVGdBc0Zta0xGYzhnUXVn?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-23T19:26:56+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Grant Cardone: Bitcoin to 5x \u2013 MSTR So Cheap \u201cYou Have to Buy it\u201d",
-   "url": "https://bitcoinmagazine.com/videos/grant-cardone-bitcoin-to-5x-mstr-so-cheap-you-have-to-buy-it",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-23T19:15:17+00:00",
+   "published": "2026-11-23T19:30:08+00:00",
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
     "Bitcoin"
+   ]
+  },
+  {
+   "title": "Sony Group Corp tokenized stock (xStock) price today, SONYx to USD live price, marketcap and chart",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVRYVzFOSno1V2Vra0h6NG44eXhrNHlOcHQybGpUYVdqUHJSaV96LV9aNG9DQ0FVSzNCbWVuVlpqMHNqYlBJYzdkOFVYLWstMDRLRHpQOWRVak5Wb0Q0WFIwdlRtWG9VamNZNHk2bjJOOW5UcDM3UFo2LVBLS29Vc2pn?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-23T19:17:11+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "topics": [
+    "RWA",
+    "Corp"
+   ]
+  },
+  {
+   "title": "Aave V4 leads DeFi venues for tokenized stocks with $17.1M in deposits",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16YXdyMUJGcFdhZ0FqellZWjhMaUhOTTVKRGZGYUtYcnNnclFHRTEwN1dyNERvZXVuTDNTbVV5ZURMb2xfVzVzMTJFUXJOcEQ5X0RYRWJ4ajljVHBmZlYzMlVMWC1Sck5PTXppdGMybU5QdUR6?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-23T19:11:39+00:00",
+   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
    ]
   },
   {
@@ -1752,28 +1991,6 @@
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
     "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None",
-   "url": "https://bitcoinmagazine.com/news/bitdeer-sells-281-bitcoin-holds-none",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-23T18:30:00+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitwise Head of Research: Did NVIDIA Just Ignite the Bitcoin Bull Market?",
-   "url": "https://bitcoinmagazine.com/videos/bitwise-head-of-research-did-nvidia-just-ignite-the-bitcoin-bull-market",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-23T18:21:13+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1811,27 +2028,26 @@
    ]
   },
   {
-   "title": "Strategy Buys 457 Bitcoin, Repurchases $212M in STRC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVlxd05jWFNNaGl4SGtoQmlzTF8tNUx0RThpYnQ1MHpYRUNUektBenhaalBmOXg4UXFnYTBLZDdDLVdOcEhKOEgyZlprM2VGVHBnX1ZtSVpvTVFyamJaVVpKdndrbkx0U1NnSzdwWnBROWVTVDhqTkJzV1JhWkdQMDVMaFk5RDNUUF9heE45V2prQQ?oc=5",
-   "source": "Bitcoin News",
+   "title": "Bitcoin rallies as Nvidia brings back Jensen Huang",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHk2Y1g2Z3FVOXJwQk5TWko5UDRLZFJnMGpZc2RkTkcyYi1mSklkamdVTlhsQ2pocW1JenBuWEtrVS1mYzNWc3hDSWgxdUNKa2ZJWUNMM3c2Y1VtMUYxYUNiZU13NC1EVkVWSTJKeXlDTDhkUUU1TWlvdmpTSk1wYTM4RTJtbXZsNWphZ3Jod1BwVHgzbVVGSEpGOFhhZlhN?oc=5",
+   "source": "Yahoo Finance",
    "type": "news",
-   "published": "2026-11-23T18:11:50+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-23T18:11:13+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
     "Bitcoin",
-    "Strategy Buys"
+    "Jensen Huang"
    ]
   },
   {
-   "title": "Strategy buys 457 BTC for $29.6M in fourth straight weekly purchase",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzZJX2Y4dGRRV2phdE9tNHRMMlVCZUc4bnJKRUhJNXVsWk9RNTNYUnMyWVNjVEpBUWVidVlWazlNNy0zZ1ZpTFFmZEJKV2hzb3k5aG4yUmc1SEV6OUJnRzlmS0RtSl9SQUk0LUVIempTMFlZYVhRcUVfdkxiQ3Bkd3JhWURuOTg?oc=5",
-   "source": "CryptoRank",
+   "title": "Hut 8 Corp (HUT) Stock Price Today: $52.37",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpdjFIWFR1eE5FVXJvVUhHTlRJUFBrM0l6OU9pVURNTG41STVHT25NeXFBakwzZUpKVndRMWNScTVBeFZyVTVOanRzNll6cU1tWmN4anFiRFE?oc=5",
+   "source": "Pluang",
    "type": "news",
-   "published": "2026-11-23T18:03:36+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
+   "published": "2026-11-23T18:06:50+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Bitcoin",
-    "Strategy Buys"
+    "Corp"
    ]
   },
   {
@@ -1846,14 +2062,16 @@
    ]
   },
   {
-   "title": "US Seeks to Recover More Than $1 Billion From Binance Hack",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1FyWVlrQ0tJZ0lVZnlxNzZ5dk13NGxvTC1iN2ZseHNkRHY0T1ZpX214UHBOQ0JSY2tpSXhhdUVDcGR0bGxGR01QZ21mRTBZR3BzWTBqbjY3UVZWZV9Uc1FYdVJ0R3lRSHZMLWJZZU52VUhaQksycmJWRFVXckMzMHJyVzZyYUhnb3ZPN1RPN045Y2pLdVJqbkxadG9aY1BCa3JhTmFLSnF0ZUlF?oc=5",
-   "source": "Bloomberg.com",
+   "title": "DeFi Development Corp. adds about 5,180 SOL, extending its buying streak to 11 weeks",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wNmhQVnhsVnV4NVlsdDIzaU0zNjZVOW4wc0NoNkFMUVVPRmtTTV9CZFhfZzlaWHA4Q1ZyY1JVWEs3ZkpOOHdVNWlQMWk2M1dzajItWGhobW5VQQ?oc=5",
+   "source": "Cryptonews.net",
    "type": "news",
-   "published": "2026-11-23T17:57:42+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
+   "published": "2026-11-23T17:47:00+00:00",
+   "first_seen": "2026-11-24T17:01:14.988783+00:00",
    "topics": [
-    "Binance hack"
+    "DEFI",
+    "SOL",
+    "Corp"
    ]
   },
   {
@@ -1865,17 +2083,6 @@
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Nvidia (NVDA) comeback sparks AI trade rebound, but bitcoin (BTC) price struggles to keep up",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXzBzenEzLTFvSE9LVGZHckdMVDZ0am54clI3R3V2dFlSNVVnOFIwbnJ0WFd3NkJvOGxmR1FNRkVlNTRVZ05pMDIydXhPX1AyNjFnTWZIVk9OUEoxNlpxV0dueGFpUnM5VTM2ZVFLT1JNRE1mZkpZd3hBbC1TY1lwcnd5LW5EYV9hZlFsZW50bFVVYlVpNEJ2Yy1VM1QwWHZQeVRwTHJlX2J4QzBrQTlCb1Rn?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T17:32:35+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -1901,511 +2108,69 @@
    ]
   },
   {
-   "title": "Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s",
-   "url": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward",
-   "source": "Bitcoin Magazine",
+   "title": "Securitize Serves as Tokenization Provider for OKXICE's Newly Launched 24/7 Securities Trading Venue",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXVCUXhTM0p2b3BXdFh5d3k1OWJNREV3T0pnTUZGeWNMNnJlcUtjdTk5UFdId1ZXdTFmNmdraVNJcFRVaVZCaThIMHJGR3BJUG9XdVEtUnQtVnlMQkQ0UjNDUGtSZ0hEVWs1M04tRkRieUdQRmdycW43dVpSWnVsQTQwY1drVHpUenByZWtLT1hXS0E5elpmNGxsRlVfREpZcU5yTVhEOGZ0cGJrVC11VzN6YmR1N0U?oc=5",
+   "source": "Quantisnow",
    "type": "news",
-   "published": "2026-11-23T17:25:00+00:00",
+   "published": "2026-11-23T17:05:45+00:00",
    "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
-   "url": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-23T16:51:17+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "DeFi Dev Corp Adds 5,180 SOL, Extends Treasury Streak to 11 Weeks",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUi1lR3BSbm1Xa01hRGJ0YnhnVDVzWWp1eFdfbUVLTG03WUdyckhJRm5RanFiMmpnVWQ4ZGxBT0RJZ3ZXYmhhWXYzbGZUZXlJUmxfTVVUbVcxd2Y3VnYyTngySmp2ZndHdzFsSGdKQ0V2UFlXR2wtYTd1NnNXblJZdXgzclB5LXJVXzBfd1pB?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-23T16:49:00+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "DEFI",
-    "SOL"
-   ]
-  },
-  {
-   "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
-   "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-23T16:46:03+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "USDC USDC (USDC-USD) Live Price, News, Chart and Price History",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92WmtMS19RS3RPRVc0S0IyR0ZtVUpWODZiTmJ2TEZxazJpVEV4V1FQWlFwcHk4bW92Vk5jWWpfbkpPSWNZd2NzQ1lUQTFUdk1xV3l0MXZpWQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "type": "news",
-   "published": "2026-11-23T16:41:03+00:00",
-   "first_seen": "2026-11-19T07:00:05.762425+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang\u2019s Return",
-   "url": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-23T16:32:04+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin",
-    "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
-   "url": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-23T16:23:37+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Stablecoin Wars: Prepare for a Fragmented Digital Dollar Market",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYjc1Z3lLY2NGaFZ1Z05jbzVlSjM5V1NRclRTTDEySW5FdVM4TU5zelgtR2hkRkUwVlAxa1VIcEhFclJnQWhESFVNTktMYmphMXJxQnI0ZE1xWFd5QkQ5YktCQ0VtY3EwTDNVSHpfR1ZUVnprZWJYd29IaERPUHVza1Yyd3V1bzg?oc=5",
-   "source": "EisnerAmper",
-   "type": "news",
-   "published": "2026-11-23T16:19:29+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "BREAKING:\ud83d\udc33 Michael Saylor\u2019s Strategy buys another 457 $BTC",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IZV93V0FVQlc2a0lYU1VDY3QtckJ6UmNhaklkdEhsTmtDZXh0YlFrUGFrRFpvclA3MXU3OEltOG9UU3dHZ2VQRUE5LWlZOFB3Vkw3ank1TjRjcEZyVlJwMUZVLTVXUXNKeVJsd2dJSlpBZw?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-23T16:13:06+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Bitcoin holds steady after record $6.3 billion Binance hack",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZWk1oTVo4VHo5SXlTRGhaZ01TSlRfbl9ER1BZbmcxN19yNHRoVUJOcng3dEJEaGk1LVQ2NnlLcUNoOUF1dHowUExZLVUtY3pSQmdiRmxVcGhyajZDZ25vTXJWNDZkQkYwRXRjTVRR?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-23T16:10:22+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin",
-    "Binance hack"
-   ]
-  },
-  {
-   "title": "Strategy Buys 457 Bitcoin as Spending Falls 64% Despite Cheaper Prices",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblpsckZGcUVtZHdldFdMUWNfbkVnckhPQUlkRTdNM2dfZzNuOTRYUlpYZV8zMkdFelZ1T0ZJZk1JZ1J4NW1fX0tPLXNtRFRkclVyUzlsZzdXUFczdEo4bWNWUHRQdUliUzhldGlZVXBEcGR0M2RPbTk2MDN3YmV3VnFEMG94NHl4bmt2MXE1WGUwc3NwaERlRlptZmVxbTV6RXlHRF94Rk9WbDlXb2JzNlkyWnZZRkZnTDNWZnFfc1hPV0RzVEtVcmJfcw?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-11-23T16:01:20+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "How market depth shapes the price of a weekend Bitcoin sale",
-   "url": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-23T15:57:55+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Cross River Bank Launches Its First Bitcoin-Backed Loans With LendingUSA",
-   "url": "https://bitcoinmagazine.com/news/cross-river-bank-bitcoin-backed-loans",
-   "source": "Bitcoin Magazine",
-   "type": "news",
-   "published": "2026-11-23T15:45:00+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
-   "url": "https://www.theblock.co/news/markets/2026-11-23-defi-development-dfdv-solana-treasury-11-consecutive-weeks-444950",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-23T15:34:51+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "DEFI",
-    "SOL"
-   ]
-  },
-  {
-   "title": "Binance hackers route $247 million through bitcoin mixers while $2.35 billion sits unlaundered",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU09RcS1pOWM0YURLelQ0VVhwZHlnZktIRHc0SUZHaFR5cjR4ZlYydHpZaHkyaUh5amRzU1RLV2FrMm1hNHVMS1Aza0t6WEp6MHNORkUwaWtkWW45bzlOZXdvMXRuRC1GSzdnTkdJVXJrUWJyQkZGN1cxVzBoMVBQUjV4QXJyMzNoeW93TmpyUVBsX3pfR19DbXFtRHRJMGh2Z3J2SUZLZ2N2Um9oN2FqbjZFN3AxbW5jUXJyaFI3MUxwTkRxa1dfcnJn?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T15:29:01+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitmine adds 7,819 ETH as Tom Lee makes the \u2018hard money\u2019 case",
-   "url": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-23T15:02:41+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
-   "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T15:02:32+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
-   "url": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-23T15:02:21+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin",
-    "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
-   "url": "https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-23T14:47:00+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
-   "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T14:43:18+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin firm Strategy buys 457 BTC as STRC buybacks hit $212M",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tZ2VrMTJfQ0pqeUlZLVFDalRVeGFqU0hYYWVxTnExbm8yODZ0b1lIZzEzRkpsUlVKS0E1TUVjSHBCRHIwZ0I5UnJMR2QyUFlEZk9TQ1Z0NUFpaldKbkg1OGVuUWxyelNGWDd1dlNIdzdxZw?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-23T14:26:01+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Nvidia soars as Jensen Huang returns to lead company",
-   "url": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T14:13:44+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Breaking: Strategy Buys 457 Bitcoin for $29.6M, Holdings Reach 851,305 BTC",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkh3czE2V3R1aWcyUEdwTXh6bWY1UVhfYnFVS0lwdnJCWk8xbndJZ1hxSmVaRlFrcTVsVEpicm1lbEVqN2cwcnBZa3R1Qi0wWTQ5QlBMN3N2NGM2VTFsYUYwV2tJMFkzYTkxN21sRWdDN0NSbjJvOWx6TG81OUlxWDV5YlgtaG5yLU5LNG1jMFp0a2ZxTmdF?oc=5",
-   "source": "CoinGape",
-   "type": "news",
-   "published": "2026-11-23T14:13:32+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
-   "url": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-23T14:07:21+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Strategy Buys $30 Million Of Bitcoin As Price Hits Two-Year Low",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnI5VkZYNEpCeFRhN19ybEpFTW9uN3ktWDVPcm8wU3JfY3I1VFpKaVhWaEtxcFhCYldyeGZMNUltc016R2hPdGQyNTFjRlNDRVJHN1VaVDNBRndPbzBOWmY3X2hSWVpCWUhEZHJ5Zmd4STNkMTJSN3VTVUxFWlVyZXQycGprNVhqMkprczZxVHRRYVN2TVdxWTI3Y1ZLUQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-23T14:04:00+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
-   "url": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-23T14:01:02+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Michael Saylor\u2019s Strategy Raises Preferred Stock Buyback Program To $4B, Spends 7 Times More On STRC Than Bitcoin",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVdoSnFjb1pwdXdiNjhJaXRzOGNxZEpqbXlJeWdSY3JZOHhuYllONjFEYzRRb2ZfdGNqOVNGTzdIZEZybFBCQkRLcXhRZVptX2hVU1o2cENJVlFzQmhqbjJ6ZnF4LUJKdTVUTGFnWndfc2JRY2NfZ21zVzZjaS1tUHB4d24yZ1JCaDdvcUhVNXhPYWh1S1hZWHhHNDVTai1fejl5d2E2WG0?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-23T14:00:23+00:00",
-   "first_seen": "2026-11-24T07:12:53.673681+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
-   "url": "https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-23T14:00:00+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "A strategy buys 457 Bitcoin and raises its holdings to 851,000 coins",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWF5LTBadUE5ZHE0ZnEzaktsNlA3VjZRSUwtYmJrTllxZmhKeTNJVWJkQ3NTZGZjMmlBWGJoVkZmcm1kOW1fbjd3SHB5N3o4UXRzSkZSQUVGZUI4bURONi0tSUFTRlRseFNNQWNvSmxhVmt6VmJLNWNFTEZNOHRDVUZqQV83Y2JGLVFwZ3MyVjhNRVhfbG1qb19KZjNPWFZXRjB2STE4Q3F0RVZqUjM2c2IxWGh3SXdXeG5ncE5OT2g3dXoxWFdB?oc=5",
-   "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
-   "type": "news",
-   "published": "2026-11-23T13:51:59+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
-   "url": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T13:49:44+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
-   "url": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-23T13:44:16+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strategy buys 457 Bitcoin; Saylor expands $4B buyback firepower",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjRrOVNBbGpoWUVMVkNrOHVhOXdyTDVMNlpHbHBiRllsa0JWN1VfQWh5Z25KM1ExeE1FREVodEJ0aHZqRGdqREp2clZOVjZVeFdrZ0Jpa1RNZkFycGl5T1NwWXpxRDhGQzcwejFZcDBRdXpsa3Y5NVFQMnJYbU1qaDBsVlpNSDB0WHBsSzFSSWo4U0FmS2NCdlNtV2hSQTR6?oc=5",
-   "source": "Seeking Alpha",
-   "type": "news",
-   "published": "2026-11-23T13:39:57+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-23T13:37:02+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
-   "url": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-23T13:31:01+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
-   "url": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-23T13:25:35+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "\u2018The dots aren\u2019t done,\u2019 Michael Saylor says as Strategy buys another 457 BTC for $30 million",
-   "url": "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-23T13:10:25+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Strategy buys another 456 Bitcoin, lifting total holdings to 851,305",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YcVNMMV9PWmEtUS1DOVRqOWhzMFdUeGhQaTBXWTVpc2VsU2FEcV9BaS1RTlFOZ0JYTmlla2Eza1E5UUxBVWJ5MXJWMk1Oc2RGNUpFa0o4QjhGSWdiNTlDUEdvZG8tV3YySFFTX0V2Y2RHU3dkREZyVg?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-23T13:07:56+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return",
-   "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T13:01:20+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strategy Buys 457 More Bitcoin, Repurchases $212 Million of STRC Preferred Shares",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfVUFGN2ZETW5YcnZVamhTeUg2RW1UcG9CYUNJX2owWmRVTWc5Q3lXNG5GaXRaV0N6MUFHVDhfcEI1Rlp5N2hTcUZ1U3dYaklWaVNRbQ?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-11-23T12:59:55+00:00",
-   "first_seen": "2026-11-24T12:01:25.278552+00:00",
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ]
-  },
-  {
-   "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T12:30:25+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-   "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-23T12:13:35+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
-   "url": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-23T12:05:02+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   }
  ],
  "stories": [
   {
-   "title": "US Seeks to Recover More Than $1 Billion From Binance Hack",
-   "outlets": 22,
+   "title": "DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack",
+   "outlets": 15,
    "topics": [
     "Binance hack",
     "Bitcoin",
     "Korea",
-    "Stablecoin",
-    "Strategy Buys"
+    "Stablecoin"
    ],
    "items": [
+    {
+     "title": "DOJ files action to recover $1B in crypto stolen in Binance hack",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGN2OFh5RFY2UlFpU1pQRzJ4ZnMyVTJIem82VzdpYVZ6aHdfbnRGaU9VZ2gxN2g0LUlVSGlTcFFJQnM4N3lyU0NINkphNTBfVmhFb1JmcU9HNWF6R3JPTmZ5TDdFSTdTWWE2Z2hJSTN1MjhpbkVlRzJLZVhHQzdUSEZwNzIzTVFmaVd6SzZqdDBicGtZWGhzUXo1NVVTZUwxaDhiOG9nLUItWmZQU2k0?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-24T16:41:24+00:00"
+    },
+    {
+     "title": "DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack",
+     "url": "https://bitcoinmagazine.com/news/doj-forfeit-usdc-binance-hack",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-11-24T14:30:00+00:00"
+    },
+    {
+     "title": "U.S. DOJ Moves To Forfeit $1.1B In USDC From Binance Hack",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaFg0aDQxRVZZMkhfSWppYkY0UTNiVWk0Uml0czR1eE83MmpUNG9RUXU3RU1RMmJxODMtMl9SWmsxYXVjY3YxX1dkSzBoOE5GVE04czlhRmJKM1l0UGpXd1JIMXdSVWVPV2xBd0Zvaw?oc=5",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-11-24T14:30:00+00:00"
+    },
+    {
+     "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+     "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-11-24T14:13:03+00:00"
+    },
+    {
+     "title": "Binance Hack Losses Hit $6.3 Billion as US DOJ Moves to Recover $1.1 Billion; Binance Vows to Help Freeze, Return Funds",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZd1dIWlQzV3I4cE96V2J2X3Y5b3FYR0J3S2RsYUhBV1NOZGd5a2NDMVdxc042azIwRGRUZTB2SEdtZmRTYjU3MVVRRGFIRGlVM3VEc2NJc2txUmdzdU42VTYxWDY2eTdFWEVXS25BRlBtUXk2U3c?oc=5",
+     "source": "BigGo Finance",
+     "type": "news",
+     "published": "2026-11-24T12:55:00+00:00"
+    },
     {
      "title": "U.S. Seeks Forfeiture of North Korea Hack Proceeds on Binance",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uaXdSc1NhYS1fV1d2clptWkFQT3RvQnhMZmY1ZjZQWW90WFZwOEhjaVZybGFzN3VuRHRqdXM5SXA2NzJwQUNYX2l5eDN2SXVaSnZEVkFDekZhZk5nX1d4Z2doME5Rd1VmczUyTkl6UnZXd1lh?oc=5",
      "source": "Businesskorea",
      "type": "news",
      "published": "2026-11-24T11:48:07+00:00"
-    },
-    {
-     "title": "Strategy buys 457 BTC at $64,898 amid 20% paper loss, shifting funds to preferred stock buybacks.",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejVsd2NaVTVJOTZPdGNmWlpYM0ttVm9XcWk3SUV3Z2NULWZQd2JLWENRTGU0UWRfOGlfZ2xacUdkSElacVp3emh0cmVLWEVZN0JFbjAwaEVVejF3eGJfOTJ4Yk9hTUc4Yzlhai1uYU9WYmdTU0hJZTVKNnZqaEFuRWJaSnc0WVEyNnFCWU1pdzg5R0ZUekFjcg?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-24T11:38:26+00:00"
     },
     {
      "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
@@ -2457,13 +2222,6 @@
      "published": "2026-11-24T01:53:35+00:00"
     },
     {
-     "title": "Strategy buys 457 bitcoins, spends seven times more on STRC preferred share buybacks",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM212azNrSEtHUnZlaVNaRlVMeFB0c0xnRkZHdWdVWk5CaWphQVA3TnBic2RRdFpxRU1kMVZVcFVCRlhUSThtVWpfdEJJTnJ3dFpjcUQzMXdKUFpWQTdlRDkzQTljWk93NS1OZHlSMi1NbVA5Z0VHZXRHbnZPcTJYSGx3Y3JSZFZhb090WFhiUHRnTzMwWVJaT3hTZmpaNzBVU2N5V0pCeE5oRkd5NGROb2l2Qi1kSkdzUlpYZU92QTZ5dENUTzZUSg?oc=5",
-     "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-     "type": "news",
-     "published": "2026-11-24T00:21:34+00:00"
-    },
-    {
      "title": "US Seeks Over $1B From Binance Hack",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMC1UTDdWUGFEcm5rSFVGNEhPVnQtaWNDTVVGeVhqSnprd3ctQ3FRVk1mYzhHamh3LUpHWUI2RmtVS2dpRkg4WF8zVGJNbjZZSjlRTWlOeXRmaTJzU21RN0xiSEdXNzZYdnNsNlE5MHZIYXFzbHRDN0ZhV3d0TjZsZjhEZ3ZUODIyVmxpdXRub042QQ?oc=5",
      "source": "Briefs Finance",
@@ -2478,13 +2236,6 @@
      "published": "2026-11-23T21:04:03+00:00"
     },
     {
-     "title": "DOJ Moves to Forfeit Over $1.1B in USDC From the Binance Hack",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVVMOHZJTXh1M3plYk1lR1RHSTVLb3dsaE5FMlJCLTFNRmFfSjluTjZ3Y3NyTlJ5eUVsLWVJRzdnUHBWTTZtMDMzNllKSEtBNkltaWE4WmstREtQaUZCVkVrTWFEckF6M1hTcHYzSTBHVEJCVUVhZE85V1dKbE1adTJNZGt5OGJhS2FtaFZxZlhQX2M?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-23T21:00:49+00:00"
-    },
-    {
      "title": "U.S. seeks crypto stolen in Binance hack",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTNpWjVGZ2VIcnEtM1dxbmt5ekZBRHR5cVVUMlY3Qko0RHd0VU9yUlNjYUxlSlF2T2tQc1U3eVRnY1hCZ1FSOURFY2xoYUtMOTJoVS1sUzZHZ3J0cjVja0FxTjdhQm8yRlIwZDVjRF9SdmJ1ak9oUzB2UmpGU1JBYkg4YmtabmppT1RNR05TQjhzTXZnMlZ3?oc=5",
      "source": "Investment Executive",
@@ -2492,18 +2243,11 @@
      "published": "2026-11-23T21:00:00+00:00"
     },
     {
-     "title": "Strategy buys bitcoin, expands repurchase program",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3BvZmFOYWwzUFE2S09rOHlOMHJoSll4ZWNiYjBHMWlOTGxjLUpjM1RlcnlkcXg2cjZiRndocE1RVlZmQnhSLUgwc1p2TkcwZGZpdUxTVjE0cFFHem40M1pfbUhfd3o1eWg4VTB1a1VlbjltdU5WOVZMekQ2ZEl4Y0VFR0FubXl3NGlzdkxVQkFTMks1b3VBLWViXzdnaFFXUk4zaUl0VEk4VGVqX2tCQ1ZLWQ?oc=5",
-     "source": "Investing.com",
+     "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+     "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+     "source": "Decrypt",
      "type": "news",
-     "published": "2026-11-23T20:57:20+00:00"
-    },
-    {
-     "title": "DOJ files action to recover over $1B of crypto assets stolen in Binance hack (BNB-USD:Cryptocurrency)",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTVZWF96WXRpMzBUN1ZtMmJVenM4ZTZYRUxEa0l2MWVSX21QbjdCWERsOVFZamk4OVJZXzkwQ2x5QlpzUjlOc3p3TGQxQUItczRkbDg5THhnejF5aDliSFBERlZRSFFkc3BpSWlTS3FqWEVvaG4ySHhWMlNyd1FOdmhQcGhIUVhUeFR0eXdQcDNzS2V1NFR3UTE0NXpNQjVBQVFNaWkzcllRTkV3SWdoRTRn?oc=5",
-     "source": "Seeking Alpha",
-     "type": "news",
-     "published": "2026-11-23T20:12:52+00:00"
+     "published": "2026-11-23T20:36:02+00:00"
     },
     {
      "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens",
@@ -2518,83 +2262,6 @@
      "source": "Reuters",
      "type": "news",
      "published": "2026-11-23T19:31:05+00:00"
-    },
-    {
-     "title": "DOJ seeks about $1B in USDC from Binance hack",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nQ213V0RoN2tHeVByNXZXZTUwMGtjdnNMUnJvbWxXU25iZGNvMEV6TENVN2NDQkRfTVJxMFRWVGRUeUJzcFVOLWJOQWZxMWcxcHE0cjVrVzhhMjBsR2c?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-23T19:30:00+00:00"
-    },
-    {
-     "title": "Strategy Buys Just 457 BTC, Spends $212M on STRC Buybacks",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWhEVzdsSTExS1BfY1I2eF94VnI0bmZoTXdCWS1OQVpvU2JjdlEyV1ZHamlpaEJyRVFscUhaQ2phWlQwb09iX2t1U080dmpOdGxJMndGaWMyRGFGRmJ5LVFNYkdyNUtHOG0tYmdwS0pYeE9IUFB6M1ppZUR1V1FjVGdBc0Zta0xGYzhnUXVn?oc=5",
-     "source": "CoinMarketCap",
-     "type": "news",
-     "published": "2026-11-23T19:26:56+00:00"
-    },
-    {
-     "title": "Strategy Buys 457 Bitcoin, Repurchases $212M in STRC",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVlxd05jWFNNaGl4SGtoQmlzTF8tNUx0RThpYnQ1MHpYRUNUektBenhaalBmOXg4UXFnYTBLZDdDLVdOcEhKOEgyZlprM2VGVHBnX1ZtSVpvTVFyamJaVVpKdndrbkx0U1NnSzdwWnBROWVTVDhqTkJzV1JhWkdQMDVMaFk5RDNUUF9heE45V2prQQ?oc=5",
-     "source": "Bitcoin News",
-     "type": "news",
-     "published": "2026-11-23T18:11:50+00:00"
-    },
-    {
-     "title": "US Seeks to Recover More Than $1 Billion From Binance Hack",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1FyWVlrQ0tJZ0lVZnlxNzZ5dk13NGxvTC1iN2ZseHNkRHY0T1ZpX214UHBOQ0JSY2tpSXhhdUVDcGR0bGxGR01QZ21mRTBZR3BzWTBqbjY3UVZWZV9Uc1FYdVJ0R3lRSHZMLWJZZU52VUhaQksycmJWRFVXckMzMHJyVzZyYUhnb3ZPN1RPN045Y2pLdVJqbkxadG9aY1BCa3JhTmFLSnF0ZUlF?oc=5",
-     "source": "Bloomberg.com",
-     "type": "news",
-     "published": "2026-11-23T17:57:42+00:00"
-    },
-    {
-     "title": "BREAKING:\ud83d\udc33 Michael Saylor\u2019s Strategy buys another 457 $BTC",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IZV93V0FVQlc2a0lYU1VDY3QtckJ6UmNhaklkdEhsTmtDZXh0YlFrUGFrRFpvclA3MXU3OEltOG9UU3dHZ2VQRUE5LWlZOFB3Vkw3ank1TjRjcEZyVlJwMUZVLTVXUXNKeVJsd2dJSlpBZw?oc=5",
-     "source": "KuCoin",
-     "type": "news",
-     "published": "2026-11-23T16:13:06+00:00"
-    },
-    {
-     "title": "Bitcoin firm Strategy buys 457 BTC as STRC buybacks hit $212M",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tZ2VrMTJfQ0pqeUlZLVFDalRVeGFqU0hYYWVxTnExbm8yODZ0b1lIZzEzRkpsUlVKS0E1TUVjSHBCRHIwZ0I5UnJMR2QyUFlEZk9TQ1Z0NUFpaldKbkg1OGVuUWxyelNGWDd1dlNIdzdxZw?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-23T14:26:01+00:00"
-    },
-    {
-     "title": "Michael Saylor\u2019s Strategy Raises Preferred Stock Buyback Program To $4B, Spends 7 Times More On STRC Than Bitcoin",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVdoSnFjb1pwdXdiNjhJaXRzOGNxZEpqbXlJeWdSY3JZOHhuYllONjFEYzRRb2ZfdGNqOVNGTzdIZEZybFBCQkRLcXhRZVptX2hVU1o2cENJVlFzQmhqbjJ6ZnF4LUJKdTVUTGFnWndfc2JRY2NfZ21zVzZjaS1tUHB4d24yZ1JCaDdvcUhVNXhPYWh1S1hZWHhHNDVTai1fejl5d2E2WG0?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-23T14:00:23+00:00"
-    },
-    {
-     "title": "Strategy buys 457 Bitcoin; Saylor expands $4B buyback firepower",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjRrOVNBbGpoWUVMVkNrOHVhOXdyTDVMNlpHbHBiRllsa0JWN1VfQWh5Z25KM1ExeE1FREVodEJ0aHZqRGdqREp2clZOVjZVeFdrZ0Jpa1RNZkFycGl5T1NwWXpxRDhGQzcwejFZcDBRdXpsa3Y5NVFQMnJYbU1qaDBsVlpNSDB0WHBsSzFSSWo4U0FmS2NCdlNtV2hSQTR6?oc=5",
-     "source": "Seeking Alpha",
-     "type": "news",
-     "published": "2026-11-23T13:39:57+00:00"
-    },
-    {
-     "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
-     "url": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-23T13:31:01+00:00"
-    },
-    {
-     "title": "\u2018The dots aren\u2019t done,\u2019 Michael Saylor says as Strategy buys another 457 BTC for $30 million",
-     "url": "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-23T13:10:25+00:00"
-    },
-    {
-     "title": "Strategy Buys 457 More Bitcoin, Repurchases $212 Million of STRC Preferred Shares",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfVUFGN2ZETW5YcnZVamhTeUg2RW1UcG9CYUNJX2owWmRVTWc5Q3lXNG5GaXRaV0N6MUFHVDhfcEI1Rlp5N2hTcUZ1U3dYaklWaVNRbQ?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-11-23T12:59:55+00:00"
     }
    ]
   },
@@ -2607,6 +2274,48 @@
    ],
    "items": [
     {
+     "title": "Nvidia Brings Back Jensen Huang: What the Reversal Means for Investors and AI Stocks",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJIYU93LVV0NG1OdzNRcE5yazBBOXlENExfSHE4dUhseVYwMUdyOGtZOFppbjFCcS0xVFBrSnc0d2QtbmtQS1JzMWlJV1lLcWZvZVNwcU1qbHlzTEszYTVQTFFvWHRvRklYV3JsWGJIUDBLbk5JcHl5WmlHRnBqRFQ4N0lQWkNlakFSaXpXOTRLd1RXWTV6Ykc2Z1MxNG9DbGtKTS1MNTM5dFJTakN5dw?oc=5",
+     "source": "Around Prague",
+     "type": "news",
+     "published": "2026-11-24T15:38:54+00:00"
+    },
+    {
+     "title": "Bitcoin ETF Outflows Hit A Record $4.71 Billion",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2JQYm8yR2p5YTBDS0plT1lPczNzS0hIeVBxeXFfczJuS3R4M25NZUFVX21zbU5pMEhYQUMxb1llWWFNT3N2ZExZblhqRVo5Y0dLY2RpSDVOV05GQmxrT2VjZ3lGaWtBT0I4bHA0YXh0UDlvY2tDMGF2Z1ZnM1h4UDBrMzk0X183NTZIM00xeHJmUEoySWlaNTYwTnk?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-24T14:24:00+00:00"
+    },
+    {
+     "title": "Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-60000-etf-outflows",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-11-24T13:47:18+00:00"
+    },
+    {
+     "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+     "source": "CoinDesk",
+     "type": "news",
+     "published": "2026-11-24T12:36:28+00:00"
+    },
+    {
+     "title": "Nvidia Reinstates Jensen Huang as CEO, Stock Jumps 30%",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc18weDFubFVJaU91RmdBQ3gxYmgwTzBxLXNQSVA5V1JxZkgwSEk3eE1KenFuMFlvWENFUGVIU2VfYm1UWVJ3NEdSTWQ4VzdibFZyV2lnU001TzByOHVldEpGZ3lpb1R4am1nME40aXFjZw?oc=5",
+     "source": "BeInCrypto",
+     "type": "news",
+     "published": "2026-11-24T12:28:10+00:00"
+    },
+    {
+     "title": "Bitcoin briefly rallies 5% on Jensen Huang\u2019s reinstatement as Nvidia CEO, then falls 2%",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQRnhYLVhBV19LWkxtb0s3WjJPX2RaMWRzSXU4M0VuWE5PbENRN3VRSnRHX3NvOHJhNWZjN19rY0d0bk9sMDhONEhEZTFaRTUyYndwYjV4WDl4dTUzQUVDdktlUVFZSXdMWVRydnZMS1hRYURPUGNOektR?oc=5",
+     "source": "Crypto Briefing",
+     "type": "news",
+     "published": "2026-11-24T11:52:08+00:00"
+    },
+    {
      "title": "Bitcoin jumps 5% as Nvidia reinstates Jensen Huang as CEO",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVNWOWtTUUZJVkxNZ0F0elQ5aWpDM3ZlSGFhRFZueEk2RVh2ZXhnOUtiWVIxQ2F1b3R1T09WVExDcHdGNFRMYXZMbzBkdVl2Y2JqT3hmbnJvV3NmTXpQM1l4N256aXNEQld2LUl2YVJzY0RqbXpfYnNZVXpidThQSlRCSDY3SE1vS2JNTQ?oc=5",
      "source": "Crypto Briefing",
@@ -2614,18 +2323,18 @@
      "published": "2026-11-24T11:51:04+00:00"
     },
     {
-     "title": "NVDAB Gains 15% As Nvidia Reinstates Jensen Huang As CEO",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXdDQkJmajhYVGdLaFpTekVBaTgyNUFPNjBKMHBuZHAzeE9GQ0hvemFvTlgtcGpoM3FMRW0xX3Ftc2Q1MUFvTVZib2o2cUQ5TUZhdVp1VGNEbWE0c19IWGZVVThKMk5BTVhaMTE0VDg2cWw3d3Utcnk0cWpPY3VBdVRaR1lJLXotTnc?oc=5",
-     "source": "MarketForces Africa",
-     "type": "news",
-     "published": "2026-11-24T11:46:50+00:00"
-    },
-    {
      "title": "Bitcoin Price Drops Below $60,000 As Crypto Market Erases Gains From Nvidia Rally",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclJfX1V6cWRLc1lEUnlzSXZYaUp6Wk54Tlp3MXhVQzRMVlllT1B5dExIclAwSkktQ05zS0Ixd0ZKSnhPbUd0REtPLTFfb3YyVUV5QmRBZmgzZ2R2UTI2aXlaMk82TWU0RHZ3ZlVnZ2RySGFEMVM0em04TWFxaExETFhqSF84VF92YlJYUER6QTlyUFRwRE9yd2RtRUd6UEJFeVNTZkpyRDZUeXM2NG0tUG9EdUNNYy1RRUFJVXNlV0w?oc=5",
      "source": "Forbes",
      "type": "news",
      "published": "2026-11-24T11:11:47+00:00"
+    },
+    {
+     "title": "What Jensen Huang's Nvidia Comeback Means for Markets, Washington and Investors",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmhFcWM2WWdhbWtiaFp5NFpydHlveThlaTFqcXBQYkQ3MXNWdDdGdlpoT1o0d09uaFpOdFBHNUdUZ3NXS0NNWi1kTDZPWEVSV3NrREs3dF9EUUc4YjA1X2xKc0laTUVuLXR3MEVwNVIySzN1SmNfVkxwaGxGYm93MjRncFRmMnplSlNhTXRfV0lYQXVfamk3dzhWX05DVDgybmxjbEVFOXA1S1lLOHlRQ2xxQQ?oc=5",
+     "source": "Around Prague",
+     "type": "news",
+     "published": "2026-11-24T11:08:01+00:00"
     },
     {
      "title": "Bitcoin Trades Near $60,000, Below Where It Stood Before Nvidia Brought Back Jensen Huang",
@@ -2642,13 +2351,6 @@
      "published": "2026-11-24T10:08:38+00:00"
     },
     {
-     "title": "What We Know About Jensen Huang\u2019s Stunning Return to Nvidia",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1RuMExuY1p5WHlQWGZXR0lfZWRsS0J6NU1iRjJHcklGYmFiZTZkeURmWWpMWTFPUXliX2FGUFFjUGhadHhmSzAwdnRwTjlKZVY4Tm5OWUZtSW1zajlJZG5vS2RraGVFaEFqWHdJVDRXMWNJRVRjRnVWaF91VnlMb1hfbnVlNE1lbHlEY1BJN1VpYkVJNjdDR3hJSkg?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-11-24T09:55:57+00:00"
-    },
-    {
      "title": "Bitcoin slips back toward $60,000 as Jensen Huang\u2019s Nvidia return rally fizzles",
      "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
      "source": "The Block",
@@ -2663,13 +2365,6 @@
      "published": "2026-11-23T22:47:32+00:00"
     },
     {
-     "title": "Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang\u2019s Return",
-     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-11-23T20:58:21+00:00"
-    },
-    {
      "title": "Why Nvidia Needed Jensen Huang Back\u2014And What His Return Really Changes",
      "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
      "source": "Decrypt",
@@ -2677,32 +2372,18 @@
      "published": "2026-11-23T19:57:21+00:00"
     },
     {
-     "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang\u2019s Return",
-     "url": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
-     "source": "Decrypt",
+     "title": "Jensen Huang Is Back at Nvidia: Could Bitcoin Regain What It Lost Without Him?",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0YyeDk4M1p3V2dtSl9qRURPanphU0I0eTE5WHZhWGNxU2RaeEV5T3gxSjRYd0xfMXJJeUI4UGM2bWlRbVozUkZMYVFvcjU3X253VVRhNXRxM1FuNTR5dnBORVlpRGFfcENVdUZvWjlBd3ZoY0loMXo5UUlsMjhFQ3ljQjFJdUxYSWRLbTZkb1BhbzJuVGN4THE4MA?oc=5",
+     "source": "Yahoo Finance",
      "type": "news",
-     "published": "2026-11-23T16:32:04+00:00"
+     "published": "2026-11-23T18:16:50+00:00"
     },
     {
-     "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
-     "url": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
-     "source": "The Block",
+     "title": "Bitcoin rallies as Nvidia brings back Jensen Huang",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHk2Y1g2Z3FVOXJwQk5TWko5UDRLZFJnMGpZc2RkTkcyYi1mSklkamdVTlhsQ2pocW1JenBuWEtrVS1mYzNWc3hDSWgxdUNKa2ZJWUNMM3c2Y1VtMUYxYUNiZU13NC1EVkVWSTJKeXlDTDhkUUU1TWlvdmpTSk1wYTM4RTJtbXZsNWphZ3Jod1BwVHgzbVVGSEpGOFhhZlhN?oc=5",
+     "source": "Yahoo Finance",
      "type": "news",
-     "published": "2026-11-23T15:02:21+00:00"
-    },
-    {
-     "title": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
-     "url": "https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-23T14:47:00+00:00"
-    },
-    {
-     "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
-     "url": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
-     "source": "Decrypt",
-     "type": "news",
-     "published": "2026-11-23T14:07:21+00:00"
+     "published": "2026-11-23T18:11:13+00:00"
     }
    ]
   },
@@ -2716,6 +2397,27 @@
     "Stablecoin"
    ],
    "items": [
+    {
+     "title": "How Bitcoin Counts Toward Exchange Reserves Under CFTC Guidance",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EX1dta05oWmtuc2tVTmJEaDJtMTZLbkN5eVZqbGNSRk1fRzNqMDlUUkJrT1RfanZGNDNtdGQwR0VFZG1EY2ZNQVgxOTYzWXAwaTNhZXU3QmFzaF9mZFBmQTAxUnh0eGpmVWl3M0VtUHNTVVo2VXlR?oc=5",
+     "source": "Securities.io",
+     "type": "news",
+     "published": "2026-11-24T16:04:05+00:00"
+    },
+    {
+     "title": "CFTC staff clears Bitcoin for derivatives platforms\u2019 operating reserves, with a haircut",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkJsRXlaU05pdG15YWlFVi1yNTVOSkd2ZS1tLWIya2p5Y3hBcHV1MnBxS3BFbVFEVlUtVWF1TUpLdk0zT2hxQTc4MWFmV05mMDBjSHM3bTZGNm1vWkxrNlFEakpxdWl1RlVZQVlYb05UaFdRdnRGUHVtdjYwUXdMRURYUlJTcDB0?oc=5",
+     "source": "Crypto Briefing",
+     "type": "news",
+     "published": "2026-11-24T15:00:35+00:00"
+    },
+    {
+     "title": "CFTC Staff: Bitcoin Can Cover a Year of Exchange Operating Costs",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NU2NrSHFLSFpwSkZxYTFzOWNYanRLY2dXVjcyTmQ0a2toa2UyOEZ4RC1WaE5oQ2V0aThNOGp1UW12NzlzZ0l1OHdaY1Flc1g0OVpSaml4VGRqUFIyejJ5MQ?oc=5",
+     "source": "Bitbo",
+     "type": "news",
+     "published": "2026-11-24T07:05:00+00:00"
+    },
     {
      "title": "CFTC lets exchanges use Bitcoin, Ethereum, stablecoins as reserves",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqdWVveDBDeW9IMWxucWZ1dXR1dzZ6LUF2eGdrcV90bm1BMUpVaDNaZFdjRzBoSVZyUWhXXzNGaUxZejVTNU4yc0xJOVo2dllKM0dfeDZLbzZfRVMyTjVFY0RtTDlPanVyRzI0MGx2bHlLZzdGOEs4RDlXTjR4UQ?oc=5",
@@ -2745,13 +2447,6 @@
      "published": "2026-11-24T02:24:32+00:00"
     },
     {
-     "title": "CFTC Staff Says Bitcoin, Ether Can Back Derivatives Platforms' Reserve Buffer, but Not Liquidity",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42LURxSm1LVHltN0hkMzdxZEtIM2owVVJ6UkoxSmczTm04WFphQ2tGNVdPZ0QyaWQtdW5xSFZfXzExYUlYMGJNenFvYUJ3YXFReFdWM0lNYnV3SDNfTmxoMHNBSkpGS1k2OEJtT2JlRnlkQW9aWUE?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-11-24T00:35:00+00:00"
-    },
-    {
      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms\u2019 operating expenses",
      "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
      "source": "The Block",
@@ -2766,13 +2461,6 @@
      "published": "2026-11-24T00:10:00+00:00"
     },
     {
-     "title": "CFTC Staff Outlines Haircuts for Crypto Operating Buffers",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQalpTYTN1aVpRNlRzeWRyVjViYXFJTzRSeTBPM0RUNkxGTzdGVUNpRk1fZWRxQkVXWl92aXFyWEFJdTUyZ0RJSzJPVF94a0xweTItWnliTFEtME55VjI5c09yZ2M1VW9uYlRQaTZHU19TbkZDNkVWSjNZY2QweVhTRUZVSlZLa1JneWdwaA?oc=5",
-     "source": "Securities.io",
-     "type": "news",
-     "published": "2026-11-24T00:05:53+00:00"
-    },
-    {
      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -2785,190 +2473,32 @@
      "source": "The Defiant",
      "type": "news",
      "published": "2026-11-23T22:46:50+00:00"
-    },
-    {
-     "title": "CFTC lets Bitcoin, ether and stablecoins count toward some financial requirements",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGstMHJhZnE0RlF4OXhyYzgwc1h5NHJjVDloNnFDcW13LXU1Z21ienNyMVVmQWlRUF9XbXpvaFNSTElEQktMYnItRDlJM0czWXhJRTA5Z3hYX2FJNTVwZ3ZacWRObUJZWUoyTlJkQlU5MFF4cWdiXzNfdXlWY2xxZm5BdHF3SlE?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-11-23T22:25:40+00:00"
     }
    ]
   },
   {
-   "title": "Korea proposes 20% cap on crypto exchange stakes, licensing rules",
-   "outlets": 7,
+   "title": "DeFi Development Extends 11-Week Solana Buying Streak, Holdings Top 2.62 Million SOL",
+   "outlets": 6,
    "topics": [
-    "Korea",
-    "Stablecoin"
-   ],
-   "items": [
-    {
-     "title": "Seoul to cap crypto exchange ownership, pave way for won stablecoins",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMaVFycEhqYVBYOHFvNXRPc1hQbzVEYkFISnVFSHpMaVMxVC0ycnZVdlZRRGMtcy0tdEhvYTNHakZtZVZZY3J0OFBYOXd1TGItQ3NXQWc3X1drVmh5N1U0dkU3RHRaQ1dnZmg0Y3pwQUloVGRPSGc?oc=5",
-     "source": "KED Global",
-     "type": "news",
-     "published": "2026-11-24T11:26:00+00:00"
-    },
-    {
-     "title": "South Korea\u2019s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
-     "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-24T11:25:24+00:00"
-    },
-    {
-     "title": "South Korea proposes bank-majority rules for won stablecoins, caps exchange stakes at 20%",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUEpDX2VRWGlyVmJCRUxjUWJQbDVCYnVyeEpsUG9tb00zOEhrZWdBdE1SNmZvbHFNZElXMklpaGk3M3l5eXNNSEZRYjZ4TXdFb1oxM0RCT3F6aUttUkw2ODFuWmw4ZXNyLUU4RDJoMTNsOHpBbERzaWhpREFublhWX3hPNHBHeEp5N2lYT2lTcDJxS2o5RGc5OU5TeExlSmVWUDVUdEpGZWtZb1pET19tckRQZVBlQXlpZmo3eklUaw?oc=5",
-     "source": "CoinDesk",
-     "type": "news",
-     "published": "2026-11-24T10:29:14+00:00"
-    },
-    {
-     "title": "South Korea Proposes ICO Return, Exchange Ownership Cap",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjF6U3NoWXBHZ2RPOTJGSDIyeGQyeDNHcWN0ZXRRaHZCT0p5WWdPQUVpSDNvUTUtMWd3WUk3cTA1Sm1yYi02SU10cnlsdGxHMXZBcjZkWmtKV19walhsaGpCVXdFMEtqakp5MVc3bnVLS181Y1JaalFjOXVZb240U083dnQ3WmtKbnMtTk92Sjc5SXB3ekFV?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-11-24T07:37:11+00:00"
-    },
-    {
-     "title": "South Korea Proposes 20% Cap on Crypto Exchange Stakes, Opens Door to ICOs and Won Stablecoins",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XR2Z1WUdzaVBKN24zV3A1QUVXSlZ5aWJNSjZHUFpFZ3Y5S19DZ0l0N3lKak9PN3BjWmp4MHpFdTl1YmE4bXFQV09XdlJxVjFTYjZDVzg2NnNMVjhHR3VuUWNvTm9RZVZLbzhaaE9lMXNnMHNhMnc?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-11-24T06:55:00+00:00"
-    },
-    {
-     "title": "Korea proposes 20% ownership cap for crypto exchanges",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Vy1fUk9uRzlYRU8yaWMycFR3aVM2RDJ3R3dsb3ZQU1dDZzNwaGV0ZUZHcHAyZWN3RlVkU2lQRkxwZl9mZ09mZkZtR2NUT2F5VlFURzhwNA?oc=5",
-     "source": "The Korea Herald",
-     "type": "news",
-     "published": "2026-11-24T06:25:27+00:00"
-    },
-    {
-     "title": "Korea proposes ownership limits and licensing rules for crypto businesses",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZEtBX2tRMFAtUExXZDY0dW5xRWh3X01FSWJySGQwZWN3UVFWcjJGSG1Rcl8wejJXQ1Y4eVRlUEFpaDlERG5nRG5nem9rYWpRV1pfU3VPNGxXUVMwUXlKalRpeFEyRmtBZ3EyUkFjQzMxMV92Y0xucjBpejJLaThadmdadXgzT3YzbU0temVMeWY4V1lG0gGUAUFVX3lxTE9kS0Ffa1EwUC1QTFdkNjR1bnFFaHdfTUVJYnJIZDBlY3dRUVZyMkZIbVFyXzB6MldDVjh5VGVQQWloOUREbmdEbmd6b2thalFXWl9TdU80bFdRUzBReUpqVGl4UTJGa0FncTJSQWNDMzExX3ZjTG5yMGl6MktpOFp2Z1p1eDNPdjNtTS16ZUx5ZjhXWUY?oc=5",
-     "source": "Chosunbiz",
-     "type": "news",
-     "published": "2026-11-24T06:00:00+00:00"
-    },
-    {
-     "title": "Korea proposes 20% cap on crypto exchange stakes, licensing rules",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjhPOUhhc0dsSEpBX2ZNSlhaYU1MVEViR1ltdEM4UUVQMllNQVZUbS1aWTZqaHRaTTE2Z0Z6RTRUaFZfQ1FkQXhybjVsSlVBcXhVNVBVZUlkSFBMSy1WOEV5Y19UdmZIRTQxOVRQbkxjUE16cGV3OXJ3TWNwUkhicVRmdWhPR05xT0VjSFVtTDNLaG0w0gGUAUFVX3lxTE4yOE85SGFzR2xISkFfZk1KWFphTUxURWJHWW10QzhRRVAyWU1BVlRtLVpZNmpodFpNMTZnRnpFNFRoVl9DUWRBeHJuNWxKVUFxeFU1UFVlSWRIUExLLVY4RXljX1R2ZkhFNDE5VFBuTGNQTXpwZXc5cndNY3BSSGJxVGZ1aE9HTnFPRWNIVW1MM0tobTA?oc=5",
-     "source": "Chosunbiz",
-     "type": "news",
-     "published": "2026-11-24T06:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Breaking: Strategy Buys 457 Bitcoin for $29.6M, Holdings Reach 851,305 BTC",
-   "outlets": 4,
-   "topics": [
-    "Bitcoin",
-    "Strategy Buys"
-   ],
-   "items": [
-    {
-     "title": "Strategy buys 457 BTC for $29.6M in fourth straight weekly purchase",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzZJX2Y4dGRRV2phdE9tNHRMMlVCZUc4bnJKRUhJNXVsWk9RNTNYUnMyWVNjVEpBUWVidVlWazlNNy0zZ1ZpTFFmZEJKV2hzb3k5aG4yUmc1SEV6OUJnRzlmS0RtSl9SQUk0LUVIempTMFlZYVhRcUVfdkxiQ3Bkd3JhWURuOTg?oc=5",
-     "source": "CryptoRank",
-     "type": "news",
-     "published": "2026-11-23T18:03:36+00:00"
-    },
-    {
-     "title": "Breaking: Strategy Buys 457 Bitcoin for $29.6M, Holdings Reach 851,305 BTC",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkh3czE2V3R1aWcyUEdwTXh6bWY1UVhfYnFVS0lwdnJCWk8xbndJZ1hxSmVaRlFrcTVsVEpicm1lbEVqN2cwcnBZa3R1Qi0wWTQ5QlBMN3N2NGM2VTFsYUYwV2tJMFkzYTkxN21sRWdDN0NSbjJvOWx6TG81OUlxWDV5YlgtaG5yLU5LNG1jMFp0a2ZxTmdF?oc=5",
-     "source": "CoinGape",
-     "type": "news",
-     "published": "2026-11-23T14:13:32+00:00"
-    },
-    {
-     "title": "A strategy buys 457 Bitcoin and raises its holdings to 851,000 coins",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWF5LTBadUE5ZHE0ZnEzaktsNlA3VjZRSUwtYmJrTllxZmhKeTNJVWJkQ3NTZGZjMmlBWGJoVkZmcm1kOW1fbjd3SHB5N3o4UXRzSkZSQUVGZUI4bURONi0tSUFTRlRseFNNQWNvSmxhVmt6VmJLNWNFTEZNOHRDVUZqQV83Y2JGLVFwZ3MyVjhNRVhfbG1qb19KZjNPWFZXRjB2STE4Q3F0RVZqUjM2c2IxWGh3SXdXeG5ncE5OT2g3dXoxWFdB?oc=5",
-     "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
-     "type": "news",
-     "published": "2026-11-23T13:51:59+00:00"
-    },
-    {
-     "title": "Strategy buys another 456 Bitcoin, lifting total holdings to 851,305",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YcVNMMV9PWmEtUS1DOVRqOWhzMFdUeGhQaTBXWTVpc2VsU2FEcV9BaS1RTlFOZ0JYTmlla2Eza1E5UUxBVWJ5MXJWMk1Oc2RGNUpFa0o4QjhGSWdiNTlDUEdvZG8tV3YySFFTX0V2Y2RHU3dkREZyVg?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-11-23T13:07:56+00:00"
-    }
-   ]
-  },
-  {
-   "title": "BlackRock taps Hong Kong stablecoins for new money market fund",
-   "outlets": 3,
-   "topics": [
-    "RWA",
-    "Stablecoin"
-   ],
-   "items": [
-    {
-     "title": "BlackRock Launches First Tokenized Money Market Fund in Hong Kong, Allowing Stablecoin Investments",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEYmRPb2I1M1Bsc2FZdE5rVmc2QjFlQWpWX3RFTzNMaFRrM3NyTTRrZm5meDBlaGhvOEZMQ29wejVNT0pjeTM3OEZVeE4wTUtTQURwMV9aMWw?oc=5",
-     "source": "Cryptonews.net",
-     "type": "news",
-     "published": "2026-11-24T11:50:12+00:00"
-    },
-    {
-     "title": "BlackRock Opens Hong Kong Fund to Stablecoin Payments",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTjd5M3lmbHJDcnVJN1N2UmZqbEdUeWNtRHdIOHl6RHhCZHVrYm5lSXItNEZZQWVIS0hWVXZzRmxmLVhsc3JWelVFSmxkcWZfdXo1UWh3NS0xeko3ME01Vnl4dHp3T21KblVQU2NoTUstdWNBblBqTGJTczlrb2JMdm80aUtGMEJReHlOZDlXWTJDbEJHQmhlSzBkWE1pMDZPUkZCRll3?oc=5",
-     "source": "The Defiant",
-     "type": "news",
-     "published": "2026-11-24T06:35:39+00:00"
-    },
-    {
-     "title": "BlackRock taps Hong Kong stablecoins for new money market fund",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzl6ekJwNy0zUVBrekEwVWZIRkl6Q3lBTmQ5S2tkLUZ6NHdSS0ZnQjVqb0pvdG5xV1F4WGFoRzJGeTJ3b2JKR21VbWF2ZnQ1VTB2aDhBMEJLSFhWcGlibm0xaDlUaG1hdnBiUGZCM2gxcnNvVG5LV1JrZDMxbmlrNmRiVXJsQzZGbzNTRmdEZU9tSGRTYWpMQW1FTVpQWW1ERkp6TGtVNElHTF9tbU1LSmhDbVU5OC1jMFpJRw?oc=5",
-     "source": "South China Morning Post",
-     "type": "news",
-     "published": "2026-11-24T06:07:29+00:00"
-    }
-   ]
-  },
-  {
-   "title": "South Korea Moves to Allow Bank-Led Won Stablecoins, Crypto Issuance",
-   "outlets": 3,
-   "topics": [
-    "Korea",
-    "Stablecoin"
-   ],
-   "items": [
-    {
-     "title": "South Korea Moves to Allow Domestic Coin Issuance, Paving Way for Crypto IBs and Asset Managers",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5saWw5bXdkd0c3QWx0em5Nb2hBdmI4WVBDa3dQWmU0bVJjZVNOWUtEWk04Q3kwZERtbFdxTmRrVmtNdXBBa2pKdmJvWDBGa1VlTWZpNw?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-11-24T09:59:41+00:00"
-    },
-    {
-     "title": "South Korea Moves to Allow Bank-Led Won Stablecoins, Crypto Issuance",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUZmQVlieTRsZktISUxLLXlDOUZVbkc0WjBlcDViRjNham83bGo4VERNbnpHMF9xUnYteDFVQng4UHNKUHBkR0ZzZm5vNWJmcjJoNTlvSnpDSXI2V0dTeThNZEE1ZDJEaWYyTTJXejZDaExZb1lvTWhBb0FCWUp6elZ5bVZOTVVQaWxGRFpn?oc=5",
-     "source": "\uc870\uc120\uc77c\ubcf4",
-     "type": "news",
-     "published": "2026-11-24T08:43:06+00:00"
-    },
-    {
-     "title": "South Korea proposes bank-led framework for won stablecoin issuance",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTNwR2Zrcm50Y1lPOHloU2ZCRmxZSHlISk5MUUF0SDBQZ201dTRxUGVtNnM4OWpqVWJlZHNqTDZLeXRCQ0U1QWNmRnFpV3BqcVV4MUR0NFRLY09TMlVnb0tfR3E4OFQyQzNyM1U1aDZIZ3hkS0otb2R1NW9BbzRCTtIBlAFBVV95cUxPVjJjYVBkbGtXUElGdWQwSC1iRXlFX1VCb19DTmdadG9UbVhZOGx2TUZBOHJNbWYybnJId2JqVzFYNTQ1WEo3Y0tQdlJEamF1WjdEVDFPUzBWTm9KQ1BXU05JU2Z6THRVN0tiMjlfM1RYS1VHYjhqbXNDUVkwN1NvZExmS1ZDWmRkZEhJN2ltQ1hHS3hi?oc=5",
-     "source": "Chosunbiz",
-     "type": "news",
-     "published": "2026-11-24T06:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
-   "outlets": 3,
-   "topics": [
+    "Corp",
     "DEFI",
     "SOL"
    ],
    "items": [
+    {
+     "title": "Solana Treasury Growth Reaches 11 Weeks as Company Holdings Hit 2.62 Million SOL",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQakh6WjZiTWllVGh5bmFwbURxYndkQTZ3NjFYLW8zRjFRS2haMC1FSkRlUnROMTZKdTY4Smc3QXZRTjRJLXhaOE9XTzBLdGowRHNFck1rR1VzNTZodnVJdTV1VGZ6NGRPQTRzTWtLdjBEUi1qMDBEalBxX0ZqT0dWbDBmUzA?oc=5",
+     "source": "Kriptofoni",
+     "type": "news",
+     "published": "2026-11-24T15:55:00+00:00"
+    },
+    {
+     "title": "Solana in 2026: What US investors should know before buying SOL",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGQyYktlV002eWhmMUR2aTBnNkNsRGM4U055MVZfZGlCdmVtRkJfMElhaHhiQTJfNGlCdUhfTmphZmRHZG5tNGVxVUpVUGt5Y1NVQjRid1B0QkFkNF9kR29mTm5FY3dJdEh5OHdkYVlPZGtQMzZybTdqdVk1d3JIZkFWUTlaa0E?oc=5",
+     "source": "The Jerusalem Post",
+     "type": "news",
+     "published": "2026-11-24T13:38:41+00:00"
+    },
     {
      "title": "Solana Price Rallies to $78.33 as DFDV Extends SOL Buying Streak",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMktrd0E1OW9qTmg2RDF6TnN2ZjEzMFE0MnYzUzBHaXBjTVRHbHpDSVJWVC13MjJkM3J4NnE1bnFkUDZNRHNZTGViLTJaTDFCQ096Q0E1aG10dm80VHpiYWFlTHYtTEJpQTZNUEpFS1ZKNVg3XzdNQi05a1NDeDNRbU1vQnZqaDRqMHB1cDZHd1pjQjQza2JCM2RUNDVUT3AwVkE?oc=5",
@@ -2977,139 +2507,73 @@
      "published": "2026-11-24T08:06:48+00:00"
     },
     {
-     "title": "DeFi Dev Corp Adds 5,180 SOL, Extends Treasury Streak to 11 Weeks",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUi1lR3BSbm1Xa01hRGJ0YnhnVDVzWWp1eFdfbUVLTG03WUdyckhJRm5RanFiMmpnVWQ4ZGxBT0RJZ3ZXYmhhWXYzbGZUZXlJUmxfTVVUbVcxd2Y3VnYyTngySmp2ZndHdzFsSGdKQ0V2UFlXR2wtYTd1NnNXblJZdXgzclB5LXJVXzBfd1pB?oc=5",
-     "source": "Yahoo Finance",
+     "title": "DeFi Development Extends 11-Week Solana Buying Streak, Holdings Top 2.62 Million SOL",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9weU1tamcwelp6SHpXb041VFZ1RExKakw2UHI1MDVvM1pncDVhS3lDZXdkSlFaT0U2eHRBOHFPdk1jUUw4OUhlOUxDWVBsYjR5aDR0UQ?oc=5",
+     "source": "bloomingbit",
      "type": "news",
-     "published": "2026-11-23T16:49:00+00:00"
+     "published": "2026-11-23T22:17:48+00:00"
     },
     {
-     "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
-     "url": "https://www.theblock.co/news/markets/2026-11-23-defi-development-dfdv-solana-treasury-11-consecutive-weeks-444950",
-     "source": "The Block",
+     "title": "DeFi Development's Solana Stash Climbs to 2.62 Million SOL, Extending Streak to 11 Weeks",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pZHl4Ni1IdWtpRW1XcS1SSUY2LXF0R29Za1ZaaGt3R0dCcTNpSXM2RlBiY3NjYTR4Q2VCYWJSOEpmZWxfTnlrcW1fU3Q2SVoza1dCZHFnVFpkaDhwMHJjZWJtSHItZDZZMEJ4NWpqdzdxdHFWMHc?oc=5",
+     "source": "BigGo Finance",
      "type": "news",
-     "published": "2026-11-23T15:34:51+00:00"
-    }
-   ]
-  },
-  {
-   "title": "American Bitcoin Just Raised $150M From FalconX: What\u2019s in the Mind of Eric Trump?",
-   "outlets": 3,
-   "topics": [
-    "Bitcoin"
-   ],
-   "items": [
-    {
-     "title": "American Bitcoin Just Raised $150M From FalconX: What\u2019s in the Mind of Eric Trump?",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWtVVGpmZGU1OExIaHdFRUdWNXhvbDY2R1ExUGVLN0tjU2xjbk1uVTI5MFZiOWJfdjNVY2twM0lnQmtnaG1ERHNtUGJwVF9vNElIZWVpOVR6NlJTanpfZ3hCSV93MWVUdmdZSm53V01LeVRUaVJaeUt2U3FCZ1VyVmt0dEhZTUNjT3FRYzVJa21lRzdSQzBRY2wwMUpSVlE?oc=5",
-     "source": "Yahoo Finance",
-     "type": "news",
-     "published": "2026-11-24T07:38:00+00:00"
+     "published": "2026-11-23T20:35:00+00:00"
     },
     {
-     "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
-     "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
-     "source": "CoinDesk",
+     "title": "DeFi Development Corp. adds about 5,180 SOL, extending its buying streak to 11 weeks",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wNmhQVnhsVnV4NVlsdDIzaU0zNjZVOW4wc0NoNkFMUVVPRmtTTV9CZFhfZzlaWHA4Q1ZyY1JVWEs3ZkpOOHdVNWlQMWk2M1dzajItWGhobW5VQQ?oc=5",
+     "source": "Cryptonews.net",
      "type": "news",
-     "published": "2026-11-23T15:02:32+00:00"
-    },
-    {
-     "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
-     "url": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-23T13:44:16+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
-   "outlets": 3,
-   "topics": [
-    "Bitcoin"
-   ],
-   "items": [
-    {
-     "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
-     "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
-     "source": "Decrypt",
-     "type": "news",
-     "published": "2026-11-23T18:16:25+00:00"
-    },
-    {
-     "title": "Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s",
-     "url": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-11-23T17:25:00+00:00"
-    },
-    {
-     "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
-     "url": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-23T13:37:02+00:00"
+     "published": "2026-11-23T17:47:00+00:00"
     }
    ]
   }
  ],
  "events": [],
- "headlines_served": 16170,
+ "headlines_served": 16256,
  "trend_candidates": [
   {
    "key": "binance hack",
    "term": "Binance hack",
-   "count": 7,
+   "count": 8,
    "sources": [
     "21Shares",
+    "Bitcoin Magazine",
     "CoinDesk",
     "Cointelegraph",
     "Decrypt",
     "The Block"
    ],
-   "baseline": 0.21,
-   "ratio": 5.79
+   "baseline": 0.19,
+   "ratio": 6.7
   },
   {
-   "key": "cftc",
-   "term": "CFTC",
-   "count": 5,
+   "key": "south korea",
+   "term": "South Korea",
+   "count": 6,
    "sources": [
+    "Bitcoin Magazine",
     "CoinDesk",
     "Cointelegraph",
-    "Crypto News",
-    "NewsCord",
     "The Block"
    ],
-   "baseline": 0.2,
-   "ratio": 4.16
+   "baseline": 0.42,
+   "ratio": 4.21
   },
   {
    "key": "jensen huang",
    "term": "Jensen Huang",
-   "count": 13,
+   "count": 9,
    "sources": [
     "CNBC",
     "CoinDesk",
-    "Cointelegraph",
     "Decrypt",
+    "MarketWatch",
     "The Block"
    ],
-   "baseline": 2.59,
-   "ratio": 3.62
-  },
-  {
-   "key": "korea",
-   "term": "Korea",
-   "count": 5,
-   "sources": [
-    "CoinDesk",
-    "Decrypt",
-    "The Block",
-    "\uc870\uc120\uc77c\ubcf4"
-   ],
-   "baseline": 0.73,
-   "ratio": 2.89
+   "baseline": 2.41,
+   "ratio": 2.64
   }
  ],
  "baseline_days": 7,
@@ -3121,9 +2585,9 @@
   "Bitcoin Magazine": "ok",
   "CNBC": "ok",
   "MarketWatch": "ok",
+  "Google News: Stablecoin": "error: HTTP Error 429: Too Many Requests",
   "Google News: RWA": "error: HTTP Error 429: Too Many Requests",
   "Google News: Ethereum": "error: HTTP Error 429: Too Many Requests",
-  "Google News: DEFI": "error: HTTP Error 429: Too Many Requests",
-  "Google News: Corp": "error: HTTP Error 429: Too Many Requests"
+  "Google News: Korea": "error: HTTP Error 429: Too Many Requests"
  }
 }
