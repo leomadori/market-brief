@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T07:01:17.786557+00:00",
+ "generated_at": "2026-11-26T12:00:05.651635+00:00",
  "first_run": false,
  "topics": [
   {
@@ -14,7 +14,7 @@
     "Tether",
     "GENIUS Act"
    ],
-   "item_count": 40
+   "item_count": 36
   },
   {
    "name": "RWA",
@@ -31,7 +31,7 @@
     "tokenised",
     "tokenisation"
    ],
-   "item_count": 33
+   "item_count": 25
   },
   {
    "name": "Ethereum",
@@ -42,7 +42,7 @@
     "Ether",
     "Vitalik"
    ],
-   "item_count": 17
+   "item_count": 13
   },
   {
    "name": "Bitcoin",
@@ -52,7 +52,7 @@
     "BTC",
     "Satoshi"
    ],
-   "item_count": 62
+   "item_count": 66
   },
   {
    "name": "DEFI",
@@ -71,7 +71,7 @@
     "yield farming",
     "lending protocol"
    ],
-   "item_count": 32
+   "item_count": 39
   },
   {
    "name": "Veyra",
@@ -82,7 +82,29 @@
    "first_seen": "2026-11-26",
    "count": 5,
    "ratio": 5.0,
-   "item_count": 6
+   "item_count": 7
+  },
+  {
+   "name": "Switzerland",
+   "kind": "trend",
+   "aliases": [
+    "Switzerland"
+   ],
+   "first_seen": "2026-11-26",
+   "count": 5,
+   "ratio": 5.0,
+   "item_count": 23
+  },
+  {
+   "name": "Japan",
+   "kind": "trend",
+   "aliases": [
+    "Japan"
+   ],
+   "first_seen": "2026-11-25",
+   "count": 7,
+   "ratio": 4.06,
+   "item_count": 25
   },
   {
    "name": "Musk",
@@ -93,18 +115,18 @@
    "first_seen": "2026-11-26",
    "count": 5,
    "ratio": 4.04,
-   "item_count": 19
+   "item_count": 16
   },
   {
-   "name": "Japan",
+   "name": "FCA",
    "kind": "trend",
    "aliases": [
-    "Japan"
+    "FCA"
    ],
-   "first_seen": "2026-11-25",
-   "count": 7,
-   "ratio": 3.36,
-   "item_count": 23
+   "first_seen": "2026-11-26",
+   "count": 5,
+   "ratio": 3.77,
+   "item_count": 10
   },
   {
    "name": "SBI",
@@ -126,7 +148,7 @@
    "first_seen": "2026-11-25",
    "count": 5,
    "ratio": 2.5,
-   "item_count": 10
+   "item_count": 8
   },
   {
    "name": "Paribu",
@@ -137,32 +159,880 @@
    "first_seen": "2026-11-25",
    "count": 6,
    "ratio": 6.0,
-   "item_count": 2
-  },
-  {
-   "name": "LINK",
-   "kind": "trend",
-   "aliases": [
-    "LINK"
-   ],
-   "first_seen": "2026-11-25",
-   "count": 6,
-   "ratio": 6.0,
-   "item_count": 16
-  },
-  {
-   "name": "Turkey",
-   "kind": "trend",
-   "aliases": [
-    "Turkey"
-   ],
-   "first_seen": "2026-11-25",
-   "count": 5,
-   "ratio": 5.0,
-   "item_count": 10
+   "item_count": 1
   }
  ],
  "items": [
+  {
+   "title": "Bank of England raises quantum computing concerns as Bitcoin, Ethereum prepare defenses",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkdk9mZmNvMTNZandnbGF0WlN4SWpFMGQ2TWxocXptV3ptQllDYUdOZ0hFRW8zTUZsYnVIWlBMczljRUVKbzVydjVvMVVEYzVKY1IxOFdXWVFlaUN2T1B1Q3BhMFNsVFR1SHQ2WFk1bXBlSmsyb2hn?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-26T11:58:12+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Switzerland approves partners for cryptoasset data exchange",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SU0I5ZXp3YkQtZjdGTTZwNXhZemV2NWpONE1vckdxSkxpT2t1bktiSkZCMUNwY2RReVZWTDdLcjFLNndJcC1IWEtIWWVvZW1rb29NZ2x6UHRHMWtVTFRKMm4yNDZvTHdBbkNOMnhLZkhoOXpoSVcxVG1B?oc=5",
+   "source": "Digital Watch Observatory",
+   "type": "news",
+   "published": "2026-11-26T11:55:58+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Switzerland launches Europe's first spot Bitcoi...",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGZrZnkwY3VzemJDRjg2ZzA2N2U1UEZ3Q05zMFpma3pFcjFaNHFyemhqMkpTR2oyaFp3NkhpUnkzak9xdUpiZHYzY2xzLWRRbmlYaTE1NVlLTkFTN1BPTEhQSmpsQzRMcGVDdC1oUS1qN0t5b0ZvenpwSGtidUkyakFPYnM4NkxkMGZGVg?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-26T11:54:34+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+   "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+   "source": "Decrypt",
+   "type": "news",
+   "published": "2026-11-26T11:50:23+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Skip Black Friday, Buy Bitcoin: Your $488 Shopping Budget Could Become $5,609 by 2030: Here\u2019s Why",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSW9od3ozbzFrZ0VubDhsQ0hsVG80RXNJTjN4OVFJNXZSVlBrWXlIblBEY3k4UHk4VEVBQjREdnE2N2hzQW1WSnpMYnNvdzljc3BueXpTM1l1V0lZZ3QwbnNybFlRZUdqNHRHblFGOFpCaDZ3cnNtSVEyZ1c2aGFwRVFEQ3FSMDM0QVJBUGhBU0J3V2pzejhzWE45SWQ2enFhZ1R4NGJXcWJZTWtqZHRpSHJoa0hPZEpaOFJSOG1B?oc=5",
+   "source": "Benzinga",
+   "type": "news",
+   "published": "2026-11-26T11:45:09+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "MetaMask launches virtual crypto payment card in Japan, payments in stablecoin",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcThYZllZVTI4c2Vvd2VtenI1djF1em5tSWRDU0dadnIxLWtYX3owREdxSnZMWC00X2dIZ2ZQNVdYeUVTYVR6VlJIa25GMVV3d1c3NTFhcC1rWHkwelotWHFOVl9iX2Q3bzV2T096VUwyblZqbThwMHJfUVJ5djAwV3o1emJEanFIUklCT3IxOS01OVpwTkpra2FDb051TFZfckI4Q0g3MHdkcWlkWXdXYURsc2lWUjZwVk9GdEdNUGc?oc=5",
+   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
+   "type": "news",
+   "published": "2026-11-26T11:37:53+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin",
+    "Japan"
+   ]
+  },
+  {
+   "title": "Stablecoin Supply Shrinks by $12 Billion in 30 Days as Crypto Liquidity Tightens",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDX0VQQlJRZTd1S1BHTGI1NmVQTXBuRjI2T1VqNlA5NERSVHplNWFlX1ItNFVvNkZvX1RyUFdLek5TX3htSDdORDdaUklNdFhKcDVxQ090R3NtZHFyYTZDRGY1NmowUXFzR3NrSHdSb2JPaHd4Smc?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-26T11:36:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "DeFi Revenue Surges But Valuations Drop, Drawing Parallels With Nasdaq\u2019s Post-Dot-Com Recovery",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWZvbDRWdEVLTF9OOVlWbEpYbXVoblFuODZ5Vi01MTdRY1MtQmFFejNIU29Qb25jbG9xcGNMTDRLN1VKUTZDSXFYSjJQZWVsejg5WjNYRm1hQS1MU01YTVI4Vm5MMXRlYm1lZ1FoQ1BBN0VnMzNNZjhHZUlMaW5wMFlVVzhCNDNSNmFYUVNEYw?oc=5",
+   "source": "CCN.com",
+   "type": "news",
+   "published": "2026-11-26T11:34:14+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Borderless AI Introduces Stablecoin Payments for Global Teams",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFAtbFJhYk9NaEU5b1U4M0V3U3VJMnduMUFDYV9PWlBlRnowZWc0bHBmcDI3dEFHdDBHOE1J?oc=5",
+   "source": "Howl.Link",
+   "type": "news",
+   "published": "2026-11-26T11:29:59+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "StraitsX and OCBC pilot stablecoin B2B payments into bank accounts",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnE3VFBtY2J4Z3NUNnRwRTE2QW1mV0hNTGpReExZX25pbUlIY3JBc1g5YlFST09KRGhWVkZqR2pma1RBeExzTFhIY3g0Nm5keWxOTF9oUlQ5Qm5MeHY1NUVwdDJpek5FaXE4cmJzdFFpWGFscjJpcVlFcnBKdC1YZTc5Y2xSRG02cEFhaExvQktDcWNlRERTRndQZFJNbnVmVWhkaUhUall2ZmVzTnhhZzdNUGpXQQ?oc=5",
+   "source": "The Paypers",
+   "type": "news",
+   "published": "2026-11-26T11:26:15+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Crypto markets rebound as Bitcoin holds gains, DeFi tokens outperform",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFBxZWJwSkFVdlE0VGc0Q3JhX2hwZ0o4TXhQd2V0MnZOY3NIVGFLcmRwWE5IVVJ1TGstV3A1RnJSVmdMSms2dzk3NUlGOGI2aHhPTkRmTkZXNHNfUllfWjRDMW02RnliY2NFSGg0MzZWR2phQWQxVk83YVZ5dFZaSHdqb3E4N0tZSTlQYm5yWlRSOVQzZzZEeXduakM2VlN5bkRkOVRyQ1hXUQ?oc=5",
+   "source": "Traders Union",
+   "type": "news",
+   "published": "2026-11-26T11:24:26+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Switzerland launches first spot Bitcoin ETF wit...",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnRKaFk5QkNaQUxEOEhMdzBwYmxVNUtfbjB5MGZjY0haRE5IRlA4dU05alM2dG50RjU1bllkcVNkU3FzSXJJdzVaSFdGeGZQZ0RKLUhMbGZDUmZUTTdQQVRRY2E5Nkl4aUl3QUUyZEtfcEhLUGhrOVBfNkV0U2JqeWRKZ0xHYllSQlJBY2lRNDhKQXUzWHdOaHUybjJISjJETGI2N2tmZk9lMzY1ZHJF?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-26T11:24:26+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-26T11:22:59+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "UK FCA Eyes DeFi Authorization After $6.3B Binance Hack, Jane Moore Warns: 9 outlets compared",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY2o0Z2tSSGR5NmxjNlYwbnRlTTNZdnplUXNxeXdySHVLMTBnbk94YXhZQTJ0ZjB1Y1ZuZ3Z0QzhzS2hhcjE3dy1Ba1RtV1BGQ0s4MlJEVFF4NFp2OWg0UjlqT0pwMDNxZmxUX2hxcFpCM3cyeGlfX3JhaGQ4WldMLW5HdzRJazlHSGVKakJueEI5Rm1vNGNoMjFYd1JfTzJTdGdoVWgxYTBvTlFPVnpRT0I3b3FLQUc5aXVQZ3JITmFHTGZYS19rd3ZnTS1GdVJvZ2lxUE9WOU13Rk5V?oc=5",
+   "source": "NewsCord",
+   "type": "news",
+   "published": "2026-11-26T11:20:17+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI",
+    "FCA"
+   ]
+  },
+  {
+   "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-26T11:17:22+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Bitcoin (BTC) price holds Wednesday's rebound as DeFi tokens lead the bounce: Crypto Markets Today",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzVic1B6LUZLZTZWdk9JMFFwYzlmZmpRM2tDaWx6aEdsWDhDY3ZxbFZHaEpEYmFDNHMwQ3N1VlBOY2JpOE81XzhCSEVMMUY3VDRsZl9faVZxVU1DM0hYYjVuOWJSSmxCSUpjR2RaaGJ3V1JYVHJGbGRPWlJOYmJUR19TY1NudVU5SjM1aGpKS3lnaDZUQVhmOFNPMnJDMTV0d2VVbVA4WU9kWXd5NzNpakczM3ZjbUs5ZnJ2cQ?oc=5",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-26T11:17:22+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Bitcoin\u2019s bear market is getting old, but may not be done",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGItQ3FURGd5S20tRzdubW5WUm5ONFk4aXkyaF9KZ0Q4WmI1aG5mOEVUQzhQMVE5SlI5REdza0lvUkNydHRQYmxvemtmT29vWFVFQVNaZ0c5dmZ4TVhjV2NuNFRYZnpYX2JMbExzbWdrWnMwX3RzQzE4S1BqOGJwbFVWLWRUZWRPaWU2TjB4NVpReF9RSjVfVi1vR1hnamlEM3k1NzJ4eVJJSjJpZUVONUFjQzM4Q0NXYmVn?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-26T11:14:41+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Switzerland\u2019s first spot Bitcoin ETF debuts with 350 BTC in assets and a 0.19% annual fee",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XbHdHWHl5aTItRmNEc0tKaFRsRkNRUjAxdXoyVm9IZ2RKbGFGWXVGcFpLNUJETjNTRWJuWUtKSklGWnZ4NGhxeTdYcVlDdk91TGR2YWhuVTVUZnlaX3NfRHptS093VU5Xa3MyeUtHS1g1UUd3VU1qbGhBYw?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-26T11:09:59+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Can a 17-Year Track Record Protect Bitcoin? Ryan Watkins Weighs In",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFRjNWJtczFmRmJrajR1cDhqcTJaaVNlUmNraHBTQmlqOE44ZVlVd1RmaW0zdzZTdC1ITmd0cmpHemRlRHRxU0ZXYWh5SnJSRExpR29UX1FTSlBlUFUxS1pvYU9QaTRrZUo3LV9vR1UzMlFLWWNZb2ZsS3ZuV3dnR2x0VlU?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-26T11:00:45+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "US Strategic Bitcoin Reserve Bill Advances, but Can It Pass Before 2027?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEMzcGttWXM1ajVfQnhYTmdJbmlPSU81RVllVnlDeTRiREMwVHYwSFpacW9raTJZc3g4V1VMS2VjNEdFaElLMWRkd0JteVlmVnRreFlNdGdaNE55enNJQkt4QTBTV3J3d19rMGRKdnJ5aEZPM2wzdTNaSTdBRlZDNWxONWdUZkpYNGtrUkdNLVFPQWR1TVhHYtIBngFBVV95cUxOeTVFNVZuSElVRXZGZXJRU09EVDg0OW1BTE9CellVaEd5ZndodE9DT0lzZm5sY0ZmWXpzX3Fkdm53cWl0Sml6NjNuS1lXeW5XUEpJNHREYmxDZDczMXI4Z09QbXVSM25uZEFrUk9rWkNnd0RINzg2WFlLUXVCYS04RFhMTUdYcG1YVVNPWUtEcWdkLXduYVBXRlhXZlNKUQ?oc=5",
+   "source": "Coinpedia",
+   "type": "news",
+   "published": "2026-11-26T10:57:18+00:00",
+   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHp3TUk5RzlaYnd4NWJVek95LXprcjBaOFJXMVFUbWVQSEh0a0pXdWt0UU5qY1FERzZFWUk4dFZ3WGZBVkpHUXphZjlBZDc1a2I0Vk0wNWtBWk01UFRlem9uVjdiLWJrS284ZUxwZ1pwY3U5M0lrOGxrOUpJT0lhVWg0azFFM2xyUUNRSkFlZDdoQWx3X09QTjUyRE5BSGNzQVBXUjA5ZWs2V2xybkE?oc=5",
+   "source": "Bloomberg.com",
+   "type": "news",
+   "published": "2026-11-26T10:56:08+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "U.K. FCA Moves Toward Tighter DeFi Rules After Binance Hack",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54b21zdG1oM2pLSVY1UVdzekdHWDkxSEpMMHQtUzdWcHBpUXd2U1lqQ3hZRWdPbE9nTHF3SWU4eHhENnZHMkVwNG5xRW95WnBHeFoxNlRsbXFZQk0?oc=5",
+   "source": "www.tokenpost.com",
+   "type": "news",
+   "published": "2026-11-26T10:56:07+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI",
+    "FCA"
+   ]
+  },
+  {
+   "title": "$7B Bitcoin Options Expire Friday on Deribit",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3VnZmV2a2xjTUtyZUkzeTdjMmhTR3pPd29GTFM3dDd6eG85VkpkYl9yVHppeUxMRUxCZkJsaG1BY051QXJqSFdPX1o5Y3VsalEyUVFReWpzRGNKbm0zdzRzaVp3MmJZbGpON1Uxdk9BbmdydGNrMl9CMHBfR1dxZ0M2Sms?oc=5",
+   "source": "shattered.io",
+   "type": "news",
+   "published": "2026-11-26T10:53:50+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "UK Plans Stricter DeFi Rules as FCA Targets Crypto Risks",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb05tSzZocGJjX0swWDZuU1BCNjNnU3RSZWdwT0xhQi1pazRXUUhVQlRtUllYcF9IMFFEeXBQMndFR3FfYlpMelRPT0wwamtaYThXcUxtNUFSM1ZodWkxMFpPb2ZOd0REemkwYkNzak56VmJEQ0Q0cDlFaWtyZFI5TEhiQmktTUtK?oc=5",
+   "source": "Coin Edition",
+   "type": "news",
+   "published": "2026-11-26T10:50:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI",
+    "FCA"
+   ]
+  },
+  {
+   "title": "Man dies after suffering burns in fire at Bitcoin mining data center in Georgia",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWdUT05BN29qLVBwZG9EeWJnV0NueG4yMXVneEUwNmlPSERVVFJ0MVFZRmhuNms1akF1Rl9EbEhla202Nk02NFlZNVFQVEt0RWxVR19kSkxiR0d3LUc1U3VOMkNtR3oyeDNqeDRMd2hZZDhYYVJPVnhoVmpXYzg1dmtURG9CdTVNWVFvNlpYMXlWakljNDJFNjdBbTVtSlJadEdYdU5XNE9CMnpQcnZfWl9xd25pUW1meHJGNkY3NFk?oc=5",
+   "source": "Data Center Dynamics",
+   "type": "news",
+   "published": "2026-11-26T10:49:05+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Binance Hack Highlights Money Laundering Risks as FCA Plans Tighter DeFi Rules",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZElDVDU3Q2ZGaXFCOWpSVkFrNkMwSjRScXpDeUk2WnpiVWtpNEd0R0RjNjZEelNOZUlyR29TVklKUUliNmNIbmNaSXp1N1pKZWJsVDBlODlxQ2J4d25tZEVfOEdBNDV4WGphLVkxSGFvQ2ZaS1NaWHZnbFljOEpvQVd6MnlXZGFkUmNtV3hselpMOS1zLVN2V0hMbEl1Vl9UTmZoMW1pSk1JcFdvRTFwYUY2Qk9BVEMxZDAyMGF3WHdVQmFJ?oc=5",
+   "source": "Finance Magnates",
+   "type": "news",
+   "published": "2026-11-26T10:43:05+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI",
+    "FCA"
+   ]
+  },
+  {
+   "title": "How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjI5VGhxZXdfMHc5YTF6NlE3YVA3YVY4Vy1vVTlhci1ud1hzUE8yNG0tcDc0RlJVdWhmTVVfenVQOUYtWTN4M2JrSnBpOG8tbWU0S0t1ekF3bHl6Ni1hS2c0dUpUcHV1RFkzVVl6bkx2X2I0VzZXMGF3?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-26T10:37:49+00:00",
+   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Stablecoin Fees Could Add 10% to a $20 Purchase, Research Finds Ahead of Black Friday",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5GY05PaW9Sc2s5a09Uck1rVFFUWlR6UlJFSTQta0VwRGtIY3VranhVYVBWcDl2dWdJdVp3?oc=5",
+   "source": "Howl.Link",
+   "type": "news",
+   "published": "2026-11-26T10:35:24+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Galaxy Withdraws Bitcoin Bottom Call, Warns BTC Could Fall to $28,200",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjhFV0JrVVNmVVhOMm5KR085N0YyQkloanIweGFIdlhGS21YdGRiUWNVbzdUUTJmb256TjNXQTJaWkhyV1FhczZELXAxSlFDYkxkYkFxVzBmVC00M09Sa3NILU0wSWVOY2J3bmhVVko2TThpNWh1T3JtNzRVcFhnWm4yMHR4SFlzQmNNMjZyTkFhM2R2cTBHMDJDdl9qcVZ3UVdv?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-26T10:32:15+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Switzerland launches its first spot Bitcoin ETF, BBIT, on SIX Exchange for retail investors.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXV3MkRpb281RFJMSjZ6aWltN09iek1MUXhNU1p5RkdxMm1ZNDh6RDUwb3lSV1VFYWh5TUl2MXBEYWlPSV9ReGxkT0JqR3BHM2RaZU03NDU0dEpfV0pncnVxb0VZTnNEZ190UWZVb1FNZDZiWVFTV1RBbVRGMEZCWnVPZHRTQzkzbFl4X2VHd0dDMTlFdHJXdWw5b0ZMUmkwSkRIcmtKbw?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-26T10:24:15+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "RWA Issuers: Top Tokenization Platforms by 24-Hour Volume",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBST25saWFBMndWUEozbUJqdmNDZE9xTEdsckZrUGY4R293M3RmSzhxdWg4MTN2ZmZwZllKeFJ3dXNKRkFieE8zdjNVTlQ0dU9hQnc?oc=5",
+   "source": "Coingecko",
+   "type": "news",
+   "published": "2026-11-26T10:05:57+00:00",
+   "first_seen": "2026-11-23T17:01:20.610263+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "Tether\u2019s USD\u20ae goes live on D3 through a new USD vault",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YdThEM0Q0QnJnMmxTQm9kekNqNkVGQzB5VC0zMlVyZGNDdlNPaVdzSFUzeXRSRExobEpBUkNwX1hVSkpGbS1Xb2VlUWlGRXZwdnBpNC1SYU1CYnJnSUhKNmVWRXFKbTRv?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-26T10:04:10+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Switzerland's first spot Bitcoin ETF rises 0.6% in its opening hour",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkk2OWEzRUFVUlJHWEw1ZzVpUldBa296UEp4bGxjTS1mVWtHaFUwMXhCQXlKUnZSelQ0YUY0Q3RTOWJfXzh0dV9zekZMc2h2dTdzNFVTSVB6QmhxOVlyemU1aThaVEVDZjhJSmgxbFZVNEY4aUl6MFNZcUZZUTdBejliQU1pS1JvMkp1ZkJydW8xdWotaEU5N2tyMEtwT3Nt?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-26T10:04:02+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Japan curbs crypto tax evaders as S. Korea readies new bill",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTdhSWYxVmYwMzBHVXdvOWJwb2pReGJlc2FTX0JtOEdZSkEwWFRoQUxaQjQyX3VJTG1BcTYwdHRQSm9wWmpMTDVFSGJRWUVDWVZDS3REeDh0VE1ZRDVMZ0dFNU8wUnpEZWhWR0t5MTdLT1RaV1dIY2hJazh3SGhGVFBiLS1RNWM?oc=5",
+   "source": "CoinGeek",
+   "type": "news",
+   "published": "2026-11-26T10:00:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "Bitcoin AI Agent Payment Lands in ChatGPT, But Who Settles It?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlkyNmV5aEpVekhJRmxMZzN5WlZiTk0xdlI4Mzh1S2hEV0lRVkw5TUV5Qk5ERlpjZEgxVERQOE9ndDVpa29takJXc2IyMXpzNjVDU2tWNjdIc2VSUVhVVzlLdmFDQ3NVRC1YdTFCblNLVUQ4ZUxkWl9vLVNyNnlqcHM1SWZ5YS1WejhTbjBHbzRsYUdleHdibHpoMVNZVVU?oc=5",
+   "source": "FinanceX Magazine",
+   "type": "news",
+   "published": "2026-11-26T09:59:09+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Monad Network Launches Public Activity Dashboard Tracking Transactions, Stablecoins and RWAs",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByVFE2d2ZHLUhBbjhHTE9kOGM4TE03N2Y0RzZVSkRjcG9GczM3QlVuZ3huV0t4SlpubHFsNHRqY2FIT25kem9wZ3RLdDRqbk5QbXJoNXNDU0Y1Zw?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-26T09:56:15+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin",
+    "RWA"
+   ]
+  },
+  {
+   "title": "Switzerland to Share Crypto Data With 57 Countries Starting in 2028",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzBwSVdHaTN3V2xJbDd6NWFMc2FSdWllSTc5aUMxRXRkbW85aFpMZzViTU1hUGNFOUU5SXRkUlpFdG43WnVROHlIbFhkWGhybkpvdDhOTUxzZW53UEczaFF0bGo0V0NHVVRYb0VWb1VENk02WFBNT05DVnZnT0p4d3RLOVZYa1RQ?oc=5",
+   "source": "www.trendingtopics.eu",
+   "type": "news",
+   "published": "2026-11-26T09:54:44+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "UK Targets DeFi After $6.3B Binance Hack: Could Crypto Trading Face Tougher Rules?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1FYNVA0Y0NEalJpaThHU2d6US04LTJ6VWNzVzNleUFfclpkSVdFeGlzUnBaVTFFMEJsTkFXbUR5Z2h4eG1kOEtUdHEyRjFrVXRrbWFsWXhqNmhWMUt0eUk0Zy1NOXBPWVFheG80aWY0UzVSSUVwZDNBRHYyd2I4RGN6X1ljcUljNWdfeFBQWW1ySm1MZVFqdEZ1TTdzc2lk?oc=5",
+   "source": "WEEX",
+   "type": "news",
+   "published": "2026-11-26T09:51:35+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Tether commits $14.5 million to a fintech that uses rival Circle\u2019s USDC for Visa settlement",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHdSay1pYUY4UV93Ry1zU2drWkxKOGhzajRndERKWGw1N2NNS25TYzdBZDhMYUU0Rnh1Q3U4N1lVbjZWaHBtVnFHckxOb0ZYVHRHQjZqdmctcUhmOWwtbE5iSFVhQTEzY0JnN280Q0NpVkZ1SnFMZEZiYVpTVGkxX24wY0xTYU8yVkNuVnZEZDBwb1NBZWc?oc=5",
+   "source": "CryptoSlate",
+   "type": "news",
+   "published": "2026-11-26T09:50:42+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Strategic Bitcoin Reserve Bill Reaches the House Calendar, Awaiting a Floor Vote",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWFENS1WVmNIQVctZG5fVWxVSlFIeEN4TFJxcTZNVkpBVnFfMVNheFpnS1JBVE5CVl9FTE1MTzViU0Jwd1A5NEZSX3puSjNHZ1J3NFI3Y0NDWWJaYzNGU2FLZTRIUzJ6LUt1Y0RRaVpaYVR2emNWRm9JSkJIQ2JxWVZEaGljUE1jNDY3WEwyTkM3QXNZRUY4SnNSNU5hZmlYcl9N?oc=5",
+   "source": "Yahoo Finance",
+   "type": "news",
+   "published": "2026-11-26T09:45:46+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Neuberger Berman\u2019s Tokenized High-Income Fund Goes Live as Collateral on Aave Horizon, Bringing Junk Credit to Institutional DeFi Lending",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbGtQOTNRYTNXN0FQVVpXWng2Ti1rS3p3OHVINFBGMEVvT3pGQno1RTB5NWxKSzd1UzFzMEFUUmpkYkV3dGI0MUJlQ2JCWmQ2SXBqcWlhdzRoY0xscFFBYlBOV0U1WVJWNUtKWDQ4VTVxLTlJNm5nYk1DcTJCRy1acUJRcjM3bEhIQktmZzk2UWN2OW5paXktaV9RVlFKaG02S0JLdzBqSWMwQk5pZWFTREItbTNNdkdWbENTaVE3RU5RNEJBaVoxRzhXTjk2RFRKMG1mcjBOanJCcmNqem95YUZRSkk0VFdwMjBsRU1NWGtVcHNfT0lETW9BdTlGRk1hSUZV?oc=5",
+   "source": "HedgeCo.Net",
+   "type": "news",
+   "published": "2026-11-26T09:45:00+00:00",
+   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "topics": [
+    "RWA",
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+   "url": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-26T09:42:34+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "About 1,200 Filipinos used stablecoins to buy retail dollar bonds on PDAX",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTNjaHVFLS1GQ1NrRVhYOENpR0g2T19hMkVEblRqYnJoQ3FUVFBwamdZU1FkQWpUQ3daMVBQZkFIZVgzTktLcktMa3MwZV96aHZjS3lfcGhRcmpyUXNiakczOUtqQjFrLXFyM2EyNVlwUUFMMUlDMmNRbXZXS1FWSEhBYlkzcENvdnBOYzY3Vy1oVHRpamxJZ0JmNlpub0pDWmc?oc=5",
+   "source": "Startup Fortune",
+   "type": "news",
+   "published": "2026-11-26T09:41:37+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+   "url": "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-26T09:40:41+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Trade 3 RWA Perps on GCEX: SpaceX, Tesla, Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQm5saExYVDNLeGNIMk9iYnFDcmdCWURxZVdfVnVLNlVDXzNjQnBDTEVnOUhMdEtqWFAwMnNTYnBXRW5JZDZxSGpqX21BMlozeUJEX0tqS3VLOEt6WkhJcFAwejRIZzFMRloxeEplQ2hmTDh6NW05OFUwOXJCaU9fUW1NbTFYbl84d2NvVWdDTHFUbzFtUWdBZWJQYk8?oc=5",
+   "source": "shattered.io",
+   "type": "news",
+   "published": "2026-11-26T09:34:58+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
+  {
+   "title": "China, Japan, South Korea and ASEAN agree to advance digital payments and coordinate crypto regulation",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xRWhmRW54N3ZsQWJ1aW1BeHdmQl9vZk5YQndHN2M0Tnh2Uk9ubU8wd0hBSEpqTzFERGpIUTh6QXBjUC11eXpqa1NYRURueDhzMVJCcUtGc09zVEtORjZqUUtLUnN1NzkwOUhSOUI4MDY2RmZqVnc?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-26T09:30:47+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Japan"
+   ]
+  },
+  {
+   "title": "Wells Fargo Is Now the Largest Institutional Holder of Spot Bitcoin ETFs. If Banks Are Buying Bitcoin, Should You?",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeHh4ZmUxSVNFZUZKMktQWm1BNEtMYzNSTnRuaHBPQ3hieS1YUWQtYWVBZFZsMk1pUG80MkgwYXpLaFlTMWRJSENCTmg5ekprcHI0aHN0NGFwMEdJTFAwcklCN0t2UkxHcE9RMzYySkdWNjJzQV9MRzhOV1BYMHo5aWpxc2lhOXVoOWJGMmxsR3lnRmhIS0Y5LTgzYTlPU0FfVlZpS2dFNENBNjZaekZoaXNha3dibE9RWEFiSTdpaUdTZXRkV2hFNXlDSk01N2FFanRTOWhiakYwQmFoTzNPV2tNTDJXLWVYeVE?oc=5",
+   "source": "The Motley Fool",
+   "type": "news",
+   "published": "2026-11-26T09:30:02+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Switzerland's First Spot Bitcoin ETF Debuts on SIX With $20 Million and a 0.19% Fee",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xOHVNZFJ5Qk1xcU5HMjBLaDdKY0p6ZndVZ2puWXBwNzRXdlNvRlNCR3p1TmRMczBYNlJNdXNUUENya2pyYmx0MDFlRzhHRmFkaVdnbWJpYVpYT0NROGgzMjBPUlloNzdnV0xTQ1BiQ0llZ0pHZEE?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-26T09:25:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Crypto: Switzerland strengthens tax surveillance of investors",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzhkR3dkWnZ4Nm9iMEJQVkgwZ29NNTdzTnFaMGlwbDM3OGptZk9kODE1ZXhrTXE4LXBiM3NZNzZ1ZEZicHlVcmFyS0NITmpqWnJwd3pYdFcwMVpraGYtS29nN1lNMnl2N3lFTlo2M1Q3c3U5bU1XZ09HOTRJWUdnU3poRTVBaVFzRERWZXNaYVFQVEt2?oc=5",
+   "source": "Cointribune",
+   "type": "news",
+   "published": "2026-11-26T09:19:26+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Switzerland\u2019s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+   "url": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "type": "news",
+   "published": "2026-11-26T09:18:15+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Musk Urges Shareholders to Keep Holding SpaceX Stock, Citing Long-Term Growth",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaSjlrMGREaXRqcklRWGhmU3VFMFNnYjZ2WkpIRTQxX1Y1TEpudHY4dVZ3RU5iWW9uaUIzRnVsLUd1R0xreVFHckR2dW16c1loMVBYNQ?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-26T09:15:37+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Musk"
+   ]
+  },
+  {
+   "title": "Musk says will give two SpaceX shares to 'every child in America'",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS25Od19VZjFBTzV3RnJ4VGp0OVRoQ3pmUHZVVGdQekJFeWZxOVliUVpoVWI1dWNYZlUxTTdrX0JianNNemZZX3VZZWw1bUlKdERWQ2xtS09NOXBTSF9GejVQNDh1eVdKQWxjUE1IUU5OSnBCbUxKSk1lbmZEU2lGOEZR?oc=5",
+   "source": "Yahoo Finance UK",
+   "type": "news",
+   "published": "2026-11-26T08:58:20+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Musk"
+   ]
+  },
+  {
+   "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+   "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+   "source": "The Block",
+   "type": "news",
+   "published": "2026-11-26T08:50:46+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Stablecoin Rewards Survive the OCC's GENIUS Act Yield Rule",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWs3TVZLaC1NUDFXZUlVbC1qNldBRmM0SlJ6Y0lPZ0N1OWVmV3FFb05DUUNjTWhZNlZGbG5MVXZkU2pJMGQyQXVBV29JVEI3WjI1cDluNzhvZDhnNURBWXVwZ0pMMnRvTVIwX0FnQjhuMDRlOFNod0RTanVJSi14ME5SVmJzX2ZGdHlYVjdBVTlDZ3RGbGRSRmQ0TU0?oc=5",
+   "source": "FinanceX Magazine",
+   "type": "news",
+   "published": "2026-11-26T08:43:53+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Why Is an Ethereum ICO Whale Selling Now, After a Decade?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQZkd1eEJ2UElNTHJTdTE3dndvRWNrZmg0cTFDb3ZKMmNFNFZfaDU4c2NzTmVzdVU1YnJlN2hhSTNxQ0pPVE5DVjhSYzRHZU5fUVVKWW9UVnJZZmQ5UEFHZEFlTDdMUTVh?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-26T08:38:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "South Korea opens door to bank-issued stablecoins",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjhNTEpPUFN5SldHdXNQWUFpMW9hdG56UHBhdkZnZFhhSllpUHhuaDFiVk1HRWR2dkxuR3V0dTVkaFduSElXZUFFUVdHSUtPT25mdXk4ZDBDNDZUMk1lc3E1dHItOG0zYVVWNkt3ZG1xTHRZdWV1SGg5aHU5TTg3dnhpS1l1NUQ2b3ZnRg?oc=5",
+   "source": "FinTech Global",
+   "type": "news",
+   "published": "2026-11-26T08:32:12+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "21Shares warns Bitcoin could fall to $53,250 as stablecoin supply sees biggest drop since Terra collapse",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSjZQNFNwZVRMOXZlbzV0S3BBV2hPNXpudFdYVjFNcU1uUnlyZkg0SjZJclEzN2dBSlNFRnNoYVJpbFhwODRFZFBLMDFMZjBkS2sybHRMWjQ4bzY3c3I2WlZJVko2S1FITjRJVnpRY0NWRWFUT2NrckU0eGcwbFVMRQ?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-26T08:28:38+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin",
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Switzerland approves 57 partners for crypto tax data swaps from 2028",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS0QwSEFwb1BBekVRXzh6SHkzXzVFRzF4S29qUnV2M1RtOVdoV3h3eXI1dl84RDJkeXFzNF9iVUVjeTJhT2RQMkdfaDk3cEczMl9sa2NUNnpEUFNubVZvYXl2SUQ3UzhTbl9COERTNENlU2xIbmNpVGFLNmJ4VGVYZm5BQ0R1cDJ4NUpjU0VMc01oMnc?oc=5",
+   "source": "MLQ.ai",
+   "type": "news",
+   "published": "2026-11-26T08:26:15+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Bitcoin gets a new investment gateway in Switzerland",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUXRXc2ZwSXlZOGVjRXlvWFRhY00tWFJZRHFaNWtxLWRiRFVWdmlLNlBVN1owWk9fRTlFZWZVUWxQZzZpaHhzemJnTnNWcXQ4cGhKajJBSW9zdHVuZllGX2Y3a3hBTnczamxZUkJVNHdacUx3cldLaTQ0dVphZUoxN1pnLS1HZHBuRENNVDlIaVYtTnFsQlJyWXZKUWs3S2t5b1NDMzNCQWxCc3NUZ1B4OEdHaw?oc=5",
+   "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+   "type": "news",
+   "published": "2026-11-26T08:25:21+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Stablecoin Issuer Licence: A Founder's Budget and Operating Plan",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0dlTkdHcmxNcXpyclQ0NTlZdWhMeGZLTFhMcWlsUnFOTmY0YUhHY0RLOVZyckpPYk93dEdvYVNIMDJuTmFrMFExR3RtX2I2NTR4cm53QkdVSVJNNkhSbDE1Q21jTWRvRjF6cHRkZjRoOG5aWTY0ZzBLeGdMWFhSemw5WExqZEZBSk80Q3NpSkVoU2FnczMwcFJLbDRfZw?oc=5",
+   "source": "Global Advisory Experts",
+   "type": "news",
+   "published": "2026-11-26T08:23:35+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Switzerland Plans to Start Sharing Cryptoasset Tax Data in 2028",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHR3aXhHZjkzZHdEX3dlSTFiUGRIaUlnWmRibUJXMUpTT1J2Z1pwb3J2WHo1OGxQQmxHbVRJZ3NycFk5REQ1V3RBRmtXZmtGTDFiTHY4UFRQczZNUjhPRFJxck5zTjd3ek9EZEdIVmZVQ1llcjV1RDFHeHNXRmhCLVVIenlnRVpFVy1zRkhMaw?oc=5",
+   "source": "FintechNews CH",
+   "type": "news",
+   "published": "2026-11-26T08:17:20+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "HSBC Hong Kong dollar stablecoin RedCoin reaches 100,000 users in first month",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzdjMGdHN1d0NlNsbGJ3VDJpNEVIcVh2YjJodUVvSzBzZjhKTTdnSHE4dXFoeTRMcG9yWVgyVldzZURxN0NCN0NvbHBVR0NJQVZWdGZiYkkza0FvMjlDekZzcGJLYXFiTHY0TWc5RXFoUXZUbm8tODhsRFU0aWdwYThnSm1KcFZGUERDY3Q0Zkd1cGQxMTg3bmxhT3RUSUhI?oc=5",
+   "source": "China Labour Bulletin",
+   "type": "news",
+   "published": "2026-11-26T08:10:40+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "Ukraine Crypto Tax Law Passes: 23% Rate May Tax Stablecoin Holders on Hryvnia Swings",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb01rbVJBcDJ0amRIM1ZNQ3h2VC01eGNpMVo5bEpzSWNxT2hHMlhkSnlFbXoyb3NyRzR3Wi1IYWJac0xvaTMxMFJ6MG0zdUtNR3VzY1ZNUTB6bzlkYVZvOF9rR2ZTQzJ5T1U2OTFuenNYRXFPWVBqQ2pZVzFKZnAwSEhBSm1tTXF3dmpWYkljMHIzUTNlU0luc0ZpalJ3cllWTG04VnpFSFh6ZmRNOW1BVUxLOEdWSld6NVhfTQ?oc=5",
+   "source": "InsuranceNewsNet",
+   "type": "news",
+   "published": "2026-11-26T08:10:05+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Stablecoin"
+   ]
+  },
+  {
+   "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+   "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+   "source": "CoinDesk",
+   "type": "news",
+   "published": "2026-11-26T08:01:33+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Elon Musk's 2-Share SpaceX Giveaway Comes With an Extraordinary Prediction",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84SWdaMGpuSVEyaHdyTzBQX0FVdl9fUzlzVzdDRVlGXzN6Z2R6d0NWa3Z1WEZSTDhmeERXRnMzU0FhUWhqRkdDampTV2p2MER1YWdNdDBQb0tVN1psdi1vc1plYjNMUkZmcHVqbGV6SEk?oc=5",
+   "source": "BeInCrypto",
+   "type": "news",
+   "published": "2026-11-26T08:00:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Musk"
+   ]
+  },
+  {
+   "title": "The Court Battle Over Britain\u2019s Bitcoin Billions",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzhhU0hDTDJ1Zl8xdTJ0Y3BvdExTS3dRclgyQllTYTYzYlQxS2FKSFU4bEN4OVRaS21GNmU1d3cxN2Z6Wm05eDFZNl9kaVFoa1A1TDJHa1FwdS1QcllzZFpnNXJOMGhsd2Zfd21zM2dsRDloUkdFRG5ITnR0aWNXeDhaTHFlMGF1T1dDUHEtbWtCMlZPdVFfVzFWNWhRVGc5Nkcwd0tR?oc=5",
+   "source": "Forbes",
+   "type": "news",
+   "published": "2026-11-26T07:57:56+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Switzerland\u2019s First Spot Bitcoin ETF Begins Trading",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlhHTW9ka1RlR1JBaE5NWXR3NnFEbFBBdXZrbjBvZm1CUkNROERTaGc5Z3ZVSzZLZGFRYldTWW1JTFV4ZDlQdUZwSlNRR3J1SW9QdG0tR3hHQnhoYjBwT0hfN2lIckVSNGhiTDdXVUFCYzhsZGQxNVhkRVMtU2hHVEpR?oc=5",
+   "source": "Funds Europe",
+   "type": "news",
+   "published": "2026-11-26T07:47:42+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin",
+    "Switzerland"
+   ]
+  },
+  {
+   "title": "Veyra Mainnet Upgrade Goes Live as Injective Targets More Institutions",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmF4Z3lnVmZDRkV3TmlIVHpaQzVqZUNVOG5vTWhRODBpR19pTGpzRWdBVTB2NXIzSEpzT3ZlenNtaXhKZ2hoamtGelplaUg5UVBIV0Zhb2I0YzREbXFVVC1SZHdvT2xNRWRuN3RmRGVKY2RUb2NTbTZLOC1CQWJBRXlNVTFvNG11U1Fqcw?oc=5",
+   "source": "Coin Gabbar",
+   "type": "news",
+   "published": "2026-11-26T07:45:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Veyra"
+   ]
+  },
+  {
+   "title": "UK\u2019s FCA Plans Stricter DeFi Rules, Cites $6.3B Binance Hack",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU44M2d3RFFEbUF0d1JDMEZZSmdaV0JnWGNTMkdNTW9WZFNrcTA0cFZQZV9Fcm5ta19HaXFISl96SzR1VGM1T1JhYW95WGJMbU54N19ZMjRMbjhYQ01GVDhwaWFoZS01TE4zMDRCR01EbGc4VnR4SmxuY2IzLWR2TERMZDVmekk1MkFFR1RWcHRiN0VyRk1mMEJfajY?oc=5",
+   "source": "The Crypto Times",
+   "type": "news",
+   "published": "2026-11-26T07:40:03+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI",
+    "FCA"
+   ]
+  },
+  {
+   "title": "Musk doubles pledge to two SpaceX shares for every U.S. child",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMERRdXphVTBzX0NPSW0xeVRXcnNycWlUd2luOFczZFdZR184RHFVTjJHV2N2SzIxMmppeEZ0UlF5ZnppRHZTSDRqdDlLTmlIdElVWk9LX2F3RWJ2UTNMbHU4Nk5LXzJIcVBoeEM1Z2JGa3laUS1HUDFKZmNXdGpkaHlJWFVGdw?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "type": "news",
+   "published": "2026-11-26T07:24:58+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Musk"
+   ]
+  },
+  {
+   "title": "DeFi Technologies Posts $22.3M Q3 Profit as Valour AUM Rises 62%",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnAteE1ycldiaUo4ejMtMjRKUnZaczV3WFBFSHIzd3JfbzhzNjB0aDNTYVVBZ2VnR1lTVjJWbTRUNVZyX2tQNVd6RVFLbXdpTGVKRDlsdzlIdlF2VjlqM2d5TFdZWndpSnlkZ1E5NFZheXpQM1dXVTU0SUNTMUh4R3ZITHA2anM?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-26T07:21:32+00:00",
+   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "CFTC Hands Crypto a Balance-Sheet Victory, but Bitcoin Doesn't Care",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDlIMC1DOHFFM1laLXJsTjNJRGNPOGtjaXZUWmlGcGY1dVRFdXgycld0eGo4c0dWM1FJU084WGZUb1RhNk5LMndnODdYVERCcDBLNHNKVHBqRGo1M0V3VXlBT2w0UGctaDRDemNGT2IwTnZlR2ZVdnR3SFI0cWozZzB6bzNCdDZMWmhyQ1l0bGFfdHRrRWpTeU1Vel9XR0RtYnJXbA?oc=5",
+   "source": "Blockhead",
+   "type": "news",
+   "published": "2026-11-26T07:15:27+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Bitcoin"
+   ]
+  },
+  {
+   "title": "Inside SBI and SMBC\u2019s plan to put Japanese finance on Solana",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXpjNXpyVzFFTU5TMWpYZENKTC1Tc3lRYzFJcEJzUHI5d0U0bFhZQ2JCN2h4WjVkQVVpbjNYMHFweWhFT2JLb0U2NDBtRmx1emNrSTlfYk94X3VFZ3k0VVFzSjlscHI3RlgxSTN2SEtaRk1zd19FaExQTnIwV1k5NG94YkR5VW8?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-26T07:15:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "SBI"
+   ]
+  },
+  {
+   "title": "1inch Network Targets Institutional Finance, Expands DeFi Infrastructure [Cointerview]",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKdUp4N0FUNmQ4S3lQaEt1aFhJRHh5cnZ1UjRvbk1SR0dsQmFEb0VoTjgxZXRidndydmx3UzF3LVhWX1I3endLMDhfVFZkYU5PTllIRw?oc=5",
+   "source": "bloomingbit",
+   "type": "news",
+   "published": "2026-11-26T07:10:30+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
+   "title": "Vitalik Buterin calls for open-source chip design to strengthen crypto wallet security",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEI1R2V6aERWaDJOYUZVZjQyZHN0SzN2YTB1czBWS1J0ZC1PZ2FIbHhYT3RNV0pxRVJzZVB2SmtkT0RnWmh6MVpNbFpYSzRHVHl4V1dxc1c1UFJrX3NsYmZmRmFXa25pTkhqX2x6d0FkcHkwZ1otdW5sVU1nT29Md1YyQmxtZV92VU9v?oc=5",
+   "source": "Crypto News",
+   "type": "news",
+   "published": "2026-11-26T07:00:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "UK's FCA Sets Sights on DeFi Authorization as $6.3B Binance Hack Exposes Laundering Gaps",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tVUxvd1VNektfQ013NmtJOV9RS1NGNkRGR1dHSE5RVWlFbHZpeVpUUFdjdWJ3OVVLYjg5Q2pYNy1jbTVIZkxEejVILUNST2JBNkxYNEZWbUhoZi16ZXE2UFJobi1MQ3RISlZiLTFJWFNaSWZfb1E?oc=5",
+   "source": "BigGo Finance",
+   "type": "news",
+   "published": "2026-11-26T06:55:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI",
+    "FCA"
+   ]
+  },
+  {
+   "title": "Bitwise Launches Self-Custody Stock Portfolios Using Coinbase Tokenized Shares",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2t2Zzd5cldHek5DNVA1Q1Ixa2FkZzJWVk5vTGlTd19kZi02Mnl3REJCSjhfRVIxcTVZbDJKNS1DT2htVzhRQVNKMDZITU42M3NJd0ctSjBXVTBiUXVqTXhaWlBOVG5nUm1acVl0QlJsUWpCX3JlT1RwdkF1TmxJdm5pbV9BYkNwTVhSSENiemtKZEg0aVR0TzQ3UFBva29HdWROYzl4WFd2WlJTOHZFbjcwdUZ3a0xQN3VhZA?oc=5",
+   "source": "CoinMarketCap",
+   "type": "news",
+   "published": "2026-11-26T06:54:33+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "RWA"
+   ]
+  },
   {
    "title": "Injective Launches Veyra Upgrade with RWA Tokenization and Institutional RFQ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzBzVFQ3d1V0ZW5ndm9LN0xDdU85eDhaNHZzaWJxVDF1LW5GZm5ROXZGNE1UQTRLeVFfT1FfWlRIUXV4WEVjZi1yYl9GdGVlT0VsR0tHTkNVNnBrOW0zRS1xa2FIMHhFc09idW9LQ2Q2Wi1RM1g4d3ZxT1hmLXR3ci0yTTlSYVl0QjhfRnJpVUlkNXQwQWxTMTNBYXpoQVlLVjh1YXdKWmZCWHZEVS1B?oc=5",
@@ -199,6 +1069,17 @@
    ]
   },
   {
+   "title": "UK Regulator To Tighten Defi Rules, Citing $6.3B Binance Hack-Report",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnJuc3FyeW1WZjJDYkF4RmdDUW1uY25wVi12X19FYWtqVHgtc0tubXlaU2t6Zm4zd1dPUGwtU1dNLXBINEdfWnZ2dE5rVTFwSDBoNmVoNDZHdTRDTllCQUlWREszakZ1Y3hoVXI0aGlWMDlPZmtvMXB4WTZ6U3JtU0NiS2NpLWRGSWtSUHQ3RUdNRmFkcVVsQWNWOA?oc=5",
+   "source": "Menafn",
+   "type": "news",
+   "published": "2026-11-26T06:30:42+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI"
+   ]
+  },
+  {
    "title": "Europe\u2019s only spot bitcoin ETF starts trading in Switzerland, BIT says",
    "url": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
    "source": "The Block",
@@ -206,7 +1087,8 @@
    "published": "2026-11-26T06:30:00+00:00",
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
-    "Bitcoin"
+    "Bitcoin",
+    "Switzerland"
    ]
   },
   {
@@ -228,7 +1110,8 @@
    "published": "2026-11-26T06:21:00+00:00",
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
-    "DEFI"
+    "DEFI",
+    "FCA"
    ]
   },
   {
@@ -236,7 +1119,7 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd184dC1MUWlXZDExTk10Yi15ZU1PbHQ2bWxaeS1GY2FEZEhhc3VkajI5cEN4d0FObFpzeEhwcXpwdEI5OWtVcEtxcUEwdXdON1BGdmxMbzAydGI0Sk5zdWFDcXptcDdPWkRWMEN4djZ0c3dlRHlHb3BWRklQaWU5YlJqbkJ1Vk9zMjI3SUpRZw?oc=5",
    "source": "Global Banking & Finance Review",
    "type": "news",
-   "published": "2026-11-26T06:20:27+00:00",
+   "published": "2026-11-26T06:20:37+00:00",
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Musk"
@@ -248,28 +1131,6 @@
    "source": "CoinDesk",
    "type": "news",
    "published": "2026-11-26T06:19:09+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Strategic Bitcoin Reserve Bill Advances, but Can It Pass Before 2027?",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEMzcGttWXM1ajVfQnhYTmdJbmlPSU81RVllVnlDeTRiREMwVHYwSFpacW9raTJZc3g4V1VMS2VjNEdFaElLMWRkd0JteVlmVnRreFlNdGdaNE55enNJQkt4QTBTV3J3d19rMGRKdnJ5aEZPM2wzdTNaSTdBRlZDNWxONWdUZkpYNGtrUkdNLVFPQWR1TVhHYtIBngFBVV95cUxOeTVFNVZuSElVRXZGZXJRU09EVDg0OW1BTE9CellVaEd5ZndodE9DT0lzZm5sY0ZmWXpzX3Fkdm53cWl0Sml6NjNuS1lXeW5XUEpJNHREYmxDZDczMXI4Z09QbXVSM25uZEFrUk9rWkNnd0RINzg2WFlLUXVCYS04RFhMTUdYcG1YVVNPWUtEcWdkLXduYVBXRlhXZlNKUQ?oc=5",
-   "source": "Coinpedia",
-   "type": "news",
-   "published": "2026-11-26T06:16:45+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Gen Z Is Bitcoin\u2019s Ticket to $1.6 Million? Bitwise\u2019s Matt Hougan Is \u2018Extraordinarily Confident\u2019",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlBkWnp4WXFLVGdKRmtCLWg5MXBuUi0xNzlRUW1acTJ3NmZRczJNblNFcFVsZ1M0RDZSSXNrLXJJT2JnazdzdVZoQ2FxX3k0Ui1rZ2l2d25ValFWTy1veEhrdVdxTGJqcFlGTEhpYW90WmZiU0dmNlh2TnlEYXkzOGR3Ul84aGJjNkUwMlR0MF91TWptV1ZMR0w5OENlTG0xeGhPckV1R3Blb3RyRUpuSFpMbUxFZw?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-11-26T06:03:18+00:00",
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Bitcoin"
@@ -317,18 +1178,8 @@
    "published": "2026-11-26T05:42:21+00:00",
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Musk makes $18 billion SpaceX stock pledge for every kid in America",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEFQNjBDVXhFeG5RLXEwR21OYXQ0UzZOR0llYXNzX2hKRXUtajNNMFBFZHdtR1pxTTE5MG9OTTlROGJ5aXF6d3VSNUthcGtyUWRDWC1EbkM2REVtbHVHaTYxMmpMZHlhZmpxLXRfOXd0ZmpBcUEwRXFCSGRnTWdldE5ncndZeGlxWUU2SVR6cnNIeVlCNzNMYQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-26T05:39:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Musk"
+    "DEFI",
+    "FCA"
    ]
   },
   {
@@ -340,28 +1191,6 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "DEFI"
-   ]
-  },
-  {
-   "title": "US Spot Ethereum ETFs See $68.5 Million Net Outflow, Marking Eighth Straight Day of Redemptions",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SMm82WmRVVDFiaHgxQ2JENmtWVUFZdWtwR2E1eXBmRHQzLWE4ejFSSlFpdUJnNUt6eUh5aDdrdjRTVHBjUmd3Qm93ZDZNMzUteHhzQ09aMlZzVEpWRmZjVWszalhfRDdnejJjc1A0aGZ4WVktZnc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-26T05:35:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "SpaceX Reportedly Slashes Some Nvidia Chip Rents \u2014 AI Researcher Sees Musk\u2019s Edge In A GPU Glut",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyemkyaXdwU0IzejZ3dTVETTJJTXU4LXhQUXRZdzdQMG1oNFJOTVZKblB2RXdOekV0VzJwTFM4UTdYZVZXTFV5ZlJSWk5sR1FzV1RFRXlzZHlSTFZPams2V0RCYS1zazVhZFUyQ3M0TmJ0eGxTR25tQVZZSkNReEJkTXBvZXpoSWJaQjJGNkFsLUVuVk5kUGc4YmlsaEtJenpF?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-26T05:32:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Musk"
    ]
   },
   {
@@ -396,19 +1225,6 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Veyra"
-   ]
-  },
-  {
-   "title": "Moscow Exchange Set to Launch Bitcoin, Ethereum, and USDT Trading",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0FheUxUdWV5eXhMbVctb0wxOWN6Q0J2RHpJR1dHZUFZVTJoeUlGTG1YNmZNN2IwWGdxc2NsdVJSa0ZZS2ZMYlpVNzUtdzdjVU5xYTl3RGN1NHpoZ0FZZFpCcWRuYV9maV9MWXRlNW90U1A1Z1pWUVNVbS1zcVZMdUk3VE16OXI5eS1sbUV0Z2xVSkk?oc=5",
-   "source": "CryptoPotato",
-   "type": "news",
-   "published": "2026-11-26T05:08:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Stablecoin",
-    "Ethereum",
-    "Bitcoin"
    ]
   },
   {
@@ -456,25 +1272,16 @@
    ]
   },
   {
-   "title": "AI could threaten Bitcoin\u2019s cryptography before quantum computers do",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakIzOF9lTElRc21xckI0U0RleWVmTjNyUU51dzVUMnJzZlpNell4cmZZVDY4WGVxTHI5cEZ2TGlaU1RPMEdVZXB5TVdhSmVZRFkzYnNrZDhaSTFiOFU2MzVnU0ppMDhWNDRJa2JnNklFcnNpU0tEUU9lZElhR0ZXV1Jta3dhZkprWmdSamlLVllTZw?oc=5",
-   "source": "Crypto News",
+   "title": "SBI Launches Solana Venture, Expanding Japan\u2019s Tokenized Finance Market",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTZDLUV3QXN6SE5XNVFzWlg3SFdvY2FINnk2OVVrZF83S3lnOXRGdVdWVk9Rb1VBQ3BoZ0xrZmRvNk1ySlA1bnB6M0NEVEdXRlFNRkRxUl9oYmE3WmRpVm1CUlhIZUw5YXJybTJZZFc0QVd0MldDMDAwWEwwNXZMWVYtWkdtMDdfbUNheGc2Ym9hcTI1cVN5VHhVNmc5UFN4MFJheHRMRHJXZkxSUjNUMdIBsAFBVV95cUxPcTZDLUV3QXN6SE5XNVFzWlg3SFdvY2FINnk2OVVrZF83S3lnOXRGdVdWVk9Rb1VBQ3BoZ0xrZmRvNk1ySlA1bnB6M0NEVEdXRlFNRkRxUl9oYmE3WmRpVm1CUlhIZUw5YXJybTJZZFc0QVd0MldDMDAwWEwwNXZMWVYtWkdtMDdfbUNheGc2Ym9hcTI1cVN5VHhVNmc5UFN4MFJheHRMRHJXZkxSUjNUMQ?oc=5",
+   "source": "CoinTrust",
    "type": "news",
-   "published": "2026-11-26T04:42:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-26T04:38:12+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin Reserve Bill With 20-Year Sale Ban Heads to House Floor",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OTlRiZVl4Sk5mY3ZzdWh6UnlYOWxPNzRkX3Jyc3RvQmRMSXR1cC1Bb2FZanlVWVZpUVUtTnVfS1ZxTTdmVGVIQXB1WWttYWtvSDRoUjhQaHlzYVFVYXkyejQyVzFyQQ?oc=5",
-   "source": "Bitbo",
-   "type": "news",
-   "published": "2026-11-26T04:35:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Bitcoin"
+    "RWA",
+    "Japan",
+    "SBI"
    ]
   },
   {
@@ -533,36 +1340,25 @@
    ]
   },
   {
-   "title": "MILESTONE | USDT Sees the Largest Decline in Redemptions Since 2022",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96RnJJWkFteW9OS2VsMlZ3UGJWWUJrUUR1c2Ztc2Mxc0VMVk41cWdDdWFXZEZUbGlXZFdkMm9kakVjSWZmU2lSU0NjejB5cEZjcW1TNkZ1OXY5bzFZVTBOSzBDeGl4MkhmR2JpbUUyR0xMQQ?oc=5",
-   "source": "BitKE",
+   "title": "Japan\u2019s banks are now building on Solana, but does that help SOL\u2019s price?",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlJWWktpOHJ6R1A3MUJXN1ZmVlpMVHhXanpDVXZkclJFSU1Qc2lzcFJuOTc0Wk9BRUJBSU1RVnZLckdjRk1VdUgwcmw0Nm84UkR3VDRhX0NoN0JxZ3FVTE5ITzdCbFcyZEtPcEdfdDVxSWotM3B2SWZUYUdTZ1dxcjk4dFFycW9RRlhtNjBtNmFVU193LUMw?oc=5",
+   "source": "AMBCrypto",
    "type": "news",
-   "published": "2026-11-26T04:00:39+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-26T04:00:50+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "Stablecoin"
+    "Japan"
    ]
   },
   {
-   "title": "Fidelity files for FLNK Chainlink ETF to offer direct LINK exposure",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tMnMyV2tybFVEZTlJYjl2UUtOdXZIaU5sNzlRZ29HUW9JZl8wZkM1Q3ZnaTZ6NGZrTnpXV0M3VjRuNVVvZnFJaHNZU1NDS1ZxVkU4dW1IbWZiaHlGdklYMg?oc=5",
-   "source": "Holder.io",
+   "title": "Hong Kong Monetary Authority Launches CMU Digital Asset Platform, With 10 Banks as First Direct Participants and Custody Assets Topping HK$6 Trillion",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSY25EeEVBdHFvUVBKbzRUYzhlU3ZSNkNjMEhDWWdlWWNJaFgtdWJtVmMyZ05TTlZmcHg4b0lWcmppbmxfYWF4djlVcEpDcHRvZWRfU2ZDVWVYM29XY0Q2aGJYbTBWdmtFM1RQdS1fUmppbUZxTEE?oc=5",
+   "source": "BigGo Finance",
    "type": "news",
-   "published": "2026-11-26T03:58:10+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-26T03:55:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "LINK"
-   ]
-  },
-  {
-   "title": "Fidelity Files for Chainlink ETF. What Does It Mean for LINK?",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWU5NGlQdTQxQi1UYkh6Skl3eEdxajNwc2V0UnBJYUpOUkxLZ3RzLURXTVBUeV8wVjZVU05wOXoxaTFDaGtjSFlyNkZ1WUtOYmJvQkEyRXgxZ3FoanBNbUZmS0tvNTJNamxsQmhaSU5qZ2hCWTlURmZaMF9ScXFXRjNDNUV4ejg2TFpGNHl6aWFndHhqM1U4MlE4SzZmNG5FYWdtel9TdHVxUHFjdHllVmtRdHdqWUNC?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-26T03:58:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "LINK"
+    "Authority"
    ]
   },
   {
@@ -574,6 +1370,18 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "RWA"
+   ]
+  },
+  {
+   "title": "Japan\u2019s SBI Holdings, SMFG, and Solana Foundation Launch \u201cSBI Solana Global\u201d Joint Venture",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hdk9QQ2daZFNUSHE2YzVpMkFwUVp6b2NtbmVDMG9oRmNyaFRibjhsYnJ1RXBkbHd1VEFUdnhTc2JoYVRIcDBrdGZfS0NOYjhHbkZLaUdGUDVqUdIBWkFVX3lxTE5hdk9QQ2daZFNUSHE2YzVpMkFwUVp6b2NtbmVDMG9oRmNyaFRibjhsYnJ1RXBkbHd1VEFUdnhTc2JoYVRIcDBrdGZfS0NOYjhHbkZLaUdGUDVqUQ?oc=5",
+   "source": "CoinIdol",
+   "type": "news",
+   "published": "2026-11-26T03:20:33+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Japan",
+    "SBI"
    ]
   },
   {
@@ -623,17 +1431,6 @@
    ]
   },
   {
-   "title": "Bitcoin Price Below $60,000: Galaxy Retracts Bottom Call",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVhqd1VTRVY5MTdsS3k0d3BiblRFaDJZTVVKWHhVMjlGbW84VDZlZGQxSDY2QzdCQlBTT25KeE93SFRNUFJnNEdZa0N3WmJ1aHJiRGkwSGFNUk96Uzl1bC1NYTRVVmxvVHpzUGlMd1NseGVEYXhQQktXSUF3MXJXdmtlZ3VCYl9G?oc=5",
-   "source": "shattered.io",
-   "type": "news",
-   "published": "2026-11-26T02:34:57+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Paribu and Circle collaborate to explore USDC access and onchain finance in T\u00fcrkiye",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ3B2dVRwcUpNRjBIU1BLYzc5YWdFcElrbk9BTHhqZWFnSUxuRjNhT0hiMWpzQjhFQnppMVFfazNvUWtPYktiNlM2TlV1N3ptcHl0SXlCLXl1WXYzZElKaGxCY2NkbW9DNVpycF9Ydk51U290eUxuQWFER1ZDVHRlR24zazExYWMwOHhYYmZaYzJXWGZ2YlpDT0RiakM4c0FvSkg2R3QyUVlBZXlKZTZQVlFtUQ?oc=5",
    "source": "The Digital Banker",
@@ -643,17 +1440,6 @@
    "topics": [
     "Stablecoin",
     "Paribu"
-   ]
-  },
-  {
-   "title": "Ethereum Price Forecast: ETH below $1,700 amid hot inflation",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOVZKSlRfVXRPWDJtT1VlWWtKbVJTcWh1Ul9FWjkycl81VEtYZDV1d01hdE9PYktFVnQxbjdWOHlPbnhJd01qdXU4VzBuM015Vno2bFBqVWVGaDZQdE9PcG5GM3N0OUhLYk9hQjRhTkhvWGJhNXF3SFpVUEFDUXBQYUN6QnpwRGhxMktMVHA0OWpFYlVKRXlDekc1eXhQdS00bXNKZ1hnZG9XMU5lWG5FNDNVZFYtakJESDZ3N1lfcThzbFd1YlpwZEoxQnpIRmNUU0E?oc=5",
-   "source": "FXStreet",
-   "type": "news",
-   "published": "2026-11-26T02:18:28+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Ethereum"
    ]
   },
   {
@@ -680,28 +1466,6 @@
    ]
   },
   {
-   "title": "Twitter Shareholder Lawsuit Musk Appeal: Late Claims, Payment Timing and What the Ninth Circuit Can Change",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXRBdDhNVWRVMzFnVzVUZmZaMnZXZERPQXozc3ZtS0IwTjY4NWJSUW5RX3h0cE5CbXlmTUJTcGVlZk12OEVzZ1ZtVnhLcHhkbi12bkVLZnNXOE8tWjZHaVBhM1JTV1VNLXRzd1I2WlZoMU9aRXJLejNlZ29vWEJWcG5qaDJSa0lEaDdsYkVHTGVzVFBhUGR3QWJwQ0MwMEs1RVdaLQ?oc=5",
-   "source": "Hassan KOHEN",
-   "type": "news",
-   "published": "2026-11-26T01:43:02+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Musk"
-   ]
-  },
-  {
-   "title": "DeFi Technologies Posts $22.3M Q3 Profit as Valour AUM Rises 62%",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnAteE1ycldiaUo4ejMtMjRKUnZaczV3WFBFSHIzd3JfbzhzNjB0aDNTYVVBZ2VnR1lTVjJWbTRUNVZyX2tQNVd6RVFLbXdpTGVKRDlsdzlIdlF2VjlqM2d5TFdZWndpSnlkZ1E5NFZheXpQM1dXVTU0SUNTMUh4R3ZITHA2anM?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-26T01:38:51+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
    "title": "Elon Musk Sends Warning to Bitcoin Creators After $271,000 Fraud Case",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lVjRZdG9rN2pSSHF4cExVR2VRblhEaExrZ2RldDdpX2xLVW9ENjJKb2I5RW1lc2I0dFJsSDUxZjkxNndGY0hKWUZQUG1BVnk3ZmVtc2lYRjNqUzE5czFISUdMZTFmWVRjOEE?oc=5",
    "source": "BeInCrypto",
@@ -714,37 +1478,38 @@
    ]
   },
   {
-   "title": "Bitcoin\u2019s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdTBPZEgtQ1pOYjFVU3FNUUZhalBDTXNSdkpOeXVDdUZSZzg3YkluV0xtRU5takhRT1hmVnI5RkJsdHUzU1ltRnFmZDJuc2tPYmM5REdDeU41V2laTjhNMWpfWjVaR2VVYmxBUGJuTDd5elVvUi0yb3R2YW45cnF3eEV1LWZLVW5rTHFTdjBaQjB0aVY3bEdqYjRWZ2ZKU1RfUXZsbTFDZUNFSkw3SXRWSlpZNWFaSHliNmtWNW1uaW5PS2R6VnBNODQyVQ?oc=5",
-   "source": "Forbes",
+   "title": "Japan Weighs Rules for DeFi Access and Self-Custody",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdEhoVjNCS2lLb2FOb2FkUkdOb2FqeUdhNXhDY2FiODFlVEJEenFWbzlsUU9Xb2xyd0tjaUh1emdaN3pnLXNnUmVRbm1EYTgtNklrSTJKMUhoeS10NFA3a2lJbzJkUEgtVUdETkkzVjhBTHFrTXJaUTdtN1JxVlkxbEVYSElzRFJ3R2dLU241X0xxRUE?oc=5",
+   "source": "The Defiant",
    "type": "news",
-   "published": "2026-11-26T00:53:08+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-26T01:17:39+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "Bitcoin"
+    "DEFI",
+    "Japan"
    ]
   },
   {
-   "title": "Bitcoin Price Forecast: BTC/USD 37% Crash Tests Yearly Low\u2014Breakdown or Bounce?",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONFlsQW52OEVkclhCSlJ5SE5jQ0JIdkxxT0t1cVU0NkFzZnYwVlIzQm1QQVIxV1gzNWN3WkdEWnExX1lGLVRWbjRYOEh4OTNlU3A3Z1FJQTM1dzdkSjNYODNiSVhjT1hwTWJ1cnJHd050RU9MWXYwYV9CcUJiS1AtTFo4ODZrZEN6N3FhVDMwYTdzdjFZcWdIMXlRSDVFbU9zUFB2VTRnbWdDalV5VjRSN19tcUhFWlptdGdKUFVwLS0wRzEtVXF1Um5VeUhiTjNleGMw?oc=5",
-   "source": "FOREX.com",
+   "title": "Real World Assets (RWA): Top Tokenized Assets by Market Cap",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ydkViTHdfSkhRYkJuWEJqcXlzdjl2MjNoZ0M3WnF0WU9WRGZrVENuY2FkSU5fZERvbGVoNVpvQ183RWE1aFdR?oc=5",
+   "source": "Coingecko",
    "type": "news",
-   "published": "2026-11-26T00:31:30+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-26T01:08:39+00:00",
+   "first_seen": "2026-11-23T12:00:03.942947+00:00",
    "topics": [
-    "Bitcoin"
+    "RWA"
    ]
   },
   {
-   "title": "Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ19DWGtxTUdKTjhfQjhvUWVuVDlPdzhRNDlSMm0tMlJBeWoySUxaYmk4ZWJpRXlPaDE2dTRDa0drcjRQOXoxRnpEeDNKQUYzUExGU0ZiYW1la1hwZzhnaS1UX3VuNEVXd0VScWNHWDRZTjRQTi0yYmloR1NXOEc0b21MRVVyYzctdnVmSHlOZTAwUzRvUUFJbU55eTU5QkdFSkdF?oc=5",
-   "source": "Yahoo Finance",
+   "title": "UK FCA Eyes Bespoke Rules and Fund Exemptions for Tokenized Gold",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtteE5kZFVmXzBRTEdhVXdpdlB6MVRha2I4ZDZGRS00ekxZWHI5czJfZGFvajBaTTJGSG9UWFNyTzZaNlJyaU9QNFM5VDl0dGlhN1RlRjl4Y0lzcnhhRjB3ZVRyYWc1TnE5Q0otWWQ1N3oweTVmN1pFZENXLTdhU2ljbVdXWWNQNmtlNE04Nzh0WDFKcUdtQXBaUW1Gdmx5YWpCbjJ0TmRHUQ?oc=5",
+   "source": "CoinMarketCap",
    "type": "news",
-   "published": "2026-11-26T00:02:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-26T01:04:40+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
     "RWA",
-    "Bitcoin"
+    "FCA"
    ]
   },
   {
@@ -760,36 +1525,15 @@
    ]
   },
   {
-   "title": "US jihadist who settled in Turkey financed ISIS through cryptocurrency before FBI arrest",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3g4MTVtWHgwVFl1VWs1OVZzOURlcERBeHJxX3lVbzVuemRmWGprcmJrZWc4aFNWSlpvSGtyNmVtRjR0VFFSMUVDOWFHTW5YQUFjNVZuaUU4UTJrU1JsRkZtVzZueUhLNVVGSUliSmQyWjIxZFZiRkE4Z21fZmFIem5lSUtDcEh0Tkl4bWtzQl9vbnluaW9felN5T2dqVTdQYnVXYTI5SUhPbEdkNG9nWkh2bE5LVGJxVFhoMGI5WFZjZw?oc=5",
-   "source": "Nordic Monitor",
+   "title": "RockawayX Confidential RWA USDC Price Today: Live ROXCUSDC to USD Price Chart & Market Data",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UdmhzSXk1TllaR0xRRmVpdXl1b1Rxb05Eb2lPVTBIRXhEb3ROSEk3TElNd2VoSHd0WWZqZkhxa1RaMnBtZEY4V0FReHRmbUxxamwzNEgzNHdURVZ3d2I0aVY4UDQ5SGdSX3c?oc=5",
+   "source": "MEXC",
    "type": "news",
-   "published": "2026-11-25T23:38:18+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-26T00:00:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "Turkey"
-   ]
-  },
-  {
-   "title": "RedStone Highlights Three Stages of Tokenized Asset Adoption",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pc0N5RnFOdDdSX0pseWFUV2xzNHVLQjlPMkFfXzBqRUsxdVVqbnp0Z3FhMHJ3ZXB0YW8xa1o2dXVUNkxWSlBOeXZ0dW9WTGl0VXo5NTFxX3lzamdURFQxUlZqTG0yT0N0ZjhVcg?oc=5",
-   "source": "Crypto Economy",
-   "type": "news",
-   "published": "2026-11-25T23:32:58+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
+    "Stablecoin",
     "RWA"
-   ]
-  },
-  {
-   "title": "Current price of Bitcoin for November 25, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Na2pvV2xpZm03U3B4MlM5LUhQNDM2cGlsRXNmUDF5UTdtUzBkSHlTZVI3MVp0RGg2MHpWYVhiSFVRR0xFaWxZamsxLXdheUlwaTV6R2RXWW9yVzZMVHctOHRydktiXzg?oc=5",
-   "source": "Fortune",
-   "type": "news",
-   "published": "2026-11-25T23:31:56+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Bitcoin"
    ]
   },
   {
@@ -804,14 +1548,14 @@
    ]
   },
   {
-   "title": "Stablecoin Giant Tether Reportedly Sought a 20% Cut to Return Stolen Crypto",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVVjNnBldXFKVmtaUDFLcURnWTJXdkV4bm9mUDFTNjkyNW03RkRtZ2xzcHlrc3RPVFlhWTdPSjJKbmpxS3QwLUczdFRoVFBTN0YtVDZfNFpWNW1aajVSWkRpVGs3dnNKaWUxd0Y2UVpOcTNMVmdDa2t3S3VpZHl1UG44ckU2azRPUU5JSm1oWE1ORjFueEIwRmhic29BMk5vRkl0SkhTdE0?oc=5",
-   "source": "Gizmodo",
+   "title": "Switzerland Approves Crypto Tax Data Sharing With 57 Jurisdictions",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1p1bVl0UHVHVEV2am4zdW9ucWdxWWFEYTlIaGM5aG1PbWtVWGpPLUdDS19xX2JMZndnbGFwbUgwUmhkRXFDSVAyZmRGTjBYZDhEVHMtdERjSERqOGwzNjhPVnZ2MndKYUg4Ny1jTjUzTmdIZUFmd2k1aG4tRWk1bmoxZWV5c3lGaFU2Z1RNVVFkZXVRbm5KS2szQjFGU05YSXc?oc=5",
+   "source": "KuCoin",
    "type": "news",
-   "published": "2026-11-25T22:55:26+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-25T23:24:19+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "Stablecoin"
+    "Switzerland"
    ]
   },
   {
@@ -823,29 +1567,6 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "SBI"
-   ]
-  },
-  {
-   "title": "Elon Musk\u2019s plan for SpaceX to launch 1 million satellites for \u2018constellation\u2019 of data centers approved by FCC",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORmk0OUN0eVVGSWpvMmh5dWJSalhxa3Rua0hiSkQxVTJnZlMwMUpvQ1hMYVhHWUFtdlNwNFZjZWZ1V3RsUmk3azR0ZUhnZVgxNUhWT2plZEVhMGdHdHJxaU54bDE5ZFJsQjVpdFktS2JZSmFPZ1BIb3lTOFNtUF85Y1FHblNrRnhXRHRRanpBQnl2cDQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-25T22:38:54+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Musk"
-   ]
-  },
-  {
-   "title": "How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjI5VGhxZXdfMHc5YTF6NlE3YVA3YVY4Vy1vVTlhci1ud1hzUE8yNG0tcDc0RlJVdWhmTVVfenVQOUYtWTN4M2JrSnBpOG8tbWU0S0t1ekF3bHl6Ni1hS2c0dUpUcHV1RFkzVVl6bkx2X2I0VzZXMGF3?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-25T22:30:54+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
    ]
   },
   {
@@ -861,6 +1582,17 @@
    ]
   },
   {
+   "title": "Switzerland to Exchange Crypto Tax Data With 57 Countries Starting 2028",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTE1YTNjM3dYRy1fakh6M1pvZ254RzlpWFZoQVpoeEtwRW42N0J4eHR3WnlSclFGZ3V2MEh6aEM2eHNSVjAyQzJRcmc5Xy1EXzloR25XakxXaUQ0RHRZRWxlc2RkNThWN1NEamM1VnhIeklqT0ZpVVNhS2p3blN5SGttX0VpQTIxZ0VNekZkSDZ6eUlKWV9YM1pZUkFRU2VsMmJDZjg3NjM?oc=5",
+   "source": "KuCoin",
+   "type": "news",
+   "published": "2026-11-25T22:24:03+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
+   ]
+  },
+  {
    "title": "Stanford Professor Reveals \u201cPraxis\u201d Bitcoin Cryptography Breakthrough",
    "url": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
    "source": "Bitcoin Magazine",
@@ -872,26 +1604,14 @@
    ]
   },
   {
-   "title": "How Much of Your Portfolio Should Be in Bitcoin After a 50% Drop?",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSElRRGZCRUdldFVmWFc3VlNyaFpWdWJ6ZkFsREFlTHdXS2ZSdzBCcTUyQXRUa25xNktqQldwNF9BcUFETFFZU3dSUzFiQ3A0RlNUUHduNHluWnpXYXRpNjhRM29OTW5OcEVPNFhVVUNNdTc0RW5NdENCQl9acHlJYTdZb0U0bXF5aF80RXJtZXhJWm8yUWd6OUtobw?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Switzerland Approves 57 Jurisdictions for Crypto Tax Data Sharing, First Exchange Due in 2028",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBETGRnZnhiSDdTWWtRQlF5Q2U2QW5vNGt3eUlPOE51MkF6RkxvY19LZl9ialZVVUNiWlBVVFl2aVh1SVA3d0VfbnZ5TlFXMU1xS2liRA?oc=5",
+   "source": "bloomingbit",
    "type": "news",
-   "published": "2026-11-25T22:14:48+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-25T22:13:03+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "RedStone Targets $30B in Idle RWA Assets With New DeFi Tool",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQek9RRzF1RlFNd3VGeVNZUnlFYjVKSVpERlBNaW53VFhiVkpINGxqSmliY0VLRWtjSFRoeF93d3M5MTVyZEF6TGpUUm5ReUdqLTZBMktqNW5YNGlrTWNLQWd0YXVqS043ckU4dEwyalByN3V3V3VKcjdtTV9PNjBkZ3hLeEQ4UnAzZGVtTVM2OXgyVkI2REtEVjdKWW9zTTNTTVRrMjJETW1Qdw?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-25T22:14:18+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
+    "Switzerland"
    ]
   },
   {
@@ -907,26 +1627,26 @@
    ]
   },
   {
-   "title": "Tether invests in Lemon to expand access to tokenized gold and stablecoins",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GMUtPbk5SOXBIZXZ5dl9VS2EyUGxKTmVnODd5cmtUa3EtVF9ZT3FnNXRkRlRzd3lCak5KWkgyN09fcnBhb2NDOUxWTzhJeG1rYW1wcmRuZHM?oc=5",
-   "source": "Cryptonews.net",
+   "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+   "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
    "type": "news",
-   "published": "2026-11-25T21:57:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-25T21:53:38+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "Stablecoin",
-    "RWA"
+    "Switzerland"
    ]
   },
   {
-   "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to \u2018Trump accounts\u2019",
-   "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "title": "BlackRock Launches Its First Tokenized Fund in Asia, a Hong Kong Dollar Money Market Fund Open to HKDAP Stablecoin Subscriptions",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWjBnX24wcEhXRmNFbkxYQ3lVVl9xMWFtSXVsc1F4dHpoaDB0OUo1cnl0cnd3SlM2Sm9xTl9BM0tjMnY5bFZldzV4czdSYkRwMEtXSEJCTHBfZzNHQ3pWXzZEUU83cDdyaWtVU1pnY05CdlNyaE84amN1Nk9hSFRzZDZHUXJxN0lLNmZLZDhweFJUWFBMYnB4b0tnQm9CUzRiYUl5a0hCMjlRLUk0Wm4wNTRSWDNqM1ptNlFjT3V4QUpMNXpnRFBJM3JBZ1VMcGJ1bXpsMkJlSzBzcWVMWnN1RVpwcFc1NEJzUURGUkxDWlY1YWp3ck5NNQ?oc=5",
+   "source": "HedgeCo.Net",
    "type": "news",
-   "published": "2026-11-25T21:50:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-25T21:51:12+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "Musk"
+    "Stablecoin",
+    "RWA"
    ]
   },
   {
@@ -964,17 +1684,6 @@
    ]
   },
   {
-   "title": "If you invested $1,000 in gold, Bitcoin or silver last Thanksgiving, here\u2019s what you\u2019d have today",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeHdRY2FhWnlOd01wWkx4TGlBRkViMG15X2FzRXRRSS1fajRBOXZrOGJicEZsVllQNkpfQUhwSUJ0c1ZObWUtSFdDT0xxcVpvbTNTalg3X2V6N08yeVcyWkU5X0Q3dWNsbmd6SVdRVEw5dWVZQWQ5TE85TjNfcFU1VUZjVEJWSmpnSmFBNnQzTzBiTU9MZTZzb0FVR1VOeXhtTUhwZmNzek9sRXhKZUtVRVVlVnh6c25feFNpNkVCMGtMLVZNT2F4QU9sdnk?oc=5",
-   "source": "TheStreet",
-   "type": "news",
-   "published": "2026-11-25T21:15:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
    "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -983,17 +1692,6 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "RWA"
-   ]
-  },
-  {
-   "title": "Elon Musk and SpaceX pledge a share each to every active Trump account",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNl9CMVNsNFBxSExVRWdzVEhfYlRxWHpUQjdROTBIVVYza0FtSnhFU3p2dlFvX0F1RkNTU1Mtb2tzeDRCS3lYdWVuYUFvX1A3VDZURlNXbXM2YVN0b01nV3gxNEJYNkFIN2xTU3FQXzJSNjREZkZZM2VqOGY3N0tNaHk2RUE?oc=5",
-   "source": "Yahoo Finance UK",
-   "type": "news",
-   "published": "2026-11-25T21:04:54+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Musk"
    ]
   },
   {
@@ -1009,17 +1707,6 @@
    ]
   },
   {
-   "title": "Chainlink slipped despite Fidelity news: What could stop LINK\u2019s slide?",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbVNpTVY2RGRIaE14TnBKUlpfWkl1OEdndVZvN3hnaU02QjRQWEZyRnFubGhoSUg1cUYtN1FSUmZfai0wVmVSNlh2SVJZNC1UcWUzbm9hWjRoelROcS1hQjlVREhkYXVjcWphY1lhNWozSEZtS3ZobS0yLVpBUjkxcVFqRDQyWk5yUUs3RDdPbWp6Q0o0?oc=5",
-   "source": "AMBCrypto",
-   "type": "news",
-   "published": "2026-11-25T21:00:46+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "LINK"
-   ]
-  },
-  {
    "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
    "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
    "source": "Decrypt",
@@ -1028,28 +1715,6 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "S&P 500 Quietly Shrugs Off the Bitcoin and Silver Selloff",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR1NjRWV2QmdlcHA3YmlPNzgyUGd2RTBXalNHbFE5dkJjZFVEZlczdk45MW9IeUlhY3VOOXNYOU1TU1ZDS2JwS2swb1R4bVVQenM2OUZ0cF91M05TXzJIUkowdXhqSjNHUEIzbmxaSVFpaWFfX2pPQ0Jyc3FwZHVMX1JNeDZJaVpMZkZFSWhlRmVoY1RrWEl0V0h2WlhfUUt6R1U5N2gyN1VJXzQ?oc=5",
-   "source": "StoneX",
-   "type": "news",
-   "published": "2026-11-25T20:30:09+00:00",
-   "first_seen": "2026-11-22T07:07:47.899215+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Fidelity files for Chainlink ETF, LINK price ri...",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3pWclVqQ2ZSaEZ3aG9EbVBhSW14ZjhtZk04c2JMamc0SVg1TGVnbXU3Q3FyYk9zMS1ZSlJ3dGNzLTdHMTRqeWRVcC1MM0l4ZVp1MVhMYkMzZTJ1QTAyamdhNkdHZFZQQzQ4ZV9NUC1wZjdzVFYwYnhfVDZyWVJwMmc5aHA4cVBsOUZ4NE44TVUwMXRZd1VfUg?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-25T20:28:25+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "LINK"
    ]
   },
   {
@@ -1064,28 +1729,6 @@
    ]
   },
   {
-   "title": "Ripple\u2019s latest banking partnership opens another route to XRP adoption in Turkey",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFJDdS01clFiWGRsNmk1T3JWQVBmRkRwUS1mVHR1clh3cFlZWVFnbHk5cmx3a0U1ZFlTMXBGem9YaVM1Y1M0TzQ0SDBwU2xtYVJBd1pQazQ0cHgzOFpkaFFHanBkT0hieXRLWXVfM0lBR0RnYWhHZFdLQUJuWWY0YzVCODZNUkVtNzZGUE5KbTNwQmk1a29vWFZVVExuc18ycTFpUzFyVFk?oc=5",
-   "source": "CryptoSlate",
-   "type": "news",
-   "published": "2026-11-25T20:10:29+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Turkey"
-   ]
-  },
-  {
-   "title": "Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DVWMtRVpTaWlibUlhX1FQOFQwRUl5ckRSWU5aV1FvT2FXdlRJMks1N3VSX3IwYWNyWUxPYXM4V09wTVNOU3oxWmNDUTUzVmM4R19nSV85Z1Iwa2hSN19UMC1UX1NlUQ?oc=5",
-   "source": "BeInCrypto",
-   "type": "news",
-   "published": "2026-11-25T20:07:35+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
    "title": "Elon Musk Warns AI Firms Could Face a Cash Crisis in 2027",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9welREdHU4enU5REI0dlBoemd0TXhCUjA1NzVVRHdzcHlUeTZwWGE2czh5SXJWRURTcFZiOVNWcDhpSFNId2xrSHRFUUxMWWFNbVQ4aDA4SG14ejRWV3l4WkVaMkJ2MkNiUXc?oc=5",
    "source": "BeInCrypto",
@@ -1094,17 +1737,6 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Musk"
-   ]
-  },
-  {
-   "title": "Fidelity files for Chainlink ETF as LINK trades below $9",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZWnBfaHRvMnA4RnZoNE9abUZmazgzZDg4LUdYRmtqSDc2U2N0bzZOcUx6cE82NVlVN1JEOWJoZ0IwN0V6ckxXMEIzOUt6Rjk1LVdKOUJua1dvdkZKYlBtQ0RwTnQxbHgxNlNueDJB?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-25T20:06:39+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "LINK"
    ]
   },
   {
@@ -1130,17 +1762,6 @@
    ]
   },
   {
-   "title": "Bitcoin Miners Hammered Again as Price Rout Squeezes Margins",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmk3azVqYnFjM2hqMV95SkptWkNCWGpIaTQ1dmpvM3lXNFlxV3BYZ2VNdHEtanVEVmhvemZjbXJadllhd0txR0RPdk9pQmdNbzBJcWhXekJ0dDRHTXZ4c1c5LUE1U00welAxNU5GbDJSQ1RLYUFoaTVEYllUSU5vc29kTzZ1dldlWHhIVzVzamEwRk5lMXpYbjNpdHBEWWpDdVF4NDZpRmk2RC1LOUZVNA?oc=5",
-   "source": "Bloomberg.com",
-   "type": "news",
-   "published": "2026-11-25T19:48:55+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Payoneer gets conditional OCC approval for stablecoin bank",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRV9PMHlJYzVjYXZUYjNoR2tmcWpFdzZzTGtLcnVXeDZZTk9wZDdIcUdZUzRjazFFWk05ck1HOVlUcThraVVNa2t1R3pZOVVneUxQVEJuVHI2Qmp4ZDJDcHR5Q1ZUem0zYTNJYm82X1g4Q3dBTGZWbDNVWEx4M0ZqQ1RHZUtDZzBBNkJDNUlYNnh5ZWdrMGZFWC1n?oc=5",
    "source": "American Banker",
@@ -1152,18 +1773,6 @@
    ]
   },
   {
-   "title": "EU Regulator Seeks MiCA Review Over Stablecoin Risks in DeFi",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY09WS0o4dzh3bHFtNUZrSnRuNk5yaG9lZFBzemY5X3hNQkt4QnhiRnNOaTF3d1pZTHdWWDV3Z0JHUUcyRkx6SnJOdVBrVk93VXJraHhyeDBkMmpUU0ZnWjBteExzMUcwYkxGOWMzVFlidUotaGtmN3Y2cmtZOEstTW5HYU1RM1A3Qk9fSUt5SE5GUjA4OVVMV2JtYUVwSEs3?oc=5",
-   "source": "The Crypto Times",
-   "type": "news",
-   "published": "2026-11-25T19:43:54+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Stablecoin",
-    "DEFI"
-   ]
-  },
-  {
    "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
    "source": "The Block",
@@ -1172,50 +1781,6 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Fidelity adds Chainlink (LINK) trading but no S...",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjAxZWZOalJQdUFremxWWlhjdEtTWVAxcTk2cExjNFR1TWdOWUc0SGFOUlFIMmNkbGRDeWFDMFRqaXVySWZKQXFsUVF1U2FJYUtwY0IwU0o2alltaUk0SEI1LUZQSDBxdFRQcGJVdzJiS0VOeW0zSGZ5clEyRjlvX25uM2VRTVJ0cGRnVlUwZTlUcVdxOE1fcUZzNkFUd0YxcURNWnk0SXVOWGFKYTJFSQ?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-25T19:36:05+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "LINK"
-   ]
-  },
-  {
-   "title": "RWA Issuers: Top Tokenization Platforms by 24-Hour Volume",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBST25saWFBMndWUEozbUJqdmNDZE9xTEdsckZrUGY4R293M3RmSzhxdWg4MTN2ZmZwZllKeFJ3dXNKRkFieE8zdjNVTlQ0dU9hQnc?oc=5",
-   "source": "Coingecko",
-   "type": "news",
-   "published": "2026-11-25T19:31:14+00:00",
-   "first_seen": "2026-11-23T17:01:20.610263+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "'Turkey runs for cover from Trump's pardon': Gov Newsom fires \u2018cash or crypto\u2019 dig in hilarious pos",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWHhoYmlPN1dfQ2E5OWl6LTBpcW1pNjFnMHdSdlFHRkpYVkhFcXlKajFEeks1Q05YenpCdmVUQWtZNm5rWF8tcUJUYm4wYmwzbmp6YklUWktOQ09mZlZQSHUtTHB4bEl1UzlXWkxlajlsOGNUWENPcTdaUU9NcGgyS2plYWlDQUZHdC1kOExyNUdNd3haa3pDS0RYbGV4Qnp3RThmclk1UjBaeWNuSklQUWxYZldhbWw1LTVnN3pDdjVXTHFPeEFZcDBQMF9QTWxtbHJVbjBMbzc4MDRFNnQ5M2J0aXJKYl9zQ3RGY3F3Vk5od045Z1Z4TnZOT2hiM01qdzRhZmRYRWdKbXhnRE9sUE1n0gGLAkFVX3lxTFBFNHhuR3Ixb0IyRk5KNjJsNTJ6QXNSV2FBd3NfWG1FOXc1ZzZ5UnRnSzU2T2Zvb1FNdG52Q0V4UlFHbldUZEU0X0x1SzFZelRIM3VsREp3alh0Q1FBSHM5Q1NzRkRWVl9USm5tTVdoY0hCMzhWS0dtUThkdVY4MkNybU82ZEhreW5CRWJZTjhqT0RnWkVUcnczNmxEdVJpcWxNQXJQOXNIcnhVWGhmSFBjTXFMOGMxenZ2UHlybGhfU2F4WEh1MkwyODFod0RzMFFjbXJnbFpuUUc0clJ3UHFaOWg5UjRfR2ZLdjAzWXlVSzM2MmVsQ1NKclFnNTloTVpMOW5ESnMtS3FNYw?oc=5",
-   "source": "The Economic Times",
-   "type": "news",
-   "published": "2026-11-25T19:27:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Turkey"
-   ]
-  },
-  {
-   "title": "XRP struggles below $1 despite Ripple's growing institutional partnerships and stablecoin expansion.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZHVfR09MU3JvMFVsM1F2NV9NLUtnUjMxcHNWRE5scm5WUno0MEs4R09tNHB3eDhvYjAtSmFmWFpaQjFXSnF1WjlKamx6WFQ5T2JYeHJFMnBVM2FuN3JUczVzTkppNGFSdzNJOWRkc0lLSFNPWlFiQTBBaUsxRjBDbjhMVlcwZw?oc=5",
-   "source": "Pluang",
-   "type": "news",
-   "published": "2026-11-25T19:26:01+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1264,28 +1829,6 @@
    ]
   },
   {
-   "title": "Fidelity Chainlink fund S-1 claim spreads as the firm adds LINK trading",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CbFBwUXk4aUozRVIwTVl5ZDY1enRSQnpaVWRTVkRsRUNwdUM0Zm8wTXB1NE9kYjJNUlFHdm5ZT2V3UjlreEZXM3pHa25KYUZiQkRCNjk4SUwwLS1kY0dNNkpONGplVzR2ZUNVeElMOGZLUHR0UlE?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-25T18:58:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "LINK"
-   ]
-  },
-  {
-   "title": "Coinbase Wallet adds USDC paycheck deposits on Base",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZZVVwSVpvNE0tckNNNEFPZXNhaDJXd0VwRFV3dy0xRS0tS20tcjVRd0UtZDlhR3NfTjNjZUxPVUF6Q1Q2V0dYX1BHOHduRVhoSHd2R1N0UVBRM0RYTFJyNDZaYm5WQlRsU0RkczNxMzhkVkk?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-25T18:54:56+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
    "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -1297,6 +1840,17 @@
    ]
   },
   {
+   "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
+   "url": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
+   "source": "Bitcoin Magazine",
+   "type": "news",
+   "published": "2026-11-25T18:40:05+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
+   ]
+  },
+  {
    "title": "Musk Tells Fraudsters 'Don't Mess With X' as UK Court Enters Default Judgment in $277,000 Crypto Payout Case",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tY18tUDMwRkhiUzV0MTJkakFGQ2hSMTdyTVlJN3FYanlldi1wMXA5Rm9pRmoxSzhRWWpwa0s1anRiLTdJdWh0OXBIZkxxWWlCWGxRRTl2VzFUSmNzYWZMdGEwZTVXYXVMeUlYSUhPRFhqa1cwQXc?oc=5",
    "source": "BigGo Finance",
@@ -1305,6 +1859,18 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Musk"
+   ]
+  },
+  {
+   "title": "Japan's $2.3T Financial Giants SBI, SMFG Launch Solana Venture",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3BnajRhUG1qRUpfZFNySkxvdVdWZEU0c3RNTWhzejhpRFRUZFVMcnNuQUZDMVVNRUxtM3c0RFp1aV92WmVQWk1uOU44Y1RNNzVvaGFJWXlSWVlqR1hhQ3hJbG1XNU9qZXFuVUhFTmFJNWF4eDEwRFdfQkZNZUhNNmo5NHV5SVNJcXN2V09vM3VxSF9ZaUtzQw?oc=5",
+   "source": "Bitcoin News",
+   "type": "news",
+   "published": "2026-11-25T18:30:48+00:00",
+   "first_seen": "2026-11-25T17:00:40.680045+00:00",
+   "topics": [
+    "Japan",
+    "SBI"
    ]
   },
   {
@@ -1332,17 +1898,6 @@
    ]
   },
   {
-   "title": "Stablecoin Redemptions Hit $12B; Crypto Liquidity Shrinks",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXpqODdVWDUwcTBIUjhEM0Juc3RkWWlQQ0RGVzRiMG1QbF9LLWZZeTI1RGVmQ0FiZWNfZXN6Skw5eTZvNmVuaHFOczNCVXFoZ01nSzV4OUFZM1BoeC1mX2ZPbW9BeGNiQ29MRUpESjRiSEt0bnFqQWhCMmtyQXBGLVNIdnRCN0ZOUmVnbE1vMlEwdw?oc=5",
-   "source": "Briefs Finance",
-   "type": "news",
-   "published": "2026-11-25T18:20:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Elon Musk\u2019s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
    "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
    "source": "Decrypt",
@@ -1351,17 +1906,6 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Musk"
-   ]
-  },
-  {
-   "title": "Borderless AI Launches Stablecoin Payments to Revolutionize Global Payroll for International Teams",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYldUUExnLTlkZVhjT1NzenQ0SnZVOUNOMWpEelFUZVBsVWtmSDdsOEpLZ1I3RkhIMVQ3X1gzYWRIUmJFMWYyZFNfODEtWnBSLTh6RmtPMDFPZ3BRSHpzazhHOEZITWR1N1h1S1UyamluSEYzSWpVeXZlVjBWWmNFcFpZSElKczBmNjlkbElsZ0pUaXRSSHBLTUpR?oc=5",
-   "source": "FF News",
-   "type": "news",
-   "published": "2026-11-25T18:11:22+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Stablecoin"
    ]
   },
   {
@@ -1378,18 +1922,6 @@
    ]
   },
   {
-   "title": "HYPE to Join Bitcoin, ETH, XRP in Franklin Templeton\u2019s Crypto ETF",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWHRIdkh5V1pSZ1NRZEx4UVBZZlNtc2FJMWozQ293azgtUmVPUWtvekpJVm15WUZNM0V2N2lxY1dxdVhBaUExa2tJaXBFX3NlekdUc3ZFM094WjZWcU10X3RxMkswam4zcDF5YnhHNWkycmhWSEJlblh5a1doVUN4TDFONTBHU2dKVVpPMjZBbS1oSzR4R1FHNlZ4UmUwSUpwd2g3bkFDcjJQcmgxX3F5a0w3Y2ZwTVV6YzJ1MVE0MGtPZw?oc=5",
-   "source": "Benzinga",
-   "type": "news",
-   "published": "2026-11-25T18:00:43+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "What Could Stall Japan's December Rate Hike? Look Beyond Inflation",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ybWhBLWJHSktFOXJvQndOMmczYnc1NFVfaVAyOVpkX1owLWxhWjU3ay1GTFVJNDhrSDBOTFVpZTZIbFpuRHJkY1Zwb3Nxal9ZWHlCQTR0ZlRBcFRsd0ZXemNpUEdYMGFDOEE?oc=5",
    "source": "BeInCrypto",
@@ -1398,6 +1930,18 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Japan"
+   ]
+  },
+  {
+   "title": "Hong Kong Monetary Authority Launches CMU Digital Asset Platform for Tokenized Debt Securities",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMXhDXzZ3ejk1M2Y2WEt6NXh3S0IyYTJwUG1aNGE3NUFLYUhxTjhjQ2ZrckdGb3FGOXRhZGpRZnNfTmdibGptLVZhR3VvMVNZZkd3YVlrQUlYeF8wT0dQdll0SFNoMW1ta1VveGNMbnFLWVg4U2pGRUJhaXhlVXprUWNMYnpjRk5OenpHMjgyR3R6aVVRY204NEktSnhqT0M2WmJSeVEyV0FxZHBwZXptanhvNm9EdFFvcVlNVkwyWmEycjZqUW9SNFY0RWNUNG9JTzFuV1c2RlN1N1RiSk1pWllBU203SlVoVWc?oc=5",
+   "source": "NewsCord",
+   "type": "news",
+   "published": "2026-11-25T17:43:35+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "RWA",
+    "Authority"
    ]
   },
   {
@@ -1423,17 +1967,6 @@
    ]
   },
   {
-   "title": "Bitcoin price stuck below $60,000 as Galaxy takes back bottom call, crypto bulls lose faith",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWFZhc3NwNFA1RjlYRzdWdFNLaVpNME5RSTktUDh3dkh4MjNjRUJhNUNGOHpRUWVZdlVtQWxyWnRSYUhxYUprMWc5bEM3bTFRMXRQSVUwQWdoT0FKbEs5RC1QT3RDQlRoT2wyaVZkRFV4N2E1Q01CTzVzcWpkbHdCR0p1Nnh5VE10V21sYVFCZWRILWUxa0JxVnZ0VmRjQ0dGbWRyOUZ3TnJrbmw2dW1KT250WEJocFNhcGlZOERpT244QjRXUWJvYWlPVzFGQQ?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-25T17:38:33+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
    "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
    "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -1442,29 +1975,6 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "SEC to Discuss Tokenized US Shares and Innovation Exemption on Dec. 3",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXpSVHNPTGlIYUZUWUtJQjhBTGR6XzdMay1CZ1RqbWswd3l6MFBRaGRDR2NPTV9ZZGRieWt4NDZiMGJPdXRFUHQ2RlVhWXFBcGJHWnZfT0xIZGVxbTM0ZWY3azZtVXVnZXF0bUl5ajVzQ0h0NFBONklIbld1S19yNGF6RDZNQTJHek54MDhGZHFOWGtBVjNoa0t5cFhFeGtTbzNjcnBaZVpyb1k?oc=5",
-   "source": "The Crypto Times",
-   "type": "news",
-   "published": "2026-11-25T17:31:33+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "PitchBook Fintech AI Outlook 2027: Stablecoins and Tokenization Set to Lead On-Chain Evolution",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTW5QWUFUY0VvSlphMmhNRWtTRklxcGlIY2llMmltN1hvMklqSXR1RGpRSVB4akFweUJVcTRQMjduZ19zLU9kdnE0d0pxbFEyS1pIYVlzSFBVY05zUkJSaDYzOGNHOHVTbWwzY1lKbGhGTS1oQXowV0ppQ1FaR3pTbzd0ZHdrV2dab2tzRVJzZGs4QVJlX2hJOQ?oc=5",
-   "source": "FF News",
-   "type": "news",
-   "published": "2026-11-25T17:31:21+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA"
    ]
   },
   {
@@ -1559,18 +2069,6 @@
    ]
   },
   {
-   "title": "Fidelity Crypto Adds AAVE, LINK, UNI, Expanding Asset List to Eight",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vV0FrVFlVcXpLb18yZVl6UjlEem82bHFPTTBheGlnWHFvMHlFUXJXQVk1YlBiYk5ucDVzWGNsUkNNN3pfN25UdkJDTE9GVUVxb19hQ2xCckZzT0I0eHk3cy1ya3NBeDlPLTNNSWpqQUg4SFRwZXdHTE9SZUVjNDA?oc=5",
-   "source": "DailyCoin",
-   "type": "news",
-   "published": "2026-11-25T17:00:00+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "DEFI",
-    "LINK"
-   ]
-  },
-  {
    "title": "Hyperliquid\u2019s HYPE will join bitcoin, ether and more in Franklin Templeton\u2019s crypto ETF",
    "url": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
    "source": "The Block",
@@ -1627,6 +2125,18 @@
    "topics": [
     "DEFI",
     "Authority"
+   ]
+  },
+  {
+   "title": "SBI and SMFG Launch SBI Solana Global in Japan",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVJRU0NGc1o5N2R5MHNMQ2FjSWU2am03c0ZqRTFCMmt2NnhHVmxJS3ducFloaTJ5STV0MVViak9NM09ZeUxOREVCbmtNeEhwTUtLcjJ6bjI1LWhoSXlLM3RZQjYxQ0p0WFl5UEdqWGUxMDREXy1FLXRiWjB2MjRZX0RMN3M0LXhGY1NEc01CdlJ1RmlZRVItOEQ2M2o?oc=5",
+   "source": "IDNFinancials",
+   "type": "news",
+   "published": "2026-11-25T16:20:00+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Japan",
+    "SBI"
    ]
   },
   {
@@ -1690,25 +2200,14 @@
    ]
   },
   {
-   "title": "Arbitrum enables direct private stablecoin deposits through Hinkal",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGJnSmE5dDRzS0lqaXY0QkU4Y3EyUmFTY2tIZ2s2eGdKdGxFdVRCRTZ4end5d2RCNTVaRHJ0WWVaRmx5WDVBb1NickthbzlWTmF3aTBIWmtWamhBMXMxZ1dkc1FJZnExSHJyV3RURDB1aWpHeEFmcmpYSFUzZUEzeEx5bEVHbVZOREp6ZXhCWkQ?oc=5",
-   "source": "Crypto News",
+   "title": "Stablecoin Payroll Gets Its Spend Layer as Deel Launches a Card",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1FzcWpRWFVDN0ZzREZxSUhuUlFHVHRjUm9oTUZDV2NVTWNpVndVZjRNcXNEdHoxREhxek1ELXdBOW1rRmlveGFkdGxjcFdCWTRSMDJEUW43dnhRTlB5cVB0RUFuci1mb1VJWEZaWXMyb1NtRmh3LTYtdnlXOEF1NGNfRzRqOS1INVAtbEVUS3VCT0NHLURkUGk0T2YxYjJTSE9j?oc=5",
+   "source": "FinanceX Magazine",
    "type": "news",
-   "published": "2026-11-25T16:01:02+00:00",
+   "published": "2026-11-25T16:00:20+00:00",
    "first_seen": "2026-11-25T17:00:40.680045+00:00",
    "topics": [
     "Stablecoin"
-   ]
-  },
-  {
-   "title": "Chainlink LINK (LINK-USD) Live Price, News, Chart and Price History",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zSHJaalhVYnJPWFFua3pYTUFZbHlrMGpCOVdpQ2xuMDZHc2UxbnB1bTJqLVBhM0FtbUFLNU9JaG0xdmU1SUFTb1ozTXQtTmtadGtreUNXRQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "type": "news",
-   "published": "2026-11-25T16:00:26+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "LINK"
    ]
   },
   {
@@ -1746,17 +2245,6 @@
    ]
   },
   {
-   "title": "US officials find no Chinese LINK to Nvidia CEO\u2019s reported affair: WSJ",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFlicHVyZGpRdEFXQTlIUS1sc25zYWdnS2lRVGpOT3RLN1Y4Y2RHclN5UmMzeWNkRU93UjRwOWpreXF4SUozcTVycWVJeDZyVFh6LTE0dXhMRUVNSFBrRTBCekwyV2daTEt2ZjB6S3ZvMHVTaFp4NktJTkJ5MXlFV3FBN3dlR0ZQYXFYa0xkakZ0c0VQSmJlX2w1ZE8?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-25T15:59:22+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "LINK"
-   ]
-  },
-  {
    "title": "SBI Holdings, SMFG and Solana Foundation Launch SBI Solana Global Venture to Accelerate Blockchain Adoption",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcm9BWFQyTVcza0ZhNzBsZmxhSy1YQjd6OXJyTEJJYlprZi1DMHhkbWpnZlRtNWRIMjNqLWZMY25FMHdSMVZ5ZWhNcER0YXZlWDA1VWJrVVNRUmlpWUp0eFlsRGdHUnYxMzZnX0l3bTZGV3hUOHFkbnFuMFZ2X2NBVDZpU3FMRlBleWlKYWh1c2YtS0xTeTJ5bi0wY0JabDQ2X0hKSl85cTcyZ05PODExWk5jSlVFbGxRcGRUVE1xY2ZudW1QOXlvOFV0dw?oc=5",
    "source": "Tekedia",
@@ -1765,6 +2253,17 @@
    "first_seen": "2026-11-26T07:01:17.786557+00:00",
    "topics": [
     "SBI"
+   ]
+  },
+  {
+   "title": "Switzerland to exchange crypto asset information with 57 jurisdictions from 2028",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YSjFCci15WjNxSWhpUmVQZXVOR1pJRy1CYi11b2U2aS1tcHN4dEw3UjY2U2xmSmxXbksyNnRPc1duTk1Kc25nRGxzaEo2MFIyMWpIQlVsZ3RBV3BmR2RwcWFXektXT2djNUhJWE1sNG1wME14SnVaM2JsNTZrQQ?oc=5",
+   "source": "Crypto Briefing",
+   "type": "news",
+   "published": "2026-11-25T15:50:39+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
    ]
   },
   {
@@ -1779,26 +2278,14 @@
    ]
   },
   {
-   "title": "Elon Musk takes a victory lap with Jensen Huang at Nvidia HQ",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjB6NHJ5NVpxMUNyXzRfejkwQUtpRjdTUEJlNXlXeTBlYjM4aFVuS3l2YXJwT3AwdGx3Q3dYSWprY19RaHZTVkRqOG1OQzltd1B2ZWFQYk50VHNYcnVtVXpiR09XZV9MTTViT2tJREVEcnU1NU9UT3FtcTFQNEt4YkJR?oc=5",
-   "source": "Yahoo Finance UK",
+   "title": "UK Stablecoin Rules: What Changes on December 10, 2026",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2F0X1RDV3VXUjlWRmdTeTA2RzNyMlBHRV8ySnhIWGFxYXhSQXlMelVLODJWRHRSYmk5SDN1b1BXc0pUVG9NMWhJcWQ5WW13a0pQa0R2SjlWQ3lDMFdOOGlXN3pRS3U5dm5hZi1rbll1SGdOanZURmVVZVJhck9QZWV1QQ?oc=5",
+   "source": "OneSafe",
    "type": "news",
-   "published": "2026-11-25T15:38:45+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "published": "2026-11-25T15:49:26+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
    "topics": [
-    "Musk"
-   ]
-  },
-  {
-   "title": "Finery Markets and LINK bring global stablecoin liquidity to 20+ markets across Africa and Latin America",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQnQ1OHl0am1XWFhNSVU5VEllRGNfc1M0LWlZNTE4bXhidGh0X3FQeUlQNkRsanhubkhrc0gyb3BfbVQ0T3lVQlNYcHd5TUNPZjh3czdaS0lTT2tHaE1Tb041dGZHV2lDLTk1bTlHYXVhSmpKaDRBNXlVNjl3SnlOMkFkRWZKTGhJQklIWDFPTDR2N3cxRW4zYW5VTG9iNXpvLWJZSlhjR2JDX3dwREhhZXJNZ1EtRDFpU0ZYdVdOS2JhbHBxTVJnaEZ0a0NkRWRKRW44NXZWUFVUejdFWmpWZThhRGxQNDEwMGp3bVVnOA?oc=5",
-   "source": "Crypto Reporter",
-   "type": "news",
-   "published": "2026-11-25T15:37:29+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Stablecoin",
-    "LINK"
+    "Stablecoin"
    ]
   },
   {
@@ -1810,18 +2297,6 @@
    "first_seen": "2026-11-25T17:00:40.680045+00:00",
    "topics": [
     "Bitcoin"
-   ]
-  },
-  {
-   "title": "Neuberger Berman\u2019s Tokenized High-Income Fund Goes Live as Collateral on Aave Horizon, Bringing Junk Credit to Institutional DeFi Lending",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbGtQOTNRYTNXN0FQVVpXWng2Ti1rS3p3OHVINFBGMEVvT3pGQno1RTB5NWxKSzd1UzFzMEFUUmpkYkV3dGI0MUJlQ2JCWmQ2SXBqcWlhdzRoY0xscFFBYlBOV0U1WVJWNUtKWDQ4VTVxLTlJNm5nYk1DcTJCRy1acUJRcjM3bEhIQktmZzk2UWN2OW5paXktaV9RVlFKaG02S0JLdzBqSWMwQk5pZWFTREItbTNNdkdWbENTaVE3RU5RNEJBaVoxRzhXTjk2RFRKMG1mcjBOanJCcmNqem95YUZRSkk0VFdwMjBsRU1NWGtVcHNfT0lETW9BdTlGRk1hSUZV?oc=5",
-   "source": "HedgeCo.Net",
-   "type": "news",
-   "published": "2026-11-25T15:13:12+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "RWA",
-    "DEFI"
    ]
   },
   {
@@ -1872,73 +2347,6 @@
    ]
   },
   {
-   "title": "Bit Digital Sells Ethereum To Lower Debt By 50%",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFhHeEFVeW1CQ3hDaEsxTHkwSkZkRGp6b0ZOclRHVi1hX25GYUp5MnNGRXFObF85dk1tLWNmVDlhemdYenNRX2ZUT2dNMUI1T2lLNVdLZzRSOXJmeml5NTRycV9tWUFCNDBFMjRHajZhWjVnQ0MwZVE5aGhLQWRNa2Z5T3lYc24wLUVjam1JYzZ4MmZ6T3g2cFFZS2FTZw?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-25T14:43:00+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Ethereum"
-   ]
-  },
-  {
-   "title": "Fidelity Adds LINK, AAVE and UNI, Expanding Its Crypto Menu to Eight Assets",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiNkk3Qi1wSW9fVXpjMmxVWlV4Z2NRTkwxYS1KenA3dkpzdDN1d3lyYU42bXRGMTIxV3Z1bkNQSTFjTjdLOUlKV0Y2ckFsY0txd3luMFI5M2NFVHJGRE5oMnJwTFNBUTNQX1lxM05wY0ZfQ1k?oc=5",
-   "source": "FinanceFeeds",
-   "type": "news",
-   "published": "2026-11-25T14:42:44+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "DEFI",
-    "LINK"
-   ]
-  },
-  {
-   "title": "Tether Charges 20% Fee To Return Stablecoin To Victims Of Hacks",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1JRWlhtSWxuSXVVd2paSGJwMGg5TGVpVE1RM0ZtcmZMNVRmazhhLWVDUDRnbVlid0VQSWlRUGgyRUlvVTFlME9PbVhJejY4QWd6SklqTmZLakdXbm4wVXNVb2V6aHVpOWc4UllURlg4NnJaYWNndF9mcTFjakotR0FGZFN2QmVVNHVmUDl2SHFCckotTlE3WQ?oc=5",
-   "source": "Yahoo Finance",
-   "type": "news",
-   "published": "2026-11-25T14:42:00+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Ripple Partners With Turkey\u2019s Yap\u0131 Kredi to Expand Crypto Custody Services",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEE0dHhBekdOd0QzeW1Ubm9Na25TRlJDYVhXRDhGRUdDU0FFcU53Q251YnJodGREeENyT085UzFOZE84dHBkVERKYmxWUjhqZ2luQ2N5NlViRHkxdGZ4ZFZKSWJYRC1PYkVCWGpOMTU0UE5hMEk0eWNZU1E2eDJYMk4xX05SQ0F3UjUtTE90QkNfVjBpV09EU3kwTkt3cGZxWF9DZG5vRFhMa0U?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-25T14:38:37+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Turkey"
-   ]
-  },
-  {
-   "title": "Seychelles warning on Margex: The company has been dissolved, its advertisements continue in Turkey",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTm10MGlqYnZKeVRBODlQbThuaG5LSzN6RFBQN0l0RHI5SHR0a0RSeFlTLUgyN3FZOEpPdnh1N0Juc1J0MFkxSFVsSXNVTUdKTmpEUEhUMnJLZGhyelByMkNlSExWcHBHUlhfYlVYOUNtbllXdC1EYUZHTUtlRGNQU3VpWFZBOW5hbHc?oc=5",
-   "source": "Haberler.com",
-   "type": "news",
-   "published": "2026-11-25T14:25:29+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Turkey"
-   ]
-  },
-  {
-   "title": "Are Stablecoins a Threat to Visa and Mastercard?",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVhPS0Q1a0QyaEMzNk5YMVlxWENxcF9tTmJEbjdXQ3JrY1hjdVBTb2M1R2s2RzhETVVFUHF6WlE1TVJjZ0trdlgyRlNXaTZSN1V1UlJITUFsei1PUEhvWGdod2thcFQwbG43ODNaT2pfSEVhV0x5VXMwSFFTaUlPTzZ6eWJIeEFRTW5hNkNYNVkycWV1?oc=5",
-   "source": "The Motley Fool",
-   "type": "news",
-   "published": "2026-11-25T14:21:02+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
    "title": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
    "url": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
    "source": "The Block",
@@ -1951,11 +2359,11 @@
   },
   {
    "title": "Finery Markets Adds 20+ African and Latin American Currencies for Stablecoin Trading",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSk93alliNmQzc1Q0VUVTbk1iVkI4d0VadnQxMWEzWXBPcWFSaUc1SXpaMWQ5YkhRcmNUb1Q0NDB4OFR0cHVEMU95RGJjY2ZQLW8wYlRybk1JYjR3bUxaTmFDWXgxbXJlcmdvUVlvYTd2RTA5cklNM3JTTm9zRFk5bUcxR1NCd0xRdWJjMmNkNHZPdUdfX1ctN3NaRWdBOWg2NDFQc1hBUDhjcDNWNkxucHpGaGlsazZDbU1UdF9TeHA3WllKcDd5M3pNaWZKaUJURVdKSWJmMlh3d1RtWWJhU2dKTQ?oc=5",
-   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZTNlaDBSS2pCVWdiQkdRZ2FVNzUyakRucHhzeWd5bWVzek1aODUxZHNRNmVJN1BEd3N3UElzZ0w5T1o4ekpBbkZneGtBTVBZWS1nTFZHZVl1dVRNYTZySWRUUm93R3FGOHlTRFBUdUdWTlY3WjVSS2RmS1BQMG1KMjZlSGhzLTlSXzlIbmt6NE9aRU92VGlaaTlzQmkwa3k2VmMzSUJ2Z2NvRnd6bHJXT2w2S3cwY2hOQ0V2c3RVQlVvRS1MV2hjcUpNdw?oc=5",
+   "source": "Finance Magnates",
    "type": "news",
    "published": "2026-11-25T14:05:08+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
+   "first_seen": "2026-11-25T17:00:40.680045+00:00",
    "topics": [
     "Stablecoin"
    ]
@@ -1970,28 +2378,6 @@
    "topics": [
     "RWA",
     "DEFI"
-   ]
-  },
-  {
-   "title": "Deel Launches Stablecoin Card for Global Contractor Payments",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkNZejlzaC03Unh0N1F5SkJlMlF2RmZpOFFhY1ZQZ0FPUXZ0QU4tNFA5c3lqYklEMFhnaks0RnByZGNmb2NMajJtQWNRZUxwRDF4SG9fMnZUOGRNRGdvNDBsV1JxZkFxMVJjSkxJZUdhNGZFTUd4aWZ4Mmp2ZlhnLWRhcEozSERwQm9KbW5Kai1pSWhOZVprRQ?oc=5",
-   "source": "FinTech Magazine",
-   "type": "news",
-   "published": "2026-11-25T13:42:58+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Turkey\u2019s top private bank selects Ripple as custody partner",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EdW8wcjVidXg5VWVaakxiX2RXQ19vWldFQlZheFBvanZKdVFrWl9NMzVkWGpVOUpwZ2JaNm1JOS12M1R1a1RROU9CYzBqbnFBS2ZHX2FGVQ?oc=5",
-   "source": "Cryptonews.net",
-   "type": "news",
-   "published": "2026-11-25T13:42:46+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Turkey"
    ]
   },
   {
@@ -2019,6 +2405,19 @@
    ]
   },
   {
+   "title": "Bitcoin, Ethereum, DeFi, Stocks. All in One Place",
+   "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFAwUWQ4VXhya2VKRjJRQ1RDcXBaOERyM1BGU2xqcE01ZGFwb3ZnY3UtcHBBSkdDUlR5WmdjbXlB?oc=5",
+   "source": "Paribu",
+   "type": "news",
+   "published": "2026-11-25T13:34:47+00:00",
+   "first_seen": "2026-11-19T12:00:05.570111+00:00",
+   "topics": [
+    "Ethereum",
+    "Bitcoin",
+    "DEFI"
+   ]
+  },
+  {
    "title": "European Banking Authority Calls Stablecoins the Key Pillar of DeFi",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3FwdE81RmZidHZCYzB3X0dQdmx5SnhXMHBiVFo5MkIwRnk4OVBvVEF0Ul9qUWJXaUhhVU1wTHpfZFNyczBXd0NocFhGMm5yMDM2a25Hd2toMTNuaGdUalczX3RfUnBRbVZKaTNQX3kwRElvbzBHN3RITWV4dTMxUnlYMDJ0dGNWb3EtbURhZkFGM0U?oc=5",
    "source": "CoinGape",
@@ -2029,6 +2428,28 @@
     "Stablecoin",
     "DEFI",
     "Authority"
+   ]
+  },
+  {
+   "title": "SBI, SMFG, and Solana Foundation launch SBI Sol...",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUlpyYUdWa1I3RG5OOUtmOEMzYWFRUlk3QmFRS01FenRMZDYzRmFhb2FXeWE0TURrRjR2Qzc3dXQyVE5jb1BERlU3NlBjSjBzaVFya2l3cjVsMTdyaHdRemlWTTJPNGt5MEJUMDBmR0VIT1dQbGRIRG8yTU1kcnE5NnpwSkttcm8yQ3luS1JhRTEtVGU2Wk9iWlFKNDdOX2s?oc=5",
+   "source": "Pluang",
+   "type": "news",
+   "published": "2026-11-25T13:27:21+00:00",
+   "first_seen": "2026-11-25T17:00:40.680045+00:00",
+   "topics": [
+    "SBI"
+   ]
+  },
+  {
+   "title": "Switzerland approves 57 jurisdictions for crypto tax data sharing starting in 2028",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EeU9nWjVOMTdwTnZzSDVMTi0wTVJzaFh1M2ZBQXhpSmw5dlBYN0JOQi1GTk9zdnZ2RFdsdzI0M1daREJUaV9Fa3lOVFBZR2NzTU9XdDJn?oc=5",
+   "source": "Cryptonews.net",
+   "type": "news",
+   "published": "2026-11-25T13:27:07+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "Switzerland"
    ]
   },
   {
@@ -2066,14 +2487,27 @@
    ]
   },
   {
-   "title": "Bitcoin\u2019s Recovery Remains Elusive",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTVfN21fZVRTbElXMXRqc25nRFppb2Q2NmJQOTBZOGd3N3ExUVVqVDEwOUxiVDFiRmVQZzFfdlVIT0tEb2JSMXk2R01lM2pQOFZ0SGtnOFdIRHZGMDRlM2NDUFF1dXdrbzBHUko1dm51ZS12VTZxUWVzY1ZXSG13Ng?oc=5",
-   "source": "Bitfinex",
+   "title": "CryptoUK Submits Response to FCA on DeFi Guidance, Key",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDNnMkl4U01weDJlZ1h2dGxBVlJpanR3UFdnNXJXT3NpQ0REQmxDd29wUHlPR2hxUldBNFJYY3BSdnFWTTVLN2R4RURNM25GUjhraUdJekR4d2owbHZTTzdQTEg5azJoNGMtTlF5VDRaYk5qVm1KaGpGNkVOcWFuMnFRZ1k?oc=5",
+   "source": "Coinfomania",
    "type": "news",
-   "published": "2026-11-25T13:00:48+00:00",
+   "published": "2026-11-25T12:47:12+00:00",
+   "first_seen": "2026-11-26T12:00:05.651635+00:00",
+   "topics": [
+    "DEFI",
+    "FCA"
+   ]
+  },
+  {
+   "title": "Solana: SBI Solana Global goes live in Japan - 25 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1o1Y2ZiSGFfdzluVWhnNWdyVlFQbnNMdTdPaXFuSjJUdlVpRFMxdlEta1UwWTFLOU1CMk1oSmh4cl9FYjB4SzdUU1FHSklvQlZBU2ZZMVF0OWFTWFowbWNQNDZmMkQwaW5GSTNBQjdIVHVZUjZ5aGlOVG9CV216NWRPQWJfN3kyVXBURnJTUjVtUEcwNnpxQkEtWk5Rd0ZjOFV5ZHlLREJPd01jMnpQQ291RG5yXzREMEFJ?oc=5",
+   "source": "TradingView",
+   "type": "news",
+   "published": "2026-11-25T12:39:35+00:00",
    "first_seen": "2026-11-25T17:00:40.680045+00:00",
    "topics": [
-    "Bitcoin"
+    "Japan",
+    "SBI"
    ]
   },
   {
@@ -2088,6 +2522,17 @@
    ]
   },
   {
+   "title": "SBI, SMFG Launch Solana Venture for Onchain Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVZkV2ZUODFOX1NjUklhd2RvelpvUGFNQXZUZk5kQmNjNDJ5OGcxd013S0h3MEc0czlENXd2Smp1T21LZ0x3bmJ4X3VzaXd5ejNGVGJpS2J3b2ptSkNLWDNwanZCdVF3akNkeGEwYUlUX0M5ajhSZjlySENrRlZNTXBCLUk1bXVIUnRFa3pCaHlvM0RmWFZTVU9NNjdxNVRlZUE?oc=5",
+   "source": "The Defiant",
+   "type": "news",
+   "published": "2026-11-25T12:20:41+00:00",
+   "first_seen": "2026-11-25T17:00:40.680045+00:00",
+   "topics": [
+    "SBI"
+   ]
+  },
+  {
    "title": "\u2018Don\u2019t mess with X,\u2019 Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
    "url": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
    "source": "The Block",
@@ -2098,478 +2543,12 @@
     "Bitcoin",
     "Musk"
    ]
-  },
-  {
-   "title": "XRP News: Turkey\u2019s Yapi Kredi Adopts Ripple Custody to Power Digital Asset Services",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOME9oOUVKQl9sSWZZTGhzQ2c1U0FfbEVKZ196OENuS1VYSGJ5eHo0NURqY3B0MEFqR1M3WUF0dVpkVUJoT0FRNGlRMmJNdFRnR3NCUDNiVzdnQXgydHViUEZZS0dfZ0UtTHBBQi1nVzZUeTFYRVc2R1dEdWxsMXpBVWhZNnZRdFJMV0k2VHFMUUJZRU9mamJhY0ZNMXZHSEJ6MGh6SWJXSGg2anV5S1RCalotdVJucTDSAbwBQVVfeXFMTXRybmRxYXZqUndiSU5ZQUR6WEl0Z1BkdzVJSk42N1BVV3FzNzZEamNQMm5iMVI0dW1qX3VfQkJNYkZvbE1ZMElOSW83RDU3R05mV0tSWGVidjFSNTJjdGZwQy0xdkVFZGdyY3ZfNlRqdlZIXzE2N2lvYmpCdVpqeEpVRUhISTBXWHB0ZmZpMDItN3duTWFhUDhmSmpaN0JnNmFybGgtc0FiN2pORVFBdUNHUDdFbE5qbGNIdnk?oc=5",
-   "source": "The Coin Republic",
-   "type": "news",
-   "published": "2026-11-25T12:08:22+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Turkey"
-   ]
-  },
-  {
-   "title": "Solana: SBI Solana Global goes live in Japan - 25 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1o1Y2ZiSGFfdzluVWhnNWdyVlFQbnNMdTdPaXFuSjJUdlVpRFMxdlEta1UwWTFLOU1CMk1oSmh4cl9FYjB4SzdUU1FHSklvQlZBU2ZZMVF0OWFTWFowbWNQNDZmMkQwaW5GSTNBQjdIVHVZUjZ5aGlOVG9CV216NWRPQWJfN3kyVXBURnJTUjVtUEcwNnpxQkEtWk5Rd0ZjOFV5ZHlLREJPd01jMnpQQ291RG5yXzREMEFJ?oc=5",
-   "source": "TradingView",
-   "type": "news",
-   "published": "2026-11-25T12:00:08+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Japan",
-    "SBI"
-   ]
-  },
-  {
-   "title": "SBI Solana Global Launches to Advance Japan\u2019s On-Chain Finance",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3Y5Y2NRZDFPeXZ3ME91U04zSy1NbU1YQ3A2VC1aU0FxNHVPWHdSSzNDV0E3c09la3VQdkpHZ3Y4M1habURtNmFaWHpJWGM0T0NQc3FQNV9TcHBKS3hoeFFuYkhTOTVXMHBnZDh2RHRJQXVvS1F1dFlUWGdtaWJMU3A3QXUtTXlSc2Z3?oc=5",
-   "source": "CoinGape",
-   "type": "news",
-   "published": "2026-11-25T11:58:31+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Japan",
-    "SBI"
-   ]
-  },
-  {
-   "title": "Uniswap UNI7083 (UNI7083-USD) Live Price, News, Chart & Price History",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Pd0l0TENlVXdCTElVMU13aGsyVnkwYjFkb2hyZnpJU0EwX0F2bDRTeW9Zamw3dkUwaGs1N25FLVlxQ3dwZVk1LURYbVBsc3BPVmpqa2VZaTBDZm8?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "type": "news",
-   "published": "2026-11-25T11:57:58+00:00",
-   "first_seen": "2026-11-25T07:00:04.272130+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-   "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-25T11:57:50+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin",
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Bitcoin holds up better than ether as stocks slide, ETF outflows hit sixth day",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFhzaDdWajNwYTlhWGl6LVlQazYyckdleTJWYU5KNW9XdmdHTkJWODhNM1FtUlFGMmU3eUtMZmprRS0yTlR1U3hmbFFLdUd1TEoybXBnSUhHeVhNRDI4Q2VtTUlFYkFXcTh1UzdiZjNXZFNZRnNOZVFObVM1TWFFVVNQbktpRmdzVzQ0YzBSVFA3XzNuQXJGQktWLWFyWHdXZTh5cjJNR0FBc3I0RndWeWpB?oc=5",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-25T11:57:50+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Ethereum",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "European Banking Authority Says Stablecoins Play Key Role in DeFi Ecosystem",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtUXNVbE5IdTRGYnp3QjVtVk5tdWhWRy10QnBYZXVxZlZhWVRQek1vUEVBVXBIUGJVUHJVdG0zYzAtUzVaLWc5ajYzRUVzTzdZbUpkQQ?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-11-25T11:56:22+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Stablecoin",
-    "DEFI",
-    "Authority"
-   ]
-  },
-  {
-   "title": "Italy\u2019s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
-   "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-25T11:51:54+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Japan\u2019s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-   "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-25T11:49:54+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "Japan",
-    "SBI"
-   ]
-  },
-  {
-   "title": "Crypto Weekly: bitcoin's difficult week, South Korea's stablecoin shift",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rcnNMbzBGbXhoUWo3SW8yc3FQekxOeUc2U250SVRHZld6OGdmaGVaQlk0bDQ0UmpnTmJuWGp4OS1ka0ttcW9wN0lQOHRndHZidjRBV3VndXMyNFR0YW1LX3B4ODF3TGs?oc=5",
-   "source": "Reuters",
-   "type": "news",
-   "published": "2026-11-25T11:34:47+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Stablecoin",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
-   "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-25T11:31:10+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
-   "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-25T11:30:32+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
-   "url": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
-   "source": "Decrypt",
-   "type": "news",
-   "published": "2026-11-25T11:23:57+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-25T11:12:26+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "South Korea proposes new stablecoin rules for local bank issuance",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYXpyNU44ejNJaFVmOXF6cDhhWk9BdmxmNmJmUDN1cnNBa1lHNVM5cHc3Q3FsWjFaV2Y3Q3d3eXJNWTJQLXZHM2ppamR1MHNXV00tNW1VcUZoYVNCckVnaXdpWGtEMW00bEstbE5BZU11UGMweDFPUU4xWFF6UTBFdXhLRk94b3VzSXRyLWN5TXBySV82ODFGLXZXSkpaYXNGaVB3OXpOYUZsaEJs?oc=5",
-   "source": "Finextra Research",
-   "type": "news",
-   "published": "2026-11-25T11:10:00+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Bitcoin price may fall below $53K if bear-market history repeats",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-25T11:09:38+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "MetaMask Card launches in Japan, Thailand, and Vietnam",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXbmUyVnlDNjhCVjJucGw4c0drRUVCYURXelFwdXZOTkxPOXlYMU1ObXlHeFgyempfblc5LXNvdlQ5bHVxSlNJOTFjV0l2TXVxRkhRTEhWUHd5MVJtV0pvb21pbTI1ZXFSd1pmS0RHNVJJRG83NW5sMWdfOWFYQQ?oc=5",
-   "source": "Crypto Briefing",
-   "type": "news",
-   "published": "2026-11-25T11:05:32+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Japan"
-   ]
-  },
-  {
-   "title": "Binance Lists Tokenized Version of BlackRock\u2019s Bitcoin ETF Among Five New bStocks",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHl0NnZucGVHWkJzX0FLZjBpdmpPbS1BdC0zZS0tTXR2OXZVV3R5RF80TzN1dkVyMFRIa1ZCMWRTQzFFZlI0X05lTUcxSTMtY1FfbHF3MzdzcUxsNjhqT2hWME9WVWFKV3FyZzd3eC13QnFCQ2lpMXFpSGJ3NkxsQndmNzRXRlVhTHhMSy1jaWl0M1R2RngwNGx4a1hUaG5lUnNIX2hPbHc2bWl4SHBVVFR2SFljSzRocDBB?oc=5",
-   "source": "The Crypto Times",
-   "type": "news",
-   "published": "2026-11-25T10:57:06+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "RWA",
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "TURKEY'S YAPI KREDI, ONE OF THE COUNTRY'S LARGEST PRIVA",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjNHhtYXBMLTRXTWRCZEwzYjlsZW0tTGZ2dEppN2R5STJOWmp5Y0c0Tjg4dFBjLUdqMUVMMWtJZ0xIY2hpM0RvWmlVQ2ZISWRGcVVNdzlXLVRqSVE4UURjbXlzTFVhQWR3MGZ1Z0JvblI?oc=5",
-   "source": "KuCoin",
-   "type": "news",
-   "published": "2026-11-25T10:46:04+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Turkey"
-   ]
-  },
-  {
-   "title": "Hong Kong Monetary Authority launches a platform for tokenized debt securities",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVptVG5oREJWRXB2UUplMDNGaUxZVEF5TnMydUxhYVlQcE9fZlppcEVwLXJ1TWlxeDRJMGZpLXQ0VlBMQW9WbTdrVmh0ZDNVOTFiLTR1R01ORnVhWUNHSXBWdW54VHEyemRzRVUxRGRwS1dlMjZJTnBJbjVZMER1U3Rfb25KaUl6MjFQUDRhTkVib3dRajBWLXdSVWl3Yi1i?oc=5",
-   "source": "MLQ.ai",
-   "type": "news",
-   "published": "2026-11-25T10:42:52+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "RWA",
-    "Authority"
-   ]
-  },
-  {
-   "title": "SBI, SMFG and Solana Launch Joint Venture for Japan\u2019s On-Chain Market",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHZYdXBsOEhUcWxzYnZtLWRsU3ZwY2E4Q2J5cmhjZUk2WUtDZERGZGdEZjN0R3RsYmNURVhxc21yQmc5Qm9LVXJDeUlLLWZjSlFuY2VqVm51SFdscWhQbXZuQnhDVmNYRjVKRXpMNHhpM2Q3WlFmSEhqS21zNWpDT2JPdEVnZGw0?oc=5",
-   "source": "The Crypto Times",
-   "type": "news",
-   "published": "2026-11-25T10:41:09+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Japan",
-    "SBI"
-   ]
-  },
-  {
-   "title": "Japan\u2019s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
-   "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-25T10:23:10+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "Japan",
-    "SBI"
-   ]
-  },
-  {
-   "title": "SBI, SMFG Launch Solana Venture for Onchain Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVZkV2ZUODFOX1NjUklhd2RvelpvUGFNQXZUZk5kQmNjNDJ5OGcxd013S0h3MEc0czlENXd2Smp1T21LZ0x3bmJ4X3VzaXd5ejNGVGJpS2J3b2ptSkNLWDNwanZCdVF3akNkeGEwYUlUX0M5ajhSZjlySENrRlZNTXBCLUk1bXVIUnRFa3pCaHlvM0RmWFZTVU9NNjdxNVRlZUE?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-25T10:20:41+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "SBI"
-   ]
-  },
-  {
-   "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
-   "url": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
-   "source": "The Block",
-   "type": "news",
-   "published": "2026-11-25T10:05:40+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "RWA",
-    "Authority"
-   ]
-  },
-  {
-   "title": "SBI, SMFG and Solana Foundation Launch $2.3 Trillion Onchain Finance Venture in Japan",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TYnRRU2U0M1JhQkgxWEJOZnRPbVBEdFlVd2F3ZENoVFpLTVAwZWFTMFQtZkRKa0VYTmdQUE1RVU5HUk9HTVp5QzZhV2QzemJzdDFTSzB0WXRfR00wSm5DcjBGeE1Gd2k4cFE5dGJiNjRzeWdkTEE?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-25T09:56:00+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Japan",
-    "SBI"
-   ]
-  },
-  {
-   "title": "HKMA Launches CMU Platform for Tokenized Bond Settlement",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTZITF9hQW14bTQ4ZF93WXAwVnczcVQtUWI4V3BudHcyaUxRVzR6enhMY2UtNEp4dnNBM0xfV3UtSk51Q19IRWtoWkRyb2pTT0ZCRkNCQkNzUWZZMktLR0FvZTdmdGlrT3N6UE5jSjFXRkticDBmUkdDMXNnT1RIMGVKRGgwLUlSUzBQbnVtRkhuZFdxdGt5TXV2VlotQXNBRm9naEJpTzdjdw?oc=5",
-   "source": "The Defiant",
-   "type": "news",
-   "published": "2026-11-25T09:55:41+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
-   "url": "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "type": "news",
-   "published": "2026-11-25T09:52:22+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "Japan\u2019s SBI and SMFG launch Solana-based financial venture backed by firms with $2.3T in assets",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55cncwcEg5bE96dWxpd2VyaE5FXzdQc1dGazVBZ3M4TVhUMmJQWGl6aF9JZF9WUTN2MEc2My1oWjR3UGRyUVRZZ09zMkhVRWVpUjFNdDJIaXhOZlYybFpFd0tNdUxSaHhOSDZGLXk2RjR4dTFQOHc?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-25T09:28:34+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "Japan",
-    "SBI"
-   ]
-  },
-  {
-   "title": "Turkey\u2019s Yap\u0131 Kredi to Use Ripple Custody for Its Crypto Platform",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcW5TVnpKWFBOT1VhWW0zYnh3czgtckdtek96bFBWdnl3dE8zSEk0VXgweDBTYlg4cWlKaUp4YVF5UnN1cF9uUmlWMHA0bFpJRUlVcU5HVWV2QWJBSGFlN0hXN1BtS2M0V0tuZGJ6ZF9xbHlCN0hjb3RSZXRKVm1JREpiYWZLM3A4elR0M1ZfRU8yVlVYNzFLVGplVnlPbVk1TWFBVm5R?oc=5",
-   "source": "The Crypto Times",
-   "type": "news",
-   "published": "2026-11-25T09:08:30+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Turkey"
-   ]
-  },
-  {
-   "title": "\ud83d\udd25 CHAINLINK (LINK): IS A BIG RECOVERY COMING?",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ORE1hemkxOWEzdXRXQktzX0ZVT2pJZ2gtZGx1UmRxYUF0eko1cmZpZDJqUFhMUWhackIyWHdVMldiNDIxWE5uOGZZdDFoU2FXenZPSHFKUFhnQ3V3SllfekFlQm4?oc=5",
-   "source": "Binance",
-   "type": "news",
-   "published": "2026-11-25T09:02:41+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "LINK"
-   ]
-  },
-  {
-   "title": "Hong Kong launches blockchain-based digital asset platform for tokenized bond settlement",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwdTAtRktWMnhRVW03aEhnbjExcUNqU2NRd3ZINk94NXozNHJObThsX0VpWkhOYmtDSjdjNFZwWXJYcUg2MXpvZFE0MU5PbmQ0T2RVLXY1VnpJQUZxT2QwZk5NT1FyMnhJeWFQV2xsLWszel9VVWFjNG9jcVFzZw?oc=5",
-   "source": "Crypto News",
-   "type": "news",
-   "published": "2026-11-25T08:56:19+00:00",
-   "first_seen": "2026-11-25T17:00:40.680045+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Hong Kong Monetary Authority Launches CMU Digital Asset Platform to Support Bond Tokenization",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kT2M2WE16TEhkek1BWHJTRjdWV1BfTTZPc0sycVphaVFZX3Zna19xM1EzOWlTMG5JX2QyWmVWUlJCY0doM3RMR0RPTHdmX2ROODVHVQ?oc=5",
-   "source": "bloomingbit",
-   "type": "news",
-   "published": "2026-11-25T08:55:33+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "RWA",
-    "Authority"
-   ]
-  },
-  {
-   "title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
-   "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
-   "source": "CoinDesk",
-   "type": "news",
-   "published": "2026-11-25T08:35:47+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Bitcoin"
-   ]
-  },
-  {
-   "title": "HOPPA launches stablecoin exchange in Europe",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUYzWVVnUDJSLVo0QmpIZTZ2c3Q5MnpSY0xsVjdfdUd1SjkteWJSMnl3cHg1TUtxYlExWnhwRXQyVnNJZndkdVpCYXdwblRYcjExZy1FNGlDUVhwWGMydGhoZGxLS1Zld3VfVHlSUUNMOXRGSXNvQ1YzY3ZVRkMxNWtGNVB5aW1sMUFTYkYtSVdWVDJ0SGppc2lCaVZyQnlsMVBHMUZ3?oc=5",
-   "source": "The Paypers",
-   "type": "news",
-   "published": "2026-11-25T08:33:34+00:00",
-   "first_seen": "2026-11-26T07:01:17.786557+00:00",
-   "topics": [
-    "Stablecoin"
-   ]
-  },
-  {
-   "title": "RWA Tokenisation Legal Guide: Licensing and Custody 2026",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQlUzMGVHNU1LT0tDRFJFVHpJZzlNcWZRaDJBaVMtVlU4dzlJT1R5U0VYdWhMc0hLNGw2S1IzR3VyaVdQTlhrNW1QUGVUeEpndTdibWNUUUhMRk9nLUtkdXZFVTljcV9tQVgzbmxLRnczVHVyZm5hZExWNlMxZms?oc=5",
-   "source": "Global Advisory Experts",
-   "type": "news",
-   "published": "2026-11-25T08:14:45+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "RWA"
-   ]
-  },
-  {
-   "title": "Chainlink (LINK) Drops 3.8% Amid Broad Crypto Deleveraging",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OY1ZxemltZEYxaTlXazVOMFZMX3AyLTIwXzBCWmJ2SXF5RnlLYllKaTdYaDI5WGpYRVdseWFkcDVaY3dRaExTQ0pFMHZZMzhYSnhZMW5xUDdqazU1bVByekZobXdZbU5EbUM4SWFZNVI?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-25T08:06:00+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "LINK"
-   ]
-  },
-  {
-   "title": "Pump and Uniswap Account for 84% of 2026 DEX Token Listings",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHZKcjM2X3ZwUEdVU25LZmw1WlFFOG0yRWZzbEpWUWRUMGNSNGhROUxFYVJhY2R3V3Nqc21xX1BLS0gwYVVPSDgwZzRMNFVjYi10ajdOVlJPZlNmaTNlY3hkWXRtSF9KMThWRjBsR050c2x0ZnpKdGlzZF9QSV9OOUxBQkMtM1J4LVBDbFJnX3RVRVdGUEFjWm0wWnFQd1MwTWE5Nm1kQzNmZnJ1SWxnYQ?oc=5",
-   "source": "Bitcoin Foundation",
-   "type": "news",
-   "published": "2026-11-25T08:02:53+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "DEFI"
-   ]
-  },
-  {
-   "title": "Fidelity Crypto Adds AAVE, LINK and UNI for Trading",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaC1iWGxFMjNDTjhncjJSNno3X1FfY2pKeEIzQ2tJTGxUMGRhdDhfckFDZFZ5YzU1LTFQV2d4cmw3cGhJS3JBM3c2Yk5FbmZSRGtKbFYyTUl6aVAzOEVzbFpyNGVjYy04U1JlUmI0WnpCVmN2UzJGczIzaXhwbE9xOWFB?oc=5",
-   "source": "CoinMarketCap",
-   "type": "news",
-   "published": "2026-11-25T07:51:45+00:00",
-   "first_seen": "2026-11-25T07:00:04.272130+00:00",
-   "topics": [
-    "DEFI",
-    "LINK"
-   ]
-  },
-  {
-   "title": "Circle and Paribu Explore Wider USDC Use and Tokenisation in Turkey",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGtBYTFmUS1DS21ocGFrQnJHbzFXTzRXUEYwTExRVWxGQlpiY2RKeDhmRVBnVVNYLUFOSHZQa0UwUTYteWs4NVdyRU9FNk04a2R0Z1Y0SjNFdlFlM3FhbGVuNmRKc1dLTHRkRDVrbVJTSVZwWXRrd0Zab0lBanZVZV9FQTJmaWptdTBBbkxpdURkcG5UZkpNSQ?oc=5",
-   "source": "Serrari Group",
-   "type": "news",
-   "published": "2026-11-25T07:46:52+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "Stablecoin",
-    "RWA",
-    "Paribu",
-    "Turkey"
-   ]
-  },
-  {
-   "title": "Fidelity Adds AAVE, LINK and UNI to Crypto Trading, Bringing DeFi Trio Into 8-Asset Lineup",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnMDlDbkpBVEZfQVM5QlRKN0ZnY1lCVEVvN0VSM09DelV4TXpsNkFPNi1GSGhpbGxGVTRDV1ZRZm84cHRCNHVkSUZpNE5ydDRXRTIzX09hVk1hcjVuVEkxekZCSmVLaUdrdWx0T3hqTVNsWFJ6VHc?oc=5",
-   "source": "BigGo Finance",
-   "type": "news",
-   "published": "2026-11-25T07:25:00+00:00",
-   "first_seen": "2026-11-25T12:09:03.681625+00:00",
-   "topics": [
-    "DEFI",
-    "LINK"
-   ]
   }
  ],
  "stories": [
   {
-   "title": "Japan's SBI, SMFG launch joint venture with Solana Foundation",
-   "outlets": 20,
+   "title": "Japan\u2019s SBI Holdings, SMFG, and Solana Foundation Launch \u201cSBI Solana Global\u201d Joint Venture",
+   "outlets": 19,
    "topics": [
     "Bitcoin",
     "Ethereum",
@@ -2580,18 +2559,32 @@
    ],
    "items": [
     {
+     "title": "SBI Holdings, Sumitomo Mitsui Financial Group Launch Solana Venture",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oOFVTSC1DNkU5U2lPWkR4dkRWckxtY0o5VUxnZUVJLUhHa2dKNFE1N0w0SEZwZF9CZ2lsc3lXNV9sdVU5N1dUNWNON1dwVzg4cFp0cm05Tks?oc=5",
+     "source": "www.tokenpost.com",
+     "type": "news",
+     "published": "2026-11-26T04:47:00+00:00"
+    },
+    {
+     "title": "SBI Launches Solana Venture, Expanding Japan\u2019s Tokenized Finance Market",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTZDLUV3QXN6SE5XNVFzWlg3SFdvY2FINnk2OVVrZF83S3lnOXRGdVdWVk9Rb1VBQ3BoZ0xrZmRvNk1ySlA1bnB6M0NEVEdXRlFNRkRxUl9oYmE3WmRpVm1CUlhIZUw5YXJybTJZZFc0QVd0MldDMDAwWEwwNXZMWVYtWkdtMDdfbUNheGc2Ym9hcTI1cVN5VHhVNmc5UFN4MFJheHRMRHJXZkxSUjNUMdIBsAFBVV95cUxPcTZDLUV3QXN6SE5XNVFzWlg3SFdvY2FINnk2OVVrZF83S3lnOXRGdVdWVk9Rb1VBQ3BoZ0xrZmRvNk1ySlA1bnB6M0NEVEdXRlFNRkRxUl9oYmE3WmRpVm1CUlhIZUw5YXJybTJZZFc0QVd0MldDMDAwWEwwNXZMWVYtWkdtMDdfbUNheGc2Ym9hcTI1cVN5VHhVNmc5UFN4MFJheHRMRHJXZkxSUjNUMQ?oc=5",
+     "source": "CoinTrust",
+     "type": "news",
+     "published": "2026-11-26T04:38:12+00:00"
+    },
+    {
+     "title": "Japan\u2019s SBI Holdings, SMFG, and Solana Foundation Launch \u201cSBI Solana Global\u201d Joint Venture",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hdk9QQ2daZFNUSHE2YzVpMkFwUVp6b2NtbmVDMG9oRmNyaFRibjhsYnJ1RXBkbHd1VEFUdnhTc2JoYVRIcDBrdGZfS0NOYjhHbkZLaUdGUDVqUdIBWkFVX3lxTE5hdk9QQ2daZFNUSHE2YzVpMkFwUVp6b2NtbmVDMG9oRmNyaFRibjhsYnJ1RXBkbHd1VEFUdnhTc2JoYVRIcDBrdGZfS0NOYjhHbkZLaUdGUDVqUQ?oc=5",
+     "source": "CoinIdol",
+     "type": "news",
+     "published": "2026-11-26T03:20:33+00:00"
+    },
+    {
      "title": "Japan's SBI, SMFG launch joint venture with Solana Foundation",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUZXYWt3SWZ2REkxclNBOFNQeV9Yb1djakZfV2x6TXVHV3FOOU9DTnc3aGJ5NFdlc1dfX3BmUWExYUgtN1l4MVNuUTFVcHdlOVdsTVN5YldOSUtXd1JHM2NhZkJEM2xEZUNXMWIwdkFxeEt2ZmtqcU45UEhqanBYQkNhZGdyMU9Yb2pmOGdTSjhWY01IaGJKZkR2V0sxeDV5S1N6YUtoaXpXdGFqS2R4SQ?oc=5",
      "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
      "type": "news",
      "published": "2026-11-26T02:54:41+00:00"
-    },
-    {
-     "title": "Bitcoin\u2019s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdTBPZEgtQ1pOYjFVU3FNUUZhalBDTXNSdkpOeXVDdUZSZzg3YkluV0xtRU5takhRT1hmVnI5RkJsdHUzU1ltRnFmZDJuc2tPYmM5REdDeU41V2laTjhNMWpfWjVaR2VVYmxBUGJuTDd5elVvUi0yb3R2YW45cnF3eEV1LWZLVW5rTHFTdjBaQjB0aVY3bEdqYjRWZ2ZKU1RfUXZsbTFDZUNFSkw3SXRWSlpZNWFaSHliNmtWNW1uaW5PS2R6VnBNODQyVQ?oc=5",
-     "source": "Forbes",
-     "type": "news",
-     "published": "2026-11-26T00:53:08+00:00"
     },
     {
      "title": "SBI, SMFG\u2019s Solana Venture Begins Full Operations in Japan",
@@ -2601,11 +2594,11 @@
      "published": "2026-11-26T00:01:36+00:00"
     },
     {
-     "title": "Current price of Bitcoin for November 25, 2026",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Na2pvV2xpZm03U3B4MlM5LUhQNDM2cGlsRXNmUDF5UTdtUzBkSHlTZVI3MVp0RGg2MHpWYVhiSFVRR0xFaWxZamsxLXdheUlwaTV6R2RXWW9yVzZMVHctOHRydktiXzg?oc=5",
-     "source": "Fortune",
+     "title": "SBI Expands Blockchain Partnership with Solana, Launches New Venture",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcG5XNFhtVmJtdnJhVm1aWTUxbTNlXzREcWJvN01IT1BEVXdSUDFpWkVOOXk3NU1TNFNOcllRVHZZUUQtMGVuVC1PbEQ2X3duWjBwekVPVF81ZXpfNUFTSF83ZVQ5RkVWQjZjS0dGdDFSOXhtUmgtbkluOU5yYzU3MHZpdW9wcXhMU0FoMl9rT2FSS3FpeFJHS1p5NHhvUFRpSHJj?oc=5",
+     "source": "KuCoin",
      "type": "news",
-     "published": "2026-11-25T23:31:56+00:00"
+     "published": "2026-11-25T22:43:16+00:00"
     },
     {
      "title": "Crypto Market Today, November 25, 2026: Bitcoin Below $60,000 as Ethereum, XRP and Solana Slide",
@@ -2622,11 +2615,11 @@
      "published": "2026-11-25T19:02:31+00:00"
     },
     {
-     "title": "Japan's largest financial institutions tap Solana for stablecoin payments and tokenization",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOblZfelZNWTNNMHlCYkdvYnR1QkxRMlNUMjdpRFBuLTJIUXpyNXhNaHN5X2hXWFExOUgxTXNUNzBWRmlKSUhRblBzR0ZnV3Ayc3FmbEdCclNNamdlZy11SVFlbE9IU2dfWjcyaWhPcVZKQTFxUVpJcHlEYkpDTzY5ZWtrMGpjNlFwbmlEZEwzMWp0M1ZWNkw3UmJHbXpuU1NMWF8tMjhOd2dlSzA4cWNiNDQ1NTJUUUQ4M2ZFQTVQR1dEeXVxeFY1UTd0VzZ4SDlwZHc?oc=5",
-     "source": "Yahoo Finance",
+     "title": "Japan's $2.3T Financial Giants SBI, SMFG Launch Solana Venture",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3BnajRhUG1qRUpfZFNySkxvdVdWZEU0c3RNTWhzejhpRFRUZFVMcnNuQUZDMVVNRUxtM3c0RFp1aV92WmVQWk1uOU44Y1RNNzVvaGFJWXlSWVlqR1hhQ3hJbG1XNU9qZXFuVUhFTmFJNWF4eDEwRFdfQkZNZUhNNmo5NHV5SVNJcXN2V09vM3VxSF9ZaUtzQw?oc=5",
+     "source": "Bitcoin News",
      "type": "news",
-     "published": "2026-11-25T18:30:00+00:00"
+     "published": "2026-11-25T18:30:48+00:00"
     },
     {
      "title": "SBI, SMBC launch Solana joint venture for stablecoin payments and tokenization",
@@ -2650,6 +2643,13 @@
      "published": "2026-11-25T16:32:57+00:00"
     },
     {
+     "title": "SBI and SMFG Launch SBI Solana Global in Japan",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVJRU0NGc1o5N2R5MHNMQ2FjSWU2am03c0ZqRTFCMmt2NnhHVmxJS3ducFloaTJ5STV0MVViak9NM09ZeUxOREVCbmtNeEhwTUtLcjJ6bjI1LWhoSXlLM3RZQjYxQ0p0WFl5UEdqWGUxMDREXy1FLXRiWjB2MjRZX0RMN3M0LXhGY1NEc01CdlJ1RmlZRVItOEQ2M2o?oc=5",
+     "source": "IDNFinancials",
+     "type": "news",
+     "published": "2026-11-25T16:20:00+00:00"
+    },
+    {
      "title": "SBI Holdings, SMFG and Solana Foundation Launch SBI Solana Global Venture to Accelerate Blockchain Adoption",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcm9BWFQyTVcza0ZhNzBsZmxhSy1YQjd6OXJyTEJJYlprZi1DMHhkbWpnZlRtNWRIMjNqLWZMY25FMHdSMVZ5ZWhNcER0YXZlWDA1VWJrVVNRUmlpWUp0eFlsRGdHUnYxMzZnX0l3bTZGV3hUOHFkbnFuMFZ2X2NBVDZpU3FMRlBleWlKYWh1c2YtS0xTeTJ5bi0wY0JabDQ2X0hKSl85cTcyZ05PODExWk5jSlVFbGxRcGRUVE1xY2ZudW1QOXlvOFV0dw?oc=5",
      "source": "Tekedia",
@@ -2671,263 +2671,357 @@
      "published": "2026-11-25T14:43:06+00:00"
     },
     {
+     "title": "SBI, SMFG, and Solana Foundation launch SBI Sol...",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUlpyYUdWa1I3RG5OOUtmOEMzYWFRUlk3QmFRS01FenRMZDYzRmFhb2FXeWE0TURrRjR2Qzc3dXQyVE5jb1BERlU3NlBjSjBzaVFya2l3cjVsMTdyaHdRemlWTTJPNGt5MEJUMDBmR0VIT1dQbGRIRG8yTU1kcnE5NnpwSkttcm8yQ3luS1JhRTEtVGU2Wk9iWlFKNDdOX2s?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-25T13:27:21+00:00"
+    },
+    {
      "title": "Solana: SBI Solana Global goes live in Japan - 25 Nov 2026",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1o1Y2ZiSGFfdzluVWhnNWdyVlFQbnNMdTdPaXFuSjJUdlVpRFMxdlEta1UwWTFLOU1CMk1oSmh4cl9FYjB4SzdUU1FHSklvQlZBU2ZZMVF0OWFTWFowbWNQNDZmMkQwaW5GSTNBQjdIVHVZUjZ5aGlOVG9CV216NWRPQWJfN3kyVXBURnJTUjVtUEcwNnpxQkEtWk5Rd0ZjOFV5ZHlLREJPd01jMnpQQ291RG5yXzREMEFJ?oc=5",
      "source": "TradingView",
      "type": "news",
-     "published": "2026-11-25T12:00:08+00:00"
-    },
-    {
-     "title": "SBI Solana Global Launches to Advance Japan\u2019s On-Chain Finance",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3Y5Y2NRZDFPeXZ3ME91U04zSy1NbU1YQ3A2VC1aU0FxNHVPWHdSSzNDV0E3c09la3VQdkpHZ3Y4M1habURtNmFaWHpJWGM0T0NQc3FQNV9TcHBKS3hoeFFuYkhTOTVXMHBnZDh2RHRJQXVvS1F1dFlUWGdtaWJMU3A3QXUtTXlSc2Z3?oc=5",
-     "source": "CoinGape",
-     "type": "news",
-     "published": "2026-11-25T11:58:31+00:00"
-    },
-    {
-     "title": "Japan\u2019s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-     "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-25T11:49:54+00:00"
-    },
-    {
-     "title": "SBI, SMFG and Solana Launch Joint Venture for Japan\u2019s On-Chain Market",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHZYdXBsOEhUcWxzYnZtLWRsU3ZwY2E4Q2J5cmhjZUk2WUtDZERGZGdEZjN0R3RsYmNURVhxc21yQmc5Qm9LVXJDeUlLLWZjSlFuY2VqVm51SFdscWhQbXZuQnhDVmNYRjVKRXpMNHhpM2Q3WlFmSEhqS21zNWpDT2JPdEVnZGw0?oc=5",
-     "source": "The Crypto Times",
-     "type": "news",
-     "published": "2026-11-25T10:41:09+00:00"
-    },
-    {
-     "title": "Japan\u2019s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
-     "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-25T10:23:10+00:00"
+     "published": "2026-11-25T12:39:35+00:00"
     },
     {
      "title": "SBI, SMFG Launch Solana Venture for Onchain Finance",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVZkV2ZUODFOX1NjUklhd2RvelpvUGFNQXZUZk5kQmNjNDJ5OGcxd013S0h3MEc0czlENXd2Smp1T21LZ0x3bmJ4X3VzaXd5ejNGVGJpS2J3b2ptSkNLWDNwanZCdVF3akNkeGEwYUlUX0M5ajhSZjlySENrRlZNTXBCLUk1bXVIUnRFa3pCaHlvM0RmWFZTVU9NNjdxNVRlZUE?oc=5",
      "source": "The Defiant",
      "type": "news",
-     "published": "2026-11-25T10:20:41+00:00"
-    },
-    {
-     "title": "SBI, SMFG and Solana Foundation Launch $2.3 Trillion Onchain Finance Venture in Japan",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TYnRRU2U0M1JhQkgxWEJOZnRPbVBEdFlVd2F3ZENoVFpLTVAwZWFTMFQtZkRKa0VYTmdQUE1RVU5HUk9HTVp5QzZhV2QzemJzdDFTSzB0WXRfR00wSm5DcjBGeE1Gd2k4cFE5dGJiNjRzeWdkTEE?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-11-25T09:56:00+00:00"
-    },
-    {
-     "title": "Japan\u2019s SBI and SMFG launch Solana-based financial venture backed by firms with $2.3T in assets",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55cncwcEg5bE96dWxpd2VyaE5FXzdQc1dGazVBZ3M4TVhUMmJQWGl6aF9JZF9WUTN2MEc2My1oWjR3UGRyUVRZZ09zMkhVRWVpUjFNdDJIaXhOZlYybFpFd0tNdUxSaHhOSDZGLXk2RjR4dTFQOHc?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-25T09:28:34+00:00"
+     "published": "2026-11-25T12:20:41+00:00"
     }
    ]
   },
   {
-   "title": "Fidelity adds Chainlink (LINK) trading but no S...",
-   "outlets": 14,
+   "title": "UK\u2019s FCA Plans Stricter DeFi Rules, Cites $6.3B Binance Hack",
+   "outlets": 13,
    "topics": [
-    "Bitcoin",
     "DEFI",
-    "LINK",
-    "Musk"
+    "FCA"
    ],
    "items": [
     {
-     "title": "Fidelity files for Chainlink ETF, Musk\u2019s X wins ruling in alleged bitcoin content-farm case, and more",
-     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-26T05:45:00+00:00"
-    },
-    {
-     "title": "Fidelity files for FLNK Chainlink ETF to offer direct LINK exposure",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tMnMyV2tybFVEZTlJYjl2UUtOdXZIaU5sNzlRZ29HUW9JZl8wZkM1Q3ZnaTZ6NGZrTnpXV0M3VjRuNVVvZnFJaHNZU1NDS1ZxVkU4dW1IbWZiaHlGdklYMg?oc=5",
-     "source": "Holder.io",
-     "type": "news",
-     "published": "2026-11-26T03:58:10+00:00"
-    },
-    {
-     "title": "Fidelity Files for Chainlink ETF. What Does It Mean for LINK?",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWU5NGlQdTQxQi1UYkh6Skl3eEdxajNwc2V0UnBJYUpOUkxLZ3RzLURXTVBUeV8wVjZVU05wOXoxaTFDaGtjSFlyNkZ1WUtOYmJvQkEyRXgxZ3FoanBNbUZmS0tvNTJNamxsQmhaSU5qZ2hCWTlURmZaMF9ScXFXRjNDNUV4ejg2TFpGNHl6aWFndHhqM1U4MlE4SzZmNG5FYWdtel9TdHVxUHFjdHllVmtRdHdqWUNC?oc=5",
-     "source": "TradingView",
-     "type": "news",
-     "published": "2026-11-26T03:58:00+00:00"
-    },
-    {
-     "title": "Chainlink slipped despite Fidelity news: What could stop LINK\u2019s slide?",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbVNpTVY2RGRIaE14TnBKUlpfWkl1OEdndVZvN3hnaU02QjRQWEZyRnFubGhoSUg1cUYtN1FSUmZfai0wVmVSNlh2SVJZNC1UcWUzbm9hWjRoelROcS1hQjlVREhkYXVjcWphY1lhNWozSEZtS3ZobS0yLVpBUjkxcVFqRDQyWk5yUUs3RDdPbWp6Q0o0?oc=5",
-     "source": "AMBCrypto",
-     "type": "news",
-     "published": "2026-11-25T21:00:46+00:00"
-    },
-    {
-     "title": "Fidelity files for Chainlink ETF, LINK price ri...",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3pWclVqQ2ZSaEZ3aG9EbVBhSW14ZjhtZk04c2JMamc0SVg1TGVnbXU3Q3FyYk9zMS1ZSlJ3dGNzLTdHMTRqeWRVcC1MM0l4ZVp1MVhMYkMzZTJ1QTAyamdhNkdHZFZQQzQ4ZV9NUC1wZjdzVFYwYnhfVDZyWVJwMmc5aHA4cVBsOUZ4NE44TVUwMXRZd1VfUg?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-25T20:28:25+00:00"
-    },
-    {
-     "title": "Fidelity files for Chainlink ETF as LINK trades below $9",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZWnBfaHRvMnA4RnZoNE9abUZmazgzZDg4LUdYRmtqSDc2U2N0bzZOcUx6cE82NVlVN1JEOWJoZ0IwN0V6ckxXMEIzOUt6Rjk1LVdKOUJua1dvdkZKYlBtQ0RwTnQxbHgxNlNueDJB?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-25T20:06:39+00:00"
-    },
-    {
-     "title": "Fidelity adds Chainlink (LINK) trading but no S...",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjAxZWZOalJQdUFremxWWlhjdEtTWVAxcTk2cExjNFR1TWdOWUc0SGFOUlFIMmNkbGRDeWFDMFRqaXVySWZKQXFsUVF1U2FJYUtwY0IwU0o2alltaUk0SEI1LUZQSDBxdFRQcGJVdzJiS0VOeW0zSGZ5clEyRjlvX25uM2VRTVJ0cGRnVlUwZTlUcVdxOE1fcUZzNkFUd0YxcURNWnk0SXVOWGFKYTJFSQ?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-25T19:36:05+00:00"
-    },
-    {
-     "title": "Fidelity Chainlink fund S-1 claim spreads as the firm adds LINK trading",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CbFBwUXk4aUozRVIwTVl5ZDY1enRSQnpaVWRTVkRsRUNwdUM0Zm8wTXB1NE9kYjJNUlFHdm5ZT2V3UjlreEZXM3pHa25KYUZiQkRCNjk4SUwwLS1kY0dNNkpONGplVzR2ZUNVeElMOGZLUHR0UlE?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-11-25T18:58:00+00:00"
-    },
-    {
-     "title": "Musk Tells Fraudsters 'Don't Mess With X' as UK Court Enters Default Judgment in $277,000 Crypto Payout Case",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tY18tUDMwRkhiUzV0MTJkakFGQ2hSMTdyTVlJN3FYanlldi1wMXA5Rm9pRmoxSzhRWWpwa0s1anRiLTdJdWh0OXBIZkxxWWlCWGxRRTl2VzFUSmNzYWZMdGEwZTVXYXVMeUlYSUhPRFhqa1cwQXc?oc=5",
-     "source": "BigGo Finance",
-     "type": "news",
-     "published": "2026-11-25T18:35:00+00:00"
-    },
-    {
-     "title": "Elon Musk\u2019s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
-     "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+     "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+     "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
      "source": "Decrypt",
      "type": "news",
-     "published": "2026-11-25T17:16:02+00:00"
+     "published": "2026-11-26T11:50:23+00:00"
     },
     {
-     "title": "Fidelity Crypto Adds AAVE, LINK, UNI, Expanding Asset List to Eight",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vV0FrVFlVcXpLb18yZVl6UjlEem82bHFPTTBheGlnWHFvMHlFUXJXQVk1YlBiYk5ucDVzWGNsUkNNN3pfN25UdkJDTE9GVUVxb19hQ2xCckZzT0I0eHk3cy1ya3NBeDlPLTNNSWpqQUg4SFRwZXdHTE9SZUVjNDA?oc=5",
-     "source": "DailyCoin",
+     "title": "UK FCA Eyes DeFi Authorization After $6.3B Binance Hack, Jane Moore Warns: 9 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY2o0Z2tSSGR5NmxjNlYwbnRlTTNZdnplUXNxeXdySHVLMTBnbk94YXhZQTJ0ZjB1Y1ZuZ3Z0QzhzS2hhcjE3dy1Ba1RtV1BGQ0s4MlJEVFF4NFp2OWg0UjlqT0pwMDNxZmxUX2hxcFpCM3cyeGlfX3JhaGQ4WldMLW5HdzRJazlHSGVKakJueEI5Rm1vNGNoMjFYd1JfTzJTdGdoVWgxYTBvTlFPVnpRT0I3b3FLQUc5aXVQZ3JITmFHTGZYS19rd3ZnTS1GdVJvZ2lxUE9WOU13Rk5V?oc=5",
+     "source": "NewsCord",
      "type": "news",
-     "published": "2026-11-25T17:00:00+00:00"
+     "published": "2026-11-26T11:20:17+00:00"
     },
     {
-     "title": "Fidelity adds DeFi staples to its crypto trading platform",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVo4TnV5V3RLSVF4WVFSN09CVWMtZmhpemVVZFVMQnFsUUVQUWd3bG9LREtTUzh0ZkpGQ1VjcENvS09LRkw2QkxDb0VMN3BkcUtsT0xEbmFWdGxvOFlDU2VYSERKUVZDaEdhVHYtek8xUGZaZXI4bnI1MG9VcXNjM2o0SFh0Y3M?oc=5",
-     "source": "Yahoo Finance",
+     "title": "U.K. FCA Moves Toward Tighter DeFi Rules After Binance Hack",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54b21zdG1oM2pLSVY1UVdzekdHWDkxSEpMMHQtUzdWcHBpUXd2U1lqQ3hZRWdPbE9nTHF3SWU4eHhENnZHMkVwNG5xRW95WnBHeFoxNlRsbXFZQk0?oc=5",
+     "source": "www.tokenpost.com",
      "type": "news",
-     "published": "2026-11-25T16:00:00+00:00"
+     "published": "2026-11-26T10:56:07+00:00"
     },
     {
-     "title": "Fidelity Adds LINK, AAVE and UNI, Expanding Its Crypto Menu to Eight Assets",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiNkk3Qi1wSW9fVXpjMmxVWlV4Z2NRTkwxYS1KenA3dkpzdDN1d3lyYU42bXRGMTIxV3Z1bkNQSTFjTjdLOUlKV0Y2ckFsY0txd3luMFI5M2NFVHJGRE5oMnJwTFNBUTNQX1lxM05wY0ZfQ1k?oc=5",
-     "source": "FinanceFeeds",
+     "title": "UK Plans Stricter DeFi Rules as FCA Targets Crypto Risks",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb05tSzZocGJjX0swWDZuU1BCNjNnU3RSZWdwT0xhQi1pazRXUUhVQlRtUllYcF9IMFFEeXBQMndFR3FfYlpMelRPT0wwamtaYThXcUxtNUFSM1ZodWkxMFpPb2ZOd0REemkwYkNzak56VmJEQ0Q0cDlFaWtyZFI5TEhiQmktTUtK?oc=5",
+     "source": "Coin Edition",
      "type": "news",
-     "published": "2026-11-25T14:42:44+00:00"
+     "published": "2026-11-26T10:50:00+00:00"
     },
     {
-     "title": "\u2018Don\u2019t mess with X,\u2019 Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
-     "url": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
-     "source": "The Block",
+     "title": "Binance Hack Highlights Money Laundering Risks as FCA Plans Tighter DeFi Rules",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZElDVDU3Q2ZGaXFCOWpSVkFrNkMwSjRScXpDeUk2WnpiVWtpNEd0R0RjNjZEelNOZUlyR29TVklKUUliNmNIbmNaSXp1N1pKZWJsVDBlODlxQ2J4d25tZEVfOEdBNDV4WGphLVkxSGFvQ2ZaS1NaWHZnbFljOEpvQVd6MnlXZGFkUmNtV3hselpMOS1zLVN2V0hMbEl1Vl9UTmZoMW1pSk1JcFdvRTFwYUY2Qk9BVEMxZDAyMGF3WHdVQmFJ?oc=5",
+     "source": "Finance Magnates",
      "type": "news",
-     "published": "2026-11-25T12:14:27+00:00"
+     "published": "2026-11-26T10:43:05+00:00"
     },
     {
-     "title": "\ud83d\udd25 CHAINLINK (LINK): IS A BIG RECOVERY COMING?",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ORE1hemkxOWEzdXRXQktzX0ZVT2pJZ2gtZGx1UmRxYUF0eko1cmZpZDJqUFhMUWhackIyWHdVMldiNDIxWE5uOGZZdDFoU2FXenZPSHFKUFhnQ3V3SllfekFlQm4?oc=5",
-     "source": "Binance",
+     "title": "UK Targets DeFi After $6.3B Binance Hack: Could Crypto Trading Face Tougher Rules?",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1FYNVA0Y0NEalJpaThHU2d6US04LTJ6VWNzVzNleUFfclpkSVdFeGlzUnBaVTFFMEJsTkFXbUR5Z2h4eG1kOEtUdHEyRjFrVXRrbWFsWXhqNmhWMUt0eUk0Zy1NOXBPWVFheG80aWY0UzVSSUVwZDNBRHYyd2I4RGN6X1ljcUljNWdfeFBQWW1ySm1MZVFqdEZ1TTdzc2lk?oc=5",
+     "source": "WEEX",
      "type": "news",
-     "published": "2026-11-25T09:02:41+00:00"
+     "published": "2026-11-26T09:51:35+00:00"
     },
     {
-     "title": "Fidelity Crypto Adds AAVE, LINK and UNI for Trading",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaC1iWGxFMjNDTjhncjJSNno3X1FfY2pKeEIzQ2tJTGxUMGRhdDhfckFDZFZ5YzU1LTFQV2d4cmw3cGhJS3JBM3c2Yk5FbmZSRGtKbFYyTUl6aVAzOEVzbFpyNGVjYy04U1JlUmI0WnpCVmN2UzJGczIzaXhwbE9xOWFB?oc=5",
-     "source": "CoinMarketCap",
+     "title": "UK\u2019s FCA Plans Stricter DeFi Rules, Cites $6.3B Binance Hack",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU44M2d3RFFEbUF0d1JDMEZZSmdaV0JnWGNTMkdNTW9WZFNrcTA0cFZQZV9Fcm5ta19HaXFISl96SzR1VGM1T1JhYW95WGJMbU54N19ZMjRMbjhYQ01GVDhwaWFoZS01TE4zMDRCR01EbGc4VnR4SmxuY2IzLWR2TERMZDVmekk1MkFFR1RWcHRiN0VyRk1mMEJfajY?oc=5",
+     "source": "The Crypto Times",
      "type": "news",
-     "published": "2026-11-25T07:51:45+00:00"
+     "published": "2026-11-26T07:40:03+00:00"
     },
     {
-     "title": "Fidelity Adds AAVE, LINK and UNI to Crypto Trading, Bringing DeFi Trio Into 8-Asset Lineup",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnMDlDbkpBVEZfQVM5QlRKN0ZnY1lCVEVvN0VSM09DelV4TXpsNkFPNi1GSGhpbGxGVTRDV1ZRZm84cHRCNHVkSUZpNE5ydDRXRTIzX09hVk1hcjVuVEkxekZCSmVLaUdrdWx0T3hqTVNsWFJ6VHc?oc=5",
+     "title": "UK's FCA Sets Sights on DeFi Authorization as $6.3B Binance Hack Exposes Laundering Gaps",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tVUxvd1VNektfQ013NmtJOV9RS1NGNkRGR1dHSE5RVWlFbHZpeVpUUFdjdWJ3OVVLYjg5Q2pYNy1jbTVIZkxEejVILUNST2JBNkxYNEZWbUhoZi16ZXE2UFJobi1MQ3RISlZiLTFJWFNaSWZfb1E?oc=5",
      "source": "BigGo Finance",
      "type": "news",
-     "published": "2026-11-25T07:25:00+00:00"
+     "published": "2026-11-26T06:55:00+00:00"
+    },
+    {
+     "title": "UK Regulator To Tighten Defi Rules, Citing $6.3B Binance Hack-Report",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnJuc3FyeW1WZjJDYkF4RmdDUW1uY25wVi12X19FYWtqVHgtc0tubXlaU2t6Zm4zd1dPUGwtU1dNLXBINEdfWnZ2dE5rVTFwSDBoNmVoNDZHdTRDTllCQUlWREszakZ1Y3hoVXI0aGlWMDlPZmtvMXB4WTZ6U3JtU0NiS2NpLWRGSWtSUHQ3RUdNRmFkcVVsQWNWOA?oc=5",
+     "source": "Menafn",
+     "type": "news",
+     "published": "2026-11-26T06:30:42+00:00"
+    },
+    {
+     "title": "UK Plans Tougher DeFi Rules Over Money-Laundering Fears After Binance Hack",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEd29vbE1WTTF1Zy1Kb2luaTN0NlVUcjNlV05qU3U1d1FManZPT3hmRzM2aFJrLVdFLXlKWFhRRExDOTdZZ2hrWFlQTzdxa1RNMklGRg?oc=5",
+     "source": "bloomingbit",
+     "type": "news",
+     "published": "2026-11-26T06:21:36+00:00"
+    },
+    {
+     "title": "UK FCA pushes for tighter DeFi rules following $6.3 billion Binance hack",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1F1Umw5ZHlNRE5vRnRPUkE4aGZST2NiS2NOMGZCMHRvNFkzNzlZeHBQZERMVmZQb21ZWmxydXVYZ0MyY29IX3M1Zy0weUMwWVNnRFlVLW15bW9DTUNIaExrWlFPNHhfUDdjTVNHM29XcGhYTDF5RzRrRTFCV0hvTEt0MDA0Zmd2UVZWcVdiamVXOFUweEUw?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-26T06:21:00+00:00"
+    },
+    {
+     "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+     "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-11-26T05:53:08+00:00"
+    },
+    {
+     "title": "UK plans tighter DeFi rules as FCA targets crypto consumer risks",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVJQT1hoaWJIc2xvZ1A2VHhnLUMySXBaSHpGTVBYdHNvXzFpRC1HVW1GUFpCbFRFU016Z0J2S2hCLXdGZjlpUjlDbW96ZlFrUVNuNEMyaEtMZ21fRzFLQ0FHMUQwZXR4MHJLTWpKbzBMS1ZiaHNaUHgzb2hWTTQ4NDNZcDNSYTVqbUdYbmR2NDl0QQ?oc=5",
+     "source": "Traders Union",
+     "type": "news",
+     "published": "2026-11-26T05:42:21+00:00"
     }
    ]
   },
   {
-   "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
-   "outlets": 8,
+   "title": "Switzerland approves 57 jurisdictions for crypto tax data sharing starting in 2028",
+   "outlets": 11,
    "topics": [
-    "Authority",
-    "RWA"
+    "Switzerland"
    ],
    "items": [
     {
-     "title": "Hong Kong Tokenization Platform Opens for Digital Bond Settlement",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHN0VmRwSXJZMzllRnhXWS1Ib3BBdm5MV0VZUjQwdWktU25fM2xfbWJUTWpaYXhnX3lNajBIc19HNERpcWVweF8wRVBfclJNWVdVaWtJbWQ2STlKQXl3bS1Bdkh4bmo2ZW5YN2Fuc285c2RqWWZ4WHQ1cEtOUWxmN1o2cTBuNDl5S1p2Y0pwNVZGLU9OSHRwazVSSVV0cU9pQS15R3dn?oc=5",
-     "source": "CryptoRank",
+     "title": "Switzerland approves partners for cryptoasset data exchange",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SU0I5ZXp3YkQtZjdGTTZwNXhZemV2NWpONE1vckdxSkxpT2t1bktiSkZCMUNwY2RReVZWTDdLcjFLNndJcC1IWEtIWWVvZW1rb29NZ2x6UHRHMWtVTFRKMm4yNDZvTHdBbkNOMnhLZkhoOXpoSVcxVG1B?oc=5",
+     "source": "Digital Watch Observatory",
      "type": "news",
-     "published": "2026-11-26T03:37:18+00:00"
+     "published": "2026-11-26T11:55:58+00:00"
     },
     {
-     "title": "Hong Kong Debuts 24/7 Multi-Currency Settlement for Tokenized Bonds",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXOXZQbnlzWWh4Q2Z4REE0ZUM5YUtrTzJxM296TzBUUUc1OFJaRk1qb2JVcUxiZUtNRm5SRnhiMXNNS043M3llaGloXzFrSVNUdVpSZWFuWkVpczR5bEJaZ0J3dVhaeS1FRlQ3N3pFNy1FYmlYcFE?oc=5",
-     "source": "BigGo Finance",
+     "title": "Switzerland to Share Crypto Data With 57 Countries Starting in 2028",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzBwSVdHaTN3V2xJbDd6NWFMc2FSdWllSTc5aUMxRXRkbW85aFpMZzViTU1hUGNFOUU5SXRkUlpFdG43WnVROHlIbFhkWGhybkpvdDhOTUxzZW53UEczaFF0bGo0V0NHVVRYb0VWb1VENk02WFBNT05DVnZnT0p4d3RLOVZYa1RQ?oc=5",
+     "source": "www.trendingtopics.eu",
      "type": "news",
-     "published": "2026-11-25T13:05:00+00:00"
+     "published": "2026-11-26T09:54:44+00:00"
     },
     {
-     "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
-     "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-25T11:31:10+00:00"
-    },
-    {
-     "title": "Hong Kong Monetary Authority launches a platform for tokenized debt securities",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVptVG5oREJWRXB2UUplMDNGaUxZVEF5TnMydUxhYVlQcE9fZlppcEVwLXJ1TWlxeDRJMGZpLXQ0VlBMQW9WbTdrVmh0ZDNVOTFiLTR1R01ORnVhWUNHSXBWdW54VHEyemRzRVUxRGRwS1dlMjZJTnBJbjVZMER1U3Rfb25KaUl6MjFQUDRhTkVib3dRajBWLXdSVWl3Yi1i?oc=5",
-     "source": "MLQ.ai",
-     "type": "news",
-     "published": "2026-11-25T10:42:52+00:00"
-    },
-    {
-     "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
-     "url": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
+     "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+     "url": "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821",
      "source": "The Block",
      "type": "news",
-     "published": "2026-11-25T10:05:40+00:00"
+     "published": "2026-11-26T09:40:41+00:00"
     },
     {
-     "title": "HKMA Launches CMU Platform for Tokenized Bond Settlement",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTZITF9hQW14bTQ4ZF93WXAwVnczcVQtUWI4V3BudHcyaUxRVzR6enhMY2UtNEp4dnNBM0xfV3UtSk51Q19IRWtoWkRyb2pTT0ZCRkNCQkNzUWZZMktLR0FvZTdmdGlrT3N6UE5jSjFXRkticDBmUkdDMXNnT1RIMGVKRGgwLUlSUzBQbnVtRkhuZFdxdGt5TXV2VlotQXNBRm9naEJpTzdjdw?oc=5",
-     "source": "The Defiant",
+     "title": "Switzerland approves 57 partners for crypto tax data swaps from 2028",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS0QwSEFwb1BBekVRXzh6SHkzXzVFRzF4S29qUnV2M1RtOVdoV3h3eXI1dl84RDJkeXFzNF9iVUVjeTJhT2RQMkdfaDk3cEczMl9sa2NUNnpEUFNubVZvYXl2SUQ3UzhTbl9COERTNENlU2xIbmNpVGFLNmJ4VGVYZm5BQ0R1cDJ4NUpjU0VMc01oMnc?oc=5",
+     "source": "MLQ.ai",
      "type": "news",
-     "published": "2026-11-25T09:55:41+00:00"
+     "published": "2026-11-26T08:26:15+00:00"
     },
     {
-     "title": "Hong Kong launches blockchain-based digital asset platform for tokenized bond settlement",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwdTAtRktWMnhRVW03aEhnbjExcUNqU2NRd3ZINk94NXozNHJObThsX0VpWkhOYmtDSjdjNFZwWXJYcUg2MXpvZFE0MU5PbmQ0T2RVLXY1VnpJQUZxT2QwZk5NT1FyMnhJeWFQV2xsLWszel9VVWFjNG9jcVFzZw?oc=5",
-     "source": "Crypto News",
+     "title": "Switzerland Plans to Start Sharing Cryptoasset Tax Data in 2028",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHR3aXhHZjkzZHdEX3dlSTFiUGRIaUlnWmRibUJXMUpTT1J2Z1pwb3J2WHo1OGxQQmxHbVRJZ3NycFk5REQ1V3RBRmtXZmtGTDFiTHY4UFRQczZNUjhPRFJxck5zTjd3ek9EZEdIVmZVQ1llcjV1RDFHeHNXRmhCLVVIenlnRVpFVy1zRkhMaw?oc=5",
+     "source": "FintechNews CH",
      "type": "news",
-     "published": "2026-11-25T08:56:19+00:00"
+     "published": "2026-11-26T08:17:20+00:00"
     },
     {
-     "title": "Hong Kong Monetary Authority Launches CMU Digital Asset Platform to Support Bond Tokenization",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kT2M2WE16TEhkek1BWHJTRjdWV1BfTTZPc0sycVphaVFZX3Zna19xM1EzOWlTMG5JX2QyWmVWUlJCY0doM3RMR0RPTHdmX2ROODVHVQ?oc=5",
+     "title": "Switzerland Approves Crypto Tax Data Sharing With 57 Jurisdictions",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1p1bVl0UHVHVEV2am4zdW9ucWdxWWFEYTlIaGM5aG1PbWtVWGpPLUdDS19xX2JMZndnbGFwbUgwUmhkRXFDSVAyZmRGTjBYZDhEVHMtdERjSERqOGwzNjhPVnZ2MndKYUg4Ny1jTjUzTmdIZUFmd2k1aG4tRWk1bmoxZWV5c3lGaFU2Z1RNVVFkZXVRbm5KS2szQjFGU05YSXc?oc=5",
+     "source": "KuCoin",
+     "type": "news",
+     "published": "2026-11-25T23:24:19+00:00"
+    },
+    {
+     "title": "Switzerland to Exchange Crypto Tax Data With 57 Countries Starting 2028",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTE1YTNjM3dYRy1fakh6M1pvZ254RzlpWFZoQVpoeEtwRW42N0J4eHR3WnlSclFGZ3V2MEh6aEM2eHNSVjAyQzJRcmc5Xy1EXzloR25XakxXaUQ0RHRZRWxlc2RkNThWN1NEamM1VnhIeklqT0ZpVVNhS2p3blN5SGttX0VpQTIxZ0VNekZkSDZ6eUlKWV9YM1pZUkFRU2VsMmJDZjg3NjM?oc=5",
+     "source": "KuCoin",
+     "type": "news",
+     "published": "2026-11-25T22:24:03+00:00"
+    },
+    {
+     "title": "Switzerland Approves 57 Jurisdictions for Crypto Tax Data Sharing, First Exchange Due in 2028",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBETGRnZnhiSDdTWWtRQlF5Q2U2QW5vNGt3eUlPOE51MkF6RkxvY19LZl9ialZVVUNiWlBVVFl2aVh1SVA3d0VfbnZ5TlFXMU1xS2liRA?oc=5",
      "source": "bloomingbit",
      "type": "news",
-     "published": "2026-11-25T08:55:33+00:00"
+     "published": "2026-11-25T22:13:03+00:00"
+    },
+    {
+     "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+     "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-11-25T21:53:38+00:00"
+    },
+    {
+     "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
+     "url": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
+     "source": "Bitcoin Magazine",
+     "type": "news",
+     "published": "2026-11-25T18:40:05+00:00"
+    },
+    {
+     "title": "Switzerland to exchange crypto asset information with 57 jurisdictions from 2028",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YSjFCci15WjNxSWhpUmVQZXVOR1pJRy1CYi11b2U2aS1tcHN4dEw3UjY2U2xmSmxXbksyNnRPc1duTk1Kc25nRGxzaEo2MFIyMWpIQlVsZ3RBV3BmR2RwcWFXektXT2djNUhJWE1sNG1wME14SnVaM2JsNTZrQQ?oc=5",
+     "source": "Crypto Briefing",
+     "type": "news",
+     "published": "2026-11-25T15:50:39+00:00"
+    },
+    {
+     "title": "Switzerland approves 57 jurisdictions for crypto tax data sharing starting in 2028",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EeU9nWjVOMTdwTnZzSDVMTi0wTVJzaFh1M2ZBQXhpSmw5dlBYN0JOQi1GTk9zdnZ2RFdsdzI0M1daREJUaV9Fa3lOVFBZR2NzTU9XdDJn?oc=5",
+     "source": "Cryptonews.net",
+     "type": "news",
+     "published": "2026-11-25T13:27:07+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Switzerland\u2019s First Spot Bitcoin ETF Begins Trading",
+   "outlets": 6,
+   "topics": [
+    "Bitcoin",
+    "Switzerland"
+   ],
+   "items": [
+    {
+     "title": "Switzerland launches Europe's first spot Bitcoi...",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGZrZnkwY3VzemJDRjg2ZzA2N2U1UEZ3Q05zMFpma3pFcjFaNHFyemhqMkpTR2oyaFp3NkhpUnkzak9xdUpiZHYzY2xzLWRRbmlYaTE1NVlLTkFTN1BPTEhQSmpsQzRMcGVDdC1oUS1qN0t5b0ZvenpwSGtidUkyakFPYnM4NkxkMGZGVg?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-26T11:54:34+00:00"
+    },
+    {
+     "title": "Switzerland launches first spot Bitcoin ETF wit...",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnRKaFk5QkNaQUxEOEhMdzBwYmxVNUtfbjB5MGZjY0haRE5IRlA4dU05alM2dG50RjU1bllkcVNkU3FzSXJJdzVaSFdGeGZQZ0RKLUhMbGZDUmZUTTdQQVRRY2E5Nkl4aUl3QUUyZEtfcEhLUGhrOVBfNkV0U2JqeWRKZ0xHYllSQlJBY2lRNDhKQXUzWHdOaHUybjJISjJETGI2N2tmZk9lMzY1ZHJF?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-26T11:24:26+00:00"
+    },
+    {
+     "title": "Switzerland\u2019s first spot Bitcoin ETF debuts with 350 BTC in assets and a 0.19% annual fee",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XbHdHWHl5aTItRmNEc0tKaFRsRkNRUjAxdXoyVm9IZ2RKbGFGWXVGcFpLNUJETjNTRWJuWUtKSklGWnZ4NGhxeTdYcVlDdk91TGR2YWhuVTVUZnlaX3NfRHptS093VU5Xa3MyeUtHS1g1UUd3VU1qbGhBYw?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-26T11:09:59+00:00"
+    },
+    {
+     "title": "Switzerland launches its first spot Bitcoin ETF, BBIT, on SIX Exchange for retail investors.",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXV3MkRpb281RFJMSjZ6aWltN09iek1MUXhNU1p5RkdxMm1ZNDh6RDUwb3lSV1VFYWh5TUl2MXBEYWlPSV9ReGxkT0JqR3BHM2RaZU03NDU0dEpfV0pncnVxb0VZTnNEZ190UWZVb1FNZDZiWVFTV1RBbVRGMEZCWnVPZHRTQzkzbFl4X2VHd0dDMTlFdHJXdWw5b0ZMUmkwSkRIcmtKbw?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-26T10:24:15+00:00"
+    },
+    {
+     "title": "Switzerland's first spot Bitcoin ETF rises 0.6% in its opening hour",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkk2OWEzRUFVUlJHWEw1ZzVpUldBa296UEp4bGxjTS1mVWtHaFUwMXhCQXlKUnZSelQ0YUY0Q3RTOWJfXzh0dV9zekZMc2h2dTdzNFVTSVB6QmhxOVlyemU1aThaVEVDZjhJSmgxbFZVNEY4aUl6MFNZcUZZUTdBejliQU1pS1JvMkp1ZkJydW8xdWotaEU5N2tyMEtwT3Nt?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-26T10:04:02+00:00"
+    },
+    {
+     "title": "Switzerland's First Spot Bitcoin ETF Debuts on SIX With $20 Million and a 0.19% Fee",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xOHVNZFJ5Qk1xcU5HMjBLaDdKY0p6ZndVZ2puWXBwNzRXdlNvRlNCR3p1TmRMczBYNlJNdXNUUENya2pyYmx0MDFlRzhHRmFkaVdnbWJpYVpYT0NROGgzMjBPUlloNzdnV0xTQ1BiQ0llZ0pHZEE?oc=5",
+     "source": "BigGo Finance",
+     "type": "news",
+     "published": "2026-11-26T09:25:00+00:00"
+    },
+    {
+     "title": "Switzerland\u2019s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+     "url": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "type": "news",
+     "published": "2026-11-26T09:18:15+00:00"
+    },
+    {
+     "title": "Switzerland\u2019s First Spot Bitcoin ETF Begins Trading",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlhHTW9ka1RlR1JBaE5NWXR3NnFEbFBBdXZrbjBvZm1CUkNROERTaGc5Z3ZVSzZLZGFRYldTWW1JTFV4ZDlQdUZwSlNRR3J1SW9QdG0tR3hHQnhoYjBwT0hfN2lIckVSNGhiTDdXVUFCYzhsZGQxNVhkRVMtU2hHVEpR?oc=5",
+     "source": "Funds Europe",
+     "type": "news",
+     "published": "2026-11-26T07:47:42+00:00"
+    },
+    {
+     "title": "Europe\u2019s only spot bitcoin ETF starts trading in Switzerland, BIT says",
+     "url": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-11-26T06:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "Injective Activates Veyra Upgrade for Institutional RWA Infrastructure",
+   "outlets": 6,
+   "topics": [
+    "RWA",
+    "Veyra"
+   ],
+   "items": [
+    {
+     "title": "Veyra Mainnet Upgrade Goes Live as Injective Targets More Institutions",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmF4Z3lnVmZDRkV3TmlIVHpaQzVqZUNVOG5vTWhRODBpR19pTGpzRWdBVTB2NXIzSEpzT3ZlenNtaXhKZ2hoamtGelplaUg5UVBIV0Zhb2I0YzREbXFVVC1SZHdvT2xNRWRuN3RmRGVKY2RUb2NTbTZLOC1CQWJBRXlNVTFvNG11U1Fqcw?oc=5",
+     "source": "Coin Gabbar",
+     "type": "news",
+     "published": "2026-11-26T07:45:00+00:00"
+    },
+    {
+     "title": "Injective Launches Veyra Upgrade with RWA Tokenization and Institutional RFQ",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzBzVFQ3d1V0ZW5ndm9LN0xDdU85eDhaNHZzaWJxVDF1LW5GZm5ROXZGNE1UQTRLeVFfT1FfWlRIUXV4WEVjZi1yYl9GdGVlT0VsR0tHTkNVNnBrOW0zRS1xa2FIMHhFc09idW9LQ2Q2Wi1RM1g4d3ZxT1hmLXR3ci0yTTlSYVl0QjhfRnJpVUlkNXQwQWxTMTNBYXpoQVlLVjh1YXdKWmZCWHZEVS1B?oc=5",
+     "source": "KuCoin",
+     "type": "news",
+     "published": "2026-11-26T06:52:09+00:00"
+    },
+    {
+     "title": "Injective Activates Veyra Upgrade for Institutional RWA Infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMTmtqeldsQ3FxeS00X3gxVWFxcEVNZWQteW81YU9HaHNmVjd2WFROTVpKS2lQd2xIdFhuQ2hVbkt0aDFrRFd1ejh4ck1MbGZxcVhaV0d3MzVKMDA?oc=5",
+     "source": "www.tokenpost.com",
+     "type": "news",
+     "published": "2026-11-26T05:23:23+00:00"
+    },
+    {
+     "title": "Injective launches Veyra upgrade for institutio...",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzRnUVhjcTRBQlhPMFRlQjM3N1kwSk9qdXdqX0pfNzFmaUE5ZWg1WmhuSDdrbTVzcmtmRHh6cnVEYkZyeVJFYWwzeTlXYWUxdmNfd0FEYWdPRWdQUG8wQmhzeDVvX25LZXRsWlhmdS0zUzRlaHp2Uk9QdWU1aXJxcl9wbXhyMFFhRENER0k3TVBhTTlEV2YxajJvSDc3ZXZmRnQ1cWppdw?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-26T05:14:46+00:00"
+    },
+    {
+     "title": "Injective activates Veyra upgrade to expand institutional RWA infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZW85eUxpbGNUaHNQTTlTWFl2cllOZG9fRXBYWVU3RHdhLXlmZjRMY093cDc5Z2FaSmVmanNobEk3bDdZVmZKTTNfalo2cjM5Zlg3SkVSdUl2bXFPVUdBMlZ4SzZ2VjNRNXc2czlBTm5JODBOUFBFcmRXbWpfU0psQ2I4QWNUQVJBdlF2SnJ5cFBVM2dUY2hlcm1aLV90QQ?oc=5",
+     "source": "Crypto News",
+     "type": "news",
+     "published": "2026-11-26T03:09:00+00:00"
+    },
+    {
+     "title": "Injective launches Veyra upgrade enabling insti...",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc29RMjVJaUE2NW1NTE9qMXVYdEpYRkZNNHlSU0Nlcl9qSlFJNWRITnNIVDZINkpYNEpKWHlKRzI1N3dYUjFsLV9fNTN1NERRWW1ONHdSaFI1Q1RmN1JQZUVFVjhHcURYWW5CbXprd29sNFU1dlc4SlV0QURyMVkxS0gxTE4zS2RKbXdmNzRRcUJsZ0FNMkpwQ3ZqeGg1ejl0bnc?oc=5",
+     "source": "Pluang",
+     "type": "news",
+     "published": "2026-11-25T19:22:07+00:00"
+    },
+    {
+     "title": "Injective activates Veyra mainnet upgrade with new institutional tooling",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR2xTMlZDV255VEpsVndadXBNYzRHX0VYeWduWDdjRGd3WmhqWUtkeWFHNEVycjY4V01kZVdMT0ViVm1Rc2drcGRER1FQNVFDVm43Sl9lZ0xjTm9PQzdOUlE3ckxNMFppTUZkeFFuVVM0NjNHVkJMeWRyX0FJeUVmMG81Zw?oc=5",
+     "source": "Crypto Briefing",
+     "type": "news",
+     "published": "2026-11-25T17:26:49+00:00"
     }
    ]
   },
   {
    "title": "European Banking Authority urges tighter DeFi lending rules for crypto firms in EU",
-   "outlets": 6,
+   "outlets": 5,
    "topics": [
     "Authority",
     "DEFI",
@@ -2975,185 +3069,36 @@
      "source": "CoinGape",
      "type": "news",
      "published": "2026-11-25T13:31:07+00:00"
-    },
-    {
-     "title": "European Banking Authority Says Stablecoins Play Key Role in DeFi Ecosystem",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtUXNVbE5IdTRGYnp3QjVtVk5tdWhWRy10QnBYZXVxZlZhWVRQek1vUEVBVXBIUGJVUHJVdG0zYzAtUzVaLWc5ajYzRUVzTzdZbUpkQQ?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-11-25T11:56:22+00:00"
     }
    ]
   },
   {
-   "title": "Injective Activates Veyra Upgrade for Institutional RWA Infrastructure",
+   "title": "Musk Says Every US Child Will Get 2 Shares of SpaceX Stock",
    "outlets": 5,
-   "topics": [
-    "RWA",
-    "Veyra"
-   ],
-   "items": [
-    {
-     "title": "Injective Launches Veyra Upgrade with RWA Tokenization and Institutional RFQ",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzBzVFQ3d1V0ZW5ndm9LN0xDdU85eDhaNHZzaWJxVDF1LW5GZm5ROXZGNE1UQTRLeVFfT1FfWlRIUXV4WEVjZi1yYl9GdGVlT0VsR0tHTkNVNnBrOW0zRS1xa2FIMHhFc09idW9LQ2Q2Wi1RM1g4d3ZxT1hmLXR3ci0yTTlSYVl0QjhfRnJpVUlkNXQwQWxTMTNBYXpoQVlLVjh1YXdKWmZCWHZEVS1B?oc=5",
-     "source": "KuCoin",
-     "type": "news",
-     "published": "2026-11-26T06:52:09+00:00"
-    },
-    {
-     "title": "Injective Activates Veyra Upgrade for Institutional RWA Infrastructure",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMTmtqeldsQ3FxeS00X3gxVWFxcEVNZWQteW81YU9HaHNmVjd2WFROTVpKS2lQd2xIdFhuQ2hVbkt0aDFrRFd1ejh4ck1MbGZxcVhaV0d3MzVKMDA?oc=5",
-     "source": "www.tokenpost.com",
-     "type": "news",
-     "published": "2026-11-26T05:23:23+00:00"
-    },
-    {
-     "title": "Injective launches Veyra upgrade for institutio...",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzRnUVhjcTRBQlhPMFRlQjM3N1kwSk9qdXdqX0pfNzFmaUE5ZWg1WmhuSDdrbTVzcmtmRHh6cnVEYkZyeVJFYWwzeTlXYWUxdmNfd0FEYWdPRWdQUG8wQmhzeDVvX25LZXRsWlhmdS0zUzRlaHp2Uk9QdWU1aXJxcl9wbXhyMFFhRENER0k3TVBhTTlEV2YxajJvSDc3ZXZmRnQ1cWppdw?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-26T05:14:46+00:00"
-    },
-    {
-     "title": "Injective activates Veyra upgrade to expand institutional RWA infrastructure",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZW85eUxpbGNUaHNQTTlTWFl2cllOZG9fRXBYWVU3RHdhLXlmZjRMY093cDc5Z2FaSmVmanNobEk3bDdZVmZKTTNfalo2cjM5Zlg3SkVSdUl2bXFPVUdBMlZ4SzZ2VjNRNXc2czlBTm5JODBOUFBFcmRXbWpfU0psQ2I4QWNUQVJBdlF2SnJ5cFBVM2dUY2hlcm1aLV90QQ?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-26T03:09:00+00:00"
-    },
-    {
-     "title": "Injective launches Veyra upgrade enabling insti...",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc29RMjVJaUE2NW1NTE9qMXVYdEpYRkZNNHlSU0Nlcl9qSlFJNWRITnNIVDZINkpYNEpKWHlKRzI1N3dYUjFsLV9fNTN1NERRWW1ONHdSaFI1Q1RmN1JQZUVFVjhHcURYWW5CbXprd29sNFU1dlc4SlV0QURyMVkxS0gxTE4zS2RKbXdmNzRRcUJsZ0FNMkpwQ3ZqeGg1ejl0bnc?oc=5",
-     "source": "Pluang",
-     "type": "news",
-     "published": "2026-11-25T19:22:07+00:00"
-    },
-    {
-     "title": "Injective activates Veyra mainnet upgrade with new institutional tooling",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR2xTMlZDV255VEpsVndadXBNYzRHX0VYeWduWDdjRGd3WmhqWUtkeWFHNEVycjY4V01kZVdMT0ViVm1Rc2drcGRER1FQNVFDVm43Sl9lZ0xjTm9PQzdOUlE3ckxNMFppTUZkeFFuVVM0NjNHVkJMeWRyX0FJeUVmMG81Zw?oc=5",
-     "source": "Crypto Briefing",
-     "type": "news",
-     "published": "2026-11-25T17:26:49+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
-   "outlets": 4,
-   "topics": [
-    "Bitcoin"
-   ],
-   "items": [
-    {
-     "title": "Strategic Bitcoin Reserve Bill Advances, but Can It Pass Before 2027?",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEMzcGttWXM1ajVfQnhYTmdJbmlPSU81RVllVnlDeTRiREMwVHYwSFpacW9raTJZc3g4V1VMS2VjNEdFaElLMWRkd0JteVlmVnRreFlNdGdaNE55enNJQkt4QTBTV3J3d19rMGRKdnJ5aEZPM2wzdTNaSTdBRlZDNWxONWdUZkpYNGtrUkdNLVFPQWR1TVhHYtIBngFBVV95cUxOeTVFNVZuSElVRXZGZXJRU09EVDg0OW1BTE9CellVaEd5ZndodE9DT0lzZm5sY0ZmWXpzX3Fkdm53cWl0Sml6NjNuS1lXeW5XUEpJNHREYmxDZDczMXI4Z09QbXVSM25uZEFrUk9rWkNnd0RINzg2WFlLUXVCYS04RFhMTUdYcG1YVVNPWUtEcWdkLXduYVBXRlhXZlNKUQ?oc=5",
-     "source": "Coinpedia",
-     "type": "news",
-     "published": "2026-11-26T06:16:45+00:00"
-    },
-    {
-     "title": "Bitcoin Reserve Bill With 20-Year Sale Ban Heads to House Floor",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OTlRiZVl4Sk5mY3ZzdWh6UnlYOWxPNzRkX3Jyc3RvQmRMSXR1cC1Bb2FZanlVWVZpUVUtTnVfS1ZxTTdmVGVIQXB1WWttYWtvSDRoUjhQaHlzYVFVYXkyejQyVzFyQQ?oc=5",
-     "source": "Bitbo",
-     "type": "news",
-     "published": "2026-11-26T04:35:00+00:00"
-    },
-    {
-     "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
-     "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
-     "source": "The Block",
-     "type": "news",
-     "published": "2026-11-26T03:03:01+00:00"
-    },
-    {
-     "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
-     "url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
-     "source": "Bitcoin Magazine",
-     "type": "news",
-     "published": "2026-11-25T19:50:00+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Turkey\u2019s Yap\u0131 Kredi to Use Ripple Custody for Its Crypto Platform",
-   "outlets": 4,
-   "topics": [
-    "Turkey"
-   ],
-   "items": [
-    {
-     "title": "Ripple Partners With Turkey\u2019s Yap\u0131 Kredi to Expand Crypto Custody Services",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEE0dHhBekdOd0QzeW1Ubm9Na25TRlJDYVhXRDhGRUdDU0FFcU53Q251YnJodGREeENyT085UzFOZE84dHBkVERKYmxWUjhqZ2luQ2N5NlViRHkxdGZ4ZFZKSWJYRC1PYkVCWGpOMTU0UE5hMEk0eWNZU1E2eDJYMk4xX05SQ0F3UjUtTE90QkNfVjBpV09EU3kwTkt3cGZxWF9DZG5vRFhMa0U?oc=5",
-     "source": "KuCoin",
-     "type": "news",
-     "published": "2026-11-25T14:38:37+00:00"
-    },
-    {
-     "title": "Turkey\u2019s top private bank selects Ripple as custody partner",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EdW8wcjVidXg5VWVaakxiX2RXQ19vWldFQlZheFBvanZKdVFrWl9NMzVkWGpVOUpwZ2JaNm1JOS12M1R1a1RROU9CYzBqbnFBS2ZHX2FGVQ?oc=5",
-     "source": "Cryptonews.net",
-     "type": "news",
-     "published": "2026-11-25T13:42:46+00:00"
-    },
-    {
-     "title": "XRP News: Turkey\u2019s Yapi Kredi Adopts Ripple Custody to Power Digital Asset Services",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOME9oOUVKQl9sSWZZTGhzQ2c1U0FfbEVKZ196OENuS1VYSGJ5eHo0NURqY3B0MEFqR1M3WUF0dVpkVUJoT0FRNGlRMmJNdFRnR3NCUDNiVzdnQXgydHViUEZZS0dfZ0UtTHBBQi1nVzZUeTFYRVc2R1dEdWxsMXpBVWhZNnZRdFJMV0k2VHFMUUJZRU9mamJhY0ZNMXZHSEJ6MGh6SWJXSGg2anV5S1RCalotdVJucTDSAbwBQVVfeXFMTXRybmRxYXZqUndiSU5ZQUR6WEl0Z1BkdzVJSk42N1BVV3FzNzZEamNQMm5iMVI0dW1qX3VfQkJNYkZvbE1ZMElOSW83RDU3R05mV0tSWGVidjFSNTJjdGZwQy0xdkVFZGdyY3ZfNlRqdlZIXzE2N2lvYmpCdVpqeEpVRUhISTBXWHB0ZmZpMDItN3duTWFhUDhmSmpaN0JnNmFybGgtc0FiN2pORVFBdUNHUDdFbE5qbGNIdnk?oc=5",
-     "source": "The Coin Republic",
-     "type": "news",
-     "published": "2026-11-25T12:08:22+00:00"
-    },
-    {
-     "title": "Turkey\u2019s Yap\u0131 Kredi to Use Ripple Custody for Its Crypto Platform",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcW5TVnpKWFBOT1VhWW0zYnh3czgtckdtek96bFBWdnl3dE8zSEk0VXgweDBTYlg4cWlKaUp4YVF5UnN1cF9uUmlWMHA0bFpJRUlVcU5HVWV2QWJBSGFlN0hXN1BtS2M0V0tuZGJ6ZF9xbHlCN0hjb3RSZXRKVm1JREpiYWZLM3A4elR0M1ZfRU8yVlVYNzFLVGplVnlPbVk1TWFBVm5R?oc=5",
-     "source": "The Crypto Times",
-     "type": "news",
-     "published": "2026-11-25T09:08:30+00:00"
-    }
-   ]
-  },
-  {
-   "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
-   "outlets": 3,
-   "topics": [
-    "DEFI"
-   ],
-   "items": [
-    {
-     "title": "UK Plans Tougher DeFi Rules Over Money-Laundering Fears After Binance Hack",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEd29vbE1WTTF1Zy1Kb2luaTN0NlVUcjNlV05qU3U1d1FManZPT3hmRzM2aFJrLVdFLXlKWFhRRExDOTdZZ2hrWFlQTzdxa1RNMklGRg?oc=5",
-     "source": "bloomingbit",
-     "type": "news",
-     "published": "2026-11-26T06:21:36+00:00"
-    },
-    {
-     "title": "UK FCA pushes for tighter DeFi rules following $6.3 billion Binance hack",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1F1Umw5ZHlNRE5vRnRPUkE4aGZST2NiS2NOMGZCMHRvNFkzNzlZeHBQZERMVmZQb21ZWmxydXVYZ0MyY29IX3M1Zy0weUMwWVNnRFlVLW15bW9DTUNIaExrWlFPNHhfUDdjTVNHM29XcGhYTDF5RzRrRTFCV0hvTEt0MDA0Zmd2UVZWcVdiamVXOFUweEUw?oc=5",
-     "source": "Crypto News",
-     "type": "news",
-     "published": "2026-11-26T06:21:00+00:00"
-    },
-    {
-     "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
-     "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "type": "news",
-     "published": "2026-11-26T05:53:08+00:00"
-    }
-   ]
-  },
-  {
-   "title": "Elon Musk Says Every American Child Will Get Two Free SpaceX Shares",
-   "outlets": 3,
    "topics": [
     "Musk"
    ],
    "items": [
     {
+     "title": "Musk says will give two SpaceX shares to 'every child in America'",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS25Od19VZjFBTzV3RnJ4VGp0OVRoQ3pmUHZVVGdQekJFeWZxOVliUVpoVWI1dWNYZlUxTTdrX0JianNNemZZX3VZZWw1bUlKdERWQ2xtS09NOXBTSF9GejVQNDh1eVdKQWxjUE1IUU5OSnBCbUxKSk1lbmZEU2lGOEZR?oc=5",
+     "source": "Yahoo Finance UK",
+     "type": "news",
+     "published": "2026-11-26T08:58:20+00:00"
+    },
+    {
+     "title": "Musk doubles pledge to two SpaceX shares for every U.S. child",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMERRdXphVTBzX0NPSW0xeVRXcnNycWlUd2luOFczZFdZR184RHFVTjJHV2N2SzIxMmppeEZ0UlF5ZnppRHZTSDRqdDlLTmlIdElVWk9LX2F3RWJ2UTNMbHU4Nk5LXzJIcVBoeEM1Z2JGa3laUS1HUDFKZmNXdGpkaHlJWFVGdw?oc=5",
+     "source": "Yahoo! Finance Canada",
+     "type": "news",
+     "published": "2026-11-26T07:24:58+00:00"
+    },
+    {
      "title": "Musk Pledges SpaceX Shares Worth $18B to Every American Child",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd184dC1MUWlXZDExTk10Yi15ZU1PbHQ2bWxaeS1GY2FEZEhhc3VkajI5cEN4d0FObFpzeEhwcXpwdEI5OWtVcEtxcUEwdXdON1BGdmxMbzAydGI0Sk5zdWFDcXptcDdPWkRWMEN4djZ0c3dlRHlHb3BWRklQaWU5YlJqbkJ1Vk9zMjI3SUpRZw?oc=5",
      "source": "Global Banking & Finance Review",
      "type": "news",
-     "published": "2026-11-26T06:20:27+00:00"
+     "published": "2026-11-26T06:20:37+00:00"
     },
     {
      "title": "Elon Musk Says Every American Child Will Get Two Free SpaceX Shares",
@@ -3172,39 +3117,96 @@
    ]
   },
   {
-   "title": "Bitcoin Price Below $60,000: Galaxy Retracts Bottom Call",
-   "outlets": 3,
+   "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+   "outlets": 4,
    "topics": [
     "Bitcoin"
    ],
    "items": [
     {
-     "title": "Galaxy walks back bitcoin\u2019s June-bottom call, warns of deeper losses below $58,525",
-     "url": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
+     "title": "US Strategic Bitcoin Reserve Bill Advances, but Can It Pass Before 2027?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEMzcGttWXM1ajVfQnhYTmdJbmlPSU81RVllVnlDeTRiREMwVHYwSFpacW9raTJZc3g4V1VMS2VjNEdFaElLMWRkd0JteVlmVnRreFlNdGdaNE55enNJQkt4QTBTV3J3d19rMGRKdnJ5aEZPM2wzdTNaSTdBRlZDNWxONWdUZkpYNGtrUkdNLVFPQWR1TVhHYtIBngFBVV95cUxOeTVFNVZuSElVRXZGZXJRU09EVDg0OW1BTE9CellVaEd5ZndodE9DT0lzZm5sY0ZmWXpzX3Fkdm53cWl0Sml6NjNuS1lXeW5XUEpJNHREYmxDZDczMXI4Z09QbXVSM25uZEFrUk9rWkNnd0RINzg2WFlLUXVCYS04RFhMTUdYcG1YVVNPWUtEcWdkLXduYVBXRlhXZlNKUQ?oc=5",
+     "source": "Coinpedia",
+     "type": "news",
+     "published": "2026-11-26T10:57:18+00:00"
+    },
+    {
+     "title": "Strategic Bitcoin Reserve Bill Reaches the House Calendar, Awaiting a Floor Vote",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWFENS1WVmNIQVctZG5fVWxVSlFIeEN4TFJxcTZNVkpBVnFfMVNheFpnS1JBVE5CVl9FTE1MTzViU0Jwd1A5NEZSX3puSjNHZ1J3NFI3Y0NDWWJaYzNGU2FLZTRIUzJ6LUt1Y0RRaVpaYVR2emNWRm9JSkJIQ2JxWVZEaGljUE1jNDY3WEwyTkM3QXNZRUY4SnNSNU5hZmlYcl9N?oc=5",
+     "source": "Yahoo Finance",
+     "type": "news",
+     "published": "2026-11-26T09:45:46+00:00"
+    },
+    {
+     "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+     "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
      "source": "The Block",
      "type": "news",
-     "published": "2026-11-26T05:16:11+00:00"
+     "published": "2026-11-26T03:03:01+00:00"
     },
     {
-     "title": "Bitcoin Price Below $60,000: Galaxy Retracts Bottom Call",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVhqd1VTRVY5MTdsS3k0d3BiblRFaDJZTVVKWHhVMjlGbW84VDZlZGQxSDY2QzdCQlBTT25KeE93SFRNUFJnNEdZa0N3WmJ1aHJiRGkwSGFNUk96Uzl1bC1NYTRVVmxvVHpzUGlMd1NseGVEYXhQQktXSUF3MXJXdmtlZ3VCYl9G?oc=5",
-     "source": "shattered.io",
+     "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+     "url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
+     "source": "Bitcoin Magazine",
      "type": "news",
-     "published": "2026-11-26T02:34:57+00:00"
+     "published": "2026-11-25T19:50:00+00:00"
+    }
+   ]
+  },
+  {
+   "title": "\u2018Don\u2019t mess with X,\u2019 Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+   "outlets": 3,
+   "topics": [
+    "Bitcoin",
+    "Musk"
+   ],
+   "items": [
+    {
+     "title": "Fidelity files for Chainlink ETF, Musk\u2019s X wins ruling in alleged bitcoin content-farm case, and more",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-11-26T05:45:00+00:00"
     },
     {
-     "title": "Bitcoin price stuck below $60,000 as Galaxy takes back bottom call, crypto bulls lose faith",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWFZhc3NwNFA1RjlYRzdWdFNLaVpNME5RSTktUDh3dkh4MjNjRUJhNUNGOHpRUWVZdlVtQWxyWnRSYUhxYUprMWc5bEM3bTFRMXRQSVUwQWdoT0FKbEs5RC1QT3RDQlRoT2wyaVZkRFV4N2E1Q01CTzVzcWpkbHdCR0p1Nnh5VE10V21sYVFCZWRILWUxa0JxVnZ0VmRjQ0dGbWRyOUZ3TnJrbmw2dW1KT250WEJocFNhcGlZOERpT244QjRXUWJvYWlPVzFGQQ?oc=5",
-     "source": "CoinDesk",
+     "title": "Musk Tells Fraudsters 'Don't Mess With X' as UK Court Enters Default Judgment in $277,000 Crypto Payout Case",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tY18tUDMwRkhiUzV0MTJkakFGQ2hSMTdyTVlJN3FYanlldi1wMXA5Rm9pRmoxSzhRWWpwa0s1anRiLTdJdWh0OXBIZkxxWWlCWGxRRTl2VzFUSmNzYWZMdGEwZTVXYXVMeUlYSUhPRFhqa1cwQXc?oc=5",
+     "source": "BigGo Finance",
      "type": "news",
-     "published": "2026-11-25T17:38:33+00:00"
+     "published": "2026-11-25T18:35:00+00:00"
+    },
+    {
+     "title": "Elon Musk\u2019s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+     "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+     "source": "Decrypt",
+     "type": "news",
+     "published": "2026-11-25T17:16:02+00:00"
+    },
+    {
+     "title": "\u2018Don\u2019t mess with X,\u2019 Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+     "url": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
+     "source": "The Block",
+     "type": "news",
+     "published": "2026-11-25T12:14:27+00:00"
     }
    ]
   }
  ],
  "events": [],
- "headlines_served": 16766,
+ "headlines_served": 16858,
  "trend_candidates": [
+  {
+   "key": "switzerland",
+   "term": "Switzerland",
+   "count": 5,
+   "sources": [
+    "Bitcoin Magazine",
+    "Cointelegraph",
+    "The Block"
+   ],
+   "baseline": 0.0,
+   "ratio": 5.0
+  },
   {
    "key": "veyra",
    "term": "Veyra",
@@ -3220,62 +3222,36 @@
    "ratio": 5.0
   },
   {
-   "key": "musk",
-   "term": "Musk",
-   "count": 5,
-   "sources": [
-    "Decrypt",
-    "MarketWatch",
-    "The Block"
-   ],
-   "baseline": 0.24,
-   "ratio": 4.04
-  },
-  {
    "key": "japan",
    "term": "Japan",
    "count": 7,
    "sources": [
     "BigGo Finance",
     "CoinDesk",
-    "Cointelegraph",
-    "The Block",
+    "CoinTrust",
+    "The Defiant",
     "Yahoo Finance",
     "\ub514\uc9c0\ud138\ud22c\ub370\uc774"
    ],
-   "baseline": 1.08,
-   "ratio": 3.36
+   "baseline": 0.73,
+   "ratio": 4.06
   },
   {
-   "key": "sbi",
-   "term": "SBI",
+   "key": "fca",
+   "term": "FCA",
    "count": 5,
    "sources": [
-    "Cointelegraph",
-    "Ledger Insights",
-    "The Block",
-    "www.tokenpost.com",
-    "\ub514\uc9c0\ud138\ud22c\ub370\uc774"
-   ],
-   "baseline": 0.62,
-   "ratio": 3.08
-  },
-  {
-   "key": "authority",
-   "term": "Authority",
-   "count": 5,
-   "sources": [
-    "CoinDesk",
+    "BigGo Finance",
     "Crypto News",
-    "MLQ.ai",
-    "The Block",
-    "bloomingbit"
+    "Finance Magnates",
+    "NewsCord",
+    "Traders Union"
    ],
-   "baseline": 1.0,
-   "ratio": 2.5
+   "baseline": 0.33,
+   "ratio": 3.77
   }
  ],
- "baseline_days": 8,
+ "baseline_days": 7,
  "sources": {
   "CoinDesk": "ok",
   "Cointelegraph": "ok",
@@ -3283,7 +3259,6 @@
   "Decrypt": "ok",
   "Bitcoin Magazine": "ok",
   "CNBC": "ok",
-  "MarketWatch": "ok",
-  "Google News: Paribu": "error: HTTP Error 429: Too Many Requests"
+  "MarketWatch": "ok"
  }
 }
